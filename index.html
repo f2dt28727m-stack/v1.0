@@ -7,10 +7,6 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9900304220798571" crossorigin="anonymous"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        :root {
-            --primary: #fab1b4;
-            --secondary: #bba8e4;
-        }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: #0a0a0a;
@@ -43,7 +39,7 @@
         .logo {
             font-size: 24px;
             font-weight: 800;
-            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            background: linear-gradient(90deg, #00d4ff, #00ff88);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             cursor: pointer;
@@ -165,70 +161,7 @@
             max-width: 100%;
         }
         
-        .settings-icon {
-            font-size: 20px;
-            cursor: pointer;
-            padding: 8px;
-        }
-        
-        .settings-modal {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: rgba(0,0,0,0.5);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 1000;
-        }
-        
-        .settings-content {
-            background: #fff;
-            border-radius: 16px;
-            padding: 20px;
-            width: 280px;
-        }
-        
-        .settings-header {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 20px;
-            font-weight: 600;
-        }
-        
-        .theme-options {
-            display: flex;
-            gap: 12px;
-        }
-        
-        .theme-option {
-            flex: 1;
-            text-align: center;
-            cursor: pointer;
-        }
-        
-        .theme-preview {
-            width: 100%;
-            height: 40px;
-            border-radius: 8px;
-            margin-bottom: 8px;
-        }
-        
-        .pink-preview {
-            background: linear-gradient(135deg, #fab1b4, #bba8e4);
-        }
-        
-        .blue-preview {
-            background: linear-gradient(135deg, #00d4ff, #00ff88);
-        }
-        
-        .sunset-preview {
-            background: linear-gradient(135deg, #ff9a9e, #fecfef);
-        }
-        
-        .cards {
+        /* Cards - 2 columns like All tab */
         .card-list {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
@@ -248,10 +181,6 @@
         .card:hover {
             border-color: #00d4ff;
             transform: translateY(-2px);
-        }
-        .card-icon {
-            font-size: 32px;
-            margin-bottom: 8px;
         }
         .card-title {
             font-size: 13px;
@@ -666,7 +595,7 @@
             font-size: 24px;
             font-weight: 800;
             margin-bottom: 10px;
-            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            background: linear-gradient(90deg, #00d4ff, #00ff88);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -831,34 +760,7 @@
             <div class="logo" onclick="goHome()">Quizmeup</div>
             <div class="slogan">One More Quiz, Know Yourself Better.</div>
         </div>
-        <div style="display: flex; gap: 12px;">
-            <div class="settings-icon" onclick="toggleSettings()">⚙️</div>
-            <div class="search-icon" onclick="openSearch()">🔍</div>
-        </div>
-    </div>
-    
-    <!-- Settings Modal -->
-    <div class="settings-modal" id="settings-modal" style="display: none;">
-        <div class="settings-content">
-            <div class="settings-header">
-                <span>Theme</span>
-                <span onclick="toggleSettings()" style="cursor: pointer;">✕</span>
-            </div>
-            <div class="theme-options">
-                <div class="theme-option" onclick="setTheme('pink')" data-theme="pink">
-                    <div class="theme-preview pink-preview"></div>
-                    <span>Pink</span>
-                </div>
-                <div class="theme-option" onclick="setTheme('blue')" data-theme="blue">
-                    <div class="theme-preview blue-preview"></div>
-                    <span>Blue</span>
-                </div>
-                <div class="theme-option" onclick="setTheme('sunset')" data-theme="sunset">
-                    <div class="theme-preview sunset-preview"></div>
-                    <span>Sunset</span>
-                </div>
-            </div>
-        </div>
+        <div class="search-icon" onclick="openSearch()">🔍</div>
     </div>
     
     <!-- Tab Nav -->
@@ -1178,36 +1080,9 @@ function renderTags() {
             renderAll();
         }
         
-        // Get emoji based on quiz title
-        function getQuizEmoji(title) {
-            const t = title.toLowerCase();
-            if (t.includes('disney') || t.includes('princess')) return '👸';
-            if (t.includes('harry potter') || t.includes('hogwarts')) return '⚡';
-            if (t.includes('marvel') || t.includes('superhero')) return '🦸';
-            if (t.includes('star wars')) return '🌌';
-            if (t.includes('anime')) return '🎌';
-            if (t.includes('mbti') || t.includes('personality')) return '🧠';
-            if (t.includes('love') || t.includes('relationship')) return '❤️';
-            if (t.includes('career') || t.includes('work')) return '💼';
-            if (t.includes('travel') || t.includes('adventure')) return '✈️';
-            if (t.includes('food') || t.includes('cooking')) return '🍕';
-            if (t.includes('music')) return '🎵';
-            if (t.includes('zodiac') || t.includes('astrology')) return '🌟';
-            if (t.includes('taylor') || t.includes('swift')) return '🎤';
-            if (t.includes('sza') || t.includes('song')) return '🎶';
-            if (t.includes('chatgpt') || t.includes('ai')) return '🤖';
-            if (t.includes('mythological') || t.includes('dragon')) return '🐉';
-            if (t.includes('magic') || t.includes('creature')) return '✨';
-            if (t.includes('animal') || t.includes('spirit')) return '🐺';
-            if (t.includes('historical') || t.includes('figure')) return '👑';
-            return '📝';
-        }
-        
         function createCard(t) {
             const count = (t.hot_count / 10000).toFixed(1);
-            const emoji = getQuizEmoji(t.title);
             return `<div class="card" onclick="goQuiz('${t.test_id}')">
-                <div class="card-icon">${emoji}</div>
                 <div class="card-title">${t.title}</div>
                 <div class="card-meta">${count}W tests</div>
             </div>`;
@@ -1266,35 +1141,6 @@ function renderTags() {
             const random = testList[Math.floor(Math.random() * testList.length)];
             goQuiz(random.test_id);
         }
-        
-        function toggleSettings() {
-            const modal = document.getElementById('settings-modal');
-            modal.style.display = modal.style.display === 'none' ? 'flex' : 'none';
-        }
-        
-        function setTheme(theme) {
-            localStorage.setItem('quizmeup_theme', theme);
-            applyTheme(theme);
-            toggleSettings();
-        }
-        
-        function applyTheme(theme) {
-            const root = document.documentElement;
-            if (theme === 'pink') {
-                root.style.setProperty('--primary', '#fab1b4');
-                root.style.setProperty('--secondary', '#bba8e4');
-            } else if (theme === 'blue') {
-                root.style.setProperty('--primary', '#00d4ff');
-                root.style.setProperty('--secondary', '#00ff88');
-            } else if (theme === 'sunset') {
-                root.style.setProperty('--primary', '#ff9a9e');
-                root.style.setProperty('--secondary', '#fecfef');
-            }
-        }
-        
-        // Load saved theme
-        const savedTheme = localStorage.getItem('quizmeup_theme') || 'pink';
-        applyTheme(savedTheme);
         
         function openSearch() {
             document.getElementById('search-bar').classList.add('active');
