@@ -1,0 +1,119 @@
+{
+  "title": "你的审美灵魂伴侣：哪种视觉风格与你的性格最匹配？",
+  "type": "match",
+  "description": "发现代表你内心世界的视觉美学风格。",
+  "questions": [
+    {
+      "text": "你理想的周末活动是什么？",
+      "options": [
+        { "text": "参观艺术博物馆和画廊", "score": { "aesthetic_art deco": 3 } },
+        { "text": "在自然中徒步和拍照", "score": { "aesthetic_earthy": 3 } },
+        { "text": "在舒适的咖啡店读书", "score": { "aesthetic_cozy": 3 } },
+        { "text": "参加音乐会或音乐节", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "选择你喜欢的配色方案：",
+      "options": [
+        { "text": "深沉的宝石色调（翡翠蓝宝石红宝石）", "score": { "aesthetic_art deco": 3 } },
+        { "text": "温暖的大地色调（陶土橄榄沙色）", "score": { "aesthetic_earthy": 3 } },
+        { "text": "柔和的粉彩色（腮红奶油鼠尾草）", "score": { "aesthetic_cozy": 3 } },
+        { "text": "强烈的对比色（黑色霓虹铬色）", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "你梦想中的家居装饰风格是什么？",
+      "options": [
+        { "text": "华丽风格配金色装饰和几何图案", "score": { "aesthetic_art deco": 3 } },
+        { "text": "乡村风格配天然材料和植物", "score": { "aesthetic_earthy": 3 } },
+        { "text": "简约温暖风格配柔软纹理", "score": { "aesthetic_cozy": 3 } },
+        { "text": "工业风格配裸露砖墙和复古单品", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "选择一个你想去的地方：",
+      "options": [
+        { "text": "1920年代的巴黎或装饰艺术迈阿密", "score": { "aesthetic_art deco": 3 } },
+        { "text": "托斯卡纳乡村或日本森林", "score": { "aesthetic_earthy": 3 } },
+        { "text": "乡村的静谧小镇", "score": { "aesthetic_cozy": 3 } },
+        { "text": "东京的霓虹街头或柏林的地下场景", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "你的时尚风格是什么？",
+      "options": [
+        { "text": "优雅剪裁配夸张珠宝", "score": { "aesthetic_art deco": 3 } },
+        { "text": "舒适的亚麻和天然面料", "score": { "aesthetic_earthy": 3 } },
+        { "text": "宽松毛衣和柔软层叠", "score": { "aesthetic_cozy": 3 } },
+        { "text": "皮夹克和独特复古单品", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "选择一种你最共鸣的感觉：",
+      "options": [
+        { "text": "精致与魅力", "score": { "aesthetic_art deco": 3 } },
+        { "text": "平静与自然连接", "score": { "aesthetic_earthy": 3 } },
+        { "text": "舒适与情感温暖", "score": { "aesthetic_cozy": 3 } },
+        { "text": "叛逆与创意表达", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "你理想的社交场合是什么？",
+      "options": [
+        { "text": "正式晚宴或私人画廊开幕", "score": { "aesthetic_art deco": 3 } },
+        { "text": "小型团体露营或农场体验", "score": { "aesthetic_earthy": 3 } },
+        { "text": "与密友的电影之夜", "score": { "aesthetic_cozy": 3 } },
+        { "text": "地下音乐会或创意工作坊", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "选择一个你喜欢的图案：",
+      "options": [
+        { "text": "几何形状与对称", "score": { "aesthetic_art deco": 3 } },
+        { "text": "有机叶片与自然图案", "score": { "aesthetic_earthy": 3 } },
+        { "text": "细腻纹理与简约线条", "score": { "aesthetic_cozy": 3 } },
+        { "text": "抽象与不对称设计", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "你的首选comfort food是什么？",
+      "options": [
+        { "text": "香槟与牡蛎", "score": { "aesthetic_art deco": 3 } },
+        { "text": "从农场到餐桌的蔬菜和谷物碗", "score": { "aesthetic_earthy": 3 } },
+        { "text": "自制汤和新鲜面包", "score": { "aesthetic_cozy": 3 } },
+        { "text": "街头小吃与实验性料理", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "选择一个你想生活的时代：",
+      "options": [
+        { "text": "咆哮的1920年代", "score": { "aesthetic_art deco": 3 } },
+        { "text": "科技之前的更简单时代", "score": { "aesthetic_earthy": 3 } },
+        { "text": "现在，但节奏更慢", "score": { "aesthetic_cozy": 3 } },
+        { "text": "未来，不远或遥远的未来", "score": { "aesthetic_edgy": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "aesthetic_art deco": {
+      "title": "装饰艺术风格",
+      "description": "你被魅力、优雅和永恒的精致所吸引。你的审美灵魂伴侣是装饰艺术风格——以几何图案、奢华材料和大胆对比为特点。你欣赏生活中美好的事物，喜欢被能够表达个性的美所包围。",
+      "image": "art-deco"
+    },
+    "aesthetic_earthy": {
+      "title": "自然大地风格",
+      "description": "你在自然和真实中找到平静。你的审美灵魂伴侣是自然大地风格——暖色调、天然材料和对大地的连接。你重视可持续性和简约，在周围的自然世界中寻找美。",
+      "image": "earthy"
+    },
+    "aesthetic_cozy": {
+      "title": "温馨简约风格",
+      "description": "舒适和温暖定义了你的风格。你的审美灵魂伴侣是温馨简约风格——柔和的纹理、柔和的色彩和感觉像温暖拥抱的空间。你重视情感舒适，创造感觉安全温馨的环境。",
+      "image": "cozy"
+    },
+    "aesthetic_edgy": {
+      "title": "前卫工业风格",
+      "description": "你按自己的节奏前进。你的审美灵魂伴侣是前卫工业风格——原始纹理、大胆对比和非传统的美。你被地下、复古和创意叛逆所吸引。",
+      "image": "edgy"
+    }
+  }
+}

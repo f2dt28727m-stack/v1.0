@@ -1,0 +1,119 @@
+{
+  "title": "Your Aesthetic Soulmate: Which Visual Style Matches Your Personality?",
+  "type": "match",
+  "description": "Discover the visual aesthetic that truly represents your inner world.",
+  "questions": [
+    {
+      "text": "What's your ideal weekend activity?",
+      "options": [
+        { "text": "Exploring art museums and galleries", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Hiking in nature and taking photos", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Reading in a cozy coffee shop", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Attending a concert or music festival", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "Pick a color palette that speaks to you:",
+      "options": [
+        { "text": "Deep jewel tones (emerald, sapphire, ruby)", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Warm earth tones (terracotta, olive, sand)", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Soft pastels (blush, cream, sage)", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Bold contrasts (black, neon, chrome)", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "What's your dream home decor style?",
+      "options": [
+        { "text": "Glamorous with gold accents and geometric patterns", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Rustic with natural materials and plants", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Minimalist and warm with soft textures", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Industrial with exposed brick and vintage finds", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "Choose a place you'd love to visit:",
+      "options": [
+        { "text": "1920s Paris or Art Deco Miami", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Tuscan countryside or Japanese forest", "score": { "aesthetic_earthy": 3 } },
+        { "text": "A quiet village in the countryside", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Tokyo's neon streets or Berlin's underground scene", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "What's your fashion style?",
+      "options": [
+        { "text": "Elegant silhouettes with statement jewelry", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Comfortable linen and natural fabrics", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Oversized sweaters and soft layers", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Leather jackets and unique vintage pieces", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "Pick a feeling you resonate with most:",
+      "options": [
+        { "text": "Sophistication and glamour", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Peace and connection to nature", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Comfort and emotional warmth", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Rebellion and creative expression", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "What's your ideal social setting?",
+      "options": [
+        { "text": "A black-tie event or exclusive gallery opening", "score": { "aesthetic_art deco": 3 } },
+        { "text": "A small group camping or farm visit", "score": { "aesthetic_earthy": 3 } },
+        { "text": "A movie night with close friends", "score": { "aesthetic_cozy": 3 } },
+        { "text": "An underground concert or creative workshop", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "Choose a pattern that appeals to you:",
+      "options": [
+        { "text": "Geometric shapes and symmetry", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Organic leaves and natural motifs", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Subtle textures and simple lines", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Abstract and asymmetrical designs", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "What's your go-to comfort food?",
+      "options": [
+        { "text": "Fancy champagne and oysters", "score": { "aesthetic_art deco": 3 } },
+        { "text": "Farm-to-table vegetables and grain bowls", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Homemade soup and fresh bread", "score": { "aesthetic_cozy": 3 } },
+        { "text": "Street food and experimental cuisine", "score": { "aesthetic_edgy": 3 } }
+      ]
+    },
+    {
+      "text": "Pick an era you'd like to live in:",
+      "options": [
+        { "text": "The roaring 1920s", "score": { "aesthetic_art deco": 3 } },
+        { "text": "A simpler time before technology", "score": { "aesthetic_earthy": 3 } },
+        { "text": "Right now, but slower", "score": { "aesthetic_cozy": 3 } },
+        { "text": "The future, near or distant", "score": { "aesthetic_edgy": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "aesthetic_art deco": {
+      "title": "Art Deco",
+      "description": "You're drawn to glamour, sophistication, and timeless elegance. Your aesthetic soulmate is Art Deco — characterized by geometric patterns, luxurious materials, and bold contrasts. You appreciate the finer things in life and love to surround yourself with beauty that makes a statement.",
+      "image": "art-deco"
+    },
+    "aesthetic_earthy": {
+      "title": "Earthy Natural",
+      "description": "You find peace in nature and authenticity. Your aesthetic soulmate is Earthy Natural — warm tones, organic materials, and a connection to the earth. You value sustainability and simplicity, finding beauty in the natural world around you.",
+      "image": "earthy"
+    },
+    "aesthetic_cozy": {
+      "title": "Cozy Minimalist",
+      "description": "Comfort and warmth define your style. Your aesthetic soulmate is Cozy Minimalist — soft textures, muted colors, and spaces that feel like a warm embrace. You prioritize emotional comfort and create environments that feel safe and inviting.",
+      "image": "cozy"
+    },
+    "aesthetic_edgy": {
+      "title": "Edgy Industrial",
+      "description": "You march to the beat of your own drum. Your aesthetic soulmate is Edgy Industrial — raw textures, bold contrasts, and unconventional beauty. You're drawn to the underground, the vintage, and the creatively rebellious.",
+      "image": "edgy"
+    }
+  }
+}
