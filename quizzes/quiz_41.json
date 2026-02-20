@@ -1,0 +1,130 @@
+{
+  "id": "quiz_41",
+  "type": "match",
+  "title": "Which Season Is Your Perfect Soulmate?",
+  "description": "Just like seasons bring different energies into our lives, discover which season represents your ideal romantic partner based on your personality and preferences.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What's your idea of a perfect date?",
+      "options": [
+        {"text": "A blooming garden walk with fresh flowers everywhere", "scores": {"spring": 3, "summer": 1}},
+        {"text": "A beach day with barbecue and water sports", "scores": {"summer": 3, "spring": 1}},
+        {"text": "A cozy coffee shop date while watching rain", "scores": {"autumn": 3, "winter": 1}},
+        {"text": "A quiet evening by the fireplace with hot chocolate", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "How do you express love?",
+      "options": [
+        {"text": "Through warm hugs and tender gestures", "scores": {"spring": 3, "summer": 1}},
+        {"text": "Through passionate declarations and exciting surprises", "scores": {"summer": 3, "spring": 1}},
+        {"text": "Through deep conversations and meaningful gifts", "scores": {"autumn": 3, "winter": 1}},
+        {"text": "Through quiet presence and unwavering loyalty", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "What attracts you most to a person?",
+      "options": [
+        {"text": "Their optimism and ability to find beauty in small things", "scores": {"spring": 3, "autumn": 1}},
+        {"text": "Their energy and zest for life", "scores": {"summer": 3, "winter": 1}},
+        {"text": "Their depth and emotional complexity", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "Their calm strength and mysterious aura", "scores": {"winter": 3, "summer": 1}}
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "What's your biggest fear in a relationship?",
+      "options": [
+        {"text": "Losing the spark and feeling emotionally numb", "scores": {"spring": 2, "summer": 2}},
+        {"text": "Being held back from experiencing life fully", "scores": {"summer": 3, "winter": 1}},
+        {"text": "Feeling emotionally drained without true connection", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "Being vulnerable and getting hurt", "scores": {"winter": 3, "summer": 1}}
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "When your partner is sad, you...",
+      "options": [
+        {"text": "Bring flowers and plan fun activities to cheer them up", "scores": {"spring": 3, "summer": 1}},
+        {"text": "Plan an exciting adventure to take their mind off things", "scores": {"summer": 3, "winter": 1}},
+        {"text": "Sit with them and listen to their feelings deeply", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "Give them space but let them know you're there", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "What's your communication style?",
+      "options": [
+        {"text": "Warm, expressive, and full of encouragement", "scores": {"spring": 3, "autumn": 1}},
+        {"text": "Bold, direct, and full of excitement", "scores": {"summer": 3, "winter": 1}},
+        {"text": "Thoughtful, reflective, and emotionally rich", "scores": {"autumn": 3, "summer": 1}},
+        {"text": "Reserved, measured, but deeply sincere", "scores": {"winter": 3, "spring": 1}}
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "What do you value most in a partner?",
+      "options": [
+        {"text": "Gentleness and the ability to appreciate simple joys", "scores": {"spring": 3, "winter": 1}},
+        {"text": "Passion and willingness to try anything once", "scores": {"summer": 3, "autumn": 1}},
+        {"text": "Emotional depth and intellectual conversations", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "Stability and profound understanding", "scores": {"winter": 3, "summer": 1}}
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "How do you handle conflict?",
+      "options": [
+        {"text": "I try to find compromise and restore harmony quickly", "scores": {"spring": 3, "autumn": 1}},
+        {"text": "I address it head-on with passion and energy", "scores": {"summer": 3, "winter": 1}},
+        {"text": "I need time to process before discussing calmly", "scores": {"autumn": 3, "summer": 1}},
+        {"text": "I stay calm and logical, avoiding emotional escalation", "scores": {"winter": 3, "spring": 1}}
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "What's your idea of romance?",
+      "options": [
+        {"text": "Surprise picnics in flower fields at sunrise", "scores": {"spring": 3, "summer": 1}},
+        {"text": "Spontaneous road trips with no destination", "scores": {"summer": 3, "winter": 1}},
+        {"text": "Slow dancing in a dimly lit room with wine", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "Whispered promises under a starry night sky", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "What kind of future do you envision?",
+      "options": [
+        {"text": "A growing family full of love and new experiences", "scores": {"spring": 3, "summer": 1}},
+        {"text": "An exciting life filled with adventures and memories", "scores": {"summer": 3, "winter": 1}},
+        {"text": "A deep partnership with meaningful connections", "scores": {"autumn": 3, "winter": 1}},
+        {"text": "A peaceful life with a soul who truly understands me", "scores": {"winter": 3, "spring": 1}}
+      ]
+    }
+  ],
+  "results": {
+    "spring": {
+      "title": "Spring",
+      "description": "Your soulmate is like spring – gentle, hopeful, and full of new beginnings. They bring warmth and freshness into your life, always reminding you of the beauty in everyday moments. Just as spring follows winter, they have a way of healing past wounds and helping you bloom into the best version of yourself. Their optimism is infectious, and their nurturing nature makes you feel safe to be vulnerable.",
+      "image": "spring"
+    },
+    "summer": {
+      "title": "Summer",
+      "description": "Your soulmate is like summer – passionate, energetic, and always ready for adventure. They bring excitement and spontaneity into your life, never letting a day go by without some fun or thrill. Their warmth is unmatched, and they love deeply with their whole heart. Like summer nights that last forever, they make every moment feel magical and memorable.",
+      "image": "summer"
+    },
+    "autumn": {
+      "title": "Autumn",
+      "description": "Your soulmate is like autumn – deep,感性, and beautifully complex. They understand the deeper meanings of life and appreciate the beauty in melancholy. Their emotional depth matches yours, and together you create a world of rich experiences and meaningful conversations. Like autumn leaves, their love is a masterpiece of warm colors and bittersweet moments.",
+      "image": "autumn"
+    },
+    "winter": {
+      "title": "Winter",
+      "description": "Your soulmate is like winter – calm, mysterious, and profoundly loyal. They may seem reserved on the surface, but their love runs deep and true. Like winter's quiet snowfall, they bring peace and stillness into your life. When they love you, it's with an intensity that melts all the cold. Their steadfast presence is your anchor in any storm.",
+      "image": "winter"
+    }
+  }
+}

@@ -1,178 +1,130 @@
 {
-  "quizId": 41,
-  "title": "你的灵魂星球是哪一颗？",
+  "id": "quiz_41",
   "type": "match",
-  "category": "match",
-  "category_name": "配对/灵魂伴侣",
-  "language": "Chinese",
-  "description": "发现宇宙中哪颗星球与你独特的个性和能量最匹配！",
-  "tags": [
-    "太空",
-    "星球",
-    "灵魂伴侣",
-    "配对",
-    "人格",
-    "宇宙",
-    "星象",
-    "Space",
-    "Planet",
-    "Soulmate"
-  ],
-  "resultTitle": "你的灵魂星球",
-  "results": {
-    "mars": {
-      "title": "火星 - 战神星球",
-      "description": "你勇敢、有野心，随时准备迎接挑战。像火星一样，你散发着能量和决心。你有竞争力，但对所爱的人极其忠诚。你的驱动力推动你前进，你从不害怕追求自己想要的东西。"
-    },
-    "venus": {
-      "title": "金星 - 爱神星球",
-      "description": "你重视和谐、美感和联系。像金星一样，你有一颗艺术灵魂，欣赏生活中美好的事物。你浪漫、善于外交，在人际关系中茁壮成长。你的温暖吸引人们靠近你。"
-    },
-    "mercury": {
-      "title": "水星 - 信使星球",
-      "description": "你好奇、反应敏捷，总是充满交流。像水星一样，你适应力强，喜欢学习新事物。你是聚会中的焦点，拥有幽默感和智慧。想法在你身上轻松流淌。"
-    },
-    "jupiter": {
-      "title": "木星 - 探险家星球",
-      "description": "你有着乐观、拓展的精神。像木星一样，你热爱冒险、旅行和新体验。你是终身学习者，始终寻求成长和智慧。你的热情感染着身边的每一个人。"
-    },
-    "saturn": {
-      "title": "土星 - 建设者星球",
-      "description": "你有纪律、有责任感，成熟超出你的年龄。像土星一样，你重视结构和长期目标。你有耐心，明白努力工作会带来持久的回报。其他人依靠你获得稳定和指导。"
-    },
-    "neptune": {
-      "title": "海王星 - 梦想家星球",
-      "description": "你拥有富有想象力和直觉的灵魂。像海王星一样，你生活在梦想和精神的世界里。你富有创造力、富有同情心，与内心深处紧密相连。艺术和音乐对你有深刻的意义。"
-    },
-    "uranus": {
-      "title": "天王星 - 叛逆者星球",
-      "description": "你 unconventional、创新、领先于时代。像天王星一样，你在变化和原创想法中茁壮成长。你不怕脱颖而出。你独特的视角挑战常规，激励他人。"
-    },
-    "moon": {
-      "title": "月亮 - 守护者",
-      "description": "你有着情感丰富、善于照顾他人的精神。像月亮一样，你直觉敏锐，与自己和他人的感受深切相连。你为周围的人创造舒适和安全。你的同理心是你最大的优点。"
-    }
-  },
+  "title": "你的灵魂伴侣是什么季节？",
+  "description": "就像季节为我们的生活带来不同的能量，发现哪种季节代表你理想的浪漫伴侣。",
   "questions": [
     {
-      "qId": 1,
+      "id": "q1",
+      "text": "你理想中的完美约会是什么？",
+      "options": [
+        {"text": "在盛开的花园里散步，四周都是鲜花", "scores": {"spring": 3, "summer": 1}},
+        {"text": "去海滩烧烤、玩水上运动", "scores": {"summer": 3, "spring": 1}},
+        {"text": "在温馨的咖啡馆里喝咖啡、看雨", "scores": {"autumn": 3, "winter": 1}},
+        {"text": "坐在壁炉旁喝热可可的安静夜晚", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "你如何表达爱意？",
+      "options": [
+        {"text": "温暖的拥抱和温柔的举动", "scores": {"spring": 3, "summer": 1}},
+        {"text": "热情的宣言和惊喜", "scores": {"summer": 3, "spring": 1}},
+        {"text": "深入的对话和有意义的礼物", "scores": {"autumn": 3, "winter": 1}},
+        {"text": "安静的存在和坚定的忠诚", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "什么最吸引你？",
+      "options": [
+        {"text": "他们的乐观和发现小事美的能力", "scores": {"spring": 3, "autumn": 1}},
+        {"text": "他们的活力和对生活的热情", "scores": {"summer": 3, "winter": 1}},
+        {"text": "他们的深度和情感的复杂性", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "他们冷静的力量和神秘的气质", "scores": {"winter": 3, "summer": 1}}
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "你在感情中最大的恐惧是什么？",
+      "options": [
+        {"text": "失去火花，感觉情感麻木", "scores": {"spring": 2, "summer": 2}},
+        {"text": "被束缚，无法充分体验生活", "scores": {"summer": 3, "winter": 1}},
+        {"text": "情感被掏空却没有真正的联系", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "变得脆弱而被伤害", "scores": {"winter": 3, "summer": 1}}
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "当你的伴侣伤心时，你会...",
+      "options": [
+        {"text": "带鲜花来，安排有趣的活动让他们开心", "scores": {"spring": 3, "summer": 1}},
+        {"text": "计划一场刺激的冒险，让他们转移注意力", "scores": {"summer": 3, "winter": 1}},
+        {"text": "陪在他们身边，倾听他们的感受", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "给他们空间，但让他们知道你一直都在", "scores": {"winter": 3, "autumn": 1}}
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "你的沟通风格是什么？",
+      "options": [
+        {"text": "温暖、表达丰富、充满鼓励", "scores": {"spring": 3, "autumn": 1}},
+        {"text": "大胆、直接、充满激情", "scores": {"summer": 3, "winter": 1}},
+        {"text": "深思熟虑、反思性强、情感丰富", "scores": {"autumn": 3, "summer": 1}},
+        {"text": "内敛、稳重、但非常真诚", "scores": {"winter": 3, "spring": 1}}
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "你在伴侣身上最看重什么？",
+      "options": [
+        {"text": "温柔和欣赏简单快乐的能力", "scores": {"spring": 3, "winter": 1}},
+        {"text": "热情愿意尝试任何事情", "scores": {"summer": 3, "autumn": 1}},
+        {"text": "情感的深度和智识的对话", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "稳定和深刻的理解", "scores": {"winter": 3, "summer": 1}}
+      ]
+    },
+    {
+      "id": "q8",
       "text": "你如何处理冲突？",
       "options": [
-        { "text": "直面它，为我所相信的而战", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "寻求和谐，尽量找到折中方案", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "用逻辑来调解并找到解决方案", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "退后一步，先处理我的情绪", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 3 } }
+        {"text": "努力找到妥协，快速恢复和谐", "scores": {"spring": 3, "autumn": 1}},
+        {"text": "直面问题，充满热情和能量", "scores": {"summer": 3, "winter": 1}},
+        {"text": "需要时间消化，然后平静地讨论", "scores": {"autumn": 3, "summer": 1}},
+        {"text": "保持冷静和理性，避免情绪升级", "scores": {"winter": 3, "spring": 1}}
       ]
     },
     {
-      "qId": 2,
-      "text": "你理想的周末是怎样的？",
+      "id": "q9",
+      "text": "你心中的浪漫是什么？",
       "options": [
-        { "text": "开始一个新项目或挑战自我", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "浪漫的晚餐或艺术活动", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
-        { "text": "学习新东西或参加讲座", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
-        { "text": "在家放松，和亲人在一起", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
+        {"text": "日出时在花田里野餐", "scores": {"spring": 3, "summer": 1}},
+        {"text": "说走就走的公路旅行，没有目的地", "scores": {"summer": 3, "winter": 1}},
+        {"text": "在昏暗的房间里慢慢跳舞，喝着红酒", "scores": {"autumn": 3, "spring": 1}},
+        {"text": "在星空下低语承诺", "scores": {"winter": 3, "autumn": 1}}
       ]
     },
     {
-      "qId": 3,
-      "text": "什么最能激励你？",
+      "id": "q10",
+      "text": "你想象什么样的未来？",
       "options": [
-        { "text": "成就和胜利", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "爱和联系", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "知识和交流", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
-        { "text": "成长和新体验", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 3, "saturn": 1, "neptune": 2, "uranus": 2, "moon": 0 } }
-      ]
-    },
-    {
-      "qId": 4,
-      "text": "你如何做决定？",
-      "options": [
-        { "text": "快速，凭直觉", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 1 } },
-        { "text": "用心，考虑感受", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "仔细分析后做决定", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 1, "saturn": 3, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "相信我的直觉和梦想", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 2 } }
-      ]
-    },
-    {
-      "qId": 5,
-      "text": "你在人生中最看重什么？",
-      "options": [
-        { "text": "独立和自由", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 3, "moon": 0 } },
-        { "text": "美和愉悦", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
-        { "text": "智慧和纪律", "score": { "mars": 1, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 3, "neptune": 1, "uranus": 1, "moon": 0 } },
-        { "text": "情感和精神联系", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } }
-      ]
-    },
-    {
-      "qId": 6,
-      "text": "别人如何描述你？",
-      "options": [
-        { "text": "勇敢、热情、坚定", "score": { "mars": 3, "venus": 0, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "迷人、浪漫、有艺术气质", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
-        { "text": "聪明、好奇、机智", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "直觉强、梦幻、富有同情心", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 0, "moon": 2 } }
-      ]
-    },
-    {
-      "qId": 7,
-      "text": "你喜欢什么配色？",
-      "options": [
-        { "text": "大胆的红色和火热的橙色", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "柔和的粉色和浪漫的蓝色", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 0, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "明亮的黄色和电光蓝", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
-        { "text": "深紫色和神秘的银色", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 2, "neptune": 3, "uranus": 1, "moon": 1 } }
-      ]
-    },
-    {
-      "qId": 8,
-      "text": "你对待规则的态度？",
-      "options": [
-        { "text": "挑战它们，走自己的路", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
-        { "text": "欣赏传统和结构", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 1, "saturn": 3, "neptune": 1, "uranus": 0, "moon": 1 } },
-        { "text": "调整它们以适应我的风格", "score": { "mars": 2, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "跟随情感上感觉正确的东西", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } }
-      ]
-    },
-    {
-      "qId": 9,
-      "text": "什么吸引你靠近一个人？",
-      "options": [
-        { "text": "他们的野心和动力", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "他们的善良和温暖", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "他们的智慧和想法", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "他们的深度和情感联系", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 2 } }
-      ]
-    },
-    {
-      "qId": 10,
-      "text": "你如何面对失败？",
-      "options": [
-        { "text": "变得更强大、更有决心归来", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "专注于自我照顾和情感治愈", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } },
-        { "text": "分析问题所在并学习", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "把它视为精神旅程中的一课", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 1 } }
-      ]
-    },
-    {
-      "qId": 11,
-      "text": "你理想假期是？",
-      "options": [
-        { "text": "冒险远征", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "去巴黎浪漫 getaway", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "历史文化之旅", "score": { "mars": 1, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 2, "neptune": 1, "uranus": 0, "moon": 0 } },
-        { "text": "在自然中静修", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
-      ]
-    },
-    {
-      "qId": 12,
-      "text": "你在团队中扮演什么角色？",
-      "options": [
-        { "text": "掌控局面的领导者", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "维持和平的调解者", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 1, "uranus": 0, "moon": 2 } },
-        { "text": "连接大家的沟通者", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "用愿景激励他人的梦想家", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 1 } }
+        {"text": "一个充满爱和新体验的成长中的家庭", "scores": {"spring": 3, "summer": 1}},
+        {"text": "充满冒险和回忆的精彩生活", "scores": {"summer": 3, "winter": 1}},
+        {"text": "有深度伙伴关系和有意义联系的未来", "scores": {"autumn": 3, "winter": 1}},
+        {"text": "与真正懂你的人平静地生活", "scores": {"winter": 3, "spring": 1}}
       ]
     }
-  ]
+  ],
+  "results": {
+    "spring": {
+      "title": "春天",
+      "description": "你的灵魂伴侣就像春天——温柔、充满希望、代表着新的开始。他们为你的生活带来温暖和新鲜感，总能提醒你日常生活中那些细微的美好。就像春天会驱散冬日的寒冷，他们有办法治愈过去的创伤，帮助你绽放成最好的自己。他们的乐观具有感染力， nurturing 的本性让你感到可以放心地展现脆弱的一面。",
+      "image": "spring"
+    },
+    "summer": {
+      "title": "夏天",
+      "description": "你的灵魂伴侣就像夏天——热情、充满能量、永远准备好冒险。他们为你的生活带来刺激和 spontaneity，从不让任何一天缺少乐趣或惊喜。他们的热情无与伦比，用全心全意去爱。就像夏夜永恒绵长，他们让每一个瞬间都变得神奇而难忘。",
+      "image": "summer"
+    },
+    "autumn": {
+      "title": "秋天",
+      "description": "你的灵魂伴侣就像秋天——深沉、感性、美丽而复杂。他们理解生命的更深层含义，懂得欣赏忧郁中的美。他们和你有着同样的情感深度，一起创造一个充满丰富经历和有意义对话的世界。就像秋天的落叶，他们的爱是一幅温暖的色彩和 bittersweet 时刻的杰作。",
+      "image": "autumn"
+    },
+    "winter": {
+      "title": "冬天",
+      "description": "你的灵魂伴侣就像冬天——冷静、神秘、忠贞不渝。他们表面上可能看起来内敛，但他们的爱深沉而真挚。就像冬天的静静飘雪，他们为你的生活带来平静与安宁。当他们爱你时，那热度足以融化所有的寒冷。他们坚定不移的存在是你在任何风暴中的锚点。",
+      "image": "winter"
+    }
+  }
 }
