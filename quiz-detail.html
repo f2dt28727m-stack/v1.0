@@ -352,13 +352,15 @@ loadQuizData();
 
 function showAboutModal() { document.getElementById('about-modal').style.display = 'flex'; }
 function closeAboutModal() { document.getElementById('about-modal').style.display = 'none'; }
+function showPrivacyModal() { document.getElementById('privacy-modal').style.display = 'flex'; }
+function closePrivacyModal() { document.getElementById('privacy-modal').style.display = 'none'; }
 </script>
 
 <!-- Footer -->
 <footer class="footer">
     <div class="footer-content">
         <div class="footer-links">
-            <span onclick="showAboutModal()">About Us</span>｜<span onclick="showAboutModal()">Contact Us</span>｜<span>Privacy Policy</span>
+            <span onclick="showAboutModal()">About Us</span>｜<span onclick="showAboutModal()">Contact Us</span>｜<span onclick="showPrivacyModal()">Privacy Policy</span>
         </div>
         © 2026 QuizFig, All Rights Reserved
     </div>
@@ -369,6 +371,23 @@ function closeAboutModal() { document.getElementById('about-modal').style.displa
     <div class="about-content">
         <div class="about-header"><span>About Us</span><span onclick="closeAboutModal()" style="cursor:pointer;">✕</span></div>
         <div class="about-body"><h2>Welcome to QuizFig!</h2><p>Discover yourself through fun and engaging personality quizzes. Know yourself better with every test!</p></div>
+    </div>
+</div>
+
+<!-- Privacy Modal -->
+<div class="about-modal" id="privacy-modal" style="display: none;">
+    <div class="about-content" style="width:360px;">
+        <div class="about-header"><span>Privacy Policy</span><span onclick="closePrivacyModal()" style="cursor:pointer;">✕</span></div>
+        <div class="about-body" style="font-size:12px;line-height:1.6;">
+            <p style="color:#888;margin-bottom:12px;">Last updated: 2026-02-20</p>
+            <p style="margin-bottom:10px;"><strong>1. Introduction</strong><br>This Privacy Policy explains how QuizFig handles information.</p>
+            <p style="margin-bottom:10px;"><strong>2. Information We Do NOT Collect</strong><br>QuizFig does NOT collect any personal data.</p>
+            <p style="margin-bottom:10px;"><strong>3. How We Use Information</strong><br>Since we collect no personal data, we do not use user data.</p>
+            <p style="margin-bottom:10px;"><strong>4. Third-Party Services</strong><br>All quizzes run locally in your browser.</p>
+            <p style="margin-bottom:10px;"><strong>5. Children's Privacy</strong><br>We do not knowingly collect information from children.</p>
+            <p style="margin-bottom:10px;"><strong>6. Changes to This Policy</strong><br>We may update this policy occasionally.</p>
+            <p><strong>7. Contact</strong><br>Contact us at: bebeju@qq.com</p>
+        </div>
     </div>
 </div>
 </body>
