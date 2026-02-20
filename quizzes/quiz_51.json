@@ -1,0 +1,151 @@
+{
+  "quizId": 51,
+  "title": "Which Plant Mom Energy Are You?",
+  "category": "which_x",
+  "category_name": "Which X Are You?",
+  "language": "English",
+  "description": "Are you a chill succulent mom or a chaotic tropical plant lady? Find out your true plant parent personality!",
+  "tags": [
+    "Personality",
+    "Plants",
+    "Lifestyle",
+    "Fun",
+    "Plant Mom",
+    "Green Thumb"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How often do you water your plants?",
+      "options": [
+        {"optionId": "A", "text": "Every day - I'm obsessed!", "score": {"chaotic": 3, " nurturing": 2}},
+        {"optionId": "B", "text": "Once a week - routine is key", "score": {"balanced": 3, "practical": 2}},
+        {"optionId": "C", "text": "When I remember - they're fine", "score": {"chill": 3, "free_spirit": 2}},
+        {"optionId": "D", "text": "I don't have plants... yet", "score": {"beginner": 3, "dreamer": 2}}
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "A plant starts turning yellow. You:",
+      "options": [
+        {"optionId": "A", "text": "Google every possible solution immediately", "score": {"worrier": 3, "dedicated": 2}},
+        {"optionId": "B", "text": "Move it to a different spot and hope for the best", "score": {"chill": 3, "optimist": 2}},
+        {"optionId": "C", "text": "Take it as a sign to buy more plants", "score": {"chaotic": 3, "shopper": 2}},
+        {"optionId": "D", "text": "Accept defeat and get a new one", "score": {"realist": 3, "practical": 2}}
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your ideal plant shopping spree is:",
+      "options": [
+        {"optionId": "A", "text": "The local nursery - supporting small business!", "score": {"supportive": 3, "traditional": 2}},
+        {"optionId": "B", "text": "IKEA or big box store - efficiency matters", "score": {"practical": 3, "efficient": 2}},
+        {"optionId": "C", "text": "Online shopping at 2am from my bed", "score": {"chaotic": 3, "online_addict": 2}},
+        {"optionId": "D", "text": "Free plants from friends - adoption > shopping", "score": {"sustainable": 3, "frugal": 2}}
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How many plants do you own?",
+      "options": [
+        {"optionId": "A", "text": "1-5 - a modest collection", "score": {"minimalist": 3, "balanced": 2}},
+        {"optionId": "B", "text": "6-15 - I'm getting serious", "score": {"enthusiast": 3, "growing": 2}},
+        {"optionId": "C", "text": "16-30 - it's a small jungle", "score": {"collector": 3, "passionate": 2}},
+        {"optionId": "D", "text": "30+ - my landlord is concerned", "score": {"chaotic": 3, "obsessed": 2}}
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your plant care philosophy:",
+      "options": [
+        {"optionId": "A", "text": "Love and attention fix everything", "score": {"nurturing": 3, "optimist": 2}},
+        {"optionId": "B", "text": "Plants are resilient - nature knows best", "score": {"chill": 3, "natural": 2}},
+        {"optionId": "C", "text": "If it dies, I'll get another one", "score": {"realist": 3, "practical": 2}},
+        {"optionId": "D", "text": "I need a schedule and system", "score": {"organized": 3, "planner": 2}}
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When traveling, you:",
+      "options": [
+        {"optionId": "A", "text": "Assign a plant sitter with detailed instructions", "score": {"worrier": 3, "organized": 2}},
+        {"optionId": "B", "text": "Hope they'll survive on their own", "score": {"chill": 3, "free_spirit": 2}},
+        {"optionId": "C", "text": "Bring a few with me like my children", "score": {"nurturing": 3, "attached": 2}},
+        {"optionId": "D", "text": "Consider it a fresh start for new plants", "score": {"chaotic": 3, "rebirth": 2}}
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What's your take on plant Instagram accounts?",
+      "options": [
+        {"optionId": "A", "text": "I'm definitely one of them - follow me!", "score": {"influencer": 3, "sharing": 2}},
+        {"optionId": "B", "text": "I lurk and save ideas for later", "score": {"dreamer": 3, "observer": 2}},
+        {"optionId": "C", "text": "That's just showing off", "score": {"realist": 3, "skeptical": 2}},
+        {"optionId": "D", "text": "Inspiration for my future jungle!", "score": {"aspirational": 3, "optimist": 2}}
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Pick a plant aesthetic:",
+      "options": [
+        {"optionId": "A", "text": "Lush monstera-filled jungle", "score": {"collector": 3, "tropical": 2}},
+        {"optionId": "B", "text": "Minimalist snake plants and succulents", "score": {"minimalist": 3, "modern": 2}},
+        {"optionId": "C", "text": "Hanging plants everywhere - boho vibes", "score": {"boho": 3, "creative": 2}},
+        {"optionId": "D", "text": "Edible garden - pretty and practical", "score": {"practical": 3, "sustainable": 2}}
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When someone compliments your plants, you:",
+      "options": [
+        {"optionId": "A", "text": "Give them a cutting immediately", "score": {"generous": 3, "sharing": 2}},
+        {"optionId": "B", "text": "Secretly feel superior", "score": {"proud": 3, "accomplished": 2}},
+        {"optionId": "C", "text": "Tell them where you got it - paying it forward", "score": {"supportive": 3, "helpful": 2}},
+        {"optionId": "D", "text": "Say thanks but downplay your skills", "score": {"humble": 3, "modest": 2}}
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Your plant nightmare scenario:",
+      "options": [
+        {"optionId": "A", "text": "Bringing home a pest infestation", "score": {"worrier": 3, "fearful": 2}},
+        {"optionId": "B", "text": "Running out of pots for new plants", "score": {"collector": 3, "obsessed": 2}},
+        {"optionId": "C", "text": "Killing a plant I really loved", "score": {"sensitive": 3, "emotional": 2}},
+        {"optionId": "D", "text": "My cat eating all my plants", "score": {"chaotic": 3, "tragedy": 2}}
+      ]
+    }
+  ],
+  "results": {
+    "chill": {
+      "title": "The Chill Plant Mom",
+      "description": "You take a laid-back approach to plant parenting. Your plants thrive on good vibes and occasional neglect. You're the friend who says 'plants just need love' and somehow has the most resilient pothos.",
+      "emoji": "🌿"
+    },
+    "chaotic": {
+      "title": "The Chaotic Plant Lady",
+      "description": "Your plant collection is growing faster than you can count. You have too many plants and not enough windows. You water things when you remember and yet somehow... they keep multiplying. Living for the plant train.",
+      "emoji": "🌱"
+    },
+    "nurturing": {
+      "title": "The Nurturing Plant Mom",
+      "description": "You treat your plants like your children. Each one has a name, a story, and a personalized care routine. Your plants are thriving because they have the most devoted parent in the world.",
+      "emoji": "🪴"
+    },
+    "minimalist": {
+      "title": "The Minimalist Plant Parent",
+      "description": "Less is more for you. A few well-chosen plants in chic containers bring you more joy than a jungle. You value quality over quantity and know exactly what works in your space.",
+      "emoji": "🪷"
+    },
+    "practical": {
+      "title": "The Practical Plant Parent",
+      "description": "You do your research, follow the rules, and keep things simple. Snake plants and ZZ plants are your best friends. Low maintenance is the way to go, and your black thumb is officially green.",
+      "emoji": "🌵"
+    },
+    "dreamer": {
+      "title": "The Aspiring Plant Dreamer",
+      "description": "You don't have plants yet, but oh, you want them. Your Pinterest is 90% plant inspo and you've already named your future monstera. One day, you'll have your dream jungle.",
+      "emoji": "🌻"
+    }
+  },
+  "resultCalculation": "highest_score"
+}
