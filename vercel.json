@@ -47,6 +47,10 @@
     {
       "src": "config.json",
       "use": "@vercel/static"
+    },
+    {
+      "src": "quizzes.json",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
