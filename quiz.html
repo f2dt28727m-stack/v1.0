@@ -418,20 +418,6 @@ async function submitAnswers() {
         throw error;
     }
 }
-            },
-            percentages: {
-                extrovert_introvert: Math.round((dimensionScores.E / (dimensionScores.E + dimensionScores.I || 1)) * 100),
-                sensing_intuition: Math.round((dimensionScores.S / (dimensionScores.S + dimensionScores.N || 1)) * 100),
-                thinking_feeling: Math.round((dimensionScores.T / (dimensionScores.T + dimensionScores.F || 1)) * 100),
-                judging_perceiving: Math.round((dimensionScores.J / (dimensionScores.J + dimensionScores.P || 1)) * 100)
-            }
-        };
-        
-    } catch (error) {
-        console.error('Error submitting answers:', error);
-        throw error;
-    }
-}
 
 function rnd(min,max){return Math.floor(Math.random()*(max-min+1))+min}
 function goHome(){window.location.href='index.html';}
