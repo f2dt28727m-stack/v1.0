@@ -1,0 +1,577 @@
+{
+  "quizId": 52,
+  "title": "Your Life in 2035: What's Your Future Story?",
+  "category": "future",
+  "category_name": "Future / Destiny",
+  "language": "English",
+  "description": "Step into the future! Answer 12 questions to discover what your life looks like in 2035 and what destiny has in store for you.",
+  "tags": [
+    "Future",
+    "Destiny",
+    "Life",
+    "Vision",
+    "命运",
+    "未来"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "It's 2035. You wake up in your ideal home. Where is it?",
+      "options": [
+        {
+          "text": "A cozy apartment in a bustling megacity",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 2
+          }
+        },
+        {
+          "text": "A peaceful house in the countryside",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "A modern home in a quiet suburban neighborhood",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "A floating home or houseboat, traveling between places",
+          "score": {
+            "future_city": 1,
+            "future_nature": 2,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your typical morning routine in 2035?",
+      "options": [
+        {
+          "text": "Early workout, healthy breakfast, then work from home",
+          "score": {
+            "future_city": 1,
+            "future_nature": 2,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Quick coffee, then head to a vibrant co-working space",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Meditate in nature, enjoy a slow breakfast",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Check emails from different time zones while traveling",
+          "score": {
+            "future_city": 1,
+            "future_nature": 0,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "What does your career look like in 2035?",
+      "options": [
+        {
+          "text": "Leading innovative projects at a tech company",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Running my own sustainable business or farm",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Working remotely for multiple international clients",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 2,
+            "future_travel": 2
+          }
+        },
+        {
+          "text": "Consulting or speaking, traveling to share knowledge",
+          "score": {
+            "future_city": 2,
+            "future_nature": 0,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How do you spend your weekends in 2035?",
+      "options": [
+        {
+          "text": "Exploring new restaurants, art galleries, and city events",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Hiking, gardening, or tending to my green space",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Family gatherings and neighborhood activities",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Taking short trips to nearby cities or countries",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "What technology plays the biggest role in your 2035 life?",
+      "options": [
+        {
+          "text": "AI assistants and smart home systems",
+          "score": {
+            "future_city": 3,
+            "future_nature": 1,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Sustainable tech and eco-monitoring devices",
+          "score": {
+            "future_city": 1,
+            "future_nature": 3,
+            "future_suburb": 1,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "VR/AR for work and entertainment",
+          "score": {
+            "future_city": 2,
+            "future_nature": 0,
+            "future_suburb": 2,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Personal drone delivery and autonomous vehicles",
+          "score": {
+            "future_city": 2,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Your social life in 2035 looks like...",
+      "options": [
+        {
+          "text": "Large network of professional contacts and friends",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Small close-knit circle of lifelong friends",
+          "score": {
+            "future_city": 0,
+            "future_nature": 2,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Mix of online communities and local meetups",
+          "score": {
+            "future_city": 2,
+            "future_nature": 1,
+            "future_suburb": 2,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Friends scattered across the globe, digital connections",
+          "score": {
+            "future_city": 1,
+            "future_nature": 0,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What's your approach to health and wellness in 2035?",
+      "options": [
+        {
+          "text": "High-tech fitness tracking and biohacking",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Organic living, clean eating, natural wellness",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Balanced routine with regular checkups and moderate exercise",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Adventure sports and active travel to stay fit",
+          "score": {
+            "future_city": 1,
+            "future_nature": 2,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "What do you value most in your 2035 life?",
+      "options": [
+        {
+          "text": "Success, recognition, and professional achievement",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Peace, tranquility, and harmony with nature",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Family, community, and lasting relationships",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Freedom, adventure, and new experiences",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How do you typically travel in 2035?",
+      "options": [
+        {
+          "text": "Hyperloop or high-speed rail between cities",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 2
+          }
+        },
+        {
+          "text": "Electric self-driving cars for scenic routes",
+          "score": {
+            "future_city": 1,
+            "future_nature": 2,
+            "future_suburb": 2,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Sustainable bicycles and walking in my neighborhood",
+          "score": {
+            "future_city": 0,
+            "future_nature": 2,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Private planes or luxury travel packages",
+          "score": {
+            "future_city": 2,
+            "future_nature": 0,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "What's your biggest accomplishment by 2035?",
+      "options": [
+        {
+          "text": "Built a successful company or reached C-suite",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Created a sustainable sanctuary or farm",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Raised a happy family and built a loving home",
+          "score": {
+            "future_city": 0,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Explored the world and documented my adventures",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How do you stay informed about the world in 2035?",
+      "options": [
+        {
+          "text": "Real-time news apps and social media trends",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Documentaries and nature publications",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Community newsletters and local news",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "International podcasts and global news networks",
+          "score": {
+            "future_city": 2,
+            "future_nature": 0,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Looking back at your 2035 life, you feel...",
+      "options": [
+        {
+          "text": "Proud of my achievements and impact",
+          "score": {
+            "future_city": 3,
+            "future_nature": 0,
+            "future_suburb": 1,
+            "future_travel": 1
+          }
+        },
+        {
+          "text": "Grateful for peace and fulfillment",
+          "score": {
+            "future_city": 0,
+            "future_nature": 3,
+            "future_suburb": 2,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Content with a balanced and happy life",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 3,
+            "future_travel": 0
+          }
+        },
+        {
+          "text": "Excited for all the adventures yet to come",
+          "score": {
+            "future_city": 1,
+            "future_nature": 1,
+            "future_suburb": 0,
+            "future_travel": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "type": "future_city",
+      "title": "The Urban Visionary",
+      "description": "In 2035, you're living your best life in the heart of a thriving megacity! You've embraced the fast-paced urban lifestyle and become a leader in your field. Your days are filled with innovative projects, networking events, and the electric energy of city life. You've built a powerful professional network and made a name for yourself as someone who shapes the future. Your ambition drives you to constantly push boundaries and achieve new heights of success.",
+      "traits": [
+        "Ambitious",
+        "Innovative",
+        "Connected",
+        "Driven"
+      ],
+      "tip": "Remember to occasionally slow down and enjoy the moment—success is sweeter when you savor it!"
+    },
+    {
+      "type": "future_nature",
+      "title": "The Nature Harmony",
+      "description": "In 2035, you've found your paradise in harmony with nature! Whether it's a sustainable farm, a forest retreat, or an eco-friendly sanctuary, you've created a life that aligns with the earth. Your days are filled with the simple pleasures of growing your own food, tending to your garden, and breathing fresh air. You've prioritized sustainability and wellness, becoming an inspiration to others who dream of a more organic lifestyle. Your peace comes from living in tune with nature.",
+      "traits": [
+        "Peaceful",
+        "Sustainable",
+        "Grounded",
+        "Harmonious"
+      ],
+      "tip": "Stay connected with the world beyond nature—your wisdom can inspire positive change everywhere!"
+    },
+    {
+      "type": "future_suburb",
+      "title": "The Family Anchor",
+      "description": "In 2035, you've built the perfect suburban life! With a beautiful home in a friendly neighborhood, you've created a warm and loving environment for your family. Your life revolves around community activities, family gatherings, and meaningful relationships. You've found the perfect balance between work and personal life, with a focus on creating lasting memories. Your home is always open to friends and loved ones, making you the heart of your community.",
+      "traits": [
+        "Loving",
+        "Stable",
+        "Community-minded",
+        "Nurturing"
+      ],
+      "tip": "Don't forget to chase some personal dreams too—your family will cheer you on!"
+    },
+    {
+      "type": "future_travel",
+      "title": "The Global Adventurer",
+      "description": "In 2035, the world is your home! You've embraced a life of constant movement, traveling between countries and experiencing diverse cultures. Your passport is well-stamped, and your stories are legendary. Whether you're working remotely from exotic locations or pursuing adventure tourism, you've rejected the traditional 9-to-5 lifestyle in favor of freedom and exploration. You've met incredible people from all walks of life and have stories that captivate everyone you meet.",
+      "traits": [
+        "Free-spirited",
+        "Adventurous",
+        "Curious",
+        "Adaptable"
+      ],
+      "tip": "Don't forget to create a home base—every adventurer needs a place to return to!"
+    }
+  ],
+  "scoringRules": {
+    "dimensionCalculation": "Sum scores for each future type, highest score determines the result",
+    "tiebreakerRule": "If tied, choose the type that appears more consistently across answers",
+    "percentageDisplay": "Show percentage for each future type (e.g., City: 45% | Nature: 25% | Suburb: 20% | Travel: 10%)"
+  }
+}
