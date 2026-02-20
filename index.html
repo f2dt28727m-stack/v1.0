@@ -576,16 +576,21 @@
             z-index: 1000;
         }
         .welcome-content {
-            width: 90%;
-            max-width: 600px;
-            padding: 30px;
+            width: 100%;
+            height: 100%;
+            max-width: 100%;
+            max-height: 100%;
+            padding: 20px;
             background: #141414;
-            border-radius: 20px;
-            border: 1px solid #333;
+            border-radius: 0;
+            border: none;
+            display: flex;
+            flex-direction: column;
         }
         .welcome-header {
             text-align: center;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
+            flex-shrink: 0;
         }
         .welcome-header h1 {
             font-size: 24px;
@@ -600,12 +605,18 @@
             color: #888;
         }
         .welcome-filter-panel {
-            margin-bottom: 30px;
+            flex: 1;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            padding: 0 10px;
         }
         .welcome-actions {
             display: flex;
             gap: 15px;
             justify-content: center;
+            margin-top: auto;
+            flex-shrink: 0;
+            padding-top: 20px;
         }
         .welcome-btn {
             padding: 12px 30px;
@@ -652,11 +663,19 @@
                 font-size: 14px;
             }
             
-
+            .welcome-filter-panel {
+                flex: 1;
+                overflow-y: auto;
+                margin-bottom: 20px;
+                padding: 0 10px;
+            }
             
             .welcome-actions {
                 flex-direction: column;
                 align-items: center;
+                margin-top: auto;
+                flex-shrink: 0;
+                padding-top: 20px;
             }
             
             .welcome-btn {
@@ -697,7 +716,18 @@
                 font-size: 13px;
             }
             
-
+            .welcome-filter-panel {
+                flex: 1;
+                overflow-y: auto;
+                margin-bottom: 16px;
+                padding: 0 8px;
+            }
+            
+            .welcome-actions {
+                margin-top: auto;
+                flex-shrink: 0;
+                padding-top: 16px;
+            }
             
             .welcome-btn {
                 padding: 10px 24px;
