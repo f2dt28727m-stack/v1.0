@@ -29,11 +29,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .result-name{font-size:32px;font-weight:700;color:#00d4ff;margin-bottom:16px}
 .result-desc{font-size:16px;color:#aaa;line-height:1.6;margin-bottom:30px}
 .match-list{display:flex;flex-direction:column;gap:12px;margin-bottom:30px}
-.match-item{display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.05);padding:12px 16px;border-radius:12px}
-.match-bar{flex:1;height:8px;background:#333;border-radius:4px;overflow:hidden}
-.match-fill{height:100%;background:linear-gradient(90deg,#00d4ff,#00ff88);border-radius:4px}
-.m-name{width:80px;text-align:left;font-weight:500}
-.m-pct{width:40px;text-align:right;color:#00d4ff;font-weight:600}
+.match-item{display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.05);padding:16px;border-radius:12px;margin-bottom:8px}
+.match-bar{flex:1;height:8px;background:#333;border-radius:4px;position:relative}
+.match-fill{height:100%;background:linear-gradient(90deg,#00d4ff,#00ff88);border-radius:4px;position:absolute;top:0}
+.m-name{width:70px;text-align:left;font-weight:500;font-size:13px}
+.m-pct{width:70px;text-align:right;font-weight:500;font-size:13px}
+.dim-label{text-align:center;font-size:11px;color:#666;margin-top:4px}
 .share-btns{display:flex;gap:12px;justify-content:center;margin-top:20px}
 .vote-btns{display:flex;justify-content:center;gap:40px;margin-top:20px}
 .vote-btn{display:flex;flex-direction:column;align-items:center;gap:6px;background:none;border:none;cursor:pointer;color:#666;font-size:14px}
@@ -473,17 +474,21 @@ async function showR(){
             typeName = "";
         }
         
-        // Format percentages for display
-        const displayPercentages = [
-            { name: percentages.extrovert_introvert > 50 ? 'Extrovert' : 'Introvert', p: percentages.extrovert_introvert },
-            { name: percentages.sensing_intuition > 50 ? 'Sensing' : 'Intuition', p: percentages.sensing_intuition },
-            { name: percentages.thinking_feeling > 50 ? 'Thinking' : 'Feeling', p: percentages.thinking_feeling },
-            { name: percentages.judging_perceiving > 50 ? 'Judging' : 'Perceiving', p: percentages.judging_perceiving }
+        // Format percentages for display - show both ends with lean
+        const dims = [
+            { left: 'Extrovert', right: 'Introvert', p: percentages.extrovert_introvert },
+            { left: 'Sensing', right: 'Intuition', p: percentages.sensing_intuition },
+            { left: 'Thinking', right: 'Feeling', p: percentages.thinking_feeling },
+            { left: 'Judging', right: 'Perceiving', p: percentages.judging_perceiving }
         ];
         
         document.getElementById('app').innerHTML=`
         <div class="result-card"><div class="result-title">Your result is</div><div class="result-name">${characterName}<br><span style="font-size: 18px; opacity: 0.8;">(${typeName})</span></div><div class="result-desc">${result.description}</div>
-        <div class="match-list">${displayPercentages.map(x=>`<div class="match-item"><div class="m-name">${x.name}</div><div class="match-bar"><div class="match-fill" style="width:${x.p}%"></div></div><div class="m-pct">${x.p}%</div></div>`).join('')}</div>
+        <div class="match-list">${dims.map(d => {
+            const fillPct = Math.abs(d.p - 50) * 2; // 0-100 based on how far from center
+            const isLeft = d.p >= 50;
+            return `<div class="dim-item"><div style="display:flex;justify-content:space-between;font-size:13px;margin-bottom:4px;"><span>${d.left}</span><span>${d.right}</span></div><div class="match-bar"><div class="match-fill" style="width:${fillPct}%;${isLeft ? 'left:0' : 'right:0'}"></div></div></div>`;
+        }).join('')}</div>
         <div class="share-btns"><button class="share-btn primary" onclick="shareR()">📤 Share</button><button class="share-btn secondary" onclick="goBack()">🔄 Try Again</button><button class="share-btn secondary" onclick="goRandom()">🎲 Random</button></div>
         </div>`;
     } catch (error) {
