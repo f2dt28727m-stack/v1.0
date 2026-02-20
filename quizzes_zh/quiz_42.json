@@ -1,0 +1,652 @@
+{
+  "quizId": 42,
+  "title": "10年后的你，会过什么样的生活？",
+  "category": "destiny",
+  "category_name": "命运型",
+  "language": "Chinese",
+  "description": "想象一下10年后的生活！根据你的性格、选择和愿望，发现你的未来是什么样子。",
+  "tags": [
+    "未来",
+    "人生",
+    "命运",
+    "事业",
+    "家庭",
+    "冒险",
+    "Future",
+    "Life"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你理想的一天是如何开始的？",
+      "options": [
+        {
+          "text": "早起锻炼，规划一天的任务",
+          "score": {
+            "career": 2,
+            "family": 0,
+            "free": 0,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "睡个懒觉，轻松度过",
+          "score": {
+            "career": 0,
+            "family": 1,
+            "free": 2,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "和家人一起吃早餐",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "投入到热爱的事业中",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "当你想到成功时，你首先想到的是...",
+      "options": [
+        {
+          "text": "在职场上达到顶峰",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "拥有幸福的家庭和亲密的关系",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "按照自己的方式生活",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 2
+          }
+        },
+        {
+          "text": "通过工作产生有意义的影响",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 2,
+            "balanced": 1,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你对待风险的态度是？",
+      "options": [
+        {
+          "text": "仔细计算后再行动",
+          "score": {
+            "career": 2,
+            "family": 1,
+            "free": 0,
+            "creative": 1,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "为了安全起见，选择保守路线",
+          "score": {
+            "career": 1,
+            "family": 2,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "拥抱风险，追求自由和体验",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 2,
+            "creative": 1,
+            "balanced": 0,
+            "adventure": 3
+          }
+        },
+        {
+          "text": "敢于冒险去创新",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "10年后你希望自己住在什么地方？",
+      "options": [
+        {
+          "text": "繁华的大城市，靠近机会",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 1,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "安静的郊区房子",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "四处旅居，生活在不同地方",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 1,
+            "balanced": 0,
+            "adventure": 3
+          }
+        },
+        {
+          "text": "创意社区或艺术家聚居地",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "工作中对你来说最重要的是什么？",
+      "options": [
+        {
+          "text": "高薪和声望",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 0,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "工作与生活的平衡和灵活性",
+          "score": {
+            "career": 1,
+            "family": 2,
+            "free": 2,
+            "creative": 0,
+            "balanced": 3,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "创意自由和创新空间",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "刺激和新挑战",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 1,
+            "balanced": 0,
+            "adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "你如何应对压力？",
+      "options": [
+        {
+          "text": "更加努力工作来解决问题",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "花时间陪伴家人寻求安慰",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 1,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "休息一下，去旅行",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 2
+          }
+        },
+        {
+          "text": "通过创意方式表达",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "你理想的周末活动是什么？",
+      "options": [
+        {
+          "text": "参加社交活动或职业发展",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 1,
+            "balanced": 0,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "家庭聚会或家居装修",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "说走就走的公路旅行",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 2,
+            "creative": 0,
+            "balanced": 0,
+            "adventure": 3
+          }
+        },
+        {
+          "text": "投入创意项目",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "如果你中了1000万，你会怎么花？",
+      "options": [
+        {
+          "text": "投资事业和生意",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "买房，保障家人的未来",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "环游世界，体验生活",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 0,
+            "balanced": 0,
+            "adventure": 3
+          }
+        },
+        {
+          "text": "资助我的创意项目和热爱的事",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你如何做出重要的决定？",
+      "options": [
+        {
+          "text": "基于职业发展潜力",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 0,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "基于对家庭的影响",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "跟随内心和直觉",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 1,
+            "balanced": 0,
+            "adventure": 2
+          }
+        },
+        {
+          "text": "跳出框框思考创新的解决方案",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "你对退休生活的愿景是什么？",
+      "options": [
+        {
+          "text": "继续工作，追求更多成就",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 1,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "和孙辈共度时光",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "过简约、自由的生活",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 2
+          }
+        },
+        {
+          "text": "追求创意爱好和项目",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 1,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你是什么样的领导者？",
+      "options": [
+        {
+          "text": "雄心勃勃，结果导向",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "充满关怀，支持他人",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "自由放任，赋能团队",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 1,
+            "balanced": 1,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "创新激励，激发灵感",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "你希望自己被如何铭记？",
+      "options": [
+        {
+          "text": "作为一个成功逆袭的专业人士",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "free": 0,
+            "creative": 0,
+            "balanced": 1,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "作为一个重视家庭和爱的人",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "free": 0,
+            "creative": 0,
+            "balanced": 2,
+            "adventure": 0
+          }
+        },
+        {
+          "text": "作为一个充分活出自我的人",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "free": 3,
+            "creative": 0,
+            "balanced": 0,
+            "adventure": 3
+          }
+        },
+        {
+          "text": "作为一个启发他人的创意先驱",
+          "score": {
+            "career": 1,
+            "family": 0,
+            "free": 1,
+            "creative": 3,
+            "balanced": 0,
+            "adventure": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "career": {
+      "title": "事业型人生",
+      "description": "10年后，你将站在事业的巅峰！你雄心勃勃，目标明确，努力工作终将获得回报。你会是那种早餐前先查邮件，用香槟庆祝升职的人。",
+      "image": "career_achiever"
+    },
+    "family": {
+      "title": "家庭型人生",
+      "description": "你的未来充满了爱和家庭时光！你会优先建立幸福的家庭，珍惜亲人，创造难忘的回忆。你最大的成就将是那些你深爱的家人。",
+      "image": "family_focused"
+    },
+    "free": {
+      "title": "自由灵魂",
+      "description": "10年后，你将按自己的方式生活！你将摆脱传统期望，创造属于自己的生活方式。无论是数字游民、极简主义还是非传统生活，你都是真正自由的。",
+      "image": "free_spirit"
+    },
+    "creative": {
+      "title": "创意先锋",
+      "description": "你的未来被创意点燃！你将投身于艺术、音乐、写作或创新的事业。你的创意作品将激励他人，给你带来无与伦比的满足感。",
+      "image": "creative_pioneer"
+    },
+    "balanced": {
+      "title": "平衡人生",
+      "description": "你找到了完美的平衡！10年后，你已掌握在工作成功和个人幸福之间平衡的艺术。你知道真正的财富是拥有最重要事物的时间。你的生活是工作、家庭和自我照顾的和谐交响曲。",
+      "image": "balanced_life"
+    },
+    "adventure": {
+      "title": "冒险家",
+      "description": "你的未来是一段激动人心的旅程！你将旅行到令人难以置信的地方，体验惊险的生活。每一天都有新的挑战和发现。你证明了生活本就应当勇敢地活！",
+      "image": "adventure_seeker"
+    }
+  }
+}
