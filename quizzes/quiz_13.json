@@ -9,7 +9,7 @@
     "Personality",
     "Comics"
   ],
-  "description": "Answer 12 heroic questions to discover which iconic superhero sidekick matches your personality\u2014time to save the day!",
+  "description": "Answer 12 heroic questions to discover which iconic superhero sidekick matches your personality—time to save the day!",
   "questions": [
     {
       "text": "Your hero trait is...",
@@ -23,7 +23,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and reliable",
+          "text": "Brave and reliable",
           "score": "S"
         },
         {
@@ -359,7 +359,7 @@
           "score": "I"
         },
         {
-          "text": "Practical tools",
+          "text": "Brave tools",
           "score": "S"
         },
         {
@@ -569,7 +569,7 @@
           "score": "I"
         },
         {
-          "text": "Practical necessity",
+          "text": "Brave necessity",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Robin (Batman)",
-      "description": "You're the loyal, energetic sidekick to Batman! Like Robin, you're outgoing, brave, and always ready to fight for justice alongside your hero. You're an ESFP\u2014energetic, spontaneous, and the perfect balance to Batman's serious demeanor, bringing light and humor to even the darkest missions.",
+      "description": "You're the loyal, energetic sidekick to Batman! Like Robin, you're outgoing, brave, and always ready to fight for justice alongside your hero. You're an ESFP—energetic, spontaneous, and the perfect balance to Batman's serious demeanor, bringing light and humor to even the darkest missions.",
       "mbti": "ESFP"
     },
     {
       "title": "Batgirl (Batman)",
-      "description": "You're the intelligent, independent sidekick to Batman! Like Batgirl, you're private, strategic, and a skilled fighter with a sharp mind. You're an INTJ\u2014visionary, logical, and a master of both combat and detective work, able to hold your own against Gotham's worst villains.",
+      "description": "You're the intelligent, independent sidekick to Batman! Like Batgirl, you're private, strategic, and a skilled fighter with a sharp mind. You're an INTJ—visionary, logical, and a master of both combat and detective work, able to hold your own against Gotham's worst villains.",
       "mbti": "INTJ"
     },
     {
       "title": "Falcon (Captain America)",
-      "description": "You're the loyal, practical sidekick to Captain America! Like Falcon, you're outgoing, reliable, and a skilled combatant with a strong sense of duty. You're an ESTJ\u2014practical, responsible, and the perfect wingman (literally) to Captain America, combining military precision with unwavering loyalty.",
+      "description": "You're the loyal, practical sidekick to Captain America! Like Falcon, you're outgoing, reliable, and a skilled combatant with a strong sense of duty. You're an ESTJ—practical, responsible, and the perfect wingman (literally) to Captain America, combining military precision with unwavering loyalty.",
       "mbti": "ESTJ"
     },
     {
       "title": "Winter Soldier (Captain America)",
-      "description": "You're the complex, loyal sidekick to Captain America! Like Bucky Barnes, you're private, resilient, and driven by a desire to make amends and protect your oldest friend. You're an ISFJ\u2014kind, loyal, and a quiet hero who overcomes great adversity to stand by your hero's side.",
+      "description": "You're the complex, loyal sidekick to Captain America! Like Bucky Barnes, you're private, resilient, and driven by a desire to make amends and protect your oldest friend. You're an ISFJ—kind, loyal, and a quiet hero who overcomes great adversity to stand by your hero's side.",
       "mbti": "ISFJ"
     },
     {
       "title": "Wanda Maximoff (Avengers)",
-      "description": "You're the powerful, emotional sidekick to the Avengers! Like Scarlet Witch, you're private, intuitive, and possess incredible power driven by your emotions. You're an INFJ\u2014compassionate, visionary, and a force to be reckoned with who uses your powers to protect those you love.",
+      "description": "You're the powerful, emotional sidekick to the Avengers! Like Scarlet Witch, you're private, intuitive, and possess incredible power driven by your emotions. You're an INFJ—compassionate, visionary, and a force to be reckoned with who uses your powers to protect those you love.",
       "mbti": "INFJ"
     },
     {
       "title": "Vision (Avengers)",
-      "description": "You're the logical, unique sidekick to the Avengers! Like Vision, you're private, analytical, and a synthetic being with a unique perspective on humanity. You're an INTP\u2014analytical, creative, and a calm, logical presence in the chaos of superhero life who brings wisdom and perspective to the team.",
+      "description": "You're the logical, unique sidekick to the Avengers! Like Vision, you're private, analytical, and a synthetic being with a unique perspective on humanity. You're an INTP—analytical, creative, and a calm, logical presence in the chaos of superhero life who brings wisdom and perspective to the team.",
       "mbti": "INTP"
     },
     {
       "title": "Spider-Man (Iron Man)",
-      "description": "You're the witty, outgoing sidekick to Iron Man! Like Spider-Man, you're outgoing, creative, and always ready with a joke even in the face of danger. You're an ENFP\u2014optimistic, creative, and the perfect prot\u00e9g\u00e9 to Iron Man, bringing heart and humor to the Avengers team.",
+      "description": "You're the witty, outgoing sidekick to Iron Man! Like Spider-Man, you're outgoing, creative, and always ready with a joke even in the face of danger. You're an ENFP—optimistic, creative, and the perfect protégé to Iron Man, bringing heart and humor to the Avengers team.",
       "mbti": "ENFP"
     },
     {
       "title": "War Machine (Iron Man)",
-      "description": "You're the reliable, practical sidekick to Iron Man! Like War Machine, you're outgoing, logical, and a military man with a strong sense of duty. You're an ENTJ\u2014strategic, charismatic, and the perfect complement to Iron Man's impulsiveness, bringing structure and discipline to the team.",
+      "description": "You're the reliable, practical sidekick to Iron Man! Like War Machine, you're outgoing, logical, and a military man with a strong sense of duty. You're an ENTJ—strategic, charismatic, and the perfect complement to Iron Man's impulsiveness, bringing structure and discipline to the team.",
       "mbti": "ENTJ"
     },
     {
       "title": "Loki (Thor)",
-      "description": "You're the complex, clever sidekick (and sometimes villain) to Thor! Like Loki, you're private, creative, and a master of trickery with a complicated relationship with your hero. You're an ENTP\u2014creative, strategic, and a chaotic yet brilliant presence who keeps Thor on his toes.",
+      "description": "You're the complex, clever sidekick (and sometimes villain) to Thor! Like Loki, you're private, creative, and a master of trickery with a complicated relationship with your hero. You're an ENTP—creative, strategic, and a chaotic yet brilliant presence who keeps Thor on his toes.",
       "mbti": "ENTP"
     },
     {
       "title": "Valkyrie (Thor)",
-      "description": "You're the bold, independent sidekick to Thor! Like Valkyrie, you're outgoing, resilient, and a fierce warrior with a rebellious spirit. You're an ESTP\u2014bold, spontaneous, and a no-nonsense fighter who brings strength and courage to Thor's adventures.",
+      "description": "You're the bold, independent sidekick to Thor! Like Valkyrie, you're outgoing, resilient, and a fierce warrior with a rebellious spirit. You're an ESTP—bold, spontaneous, and a no-nonsense fighter who brings strength and courage to Thor's adventures.",
       "mbti": "ESTP"
     },
     {
       "title": "Hulk (Avengers)",
-      "description": "You're the powerful, emotional sidekick to the Avengers! Like Hulk, you're outgoing, emotional, and possess incredible strength driven by your emotions. You're an ESFJ\u2014compassionate, generous, and a gentle giant who uses your power to protect the innocent and defend your team.",
+      "description": "You're the powerful, emotional sidekick to the Avengers! Like Hulk, you're outgoing, emotional, and possess incredible strength driven by your emotions. You're an ESFJ—compassionate, generous, and a gentle giant who uses your power to protect the innocent and defend your team.",
       "mbti": "ESFJ"
     },
     {
       "title": "Black Widow (Avengers)",
-      "description": "You're the skilled, strategic sidekick to the Avengers! Like Black Widow, you're private, practical, and a master spy with a dark past. You're an ISTJ\u2014practical, responsible, and a reliable member of the team who always has a plan and never backs down from a fight.",
+      "description": "You're the skilled, strategic sidekick to the Avengers! Like Black Widow, you're private, practical, and a master spy with a dark past. You're an ISTJ—practical, responsible, and a reliable member of the team who always has a plan and never backs down from a fight.",
       "mbti": "ISTJ"
     },
     {
       "title": "Hawkeye (Avengers)",
-      "description": "You're the steady, reliable sidekick to the Avengers! Like Hawkeye, you're private, practical, and a master archer with a quiet strength. You're an ISFP\u2014gentle, creative, and a humble hero who lets your actions speak louder than words and always has your team's back.",
+      "description": "You're the steady, reliable sidekick to the Avengers! Like Hawkeye, you're private, practical, and a master archer with a quiet strength. You're an ISFP—gentle, creative, and a humble hero who lets your actions speak louder than words and always has your team's back.",
       "mbti": "ISFP"
     },
     {
       "title": "Ant-Man (Avengers)",
-      "description": "You're the witty, creative sidekick to the Avengers! Like Ant-Man, you're outgoing, spontaneous, and a master of shrinking technology with a big personality. You're an ENTP\u2014creative, strategic, and a fun-loving hero who brings humor and ingenuity to the team.",
+      "description": "You're the witty, creative sidekick to the Avengers! Like Ant-Man, you're outgoing, spontaneous, and a master of shrinking technology with a big personality. You're an ENTP—creative, strategic, and a fun-loving hero who brings humor and ingenuity to the team.",
       "mbti": "ENTP"
     },
     {
       "title": "Doctor Strange (Avengers)",
-      "description": "You're the mystical, intelligent sidekick to the Avengers! Like Doctor Strange, you're private, analytical, and a master of the mystic arts with a sharp mind. You're an INTJ\u2014visionary, logical, and a strategic genius who uses your knowledge and magic to protect the universe.",
+      "description": "You're the mystical, intelligent sidekick to the Avengers! Like Doctor Strange, you're private, analytical, and a master of the mystic arts with a sharp mind. You're an INTJ—visionary, logical, and a strategic genius who uses your knowledge and magic to protect the universe.",
       "mbti": "INTJ"
     },
     {
       "title": "Scarlet Witch (Avengers)",
-      "description": "You're the powerful, emotional sidekick to the Avengers! Like Scarlet Witch, you're private, intuitive, and possess incredible power driven by your emotions. You're an INFP\u2014idealistic, introspective, and a deeply emotional hero who uses your powers to protect those you love and find redemption.",
+      "description": "You're the powerful, emotional sidekick to the Avengers! Like Scarlet Witch, you're private, intuitive, and possess incredible power driven by your emotions. You're an INFP—idealistic, introspective, and a deeply emotional hero who uses your powers to protect those you love and find redemption.",
       "mbti": "INFP"
     }
   ]

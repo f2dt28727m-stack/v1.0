@@ -9,7 +9,7 @@
     "Personality",
     "Hogwarts"
   ],
-  "description": "Answer 12 magical questions to discover which Harry Potter character matches your personality\u2014wand at the ready!",
+  "description": "Answer 12 magical questions to discover which Harry Potter character matches your personality—wand at the ready!",
   "questions": [
     {
       "text": "Your Hogwarts house is...",
@@ -65,7 +65,7 @@
           "score": "I"
         },
         {
-          "text": "Use practical defensive magic",
+          "text": "Use magical defensive magic",
           "score": "S"
         },
         {
@@ -170,7 +170,7 @@
           "score": "I"
         },
         {
-          "text": "Practical danger",
+          "text": "Magical danger",
           "score": "S"
         },
         {
@@ -212,7 +212,7 @@
           "score": "I"
         },
         {
-          "text": "Practical alliance",
+          "text": "Magical alliance",
           "score": "S"
         },
         {
@@ -267,7 +267,7 @@
       "text": "You learn magic by...",
       "options": [
         {
-          "text": "Practical practice",
+          "text": "Magical practice",
           "score": "S"
         },
         {
@@ -359,7 +359,7 @@
           "score": "T"
         },
         {
-          "text": "Practical skill over blood",
+          "text": "Magical skill over blood",
           "score": "S"
         },
         {
@@ -716,7 +716,7 @@
           "score": "I"
         },
         {
-          "text": "Practical career",
+          "text": "Magical career",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Harry Potter",
-      "description": "You're the brave, loyal Chosen One! Like Harry, you're outgoing, compassionate, and driven by a desire to protect your friends and defeat evil. You've faced unimaginable loss but never lost your sense of justice, and you inspire others with your courage. You're an ESFP\u2014energetic, spontaneous, and deeply connected to the people you love.",
+      "description": "You're the brave, loyal Chosen One! Like Harry, you're outgoing, compassionate, and driven by a desire to protect your friends and defeat evil. You've faced unimaginable loss but never lost your sense of justice, and you inspire others with your courage. You're an ESFP—energetic, spontaneous, and deeply connected to the people you love.",
       "mbti": "ESFP"
     },
     {
       "title": "Hermione Granger",
-      "description": "You're the brilliant, loyal witch! Like Hermione, you're private, logical, and driven by a desire to use your intelligence to help others. You're a quick learner with a strong sense of justice, and you're not afraid to stand up for what's right. You're an INTJ\u2014visionary, logical, and always one step ahead of your enemies.",
+      "description": "You're the brilliant, loyal witch! Like Hermione, you're private, logical, and driven by a desire to use your intelligence to help others. You're a quick learner with a strong sense of justice, and you're not afraid to stand up for what's right. You're an INTJ—visionary, logical, and always one step ahead of your enemies.",
       "mbti": "INTJ"
     },
     {
       "title": "Ron Weasley",
-      "description": "You're the loyal, humorous best friend! Like Ron, you're outgoing, compassionate, and driven by a desire to support your friends and prove your worth. You have a big heart and a great sense of humor, and you're always there when your friends need you. You're an ESFJ\u2014compassionate, responsible, and a natural protector of others.",
+      "description": "You're the loyal, humorous best friend! Like Ron, you're outgoing, compassionate, and driven by a desire to support your friends and prove your worth. You have a big heart and a great sense of humor, and you're always there when your friends need you. You're an ESFJ—compassionate, responsible, and a natural protector of others.",
       "mbti": "ESFJ"
     },
     {
       "title": "Draco Malfoy",
-      "description": "You're the arrogant, conflicted Slytherin! Like Draco, you're private, ambitious, and driven by a desire to live up to your family's expectations. You're caught between loyalty to your family and doing what's right, and you struggle with the weight of your choices. You're an INTP\u2014analytical, creative, and always questioning your path.",
+      "description": "You're the arrogant, conflicted Slytherin! Like Draco, you're private, ambitious, and driven by a desire to live up to your family's expectations. You're caught between loyalty to your family and doing what's right, and you struggle with the weight of your choices. You're an INTP—analytical, creative, and always questioning your path.",
       "mbti": "INTP"
     },
     {
       "title": "Albus Dumbledore",
-      "description": "You're the wise, mysterious headmaster! Like Dumbledore, you're outgoing, charismatic, and driven by a desire to protect the wizarding world from Voldemort. You're a brilliant strategist with a complicated past, and you're willing to make sacrifices for the greater good. You're an ENFJ\u2014charismatic, compassionate, and a natural leader who inspires others.",
+      "description": "You're the wise, mysterious headmaster! Like Dumbledore, you're outgoing, charismatic, and driven by a desire to protect the wizarding world from Voldemort. You're a brilliant strategist with a complicated past, and you're willing to make sacrifices for the greater good. You're an ENFJ—charismatic, compassionate, and a natural leader who inspires others.",
       "mbti": "ENFJ"
     },
     {
       "title": "Severus Snape",
-      "description": "You're the complex, loyal potions master! Like Snape, you're private, introspective, and driven by a desire to protect the ones you love. You have a sharp mind and a hidden heart, and you're willing to walk a dark path to do what's right. You're an INFJ\u2014compassionate, visionary, and deeply committed to your secrets.",
+      "description": "You're the complex, loyal potions master! Like Snape, you're private, introspective, and driven by a desire to protect the ones you love. You have a sharp mind and a hidden heart, and you're willing to walk a dark path to do what's right. You're an INFJ—compassionate, visionary, and deeply committed to your secrets.",
       "mbti": "INFJ"
     },
     {
       "title": "Ginny Weasley",
-      "description": "You're the brave, independent witch! Like Ginny, you're outgoing, confident, and driven by a desire to prove yourself. You're a skilled witch with a strong sense of self, and you're not afraid to stand up to anyone\u2014including Voldemort. You're an ESTP\u2014bold, practical, and always ready for action.",
+      "description": "You're the brave, independent witch! Like Ginny, you're outgoing, confident, and driven by a desire to prove yourself. You're a skilled witch with a strong sense of self, and you're not afraid to stand up to anyone—including Voldemort. You're an ESTP—bold, practical, and always ready for action.",
       "mbti": "ESTP"
     },
     {
       "title": "Neville Longbottom",
-      "description": "You're the brave, loyal underdog! Like Neville, you're private, compassionate, and driven by a desire to protect your friends and stand up to evil. You start as shy and insecure but grow into a brave hero who plays a crucial role in the final battle. You're an ISFJ\u2014kind, loyal, and a quiet hero who surprises everyone with your courage.",
+      "description": "You're the brave, loyal underdog! Like Neville, you're private, compassionate, and driven by a desire to protect your friends and stand up to evil. You start as shy and insecure but grow into a brave hero who plays a crucial role in the final battle. You're an ISFJ—kind, loyal, and a quiet hero who surprises everyone with your courage.",
       "mbti": "ISFJ"
     },
     {
       "title": "Luna Lovegood",
-      "description": "You're the eccentric, wise Ravenclaw! Like Luna, you're private, creative, and driven by a desire to see the world as it truly is. You're a free spirit with a unique perspective, and you're not afraid to be different. You're an INFP\u2014idealistic, introspective, and deeply connected to your own truth.",
+      "description": "You're the eccentric, wise Ravenclaw! Like Luna, you're private, creative, and driven by a desire to see the world as it truly is. You're a free spirit with a unique perspective, and you're not afraid to be different. You're an INFP—idealistic, introspective, and deeply connected to your own truth.",
       "mbti": "INFP"
     },
     {
       "title": "Fred Weasley",
-      "description": "You're the funny, rebellious prankster! Like Fred, you're outgoing, creative, and driven by a desire to have fun and stand up to authority. You're a skilled wizard with a great sense of humor, and you're always ready for a new adventure. You're an ENFP\u2014optimistic, creative, and always up for a laugh.",
+      "description": "You're the funny, rebellious prankster! Like Fred, you're outgoing, creative, and driven by a desire to have fun and stand up to authority. You're a skilled wizard with a great sense of humor, and you're always ready for a new adventure. You're an ENFP—optimistic, creative, and always up for a laugh.",
       "mbti": "ENFP"
     },
     {
       "title": "George Weasley",
-      "description": "You're the funny, loyal prankster! Like George, you're outgoing, creative, and driven by a desire to have fun and support your family. You're a skilled wizard with a great sense of humor, and you're always there for your brother and friends. You're an ENTP\u2014creative, strategic, and always one step ahead of the rules.",
+      "description": "You're the funny, loyal prankster! Like George, you're outgoing, creative, and driven by a desire to have fun and support your family. You're a skilled wizard with a great sense of humor, and you're always there for your brother and friends. You're an ENTP—creative, strategic, and always one step ahead of the rules.",
       "mbti": "ENTP"
     },
     {
       "title": "Remus Lupin",
-      "description": "You're the wise, compassionate werewolf! Like Remus, you're private, introspective, and driven by a desire to protect your friends and find belonging. You're a skilled wizard with a kind heart, and you struggle with self-doubt but always rise to the occasion. You're an INFP\u2014idealistic, empathetic, and deeply loyal to those you love.",
+      "description": "You're the wise, compassionate werewolf! Like Remus, you're private, introspective, and driven by a desire to protect your friends and find belonging. You're a skilled wizard with a kind heart, and you struggle with self-doubt but always rise to the occasion. You're an INFP—idealistic, empathetic, and deeply loyal to those you love.",
       "mbti": "INFP"
     },
     {
       "title": "Sirius Black",
-      "description": "You're the bold, loyal animagus! Like Sirius, you're outgoing, charismatic, and driven by a desire to avenge your friends and find freedom. You're a skilled wizard with a rebellious spirit, and you're willing to risk everything for the people you care about. You're an ESTP\u2014bold, spontaneous, and always ready to fight for what's right.",
+      "description": "You're the bold, loyal animagus! Like Sirius, you're outgoing, charismatic, and driven by a desire to avenge your friends and find freedom. You're a skilled wizard with a rebellious spirit, and you're willing to risk everything for the people you care about. You're an ESTP—bold, spontaneous, and always ready to fight for what's right.",
       "mbti": "ESTP"
     },
     {
       "title": "Bellatrix Lestrange",
-      "description": "You're the ruthless, loyal Death Eater! Like Bellatrix, you're private, obsessive, and driven by a desire to serve Voldemort and prove your loyalty. You're a skilled dark witch with a violent streak, and you'll stop at nothing to destroy your enemies. You're an INTJ\u2014visionary, ruthless, and willing to go to extreme lengths for your beliefs.",
+      "description": "You're the ruthless, loyal Death Eater! Like Bellatrix, you're private, obsessive, and driven by a desire to serve Voldemort and prove your loyalty. You're a skilled dark witch with a violent streak, and you'll stop at nothing to destroy your enemies. You're an INTJ—visionary, ruthless, and willing to go to extreme lengths for your beliefs.",
       "mbti": "INTJ"
     },
     {
       "title": "Rubeus Hagrid",
-      "description": "You're the kind, loyal half-giant! Like Hagrid, you're outgoing, compassionate, and driven by a desire to protect magical creatures and care for others. You're a gentle giant with a big heart, and you're always there for Harry and his friends. You're an ESFJ\u2014compassionate, generous, and a natural caretaker of those around you.",
+      "description": "You're the kind, loyal half-giant! Like Hagrid, you're outgoing, compassionate, and driven by a desire to protect magical creatures and care for others. You're a gentle giant with a big heart, and you're always there for Harry and his friends. You're an ESFJ—compassionate, generous, and a natural caretaker of those around you.",
       "mbti": "ESFJ"
     },
     {
       "title": "Minerva McGonagall",
-      "description": "You're the wise, strict transfiguration professor! Like McGonagall, you're private, practical, and driven by a desire to protect Hogwarts and her students. You're a skilled witch with a strong sense of duty, and you're a fierce ally in the fight against Voldemort. You're an ISTJ\u2014practical, responsible, and a steady force in chaos.",
+      "description": "You're the wise, strict transfiguration professor! Like McGonagall, you're private, practical, and driven by a desire to protect Hogwarts and her students. You're a skilled witch with a strong sense of duty, and you're a fierce ally in the fight against Voldemort. You're an ISTJ—practical, responsible, and a steady force in chaos.",
       "mbti": "ISTJ"
     }
   ]

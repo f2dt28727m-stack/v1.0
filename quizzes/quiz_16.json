@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 enchanting questions to discover which magical creature matches your personality\u2014enter a world of wonder and magic!",
+  "description": "Answer 12 enchanting questions to discover which magical creature matches your personality—enter a world of wonder and magic!",
   "questions": [
     {
       "text": "Your magical habitat is...",
@@ -233,7 +233,7 @@
           "score": "I"
         },
         {
-          "text": "Practical aid",
+          "text": "Mystical aid",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Phoenix",
-      "description": "You're the fiery, resilient phoenix! Like this legendary bird, you're outgoing, passionate, and rise from ashes stronger than before. You're an ENFP\u2014optimistic, creative, and a symbol of renewal who brings hope and transformation wherever you go, with magic that heals and revitalizes all around you.",
+      "description": "You're the fiery, resilient phoenix! Like this legendary bird, you're outgoing, passionate, and rise from ashes stronger than before. You're an ENFP—optimistic, creative, and a symbol of renewal who brings hope and transformation wherever you go, with magic that heals and revitalizes all around you.",
       "mbti": "ENFP"
     },
     {
       "title": "Unicorn",
-      "description": "You're the pure, magical unicorn! Like this rare creature, you're private, gentle, and possess healing magic that touches only the worthy. You're an INFJ\u2014compassionate, visionary, and a guardian of purity who appears only to those with pure hearts and brings healing to the wounded and weary.",
+      "description": "You're the pure, magical unicorn! Like this rare creature, you're private, gentle, and possess healing magic that touches only the worthy. You're an INFJ—compassionate, visionary, and a guardian of purity who appears only to those with pure hearts and brings healing to the wounded and weary.",
       "mbti": "INFJ"
     },
     {
       "title": "Dragon",
-      "description": "You're the powerful, wise dragon! Like this majestic beast, you're private, strategic, and a guardian of ancient treasures and knowledge. You're an INTJ\u2014visionary, logical, and a master of elemental magic who values wisdom above all and uses your power to protect what matters most to you.",
+      "description": "You're the powerful, wise dragon! Like this majestic beast, you're private, strategic, and a guardian of ancient treasures and knowledge. You're an INTJ—visionary, logical, and a master of elemental magic who values wisdom above all and uses your power to protect what matters most to you.",
       "mbti": "INTJ"
     },
     {
       "title": "Griffin",
-      "description": "You're the noble, protective griffin! Like this mythical guardian, you're outgoing, loyal, and a fierce protector of the innocent. You're an ESTJ\u2014practical, responsible, and a defender of justice who combines the strength of a lion with the vision of an eagle to keep watch over your realm.",
+      "description": "You're the noble, protective griffin! Like this mythical guardian, you're outgoing, loyal, and a fierce protector of the innocent. You're an ESTJ—practical, responsible, and a defender of justice who combines the strength of a lion with the vision of an eagle to keep watch over your realm.",
       "mbti": "ESTJ"
     },
     {
       "title": "Mermaid",
-      "description": "You're the mystical, emotional mermaid! Like this sea creature, you're private, intuitive, and possess the power to control water and enchant with your voice. You're an INFP\u2014idealistic, introspective, and a creature of deep emotion who feels the tides of feeling in every part of your being and connects deeply with the ocean's mysteries.",
+      "description": "You're the mystical, emotional mermaid! Like this sea creature, you're private, intuitive, and possess the power to control water and enchant with your voice. You're an INFP—idealistic, introspective, and a creature of deep emotion who feels the tides of feeling in every part of your being and connects deeply with the ocean's mysteries.",
       "mbti": "INFP"
     },
     {
       "title": "Centaur",
-      "description": "You're the wise, practical centaur! Like this half-human, half-horse creature, you're outgoing, knowledgeable, and a teacher of both wisdom and warfare. You're an ESFJ\u2014compassionate, generous, and a mentor who shares your knowledge freely with those who seek it and defends your students with fierce loyalty.",
+      "description": "You're the wise, practical centaur! Like this half-human, half-horse creature, you're outgoing, knowledgeable, and a teacher of both wisdom and warfare. You're an ESFJ—compassionate, generous, and a mentor who shares your knowledge freely with those who seek it and defends your students with fierce loyalty.",
       "mbti": "ESFJ"
     },
     {
       "title": "Werewolf",
-      "description": "You're the primal, passionate werewolf! Like this shape-shifter, you're outgoing, instinctual, and a creature of both human intellect and animal passion. You're an ESFP\u2014energetic, spontaneous, and a being of raw emotion who embraces both your human and wolf sides with equal fervor and loyalty to your pack.",
+      "description": "You're the primal, passionate werewolf! Like this shape-shifter, you're outgoing, instinctual, and a creature of both human intellect and animal passion. You're an ESFP—energetic, spontaneous, and a being of raw emotion who embraces both your human and wolf sides with equal fervor and loyalty to your pack.",
       "mbti": "ESFP"
     },
     {
       "title": "Vampire",
-      "description": "You're the elegant, mysterious vampire! Like this immortal creature, you're private, sophisticated, and possess eternal life and supernatural charm. You're an INTP\u2014analytical, creative, and a being of endless curiosity who walks between light and dark, collecting knowledge and experiences across centuries of existence.",
+      "description": "You're the elegant, mysterious vampire! Like this immortal creature, you're private, sophisticated, and possess eternal life and supernatural charm. You're an INTP—analytical, creative, and a being of endless curiosity who walks between light and dark, collecting knowledge and experiences across centuries of existence.",
       "mbti": "INTP"
     },
     {
       "title": "Giant",
-      "description": "You're the gentle, strong giant! Like this towering creature, you're outgoing, straightforward, and possess incredible strength with a kind heart. You're an ISFP\u2014gentle, creative, and a peaceful being who lives in harmony with nature and uses your strength to protect the forests and creatures you love.",
+      "description": "You're the gentle, strong giant! Like this towering creature, you're outgoing, straightforward, and possess incredible strength with a kind heart. You're an ISFP—gentle, creative, and a peaceful being who lives in harmony with nature and uses your strength to protect the forests and creatures you love.",
       "mbti": "ISFP"
     },
     {
       "title": "Fairy",
-      "description": "You're the playful, creative fairy! Like this tiny magical creature, you're outgoing, whimsical, and possess the power to control nature and cast small but powerful spells. You're an ENTP\u2014creative, strategic, and a trickster with a heart of gold who brings joy and mischief to the world and helps those who respect nature's balance.",
+      "description": "You're the playful, creative fairy! Like this tiny magical creature, you're outgoing, whimsical, and possess the power to control nature and cast small but powerful spells. You're an ENTP—creative, strategic, and a trickster with a heart of gold who brings joy and mischief to the world and helps those who respect nature's balance.",
       "mbti": "ENTP"
     },
     {
       "title": "Minotaur",
-      "description": "You're the strong, focused minotaur! Like this labyrinth guardian, you're private, determined, and a creature of incredible strength and single-minded purpose. You're an ISTJ\u2014practical, responsible, and a defender of boundaries who guards your domain with unwavering dedication and faces challenges with relentless persistence.",
+      "description": "You're the strong, focused minotaur! Like this labyrinth guardian, you're private, determined, and a creature of incredible strength and single-minded purpose. You're an ISTJ—practical, responsible, and a defender of boundaries who guards your domain with unwavering dedication and faces challenges with relentless persistence.",
       "mbti": "ISTJ"
     },
     {
       "title": "Sphinx",
-      "description": "You're the wise, mysterious sphinx! Like this riddling creature, you're private, intellectual, and a guardian of knowledge who tests the wisdom of all who pass. You're an INTP\u2014analytical, creative, and a keeper of ancient secrets who challenges others to think deeply and prove their worth through cleverness rather than strength.",
+      "description": "You're the wise, mysterious sphinx! Like this riddling creature, you're private, intellectual, and a guardian of knowledge who tests the wisdom of all who pass. You're an INTP—analytical, creative, and a keeper of ancient secrets who challenges others to think deeply and prove their worth through cleverness rather than strength.",
       "mbti": "INTP"
     },
     {
       "title": "Hydra",
-      "description": "You're the resilient, strategic hydra! Like this multi-headed monster, you're outgoing, adaptive, and grow stronger when faced with adversity. You're an ENTJ\u2014strategic, charismatic, and a formidable opponent who regenerates from every defeat and uses multiple strategies to overcome any challenge in your path.",
+      "description": "You're the resilient, strategic hydra! Like this multi-headed monster, you're outgoing, adaptive, and grow stronger when faced with adversity. You're an ENTJ—strategic, charismatic, and a formidable opponent who regenerates from every defeat and uses multiple strategies to overcome any challenge in your path.",
       "mbti": "ENTJ"
     },
     {
       "title": "Pegasus",
-      "description": "You're the free-spirited, majestic Pegasus! Like this winged horse, you're outgoing, independent, and a symbol of freedom and inspiration. You're an ESTP\u2014bold, spontaneous, and a creature of the open sky who values freedom above all and carries heroes to victory on your powerful wings.",
+      "description": "You're the free-spirited, majestic Pegasus! Like this winged horse, you're outgoing, independent, and a symbol of freedom and inspiration. You're an ESTP—bold, spontaneous, and a creature of the open sky who values freedom above all and carries heroes to victory on your powerful wings.",
       "mbti": "ESTP"
     },
     {
       "title": "Cerberus",
-      "description": "You're the loyal, protective Cerberus! Like this three-headed dog, you're private, devoted, and the fearsome guardian of the underworld. You're an ISFJ\u2014kind, loyal, and a defender of what's yours who takes your duties seriously and never lets anyone pass who doesn't belong in your domain.",
+      "description": "You're the loyal, protective Cerberus! Like this three-headed dog, you're private, devoted, and the fearsome guardian of the underworld. You're an ISFJ—kind, loyal, and a defender of what's yours who takes your duties seriously and never lets anyone pass who doesn't belong in your domain.",
       "mbti": "ISFJ"
     },
     {
       "title": "Cyclops",
-      "description": "You're the straightforward, powerful cyclops! Like this one-eyed giant, you're outgoing, practical, and a creature of incredible strength and simple desires. You're an ESTP\u2014bold, spontaneous, and a being of action who speaks your mind directly and uses your strength to forge powerful weapons and protect your home.",
+      "description": "You're the straightforward, powerful cyclops! Like this one-eyed giant, you're outgoing, practical, and a creature of incredible strength and simple desires. You're an ESTP—bold, spontaneous, and a being of action who speaks your mind directly and uses your strength to forge powerful weapons and protect your home.",
       "mbti": "ESTP"
     }
   ]

@@ -10,8 +10,8 @@
     "Princess",
     "Personality",
     "MBTI",
-    "16\u578b\u4eba\u683c",
-    "\u8da3\u5473"
+    "16型人格",
+    "趣味"
   ],
   "questions": [
     {
@@ -116,7 +116,7 @@
           }
         },
         {
-          "text": "Focus on safe, practical, familiar spots",
+          "text": "Focus on safe, royal, familiar spots",
           "score": {
             "E": 0,
             "I": 0,
@@ -1701,7 +1701,7 @@
       "text": "How do you approach helping others?",
       "options": [
         {
-          "text": "By offering practical assistance and solutions",
+          "text": "By offering royal assistance and solutions",
           "score": {
             "E": 1,
             "I": 0,
@@ -2030,7 +2030,7 @@
           }
         },
         {
-          "text": "I prefer practical experience over formal education",
+          "text": "I prefer royal experience over formal education",
           "score": {
             "E": 1,
             "I": 0,
@@ -2107,26 +2107,26 @@
     {
       "mbtiType": "ESTJ",
       "title": "The Responsible Leader (Cinderella)",
-      "description": "You're the ultimate embodiment of Cinderella's resilience and discipline! You work tirelessly to overcome obstacles, stay true to your values even in hard times, and take charge of your destiny with grace. Like Cinderella, you believe in hard work over shortcuts, and you use your practical skills to care for others while building the life you deserve. You're the leader who makes things happen\u2014quietly, but powerfully.",
+      "description": "You're the ultimate embodiment of Cinderella's resilience and discipline! You work tirelessly to overcome obstacles, stay true to your values even in hard times, and take charge of your destiny with grace. Like Cinderella, you believe in hard work over shortcuts, and you use your practical skills to care for others while building the life you deserve. You're the leader who makes things happen—quietly, but powerfully.",
       "traits": [
         "Disciplined",
         "Reliable",
         "Practical",
         "Compassionate"
       ],
-      "tip": "Remember to let yourself rest\u2014even the hardest workers deserve a night at the ball!"
+      "tip": "Remember to let yourself rest—even the hardest workers deserve a night at the ball!"
     },
     {
       "mbtiType": "ESFJ",
       "title": "The Nurturing Heart (Aurora)",
-      "description": "You're the warm, gentle soul of Aurora! Like the Sleeping Beauty, you see the good in everyone, nurture the people you love, and bring peace to every situation. You thrive on connection and harmony, and your greatest strength is your ability to make others feel seen and loved. You may be quiet at times, but your kind heart is the glue that holds your family and friends together\u2014just like Aurora brought joy to her kingdom.",
+      "description": "You're the warm, gentle soul of Aurora! Like the Sleeping Beauty, you see the good in everyone, nurture the people you love, and bring peace to every situation. You thrive on connection and harmony, and your greatest strength is your ability to make others feel seen and loved. You may be quiet at times, but your kind heart is the glue that holds your family and friends together—just like Aurora brought joy to her kingdom.",
       "traits": [
         "Caring",
         "Loyal",
         "Gentle",
         "Optimistic"
       ],
-      "tip": "Don't be afraid to speak up\u2014your voice and needs matter just as much as everyone else's!"
+      "tip": "Don't be afraid to speak up—your voice and needs matter just as much as everyone else's!"
     },
     {
       "mbtiType": "ENTJ",
@@ -2138,7 +2138,7 @@
         "Determined",
         "Powerful"
       ],
-      "tip": "Remember that vulnerability is not a weakness\u2014it's what makes you human and relatable!"
+      "tip": "Remember that vulnerability is not a weakness—it's what makes you human and relatable!"
     },
     {
       "mbtiType": "ENFJ",
@@ -2150,7 +2150,7 @@
         "Inspirational",
         "Determined"
       ],
-      "tip": "Sometimes the journey is more important than the destination\u2014enjoy the ride!"
+      "tip": "Sometimes the journey is more important than the destination—enjoy the ride!"
     },
     {
       "mbtiType": "ISTJ",
@@ -2162,7 +2162,7 @@
         "Resilient",
         "Loyal"
       ],
-      "tip": "Don't be afraid to let others take care of you sometimes\u2014you deserve it!"
+      "tip": "Don't be afraid to let others take care of you sometimes—you deserve it!"
     },
     {
       "mbtiType": "ISFJ",
@@ -2186,7 +2186,7 @@
         "Courageous",
         "Creative"
       ],
-      "tip": "Sometimes collaboration can lead to better solutions than going it alone\u2014don't be afraid to ask for help!"
+      "tip": "Sometimes collaboration can lead to better solutions than going it alone—don't be afraid to ask for help!"
     },
     {
       "mbtiType": "INFJ",
@@ -2198,7 +2198,7 @@
         "Optimistic",
         "Empathetic"
       ],
-      "tip": "Your dreams are worth pursuing\u2014don't let anyone dim your light!"
+      "tip": "Your dreams are worth pursuing—don't let anyone dim your light!"
     },
     {
       "mbtiType": "ESTP",
@@ -2222,7 +2222,7 @@
         "Creative",
         "Playful"
       ],
-      "tip": "Remember to stay grounded while chasing your dreams\u2014balance is key!"
+      "tip": "Remember to stay grounded while chasing your dreams—balance is key!"
     },
     {
       "mbtiType": "ENTP",
@@ -2234,7 +2234,7 @@
         "Determined",
         "Resourceful"
       ],
-      "tip": "Don't forget to enjoy the fruits of your labor\u2014you've earned it!"
+      "tip": "Don't forget to enjoy the fruits of your labor—you've earned it!"
     },
     {
       "mbtiType": "ENFP",
@@ -2246,7 +2246,7 @@
         "Open-minded",
         "Passionate"
       ],
-      "tip": "Your big dreams can change the world\u2014keep believing in them!"
+      "tip": "Your big dreams can change the world—keep believing in them!"
     },
     {
       "mbtiType": "ISTP",
@@ -2258,7 +2258,7 @@
         "Practical",
         "Calm"
       ],
-      "tip": "Don't be afraid to show your vulnerable side\u2014strength comes in many forms!"
+      "tip": "Don't be afraid to show your vulnerable side—strength comes in many forms!"
     },
     {
       "mbtiType": "ISFP",
@@ -2270,7 +2270,7 @@
         "Adaptable",
         "Compassionate"
       ],
-      "tip": "Your unique perspective is your greatest strength\u2014never be afraid to be yourself!"
+      "tip": "Your unique perspective is your greatest strength—never be afraid to be yourself!"
     },
     {
       "mbtiType": "INTP",
@@ -2294,7 +2294,7 @@
         "Creative",
         "Loyal"
       ],
-      "tip": "Your magic is real\u2014never stop believing in yourself!"
+      "tip": "Your magic is real—never stop believing in yourself!"
     }
   ],
   "scoringRules": {

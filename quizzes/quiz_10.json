@@ -9,7 +9,7 @@
     "Work",
     "Success"
   ],
-  "description": "Answer 12 insightful questions to discover your career personality type\u2014unlock your professional potential!",
+  "description": "Answer 12 insightful questions to discover your career personality type—unlock your professional potential!",
   "questions": [
     {
       "text": "Your ideal work environment is...",
@@ -23,7 +23,7 @@
           "score": "I"
         },
         {
-          "text": "Practical workspace",
+          "text": "Strategic workspace",
           "score": "S"
         },
         {
@@ -86,7 +86,7 @@
           "score": "I"
         },
         {
-          "text": "Practical manager",
+          "text": "Strategic manager",
           "score": "S"
         },
         {
@@ -506,7 +506,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and appropriate",
+          "text": "Strategic and appropriate",
           "score": "S"
         },
         {
@@ -611,7 +611,7 @@
           "score": "I"
         },
         {
-          "text": "Practical success",
+          "text": "Strategic success",
           "score": "S"
         },
         {

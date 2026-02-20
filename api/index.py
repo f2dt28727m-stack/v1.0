@@ -198,14 +198,20 @@ def app(environ, start_response):
         if not result:
             result = quiz.get('results', [{}])[0]
         
+        # Calculate percentages based on actual scores
+        total_ei = scores['E'] + scores['I'] if scores['E'] + scores['I'] > 0 else 1
+        total_sn = scores['S'] + scores['N'] if scores['S'] + scores['N'] > 0 else 1
+        total_tf = scores['T'] + scores['F'] if scores['T'] + scores['F'] > 0 else 1
+        total_jp = scores['J'] + scores['P'] if scores['J'] + scores['P'] > 0 else 1
+        
         response = json.dumps({
             'mbti_type': mbti,
             'result': result,
             'percentages': {
-                'extrovert_introvert': 50,
-                'sensing_intuition': 50,
-                'thinking_feeling': 50,
-                'judging_perceiving': 50
+                'extrovert_introvert': int(scores['E'] * 100 / total_ei),
+                'sensing_intuition': int(scores['S'] * 100 / total_sn),
+                'thinking_feeling': int(scores['T'] * 100 / total_tf),
+                'judging_perceiving': int(scores['J'] * 100 / total_jp)
             }
         })
         start_response('200 OK', list(headers.items()) + [('Content-Type', 'application/json')])

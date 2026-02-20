@@ -9,7 +9,7 @@
     "Personality",
     "Emotions"
   ],
-  "description": "Answer 12 heartfelt questions to discover which love language perfectly matches your MBTI personality type\u2014speak the language of love!",
+  "description": "Answer 12 heartfelt questions to discover which love language perfectly matches your MBTI personality type—speak the language of love!",
   "questions": [
     {
       "text": "You feel loved when someone...",
@@ -23,7 +23,7 @@
           "score": "I"
         },
         {
-          "text": "Does something practical for you",
+          "text": "Does something supportive for you",
           "score": "S"
         },
         {
@@ -65,7 +65,7 @@
           "score": "I"
         },
         {
-          "text": "Practical activity together",
+          "text": "Supportive activity together",
           "score": "S"
         },
         {
@@ -128,7 +128,7 @@
           "score": "I"
         },
         {
-          "text": "Practical support",
+          "text": "Supportive support",
           "score": "S"
         },
         {
@@ -275,7 +275,7 @@
           "score": "I"
         },
         {
-          "text": "Practical help",
+          "text": "Supportive help",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Words of Affirmation (ENFJ)",
-      "description": "Your love language is Words of Affirmation (ENFJ)\u2014you feel most loved when others express their affection, appreciation, and admiration through kind, genuine words. You're outgoing, expressive, and thrive on verbal connection, encouragement, and positive reinforcement in your relationships. You give and receive love through heartfelt compliments, meaningful conversations, and sincere expressions of care and appreciation.",
+      "description": "Your love language is Words of Affirmation (ENFJ)—you feel most loved when others express their affection, appreciation, and admiration through kind, genuine words. You're outgoing, expressive, and thrive on verbal connection, encouragement, and positive reinforcement in your relationships. You give and receive love through heartfelt compliments, meaningful conversations, and sincere expressions of care and appreciation.",
       "mbti": "ENFJ"
     },
     {
       "title": "Quality Time (INFJ)",
-      "description": "Your love language is Quality Time (INFJ)\u2014you feel most loved when others give you their undivided attention, presence, and emotional connection. You're private, introspective, and value deep, meaningful interactions over superficial connections. You give and receive love through focused attention, active listening, and creating sacred space for genuine emotional connection with your loved ones.",
+      "description": "Your love language is Quality Time (INFJ)—you feel most loved when others give you their undivided attention, presence, and emotional connection. You're private, introspective, and value deep, meaningful interactions over superficial connections. You give and receive love through focused attention, active listening, and creating sacred space for genuine emotional connection with your loved ones.",
       "mbti": "INFJ"
     },
     {
       "title": "Acts of Service (ISFJ)",
-      "description": "Your love language is Acts of Service (ISFJ)\u2014you feel most loved when others show their care through practical, helpful actions that make your life easier. You're reliable, nurturing, and express your love by doing things for others and anticipating their needs. You give and receive love through consistent support, practical help, and the quiet, meaningful gestures that show you're paying attention and care deeply.",
+      "description": "Your love language is Acts of Service (ISFJ)—you feel most loved when others show their care through practical, helpful actions that make your life easier. You're reliable, nurturing, and express your love by doing things for others and anticipating their needs. You give and receive love through consistent support, practical help, and the quiet, meaningful gestures that show you're paying attention and care deeply.",
       "mbti": "ISFJ"
     },
     {
       "title": "Receiving Gifts (ESFP)",
-      "description": "Your love language is Receiving Gifts (ESFP)\u2014you feel most loved when others express their affection through thoughtful, meaningful gifts that show they know and care about you. You're outgoing, spontaneous, and appreciate the tangible expressions of love and thoughtfulness that gifts represent. You give and receive love through creative, personal gifts that celebrate your connection and create lasting memories together.",
+      "description": "Your love language is Receiving Gifts (ESFP)—you feel most loved when others express their affection through thoughtful, meaningful gifts that show they know and care about you. You're outgoing, spontaneous, and appreciate the tangible expressions of love and thoughtfulness that gifts represent. You give and receive love through creative, personal gifts that celebrate your connection and create lasting memories together.",
       "mbti": "ESFP"
     },
     {
       "title": "Physical Touch (ESTP)",
-      "description": "Your love language is Physical Touch (ESTP)\u2014you feel most loved through physical connection, affection, and touch that expresses care and closeness. You're outgoing, physical, and express your love through hugs, hand-holding, and other forms of physical affection that create immediate connection and warmth. You give and receive love through the physical expressions of care that communicate affection without words.",
+      "description": "Your love language is Physical Touch (ESTP)—you feel most loved through physical connection, affection, and touch that expresses care and closeness. You're outgoing, physical, and express your love through hugs, hand-holding, and other forms of physical affection that create immediate connection and warmth. You give and receive love through the physical expressions of care that communicate affection without words.",
       "mbti": "ESTP"
     },
     {
       "title": "Words of Affirmation (ENFP)",
-      "description": "Your love language is Words of Affirmation (ENFP)\u2014you're an optimistic, expressive lover who thrives on positive, encouraging words and heartfelt communication. You express your love through creative, enthusiastic compliments and meaningful conversations that celebrate your loved ones' unique qualities and dreams. You feel most loved when others acknowledge your ideas, passions, and authentic self through genuine, uplifting words.",
+      "description": "Your love language is Words of Affirmation (ENFP)—you're an optimistic, expressive lover who thrives on positive, encouraging words and heartfelt communication. You express your love through creative, enthusiastic compliments and meaningful conversations that celebrate your loved ones' unique qualities and dreams. You feel most loved when others acknowledge your ideas, passions, and authentic self through genuine, uplifting words.",
       "mbti": "ENFP"
     },
     {
       "title": "Quality Time (INFP)",
-      "description": "Your love language is Quality Time (INFP)\u2014you're a deeply emotional, introspective lover who values authentic presence and emotional connection above all else. You feel most loved when others create space for deep, meaningful conversations and share their true selves with you. You give love through attentive listening, emotional presence, and creating sacred moments of genuine connection with those you care about.",
+      "description": "Your love language is Quality Time (INFP)—you're a deeply emotional, introspective lover who values authentic presence and emotional connection above all else. You feel most loved when others create space for deep, meaningful conversations and share their true selves with you. You give love through attentive listening, emotional presence, and creating sacred moments of genuine connection with those you care about.",
       "mbti": "INFP"
     },
     {
       "title": "Acts of Service (ESTJ)",
-      "description": "Your love language is Acts of Service (ESTJ)\u2014you're a practical, reliable lover who shows your care through consistent, helpful actions and tangible support. You feel most loved when others demonstrate their commitment through practical gestures and follow through on their promises. You give love through dependable support, practical assistance, and the quiet consistency that builds trust and security in relationships.",
+      "description": "Your love language is Acts of Service (ESTJ)—you're a practical, reliable lover who shows your care through consistent, helpful actions and tangible support. You feel most loved when others demonstrate their commitment through practical gestures and follow through on their promises. You give love through dependable support, practical assistance, and the quiet consistency that builds trust and security in relationships.",
       "mbti": "ESTJ"
     },
     {
       "title": "Receiving Gifts (ENTP)",
-      "description": "Your love language is Receiving Gifts (ENTP)\u2014you're a creative, innovative lover who appreciates unique, thoughtful gifts that reflect your shared experiences and inside jokes. You feel most loved when others put creative thought into gifts that show they truly understand your quirky, unique personality. You give love through creative, unexpected gifts that surprise and delight your loved ones and celebrate your unique connection.",
+      "description": "Your love language is Receiving Gifts (ENTP)—you're a creative, innovative lover who appreciates unique, thoughtful gifts that reflect your shared experiences and inside jokes. You feel most loved when others put creative thought into gifts that show they truly understand your quirky, unique personality. You give love through creative, unexpected gifts that surprise and delight your loved ones and celebrate your unique connection.",
       "mbti": "ENTP"
     },
     {
       "title": "Physical Touch (ISFP)",
-      "description": "Your love language is Physical Touch (ISFP)\u2014you're a gentle, sensory lover who feels most connected through physical affection and touch that communicates care without words. You express your love through gentle, intuitive physical gestures that create comfort and connection. You feel most loved through the quiet physical expressions of care that communicate safety, warmth, and acceptance in your relationships.",
+      "description": "Your love language is Physical Touch (ISFP)—you're a gentle, sensory lover who feels most connected through physical affection and touch that communicates care without words. You express your love through gentle, intuitive physical gestures that create comfort and connection. You feel most loved through the quiet physical expressions of care that communicate safety, warmth, and acceptance in your relationships.",
       "mbti": "ISFP"
     },
     {
       "title": "Words of Affirmation (ESFJ)",
-      "description": "Your love language is Words of Affirmation (ESFJ)\u2014you're a nurturing, social lover who thrives on expressing and receiving appreciation, gratitude, and encouragement through kind words. You use verbal affirmations to build up your loved ones and create positive, supportive environments. You feel most loved when others acknowledge your efforts, care, and contributions through sincere, heartfelt words of thanks and appreciation.",
+      "description": "Your love language is Words of Affirmation (ESFJ)—you're a nurturing, social lover who thrives on expressing and receiving appreciation, gratitude, and encouragement through kind words. You use verbal affirmations to build up your loved ones and create positive, supportive environments. You feel most loved when others acknowledge your efforts, care, and contributions through sincere, heartfelt words of thanks and appreciation.",
       "mbti": "ESFJ"
     },
     {
       "title": "Quality Time (INTJ)",
-      "description": "Your love language is Quality Time (INTJ)\u2014you're an analytical, private lover who values focused, meaningful time with loved ones free from distractions and superficial interaction. You feel most loved when others engage with you on a deep, intellectual and emotional level. You give love through your undivided attention, thoughtful conversation, and the gift of your precious time and mental energy.",
+      "description": "Your love language is Quality Time (INTJ)—you're an analytical, private lover who values focused, meaningful time with loved ones free from distractions and superficial interaction. You feel most loved when others engage with you on a deep, intellectual and emotional level. You give love through your undivided attention, thoughtful conversation, and the gift of your precious time and mental energy.",
       "mbti": "INTJ"
     },
     {
       "title": "Acts of Service (ISTJ)",
-      "description": "Your love language is Acts of Service (ISTJ)\u2014you're a dependable, practical lover who shows your commitment through consistent, reliable actions and thoughtful assistance. You express your love by taking care of practical matters and supporting your loved ones in tangible ways. You feel most loved when others demonstrate their care through consistent, reliable actions that show they're paying attention to your needs and well-being.",
+      "description": "Your love language is Acts of Service (ISTJ)—you're a dependable, practical lover who shows your commitment through consistent, reliable actions and thoughtful assistance. You express your love by taking care of practical matters and supporting your loved ones in tangible ways. You feel most loved when others demonstrate their care through consistent, reliable actions that show they're paying attention to your needs and well-being.",
       "mbti": "ISTJ"
     },
     {
       "title": "Receiving Gifts (ENTJ)",
-      "description": "Your love language is Receiving Gifts (ENTJ)\u2014you're an ambitious, strategic lover who appreciates high-quality, meaningful gifts that reflect thoughtfulness and consideration. You see gifts as symbols of achievement, appreciation, and shared success in your relationships. You give love through thoughtful, meaningful gifts that celebrate milestones, achievements, and the unique bond you share with your loved ones.",
+      "description": "Your love language is Receiving Gifts (ENTJ)—you're an ambitious, strategic lover who appreciates high-quality, meaningful gifts that reflect thoughtfulness and consideration. You see gifts as symbols of achievement, appreciation, and shared success in your relationships. You give love through thoughtful, meaningful gifts that celebrate milestones, achievements, and the unique bond you share with your loved ones.",
       "mbti": "ENTJ"
     },
     {
       "title": "Physical Touch (ESFP)",
-      "description": "Your love language is Physical Touch (ESFP)\u2014you're an energetic, spontaneous lover who thrives on physical connection, affection, and the immediate warmth of touch. You express your love through enthusiastic physical affection and create connection through touch in all aspects of your relationships. You feel most loved through the physical expressions of joy, affection, and presence that make your relationships feel alive and connected.",
+      "description": "Your love language is Physical Touch (ESFP)—you're an energetic, spontaneous lover who thrives on physical connection, affection, and the immediate warmth of touch. You express your love through enthusiastic physical affection and create connection through touch in all aspects of your relationships. You feel most loved through the physical expressions of joy, affection, and presence that make your relationships feel alive and connected.",
       "mbti": "ESFP"
     },
     {
       "title": "Words of Affirmation (INTP)",
-      "description": "Your love language is Words of Affirmation (INTP)\u2014you're an analytical, thoughtful lover who appreciates sincere, specific compliments and intellectual validation. You feel most loved when others acknowledge your unique perspective, intelligence, and creative ideas through meaningful words. You give love through thoughtful, specific affirmations that reflect your deep understanding of your loved ones' unique qualities and strengths.",
+      "description": "Your love language is Words of Affirmation (INTP)—you're an analytical, thoughtful lover who appreciates sincere, specific compliments and intellectual validation. You feel most loved when others acknowledge your unique perspective, intelligence, and creative ideas through meaningful words. You give love through thoughtful, specific affirmations that reflect your deep understanding of your loved ones' unique qualities and strengths.",
       "mbti": "INTP"
     }
   ]

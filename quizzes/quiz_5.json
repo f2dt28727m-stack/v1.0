@@ -9,7 +9,7 @@
     "Personality",
     "Otaku"
   ],
-  "description": "Answer 12 questions to discover which iconic anime character matches your personality\u2014otaku approved!",
+  "description": "Answer 12 questions to discover which iconic anime character matches your personality—otaku approved!",
   "questions": [
     {
       "text": "In a battle, you prefer to...",
@@ -23,7 +23,7 @@
           "score": "I"
         },
         {
-          "text": "Use practical combat skills",
+          "text": "Use heroic combat skills",
           "score": "S"
         },
         {
@@ -44,7 +44,7 @@
           "score": "I"
         },
         {
-          "text": "Practical training montage",
+          "text": "Heroic training montage",
           "score": "S"
         },
         {
@@ -107,7 +107,7 @@
           "score": "I"
         },
         {
-          "text": "Practical teamwork",
+          "text": "Heroic teamwork",
           "score": "S"
         },
         {
@@ -128,7 +128,7 @@
           "score": "I"
         },
         {
-          "text": "A practical threat",
+          "text": "A heroic threat",
           "score": "S"
         },
         {
@@ -149,7 +149,7 @@
           "score": "I"
         },
         {
-          "text": "Practical club activities",
+          "text": "Heroic club activities",
           "score": "S"
         },
         {
@@ -170,7 +170,7 @@
           "score": "I"
         },
         {
-          "text": "Fix practical mistakes",
+          "text": "Fix heroic mistakes",
           "score": "S"
         },
         {
@@ -191,7 +191,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and functional",
+          "text": "Heroic and functional",
           "score": "S"
         },
         {
@@ -212,7 +212,7 @@
           "score": "I"
         },
         {
-          "text": "Practical survival",
+          "text": "Heroic survival",
           "score": "S"
         },
         {
@@ -254,7 +254,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and direct",
+          "text": "Heroic and direct",
           "score": "S"
         },
         {
@@ -359,7 +359,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and realistic",
+          "text": "Heroic and realistic",
           "score": "S"
         },
         {
@@ -422,7 +422,7 @@
           "score": "I"
         },
         {
-          "text": "Practical gifts",
+          "text": "Heroic gifts",
           "score": "S"
         },
         {
@@ -464,7 +464,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and rhythmic",
+          "text": "Heroic and rhythmic",
           "score": "S"
         },
         {
@@ -506,7 +506,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and realistic",
+          "text": "Heroic and realistic",
           "score": "S"
         },
         {
@@ -548,7 +548,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and useful",
+          "text": "Heroic and useful",
           "score": "S"
         },
         {
@@ -590,7 +590,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and filling",
+          "text": "Heroic and filling",
           "score": "S"
         },
         {
@@ -653,7 +653,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and useful",
+          "text": "Heroic and useful",
           "score": "S"
         },
         {
@@ -737,7 +737,7 @@
           "score": "I"
         },
         {
-          "text": "Practical impact",
+          "text": "Heroic impact",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Naruto Uzumaki (Naruto)",
-      "description": "You're the energetic, never-give-up ninja! Like Naruto, you're outgoing, optimistic, and driven by a desire to be recognized and protect your friends. You've faced hardship but never lost your spirit, and you inspire others with your determination. You're an ESFP\u2014energetic, spontaneous, and deeply connected to the people around you.",
+      "description": "You're the energetic, never-give-up ninja! Like Naruto, you're outgoing, optimistic, and driven by a desire to be recognized and protect your friends. You've faced hardship but never lost your spirit, and you inspire others with your determination. You're an ESFP—energetic, spontaneous, and deeply connected to the people around you.",
       "mbti": "ESFP"
     },
     {
       "title": "Sasuke Uchiha (Naruto)",
-      "description": "You're the brooding, revenge-driven ninja! Like Sasuke, you're private, introspective, and driven by a desire to avenge your family. You're a skilled fighter with a sharp mind, and you're willing to walk a dark path to get what you want. You're an INTJ\u2014visionary, logical, and willing to make tough choices for your goals.",
+      "description": "You're the brooding, revenge-driven ninja! Like Sasuke, you're private, introspective, and driven by a desire to avenge your family. You're a skilled fighter with a sharp mind, and you're willing to walk a dark path to get what you want. You're an INTJ—visionary, logical, and willing to make tough choices for your goals.",
       "mbti": "INTJ"
     },
     {
       "title": "Monkey D. Luffy (One Piece)",
-      "description": "You're the carefree, ambitious pirate captain! Like Luffy, you're outgoing, optimistic, and driven by a desire to become the Pirate King. You value freedom and friendship above all, and you're always ready for a new adventure. You're an ENFP\u2014optimistic, creative, and always up for a challenge.",
+      "description": "You're the carefree, ambitious pirate captain! Like Luffy, you're outgoing, optimistic, and driven by a desire to become the Pirate King. You value freedom and friendship above all, and you're always ready for a new adventure. You're an ENFP—optimistic, creative, and always up for a challenge.",
       "mbti": "ENFP"
     },
     {
       "title": "Goku (Dragon Ball Z)",
-      "description": "You're the powerful, competitive Saiyan! Like Goku, you're outgoing, friendly, and driven by a desire to become stronger and protect the Earth. You love a good fight and never back down from a challenge, and you're always willing to train to improve. You're an ESTP\u2014bold, practical, and always ready for action.",
+      "description": "You're the powerful, competitive Saiyan! Like Goku, you're outgoing, friendly, and driven by a desire to become stronger and protect the Earth. You love a good fight and never back down from a challenge, and you're always willing to train to improve. You're an ESTP—bold, practical, and always ready for action.",
       "mbti": "ESTP"
     },
     {
       "title": "Vegeta (Dragon Ball Z)",
-      "description": "You're the proud, competitive Prince of all Saiyans! Like Vegeta, you're private, driven, and obsessed with surpassing Goku. You're a skilled fighter with a sharp mind, and you're willing to do whatever it takes to become the strongest. You're an ENTJ\u2014strategic, charismatic, and a natural leader who demands excellence.",
+      "description": "You're the proud, competitive Prince of all Saiyans! Like Vegeta, you're private, driven, and obsessed with surpassing Goku. You're a skilled fighter with a sharp mind, and you're willing to do whatever it takes to become the strongest. You're an ENTJ—strategic, charismatic, and a natural leader who demands excellence.",
       "mbti": "ENTJ"
     },
     {
       "title": "Eren Yeager (Attack on Titan)",
-      "description": "You're the passionate, revenge-driven soldier! Like Eren, you're outgoing, emotional, and driven by a desire to destroy the Titans and protect humanity. You're willing to make sacrifices for your goals, and you're not afraid to challenge authority. You're an ENFJ\u2014charismatic, compassionate, and a natural leader who inspires others to fight.",
+      "description": "You're the passionate, revenge-driven soldier! Like Eren, you're outgoing, emotional, and driven by a desire to destroy the Titans and protect humanity. You're willing to make sacrifices for your goals, and you're not afraid to challenge authority. You're an ENFJ—charismatic, compassionate, and a natural leader who inspires others to fight.",
       "mbti": "ENFJ"
     },
     {
       "title": "Levi Ackerman (Attack on Titan)",
-      "description": "You're the stoic, skilled soldier! Like Levi, you're private, practical, and driven by a desire to protect his squad. You're a master fighter with a sharp mind, and you demand perfection from yourself and others. You're an ISTJ\u2014practical, responsible, and a steady force in chaos.",
+      "description": "You're the stoic, skilled soldier! Like Levi, you're private, practical, and driven by a desire to protect his squad. You're a master fighter with a sharp mind, and you demand perfection from yourself and others. You're an ISTJ—practical, responsible, and a steady force in chaos.",
       "mbti": "ISTJ"
     },
     {
       "title": "Ichigo Kurosaki (Bleach)",
-      "description": "You're the rebellious, protective Soul Reaper! Like Ichigo, you're outgoing, protective, and driven by a desire to protect his friends and family. You're a skilled fighter with a strong sense of justice, and you're not afraid to break the rules to do what's right. You're an ESFJ\u2014compassionate, responsible, and a natural protector of others.",
+      "description": "You're the rebellious, protective Soul Reaper! Like Ichigo, you're outgoing, protective, and driven by a desire to protect his friends and family. You're a skilled fighter with a strong sense of justice, and you're not afraid to break the rules to do what's right. You're an ESFJ—compassionate, responsible, and a natural protector of others.",
       "mbti": "ESFJ"
     },
     {
       "title": "Light Yagami (Death Note)",
-      "description": "You're the brilliant, power-hungry detective! Like Light, you're private, logical, and driven by a desire to become the god of a new world. You're a genius with a sharp mind, and you're willing to manipulate others to achieve your goals. You're an INTP\u2014analytical, creative, and always playing the long game.",
+      "description": "You're the brilliant, power-hungry detective! Like Light, you're private, logical, and driven by a desire to become the god of a new world. You're a genius with a sharp mind, and you're willing to manipulate others to achieve your goals. You're an INTP—analytical, creative, and always playing the long game.",
       "mbti": "INTP"
     },
     {
       "title": "L (Death Note)",
-      "description": "You're the eccentric, brilliant detective! Like L, you're private, logical, and driven by a desire to catch Kira and bring justice. You're a genius with a unique perspective, and you're not afraid to break the rules to solve a case. You're an INFP\u2014idealistic, introspective, and deeply committed to your sense of justice.",
+      "description": "You're the eccentric, brilliant detective! Like L, you're private, logical, and driven by a desire to catch Kira and bring justice. You're a genius with a unique perspective, and you're not afraid to break the rules to solve a case. You're an INFP—idealistic, introspective, and deeply committed to your sense of justice.",
       "mbti": "INFP"
     },
     {
       "title": "Mikasa Ackerman (Attack on Titan)",
-      "description": "You're the loyal, protective soldier! Like Mikasa, you're private, protective, and driven by a desire to protect Eren. You're a skilled fighter with a strong sense of duty, and you're willing to do whatever it takes to keep your loved ones safe. You're an ISFJ\u2014kind, loyal, and a quiet protector of those you love.",
+      "description": "You're the loyal, protective soldier! Like Mikasa, you're private, protective, and driven by a desire to protect Eren. You're a skilled fighter with a strong sense of duty, and you're willing to do whatever it takes to keep your loved ones safe. You're an ISFJ—kind, loyal, and a quiet protector of those you love.",
       "mbti": "ISFJ"
     },
     {
       "title": "Shoto Todoroki (My Hero Academia)",
-      "description": "You're the calm, powerful hero! Like Shoto, you're private, logical, and driven by a desire to escape his father's shadow. You're a skilled fighter with a unique quirk, and you're willing to work hard to become a great hero. You're an INTP\u2014analytical, creative, and always seeking to improve.",
+      "description": "You're the calm, powerful hero! Like Shoto, you're private, logical, and driven by a desire to escape his father's shadow. You're a skilled fighter with a unique quirk, and you're willing to work hard to become a great hero. You're an INTP—analytical, creative, and always seeking to improve.",
       "mbti": "INTP"
     },
     {
       "title": "Izuku Midoriya (My Hero Academia)",
-      "description": "You're the determined, compassionate hero! Like Izuku, you're outgoing, compassionate, and driven by a desire to become the number one hero. You're a quick learner with a strong sense of justice, and you're always willing to help others. You're an ENFJ\u2014charismatic, compassionate, and a natural leader who inspires others.",
+      "description": "You're the determined, compassionate hero! Like Izuku, you're outgoing, compassionate, and driven by a desire to become the number one hero. You're a quick learner with a strong sense of justice, and you're always willing to help others. You're an ENFJ—charismatic, compassionate, and a natural leader who inspires others.",
       "mbti": "ENFJ"
     },
     {
       "title": "Katsuki Bakugo (My Hero Academia)",
-      "description": "You're the explosive, competitive hero! Like Bakugo, you're outgoing, confident, and driven by a desire to be the best. You're a skilled fighter with a short temper, and you're willing to work hard to surpass your rivals. You're an ESTJ\u2014practical, responsible, and a natural leader who demands excellence.",
+      "description": "You're the explosive, competitive hero! Like Bakugo, you're outgoing, confident, and driven by a desire to be the best. You're a skilled fighter with a short temper, and you're willing to work hard to surpass your rivals. You're an ESTJ—practical, responsible, and a natural leader who demands excellence.",
       "mbti": "ESTJ"
     },
     {
       "title": "Saitama (One Punch Man)",
-      "description": "You're the overpowered, bored hero! Like Saitama, you're outgoing, laid-back, and driven by a desire to find a worthy opponent. You're the strongest hero in the world, but you're always looking for a challenge to keep things interesting. You're an ESFP\u2014energetic, spontaneous, and always looking for fun.",
+      "description": "You're the overpowered, bored hero! Like Saitama, you're outgoing, laid-back, and driven by a desire to find a worthy opponent. You're the strongest hero in the world, but you're always looking for a challenge to keep things interesting. You're an ESFP—energetic, spontaneous, and always looking for fun.",
       "mbti": "ESFP"
     },
     {
       "title": "Gojo Satoru (Jujutsu Kaisen)",
-      "description": "You're the powerful, eccentric sorcerer! Like Gojo, you're outgoing, charismatic, and driven by a desire to protect the next generation of sorcerers. You're the strongest sorcerer in the world, and you're not afraid to break the rules to do what's right. You're an ENTP\u2014creative, strategic, and always one step ahead of your enemies.",
+      "description": "You're the powerful, eccentric sorcerer! Like Gojo, you're outgoing, charismatic, and driven by a desire to protect the next generation of sorcerers. You're the strongest sorcerer in the world, and you're not afraid to break the rules to do what's right. You're an ENTP—creative, strategic, and always one step ahead of your enemies.",
       "mbti": "ENTP"
     }
   ]

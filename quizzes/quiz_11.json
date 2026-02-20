@@ -9,7 +9,7 @@
     "Adventure",
     "Wanderlust"
   ],
-  "description": "Answer 12 wanderlust-filled questions to discover your travel personality type\u2014unlock your perfect vacation style!",
+  "description": "Answer 12 wanderlust-filled questions to discover your travel personality type—unlock your perfect vacation style!",
   "questions": [
     {
       "text": "Your ideal destination is...",
@@ -170,7 +170,7 @@
           "score": "I"
         },
         {
-          "text": "Find practical solutions",
+          "text": "Find adventurous solutions",
           "score": "S"
         },
         {
@@ -292,7 +292,7 @@
           "score": "E"
         },
         {
-          "text": "Read in a caf\u00e9",
+          "text": "Read in a café",
           "score": "I"
         },
         {
@@ -401,7 +401,7 @@
           "score": "I"
         },
         {
-          "text": "Practical souvenirs",
+          "text": "Adventurous souvenirs",
           "score": "S"
         },
         {
@@ -527,7 +527,7 @@
           "score": "I"
         },
         {
-          "text": "Practical and versatile",
+          "text": "Adventurous and versatile",
           "score": "S"
         },
         {
@@ -716,7 +716,7 @@
           "score": "I"
         },
         {
-          "text": "Practical recommendations",
+          "text": "Adventurous recommendations",
           "score": "S"
         },
         {
@@ -786,7 +786,7 @@
     },
     {
       "title": "The Adventure Seeker (ESTP)",
-      "description": "You're the bold, spontaneous adventure seeker of travel! Like an ESTP, you thrive on adrenaline, love exploring remote destinations, and live for the thrill of new experiences. You're practical, adaptable, and always up for a new challenge\u2014whether it's hiking a mountain, trying extreme sports, or exploring off-the-beaten-path destinations. Your ideal trips include backpacking, hiking, camping, and adventure travel where you can push your limits and create unforgettable memories.",
+      "description": "You're the bold, spontaneous adventure seeker of travel! Like an ESTP, you thrive on adrenaline, love exploring remote destinations, and live for the thrill of new experiences. You're practical, adaptable, and always up for a new challenge—whether it's hiking a mountain, trying extreme sports, or exploring off-the-beaten-path destinations. Your ideal trips include backpacking, hiking, camping, and adventure travel where you can push your limits and create unforgettable memories.",
       "mbti": "ESTP"
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "title": "The Free Spirit (ENFP)",
-      "description": "You're the optimistic, creative free spirit of travel! Like an ENFP, you love spontaneity, adventure, and exploring new destinations without a strict plan. You're optimistic, creative, and always up for a new adventure\u2014whether it's changing your travel plans last minute or exploring a new destination on a whim. Your ideal trips include backpacking, road trips, and spontaneous getaways where you can follow your heart and create unforgettable memories.",
+      "description": "You're the optimistic, creative free spirit of travel! Like an ENFP, you love spontaneity, adventure, and exploring new destinations without a strict plan. You're optimistic, creative, and always up for a new adventure—whether it's changing your travel plans last minute or exploring a new destination on a whim. Your ideal trips include backpacking, road trips, and spontaneous getaways where you can follow your heart and create unforgettable memories.",
       "mbti": "ENFP"
     },
     {

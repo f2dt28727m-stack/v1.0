@@ -41,7 +41,7 @@
           }
         },
         {
-          "text": "Practicing practical spells in the courtyard",
+          "text": "Practicing magical spells in the courtyard",
           "score": {
             "E": 0,
             "I": 0,
@@ -1259,7 +1259,7 @@
           }
         },
         {
-          "text": "Use practical skills to compete",
+          "text": "Use magical skills to compete",
           "score": {
             "E": 0,
             "I": 0,
@@ -1594,7 +1594,7 @@
           }
         },
         {
-          "text": "Solve a practical problem",
+          "text": "Solve a magical problem",
           "score": {
             "E": 0,
             "I": 0,
@@ -2103,82 +2103,82 @@
     {
       "mbtiType": "ENFP",
       "title": "Harry Potter",
-      "description": "You're the brave, loyal hero of the wizarding world! Like Harry, you're a natural leader who stands up for what's right, even when it's scary. You value friendship above all, have a strong sense of justice, and combine courage with compassion. You're an ENFP\u2014optimistic, creative, and always ready for adventure."
+      "description": "You're the brave, loyal hero of the wizarding world! Like Harry, you're a natural leader who stands up for what's right, even when it's scary. You value friendship above all, have a strong sense of justice, and combine courage with compassion. You're an ENFP—optimistic, creative, and always ready for adventure."
     },
     {
       "mbtiType": "INTJ",
       "title": "Hermione Granger",
-      "description": "You're the brilliant, determined brains of the Golden Trio! Like Hermione, you're hardworking, logical, and fiercely loyal to your friends. You value knowledge and justice, use your intelligence to solve problems, and never back down from a fight for what's right. You're an INTJ\u2014strategic, analytical, and a natural problem-solver."
+      "description": "You're the brilliant, determined brains of the Golden Trio! Like Hermione, you're hardworking, logical, and fiercely loyal to your friends. You value knowledge and justice, use your intelligence to solve problems, and never back down from a fight for what's right. You're an INTJ—strategic, analytical, and a natural problem-solver."
     },
     {
       "mbtiType": "ESFP",
       "title": "Ron Weasley",
-      "description": "You're the funny, loyal heart of the Golden Trio! Like Ron, you're outgoing, loyal to your family and friends, and have a great sense of humor. You're brave when it counts, value connection over glory, and bring warmth to every situation. You're an ESFP\u2014energetic, spontaneous, and people-focused."
+      "description": "You're the funny, loyal heart of the Golden Trio! Like Ron, you're outgoing, loyal to your family and friends, and have a great sense of humor. You're brave when it counts, value connection over glory, and bring warmth to every situation. You're an ESFP—energetic, spontaneous, and people-focused."
     },
     {
       "mbtiType": "INFJ",
       "title": "Albus Dumbledore",
-      "description": "You're the wise, visionary leader of Hogwarts! Like Dumbledore, you're thoughtful, intuitive, and see the big picture. You balance wisdom with kindness, use your experience to guide others, and believe in the power of love over darkness. You're an INFJ\u2014compassionate, visionary, and a natural mentor."
+      "description": "You're the wise, visionary leader of Hogwarts! Like Dumbledore, you're thoughtful, intuitive, and see the big picture. You balance wisdom with kindness, use your experience to guide others, and believe in the power of love over darkness. You're an INFJ—compassionate, visionary, and a natural mentor."
     },
     {
       "mbtiType": "INTP",
       "title": "Severus Snape",
-      "description": "You're the complex, loyal potions master! Like Snape, you're private, deeply loyal, and have a hidden soft side. You keep your true feelings to yourself, fight for what you believe in quietly, and value loyalty above all. You're an INTP\u2014analytical, private, and driven by your own moral code."
+      "description": "You're the complex, loyal potions master! Like Snape, you're private, deeply loyal, and have a hidden soft side. You keep your true feelings to yourself, fight for what you believe in quietly, and value loyalty above all. You're an INTP—analytical, private, and driven by your own moral code."
     },
     {
       "mbtiType": "ESTP",
       "title": "Ginny Weasley",
-      "description": "You're the brave, confident Weasley sister! Like Ginny, you're outgoing, fearless, and unafraid to be yourself. You're athletic, loyal, and have a strong sense of self, never letting others define you. You're an ESTP\u2014bold, spontaneous, and always ready for action."
+      "description": "You're the brave, confident Weasley sister! Like Ginny, you're outgoing, fearless, and unafraid to be yourself. You're athletic, loyal, and have a strong sense of self, never letting others define you. You're an ESTP—bold, spontaneous, and always ready for action."
     },
     {
       "mbtiType": "INFP",
       "title": "Luna Lovegood",
-      "description": "You're the unique, imaginative Ravenclaw! Like Luna, you're creative, intuitive, and unapologetically yourself. You see the world differently, value your own truth over others' opinions, and bring magic to every moment. You're an INFP\u2014idealistic, creative, and deeply introspective."
+      "description": "You're the unique, imaginative Ravenclaw! Like Luna, you're creative, intuitive, and unapologetically yourself. You see the world differently, value your own truth over others' opinions, and bring magic to every moment. You're an INFP—idealistic, creative, and deeply introspective."
     },
     {
       "mbtiType": "ESTJ",
       "title": "Draco Malfoy",
-      "description": "You're the complex, privileged Slytherin! Like Draco, you're ambitious, strategic, and driven by your sense of duty. You struggle with your moral compass, value your reputation, and have a hidden vulnerability beneath your tough exterior. You're an ESTJ\u2014ambitious, structured, and driven by responsibility."
+      "description": "You're the complex, privileged Slytherin! Like Draco, you're ambitious, strategic, and driven by your sense of duty. You struggle with your moral compass, value your reputation, and have a hidden vulnerability beneath your tough exterior. You're an ESTJ—ambitious, structured, and driven by responsibility."
     },
     {
       "mbtiType": "ENTP",
       "title": "Sirius Black",
-      "description": "You're the rebellious, loyal Marauder! Like Sirius, you're outgoing, free-spirited, and fiercely loyal to your loved ones. You value freedom above all, have a rebellious streak, and bring excitement to every adventure. You're an ENTP\u2014witty, creative, and always challenging the rules."
+      "description": "You're the rebellious, loyal Marauder! Like Sirius, you're outgoing, free-spirited, and fiercely loyal to your loved ones. You value freedom above all, have a rebellious streak, and bring excitement to every adventure. You're an ENTP—witty, creative, and always challenging the rules."
     },
     {
       "mbtiType": "INFJ",
       "title": "Remus Lupin",
-      "description": "You're the kind, wise Marauder and Defense professor! Like Remus, you're thoughtful, compassionate, and deeply loyal. You've faced hardship with grace, use your experience to help others, and value connection and understanding. You're an INFJ\u2014empathetic, wise, and a natural caregiver."
+      "description": "You're the kind, wise Marauder and Defense professor! Like Remus, you're thoughtful, compassionate, and deeply loyal. You've faced hardship with grace, use your experience to help others, and value connection and understanding. You're an INFJ—empathetic, wise, and a natural caregiver."
     },
     {
       "mbtiType": "ISFJ",
       "title": "Neville Longbottom",
-      "description": "You're the brave, loyal Gryffindor hero! Like Neville, you're quiet, loyal, and far braver than you give yourself credit for. You grow into your strength, stand up for what's right, and protect your friends fiercely. You're an ISFJ\u2014kind, loyal, and steady in times of trouble."
+      "description": "You're the brave, loyal Gryffindor hero! Like Neville, you're quiet, loyal, and far braver than you give yourself credit for. You grow into your strength, stand up for what's right, and protect your friends fiercely. You're an ISFJ—kind, loyal, and steady in times of trouble."
     },
     {
       "mbtiType": "ESFJ",
       "title": "Bellatrix Lestrange",
-      "description": "You're the fierce, loyal Death Eater! Like Bellatrix, you're passionate, intense, and unwaveringly loyal to your beliefs (even when they're dark). You're bold, dramatic, and unafraid to fight for what you stand for. You're an ESFJ\u2014people-focused, passionate, and driven by loyalty (for better or worse)."
+      "description": "You're the fierce, loyal Death Eater! Like Bellatrix, you're passionate, intense, and unwaveringly loyal to your beliefs (even when they're dark). You're bold, dramatic, and unafraid to fight for what you stand for. You're an ESFJ—people-focused, passionate, and driven by loyalty (for better or worse)."
     },
     {
       "mbtiType": "ESFJ",
       "title": "Rubeus Hagrid",
-      "description": "You're the kind, gentle giant of Hogwarts! Like Hagrid, you're outgoing, compassionate, and love all magical creatures. You're loyal to your friends, see the good in everyone, and bring warmth to every room. You're an ESFJ\u2014nurturing, social, and deeply connected to others."
+      "description": "You're the kind, gentle giant of Hogwarts! Like Hagrid, you're outgoing, compassionate, and love all magical creatures. You're loyal to your friends, see the good in everyone, and bring warmth to every room. You're an ESFJ—nurturing, social, and deeply connected to others."
     },
     {
       "mbtiType": "ISTJ",
       "title": "Minerva McGonagall",
-      "description": "You're the wise, strict Transfiguration professor! Like McGonagall, you're structured, loyal, and have a hidden warm side. You value rules and respect, but fight fiercely to protect what you care about. You're an ISTJ\u2014practical, responsible, and a steady leader in crisis."
+      "description": "You're the wise, strict Transfiguration professor! Like McGonagall, you're structured, loyal, and have a hidden warm side. You value rules and respect, but fight fiercely to protect what you care about. You're an ISTJ—practical, responsible, and a steady leader in crisis."
     },
     {
       "mbtiType": "ENTJ",
       "title": "Voldemort (Tom Riddle)",
-      "description": "You're the powerful, ambitious dark lord! Like Voldemort, you're strategic, ambitious, and driven by power and control. You're analytical, visionary, and willing to do whatever it takes to achieve your goals. You're an ENTJ\u2014strategic, confident, and a natural (if ruthless) leader."
+      "description": "You're the powerful, ambitious dark lord! Like Voldemort, you're strategic, ambitious, and driven by power and control. You're analytical, visionary, and willing to do whatever it takes to achieve your goals. You're an ENTJ—strategic, confident, and a natural (if ruthless) leader."
     },
     {
       "mbtiType": "ENTP",
       "title": "Fred Weasley",
-      "description": "You're the funny, rebellious Weasley twin! Like Fred, you're outgoing, witty, and love to make people laugh. You're creative, spontaneous, and unafraid to break the rules for fun and friendship. You're an ENTP\u2014creative, witty, and always up for a prank or adventure."
+      "description": "You're the funny, rebellious Weasley twin! Like Fred, you're outgoing, witty, and love to make people laugh. You're creative, spontaneous, and unafraid to break the rules for fun and friendship. You're an ENTP—creative, witty, and always up for a prank or adventure."
     }
   ]
 }

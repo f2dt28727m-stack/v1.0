@@ -65,7 +65,7 @@
           "score": "I"
         },
         {
-          "text": "Use practical defensive magic",
+          "text": "Use 魔法 defensive magic",
           "score": "S"
         },
         {
@@ -170,7 +170,7 @@
           "score": "I"
         },
         {
-          "text": "Practical danger",
+          "text": "魔法 danger",
           "score": "S"
         },
         {
@@ -212,7 +212,7 @@
           "score": "I"
         },
         {
-          "text": "Practical alliance",
+          "text": "魔法 alliance",
           "score": "S"
         },
         {
@@ -267,7 +267,7 @@
       "text": "You learn magic by...",
       "options": [
         {
-          "text": "Practical practice",
+          "text": "魔法 practice",
           "score": "S"
         },
         {
@@ -359,7 +359,7 @@
           "score": "T"
         },
         {
-          "text": "Practical skill over blood",
+          "text": "魔法 skill over blood",
           "score": "S"
         },
         {
@@ -716,7 +716,7 @@
           "score": "I"
         },
         {
-          "text": "Practical career",
+          "text": "魔法 career",
           "score": "S"
         },
         {

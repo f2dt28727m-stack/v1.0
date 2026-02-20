@@ -9,7 +9,7 @@
     "Cooking",
     "Eating"
   ],
-  "description": "Answer 12 delicious questions to discover your food personality type\u2014unlock your culinary identity!",
+  "description": "Answer 12 delicious questions to discover your food personality type—unlock your culinary identity!",
   "questions": [
     {
       "text": "Your ideal meal is...",
@@ -309,7 +309,7 @@
       "text": "You drink coffee/tea by...",
       "options": [
         {
-          "text": "Caf\u00e9 with friends",
+          "text": "Café with friends",
           "score": "E"
         },
         {
@@ -590,7 +590,7 @@
           "score": "I"
         },
         {
-          "text": "Practical items",
+          "text": "Culinary items",
           "score": "J"
         },
         {
@@ -695,7 +695,7 @@
           "score": "I"
         },
         {
-          "text": "Practical shows",
+          "text": "Culinary shows",
           "score": "J"
         },
         {
@@ -791,7 +791,7 @@
     },
     {
       "title": "The Comfort Food Lover (ISFJ)",
-      "description": "You're the nurturing, compassionate comfort food lover! Like an ISFJ, you find joy in classic, comforting dishes that remind you of home and childhood. You love cooking for your loved ones, value tradition in your food choices, and find comfort in familiar flavors and recipes. Your ideal meals are warm, comforting, and full of love\u2014whether it's your mom's famous pasta or a hearty bowl of soup on a cold day.",
+      "description": "You're the nurturing, compassionate comfort food lover! Like an ISFJ, you find joy in classic, comforting dishes that remind you of home and childhood. You love cooking for your loved ones, value tradition in your food choices, and find comfort in familiar flavors and recipes. Your ideal meals are warm, comforting, and full of love—whether it's your mom's famous pasta or a hearty bowl of soup on a cold day.",
       "mbti": "ISFJ"
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "title": "The Adventurous Taster (ESTP)",
-      "description": "You're the bold, spontaneous adventurous taster! Like an ESTP, you love trying new and exotic foods, enjoy street food and local specialties when traveling, and approach eating with a sense of adventure and curiosity. You're practical, adaptable, and always up for trying something new\u2014whether it's a spicy pepper or an exotic fruit you've never heard of. Your ideal meals are bold, flavorful, and full of excitement.",
+      "description": "You're the bold, spontaneous adventurous taster! Like an ESTP, you love trying new and exotic foods, enjoy street food and local specialties when traveling, and approach eating with a sense of adventure and curiosity. You're practical, adaptable, and always up for trying something new—whether it's a spicy pepper or an exotic fruit you've never heard of. Your ideal meals are bold, flavorful, and full of excitement.",
       "mbti": "ESTP"
     },
     {
@@ -816,7 +816,7 @@
     },
     {
       "title": "The Food Artist (INFP)",
-      "description": "You're the idealistic, creative food artist! Like an INFP, you view food as art, love beautiful presentation, and find joy in the aesthetic side of cooking and eating. You're introspective, creative, and enjoy creating meals that are as beautiful as they are delicious. Your ideal meals are colorful, artistic, and full of meaning\u2014whether it's a beautifully plated dessert or a meal that tells a story.",
+      "description": "You're the idealistic, creative food artist! Like an INFP, you view food as art, love beautiful presentation, and find joy in the aesthetic side of cooking and eating. You're introspective, creative, and enjoy creating meals that are as beautiful as they are delicious. Your ideal meals are colorful, artistic, and full of meaning—whether it's a beautifully plated dessert or a meal that tells a story.",
       "mbti": "INFP"
     },
     {
@@ -831,7 +831,7 @@
     },
     {
       "title": "The Simple Cook (ISFP)",
-      "description": "You're the gentle, spontaneous simple cook! Like an ISFP, you value simplicity, fresh ingredients, and the natural flavors of food. You're creative, practical, and enjoy cooking simple, delicious meals with minimal fuss. Your ideal meals are fresh, simple, and full of natural flavor\u2014whether it's a fresh salad with homemade dressing or a perfectly cooked piece of fish with herbs from your garden.",
+      "description": "You're the gentle, spontaneous simple cook! Like an ISFP, you value simplicity, fresh ingredients, and the natural flavors of food. You're creative, practical, and enjoy cooking simple, delicious meals with minimal fuss. Your ideal meals are fresh, simple, and full of natural flavor—whether it's a fresh salad with homemade dressing or a perfectly cooked piece of fish with herbs from your garden.",
       "mbti": "ISFP"
     },
     {
@@ -846,7 +846,7 @@
     },
     {
       "title": "The Flexible Foodie (ESTP)",
-      "description": "You're the adaptable, practical flexible foodie! Like an ESTP, you're comfortable cooking with whatever ingredients you have on hand, enjoy improvising in the kitchen, and approach food with a practical, adaptable mindset. You're quick-thinking, resourceful, and can turn a few random ingredients into a delicious meal with ease. Your ideal meals are creative, practical, and full of flavor\u2014no recipe required!",
+      "description": "You're the adaptable, practical flexible foodie! Like an ESTP, you're comfortable cooking with whatever ingredients you have on hand, enjoy improvising in the kitchen, and approach food with a practical, adaptable mindset. You're quick-thinking, resourceful, and can turn a few random ingredients into a delicious meal with ease. Your ideal meals are creative, practical, and full of flavor—no recipe required!",
       "mbti": "ESTP"
     }
   ]

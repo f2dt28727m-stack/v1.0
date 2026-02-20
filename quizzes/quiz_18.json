@@ -9,7 +9,7 @@
     "Personality",
     "Fantasy"
   ],
-  "description": "Answer 12 magical questions to discover which Disney princess matches your MBTI personality type\u2014live your fairy tale!",
+  "description": "Answer 12 magical questions to discover which Disney princess matches your MBTI personality type—live your fairy tale!",
   "questions": [
     {
       "text": "Your fairy tale setting is...",
@@ -65,7 +65,7 @@
           "score": "I"
         },
         {
-          "text": "Practical attire",
+          "text": "Brave attire",
           "score": "S"
         },
         {
@@ -149,7 +149,7 @@
           "score": "I"
         },
         {
-          "text": "Practical quest",
+          "text": "Brave quest",
           "score": "S"
         },
         {
@@ -527,7 +527,7 @@
           "score": "I"
         },
         {
-          "text": "Practical crafts",
+          "text": "Brave crafts",
           "score": "S"
         },
         {
@@ -548,7 +548,7 @@
           "score": "I"
         },
         {
-          "text": "Practical tool",
+          "text": "Brave tool",
           "score": "S"
         },
         {
@@ -611,7 +611,7 @@
           "score": "I"
         },
         {
-          "text": "Practical help",
+          "text": "Brave help",
           "score": "S"
         },
         {
@@ -737,7 +737,7 @@
           "score": "I"
         },
         {
-          "text": "Practical doer",
+          "text": "Brave doer",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Cinderella (ISFJ)",
-      "description": "You're Cinderella\u2014the kind, loyal ISFJ princess! Like Cinderella, you're private, practical, and find strength in kindness and hard work. You face adversity with grace, stay true to your values, and believe in the power of small acts of goodness to create magic in the world around you.",
+      "description": "You're Cinderella—the kind, loyal ISFJ princess! Like Cinderella, you're private, practical, and find strength in kindness and hard work. You face adversity with grace, stay true to your values, and believe in the power of small acts of goodness to create magic in the world around you.",
       "mbti": "ISFJ"
     },
     {
       "title": "Ariel (ESFP)",
-      "description": "You're Ariel\u2014the curious, outgoing ESFP princess! Like Ariel, you're energetic, spontaneous, and obsessed with exploring new worlds and experiences. You follow your heart, take bold risks for what you want, and bring joy and adventure to everyone who knows you with your free-spirited nature.",
+      "description": "You're Ariel—the curious, outgoing ESFP princess! Like Ariel, you're energetic, spontaneous, and obsessed with exploring new worlds and experiences. You follow your heart, take bold risks for what you want, and bring joy and adventure to everyone who knows you with your free-spirited nature.",
       "mbti": "ESFP"
     },
     {
       "title": "Belle (INFP)",
-      "description": "You're Belle\u2014the thoughtful, imaginative INFP princess! Like Belle, you're private, idealistic, and find beauty in books, knowledge, and seeing the good in others. You value intelligence over appearances, stand up for what's right, and believe in the transformative power of compassion and understanding.",
+      "description": "You're Belle—the thoughtful, imaginative INFP princess! Like Belle, you're private, idealistic, and find beauty in books, knowledge, and seeing the good in others. You value intelligence over appearances, stand up for what's right, and believe in the transformative power of compassion and understanding.",
       "mbti": "INFP"
     },
     {
       "title": "Jasmine (ESTP)",
-      "description": "You're Jasmine\u2014the bold, independent ESTP princess! Like Jasmine, you're outgoing, practical, and refuse to be confined by expectations or tradition. You speak your mind, take action to defend your beliefs, and value freedom and authenticity above royal titles or societal approval.",
+      "description": "You're Jasmine—the bold, independent ESTP princess! Like Jasmine, you're outgoing, practical, and refuse to be confined by expectations or tradition. You speak your mind, take action to defend your beliefs, and value freedom and authenticity above royal titles or societal approval.",
       "mbti": "ESTP"
     },
     {
       "title": "Snow White (ESFJ)",
-      "description": "You're Snow White\u2014the nurturing, social ESFJ princess! Like Snow White, you're outgoing, compassionate, and a natural caretaker who brings joy and harmony to those around you. You find strength in community, use your kindness as a superpower, and create warmth and belonging wherever you go.",
+      "description": "You're Snow White—the nurturing, social ESFJ princess! Like Snow White, you're outgoing, compassionate, and a natural caretaker who brings joy and harmony to those around you. You find strength in community, use your kindness as a superpower, and create warmth and belonging wherever you go.",
       "mbti": "ESFJ"
     },
     {
       "title": "Mulan (ISTJ)",
-      "description": "You're Mulan\u2014the brave, practical ISTJ princess! Like Mulan, you're private, responsible, and willing to sacrifice for those you love. You honor your family and traditions, face challenges with determination and practicality, and prove that true strength comes from being true to yourself.",
+      "description": "You're Mulan—the brave, practical ISTJ princess! Like Mulan, you're private, responsible, and willing to sacrifice for those you love. You honor your family and traditions, face challenges with determination and practicality, and prove that true strength comes from being true to yourself.",
       "mbti": "ISTJ"
     },
     {
       "title": "Elsa (INFJ)",
-      "description": "You're Elsa\u2014the visionary, complex INFJ princess! Like Elsa, you're private, compassionate, and struggle with embracing your true power and self. You have a deep inner world, care deeply for your loved ones, and learn to turn your perceived weaknesses into your greatest strengths.",
+      "description": "You're Elsa—the visionary, complex INFJ princess! Like Elsa, you're private, compassionate, and struggle with embracing your true power and self. You have a deep inner world, care deeply for your loved ones, and learn to turn your perceived weaknesses into your greatest strengths.",
       "mbti": "INFJ"
     },
     {
       "title": "Anna (ENFP)",
-      "description": "You're Anna\u2014the optimistic, outgoing ENFP princess! Like Anna, you're energetic, creative, and see the best in everyone around you. You follow your heart, embrace adventure, and use your unwavering hope and love to bring people together and overcome even the greatest challenges.",
+      "description": "You're Anna—the optimistic, outgoing ENFP princess! Like Anna, you're energetic, creative, and see the best in everyone around you. You follow your heart, embrace adventure, and use your unwavering hope and love to bring people together and overcome even the greatest challenges.",
       "mbti": "ENFP"
     },
     {
       "title": "Rapunzel (ENFJ)",
-      "description": "You're Rapunzel\u2014the creative, charismatic ENFJ princess! Like Rapunzel, you're outgoing, compassionate, and have a magical ability to inspire and connect with others. You're curious about the world, use your creativity to bring joy to others, and lead with your heart and vision for a better world.",
+      "description": "You're Rapunzel—the creative, charismatic ENFJ princess! Like Rapunzel, you're outgoing, compassionate, and have a magical ability to inspire and connect with others. You're curious about the world, use your creativity to bring joy to others, and lead with your heart and vision for a better world.",
       "mbti": "ENFJ"
     },
     {
       "title": "Moana (ESTJ)",
-      "description": "You're Moana\u2014the determined, practical ESTJ princess! Like Moana, you're outgoing, responsible, and deeply connected to your people and traditions. You lead with courage and purpose, honor your heritage while embracing change, and stop at nothing to protect what matters most to you.",
+      "description": "You're Moana—the determined, practical ESTJ princess! Like Moana, you're outgoing, responsible, and deeply connected to your people and traditions. You lead with courage and purpose, honor your heritage while embracing change, and stop at nothing to protect what matters most to you.",
       "mbti": "ESTJ"
     },
     {
       "title": "Pocahontas (INTP)",
-      "description": "You're Pocahontas\u2014the curious, analytical INTP princess! Like Pocahontas, you're private, creative, and have a deep connection to nature and a unique perspective on the world. You see beyond surface differences, value truth and understanding, and use your wisdom to bridge divides between different worlds.",
+      "description": "You're Pocahontas—the curious, analytical INTP princess! Like Pocahontas, you're private, creative, and have a deep connection to nature and a unique perspective on the world. You see beyond surface differences, value truth and understanding, and use your wisdom to bridge divides between different worlds.",
       "mbti": "INTP"
     },
     {
       "title": "Tiana (ENTJ)",
-      "description": "You're Tiana\u2014the ambitious, strategic ENTJ princess! Like Tiana, you're outgoing, determined, and have clear goals and a strong work ethic. You work tirelessly to achieve your dreams, value hard work and independence, and prove that you can have both success and love on your own terms.",
+      "description": "You're Tiana—the ambitious, strategic ENTJ princess! Like Tiana, you're outgoing, determined, and have clear goals and a strong work ethic. You work tirelessly to achieve your dreams, value hard work and independence, and prove that you can have both success and love on your own terms.",
       "mbti": "ENTJ"
     },
     {
       "title": "Aurora (ISFP)",
-      "description": "You're Aurora\u2014the gentle, artistic ISFP princess! Like Aurora, you're private, gentle, and deeply connected to nature and beauty. You have a quiet strength, trust your instincts, and find joy in the simple pleasures of life and the beauty of the world around you.",
+      "description": "You're Aurora—the gentle, artistic ISFP princess! Like Aurora, you're private, gentle, and deeply connected to nature and beauty. You have a quiet strength, trust your instincts, and find joy in the simple pleasures of life and the beauty of the world around you.",
       "mbti": "ISFP"
     },
     {
       "title": "Merida (ENTP)",
-      "description": "You're Merida\u2014the fierce, creative ENTP princess! Like Merida, you're outgoing, independent, and refuse to conform to expectations. You're a skilled warrior, value your freedom above all, and use your intelligence and creativity to rewrite your own story and challenge traditional gender roles.",
+      "description": "You're Merida—the fierce, creative ENTP princess! Like Merida, you're outgoing, independent, and refuse to conform to expectations. You're a skilled warrior, value your freedom above all, and use your intelligence and creativity to rewrite your own story and challenge traditional gender roles.",
       "mbti": "ENTP"
     },
     {
       "title": "Briar Rose (INTP)",
-      "description": "You're Briar Rose (Sleeping Beauty)\u2014the dreamy, analytical INTP princess! Like Briar Rose, you're private, imaginative, and have a rich inner world that few get to see. You find beauty in quiet moments, trust your intuition, and believe in the power of true love to overcome even the darkest curses.",
+      "description": "You're Briar Rose (Sleeping Beauty)—the dreamy, analytical INTP princess! Like Briar Rose, you're private, imaginative, and have a rich inner world that few get to see. You find beauty in quiet moments, trust your intuition, and believe in the power of true love to overcome even the darkest curses.",
       "mbti": "INTP"
     },
     {
       "title": "Elsa (INTJ)",
-      "description": "You're Elsa\u2014the strategic, visionary INTJ princess! Like Elsa, you're private, analytical, and have a powerful gift that you learn to master and control. You overcome fear and self-doubt, embrace your true power, and use your intelligence and foresight to protect your kingdom and those you love.",
+      "description": "You're Elsa—the strategic, visionary INTJ princess! Like Elsa, you're private, analytical, and have a powerful gift that you learn to master and control. You overcome fear and self-doubt, embrace your true power, and use your intelligence and foresight to protect your kingdom and those you love.",
       "mbti": "INTJ"
     }
   ]
