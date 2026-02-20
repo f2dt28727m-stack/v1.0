@@ -1,0 +1,170 @@
+{
+  "quizId": 33,
+  "title": "Which City Soulmate Are You?",
+  "type": "match",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "English",
+  "description": "Find your perfect city match based on your personality, lifestyle, and preferences!",
+  "tags": [
+    "Travel",
+    "City",
+    "Lifestyle",
+    "Match",
+    "Soulmate",
+    "Personality",
+    "旅行",
+    "城市",
+    "生活方式",
+    "灵魂伴侣"
+  ],
+  "resultTitle": "Your City Soulmate",
+  "results": {
+    "tokyo": {
+      "title": "Tokyo, Japan",
+      "description": "You're a vibrant, ambitious soul who thrives in the fast lane. Tokyo matches your energy—efficient, futuristic, and endlessly exciting. You love the blend of tradition and cutting-edge technology."
+    },
+    "paris": {
+      "title": "Paris, France",
+      "description": "You have an artistic, romantic spirit that craves beauty and culture. Paris speaks to your soul with its art, fashion, and café culture. You appreciate the finer things in life."
+    },
+    "lisbon": {
+      "title": "Lisbon, Portugal",
+      "description": "You value relaxation, sunshine, and a laid-back vibe. Lisbon matches your love for coastal living, good food, and exploration without the rush. You're effortlessly cool."
+    },
+    "newyork": {
+      "title": "New York City, USA",
+      "description": "You're ambitious, driven, and love the buzz of city life. NYC is your playground—endless opportunities, diverse people, and energy that never sleeps. You're a true city lover."
+    },
+    "reykjavik": {
+      "title": "Reykjavik, Iceland",
+      "description": "You have a unique, introverted spirit that loves nature and solitude. Reykjavik suits your calm demeanor and appreciation for dramatic landscapes, Northern Lights, and peace."
+    },
+    "bangkok": {
+      "title": "Bangkok, Thailand",
+      "description": "You're adventurous, open-minded, and love sensory experiences. Bangkok matches your excitement for street food, vibrant nightlife, and cultural exploration."
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "text": "What's your ideal weekend activity?",
+      "options": [
+        { "text": "Exploring hidden cafes and boutiques", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 1, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Hiking in nature or watching the sunrise", "score": { "tokyo": 0, "paris": 1, "lisbon": 2, "newyork": 0, "reykjavik": 3, "bangkok": 2 } },
+        { "text": "Diving into nightlife and late-night eats", "score": { "tokyo": 3, "paris": 1, "lisbon": 1, "newyork": 3, "reykjavik": 0, "bangkok": 3 } },
+        { "text": "Visiting museums and art galleries", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Pick a food preference:",
+      "options": [
+        { "text": "Sushi, ramen, and delicate Japanese cuisine", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Fresh pastries, cheese, and fine wine", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 0, "bangkok": 0 } },
+        { "text": "Grilled seafood and sangria by the beach", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 1, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "Spicy street food and exotic flavors", "score": { "tokyo": 1, "paris": 0, "lisbon": 1, "newyork": 2, "reykjavik": 0, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How do you handle stress?",
+      "options": [
+        { "text": "I immerse myself in work until it passes", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "I enjoy a slow morning with good coffee", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 1, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "I escape to nature for peace and quiet", "score": { "tokyo": 0, "paris": 1, "lisbon": 2, "newyork": 0, "reykjavik": 3, "bangkok": 1 } },
+        { "text": "I seek adventure and new experiences", "score": { "tokyo": 2, "paris": 1, "lisbon": 1, "newyork": 2, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "What's your ideal living space?",
+      "options": [
+        { "text": "A sleek, modern apartment in a bustling district", "score": { "tokyo": 3, "paris": 1, "lisbon": 1, "newyork": 3, "reykjavik": 0, "bangkok": 2 } },
+        { "text": "A charming studio in a historic neighborhood", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "A cozy place near the ocean", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 0, "reykjavik": 2, "bangkok": 2 } },
+        { "text": "A quiet cabin with nature around me", "score": { "tokyo": 0, "paris": 0, "lisbon": 1, "newyork": 0, "reykjavik": 3, "bangkok": 0 } }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Pick a travel style:",
+      "options": [
+        { "text": "Planned and efficient—I like to maximize my time", "score": { "tokyo": 3, "paris": 2, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Spontaneous—I'll figure it out as I go", "score": { "tokyo": 1, "paris": 1, "lisbon": 3, "newyork": 1, "reykjavik": 2, "bangkok": 3 } },
+        { "text": "Cultural immersion—I want to live like a local", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "Off the beaten path—I avoid tourist crowds", "score": { "tokyo": 1, "paris": 1, "lisbon": 2, "newyork": 1, "reykjavik": 3, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How do you make decisions?",
+      "options": [
+        { "text": "Quickly and decisively", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 2 } },
+        { "text": "I take my time and weigh all options", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 1, "reykjavik": 2, "bangkok": 1 } },
+        { "text": "I go with my gut and take risks", "score": { "tokyo": 1, "paris": 1, "lisbon": 3, "newyork": 2, "reykjavik": 1, "bangkok": 3 } },
+        { "text": "I consult others before deciding", "score": { "tokyo": 1, "paris": 2, "lisbon": 2, "newyork": 1, "reykjavik": 2, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What's your fashion vibe?",
+      "options": [
+        { "text": "Minimalist and tech-forward", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Classic and elegant", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 0 } },
+        { "text": "Bohemian and relaxed", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 0, "reykjavik": 2, "bangkok": 2 } },
+        { "text": "Edgy and bold", "score": { "tokyo": 2, "paris": 1, "lisbon": 1, "newyork": 3, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Pick a climate:",
+      "options": [
+        { "text": "Four distinct seasons", "score": { "tokyo": 2, "paris": 2, "lisbon": 1, "newyork": 3, "reykjavik": 2, "bangkok": 0 } },
+        { "text": "Mild and pleasant", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 1, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "Cold and dramatic", "score": { "tokyo": 1, "paris": 0, "lisbon": 0, "newyork": 1, "reykjavik": 3, "bangkok": 0 } },
+        { "text": "Warm and tropical", "score": { "tokyo": 2, "paris": 1, "lisbon": 2, "newyork": 1, "reykjavik": 0, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "What's your ideal vacation?",
+      "options": [
+        { "text": "Shopping and exploring neon streets", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Visiting museums and savoring cuisine", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "Beach lounging and sunset views", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 0, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "Chasing Northern Lights or nature adventures", "score": { "tokyo": 0, "paris": 0, "lisbon": 0, "newyork": 1, "reykjavik": 3, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How do you recharge?",
+      "options": [
+        { "text": "By staying busy and productive", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "By enjoying good food and conversation", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 2, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "By being alone in nature", "score": { "tokyo": 0, "paris": 1, "lisbon": 1, "newyork": 0, "reykjavik": 3, "bangkok": 0 } },
+        { "text": "By trying something completely new", "score": { "tokyo": 2, "paris": 1, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Pick a social scenario:",
+      "options": [
+        { "text": "Networking event or business mixer", "score": { "tokyo": 2, "paris": 2, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Dinner party with close friends", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 2, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "Solo trip to an unknown place", "score": { "tokyo": 1, "paris": 0, "lisbon": 2, "newyork": 1, "reykjavik": 3, "bangkok": 2 } },
+        { "text": "Street food tour with a group", "score": { "tokyo": 2, "paris": 1, "lisbon": 2, "newyork": 1, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "What's your dream job atmosphere?",
+      "options": [
+        { "text": "High-energy startup with fast pace", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "Creative studio in an artistic district", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "Remote work from anywhere", "score": { "tokyo": 1, "paris": 1, "lisbon": 3, "newyork": 1, "reykjavik": 2, "bangkok": 2 } },
+        { "text": "Research or creative work in solitude", "score": { "tokyo": 1, "paris": 1, "lisbon": 1, "newyork": 1, "reykjavik": 3, "bangkok": 1 } }
+      ]
+    }
+  ]
+}

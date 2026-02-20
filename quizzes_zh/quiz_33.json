@@ -1,0 +1,169 @@
+{
+  "quizId": 33,
+  "title": "你的城市灵魂伴侣是哪座城？",
+  "type": "match",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "Chinese",
+  "description": "根据你的性格、生活方式和偏好，找到与你完美匹配的城市！",
+  "tags": [
+    "旅行",
+    "城市",
+    "生活方式",
+    "匹配",
+    "灵魂伴侣",
+    "性格",
+    "Travel",
+    "City",
+    "Lifestyle"
+  ],
+  "resultTitle": "你的城市灵魂伴侣",
+  "results": {
+    "tokyo": {
+      "title": "日本·东京",
+      "description": "你是一个充满活力、雄心勃勃的灵魂，喜欢快节奏的生活。东京与你的能量完美契合——高效、前沿、无限精彩。你热爱传统与前沿科技的完美融合。"
+    },
+    "paris": {
+      "title": "法国·巴黎",
+      "description": "你拥有艺术家的灵魂，渴望浪漫与美。巴黎用它的艺术、时尚和咖啡馆文化触动你的心。你欣赏生活中美好精致的一切。"
+    },
+    "lisbon": {
+      "title": "葡萄牙·里斯本",
+      "description": "你重视放松、阳光和悠闲的生活方式。里斯本符合你对海岸生活、美食和探索的热爱。你是 effortless cool 的代名词。"
+    },
+    "newyork": {
+      "title": "美国·纽约",
+      "description": "你雄心勃勃、干劲十足，喜欢城市生活的喧嚣。纽约是你的游乐场——无限机遇、多样的人群、永不停歇的能量。你是真正的都市爱好者。"
+    },
+    "reykjavik": {
+      "title": "冰岛·雷克雅未克",
+      "description": "你有着独特、内向的性格，热爱自然和宁静。雷克雅未克适合你冷静的气质，欣赏壮丽的风景、极光和peace。你追求内心的平静。"
+    },
+    "bangkok": {
+      "title": "泰国·曼谷",
+      "description": "你富有冒险精神、开放包容，热爱感官体验。曼谷匹配你对街头美食、活力夜生活和多元文化探索的激情。你永远在寻找新的刺激。"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你理想周末活动是什么？",
+      "options": [
+        { "text": "探索隐藏的咖啡馆和小众店铺", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 1, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "徒步自然或观看日出", "score": { "tokyo": 0, "paris": 1, "lisbon": 2, "newyork": 0, "reykjavik": 3, "bangkok": 2 } },
+        { "text": "沉浸在夜生活和深夜美食中", "score": { "tokyo": 3, "paris": 1, "lisbon": 1, "newyork": 3, "reykjavik": 0, "bangkok": 3 } },
+        { "text": "参观博物馆和艺术画廊", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "选择一种饮食偏好：",
+      "options": [
+        { "text": "寿司、拉面和精致的日本料理", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "新鲜糕点、奶酪和优质葡萄酒", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 0, "bangkok": 0 } },
+        { "text": "烤海鲜和海滩边的桑格利亚酒", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 1, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "辛辣街头小吃和异国风味", "score": { "tokyo": 1, "paris": 0, "lisbon": 1, "newyork": 2, "reykjavik": 0, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你如何处理压力？",
+      "options": [
+        { "text": "投入工作直到压力消失", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "享受缓慢的早晨和优质咖啡", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 1, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "逃向大自然寻求平静", "score": { "tokyo": 0, "paris": 1, "lisbon": 2, "newyork": 0, "reykjavik": 3, "bangkok": 1 } },
+        { "text": "寻求冒险和新体验", "score": { "tokyo": 2, "paris": 1, "lisbon": 1, "newyork": 2, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你理想的生活空间是？",
+      "options": [
+        { "text": "位于繁华地区的现代简约公寓", "score": { "tokyo": 3, "paris": 1, "lisbon": 1, "newyork": 3, "reykjavik": 0, "bangkok": 2 } },
+        { "text": "历史街区里迷人的小工作室", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "海边温馨的住所", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 0, "reykjavik": 2, "bangkok": 2 } },
+        { "text": "被自然包围的安静小屋", "score": { "tokyo": 0, "paris": 0, "lisbon": 1, "newyork": 0, "reykjavik": 3, "bangkok": 0 } }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "选择一种旅行风格：",
+      "options": [
+        { "text": "计划性强且高效——我想充分利用时间", "score": { "tokyo": 3, "paris": 2, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "随心所欲——边走边看", "score": { "tokyo": 1, "paris": 1, "lisbon": 3, "newyork": 1, "reykjavik": 2, "bangkok": 3 } },
+        { "text": "文化沉浸——我想像当地人一样生活", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "小众路线——我避开游客人群", "score": { "tokyo": 1, "paris": 1, "lisbon": 2, "newyork": 1, "reykjavik": 3, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "你如何做决定？",
+      "options": [
+        { "text": "快速果断", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 2 } },
+        { "text": "深思熟虑，权衡所有选项", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 1, "reykjavik": 2, "bangkok": 1 } },
+        { "text": "跟随直觉，敢于冒险", "score": { "tokyo": 1, "paris": 1, "lisbon": 3, "newyork": 2, "reykjavik": 1, "bangkok": 3 } },
+        { "text": "咨询他人后再决定", "score": { "tokyo": 1, "paris": 2, "lisbon": 2, "newyork": 1, "reykjavik": 2, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "你的时尚风格是？",
+      "options": [
+        { "text": "简约主义和科技感", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "经典与优雅", "score": { "tokyo": 1, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 0 } },
+        { "text": "波西米亚和放松", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 0, "reykjavik": 2, "bangkok": 2 } },
+        { "text": "前卫与大胆", "score": { "tokyo": 2, "paris": 1, "lisbon": 1, "newyork": 3, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "选择一种气候：",
+      "options": [
+        { "text": "四季分明", "score": { "tokyo": 2, "paris": 2, "lisbon": 1, "newyork": 3, "reykjavik": 2, "bangkok": 0 } },
+        { "text": "温和宜人", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 1, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "寒冷而壮丽", "score": { "tokyo": 1, "paris": 0, "lisbon": 0, "newyork": 1, "reykjavik": 3, "bangkok": 0 } },
+        { "text": "温暖热带", "score": { "tokyo": 2, "paris": 1, "lisbon": 2, "newyork": 1, "reykjavik": 0, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你理想的假期是？",
+      "options": [
+        { "text": "购物和探索霓虹街道", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 2, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "参观博物馆和品尝美食", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "海滩休闲和日落美景", "score": { "tokyo": 0, "paris": 1, "lisbon": 3, "newyork": 0, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "追逐极光或自然冒险", "score": { "tokyo": 0, "paris": 0, "lisbon": 0, "newyork": 1, "reykjavik": 3, "bangkok": 1 } }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "你如何恢复精力？",
+      "options": [
+        { "text": "保持忙碌和高效", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "享受美食和朋友聊天", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 2, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "独自在大自然中", "score": { "tokyo": 0, "paris": 1, "lisbon": 1, "newyork": 0, "reykjavik": 3, "bangkok": 0 } },
+        { "text": "尝试全新的事物", "score": { "tokyo": 2, "paris": 1, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "选择一个社交场景：",
+      "options": [
+        { "text": "社交活动或商业交流会", "score": { "tokyo": 2, "paris": 2, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "与亲密朋友的晚宴", "score": { "tokyo": 1, "paris": 3, "lisbon": 3, "newyork": 2, "reykjavik": 1, "bangkok": 2 } },
+        { "text": "独自前往未知之地旅行", "score": { "tokyo": 1, "paris": 0, "lisbon": 2, "newyork": 1, "reykjavik": 3, "bangkok": 2 } },
+        { "text": "和一群人一起街头美食之旅", "score": { "tokyo": 2, "paris": 1, "lisbon": 2, "newyork": 1, "reykjavik": 1, "bangkok": 3 } }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "你理想的工作环境是？",
+      "options": [
+        { "text": "快节奏的创业公司", "score": { "tokyo": 3, "paris": 1, "lisbon": 0, "newyork": 3, "reykjavik": 0, "bangkok": 1 } },
+        { "text": "艺术街区的创意工作室", "score": { "tokyo": 2, "paris": 3, "lisbon": 2, "newyork": 2, "reykjavik": 1, "bangkok": 1 } },
+        { "text": "随时随地远程工作", "score": { "tokyo": 1, "paris": 1, "lisbon": 3, "newyork": 1, "reykjavik": 2, "bangkok": 2 } },
+        { "text": "独自一人做研究或创意工作", "score": { "tokyo": 1, "paris": 1, "lisbon": 1, "newyork": 1, "reykjavik": 3, "bangkok": 1 } }
+      ]
+    }
+  ]
+}
