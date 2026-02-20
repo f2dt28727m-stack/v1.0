@@ -4,7 +4,8 @@
       "src": "app.py",
       "use": "@vercel/python",
       "config": {
-        "runtime": "python3.9"
+        "runtime": "python3.9",
+        "maxDuration": 60
       }
     },
     {
@@ -20,23 +21,23 @@
       "use": "@vercel/static"
     },
     {
-      "src": "static/**",
+      "src": "quizzes/",
       "use": "@vercel/static"
     },
     {
-      "src": "css/**",
+      "src": "static/",
       "use": "@vercel/static"
     },
     {
-      "src": "js/**",
+      "src": "css/",
       "use": "@vercel/static"
     },
     {
-      "src": "quizzes/**",
+      "src": "js/",
       "use": "@vercel/static"
     },
     {
-      "src": "data/**",
+      "src": "data/",
       "use": "@vercel/static"
     },
     {
