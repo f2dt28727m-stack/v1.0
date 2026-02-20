@@ -289,13 +289,36 @@ async function loadQuizData() {
 function goHome(){window.location.href='index.html';}
 function startQuiz(){window.location.href='quiz.html?id=' + getQuizId();}
 
-
+function getQuizEmoji(title) {
+    const t = (title || '').toLowerCase();
+    if (t.includes('disney') || t.includes('princess')) return '👸';
+    if (t.includes('harry potter') || t.includes('hogwarts')) return '⚡';
+    if (t.includes('marvel') || t.includes('superhero')) return '🦸';
+    if (t.includes('star wars')) return '🌌';
+    if (t.includes('anime')) return '🎌';
+    if (t.includes('mbti') || t.includes('personality')) return '🧠';
+    if (t.includes('love') || t.includes('relationship')) return '❤️';
+    if (t.includes('career') || t.includes('work')) return '💼';
+    if (t.includes('travel') || t.includes('adventure')) return '✈️';
+    if (t.includes('food') || t.includes('cooking')) return '🍕';
+    if (t.includes('music')) return '🎵';
+    if (t.includes('zodiac') || t.includes('astrology')) return '🌟';
+    if (t.includes('taylor') || t.includes('swift')) return '🎤';
+    if (t.includes('sza') || t.includes('song')) return '🎶';
+    if (t.includes('chatgpt') || t.includes('ai')) return '🤖';
+    if (t.includes('mythological') || t.includes('dragon')) return '🐉';
+    if (t.includes('magic') || t.includes('creature')) return '✨';
+    if (t.includes('animal') || t.includes('spirit')) return '🐺';
+    if (t.includes('historical') || t.includes('figure')) return '👑';
+    return '📝';
+}
 
 function renderQuizDetail() {
     const tags = quizData.tags || ['Disney', 'Princess', 'Personality', 'MBTI'];
+    const emoji = getQuizEmoji(quizData.title);
     const q = {
         t: quizData.title || 'Which Disney Princess Resonates With Your Personality?',
-        i: '🏰', // Disney Princess icon
+        i: emoji,
         v: 1200000, // Views
         l: 8500, // Likes
         ts: 980000, // Tests
