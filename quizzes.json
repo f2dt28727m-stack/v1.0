@@ -323,6 +323,27 @@
         "Personality"
       ],
       "description": "Answer 12 magical questions to discover which Harry Potter character you are most like!"
+    },
+    {
+      "quiz_id": "quiz_25",
+      "title": "Which Taylor Swift Era Matches Your Personality?",
+      "category": "which_x",
+      "tags": ["Taylor Swift", "Music", "Personality", "MBTI", "Eras"],
+      "description": "Discover which Taylor Swift era matches your personality based on MBTI traits!"
+    },
+    {
+      "quiz_id": "quiz_26",
+      "title": "What's Your ChatGPT Personality Type?",
+      "category": "which_x",
+      "tags": ["ChatGPT", "AI", "Personality", "MBTI", "Tech"],
+      "description": "Discover your ChatGPT personality type based on how you interact with AI!"
+    },
+    {
+      "quiz_id": "quiz_27",
+      "title": "Which SZA Song Matches Your Personality?",
+      "category": "which_x",
+      "tags": ["SZA", "Music", "Personality", "MBTI", "R&B"],
+      "description": "Discover which SZA song matches your personality based on MBTI traits!"
     }
   ]
 }
