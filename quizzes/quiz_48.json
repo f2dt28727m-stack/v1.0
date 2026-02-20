@@ -1,0 +1,176 @@
+{
+  "quizId": 48,
+  "title": "What's Your Coffee Personality Type?",
+  "type": "whats_your_type",
+  "category": "style",
+  "category_name": "What's Your Type?",
+  "language": "English",
+  "description": "Discover what your coffee preferences reveal about your personality!",
+  "tags": [
+    "Coffee",
+    "Personality",
+    "Style",
+    "Type",
+    "Lifestyle",
+    "咖啡",
+    "性格",
+    "风格",
+    "类型",
+    "生活方式"
+  ],
+  "resultTitle": "Your Coffee Personality Type",
+  "results": {
+    "espresso": {
+      "title": "The Espresso Entrepreneur ☕",
+      "description": "You're bold, ambitious, and always on the go. Like a shot of espresso, you pack powerful energy into a small package. You're decisive, focused, and don't waste time on things that don't matter. People admire your drive and determination, though sometimes you need to remember to slow down and smell the coffee—literally.",
+      "color": "#3D2314"
+    },
+    "latte": {
+      "title": "The Cozy Comfort Seeker 🧸",
+      "description": "You value warmth, comfort, and soft pleasures in life. Like a creamy latte, you bring a sense of calm and relaxation to everyone around you. You're nurturing, social, and love creating cozy moments. Your friends know they can always come to you for a warm conversation and a comforting presence.",
+      "color": "#C4A77D"
+    },
+    "cold_brew": {
+      "title": "The Calm Creative 🌙",
+      "description": "You have a laid-back, thoughtful approach to life. Like cold brew, you take your time and do things at your own pace—because the best things can't be rushed. You're creative, introspective, and often come up with brilliant ideas when others are fast asleep. Your calm energy is contagious.",
+      "color": "#2C3E50"
+    },
+    "matcha": {
+      "title": "The Mindful Modernist 🌿",
+      "description": "You're health-conscious, trend-aware, and value mindfulness. Like matcha, you bring a sense of intentional living and holistic balance to your life. You're the friend who introduces others to new wellness practices and always knows the latest healthy hacks. Sophisticated and grounded.",
+      "color": "#7CB342"
+    },
+    "americano": {
+      "title": "The Classic Minimalist 🎯",
+      "description": "You appreciate simplicity and no-nonsense approaches. Like an americano, you believe in keeping things straightforward without unnecessary frills. You're reliable, practical, and prefer quality over quantity. Your straightforward nature makes you a trusted friend and a great problem-solver.",
+      "color": "#8D6E63"
+    },
+    "cappuccino": {
+      "title": "The Balanced Optimist ⚖️",
+      "description": "You master the art of balance in everything you do. Like a cappuccino with its perfect ratio of espresso, milk, and foam, you know how to mix work and play, seriousness and fun. You're adaptable, cheerful, and can handle whatever life pours your way with grace and humor.",
+      "color": "#D7CCC8"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "question": "What's your ideal morning routine?",
+      "options": [
+        { "optionId": "a", "text": "Jump out of bed and tackle the day head-on", "result": "espresso" },
+        { "optionId": "b", "text": "Slow wake-up with soft music and a cozy breakfast", "result": "latte" },
+        { "optionId": "c", "text": "Let me wake up naturally, no alarms please", "result": "cold_brew" },
+        { "optionId": "d", "text": "Morning meditation followed by a healthy smoothie", "result": "matcha" },
+        { "optionId": "e", "text": "Quick shower, coffee, and straight to work", "result": "americano" },
+        { "optionId": "f", "text": "A balanced mix: some exercise, good food, then start", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 2,
+      "question": "How do you prefer to work?",
+      "options": [
+        { "optionId": "a", "text": "Fast-paced, multiple projects at once", "result": "espresso" },
+        { "optionId": "b", "text": "In a cozy café with ambient music", "result": "latte" },
+        { "optionId": "c", "text": "Late night when everything is quiet", "result": "cold_brew" },
+        { "optionId": "d", "text": "In a clean, organized space with wellness breaks", "result": "matcha" },
+        { "optionId": "e", "text": "Efficient and focused—get it done quickly", "result": "americano" },
+        { "optionId": "f", "text": "A mix of collaboration and solo deep work", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 3,
+      "question": "What's your go-to weekend activity?",
+      "options": [
+        { "optionId": "a", "text": "Networking events, business meetings, or side hustles", "result": "espresso" },
+        { "optionId": "b", "text": "Brunch with friends, movie marathons, or reading", "result": "latte" },
+        { "optionId": "c", "text": "Late walks, journaling, or creative projects", "result": "cold_brew" },
+        { "optionId": "d", "text": "Yoga class, farmers market, or trying new recipes", "result": "matcha" },
+        { "optionId": "e", "text": "Running errands, organizing, or learning something new", "result": "americano" },
+        { "optionId": "f", "text": "A bit of everything—adventure and relaxation mixed", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 4,
+      "question": "How do you handle stress?",
+      "options": [
+        { "optionId": "a", "text": "Power through it—I don't have time to stress", "result": "espresso" },
+        { "optionId": "b", "text": "Treat myself to something comforting", "result": "latte" },
+        { "optionId": "c", "text": "Take a step back and reflect quietly", "result": "cold_brew" },
+        { "optionId": "d", "text": "Meditate, exercise, or practice mindfulness", "result": "matcha" },
+        { "optionId": "e", "text": "Make a list and tackle problems systematically", "result": "americano" },
+        { "optionId": "f", "text": "Talk it out with friends, then find solutions", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 5,
+      "question": "Pick your dream travel destination:",
+      "options": [
+        { "optionId": "a", "text": "A bustling metropolis with business opportunities", "result": "espresso" },
+        { "optionId": "b", "text": "A charming countryside B&B", "result": "latte" },
+        { "optionId": "c", "text": "A quiet mountain cabin or coastal town", "result": "cold_brew" },
+        { "optionId": "d", "text": "Japan or Bali for wellness and culture", "result": "matcha" },
+        { "optionId": "e", "text": "A practical city with great infrastructure", "result": "americano" },
+        { "optionId": "f", "text": "A versatile destination with both city and nature", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 6,
+      "question": "What's your communication style?",
+      "options": [
+        { "optionId": "a", "text": "Direct and to the point—get to the facts", "result": "espresso" },
+        { "optionId": "b", "text": "Warm and personal—love deep conversations", "result": "latte" },
+        { "optionId": "c", "text": "Thoughtful and reflective—think before speaking", "result": "cold_brew" },
+        { "optionId": "d", "text": "Mindful and intentional—quality over quantity", "result": "matcha" },
+        { "optionId": "e", "text": "Clear and efficient—no small talk needed", "result": "americano" },
+        { "optionId": "f", "text": "Adaptive—can be serious or playful as needed", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 7,
+      "question": "Choose a fashion aesthetic:",
+      "options": [
+        { "optionId": "a", "text": "Power suits and statement pieces", "result": "espresso" },
+        { "optionId": "b", "text": "Soft knits, cozy sweaters, and flowy dresses", "result": "latte" },
+        { "optionId": "c", "text": "Vintage finds and relaxed streetwear", "result": "cold_brew" },
+        { "optionId": "d", "text": "Clean lines, sustainable brands, minimalist chic", "result": "matcha" },
+        { "optionId": "e", "text": "Classic basics that never go out of style", "result": "americano" },
+        { "optionId": "f", "text": "Mix and match—whatever feels right that day", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 8,
+      "question": "What's your biggest strength?",
+      "options": [
+        { "optionId": "a", "text": "Determination and drive", "result": "espresso" },
+        { "optionId": "b", "text": "Empathy and warmth", "result": "latte" },
+        { "optionId": "c", "text": "Creativity and depth", "result": "cold_brew" },
+        { "optionId": "d", "text": "Balance and mindfulness", "result": "matcha" },
+        { "optionId": "e", "text": "Reliability and practicality", "result": "americano" },
+        { "optionId": "f", "text": "Adaptability and versatility", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 9,
+      "question": "Pick a social scenario:",
+      "options": [
+        { "optionId": "a", "text": "Leading a team meeting or giving a presentation", "result": "espresso" },
+        { "optionId": "b", "text": "Intimate dinner with close friends", "result": "latte" },
+        { "optionId": "c", "text": "One-on-one deep conversation", "result": "cold_brew" },
+        { "optionId": "d", "text": "Wellness workshop or creative class", "result": "matcha" },
+        { "optionId": "e", "text": "Small group working on a project", "result": "americano" },
+        { "optionId": "f", "text": "A lively gathering with diverse people", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 10,
+      "question": "How do you make decisions?",
+      "options": [
+        { "optionId": "a", "text": "Quickly—I trust my gut", "result": "espresso" },
+        { "optionId": "b", "text": "I consider how it affects my loved ones", "result": "latte" },
+        { "optionId": "c", "text": "I sleep on it and see how I feel", "result": "cold_brew" },
+        { "optionId": "d", "text": "I research and consider the holistic impact", "result": "matcha" },
+        { "optionId": "e", "text": "I weigh pros and cons systematically", "result": "americano" },
+        { "optionId": "f", "text": "I discuss it and find a balanced solution", "result": "cappuccino" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "quizId": 48,
+  "title": "你的咖啡人格类型是什么？",
+  "type": "whats_your_type",
+  "category": "style",
+  "category_name": "What's Your Type?",
+  "language": "Chinese",
+  "description": "发现你的咖啡偏好揭示了什么样的性格！",
+  "tags": [
+    "咖啡",
+    "人格",
+    "性格",
+    "类型",
+    "生活方式",
+    "Coffee",
+    "Personality",
+    "Style",
+    "Type",
+    "Lifestyle"
+  ],
+  "resultTitle": "你的咖啡人格类型",
+  "results": {
+    "espresso": {
+      "title": "浓缩咖啡创业者 ☕",
+      "description": "你勇敢、有雄心，总是马不停蹄。就像一杯浓缩咖啡，你把强大的能量浓缩在小小的杯子里。你果断、专注，不会把时间浪费在不重要的事情上。人们钦佩你的干劲和决心，虽然有时候你需要记得放慢脚步，享受咖啡的香气——真的是字面意思。",
+      "color": "#3D2314"
+    },
+    "latte": {
+      "title": "温暖舒适追求者 🧸",
+      "description": "你重视生活中的温暖、舒适和柔软的美好。就像一杯奶油拿铁，你给周围的每个人带来平静和放松。你富有爱心、喜欢社交，喜欢创造温馨的时刻。你的朋友们都知道，他们可以随时来找你进行温暖的对话和安慰的陪伴。",
+      "color": "#C4A77D"
+    },
+    "cold_brew": {
+      "title": "冷静的创意者 🌙",
+      "description": "你对生活有一种悠闲、深思熟虑的态度。就像冷萃咖啡，你按照自己的节奏慢慢来——因为最好的事情是急不来的。你有创造力、内向沉思，经常在别人熟睡时想出绝妙的主意。你平静的能量很有感染力。",
+      "color": "#2C3E50"
+    },
+    "matcha": {
+      "title": "正念现代人 🌿",
+      "description": "你注重健康、紧跟潮流、重视正念生活。就像抹茶，你为生活带来有意识的生活方式和整体平衡。你是那个向朋友介绍新养生方法、总是知道最新健康小技巧的人。优雅而沉稳。",
+      "color": "#7CB342"
+    },
+    "americano": {
+      "title": "经典简约主义者 🎯",
+      "description": "你喜欢简单直接的方式。就像美式咖啡，你相信保持简洁，不加不必要的点缀。你可靠、务实，更注重质量而不是数量。你直率的性格让你成为值得信赖的朋友和问题解决高手。",
+      "color": "#8D6E63"
+    },
+    "cappuccino": {
+      "title": "平衡乐观者 ⚖️",
+      "description": "你掌握着生活中一切平衡的艺术。就像一杯完美比例的卡布奇诺（浓缩咖啡、牛奶、泡沫），你知道如何混合工作和娱乐、严肃和有趣。你适应性很强、性格开朗，能够以优雅和幽默处理生活中抛给你的一切。",
+      "color": "#D7CCC8"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "question": "你理想中的早晨是什么样的？",
+      "options": [
+        { "optionId": "a", "text": "跳下床，直面一天", "result": "espresso" },
+        { "optionId": "b", "text": "慢慢醒来，听着轻柔的音乐和吃一顿温馨的早餐", "result": "latte" },
+        { "optionId": "c", "text": "自然醒来，不要闹钟", "result": "cold_brew" },
+        { "optionId": "d", "text": "晨间冥想，然后喝一杯健康的果蔬奶昔", "result": "matcha" },
+        { "optionId": "e", "text": "快速冲澡，喝咖啡，然后直接工作", "result": "americano" },
+        { "optionId": "f", "text": "平衡混合：运动、美食，然后开始", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 2,
+      "question": "你喜欢怎样工作？",
+      "options": [
+        { "optionId": "a", "text": "快节奏，同时处理多个项目", "result": "espresso" },
+        { "optionId": "b", "text": "在温馨的咖啡馆里，伴随着ambient音乐", "result": "latte" },
+        { "optionId": "c", "text": "夜深人静时工作", "result": "cold_brew" },
+        { "optionId": "d", "text": "在干净有序的空间里，偶尔休息放松", "result": "matcha" },
+        { "optionId": "e", "text": "高效专注——快速完成", "result": "americano" },
+        { "optionId": "f", "text": "混合协作和独立深度工作", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 3,
+      "question": "周末你最喜欢做什么？",
+      "options": [
+        { "optionId": "a", "text": "社交活动、商务会议或副业", "result": "espresso" },
+        { "optionId": "b", "text": "和朋友早午餐、刷剧或看书", "result": "latte" },
+        { "optionId": "c", "text": "深夜散步、写日记或做创意项目", "result": "cold_brew" },
+        { "optionId": "d", "text": "瑜伽课、农贸市场或尝试新食谱", "result": "matcha" },
+        { "optionId": "e", "text": "跑腿、整理或学习新东西", "result": "americano" },
+        { "optionId": "f", "text": "各种都来一点——冒险和放松混合", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 4,
+      "question": "你如何处理压力？",
+      "options": [
+        { "optionId": "a", "text": "硬扛过去——我没时间压力", "result": "espresso" },
+        { "optionId": "b", "text": "给自己一些安慰的东西", "result": "latte" },
+        { "optionId": "c", "text": "退一步，静静反思", "result": "cold_brew" },
+        { "optionId": "d", "text": "冥想、运动或练习正念", "result": "matcha" },
+        { "optionId": "e", "text": "列个清单，系统地解决问题", "result": "americano" },
+        { "optionId": "f", "text": "和朋友倾诉，然后找解决方案", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 5,
+      "question": "选择你梦想的旅行目的地：",
+      "options": [
+        { "optionId": "a", "text": "充满商业机会的繁华都市", "result": "espresso" },
+        { "optionId": "b", "text": "迷人的乡村民宿", "result": "latte" },
+        { "optionId": "c", "text": "安静的山间小屋或海边小镇", "result": "cold_brew" },
+        { "optionId": "d", "text": "日本或巴厘岛——养生和文化之旅", "result": "matcha" },
+        { "optionId": "e", "text": "基础设施完善的城市", "result": "americano" },
+        { "optionId": "f", "text": "兼具城市和自然的多元目的地", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 6,
+      "question": "你的沟通风格是什么？",
+      "options": [
+        { "optionId": "a", "text": "直接切入重点——说重点", "result": "espresso" },
+        { "optionId": "b", "text": "温暖亲切——喜欢深度对话", "result": "latte" },
+        { "optionId": "c", "text": "深思熟虑——想好了再说", "result": "cold_brew" },
+        { "optionId": "d", "text": "有意识的——质量胜于数量", "result": "matcha" },
+        { "optionId": "e", "text": "清晰高效——不需要寒暄", "result": "americano" },
+        { "optionId": "f", "text": "灵活变通——可以严肃也可以活泼", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 7,
+      "question": "选择你的穿搭风格：",
+      "options": [
+        { "optionId": "a", "text": "权力西装和醒目单品", "result": "espresso" },
+        { "optionId": "b", "text": "柔软针织衫、舒适毛衣和飘逸长裙", "result": "latte" },
+        { "optionId": "c", "text": "复古风格和休闲街头", "result": "cold_brew" },
+        { "optionId": "d", "text": "简约线条、可持续品牌、极简时尚", "result": "matcha" },
+        { "optionId": "e", "text": "经典基础款，永不过时", "result": "americano" },
+        { "optionId": "f", "text": "混搭——看当天感觉", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 8,
+      "question": "你最大的优点是什么？",
+      "options": [
+        { "optionId": "a", "text": "决心和动力", "result": "espresso" },
+        { "optionId": "b", "text": "同理心和温暖", "result": "latte" },
+        { "optionId": "c", "text": "创造力和深度", "result": "cold_brew" },
+        { "optionId": "d", "text": "平衡和正念", "result": "matcha" },
+        { "optionId": "e", "text": "可靠和务实", "result": "americano" },
+        { "optionId": "f", "text": "适应性和多才多艺", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 9,
+      "question": "选择一个社交场景：",
+      "options": [
+        { "optionId": "a", "text": "主持团队会议或做演讲", "result": "espresso" },
+        { "optionId": "b", "text": "与密友的亲密晚餐", "result": "latte" },
+        { "optionId": "c", "text": "一对一的深度对话", "result": "cold_brew" },
+        { "optionId": "d", "text": "健康工作坊或创意课程", "result": "matcha" },
+        { "optionId": "e", "text": "小组合作项目", "result": "americano" },
+        { "optionId": "f", "text": "热闹的多元化聚会", "result": "cappuccino" }
+      ]
+    },
+    {
+      "qId": 10,
+      "question": "你如何做决定？",
+      "options": [
+        { "optionId": "a", "text": "快速——我相信直觉", "result": "espresso" },
+        { "optionId": "b", "text": "考虑它如何影响我爱的人", "result": "latte" },
+        { "optionId": "c", "text": "睡一觉再看感觉", "result": "cold_brew" },
+        { "optionId": "d", "text": "研究并考虑整体影响", "result": "matcha" },
+        { "optionId": "e", "text": "系统地权衡利弊", "result": "americano" },
+        { "optionId": "f", "text": "讨论一下，找一个平衡的解决方案", "result": "cappuccino" }
+      ]
+    }
+  ]
+}
