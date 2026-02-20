@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quizy - Personality Tests</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9900304220798571" crossorigin="anonymous"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -146,6 +147,18 @@
             font-size: 14px;
             color: #666;
             cursor: pointer;
+        }
+        
+        /* Ad container */
+        .ad-container {
+            margin: 20px 0;
+            padding: 0 10px;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .ad-container ins {
+            max-width: 100%;
         }
         
         /* Cards - 2 columns like All tab */
@@ -788,6 +801,10 @@
                 <div class="card-list" id="hot-list"></div>
             </div>
             
+            <div class="ad-container">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9900304220798571" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            </div>
+            
             <div class="section">
                 <div class="section-header">
                     <div class="section-title-wrap">
@@ -797,6 +814,10 @@
                     <div class="section-more" onclick="switchTab('recommended')">More →</div>
                 </div>
                 <div class="card-list" id="recommend-list"></div>
+            </div>
+            
+            <div class="ad-container">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9900304220798571" data-ad-slot="9876543210" data-ad-format="auto" data-full-width-responsive="true"></ins>
             </div>
         </div>
         
@@ -1315,6 +1336,11 @@ function renderTags() {
         window.onload = function() {
             checkFirstTime();
             loadData();
+            
+            // Initialize ads after page load
+            if (window.adsbygoogle) {
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            }
         };
     </script>
     
