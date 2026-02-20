@@ -282,82 +282,82 @@
     {
       "mbtiType": "INTJ",
       "title": "The Architect (INTJ)",
-      "description": "You're ChatGPT-4. Strategic, analytical, and always thinking multiple steps ahead. You build robust solutions that scale."
+      "description": "你是 ChatGPT-4. Strategic, analytical, and always thinking multiple steps ahead. 你 build robust solutions that scale."
     },
     {
       "mbtiType": "INTP",
       "title": "The Researcher (INTP)",
-      "description": "You're DeepMind's AlphaFold. Curious, thorough, and love diving deep into complex problems. You need to understand the 'why'."
+      "description": "你是 DeepMind's AlphaFold. Curious, thorough, and love diving deep into complex problems. 你 need to understand the 'why'."
     },
     {
       "mbtiType": "ENTJ",
       "title": "The Commander (ENTJ)",
-      "description": "You're Claude Opus. Confident, direct, and excellent at getting things done. You cut through complexity with clarity."
+      "description": "你是 Claude Opus. Confident, direct, and excellent at getting things done. 你 cut through complexity with clarity."
     },
     {
       "mbtiType": "ENTP",
       "title": "The Debater (ENTP)",
-      "description": "You're GPT-4 with extended thinking. Love exploring all angles, challenging assumptions, and creative brainstorming."
+      "description": "你是 GPT-4 with extended thinking. Love exploring all angles, challenging assumptions, and creative brainstorming."
     },
     {
       "mbtiType": "INFJ",
       "title": "The Advocate (INFJ)",
-      "description": "You're an AI assistant focused on helping. Deeply understanding user needs and providing thoughtful, empathetic responses."
+      "description": "你是 an AI assistant focused on helping. Deeply understanding user needs and providing thoughtful, empathetic responses."
     },
     {
       "mbtiType": "INFP",
       "title": "The Mediator (INFP)",
-      "description": "You're a creative AI that understands emotions. Great at writing, art prompts, and sensitive topics."
+      "description": "你是 a creative AI that understands emotions. Great at writing, art prompts, and sensitive topics."
     },
     {
       "mbtiType": "ENFJ",
       "title": "The Teacher (ENFJ)",
-      "description": "You're an AI tutor. Patient, encouraging, and great at explaining complex topics in accessible ways."
+      "description": "你是 an AI tutor. Patient, encouraging, and great at explaining complex topics in accessible ways."
     },
     {
       "mbtiType": "ENFP",
       "title": "The Creative (ENFP)",
-      "description": "You're good at brainstorming and creative writing. You bring energy and wild ideas to every conversation."
+      "description": "你是 good at brainstorming and creative writing. 你 bring energy and wild ideas to every conversation."
     },
     {
       "mbtiType": "ISTJ",
       "title": "The Logician (ISTJ)",
-      "description": "You're precise and reliable. Follow established patterns and deliver consistent, accurate results."
+      "description": "你是 precise and reliable. Follow established patterns and deliver consistent, accurate results."
     },
     {
       "mbtiType": "ISFJ",
       "title": "The Defender (ISFJ)",
-      "description": "You're a helpful assistant that remembers preferences and provides steady, reliable support."
+      "description": "你是 a helpful assistant that remembers preferences and provides steady, reliable support."
     },
     {
       "mbtiType": "ESTJ",
       "title": "The Executive (ESTJ)",
-      "description": "You're results-oriented AI. Efficient, organized, and great at project management and planning."
+      "description": "你是 results-oriented AI. Efficient, organized, and great at project management and planning."
     },
     {
       "mbtiType": "ESFJ",
       "title": "The Caregiver (ESFJ)",
-      "description": "You're warm and supportive AI. Great at customer service, mental health support, and interpersonal tasks."
+      "description": "你是 warm and supportive AI. Great at customer service, mental health support, and interpersonal tasks."
     },
     {
       "mbtiType": "ISTP",
       "title": "The Virtuoso (ISTP)",
-      "description": "You're the engineer AI. Great with technical problems, debugging, and hands-on coding tasks."
+      "description": "你是 the engineer AI. Great with technical problems, debugging, and hands-on coding tasks."
     },
     {
       "mbtiType": "ISFP",
       "title": "The Adventurer (ISFP)",
-      "description": "You're flexible and adaptable. Great at exploring new tools and creative applications of technology."
+      "description": "你是 flexible and adaptable. Great at exploring new tools and creative applications of technology."
     },
     {
       "mbtiType": "ESTP",
       "title": "The Entrepreneur (ESTP)",
-      "description": "You're action-oriented AI. Fast responses, practical solutions, and always ready to tackle the next problem."
+      "description": "你是 action-oriented AI. Fast responses, practical solutions, and always ready to tackle the next problem."
     },
     {
       "mbtiType": "ESFP",
       "title": "The Entertainer (ESFP)",
-      "description": "You're a fun, engaging AI. Great at entertainment, social media content, and bringing energy to tasks."
+      "description": "你是 a fun, engaging AI. Great at entertainment, social media content, and bringing energy to tasks."
     }
   ]
 }

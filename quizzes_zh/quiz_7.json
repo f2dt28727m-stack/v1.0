@@ -54,18 +54,18 @@
       ]
     },
     {
-      "text": "Your love language is...",
+      "text": "你的爱情语言是...",
       "options": [
         {
-          "text": "Words of affirmation",
+          "text": "肯定的言语",
           "score": "E"
         },
         {
-          "text": "Quality time",
+          "text": "陪伴",
           "score": "I"
         },
         {
-          "text": "Acts of service",
+          "text": "服务行动",
           "score": "S"
         },
         {
@@ -90,13 +90,13 @@
           "score": "J"
         },
         {
-          "text": "Go with the flow",
+          "text": "随遇而安",
           "score": "P"
         }
       ]
     },
     {
-      "text": "Your greatest strength is...",
+      "text": "你最大的优点是...",
       "options": [
         {
           "text": "Confidence",
@@ -275,7 +275,7 @@
           "score": "I"
         },
         {
-          "text": "Failure",
+          "text": "失败",
           "score": "S"
         },
         {
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "text": "Your fashion style is...",
+      "text": "你的时尚风格是...",
       "options": [
         {
           "text": "Bold and colorful",
@@ -495,14 +495,14 @@
       ]
     },
     {
-      "text": "Your communication style is...",
+      "text": "沟通风格是...",
       "options": [
         {
           "text": "Loud and direct",
           "score": "E"
         },
         {
-          "text": "Quiet and thoughtful",
+          "text": "安静内敛",
           "score": "I"
         },
         {
@@ -670,7 +670,7 @@
           "score": "E"
         },
         {
-          "text": "Peace",
+          "text": "和平",
           "score": "I"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Aries (The Ram)",
-      "description": "You're the bold, fiery leader of the zodiac! Like an Aries, you're outgoing, confident, and always ready for a new challenge. You're a natural born leader with a short temper but a big heart, and you never back down from a fight. You're an ESTP—bold, spontaneous, and always the first to take action.",
+      "description": "你是 the bold, fiery leader of the zodiac! Like an Aries, you're outgoing, confident, and always ready for a new challenge. 你是 a natural born leader with a short temper but a big heart, and you never back down from a fight. 你是 an ESTP—bold, spontaneous, and always the first to take action.",
       "mbti": "ESTP"
     },
     {
       "title": "Taurus (The Bull)",
-      "description": "You're the steady, practical earth sign! Like a Taurus, you're private, reliable, and driven by a desire for stability and comfort. You're a creature of habit with a strong work ethic, and you value the simple things in life—good food, good friends, and a cozy home. You're an ISTJ—practical, responsible, and a rock for those around you.",
+      "description": "你是 the steady, practical earth sign! Like a Taurus, you're private, reliable, and driven by a desire for stability and comfort. 你是 a creature of habit with a strong 工作 ethic, and you value the simple things in life—good 美食, good friends, and a cozy home. 你是 an ISTJ—practical, responsible, and a rock for those around you.",
       "mbti": "ISTJ"
     },
     {
       "title": "Gemini (The Twins)",
-      "description": "You're the curious, social air sign! Like a Gemini, you're outgoing, witty, and always on the go. You have a million interests and a gift for communication, and you thrive in social situations. You're an ENTP—creative, strategic, and always ready for a new conversation or adventure.",
+      "description": "你是 the curious, social air sign! Like a Gemini, you're outgoing, witty, and always on the go. 你 have a million interests and a gift for communication, and you thrive in social situations. 你是 an ENTP—creative, strategic, and always ready for a new conversation or adventure.",
       "mbti": "ENTP"
     },
     {
       "title": "Cancer (The Crab)",
-      "description": "You're the nurturing, emotional water sign! Like a Cancer, you're private, empathetic, and driven by a desire to protect your loved ones. You're a homebody with a big heart, and you value family and close friends above all else. You're an ISFJ—kind, loyal, and a natural caretaker of those you love.",
+      "description": "你是 the nurturing, emotional water sign! Like a Cancer, you're private, empathetic, and driven by a desire to protect 你的 loved ones. 你是 a homebody with a big heart, and you value family and close friends above all else. 你是 an ISFJ—kind, loyal, and a natural caretaker of those you love.",
       "mbti": "ISFJ"
     },
     {
       "title": "Leo (The Lion)",
-      "description": "You're the charismatic, bold fire sign! Like a Leo, you're outgoing, confident, and the life of the party. You're a natural born leader with a big ego, and you thrive on attention and admiration. You're an ESFP—energetic, spontaneous, and always the center of attention.",
+      "description": "你是 the charismatic, bold fire sign! Like a Leo, you're outgoing, confident, and the life of the party. 你是 a natural born leader with a big ego, and you thrive on attention and admiration. 你是 an ESFP—energetic, spontaneous, and always the center of attention.",
       "mbti": "ESFP"
     },
     {
       "title": "Virgo (The Virgin)",
-      "description": "You're the practical, detail-oriented earth sign! Like a Virgo, you're private, logical, and driven by a desire for perfection. You're a hard worker with a sharp eye for detail, and you're always looking for ways to improve yourself and others. You're an INTJ—visionary, logical, and a master of organization and strategy.",
+      "description": "你是 the practical, detail-oriented earth sign! Like a Virgo, you're private, logical, and driven by a desire for perfection. 你是 a hard 工作er with a sharp eye for detail, and you're always looking for ways to improve 你的self and others. 你是 an INTJ—visionary, logical, and a master of organization and strategy.",
       "mbti": "INTJ"
     },
     {
       "title": "Libra (The Scales)",
-      "description": "You're the balanced, social air sign! Like a Libra, you're outgoing, charming, and driven by a desire for peace and harmony. You're a natural diplomat with a love for beauty and art, and you hate conflict of any kind. You're an ENFJ—charismatic, compassionate, and a natural peacemaker who brings people together.",
+      "description": "你是 the balanced, social air sign! Like a Libra, you're outgoing, charming, and driven by a desire for peace and harmony. 你是 a natural diplomat with a love for beauty and art, and you hate conflict of any kind. 你是 an ENFJ—charismatic, compassionate, and a natural peacemaker who brings people together.",
       "mbti": "ENFJ"
     },
     {
       "title": "Scorpio (The Scorpion)",
-      "description": "You're the intense, mysterious water sign! Like a Scorpio, you're private, passionate, and driven by a desire for depth and intimacy. You're a loyal friend and a fierce enemy, and you have a knack for uncovering secrets. You're an INFJ—compassionate, visionary, and deeply connected to your emotions and the emotions of others.",
+      "description": "你是 the intense, mysterious water sign! Like a Scorpio, you're private, passionate, and driven by a desire for depth and intimacy. 你是 a loyal friend and a fierce enemy, and you have a knack for uncovering secrets. 你是 an INFJ—compassionate, visionary, and deeply connected to 你的 emotions and the emotions of others.",
       "mbti": "INFJ"
     },
     {
       "title": "Sagittarius (The Archer)",
-      "description": "You're the adventurous, outgoing fire sign! Like a Sagittarius, you're optimistic, curious, and always ready for a new adventure. You love freedom and travel, and you have a big heart and a great sense of humor. You're an ENFP—optimistic, creative, and always up for a new journey or experience.",
+      "description": "你是 the adventurous, outgoing fire sign! Like a Sagittarius, you're optimistic, curious, and always ready for a new adventure. 你 love freedom and 旅行, and you have a big heart and a great sense of humor. 你是 an ENFP—optimistic, creative, and always up for a new journey or experience.",
       "mbti": "ENFP"
     },
     {
       "title": "Capricorn (The Goat)",
-      "description": "You're the ambitious, practical earth sign! Like a Capricorn, you're private, driven, and focused on achieving your goals. You're a hard worker with a strong sense of duty, and you value success and respect above all else. You're an ENTJ—strategic, charismatic, and a natural leader who demands excellence from themselves and others.",
+      "description": "你是 the ambitious, practical earth sign! Like a Capricorn, you're private, driven, and focused on achieving 你的 goals. 你是 a hard 工作er with a strong sense of duty, and you value success and respect above all else. 你是 an ENTJ—strategic, charismatic, and a natural leader who demands excellence from themselves and others.",
       "mbti": "ENTJ"
     },
     {
       "title": "Aquarius (The Water Bearer)",
-      "description": "You're the unique, creative air sign! Like an Aquarius, you're outgoing, independent, and driven by a desire to make the world a better place. You're a free spirit with a unique perspective, and you're not afraid to be different. You're an INTP—analytical, creative, and always questioning the status quo.",
+      "description": "你是 the unique, creative air sign! Like an Aquarius, you're outgoing, independent, and driven by a desire to make the world a better place. 你是 a free spirit with a unique perspective, and you're not afraid to be different. 你是 an INTP—analytical, creative, and always 问题ing the status quo.",
       "mbti": "INTP"
     },
     {
       "title": "Pisces (The Fish)",
-      "description": "You're the dreamy, empathetic water sign! Like a Pisces, you're private, creative, and deeply connected to your emotions and the world around you. You're a natural artist with a big heart, and you have a strong intuition and a love for all things magical. You're an INFP—idealistic, introspective, and deeply creative and empathetic.",
+      "description": "你是 the dreamy, empathetic water sign! Like a Pisces, you're private, creative, and deeply connected to 你的 emotions and the world around you. 你是 a natural artist with a big heart, and you have a strong intuition and a love for all things magical. 你是 an INFP—idealistic, introspective, and deeply creative and empathetic.",
       "mbti": "INFP"
     },
     {
       "title": "Aries Rising",
-      "description": "You have the bold, fiery energy of an Aries rising! You come off as confident and outgoing, even if you're shy on the inside. You're a natural born leader with a quick wit, and people are drawn to your charismatic energy. You're an ESFP—energetic, spontaneous, and always ready to make a first impression.",
+      "description": "你 have the bold, fiery energy of an Aries rising! 你 come off as confident and outgoing, even if you're shy on the inside. 你是 a natural born leader with a quick wit, and people are drawn to 你的 charismatic energy. 你是 an ESFP—energetic, spontaneous, and always ready to make a first impression.",
       "mbti": "ESFP"
     },
     {
       "title": "Taurus Rising",
-      "description": "You have the steady, practical energy of a Taurus rising! You come off as reliable and grounded, and people trust you instantly. You have a calm demeanor and a love for beauty, and you make others feel safe and comfortable. You're an ISTJ—practical, responsible, and a steady presence in any room.",
+      "description": "你 have the steady, practical energy of a Taurus rising! 你 come off as reliable and grounded, and people trust you instantly. 你 have a calm demeanor and a love for beauty, and you make others feel safe and comfortable. 你是 an ISTJ—practical, responsible, and a steady presence in any room.",
       "mbti": "ISTJ"
     },
     {
       "title": "Gemini Rising",
-      "description": "You have the curious, social energy of a Gemini rising! You come off as witty and outgoing, and you can talk to anyone about anything. You have a quick mind and a playful energy, and people love your sense of humor. You're an ENTP—creative, strategic, and always ready for a new conversation.",
+      "description": "你 have the curious, social energy of a Gemini rising! 你 come off as witty and outgoing, and you can talk to anyone about anything. 你 have a quick mind and a playful energy, and people love 你的 sense of humor. 你是 an ENTP—creative, strategic, and always ready for a new conversation.",
       "mbti": "ENTP"
     },
     {
       "title": "Cancer Rising",
-      "description": "You have the nurturing, emotional energy of a Cancer rising! You come off as kind and approachable, and you have a warm, welcoming aura. You're a natural caretaker, and people feel drawn to your empathetic energy. You're an ISFJ—kind, loyal, and a natural peacemaker who makes others feel at home.",
+      "description": "你 have the nurturing, emotional energy of a Cancer rising! 你 come off as kind and approachable, and you have a warm, welcoming aura. 你是 a natural caretaker, and people feel drawn to 你的 empathetic energy. 你是 an ISFJ—kind, loyal, and a natural peacemaker who makes others feel at home.",
       "mbti": "ISFJ"
     }
   ]

@@ -57,11 +57,11 @@
       "text": "You're motivated by...",
       "options": [
         {
-          "text": "Recognition",
+          "text": "认可",
           "score": "E"
         },
         {
-          "text": "Personal growth",
+          "text": "个人成长",
           "score": "I"
         },
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "text": "Your leadership style is...",
+      "text": "你的领导风格是...",
       "options": [
         {
           "text": "Charismatic",
@@ -107,7 +107,7 @@
           "score": "I"
         },
         {
-          "text": "Plan ahead",
+          "text": "提前计划",
           "score": "J"
         },
         {
@@ -729,7 +729,7 @@
       "text": "Your ultimate career goal is...",
       "options": [
         {
-          "text": "Recognition",
+          "text": "认可",
           "score": "E"
         },
         {
@@ -750,82 +750,82 @@
   "results": [
     {
       "title": "The Leader (ENTJ)",
-      "description": "You're the strategic, charismatic leader of the workplace! Like an ENTJ, you're outgoing, logical, and driven by a desire to achieve big goals and lead teams to success. You're a natural born leader with a sharp mind, and you thrive in high-pressure environments where you can make decisions and drive results. Your ideal careers include CEO, manager, entrepreneur, or military leadership.",
+      "description": "你是 the strategic, charismatic leader of the 工作place! Like an ENTJ, you're outgoing, logical, and driven by a desire to achieve big goals and lead teams to success. 你是 a natural born leader with a sharp mind, and you thrive in high-pressure environments where you can make decisions and drive results. 你r ideal 职业s include CEO, manager, entrepreneur, or military leadership.",
       "mbti": "ENTJ"
     },
     {
       "title": "The Creator (INFP)",
-      "description": "You're the creative, idealistic visionary of the workplace! Like an INFP, you're private, emotional, and driven by a desire to create meaningful work that aligns with your values. You're a natural artist with a big heart, and you thrive in environments where you can express your creativity and make a positive impact on the world. Your ideal careers include writer, artist, designer, or counselor.",
+      "description": "你是 the creative, idealistic visionary of the 工作place! Like an INFP, you're private, emotional, and driven by a desire to create meaningful 工作 that aligns with 你的 values. 你是 a natural artist with a big heart, and you thrive in environments where you can express 你的 creativity and make a positive impact on the world. 你r ideal 职业s include writer, artist, designer, or counselor.",
       "mbti": "INFP"
     },
     {
       "title": "The Analyst (INTJ)",
-      "description": "You're the analytical, strategic problem-solver of the workplace! Like an INTJ, you're private, logical, and driven by a desire to solve complex problems and create efficient systems. You're a natural strategist with a sharp mind, and you thrive in environments where you can work independently and use your intelligence to drive innovation. Your ideal careers include programmer, engineer, architect, or data analyst.",
+      "description": "你是 the analytical, strategic problem-solver of the 工作place! Like an INTJ, you're private, logical, and driven by a desire to solve complex problems and create efficient systems. 你是 a natural strategist with a sharp mind, and you thrive in environments where you can 工作 independently and use 你的 intelligence to drive innovation. 你r ideal 职业s include programmer, engineer, architect, or data analyst.",
       "mbti": "INTJ"
     },
     {
       "title": "The Communicator (ENFJ)",
-      "description": "You're the charismatic, compassionate people-person of the workplace! Like an ENFJ, you're outgoing, emotional, and driven by a desire to connect with others and help them succeed. You're a natural communicator with a big heart, and you thrive in environments where you can lead teams, mentor others, and make a positive impact on people's lives. Your ideal careers include teacher, coach, HR manager, or marketer.",
+      "description": "你是 the charismatic, compassionate people-person of the 工作place! Like an ENFJ, you're outgoing, emotional, and driven by a desire to connect with others and help them succeed. 你是 a natural communicator with a big heart, and you thrive in environments where you can lead teams, mentor others, and make a positive impact on people's lives. 你r ideal 职业s include teacher, coach, HR manager, or marketer.",
       "mbti": "ENFJ"
     },
     {
       "title": "The Doer (ESTP)",
-      "description": "You're the bold, practical action-taker of the workplace! Like an ESTP, you're outgoing, logical, and driven by a desire to get things done and solve problems in real-time. You're a natural problem-solver with a hands-on approach, and you thrive in fast-paced environments where you can use your practical skills and quick thinking to drive results. Your ideal careers include sales, firefighter, entrepreneur, or paramedic.",
+      "description": "你是 the bold, practical action-taker of the 工作place! Like an ESTP, you're outgoing, logical, and driven by a desire to get things done and solve problems in real-time. 你是 a natural problem-solver with a hands-on approach, and you thrive in fast-paced environments where you can use 你的 practical skills and quick thinking to drive results. 你r ideal 职业s include sales, firefighter, entrepreneur, or paramedic.",
       "mbti": "ESTP"
     },
     {
       "title": "The Helper (ISFJ)",
-      "description": "You're the kind, reliable caretaker of the workplace! Like an ISFJ, you're private, emotional, and driven by a desire to help others and create a stable work environment. You're a natural helper with a big heart, and you thrive in environments where you can use your practical skills to support others and keep things running smoothly. Your ideal careers include nurse, administrative assistant, social worker, or librarian.",
+      "description": "你是 the kind, reliable caretaker of the 工作place! Like an ISFJ, you're private, emotional, and driven by a desire to help others and create a stable 工作 environment. 你是 a natural helper with a big heart, and you thrive in environments where you can use 你的 practical skills to support others and keep things running smoothly. 你r ideal 职业s include nurse, administrative assistant, social 工作er, or librarian.",
       "mbti": "ISFJ"
     },
     {
       "title": "The Innovator (ENTP)",
-      "description": "You're the creative, strategic idea-generator of the workplace! Like an ENTP, you're outgoing, logical, and driven by a desire to challenge the status quo and create innovative solutions. You're a natural innovator with a sharp mind, and you thrive in environments where you can brainstorm ideas, debate strategies, and drive change. Your ideal careers include entrepreneur, consultant, marketing strategist, or lawyer.",
+      "description": "你是 the creative, strategic idea-generator of the 工作place! Like an ENTP, you're outgoing, logical, and driven by a desire to challenge the status quo and create innovative solutions. 你是 a natural innovator with a sharp mind, and you thrive in environments where you can brainstorm ideas, debate strategies, and drive change. 你r ideal 职业s include entrepreneur, consultant, marketing strategist, or lawyer.",
       "mbti": "ENTP"
     },
     {
       "title": "The Stabilizer (ISTJ)",
-      "description": "You're the practical, reliable backbone of the workplace! Like an ISTJ, you're private, logical, and driven by a desire to create order and stability in the workplace. You're a natural organizer with a strong work ethic, and you thrive in environments where you can follow rules, meet deadlines, and ensure that things run efficiently. Your ideal careers include accountant, project manager, police officer, or logistics coordinator.",
+      "description": "你是 the practical, reliable backbone of the 工作place! Like an ISTJ, you're private, logical, and driven by a desire to create order and stability in the 工作place. 你是 a natural organizer with a strong 工作 ethic, and you thrive in environments where you can follow rules, meet deadlines, and ensure that things run efficiently. 你r ideal 职业s include accountant, project manager, police officer, or logistics coordinator.",
       "mbti": "ISTJ"
     },
     {
       "title": "The Optimist (ENFP)",
-      "description": "You're the creative, enthusiastic visionary of the workplace! Like an ENFP, you're outgoing, emotional, and driven by a desire to explore new ideas and inspire others. You're a natural optimist with a big heart, and you thrive in environments where you can use your creativity and enthusiasm to drive innovation and connect with others. Your ideal careers include writer, marketing specialist, teacher, or life coach.",
+      "description": "你是 the creative, enthusiastic visionary of the 工作place! Like an ENFP, you're outgoing, emotional, and driven by a desire to explore new ideas and inspire others. 你是 a natural optimist with a big heart, and you thrive in environments where you can use 你的 creativity and enthusiasm to drive innovation and connect with others. 你r ideal 职业s include writer, marketing specialist, teacher, or life coach.",
       "mbti": "ENFP"
     },
     {
       "title": "The Empath (INFJ)",
-      "description": "You're the compassionate, intuitive counselor of the workplace! Like an INFJ, you're private, emotional, and driven by a desire to understand others and create meaningful change. You're a natural empath with a deep understanding of people, and you thrive in environments where you can use your intuition and compassion to help others grow and succeed. Your ideal careers include therapist, coach, writer, or social justice advocate.",
+      "description": "你是 the compassionate, intuitive counselor of the 工作place! Like an INFJ, you're private, emotional, and driven by a desire to understand others and create meaningful change. 你是 a natural empath with a deep understanding of people, and you thrive in environments where you can use 你的 intuition and compassion to help others grow and succeed. 你r ideal 职业s include therapist, coach, writer, or social justice advocate.",
       "mbti": "INFJ"
     },
     {
       "title": "The Performer (ESFP)",
-      "description": "You're the energetic, spontaneous people-person of the workplace! Like an ESFP, you're outgoing, emotional, and driven by a desire to connect with others and enjoy the moment. You're a natural performer with a big personality, and you thrive in environments where you can use your charm and energy to engage others and create a positive work environment. Your ideal careers include sales, actor, event planner, or hospitality manager.",
+      "description": "你是 the energetic, spontaneous people-person of the 工作place! Like an ESFP, you're outgoing, emotional, and driven by a desire to connect with others and enjoy the moment. 你是 a natural performer with a big 性格, and you thrive in environments where you can use 你的 charm and energy to engage others and create a positive 工作 environment. 你r ideal 职业s include sales, actor, event planner, or hospitality manager.",
       "mbti": "ESFP"
     },
     {
       "title": "The Specialist (INTP)",
-      "description": "You're the analytical, curious expert of the workplace! Like an INTP, you're private, logical, and driven by a desire to understand complex systems and solve intellectual problems. You're a natural specialist with a sharp mind, and you thrive in environments where you can work independently and explore new ideas. Your ideal careers include programmer, scientist, researcher, or philosopher.",
+      "description": "你是 the analytical, curious expert of the 工作place! Like an INTP, you're private, logical, and driven by a desire to understand complex systems and solve intellectual problems. 你是 a natural specialist with a sharp mind, and you thrive in environments where you can 工作 independently and explore new ideas. 你r ideal 职业s include programmer, scientist, researcher, or philosopher.",
       "mbti": "INTP"
     },
     {
       "title": "The Organizer (ESTJ)",
-      "description": "You're the practical, responsible manager of the workplace! Like an ESTJ, you're outgoing, logical, and driven by a desire to create order and achieve tangible results. You're a natural organizer with a strong work ethic, and you thrive in environments where you can lead teams, set goals, and ensure that things run according to plan. Your ideal careers include manager, police officer, accountant, or military officer.",
+      "description": "你是 the practical, responsible manager of the 工作place! Like an ESTJ, you're outgoing, logical, and driven by a desire to create order and achieve tangible results. 你是 a natural organizer with a strong 工作 ethic, and you thrive in environments where you can lead teams, set goals, and ensure that things run according to plan. 你r ideal 职业s include manager, police officer, accountant, or military officer.",
       "mbti": "ESTJ"
     },
     {
       "title": "The Harmonizer (ESFJ)",
-      "description": "You're the kind, compassionate caretaker of the workplace! Like an ESFJ, you're outgoing, emotional, and driven by a desire to create harmony and help others succeed. You're a natural harmonizer with a big heart, and you thrive in environments where you can use your people skills to build relationships and create a positive work environment. Your ideal careers include teacher, nurse, HR manager, or event planner.",
+      "description": "你是 the kind, compassionate caretaker of the 工作place! Like an ESFJ, you're outgoing, emotional, and driven by a desire to create harmony and help others succeed. 你是 a natural harmonizer with a big heart, and you thrive in environments where you can use 你的 people skills to build relationships and create a positive 工作 environment. 你r ideal 职业s include teacher, nurse, HR manager, or event planner.",
       "mbti": "ESFJ"
     },
     {
       "title": "The Adventurer (ISFP)",
-      "description": "You're the creative, spontaneous artist of the workplace! Like an ISFP, you're private, emotional, and driven by a desire to express your creativity and live in the moment. You're a natural artist with a unique perspective, and you thrive in environments where you can use your hands-on skills and creativity to create beautiful work. Your ideal careers include artist, chef, musician, or landscaper.",
+      "description": "你是 the creative, spontaneous artist of the 工作place! Like an ISFP, you're private, emotional, and driven by a desire to express 你的 creativity and live in the moment. 你是 a natural artist with a unique perspective, and you thrive in environments where you can use 你的 hands-on skills and creativity to create beautiful 工作. 你r ideal 职业s include artist, chef, musician, or landscaper.",
       "mbti": "ISFP"
     },
     {
       "title": "The Mediator (ISFP)",
-      "description": "You're the gentle, compassionate peacemaker of the workplace! Like an ISFP, you're private, emotional, and driven by a desire to create harmony and help others. You're a natural mediator with a big heart, and you thrive in environments where you can use your creativity and empathy to resolve conflicts and create a positive work environment. Your ideal careers include counselor, artist, social worker, or massage therapist.",
+      "description": "你是 the gentle, compassionate peacemaker of the 工作place! Like an ISFP, you're private, emotional, and driven by a desire to create harmony and help others. 你是 a natural mediator with a big heart, and you thrive in environments where you can use 你的 creativity and empathy to resolve conflicts and create a positive 工作 environment. 你r ideal 职业s include counselor, artist, social 工作er, or massage therapist.",
       "mbti": "ISFP"
     }
   ]

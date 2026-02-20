@@ -57,7 +57,7 @@
       "text": "Your ideal class is...",
       "options": [
         {
-          "text": "Defense Against the Dark Arts",
+          "text": "黑魔法防御术",
           "score": "E"
         },
         {
@@ -65,11 +65,11 @@
           "score": "I"
         },
         {
-          "text": "Herbology",
+          "text": "草药学",
           "score": "S"
         },
         {
-          "text": "Charms",
+          "text": "魔咒学",
           "score": "N"
         }
       ]
@@ -183,15 +183,15 @@
       "text": "Your magical motivation is...",
       "options": [
         {
-          "text": "Bravery",
+          "text": "勇敢",
           "score": "E"
         },
         {
-          "text": "Intelligence",
+          "text": "智力",
           "score": "I"
         },
         {
-          "text": "Loyalty",
+          "text": "忠诚",
           "score": "S"
         },
         {
@@ -246,7 +246,7 @@
       "text": "You value most in friends...",
       "options": [
         {
-          "text": "Courage",
+          "text": "勇气",
           "score": "F"
         },
         {
@@ -321,7 +321,7 @@
           "score": "S"
         },
         {
-          "text": "Failure",
+          "text": "失败",
           "score": "N"
         }
       ]
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Gryffindor (ENFJ)",
-      "description": "You belong to Gryffindor (ENFJ)—the house of courage, chivalry, and determination! Like Albus Dumbledore, you're a natural leader who stands up for what's right, protects the vulnerable, and inspires others with your bravery and compassion. Your MBTI traits make you the heart of any group, combining extroverted warmth with intuitive understanding to lead with both courage and wisdom in the wizarding world.",
+      "description": "你 belong to Gryf找到or (ENFJ)—the house of courage, chivalry, and determination! Like Albus Dumbledore, you're a natural leader who stands up for what's right, protects the vulnerable, and inspires others with 你的 bravery and compassion. 你r MBTI traits make you the heart of any group, combining extroverted warmth with intuitive understanding to lead with both courage and wisdom in the wizarding world.",
       "mbti": "ENFJ"
     },
     {
       "title": "Ravenclaw (INTP)",
-      "description": "You belong to Ravenclaw (INTP)—the house of wit, learning, and wisdom! Like Luna Lovegood, you're a brilliant, independent thinker who values knowledge, creativity, and intellectual curiosity above all else. Your MBTI traits make you a natural scholar, combining introverted reflection with logical analysis to see beyond surface appearances and uncover magical truths others miss in the wizarding world.",
+      "description": "你 belong to Ravenclaw (INTP)—the house of wit, learning, and wisdom! Like Luna Lovegood, you're a brilliant, independent thinker who values knowledge, creativity, and intellectual curiosity above all else. 你r MBTI traits make you a natural scholar, combining introverted reflection with logical analysis to see beyond surface appearances and uncover magical truths others miss in the wizarding world.",
       "mbti": "INTP"
     },
     {
       "title": "Hufflepuff (ISFJ)",
-      "description": "You belong to Hufflepuff (ISFJ)—the house of hard work, patience, and loyalty! Like Cedric Diggory, you're a kind, reliable soul who values fairness, dedication, and community above all else. Your MBTI traits make you the backbone of the wizarding world, combining introverted care with practical service to support others quietly and faithfully through every magical challenge.",
+      "description": "你 belong to Hufflepuff (ISFJ)—the house of hard 工作, patience, and loyalty! Like Cedric Diggory, you're a kind, reliable soul who values fairness, dedication, and community above all else. 你r MBTI traits make you the backbone of the wizarding world, combining introverted care with practical service to support others quietly and faithfully through every magical challenge.",
       "mbti": "ISFJ"
     },
     {
       "title": "Slytherin (INTJ)",
-      "description": "You belong to Slytherin (INTJ)—the house of ambition, cunning, and resourcefulness! Like Severus Snape, you're a strategic, visionary wizard who values achievement, determination, and personal growth above all else. Your MBTI traits make you a master of long-term planning, combining introverted focus with intuitive strategy to achieve your magical goals with precision and purpose in the wizarding world.",
+      "description": "你 belong to Slytherin (INTJ)—the house of ambition, cunning, and resourcefulness! Like Severus Snape, you're a strategic, visionary wizard who values achievement, determination, and personal growth above all else. 你r MBTI traits make you a master of long-term planning, combining introverted focus with intuitive strategy to achieve 你的 magical goals with precision and purpose in the wizarding world.",
       "mbti": "INTJ"
     },
     {
       "title": "Gryffindor (ESFP)",
-      "description": "You belong to Gryffindor (ESFP)—the house of bravery, daring, and adventure! Like Fred and George Weasley, you're a bold, spontaneous wizard who lives in the moment, embraces excitement, and faces danger with charm and courage. Your MBTI traits make you the life of any magical adventure, combining extroverted energy with practical adaptability to turn even the most perilous situations into opportunities for heroism and fun.",
+      "description": "你 belong to Gryf找到or (ESFP)—the house of bravery, daring, and adventure! Like Fred and George Weasley, you're a bold, spontaneous wizard who lives in the moment, embraces excitement, and faces danger with charm and courage. 你r MBTI traits make you the life of any magical adventure, combining extroverted energy with practical adaptability to turn even the most perilous situations into opportunities for heroism and fun.",
       "mbti": "ESFP"
     },
     {
       "title": "Ravenclaw (ENTP)",
-      "description": "You belong to Ravenclaw (ENTP)—the house of creativity, wit, and innovation! Like Gilderoy Lockhart (in his more clever moments), you're a quick-thinking, innovative wizard who thrives on intellectual challenge and creative problem-solving. Your MBTI traits make you a master of magical improvisation, combining extroverted curiosity with intuitive cleverness to outsmart opponents and invent new magical solutions in the wizarding world.",
+      "description": "你 belong to Ravenclaw (ENTP)—the house of creativity, wit, and innovation! Like Gilderoy Lockhart (in his more clever moments), you're a quick-thinking, innovative wizard who thrives on intellectual challenge and creative problem-solving. 你r MBTI traits make you a master of magical improvisation, combining extroverted curiosity with intuitive cleverness to outsmart opponents and invent new magical solutions in the wizarding world.",
       "mbti": "ENTP"
     },
     {
       "title": "Hufflepuff (ESTJ)",
-      "description": "You belong to Hufflepuff (ESTJ)—the house of dedication, fairness, and reliability! Like Nymphadora Tonks (in her professional mode), you're a practical, responsible wizard who values hard work, tradition, and community service above all else. Your MBTI traits make you a dependable leader, combining extroverted organization with logical practicality to build stable, supportive communities in the wizarding world.",
+      "description": "你 belong to Hufflepuff (ESTJ)—the house of dedication, fairness, and reliability! Like Nymphadora Tonks (in her professional mode), you're a practical, responsible wizard who values hard 工作, tradition, and community service above all else. 你r MBTI traits make you a dependable leader, combining extroverted organization with logical practicality to build stable, supportive communities in the wizarding world.",
       "mbti": "ESTJ"
     },
     {
       "title": "Slytherin (ENTJ)",
-      "description": "You belong to Slytherin (ENTJ)—the house of leadership, ambition, and determination! Like Bellatrix Lestrange (without the dark allegiance), you're a powerful, decisive wizard who thrives on challenge, achievement, and strategic leadership. Your MBTI traits make you a natural wizarding leader, combining extroverted confidence with intuitive strategy to lead others and achieve ambitious magical goals with unwavering determination.",
+      "description": "你 belong to Slytherin (ENTJ)—the house of leadership, ambition, and determination! Like Bellatrix Lestrange (without the dark allegiance), you're a powerful, decisive wizard who thrives on challenge, achievement, and strategic leadership. 你r MBTI traits make you a natural wizarding leader, combining extroverted confidence with intuitive strategy to lead others and achieve ambitious magical goals with unwavering determination.",
       "mbti": "ENTJ"
     },
     {
       "title": "Gryffindor (ENFP)",
-      "description": "You belong to Gryffindor (ENFP)—the house of idealism, courage, and imagination! Like Harry Potter himself, you're an optimistic, brave wizard who believes in the power of good, values friendship above all, and faces darkness with hope and creativity. Your MBTI traits make you a true hero, combining extroverted warmth with intuitive idealism to inspire others and fight for what's right in the wizarding world.",
+      "description": "你 belong to Gryf找到or (ENFP)—the house of idealism, courage, and imagination! Like 哈利·波特 himself, you're an optimistic, brave wizard who believes in the power of good, values friendship above all, and faces darkness with hope and creativity. 你r MBTI traits make you a true hero, combining extroverted warmth with intuitive idealism to inspire others and fight for what's right in the wizarding world.",
       "mbti": "ENFP"
     },
     {
       "title": "Ravenclaw (INFP)",
-      "description": "You belong to Ravenclaw (INFP)—the house of wisdom, creativity, and individuality! Like Filius Flitwick, you're a gentle, imaginative wizard who values beauty, truth, and inner wisdom above all else. Your MBTI traits make you a unique magical talent, combining introverted idealism with emotional depth to create magic that's both powerful and deeply meaningful in the wizarding world.",
+      "description": "你 belong to Ravenclaw (INFP)—the house of wisdom, creativity, and individuality! Like Filius Flitwick, you're a gentle, imaginative wizard who values beauty, truth, and inner wisdom above all else. 你r MBTI traits make you a unique magical talent, combining introverted idealism with emotional depth to create magic that's both powerful and deeply meaningful in the wizarding world.",
       "mbti": "INFP"
     },
     {
       "title": "Hufflepuff (ESFJ)",
-      "description": "You belong to Hufflepuff (ESFJ)—the house of kindness, community, and dedication! Like Pomona Sprout, you're a warm, nurturing wizard who values harmony, service, and connection with others above all else. Your MBTI traits make you the heart of Hogwarts, combining extroverted care with practical nurturing to create a welcoming, supportive environment for all in the wizarding world.",
+      "description": "你 belong to Hufflepuff (ESFJ)—the house of kindness, community, and dedication! Like Pomona Sprout, you're a warm, nurturing wizard who values harmony, service, and connection with others above all else. 你r MBTI traits make you the heart of Hogwarts, combining extroverted care with practical nurturing to create a welcoming, supportive environment for all in the wizarding world.",
       "mbti": "ESFJ"
     },
     {
       "title": "Slytherin (INFJ)",
-      "description": "You belong to Slytherin (INFJ)—the house of intuition, ambition, and depth! Like Horace Slughorn (in his more noble moments), you're a wise, perceptive wizard who sees potential in others, values meaningful connections, and pursues goals with quiet determination. Your MBTI traits make you a subtle yet powerful force, combining introverted insight with emotional understanding to navigate the complex politics of the wizarding world with grace and purpose.",
+      "description": "你 belong to Slytherin (INFJ)—the house of intuition, ambition, and depth! Like Horace Slughorn (in his more noble moments), you're a wise, perceptive wizard who sees potential in others, values meaningful connections, and pursues goals with quiet determination. 你r MBTI traits make you a subtle yet powerful force, combining introverted insight with emotional understanding to navigate the complex politics of the wizarding world with grace and purpose.",
       "mbti": "INFJ"
     },
     {
       "title": "Gryffindor (ESTP)",
-      "description": "You belong to Gryffindor (ESTP)—the house of boldness, action, and courage! Like Sirius Black, you're a daring, pragmatic wizard who lives for adventure, faces danger head-on, and values freedom above all else. Your MBTI traits make you a natural adventurer, combining extroverted boldness with practical quick-thinking to tackle any magical challenge with bravery and resourcefulness in the wizarding world.",
+      "description": "你 belong to Gryf找到or (ESTP)—the house of boldness, action, and courage! Like Sirius Black, you're a daring, pragmatic wizard who lives for adventure, faces danger head-on, and values freedom above all else. 你r MBTI traits make you a natural adventurer, combining extroverted boldness with practical quick-thinking to tackle any magical challenge with bravery and resourcefulness in the wizarding world.",
       "mbti": "ESTP"
     },
     {
       "title": "Ravenclaw (ISTP)",
-      "description": "You belong to Ravenclaw (ISTP)—the house of ingenuity, practicality, and curiosity! Like Remus Lupin (in his analytical moments), you're a calm, resourceful wizard who excels at understanding how things work, solving problems in the moment, and adapting to any situation. Your MBTI traits make you a master of practical magic, combining introverted focus with logical adaptability to handle even the most unexpected magical crises with skill and calm.",
+      "description": "你 belong to Ravenclaw (ISTP)—the house of ingenuity, practicality, and curiosity! Like Remus Lupin (in his analytical moments), you're a calm, resourceful wizard who excels at understanding how things 工作, solving problems in the moment, and adapting to any situation. 你r MBTI traits make you a master of practical magic, combining introverted focus with logical adaptability to handle even the most unexpected magical crises with skill and calm.",
       "mbti": "ISTP"
     },
     {
       "title": "Hufflepuff (ISFP)",
-      "description": "You belong to Hufflepuff (ISFP)—the house of loyalty, creativity, and compassion! Like Neville Longbottom (in his growth journey), you're a gentle, brave wizard who values authenticity, kindness, and connection with nature above all else. Your MBTI traits make you a quiet hero, combining introverted sensitivity with practical creativity to stand up for what's right and care for others in the wizarding world with genuine warmth and courage.",
+      "description": "你 belong to Hufflepuff (ISFP)—the house of loyalty, creativity, and compassion! Like Neville Longbottom (in his growth journey), you're a gentle, brave wizard who values authenticity, kindness, and connection with nature above all else. 你r MBTI traits make you a quiet hero, combining introverted sensitivity with practical creativity to stand up for what's right and care for others in the wizarding world with genuine warmth and courage.",
       "mbti": "ISFP"
     },
     {
       "title": "Slytherin (ISTJ)",
-      "description": "You belong to Slytherin (ISTJ)—the house of tradition, reliability, and ambition! Like Arthur Weasley (in his bureaucratic moments), you're a responsible, detail-oriented wizard who values structure, tradition, and steady progress toward your goals. Your MBTI traits make you a dependable ally, combining introverted diligence with logical consistency to build lasting success and respect in the wizarding world through hard work and unwavering commitment.",
+      "description": "你 belong to Slytherin (ISTJ)—the house of tradition, reliability, and ambition! Like Arthur Weasley (in his bureaucratic moments), you're a responsible, detail-oriented wizard who values structure, tradition, and steady progress toward 你的 goals. 你r MBTI traits make you a dependable ally, combining introverted diligence with logical consistency to build lasting success and respect in the wizarding world through hard 工作 and unwavering commitment.",
       "mbti": "ISTJ"
     }
   ]

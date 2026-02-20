@@ -153,13 +153,13 @@
           "score": "J"
         },
         {
-          "text": "Go with the flow",
+          "text": "随遇而安",
           "score": "P"
         }
       ]
     },
     {
-      "text": "Your greatest strength is...",
+      "text": "你最大的优点是...",
       "options": [
         {
           "text": "Confidence",
@@ -481,7 +481,7 @@
           "score": "E"
         },
         {
-          "text": "Peace",
+          "text": "和平",
           "score": "I"
         },
         {
@@ -495,14 +495,14 @@
       ]
     },
     {
-      "text": "Your communication style is...",
+      "text": "沟通风格是...",
       "options": [
         {
           "text": "Loud and direct",
           "score": "E"
         },
         {
-          "text": "Quiet and thoughtful",
+          "text": "安静内敛",
           "score": "I"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Snow White",
-      "description": "You're the kind, classic Disney Princess! Like Snow White, you're outgoing, compassionate, and driven by a desire to care for others. You have a big heart and a love for all living things, and you're always kind to everyone you meet—even the seven dwarfs! You're an ESFJ—compassionate, generous, and a natural caretaker of those around you.",
+      "description": "你是 the kind, classic 迪士尼公主! Like Snow White, you're outgoing, compassionate, and driven by a desire to care for others. 你 have a big heart and a love for all living things, and you're always kind to everyone you meet—even the seven dwarfs! 你是 an ESFJ—compassionate, generous, and a natural caretaker of those around you.",
       "mbti": "ESFJ"
     },
     {
       "title": "Cinderella",
-      "description": "You're the hardworking, hopeful Disney Princess! Like Cinderella, you're private, resilient, and driven by a desire for a better life. You're a hard worker with a big heart, and you never lose hope—even when life gives you lemons (or evil stepmothers). You're an ISFJ—kind, loyal, and a quiet hero who never gives up.",
+      "description": "你是 the hard工作ing, hopeful 迪士尼公主! Like Cinderella, you're private, resilient, and driven by a desire for a better life. 你是 a hard 工作er with a big heart, and you never lose hope—even when life gives you lemons (or evil stepmothers). 你是 an ISFJ—kind, loyal, and a quiet hero who never gives up.",
       "mbti": "ISFJ"
     },
     {
       "title": "Aurora (Sleeping Beauty)",
-      "description": "You're the dreamy, elegant Disney Princess! Like Aurora, you're private, gentle, and driven by a desire for love and peace. You're a romantic at heart with a love for nature, and you have a calm, graceful demeanor that draws people to you. You're an INFP—idealistic, introspective, and deeply connected to your dreams and emotions.",
+      "description": "你是 the dreamy, elegant 迪士尼公主! Like Aurora, you're private, gentle, and driven by a desire for love and peace. 你是 a romantic at heart with a love for nature, and you have a calm, graceful demeanor that draws people to you. 你是 an INFP—idealistic, introspective, and deeply connected to 你的 dreams and emotions.",
       "mbti": "INFP"
     },
     {
       "title": "Ariel (The Little Mermaid)",
-      "description": "You're the adventurous, curious Disney Princess! Like Ariel, you're outgoing, optimistic, and driven by a desire for adventure and freedom. You're a free spirit with a big heart, and you're not afraid to take risks to follow your dreams—even if it means giving up your voice. You're an ENFP—optimistic, creative, and always ready for a new adventure.",
+      "description": "你是 the adventurous, curious 迪士尼公主! Like Ariel, you're outgoing, optimistic, and driven by a desire for adventure and freedom. 你是 a free spirit with a big heart, and you're not afraid to take risks to follow 你的 dreams—even if it means giving up 你的 voice. 你是 an ENFP—optimistic, creative, and always ready for a new adventure.",
       "mbti": "ENFP"
     },
     {
       "title": "Belle (Beauty and the Beast)",
-      "description": "You're the intelligent, kind Disney Princess! Like Belle, you're private, logical, and driven by a desire for knowledge and understanding. You're a book lover with a big heart, and you see the beauty in everyone—even a grumpy beast. You're an INTJ—visionary, logical, and a master of empathy and understanding.",
+      "description": "你是 the intelligent, kind 迪士尼公主! Like Belle, you're private, logical, and driven by a desire for knowledge and understanding. 你是 a book lover with a big heart, and you see the beauty in everyone—even a grumpy beast. 你是 an INTJ—visionary, logical, and a master of empathy and understanding.",
       "mbti": "INTJ"
     },
     {
       "title": "Jasmine (Aladdin)",
-      "description": "You're the independent, bold Disney Princess! Like Jasmine, you're outgoing, confident, and driven by a desire for freedom and equality. You're a strong, independent woman with a big heart, and you're not afraid to stand up for what's right—even if it means defying your father. You're an ESTP—bold, spontaneous, and always ready to fight for your freedom.",
+      "description": "你是 the independent, bold 迪士尼公主! Like Jasmine, you're outgoing, confident, and driven by a desire for freedom and equality. 你是 a strong, independent woman with a big heart, and you're not afraid to stand up for what's right—even if it means defying 你的 father. 你是 an ESTP—bold, spontaneous, and always ready to fight for 你的 freedom.",
       "mbti": "ESTP"
     },
     {
       "title": "Pocahontas",
-      "description": "You're the wise, free-spirited Disney Princess! Like Pocahontas, you're outgoing, intuitive, and driven by a desire for peace and understanding. You're a nature lover with a big heart, and you have a unique perspective on the world that brings people together. You're an ENFJ—charismatic, compassionate, and a natural peacemaker who bridges divides.",
+      "description": "你是 the wise, free-spirited 迪士尼公主! Like Pocahontas, you're outgoing, intuitive, and driven by a desire for peace and understanding. 你是 a nature lover with a big heart, and you have a unique perspective on the world that brings people together. 你是 an ENFJ—charismatic, compassionate, and a natural peacemaker who bridges divides.",
       "mbti": "ENFJ"
     },
     {
       "title": "Mulan",
-      "description": "You're the brave, loyal Disney Princess! Like Mulan, you're private, practical, and driven by a desire to protect your family and honor your country. You're a brave warrior with a big heart, and you're not afraid to break the rules to do what's right—even if it means dressing as a man. You're an ISTJ—practical, responsible, and a fierce ally who always puts family first.",
+      "description": "你是 the brave, loyal 迪士尼公主! Like Mulan, you're private, practical, and driven by a desire to protect 你的 family and honor 你的 country. 你是 a brave warrior with a big heart, and you're not afraid to break the rules to do what's right—even if it means dressing as a man. 你是 an ISTJ—practical, responsible, and a fierce ally who always puts family first.",
       "mbti": "ISTJ"
     },
     {
       "title": "Tiana (The Princess and the Frog)",
-      "description": "You're the hardworking, ambitious Disney Princess! Like Tiana, you're outgoing, driven, and focused on achieving your dreams. You're a hard worker with a big heart, and you value hard work and determination above all else—even if it means turning into a frog. You're an ENTJ—strategic, charismatic, and a natural leader who never gives up on her goals.",
+      "description": "你是 the hard工作ing, ambitious 迪士尼公主! Like Tiana, you're outgoing, driven, and focused on achieving 你的 dreams. 你是 a hard 工作er with a big heart, and you value hard 工作 and determination above all else—even if it means turning into a frog. 你是 an ENTJ—strategic, charismatic, and a natural leader who never gives up on her goals.",
       "mbti": "ENTJ"
     },
     {
       "title": "Rapunzel (Tangled)",
-      "description": "You're the creative, curious Disney Princess! Like Rapunzel, you're private, creative, and driven by a desire for adventure and freedom. You're a free spirit with a big heart, and you have a magical gift for art and music that brings joy to everyone around you. You're an INTP—analytical, creative, and always curious about the world outside your tower.",
+      "description": "你是 the creative, curious 迪士尼公主! Like Rapunzel, you're private, creative, and driven by a desire for adventure and freedom. 你是 a free spirit with a big heart, and you have a magical gift for art and music that brings joy to everyone around you. 你是 an INTP—analytical, creative, and always curious about the world outside 你的 tower.",
       "mbti": "INTP"
     },
     {
       "title": "Merida (Brave)",
-      "description": "You're the bold, independent Disney Princess! Like Merida, you're outgoing, confident, and driven by a desire for freedom and self-determination. You're a skilled archer with a big heart, and you're not afraid to break tradition to follow your own path—even if it means defying your mother. You're an ESTP—bold, spontaneous, and always ready for a new challenge.",
+      "description": "你是 the bold, independent 迪士尼公主! Like Merida, you're outgoing, confident, and driven by a desire for freedom and self-determination. 你是 a skilled archer with a big heart, and you're not afraid to break tradition to follow 你的 own path—even if it means defying 你的 mother. 你是 an ESTP—bold, spontaneous, and always ready for a new challenge.",
       "mbti": "ESTP"
     },
     {
       "title": "Moana",
-      "description": "You're the brave, adventurous Disney Princess! Like Moana, you're outgoing, optimistic, and driven by a desire to save your people and explore the ocean. You're a natural leader with a big heart, and you're not afraid to sail into the unknown to follow your destiny. You're an ENFP—optimistic, creative, and always ready for a new journey.",
+      "description": "你是 the brave, adventurous 迪士尼公主! Like Moana, you're outgoing, optimistic, and driven by a desire to save 你的 people and explore the ocean. 你是 a natural leader with a big heart, and you're not afraid to sail into the unknown to follow 你的 destiny. 你是 an ENFP—optimistic, creative, and always ready for a new journey.",
       "mbti": "ENFP"
     },
     {
       "title": "Elsa (Frozen)",
-      "description": "You're the powerful, independent Disney Queen! Like Elsa, you're private, powerful, and driven by a desire to embrace your true self and protect your loved ones. You're a magical queen with a big heart, and you learn to embrace your power and be yourself—even if it means letting go of fear. You're an INFJ—compassionate, visionary, and deeply connected to your emotions and power.",
+      "description": "你是 the powerful, independent Disney Queen! Like Elsa, you're private, powerful, and driven by a desire to embrace 你的 true self and protect 你的 loved ones. 你是 a magical queen with a big heart, and you learn to embrace 你的 power and be 你的self—even if it means letting go of fear. 你是 an INFJ—compassionate, visionary, and deeply connected to 你的 emotions and power.",
       "mbti": "INFJ"
     },
     {
       "title": "Anna (Frozen)",
-      "description": "You're the kind, loyal Disney Princess! Like Anna, you're outgoing, compassionate, and driven by a desire to protect your sister and your kingdom. You're a brave princess with a big heart, and you're not afraid to risk everything to save the people you love—even if it means walking into a frozen wasteland. You're an ESFP—energetic, spontaneous, and deeply loyal to those you love.",
+      "description": "你是 the kind, loyal 迪士尼公主! Like Anna, you're outgoing, compassionate, and driven by a desire to protect 你的 sister and 你的 kingdom. 你是 a brave princess with a big heart, and you're not afraid to risk everything to save the people you love—even if it means walking into a frozen wasteland. 你是 an ESFP—energetic, spontaneous, and deeply loyal to those you love.",
       "mbti": "ESFP"
     },
     {
       "title": "Ariel (The Little Mermaid)",
-      "description": "You're the adventurous, curious Disney Princess! Like Ariel, you're outgoing, optimistic, and driven by a desire for adventure and freedom. You're a free spirit with a big heart, and you're not afraid to take risks to follow your dreams—even if it means giving up your voice. You're an ENFP—optimistic, creative, and always ready for a new adventure.",
+      "description": "你是 the adventurous, curious 迪士尼公主! Like Ariel, you're outgoing, optimistic, and driven by a desire for adventure and freedom. 你是 a free spirit with a big heart, and you're not afraid to take risks to follow 你的 dreams—even if it means giving up 你的 voice. 你是 an ENFP—optimistic, creative, and always ready for a new adventure.",
       "mbti": "ENFP"
     },
     {
       "title": "Belle (Beauty and the Beast)",
-      "description": "You're the intelligent, kind Disney Princess! Like Belle, you're private, logical, and driven by a desire for knowledge and understanding. You're a book lover with a big heart, and you see the beauty in everyone—even a grumpy beast. You're an INTJ—visionary, logical, and a master of empathy and understanding.",
+      "description": "你是 the intelligent, kind 迪士尼公主! Like Belle, you're private, logical, and driven by a desire for knowledge and understanding. 你是 a book lover with a big heart, and you see the beauty in everyone—even a grumpy beast. 你是 an INTJ—visionary, logical, and a master of empathy and understanding.",
       "mbti": "INTJ"
     }
   ]

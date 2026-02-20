@@ -321,7 +321,7 @@
           "score": "J"
         },
         {
-          "text": "Go with the flow",
+          "text": "随遇而安",
           "score": "P"
         }
       ]
@@ -506,7 +506,7 @@
           "score": "I"
         },
         {
-          "text": "Plan ahead",
+          "text": "提前计划",
           "score": "S"
         },
         {
@@ -565,7 +565,7 @@
           "score": "F"
         },
         {
-          "text": "Plan ahead",
+          "text": "提前计划",
           "score": "T"
         },
         {
@@ -573,7 +573,7 @@
           "score": "J"
         },
         {
-          "text": "Go with the flow",
+          "text": "随遇而安",
           "score": "P"
         }
       ]
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "The Social Butterfly (ESFP)",
-      "description": "You're the outgoing, energetic social butterfly of travel! Like an ESFP, you thrive in bustling cities, love meeting new people, and live for the nightlife and social experiences of travel. You're spontaneous, fun-loving, and always up for a new adventure with friends. Your ideal trips include city breaks, music festivals, and group tours where you can make new friends and create unforgettable memories.",
+      "description": "你是 the outgoing, energetic social butterfly of 旅行! Like an ESFP, you thrive in bustling cities, love meeting new people, and live for the nightlife and social experiences of 旅行. 你是 spontaneous, fun-loving, and always up for a new adventure with friends. 你r ideal trips include city breaks, music festivals, and group tours where you can make new friends and create unforgettable memories.",
       "mbti": "ESFP"
     },
     {
       "title": "The Solitary Explorer (INTP)",
-      "description": "You're the curious, introspective solitary explorer of travel! Like an INTP, you prefer quiet destinations, love traveling alone, and thrive on intellectual and cultural experiences. You're analytical, curious, and enjoy exploring hidden gems and learning about different cultures at your own pace. Your ideal trips include solo backpacking, cultural immersion, and quiet countryside getaways where you can reflect and explore at your own speed.",
+      "description": "你是 the curious, introspective solitary explorer of 旅行! Like an INTP, you prefer quiet destinations, love 旅行ing alone, and thrive on intellectual and cultural experiences. 你是 analytical, curious, and enjoy exploring hidden gems and learning about different cultures at 你的 own pace. 你r ideal trips include solo backpacking, cultural immersion, and quiet countryside getaways where you can reflect and explore at 你的 own speed.",
       "mbti": "INTP"
     },
     {
       "title": "The Practical Planner (ISTJ)",
-      "description": "You're the organized, practical planner of travel! Like an ISTJ, you love structure, comfort, and reliability in your travel experiences. You plan trips extensively, follow strict itineraries, and value comfort and convenience above all else. Your ideal trips include all-inclusive resorts, family vacations, and well-planned tours where everything runs smoothly and according to plan.",
+      "description": "你是 the organized, practical planner of 旅行! Like an ISTJ, you love structure, comfort, and reliability in 你的 旅行 experiences. 你 plan trips extensively, follow strict itineraries, and value comfort and convenience above all else. 你r ideal trips include all-inclusive resorts, family vacations, and well-planned tours where everything runs smoothly and according to plan.",
       "mbti": "ISTJ"
     },
     {
       "title": "The Adventure Seeker (ESTP)",
-      "description": "You're the bold, spontaneous adventure seeker of travel! Like an ESTP, you thrive on adrenaline, love exploring remote destinations, and live for the thrill of new experiences. You're practical, adaptable, and always up for a new challenge—whether it's hiking a mountain, trying extreme sports, or exploring off-the-beaten-path destinations. Your ideal trips include backpacking, hiking, camping, and adventure travel where you can push your limits and create unforgettable memories.",
+      "description": "你是 the bold, spontaneous adventure seeker of 旅行! Like an ESTP, you thrive on adrenaline, love exploring remote destinations, and live for the thrill of new experiences. 你是 practical, adaptable, and always up for a new challenge—whether it's hiking a mountain, trying extreme sports, or exploring off-the-beaten-path destinations. 你r ideal trips include backpacking, hiking, camping, and adventure 旅行 where you can push 你的 limits and create unforgettable memories.",
       "mbti": "ESTP"
     },
     {
       "title": "The Cultural Connoisseur (INFJ)",
-      "description": "You're the compassionate, intuitive cultural connoisseur of travel! Like an INFJ, you value authenticity, cultural immersion, and meaningful experiences in your travel. You're introspective, empathetic, and love connecting with locals and understanding different ways of life. Your ideal trips include cultural tours, volunteer travel, and slow travel where you can immerse yourself in local culture and make a positive impact on the communities you visit.",
+      "description": "你是 the compassionate, intuitive cultural connoisseur of 旅行! Like an INFJ, you value authenticity, cultural immersion, and meaningful experiences in 你的 旅行. 你是 introspective, empathetic, and love connecting with locals and understanding different ways of life. 你r ideal trips include cultural tours, volunteer 旅行, and slow 旅行 where you can immerse 你的self in local culture and make a positive impact on the communities you visit.",
       "mbti": "INFJ"
     },
     {
       "title": "The Luxury Lover (ENFJ)",
-      "description": "You're the charismatic, generous luxury lover of travel! Like an ENFJ, you love the finer things in life, enjoy traveling in style, and value comfort and quality in your travel experiences. You're outgoing, generous, and love sharing your travel experiences with friends and family. Your ideal trips include 5-star hotels, gourmet dining, and luxury tours where you can relax in style and create unforgettable memories with your loved ones.",
+      "description": "你是 the charismatic, generous luxury lover of 旅行! Like an ENFJ, you love the finer things in life, enjoy 旅行ing in style, and value comfort and quality in 你的 旅行 experiences. 你是 outgoing, generous, and love sharing 你的 旅行 experiences with friends and family. 你r ideal trips include 5-star hotels, gourmet dining, and luxury tours where you can relax in style and create unforgettable memories with 你的 loved ones.",
       "mbti": "ENFJ"
     },
     {
       "title": "The Free Spirit (ENFP)",
-      "description": "You're the optimistic, creative free spirit of travel! Like an ENFP, you love spontaneity, adventure, and exploring new destinations without a strict plan. You're optimistic, creative, and always up for a new adventure—whether it's changing your travel plans last minute or exploring a new destination on a whim. Your ideal trips include backpacking, road trips, and spontaneous getaways where you can follow your heart and create unforgettable memories.",
+      "description": "你是 the optimistic, creative free spirit of 旅行! Like an ENFP, you love spontaneity, adventure, and exploring new destinations without a strict plan. 你是 optimistic, creative, and always up for a new adventure—whether it's changing 你的 旅行 plans last minute or exploring a new destination on a whim. 你r ideal trips include backpacking, road trips, and spontaneous getaways where you can follow 你的 heart and create unforgettable memories.",
       "mbti": "ENFP"
     },
     {
       "title": "The Relaxation Expert (ISFJ)",
-      "description": "You're the kind, reliable relaxation expert of travel! Like an ISFJ, you value rest, relaxation, and quality time with loved ones in your travel experiences. You're nurturing, practical, and love creating comfortable, stress-free travel experiences for yourself and your family. Your ideal trips include beach vacations, spa getaways, and quiet countryside retreats where you can relax, recharge, and spend quality time with your loved ones.",
+      "description": "你是 the kind, reliable relaxation expert of 旅行! Like an ISFJ, you value rest, relaxation, and quality time with loved ones in 你的 旅行 experiences. 你是 nurturing, practical, and love creating comfortable, stress-free 旅行 experiences for 你的self and 你的 family. 你r ideal trips include beach vacations, spa getaways, and quiet countryside retreats where you can relax, recharge, and spend quality time with 你的 loved ones.",
       "mbti": "ISFJ"
     },
     {
       "title": "The Strategic Traveler (INTJ)",
-      "description": "You're the analytical, strategic traveler of the world! Like an INTJ, you plan trips extensively, value efficiency and quality, and love exploring destinations that challenge your intellect and expand your horizons. You're strategic, independent, and enjoy traveling to destinations that offer unique cultural, historical, or natural experiences. Your ideal trips include solo travel, cultural tours, and adventure travel where you can challenge yourself and expand your understanding of the world.",
+      "description": "你是 the analytical, strategic 旅行er of the world! Like an INTJ, you plan trips extensively, value efficiency and quality, and love exploring destinations that challenge 你的 intellect and expand 你的 horizons. 你是 strategic, independent, and enjoy 旅行ing to destinations that offer unique cultural, historical, or natural experiences. 你r ideal trips include solo 旅行, cultural tours, and adventure 旅行 where you can challenge 你的self and expand 你的 understanding of the world.",
       "mbti": "INTJ"
     },
     {
       "title": "The People Person (ESFJ)",
-      "description": "You're the compassionate, outgoing people person of travel! Like an ESFJ, you love traveling with friends and family, value social experiences, and enjoy connecting with locals and other travelers. You're nurturing, generous, and love creating memorable travel experiences for the people you care about. Your ideal trips include family vacations, group tours, and cultural festivals where you can connect with others and create unforgettable memories.",
+      "description": "你是 the compassionate, outgoing people person of 旅行! Like an ESFJ, you love 旅行ing with friends and family, value social experiences, and enjoy connecting with locals and other 旅行ers. 你是 nurturing, generous, and love creating memorable 旅行 experiences for the people you care about. 你r ideal trips include family vacations, group tours, and cultural festivals where you can connect with others and create unforgettable memories.",
       "mbti": "ESFJ"
     },
     {
       "title": "The Minimalist Traveler (ISFP)",
-      "description": "You're the creative, spontaneous minimalist traveler! Like an ISFP, you love traveling light, value experiences over possessions, and enjoy connecting with nature and local cultures. You're gentle, creative, and love exploring destinations that offer natural beauty and authentic experiences. Your ideal trips include camping, hiking, and slow travel where you can connect with nature and live in the moment.",
+      "description": "你是 the creative, spontaneous minimalist 旅行er! Like an ISFP, you love 旅行ing light, value experiences over possessions, and enjoy connecting with nature and local cultures. 你是 gentle, creative, and love exploring destinations that offer natural beauty and authentic experiences. 你r ideal trips include camping, hiking, and slow 旅行 where you can connect with nature and live in the moment.",
       "mbti": "ISFP"
     },
     {
       "title": "The Global Citizen (ENTP)",
-      "description": "You're the curious, innovative global citizen of travel! Like an ENTP, you love exploring new destinations, challenging the status quo, and connecting with people from different cultures. You're witty, creative, and always up for a new debate or discussion with locals and other travelers. Your ideal trips include backpacking, cultural immersion, and adventure travel where you can challenge your assumptions and expand your understanding of the world.",
+      "description": "你是 the curious, innovative global citizen of 旅行! Like an ENTP, you love exploring new destinations, challenging the status quo, and connecting with people from different cultures. 你是 witty, creative, and always up for a new debate or discussion with locals and other 旅行ers. 你r ideal trips include backpacking, cultural immersion, and adventure 旅行 where you can challenge 你的 assumptions and expand 你的 understanding of the world.",
       "mbti": "ENTP"
     },
     {
       "title": "The Family Traveler (ESTJ)",
-      "description": "You're the practical, responsible family traveler! Like an ESTJ, you value structure, comfort, and quality time with family in your travel experiences. You're organized, reliable, and love creating memorable travel experiences for your family that are both fun and educational. Your ideal trips include theme parks, all-inclusive resorts, and cultural tours where your family can relax, have fun, and learn about different cultures together.",
+      "description": "你是 the practical, responsible family 旅行er! Like an ESTJ, you value structure, comfort, and quality time with family in 你的 旅行 experiences. 你是 organized, reliable, and love creating memorable 旅行 experiences for 你的 family that are both fun and educational. 你r ideal trips include theme parks, all-inclusive resorts, and cultural tours where 你的 family can relax, have fun, and learn about different cultures together.",
       "mbti": "ESTJ"
     },
     {
       "title": "The Nature Lover (INFP)",
-      "description": "You're the idealistic, creative nature lover of travel! Like an INFP, you love connecting with nature, value peace and quiet, and enjoy exploring remote, natural destinations. You're introspective, creative, and find inspiration in the beauty of the natural world. Your ideal trips include hiking, camping, and nature retreats where you can connect with nature, reflect, and recharge your spirit.",
+      "description": "你是 the idealistic, creative nature lover of 旅行! Like an INFP, you love connecting with nature, value peace and quiet, and enjoy exploring remote, natural destinations. 你是 introspective, creative, and 找到 inspiration in the beauty of the natural world. 你r ideal trips include hiking, camping, and nature retreats where you can connect with nature, reflect, and recharge 你的 spirit.",
       "mbti": "INFP"
     },
     {
       "title": "The Business Traveler (ENTJ)",
-      "description": "You're the strategic, ambitious business traveler! Like an ENTJ, you value efficiency, productivity, and comfort in your travel experiences. You're a natural leader, even when traveling for business, and know how to balance work and play. Your ideal trips include luxury business hotels, efficient travel arrangements, and quick getaways where you can maximize your productivity and still enjoy new destinations.",
+      "description": "你是 the strategic, ambitious business 旅行er! Like an ENTJ, you value efficiency, productivity, and comfort in 你的 旅行 experiences. 你是 a natural leader, even when 旅行ing for business, and know how to balance 工作 and play. 你r ideal trips include luxury business hotels, efficient 旅行 arrangements, and quick getaways where you can maximize 你的 productivity and still enjoy new destinations.",
       "mbti": "ENTJ"
     },
     {
       "title": "The Slow Traveler (INFJ)",
-      "description": "You're the compassionate, intuitive slow traveler! Like an INFJ, you value depth over breadth in your travel experiences, love connecting with locals, and enjoy taking the time to truly understand different cultures and ways of life. You're introspective, empathetic, and find joy in the small moments and meaningful connections of travel. Your ideal trips include long-term stays in small towns, cultural immersion, and volunteer travel where you can make a positive impact and truly connect with the places you visit.",
+      "description": "你是 the compassionate, intuitive slow 旅行er! Like an INFJ, you value depth over breadth in 你的 旅行 experiences, love connecting with locals, and enjoy taking the time to truly understand different cultures and ways of life. 你是 introspective, empathetic, and 找到 joy in the small moments and meaningful connections of 旅行. 你r ideal trips include long-term stays in small towns, cultural immersion, and volunteer 旅行 where you can make a positive impact and truly connect with the places you visit.",
       "mbti": "INFJ"
     }
   ]

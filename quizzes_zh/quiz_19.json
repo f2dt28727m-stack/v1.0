@@ -170,7 +170,7 @@
           "score": "T"
         },
         {
-          "text": "Justice",
+          "text": "正义",
           "score": "J"
         },
         {
@@ -229,7 +229,7 @@
           "score": "F"
         },
         {
-          "text": "Failure",
+          "text": "失败",
           "score": "T"
         },
         {
@@ -292,7 +292,7 @@
           "score": "F"
         },
         {
-          "text": "Power",
+          "text": "力量",
           "score": "T"
         },
         {
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "text": "Your leadership style is...",
+      "text": "你的领导风格是...",
       "options": [
         {
           "text": "Democratic",
@@ -456,7 +456,7 @@
       "text": "You approach danger by...",
       "options": [
         {
-          "text": "Courage",
+          "text": "勇气",
           "score": "F"
         },
         {
@@ -474,14 +474,14 @@
       ]
     },
     {
-      "text": "Your moral code is...",
+      "text": "你的道德准则是...",
       "options": [
         {
-          "text": "Compassion",
+          "text": "同情心",
           "score": "E"
         },
         {
-          "text": "Power",
+          "text": "力量",
           "score": "I"
         },
         {
@@ -498,7 +498,7 @@
       "text": "You learn the Force by...",
       "options": [
         {
-          "text": "Mentorship",
+          "text": "导师指导",
           "score": "E"
         },
         {
@@ -516,14 +516,14 @@
       ]
     },
     {
-      "text": "Your greatest strength is...",
+      "text": "你最大的优点是...",
       "options": [
         {
-          "text": "Loyalty",
+          "text": "忠诚",
           "score": "E"
         },
         {
-          "text": "Intelligence",
+          "text": "智力",
           "score": "I"
         },
         {
@@ -548,7 +548,7 @@
           "score": "T"
         },
         {
-          "text": "Recognition",
+          "text": "认可",
           "score": "J"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Luke Skywalker (ENFP)",
-      "description": "You're Luke Skywalker—the hopeful, adventurous ENFP! Like Luke, you're outgoing, optimistic, and believe in the power of hope and the Force to change the galaxy. You're a dreamer who leaves home to fight for what's right, trust your intuition, and see the good in others even when no one else can.",
+      "description": "你是 Luke Skywalker—the hopeful, adventurous ENFP! Like Luke, you're outgoing, optimistic, and believe in the power of hope and the Force to change the galaxy. 你是 a dreamer who leaves home to fight for what's right, trust 你的 intuition, and see the good in others even when no one else can.",
       "mbti": "ENFP"
     },
     {
       "title": "Darth Vader (INTJ)",
-      "description": "You're Darth Vader—the strategic, complex INTJ! Like Vader, you're private, analytical, and driven by a mix of power, regret, and purpose. You have a clear vision (even if it's dark), use your intelligence and power to achieve your goals, and carry the weight of your past decisions with quiet intensity.",
+      "description": "你是 Darth Vader—the strategic, complex INTJ! Like Vader, you're private, analytical, and driven by a mix of power, regret, and purpose. 你 have a clear vision (even if it's dark), use 你的 intelligence and power to achieve 你的 goals, and carry the weight of 你的 past decisions with quiet intensity.",
       "mbti": "INTJ"
     },
     {
       "title": "Leia Organa (ESTJ)",
-      "description": "You're Leia Organa—the determined, practical ESTJ! Like Leia, you're outgoing, responsible, and a natural leader who refuses to back down from the Empire. You're a skilled diplomat and warrior, value structure and strategy, and use your position to fight for freedom and justice in the galaxy.",
+      "description": "你是 Leia Organa—the determined, practical ESTJ! Like Leia, you're outgoing, responsible, and a natural leader who refuses to back down from the Empire. 你是 a skilled diplomat and warrior, value structure and strategy, and use 你的 position to fight for freedom and justice in the galaxy.",
       "mbti": "ESTJ"
     },
     {
       "title": "Han Solo (ESTP)",
-      "description": "You're Han Solo—the charismatic, spontaneous ESTP! Like Han, you're outgoing, practical, and a rogue with a heart of gold. You trust your instincts, live for the moment, and use your quick wit and piloting skills to get out of (and into) trouble across the galaxy.",
+      "description": "你是 Han Solo—the charismatic, spontaneous ESTP! Like Han, you're outgoing, practical, and a rogue with a heart of gold. 你 trust 你的 instincts, live for the moment, and use 你的 quick wit and piloting skills to get out of (and into) trouble across the galaxy.",
       "mbti": "ESTP"
     },
     {
       "title": "Yoda (INFJ)",
-      "description": "You're Yoda—the wise, compassionate INFJ! Like Yoda, you're private, visionary, and a master of the Force who sees beyond the present moment. You speak in cryptic wisdom, value patience and discipline, and guide others to discover their true potential through gentle mentorship.",
+      "description": "你是 Yoda—the wise, compassionate INFJ! Like Yoda, you're private, visionary, and a master of the Force who sees beyond the present moment. 你 speak in cryptic wisdom, value patience and discipline, and guide others to discover their true potential through gentle mentorship.",
       "mbti": "INFJ"
     },
     {
       "title": "Obi-Wan Kenobi (ISFJ)",
-      "description": "You're Obi-Wan Kenobi—the loyal, protective ISFJ! Like Obi-Wan, you're private, kind, and a steadfast guardian who honors your promises and protects those in your care. You follow the Jedi Code, use your wisdom and experience to guide others, and face adversity with calm resolve and quiet courage.",
+      "description": "你是 Obi-Wan Kenobi—the loyal, protective ISFJ! Like Obi-Wan, you're private, kind, and a steadfast guardian who honors 你的 promises and protects those in 你的 care. 你 follow the Jedi Code, use 你的 wisdom and experience to guide others, and face adversity with calm resolve and quiet courage.",
       "mbti": "ISFJ"
     },
     {
       "title": "Emperor Palpatine (ENTJ)",
-      "description": "You're Emperor Palpatine—the manipulative, strategic ENTJ! Like Palpatine, you're outgoing, strategic, and a master of manipulation who craves power and control. You have a long-term vision for the galaxy, use others as pawns in your grand plan, and stop at nothing to achieve ultimate power.",
+      "description": "你是 Emperor Palpatine—the manipulative, strategic ENTJ! Like Palpatine, you're outgoing, strategic, and a master of manipulation who craves power and control. 你 have a long-term vision for the galaxy, use others as pawns in 你的 grand plan, and stop at nothing to achieve ultimate power.",
       "mbti": "ENTJ"
     },
     {
       "title": "Rey (ESFP)",
-      "description": "You're Rey—the resilient, energetic ESFP! Like Rey, you're outgoing, spontaneous, and a scavenger with hidden Force abilities. You adapt quickly to new situations, trust your instincts in combat, and discover your true identity and purpose through action and adventure across the galaxy.",
+      "description": "你是 Rey—the resilient, energetic ESFP! Like Rey, you're outgoing, spontaneous, and a scavenger with hidden Force abilities. 你 adapt quickly to new situations, trust 你的 instincts in combat, and discover 你的 true identity and purpose through action and adventure across the galaxy.",
       "mbti": "ESFP"
     },
     {
       "title": "Kylo Ren (INFP)",
-      "description": "You're Kylo Ren—the conflicted, idealistic INFP! Like Kylo, you're private, emotional, and torn between the light and dark sides of the Force. You struggle with your identity and legacy, crave connection and purpose, and make impulsive decisions driven by your deep emotional inner world.",
+      "description": "你是 Kylo Ren—the conflicted, idealistic INFP! Like Kylo, you're private, emotional, and torn between the light and dark sides of the Force. 你 struggle with 你的 identity and legacy, crave connection and purpose, and make impulsive decisions driven by 你的 deep emotional inner world.",
       "mbti": "INFP"
     },
     {
       "title": "Chewbacca (ISFP)",
-      "description": "You're Chewbacca—the loyal, gentle ISFP! Like Chewie, you're private, practical, and a fierce warrior who values loyalty above all else. You communicate without words, protect your friends with your life, and use your strength and technical skills to help the rebellion fight the Empire.",
+      "description": "你是 Chewbacca—the loyal, gentle ISFP! Like Chewie, you're private, practical, and a fierce warrior who values loyalty above all else. 你 communicate without words, protect 你的 friends with 你的 life, and use 你的 strength and technical skills to help the rebellion fight the Empire.",
       "mbti": "ISFP"
     },
     {
       "title": "Padmé Amidala (ENFJ)",
-      "description": "You're Padmé Amidala—the compassionate, charismatic ENFJ! Like Padmé, you're outgoing, compassionate, and a skilled diplomat who fights for peace and justice. You use your charisma and influence to inspire others, balance your public duty with private love, and stand up for what's right even in the face of danger.",
+      "description": "你是 Padmé Amidala—the compassionate, charismatic ENFJ! Like Padmé, you're outgoing, compassionate, and a skilled diplomat who fights for peace and justice. 你 use 你的 charisma and influence to inspire others, balance 你的 public duty with private love, and stand up for what's right even in the face of danger.",
       "mbti": "ENFJ"
     },
     {
       "title": "Boba Fett (ISTJ)",
-      "description": "You're Boba Fett—the disciplined, practical ISTJ! Like Boba, you're private, responsible, and a bounty hunter who values honor, rules, and getting the job done. You follow your code of honor, use precise tactics and equipment, and complete your missions with ruthless efficiency and professionalism.",
+      "description": "你是 Boba Fett—the disciplined, practical ISTJ! Like Boba, you're private, responsible, and a bounty hunter who values honor, rules, and getting the job done. 你 follow 你的 code of honor, use precise tactics and equipment, and complete 你的 missions with ruthless efficiency and professionalism.",
       "mbti": "ISTJ"
     },
     {
       "title": "Lando Calrissian (ENTP)",
-      "description": "You're Lando Calrissian—the charming, creative ENTP! Like Lando, you're outgoing, creative, and a smooth-talking gambler who always has a plan (or three). You adapt to changing circumstances, use your charisma and wit to get what you want, and ultimately choose to do the right thing when it matters most.",
+      "description": "你是 Lando Calrissian—the charming, creative ENTP! Like Lando, you're outgoing, creative, and a smooth-talking gambler who always has a plan (or three). 你 adapt to changing circumstances, use 你的 charisma and wit to get what you want, and ultimately choose to do the right thing when it matters most.",
       "mbti": "ENTP"
     },
     {
       "title": "Mace Windu (ESTJ)",
-      "description": "You're Mace Windu—the strong, principled ESTJ! Like Mace, you're outgoing, practical, and a Jedi Master who values discipline and justice. You're a skilled lightsaber duelist, trust in the Jedi Code, and aren't afraid to make tough decisions to protect the galaxy from the dark side.",
+      "description": "你是 Mace Windu—the strong, principled ESTJ! Like Mace, you're outgoing, practical, and a Jedi Master who values discipline and justice. 你是 a skilled lightsaber duelist, trust in the Jedi Code, and aren't afraid to make tough decisions to protect the galaxy from the dark side.",
       "mbti": "ESTJ"
     },
     {
       "title": "Ahsoka Tano (ENFP)",
-      "description": "You're Ahsoka Tano—the independent, optimistic ENFP! Like Ahsoka, you're outgoing, creative, and a former Jedi who carves her own path in the galaxy. You question authority, trust your moral compass, and use your Jedi training to help others while staying true to your own values and beliefs.",
+      "description": "你是 Ahsoka Tano—the independent, optimistic ENFP! Like Ahsoka, you're outgoing, creative, and a former Jedi who carves her own path in the galaxy. 你 问题 authority, trust 你的 moral compass, and use 你的 Jedi training to help others while staying true to 你的 own values and beliefs.",
       "mbti": "ENFP"
     },
     {
       "title": "Count Dooku (INTP)",
-      "description": "You're Count Dooku—the intellectual, skeptical INTP! Like Dooku, you're private, analytical, and a former Jedi who becomes disillusioned with the Jedi Order. You question the status quo, believe in a different vision for the galaxy, and use your intelligence and lightsaber skills to challenge the established order.",
+      "description": "你是 Count Dooku—the intellectual, skeptical INTP! Like Dooku, you're private, analytical, and a former Jedi who becomes disillusioned with the Jedi Order. 你 问题 the status quo, believe in a different vision for the galaxy, and use 你的 intelligence and lightsaber skills to challenge the established order.",
       "mbti": "INTP"
     }
   ]

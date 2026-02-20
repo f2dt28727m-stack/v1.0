@@ -183,15 +183,15 @@
       "text": "You value...",
       "options": [
         {
-          "text": "Words of affirmation",
+          "text": "肯定的言语",
           "score": "E"
         },
         {
-          "text": "Quality time",
+          "text": "陪伴",
           "score": "I"
         },
         {
-          "text": "Acts of service",
+          "text": "服务行动",
           "score": "S"
         },
         {
@@ -645,15 +645,15 @@
       "text": "Your love language with family is...",
       "options": [
         {
-          "text": "Words of affirmation",
+          "text": "肯定的言语",
           "score": "E"
         },
         {
-          "text": "Quality time",
+          "text": "陪伴",
           "score": "I"
         },
         {
-          "text": "Acts of service",
+          "text": "服务行动",
           "score": "S"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Words of Affirmation (ENFJ)",
-      "description": "You give and receive love through kind words and heartfelt praise! You feel most loved when someone tells you how much you mean to them, and you show love by showering your loved ones with sweet words and encouragement. You're an ENFJ—charismatic, compassionate, and a natural communicator who makes others feel seen and valued with your words.",
+      "description": "你 give and receive love through kind words and heartfelt praise! 你 feel most loved when someone tells you how much you mean to them, and you show love by showering 你的 loved ones with sweet words and encouragement. 你是 an ENFJ—charismatic, compassionate, and a natural communicator who makes others feel seen and valued with 你的 words.",
       "mbti": "ENFJ"
     },
     {
       "title": "Quality Time (ISFJ)",
-      "description": "You give and receive love through one-on-one connection and undivided attention! You feel most loved when someone makes time for you, and you show love by being fully present with your loved ones. You're an ISFJ—kind, loyal, and a natural listener who cherishes deep, intimate connections with the people you care about.",
+      "description": "你 give and receive love through one-on-one connection and undivided attention! 你 feel most loved when someone makes time for you, and you show love by being fully present with 你的 loved ones. 你是 an ISFJ—kind, loyal, and a natural listener who cherishes deep, intimate connections with the people you care about.",
       "mbti": "ISFJ"
     },
     {
       "title": "Acts of Service (ISTJ)",
-      "description": "You give and receive love through thoughtful actions and helpful gestures! You feel most loved when someone does something nice for you, and you show love by taking care of the people you care about and making their lives easier. You're an ISTJ—practical, responsible, and a quiet giver who shows love through consistent, reliable action.",
+      "description": "你 give and receive love through thoughtful actions and helpful gestures! 你 feel most loved when someone does something nice for you, and you show love by taking care of the people you care about and making their lives easier. 你是 an ISTJ—practical, responsible, and a quiet giver who shows love through consistent, reliable action.",
       "mbti": "ISTJ"
     },
     {
       "title": "Receiving Gifts (ENFP)",
-      "description": "You give and receive love through thoughtful presents and meaningful tokens! You feel most loved when someone remembers the little things and gives you a thoughtful gift, and you show love by picking out the perfect present for your loved ones. You're an ENFP—optimistic, creative, and a thoughtful giver who finds joy in making others feel special with small, meaningful gestures.",
+      "description": "你 give and receive love through thoughtful presents and meaningful tokens! 你 feel most loved when someone remembers the little things and gives you a thoughtful gift, and you show love by picking out the perfect present for 你的 loved ones. 你是 an ENFP—optimistic, creative, and a thoughtful giver who 找到s joy in making others feel special with small, meaningful gestures.",
       "mbti": "ENFP"
     },
     {
       "title": "Physical Touch (ESFP)",
-      "description": "You give and receive love through warm hugs, gentle touches, and physical connection! You feel most loved when someone holds your hand or gives you a hug, and you show love by being physically affectionate with your loved ones. You're an ESFP—energetic, spontaneous, and a warm, affectionate person who finds joy in physical connection with the people you care about.",
+      "description": "你 give and receive love through warm hugs, gentle touches, and physical connection! 你 feel most loved when someone holds 你的 hand or gives you a hug, and you show love by being physically affectionate with 你的 loved ones. 你是 an ESFP—energetic, spontaneous, and a warm, affectionate person who 找到s joy in physical connection with the people you care about.",
       "mbti": "ESFP"
     },
     {
       "title": "Words + Quality Time (INFJ)",
-      "description": "You give and receive love through a mix of kind words and undivided attention! You feel most loved when someone tells you how much you mean to them and makes time for you, and you show love by being a thoughtful communicator and a present listener. You're an INFJ—compassionate, visionary, and a deep connector who values both heartfelt words and intimate connection.",
+      "description": "你 give and receive love through a mix of kind words and undivided attention! 你 feel most loved when someone tells you how much you mean to them and makes time for you, and you show love by being a thoughtful communicator and a present listener. 你是 an INFJ—compassionate, visionary, and a deep connector who values both heartfelt words and intimate connection.",
       "mbti": "INFJ"
     },
     {
       "title": "Acts of Service + Quality Time (INTJ)",
-      "description": "You give and receive love through a mix of helpful actions and one-on-one time! You feel most loved when someone does something nice for you and makes time for you, and you show love by taking care of your loved ones and being fully present with them. You're an INTJ—visionary, logical, and a practical lover who shows care through consistent action and intentional connection.",
+      "description": "你 give and receive love through a mix of helpful actions and one-on-one time! 你 feel most loved when someone does something nice for you and makes time for you, and you show love by taking care of 你的 loved ones and being fully present with them. 你是 an INTJ—visionary, logical, and a practical lover who shows care through consistent action and intentional connection.",
       "mbti": "INTJ"
     },
     {
       "title": "Gifts + Physical Touch (ESTP)",
-      "description": "You give and receive love through a mix of thoughtful presents and physical affection! You feel most loved when someone gives you a cool gift and gives you a hug, and you show love by picking out fun presents and being physically affectionate with your loved ones. You're an ESTP—bold, spontaneous, and a fun-loving lover who finds joy in surprising and connecting with others.",
+      "description": "你 give and receive love through a mix of thoughtful presents and physical affection! 你 feel most loved when someone gives you a cool gift and gives you a hug, and you show love by picking out fun presents and being physically affectionate with 你的 loved ones. 你是 an ESTP—bold, spontaneous, and a fun-loving lover who 找到s joy in surprising and connecting with others.",
       "mbti": "ESTP"
     },
     {
       "title": "Words + Physical Touch (ENTP)",
-      "description": "You give and receive love through a mix of sweet words and physical affection! You feel most loved when someone tells you how amazing you are and gives you a hug, and you show love by being a witty communicator and a physically affectionate partner. You're an ENTP—creative, strategic, and a playful lover who values both verbal affirmation and physical connection.",
+      "description": "你 give and receive love through a mix of sweet words and physical affection! 你 feel most loved when someone tells you how amazing you are and gives you a hug, and you show love by being a witty communicator and a physically affectionate partner. 你是 an ENTP—creative, strategic, and a playful lover who values both verbal affirmation and physical connection.",
       "mbti": "ENTP"
     },
     {
       "title": "Quality Time + Acts of Service (ESFJ)",
-      "description": "You give and receive love through a mix of undivided attention and helpful actions! You feel most loved when someone makes time for you and takes care of you, and you show love by being fully present with your loved ones and making their lives easier. You're an ESFJ—compassionate, responsible, and a nurturing lover who values both connection and practical care.",
+      "description": "你 give and receive love through a mix of undivided attention and helpful actions! 你 feel most loved when someone makes time for you and takes care of you, and you show love by being fully present with 你的 loved ones and making their lives easier. 你是 an ESFJ—compassionate, responsible, and a nurturing lover who values both connection and practical care.",
       "mbti": "ESFJ"
     },
     {
       "title": "Gifts + Words of Affirmation (INFP)",
-      "description": "You give and receive love through a mix of thoughtful presents and heartfelt words! You feel most loved when someone gives you a meaningful gift and tells you how much they care, and you show love by picking out thoughtful presents and writing sweet notes for your loved ones. You're an INFP—idealistic, introspective, and a deeply romantic lover who values both tangible and verbal expressions of love.",
+      "description": "你 give and receive love through a mix of thoughtful presents and heartfelt words! 你 feel most loved when someone gives you a meaningful gift and tells you how much they care, and you show love by picking out thoughtful presents and writing sweet notes for 你的 loved ones. 你是 an INFP—idealistic, introspective, and a deeply romantic lover who values both tangible and verbal expressions of love.",
       "mbti": "INFP"
     },
     {
       "title": "Physical Touch + Acts of Service (ENTJ)",
-      "description": "You give and receive love through a mix of physical affection and helpful actions! You feel most loved when someone gives you a hug and takes care of something for you, and you show love by being physically affectionate and taking charge to make your loved ones' lives easier. You're an ENTJ—strategic, charismatic, and a protective lover who values both connection and practical support.",
+      "description": "你 give and receive love through a mix of physical affection and helpful actions! 你 feel most loved when someone gives you a hug and takes care of something for you, and you show love by being physically affectionate and taking charge to make 你的 loved ones' lives easier. 你是 an ENTJ—strategic, charismatic, and a protective lover who values both connection and practical support.",
       "mbti": "ENTJ"
     },
     {
       "title": "Words + Acts of Service (ISFP)",
-      "description": "You give and receive love through a mix of kind words and helpful gestures! You feel most loved when someone tells you how much they appreciate you and does something nice for you, and you show love by being a thoughtful communicator and a quiet helper to your loved ones. You're an ISFP—gentle, creative, and a humble lover who values both verbal appreciation and practical care.",
+      "description": "你 give and receive love through a mix of kind words and helpful gestures! 你 feel most loved when someone tells you how much they appreciate you and does something nice for you, and you show love by being a thoughtful communicator and a quiet helper to 你的 loved ones. 你是 an ISFP—gentle, creative, and a humble lover who values both verbal appreciation and practical care.",
       "mbti": "ISFP"
     },
     {
       "title": "Quality Time + Gifts (INTP)",
-      "description": "You give and receive love through a mix of undivided attention and thoughtful presents! You feel most loved when someone makes time for you and gives you a gift that shows they get you, and you show love by being fully present with your loved ones and picking out unique gifts for them. You're an INTP—analytical, creative, and a thoughtful lover who values both connection and meaningful gestures.",
+      "description": "你 give and receive love through a mix of undivided attention and thoughtful presents! 你 feel most loved when someone makes time for you and gives you a gift that shows they get you, and you show love by being fully present with 你的 loved ones and picking out unique gifts for them. 你是 an INTP—analytical, creative, and a thoughtful lover who values both connection and meaningful gestures.",
       "mbti": "INTP"
     },
     {
       "title": "Physical Touch + Quality Time (ESTJ)",
-      "description": "You give and receive love through a mix of physical affection and one-on-one time! You feel most loved when someone is physically affectionate with you and makes time for you, and you show love by being a warm, present partner who values both physical connection and intentional time together. You're an ESTJ—practical, responsible, and a loyal lover who shows care through presence and touch.",
+      "description": "你 give and receive love through a mix of physical affection and one-on-one time! 你 feel most loved when someone is physically affectionate with you and makes time for you, and you show love by being a warm, present partner who values both physical connection and intentional time together. 你是 an ESTJ—practical, responsible, and a loyal lover who shows care through presence and touch.",
       "mbti": "ESTJ"
     },
     {
       "title": "All Love Languages (ENFP)",
-      "description": "You give and receive love through all five love languages! You feel loved in many different ways, and you show love to your loved ones through words, time, actions, gifts, and touch. You're an ENFP—optimistic, creative, and a versatile lover who finds joy in expressing love in every way possible.",
+      "description": "你 give and receive love through all five love languages! 你 feel loved in many different ways, and you show love to 你的 loved ones through words, time, actions, gifts, and touch. 你是 an ENFP—optimistic, creative, and a versatile lover who 找到s joy in expressing love in every way possible.",
       "mbti": "ENFP"
     }
   ]

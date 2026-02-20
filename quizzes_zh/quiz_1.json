@@ -16,10 +16,10 @@
   "questions": [
     {
       "qId": 1,
-      "text": "At a party, you prefer to...",
+      "text": "在派对上，你更喜欢",
       "options": [
         {
-          "text": "Meet new people and be the center of attention",
+          "text": "结识新朋友，成为焦点",
           "score": {
             "E": 1,
             "I": 0,
@@ -886,7 +886,7 @@
     },
     {
       "qId": 16,
-      "text": "How do you handle criticism?",
+      "text": "如何处理批评?",
       "options": [
         {
           "text": "Take it constructively and learn from it",
@@ -2107,7 +2107,7 @@
     {
       "mbtiType": "ESTJ",
       "title": "The Responsible Leader (Cinderella)",
-      "description": "You're the ultimate embodiment of Cinderella's resilience and discipline! You work tirelessly to overcome obstacles, stay true to your values even in hard times, and take charge of your destiny with grace. Like Cinderella, you believe in hard work over shortcuts, and you use your practical skills to care for others while building the life you deserve. You're the leader who makes things happen—quietly, but powerfully.",
+      "description": "你是 the ultimate embodiment of Cinderella's resilience and discipline! 你 工作 tirelessly to overcome obstacles, stay true to 你的 values even in hard times, and take charge of 你的 destiny with grace. Like Cinderella, you believe in hard 工作 over shortcuts, and you use 你的 practical skills to care for others while building the life you deserve. 你是 the leader who makes things happen—quietly, but powerfully.",
       "traits": [
         "Disciplined",
         "Reliable",
@@ -2119,7 +2119,7 @@
     {
       "mbtiType": "ESFJ",
       "title": "The Nurturing Heart (Aurora)",
-      "description": "You're the warm, gentle soul of Aurora! Like the Sleeping Beauty, you see the good in everyone, nurture the people you love, and bring peace to every situation. You thrive on connection and harmony, and your greatest strength is your ability to make others feel seen and loved. You may be quiet at times, but your kind heart is the glue that holds your family and friends together—just like Aurora brought joy to her kingdom.",
+      "description": "你是 the warm, gentle soul of Aurora! Like the Sleeping Beauty, you see the good in everyone, nurture the people you love, and bring peace to every situation. 你 thrive on connection and harmony, and 你的 grea测试 strength is 你的 ability to make others feel seen and loved. 你 may be quiet at times, but 你的 kind heart is the glue that holds 你的 family and friends together—just 像 Aurora brought joy to her kingdom.",
       "traits": [
         "Caring",
         "Loyal",
@@ -2131,7 +2131,7 @@
     {
       "mbtiType": "ENTJ",
       "title": "The Visionary Leader (Elsa)",
-      "description": "You're the powerful, visionary leader like Elsa from Frozen! You have big dreams and the determination to make them a reality, even when others doubt you. Like Elsa, you embrace your unique gifts and use them to create something extraordinary. You're not afraid to take charge and lead others toward a better future, and your confidence inspires those around you to be their best selves.",
+      "description": "你是 the powerful, visionary leader 像 Elsa from Frozen! 你 have big dreams and the determination to make them a reality, even when others doubt you. Like Elsa, you embrace 你的 unique gifts and use them to create something extraordinary. 你是 not afraid to take charge and lead others toward a better future, and 你的 confidence inspires those around you to be their best selves.",
       "traits": [
         "Confident",
         "Visionary",
@@ -2143,7 +2143,7 @@
     {
       "mbtiType": "ENFJ",
       "title": "The Inspirational Guide (Moana)",
-      "description": "You're the adventurous, compassionate leader like Moana! You have a deep connection to your roots and a strong sense of purpose, but you're also eager to explore the world and make a difference. Like Moana, you inspire others to step outside their comfort zones and follow their dreams, and you're always willing to lend a helping hand to those in need. Your optimism and determination can move mountains!",
+      "description": "你是 the adventurous, compassionate leader 像 Moana! 你 have a deep connection to 你的 roots and a strong sense of purpose, but you're also eager to explore the world and make a difference. Like Moana, you inspire others to step outside their comfort zones and follow their dreams, and you're always willing to lend a helping hand to those in need. 你r optimism and determination can move mountains!",
       "traits": [
         "Adventurous",
         "Compassionate",
@@ -2155,7 +2155,7 @@
     {
       "mbtiType": "ISTJ",
       "title": "The Dependable Protector (Snow White)",
-      "description": "You're the kind, dependable soul like Snow White! You find joy in the simple things in life, like spending time with loved ones and caring for others. Like Snow White, you're resilient in the face of adversity, and you never lose your gentle spirit. You're the one everyone can count on, and your loyalty and dedication make you a true friend and confidant.",
+      "description": "你是 the kind, dependable soul 像 Snow White! 你 找到 joy in the simple things in life, 像 spending time with loved ones and caring for others. Like Snow White, you're resilient in the face of adversity, and you never lose 你的 gentle spirit. 你是 the one everyone can count on, and 你的 loyalty and dedication make you a true friend and confidant.",
       "traits": [
         "Dependable",
         "Kind",
@@ -2167,7 +2167,7 @@
     {
       "mbtiType": "ISFJ",
       "title": "The Caring Nurturer (Belle)",
-      "description": "You're the intelligent, compassionate soul like Belle! You have a love for learning and a deep appreciation for beauty in all its forms. Like Belle, you see beyond appearances and value kindness and intelligence above all else. You're a devoted friend and family member, and your nurturing nature makes you the heart of any group. You believe in the power of love and understanding to transform lives.",
+      "description": "你是 the intelligent, compassionate soul 像 Belle! 你 have a love for learning and a deep appreciation for beauty in all its forms. Like Belle, you see beyond appearances and value kindness and intelligence above all else. 你是 a devoted friend and family member, and 你的 nurturing nature makes you the heart of any group. 你 believe in the power of love and understanding to transform lives.",
       "traits": [
         "Intelligent",
         "Compassionate",
@@ -2179,7 +2179,7 @@
     {
       "mbtiType": "INTJ",
       "title": "The Strategic Thinker (Merida)",
-      "description": "You're the independent, strategic thinker like Merida from Brave! You have a strong sense of self and a determination to chart your own course in life. Like Merida, you're not afraid to challenge tradition and stand up for what you believe in. You approach problems with creativity and logic, and your independence and courage inspire others to embrace their own uniqueness.",
+      "description": "你是 the independent, strategic thinker 像 Merida from Brave! 你 have a strong sense of self and a determination to chart 你的 own course in life. Like Merida, you're not afraid to challenge tradition and stand up for what you believe in. 你 approach problems with creativity and logic, and 你的 independence and courage inspire others to embrace their own uniqueness.",
       "traits": [
         "Independent",
         "Strategic",
@@ -2191,7 +2191,7 @@
     {
       "mbtiType": "INFJ",
       "title": "The Insightful Dreamer (Rapunzel)",
-      "description": "You're the creative, insightful dreamer like Rapunzel! You have a vivid imagination and a deep desire to explore the world and discover your purpose. Like Rapunzel, you see the beauty in everything and everyone, and your optimism can light up even the darkest places. You're intuitive and empathetic, and you have a unique ability to understand and connect with others on a deep level.",
+      "description": "你是 the creative, insightful dreamer 像 Rapunzel! 你 have a vivid imagination and a deep desire to explore the world and discover 你的 purpose. Like Rapunzel, you see the beauty in everything and everyone, and 你的 optimism can light up even the darkest places. 你是 intuitive and empathetic, and you have a unique ability to understand and connect with others on a deep level.",
       "traits": [
         "Creative",
         "Insightful",
@@ -2203,7 +2203,7 @@
     {
       "mbtiType": "ESTP",
       "title": "The Energetic Adventurer (Jasmine)",
-      "description": "You're the bold, energetic adventurer like Jasmine! You have a thirst for excitement and a desire to experience all life has to offer. Like Jasmine, you're not afraid to break free from expectations and follow your heart. You're charismatic and confident, and your energy and enthusiasm are contagious. You thrive in the moment and know how to make every experience unforgettable.",
+      "description": "你是 the bold, energetic adventurer 像 Jasmine! 你 have a thirst for excitement and a desire to experience all life has to offer. Like Jasmine, you're not afraid to break free from expectations and follow 你的 heart. 你是 charismatic and confident, and 你的 energy and enthusiasm are contagious. 你 thrive in the moment and know how to make every experience unforgettable.",
       "traits": [
         "Energetic",
         "Adventurous",
@@ -2215,7 +2215,7 @@
     {
       "mbtiType": "ESFP",
       "title": "The Joyful Performer (Ariel)",
-      "description": "You're the joyful, expressive performer like Ariel! You have a zest for life and a desire to explore new worlds and experiences. Like Ariel, you wear your heart on your sleeve and aren't afraid to show your emotions. You're creative and playful, and your enthusiasm and charm make you the life of the party. You believe in following your dreams, no matter how impossible they may seem.",
+      "description": "你是 the joyful, expressive performer 像 Ariel! 你 have a zest for life and a desire to explore new worlds and experiences. Like Ariel, you wear 你的 heart on 你的 sleeve and aren't afraid to show 你的 emotions. 你是 creative and playful, and 你的 enthusiasm and charm make you the life of the party. 你 believe in following 你的 dreams, no matter how impossible they may seem.",
       "traits": [
         "Joyful",
         "Expressive",
@@ -2227,7 +2227,7 @@
     {
       "mbtiType": "ENTP",
       "title": "The Witty Innovator (Tiana)",
-      "description": "You're the clever, innovative thinker like Tiana! You have big dreams and the determination to turn them into reality through hard work and creativity. Like Tiana, you're resourceful and quick-witted, and you never let obstacles stand in your way. You're always looking for new ways to solve problems and improve your situation, and your optimism and resilience are inspiring to those around you.",
+      "description": "你是 the clever, innovative thinker 像 Tiana! 你 have big dreams and the determination to turn them into reality through hard 工作 and creativity. Like Tiana, you're resourceful and quick-witted, and you never let obstacles stand in 你的 way. 你是 always looking for new ways to solve problems and improve 你的 situation, and 你的 optimism and resilience are inspiring to those around you.",
       "traits": [
         "Witty",
         "Innovative",
@@ -2239,7 +2239,7 @@
     {
       "mbtiType": "ENFP",
       "title": "The Enthusiastic Idealist (Pocahontas)",
-      "description": "You're the passionate, idealistic adventurer like Pocahontas! You have a deep connection to nature and a strong sense of justice. Like Pocahontas, you're open-minded and eager to learn from different perspectives. You're a natural leader who inspires others with your optimism and vision for a better world. Your creativity and passion make you a force for positive change wherever you go.",
+      "description": "你是 the passionate, idealistic adventurer 像 Pocahontas! 你 have a deep connection to nature and a strong sense of justice. Like Pocahontas, you're open-minded and eager to learn from different perspectives. 你是 a natural leader who inspires others with 你的 optimism and vision for a better world. 你r creativity and passion make you a force for positive change wherever you go.",
       "traits": [
         "Enthusiastic",
         "Idealistic",
@@ -2251,7 +2251,7 @@
     {
       "mbtiType": "ISTP",
       "title": "The Resourceful Problem-Solver (Mulan)",
-      "description": "You're the brave, resourceful problem-solver like Mulan! You're practical and hands-on, and you excel at thinking on your feet. Like Mulan, you're not afraid to step outside your comfort zone and take risks to protect those you love. You're calm under pressure and can find creative solutions to even the most challenging problems. Your courage and ingenuity make you a true hero.",
+      "description": "你是 the brave, resourceful problem-solver 像 Mulan! 你是 practical and hands-on, and you excel at thinking on 你的 feet. Like Mulan, you're not afraid to step outside 你的 comfort zone and take risks to protect those you love. 你是 calm under pressure and can 找到 creative solutions to even the most challenging problems. 你r courage and ingenuity make you a true hero.",
       "traits": [
         "Resourceful",
         "Brave",
@@ -2263,7 +2263,7 @@
     {
       "mbtiType": "ISFP",
       "title": "The Artistic Individualist (Raya)",
-      "description": "You're the artistic, individualistic adventurer like Raya! You have a strong sense of personal integrity and a deep desire to protect what's important to you. Like Raya, you're adaptable and resourceful, and you're always willing to learn from your mistakes. You see the beauty in diversity and believe in the power of connection to heal divides. Your quiet strength and creativity make you a force to be reckoned with.",
+      "description": "你是 the artistic, individualistic adventurer 像 Raya! 你 have a strong sense of personal integrity and a deep desire to protect what's important to you. Like Raya, you're adaptable and resourceful, and you're always willing to learn from 你的 mistakes. 你 see the beauty in diversity and believe in the power of connection to heal divides. 你r quiet strength and creativity make you a force to be reckoned with.",
       "traits": [
         "Artistic",
         "Individualistic",
@@ -2275,7 +2275,7 @@
     {
       "mbtiType": "INTP",
       "title": "The Curious Analyst (Alice)",
-      "description": "You're the curious, analytical thinker like Alice from Alice in Wonderland! You have a vivid imagination and a thirst for knowledge. Like Alice, you're not afraid to question the status quo and explore the unknown. You approach the world with a sense of wonder and curiosity, and your analytical mind helps you make sense of even the most confusing situations. Your unique perspective and love of learning make you a fascinating companion.",
+      "description": "你是 the curious, analytical thinker 像 Alice from Alice in Wonderland! 你 have a vivid imagination and a thirst for knowledge. Like Alice, you're not afraid to 问题 the status quo and explore the unknown. 你 approach the world with a sense of wonder and curiosity, and 你的 analytical mind helps you make sense of even the most confusing situations. 你r unique perspective and love of learning make you a fascinating companion.",
       "traits": [
         "Curious",
         "Analytical",
@@ -2287,7 +2287,7 @@
     {
       "mbtiType": "INFP",
       "title": "The Dreamy Idealist (Tinker Bell)",
-      "description": "You're the creative, idealistic dreamer like Tinker Bell! You have a vivid imagination and a deep desire to make the world a more magical place. Like Tinker Bell, you're passionate about your interests and fiercely loyal to your friends. You see the beauty in the small things in life, and your creativity and optimism can turn ordinary moments into something extraordinary. Your kind heart and playful spirit make you a beloved friend to all who know you.",
+      "description": "你是 the creative, idealistic dreamer 像 Tinker Bell! 你 have a vivid imagination and a deep desire to make the world a more magical place. Like Tinker Bell, you're passionate about 你的 interests and fiercely loyal to 你的 friends. 你 see the beauty in the small things in life, and 你的 creativity and optimism can turn ordinary moments into something extraordinary. 你r kind heart and playful spirit make you a beloved friend to all who know you.",
       "traits": [
         "Dreamy",
         "Idealistic",

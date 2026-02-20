@@ -99,7 +99,7 @@
       "text": "Your mythical power is...",
       "options": [
         {
-          "text": "Strength",
+          "text": "力量",
           "score": "E"
         },
         {
@@ -330,7 +330,7 @@
       "text": "You handle betrayal by...",
       "options": [
         {
-          "text": "Seek revenge",
+          "text": "寻求复仇",
           "score": "F"
         },
         {
@@ -435,11 +435,11 @@
       "text": "You value in life...",
       "options": [
         {
-          "text": "Recognition",
+          "text": "认可",
           "score": "E"
         },
         {
-          "text": "Peace",
+          "text": "和平",
           "score": "I"
         },
         {
@@ -771,82 +771,82 @@
   "results": [
     {
       "title": "Dragon",
-      "description": "You're the powerful, majestic dragon of mythology! Like a dragon, you're private, powerful, and guard your treasures and territory fiercely. You're an INTJ—visionary, logical, and a wise creature with ancient knowledge and incredible power who values wisdom and strength above all else.",
+      "description": "你是 the powerful, majestic dragon of mythology! Like a dragon, you're private, powerful, and guard 你的 treasures and territory fiercely. 你是 an INTJ—visionary, logical, and a wise creature with ancient knowledge and incredible power who values wisdom and strength above all else.",
       "mbti": "INTJ"
     },
     {
       "title": "Unicorn",
-      "description": "You're the gentle, magical unicorn of mythology! Like a unicorn, you're private, compassionate, and possess pure magic that heals and protects. You're an INFJ—compassionate, visionary, and a rare and beautiful creature who brings light and healing to the world and only reveals yourself to the pure of heart.",
+      "description": "你是 the gentle, magical unicorn of mythology! Like a unicorn, you're private, compassionate, and possess pure magic that heals and protects. 你是 an INFJ—compassionate, visionary, and a rare and beautiful creature who brings light and healing to the world and only reveals 你的self to the pure of heart.",
       "mbti": "INFJ"
     },
     {
       "title": "Phoenix",
-      "description": "You're the fiery, resilient phoenix of mythology! Like a phoenix, you're outgoing, powerful, and rise from the ashes stronger than before. You're an ENFP—optimistic, creative, and a symbol of rebirth and renewal who faces destruction with courage and emerges victorious every time.",
+      "description": "你是 the fiery, resilient phoenix of mythology! Like a phoenix, you're outgoing, powerful, and rise from the ashes stronger than before. 你是 an ENFP—optimistic, creative, and a symbol of rebirth and renewal who faces destruction with courage and emerges victorious every time.",
       "mbti": "ENFP"
     },
     {
       "title": "Griffin",
-      "description": "You're the noble, protective griffin of mythology! Like a griffin, you're outgoing, loyal, and a fierce protector of treasure and the innocent. You're an ESTJ—practical, responsible, and a noble creature with the body of a lion and the head of an eagle who values honor and duty above all else.",
+      "description": "你是 the noble, protective griffin of mythology! Like a griffin, you're outgoing, loyal, and a fierce protector of treasure and the innocent. 你是 an ESTJ—practical, responsible, and a noble creature with the body of a lion and the head of an eagle who values honor and duty above all else.",
       "mbti": "ESTJ"
     },
     {
       "title": "Mermaid/Merman",
-      "description": "You're the mystical, emotional mermaid/merman of mythology! Like a mermaid, you're private, emotional, and possess a deep connection to the ocean and its mysteries. You're an INFP—idealistic, introspective, and a beautiful creature with a song that can enchant humans and control the tides of emotion.",
+      "description": "你是 the mystical, emotional mermaid/merman of mythology! Like a mermaid, you're private, emotional, and possess a deep connection to the ocean and its mysteries. 你是 an INFP—idealistic, introspective, and a beautiful creature with a song that can enchant humans and control the tides of emotion.",
       "mbti": "INFP"
     },
     {
       "title": "Centaur",
-      "description": "You're the wise, practical centaur of mythology! Like a centaur, you're outgoing, practical, and possess both human wisdom and animal strength. You're an ESFJ—compassionate, generous, and a wise teacher and fierce warrior who values knowledge and honor in equal measure.",
+      "description": "你是 the wise, practical centaur of mythology! Like a centaur, you're outgoing, practical, and possess both human wisdom and animal strength. 你是 an ESFJ—compassionate, generous, and a wise teacher and fierce warrior who values knowledge and honor in equal measure.",
       "mbti": "ESFJ"
     },
     {
       "title": "Minotaur",
-      "description": "You're the powerful, complex minotaur of mythology! Like a minotaur, you're private, strong, and trapped between human intellect and animal instinct. You're an ISTJ—practical, responsible, and a misunderstood creature who guards the labyrinth with unwavering duty despite your inner turmoil.",
+      "description": "你是 the powerful, complex minotaur of mythology! Like a minotaur, you're private, strong, and trapped between human intellect and animal instinct. 你是 an ISTJ—practical, responsible, and a misunderstood creature who guards the labyrinth with unwavering duty despite 你的 inner turmoil.",
       "mbti": "ISTJ"
     },
     {
       "title": "Satyr/faun",
-      "description": "You're the playful, outgoing satyr/faun of mythology! Like a satyr, you're outgoing, spontaneous, and love music, dance, and celebration. You're an ESFP—energetic, spontaneous, and a fun-loving creature of the forest who brings joy and laughter to all who encounter you.",
+      "description": "你是 the playful, outgoing satyr/faun of mythology! Like a satyr, you're outgoing, spontaneous, and love music, dance, and celebration. 你是 an ESFP—energetic, spontaneous, and a fun-loving creature of the forest who brings joy and laughter to all who encounter you.",
       "mbti": "ESFP"
     },
     {
       "title": "Hydra",
-      "description": "You're the resilient, strategic hydra of mythology! Like a hydra, you're private, powerful, and grow stronger when faced with adversity. You're an ENTJ—strategic, charismatic, and a fearsome creature with multiple heads that regenerate when cut off, making you nearly unbeatable in battle.",
+      "description": "你是 the resilient, strategic hydra of mythology! Like a hydra, you're private, powerful, and grow stronger when faced with adversity. 你是 an ENTJ—strategic, charismatic, and a fearsome creature with multiple heads that regenerate when cut off, making you nearly unbeatable in battle.",
       "mbti": "ENTJ"
     },
     {
       "title": "Cerberus",
-      "description": "You're the loyal, protective Cerberus of mythology! Like Cerberus, you're private, loyal, and the fearsome guardian of the underworld. You're an ISFJ—kind, loyal, and a devoted protector who takes your duty seriously and never lets anyone pass who doesn't belong in the realm of Hades.",
+      "description": "你是 the loyal, protective Cerberus of mythology! Like Cerberus, you're private, loyal, and the fearsome guardian of the underworld. 你是 an ISFJ—kind, loyal, and a devoted protector who takes 你的 duty seriously and never lets anyone pass who doesn't belong in the realm of Hades.",
       "mbti": "ISFJ"
     },
     {
       "title": "Pegasus",
-      "description": "You're the free-spirited, majestic Pegasus of mythology! Like Pegasus, you're outgoing, free-spirited, and possess the power of flight and untamed freedom. You're an ENTP—creative, strategic, and a beautiful winged horse who represents freedom and inspiration to all who see you.",
+      "description": "你是 the free-spirited, majestic Pegasus of mythology! Like Pegasus, you're outgoing, free-spirited, and possess the power of flight and untamed freedom. 你是 an ENTP—creative, strategic, and a beautiful winged horse who represents freedom and inspiration to all who see you.",
       "mbti": "ENTP"
     },
     {
       "title": "Cyclops",
-      "description": "You're the strong, straightforward cyclops of mythology! Like a cyclops, you're outgoing, practical, and possess incredible strength and a single-minded focus. You're an ESTP—bold, spontaneous, and a powerful creature of the forge who values action over words and strength over cunning.",
+      "description": "你是 the strong, straightforward cyclops of mythology! Like a cyclops, you're outgoing, practical, and possess incredible strength and a single-minded focus. 你是 an ESTP—bold, spontaneous, and a powerful creature of the forge who values action over words and strength over cunning.",
       "mbti": "ESTP"
     },
     {
       "title": "Sphinx",
-      "description": "You're the wise, mysterious sphinx of mythology! Like a sphinx, you're private, intelligent, and guard knowledge with clever riddles and puzzles. You're an INTP—analytical, creative, and a mysterious creature with the body of a lion and the head of a human who tests the wisdom of all who seek to pass.",
+      "description": "你是 the wise, mysterious sphinx of mythology! Like a sphinx, you're private, intelligent, and guard knowledge with clever riddles and puzzles. 你是 an INTP—analytical, creative, and a mysterious creature with the body of a lion and the head of a human who 测试s the wisdom of all who seek to pass.",
       "mbti": "INTP"
     },
     {
       "title": "Werewolf",
-      "description": "You're the complex, primal werewolf of mythology! Like a werewolf, you're outgoing, emotional, and struggle between human civility and animal instinct. You're an ESFP—energetic, spontaneous, and a creature of the moon who embraces both your human and wolf sides with passion and intensity.",
+      "description": "你是 the complex, primal werewolf of mythology! Like a werewolf, you're outgoing, emotional, and struggle between human civility and animal instinct. 你是 an ESFP—energetic, spontaneous, and a creature of the moon who embraces both 你的 human and wolf sides with passion and intensity.",
       "mbti": "ESFP"
     },
     {
       "title": "Vampire",
-      "description": "You're the elegant, mysterious vampire of mythology! Like a vampire, you're private, sophisticated, and possess eternal life and a thirst for blood. You're an INFJ—compassionate, visionary, and a misunderstood creature who walks the night and struggles with your immortal nature and desire for connection.",
+      "description": "你是 the elegant, mysterious vampire of mythology! Like a vampire, you're private, sophisticated, and possess eternal life and a thirst for blood. 你是 an INFJ—compassionate, visionary, and a misunderstood creature who walks the night and struggles with 你的 immortal nature and desire for connection.",
       "mbti": "INFJ"
     },
     {
       "title": "Giant",
-      "description": "You're the strong, simple giant of mythology! Like a giant, you're outgoing, practical, and possess incredible size and strength with a simple outlook on life. You're an ISFP—gentle, creative, and a peaceful creature of the mountains who values nature and simplicity above the complexities of human civilization.",
+      "description": "你是 the strong, simple giant of mythology! Like a giant, you're outgoing, practical, and possess incredible size and strength with a simple outlook on life. 你是 an ISFP—gentle, creative, and a peaceful creature of the mountains who values nature and simplicity above the complexities of human civilization.",
       "mbti": "ISFP"
     }
   ]
