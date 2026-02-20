@@ -221,18 +221,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     }
 }
 
-/* Ad container */
-.ad-container {
-    margin: 30px auto;
-    max-width: 600px;
-    display: flex;
-    justify-content: center;
-}
-
-.ad-container ins {
-    max-width: 100%;
-}
-
 /* Footer */
 .footer {
     background: #0f0f0f;
@@ -429,21 +417,7 @@ const p=((currentQ+1)/questions.length)*100;
 const ca=answers[q.id]||'';
 document.getElementById('app').innerHTML=`
 <div class="progress-wrap"><div class="progress-bar"><div class="progress-fill" style="width:${p}%"></div></div><div class="progress-text">${currentQ+1}/${questions.length}</div></div>
-<div class="question-card"><div class="question-number">Question ${currentQ+1}</div><div class="question-text">${q.t}</div><div class="option-list">${q.o.map(o=>`<div class="option ${ca===o.score?'selected':''}" onclick="sel('${o.score}')">${o.text}</div>`).join('')}</div>${currentQ>0?`<div class="back-question" onclick="prev()">← Previous</div>`:''}</div>
-<!-- AdSense Ad -->
-<div class="ad-container">
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-9900304220798571"
-         data-ad-slot="1357924680"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-</div>`;
-
-// Initialize ads after rendering
-if (window.adsbygoogle) {
-    (adsbygoogle = window.adsbygoogle || []).push({});
-}
+<div class="question-card"><div class="question-number">Question ${currentQ+1}</div><div class="question-text">${q.t}</div><div class="option-list">${q.o.map(o=>`<div class="option ${ca===o.score?'selected':''}" onclick="sel('${o.score}')">${o.text}</div>`).join('')}</div>${currentQ>0?`<div class="back-question" onclick="prev()">← Previous</div>`:''}</div>`;
 }
 
 function sel(s){
