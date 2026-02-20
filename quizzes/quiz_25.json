@@ -4,146 +4,146 @@
   "category": "which_x",
   "category_name": "Which X Are You?",
   "language": "English",
-  "description": "Discover which Taylor Swift era matches your personality based on MBTI traits!",
-  "tags": ["Taylor Swift", "Music", "Personality", "MBTI", "Eras"],
+  "description": "Discover which Taylor Swift era matches your personality!",
+  "tags": ["Taylor Swift", "Music", "Personality", "MBTI", "Eras Tour"],
   "questions": [
     {
       "qId": 1,
-      "text": "At a party, you prefer to...",
+      "text": "Your ideal concert experience is...",
       "options": [
-        {"text": "Meet new people and be the center of attention", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Stick with close friends and have deep talks", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Help the host and make sure everyone is okay", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "Observe quietly and analyze the room", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
+        {"text": "Dancing to 1989 with glitter and neon lights", "score": "E"},
+        {"text": "Singing acoustic songs in an intimate venue", "score": "I"},
+        {"text": "Joining a massive crowd at the Eras Tour", "score": "E"},
+        {"text": "Watching from a VIP box with perfect view", "score": "I"}
       ]
     },
     {
       "qId": 2,
-      "text": "When making decisions, you rely on...",
+      "text": "When someone wrongs you, you usually...",
       "options": [
-        {"text": "Logic and analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-        {"text": "Emotions and values", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "Past experiences", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Future possibilities", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Write a scathing breakup song about them", "score": "E"},
+        {"text": "Write a subtle revenge song (like All Too Well)", "score": "I"},
+        {"text": "Forgive and move on like 'Clean'", "score": "F"},
+        {"text": "Plot your revenge like 'Look What You Made Me Do'", "score": "T"}
       ]
     },
     {
       "qId": 3,
-      "text": "Your ideal weekend is...",
+      "text": "Your love language in relationships is...",
       "options": [
-        {"text": "Planning every detail and sticking to the schedule", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
-        {"text": "Going with the flow and spontaneous adventures", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
-        {"text": "Spending quiet time alone recharging", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Socializing with a big group of friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Grand romantic gestures (like in Love Story)", "score": "E"},
+        {"text": "Quiet, deep connection (like in Cornelia Street)", "score": "I"},
+        {"text": "Surprise them with gifts (like in Bejeweled)", "score": "S"},
+        {"text": "Writing them poems and songs", "score": "N"}
       ]
     },
     {
       "qId": 4,
-      "text": "When learning something new, you...",
+      "text": "Your aesthetic is most like...",
       "options": [
-        {"text": "Hands-on practice", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Reading and理论研究", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Figure it out as you go", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
-        {"text": "Follow instructions carefully", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}}
+        {"text": "Red - bold, dramatic, classic", "score": "E"},
+        {"text": "Folklore/ Evermore - cozy, vintage, ethereal", "score": "I"},
+        {"text": "1989 - neon, synth-pop, party", "score": "N"},
+        {"text": "Midnights - dark, moody, sparkle", "score": "N"}
       ]
     },
     {
       "qId": 5,
-      "text": "In a conflict, you usually...",
+      "text": "When you're heartbroken, you...",
       "options": [
-        {"text": "Express your feelings openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "Stay calm and logical", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-        {"text": "Avoid it altogether", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Confront directly to resolve", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Blast All Too Well (10 minute version)", "score": "F"},
+        {"text": "Write your own breakup song", "score": "N"},
+        {"text": "Delete all photos and move on (like Clean)", "score": "T"},
+        {"text": "Listen to sad songs on repeat for days", "score": "F"}
       ]
     },
     {
       "qId": 6,
-      "text": "When working on a project, you...",
+      "text": "Your friends would describe you as...",
       "options": [
-        {"text": "Work alone until it's done", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Collaborate and bounce ideas off others", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Create a detailed plan first", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
-        {"text": "Start immediately and figure out details later", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}}
+        {"text": "The life of the party - always dramatic and fun", "score": "E"},
+        {"text": "The wise one - always giving advice", "score": "N"},
+        {"text": "The loyal one - always there when needed", "score": "S"},
+        {"text": "The mysterious one - hard to read", "score": "I"}
       ]
     },
     {
       "qId": 7,
-      "text": "People would describe you as...",
+      "text": "You prefer songs that are...",
       "options": [
-        {"text": "Outgoing and energetic", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Reserved and thoughtful", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Practical and reliable", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Creative and imaginative", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Upbeat and make you want to dance", "score": "E"},
+        {"text": "Deep and meaningful with storytelling", "score": "N"},
+        {"text": "Catchy with a good beat", "score": "S"},
+        {"text": "Emotional and relatable", "score": "F"}
       ]
     },
     {
       "qId": 8,
-      "text": "When giving advice, you focus on...",
+      "text": "When making important life decisions, you...",
       "options": [
-        {"text": "Facts and practical solutions", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-        {"text": "Empathy and understanding", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "What's worked before", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "New and innovative approaches", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Go with your heart (like 'Enchanted')", "score": "F"},
+        {"text": "Analyze all options carefully", "score": "T"},
+        {"text": "Trust your gut instinct", "score": "N"},
+        {"text": "Ask close friends for advice", "score": "E"}
       ]
     },
     {
       "qId": 9,
-      "text": "You prefer work that...",
+      "text": "Your perfect Friday night is...",
       "options": [
-        {"text": "Has clear structure and deadlines", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
-        {"text": "Allows flexibility and creativity", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
-        {"text": "Involves helping others", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "Requires deep analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
+        {"text": "Going to a party or club", "score": "E"},
+        {"text": "Staying home with a movie", "score": "I"},
+        {"text": "Karaoke with close friends", "score": "E"},
+        {"text": "Writing or creating something", "score": "N"}
       ]
     },
     {
       "qId": 10,
-      "text": "When meeting new people, you...",
+      "text": "You react to drama by...",
       "options": [
-        {"text": "Take the lead and introduce yourself", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Wait for them to approach you", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Observe first, then engage", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Make quick small talk", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Writing about it in a journal", "score": "I"},
+        {"text": "Talking it out with friends", "score": "E"},
+        {"text": "Ignoring it until it passes", "score": "P"},
+        {"text": "Addressing it head-on", "score": "J"}
       ]
     },
     {
       "qId": 11,
-      "text": "Your communication style is...",
+      "text": "Your career goal is...",
       "options": [
-        {"text": "Direct and to the point", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-        {"text": "Warm and personal", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "Detailed and thorough", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Big picture and conceptual", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "To be famous and celebrated", "score": "E"},
+        {"text": "To be respected as an expert", "score": "T"},
+        {"text": "To make a positive impact", "score": "F"},
+        {"text": "To create something meaningful", "score": "N"}
       ]
     },
     {
       "qId": 12,
-      "text": "Under stress, you tend to...",
+      "text": "When someone asks about your ex, you...",
       "options": [
-        {"text": "Stay calm and problem-solve", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-        {"text": "Express emotions openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-        {"text": "Withdraw and recharge alone", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-        {"text": "Seek support from friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+        {"text": "Have a whole playlist about them", "score": "F"},
+        {"text": "Change the subject immediately", "score": "I"},
+        {"text": "Give a vague answer and move on", "score": "T"},
+        {"text": "Laugh and share funny stories", "score": "E"}
       ]
     }
   ],
   "results": [
-    {"mbtiType": "INFJ", "title": "Lover", "description": "You're like Taylor's most romantic ballads - deep, thoughtful, and incredibly passionate. You value meaningful connections and often put others' needs before your own."},
-    {"mbtiType": "INTJ", "title": "The Archer", "description": "You're strategic and independent like 'The Archer'. You know what you want and aren't afraid to go after it."},
-    {"mbtiType": "INFP", "title": "All Too Well", "description": "You're deeply emotional and romantic, like the epic 'All Too Well'. You feel things deeply and value authenticity."},
-    {"mbtiType": "INTP", "title": "Anti-Hero", "description": "You're the introspective 'Anti-Hero' - analytical, thoughtful, and sometimes feel like an outsider looking in."},
-    {"mbtiType": "ENFJ", "title": "Bejeweled", "description": "You're the life of the party 'Bejeweled' - charismatic, supportive, and love making everyone feel included."},
-    {"mbtiType": "ENTJ", "title": "Look What You Made Me Do", "description": "You're powerful and determined like 'Look What You Made Me Do'. You know your worth and aren't afraid to stand up for yourself."},
-    {"mbtiType": "ENFP", "title": "Shake It Off", "description": "You're energetic and optimistic like 'Shake It Off' - you don't let anything bring you down and inspire others with your energy."},
-    {"mbtiType": "ENTP", "title": "Question...?", "description": "You're curious and unpredictable like 'Question...' - always questioning, debating, and loving intellectual banter."},
-    {"mbtiType": "ISFJ", "title": "Enchanted", "description": "You're warm and devoted like 'Enchanted' - you value loyalty and create magical moments for those you love."},
-    {"mbtiType": "ISTJ", "title": "Tim McGraw", "description": "You're traditional and loyal like Taylor's country roots. You value reliability and remember the important details."},
-    {"mbtiType": "ESFJ", "title": "You Need To Calm Down", "description": "You're the supportive friend who wants everyone to get along, like 'You Need To Calm Down'. You thrive on harmony."},
-    {"mbtiType": "ESTJ", "title": "Ready For It?", "description": "You're confident and commanding like 'Ready For It?' - you take charge and get things done efficiently."},
-    {"mbtiType": "ISFP", "title": "Cornelia Street", "description": "You're artistic and sensitive like 'Cornelia Street' - you experience life deeply and value your personal space."},
-    {"mbtiType": "ISTP", "title": "Blank Space", "description": "You're the mysterious 'Blank Space' - cool on the surface but with a wild side only close friends see."},
-    {"mbtiType": "ESFP", "title": "22", "description": "You're fun-loving and spontaneous like '22' - you live in the moment and bring energy everywhere you go."},
-    {"mbtiType": "ESTP", "title": "I Knew You Were Trouble", "description": "You're bold and daring like 'I Knew You Were Trouble' - you love excitement and aren't afraid to take risks."}
+    {"mbtiType": "ENFP", "title": "1989 Era", "description": "You're the 1989 era - fun, outgoing, and always the life of the party! You love big gestures and aren't afraid to be the center of attention."},
+    {"mbtiType": "INFP", "title": "Folklore/Evermore Era", "description": "You're the Folklore/Evermore era - deep, introspective, and beautifully complex. You find magic in the quiet moments."},
+    {"mbtiType": "ENFJ", "title": "Fearless Era", "description": "You're the Fearless era - brave, optimistic, and inspires everyone around you. You go after what you want without hesitation."},
+    {"mbtiType": "INFJ", "title": "Evermore Era", "description": "You're the Evermore era - wise, mysterious, and deeply intuitive. You see things others miss."},
+    {"mbtiType": "ENTP", "title": "Midnights Era", "description": "You're the Midnights era - complex, sometimes contradictory, but always fascinating. You embrace all sides of yourself."},
+    {"mbtiType": "INTP", "title": "Red (Taylor's Version)", "description": "You're the Red era - emotionally rich, deeply felt, and brilliantly chaotic. You feel everything intensely."},
+    {"mbtiType": "ESFP", "title": "Reputation Era", "description": "You're the Reputation era - bold, unapologetic, and fierce. You don't care what others think."},
+    {"mbtiType": "ISFP", "title": "Speak Now Era", "description": "You're the Speak Now era - creative, passionate, and speak your truth. You write your own story."},
+    {"mbtiType": "ESTJ", "title": "The Tortured Poets Department", "description": "You're the TTPD era - intellectual, complex, and deeply analytical. You overthink everything but that's your superpower."},
+    {"mbtiType": "ISTJ", "title": "Debut Era", "description": "You're the Debut era - authentic, country roots, and true to yourself. You started from humble beginnings and stayed genuine."},
+    {"mbtiType": "ESFJ", "title": "Lover Era", "description": "You're the Lover era - romantic, colorful, and all about love in all forms. You wear your heart on your sleeve."},
+    {"mbtiType": "ISFJ", "title": "Red (Acoustic)", "description": "You're the acoustic side of Red - quietly powerful, deeply emotional, and always there for your people."},
+    {"mbtiType": "ESTP", "title": "Miss Eras Era", "description": "You're the Miss Eras era - determined, competitive, and always working toward your next goal. You never stop."},
+    {"mbtiType": "ISTP", "title": "Midnights (3am Edition)", "description": "You're the 3am edition of Midnights - private, mysterious, but surprisingly deep when someone gets to know you."},
+    {"mbtiType": "ENTJ", "title": "Eras Tour Energy", "description": "You're the Eras Tour - a master of reinvention, ambitious, and always evolving. You've got a plan for everything."},
+    {"mbtiType": "INTJ", "title": "Vault Tracks", "description": "You're the Vault tracks - the hidden gems that not everyone finds, but those who do are rewarded with brilliance."}
   ]
 }

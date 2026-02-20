@@ -4,98 +4,146 @@
   "category": "which_x",
   "category_name": "Which X Are You?",
   "language": "English",
-  "description": "Discover your ChatGPT personality type based on how you interact with AI and your natural thinking patterns!",
+  "description": "Discover your ChatGPT personality type!",
   "tags": ["ChatGPT", "AI", "Personality", "MBTI", "Tech"],
   "questions": [
-    {"qId": 1, "text": "At a party, you prefer to...", "options": [
-      {"text": "Meet new people and be the center of attention", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Stick with close friends and have deep talks", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Help the host and make sure everyone is okay", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "Observe quietly and analyze the room", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 2, "text": "When making decisions, you rely on...", "options": [
-      {"text": "Logic and analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-      {"text": "Emotions and values", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "Past experiences", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Future possibilities", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 3, "text": "Your ideal weekend is...", "options": [
-      {"text": "Planning every detail and sticking to the schedule", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
-      {"text": "Going with the flow and spontaneous adventures", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
-      {"text": "Spending quiet time alone recharging", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Socializing with a big group of friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 4, "text": "When learning something new, you...", "options": [
-      {"text": "Hands-on practice", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Reading and理论研究", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Figure it out as you go", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
-      {"text": "Follow instructions carefully", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}}
-    ]},
-    {"qId": 5, "text": "In a conflict, you usually...", "options": [
-      {"text": "Express your feelings openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "Stay calm and logical", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-      {"text": "Avoid it altogether", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Confront directly to resolve", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 6, "text": "When working on a project, you...", "options": [
-      {"text": "Work alone until it's done", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Collaborate and bounce ideas off others", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Create a detailed plan first", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
-      {"text": "Start immediately and figure out details later", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}}
-    ]},
-    {"qId": 7, "text": "People would describe you as...", "options": [
-      {"text": "Outgoing and energetic", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Reserved and thoughtful", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Practical and reliable", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Creative and imaginative", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 8, "text": "When giving advice, you focus on...", "options": [
-      {"text": "Facts and practical solutions", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-      {"text": "Empathy and understanding", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "What's worked before", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "New and innovative approaches", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 9, "text": "You prefer work that...", "options": [
-      {"text": "Has clear structure and deadlines", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
-      {"text": "Allows flexibility and creativity", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
-      {"text": "Involves helping others", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "Requires deep analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 10, "text": "When meeting new people, you...", "options": [
-      {"text": "Take the lead and introduce yourself", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Wait for them to approach you", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Observe first, then engage", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Make quick small talk", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 11, "text": "Your communication style is...", "options": [
-      {"text": "Direct and to the point", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-      {"text": "Warm and personal", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "Detailed and thorough", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Big picture and conceptual", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]},
-    {"qId": 12, "text": "Under stress, you tend to...", "options": [
-      {"text": "Stay calm and problem-solve", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
-      {"text": "Express emotions openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
-      {"text": "Withdraw and recharge alone", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
-      {"text": "Seek support from friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
-    ]}
+    {
+      "qId": 1,
+      "text": "When you use AI, you usually ask it to...",
+      "options": [
+        {"text": "Help me write code for my project", "score": "T"},
+        {"text": "Help me brainstorm creative ideas", "score": "N"},
+        {"text": "Explain something complicated simply", "score": "I"},
+        {"text": "Help me write a heartfelt message", "score": "F"}
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Your tech setup is...",
+      "options": [
+        {"text": "Multiple monitors, mechanical keyboard, organized desk", "score": "J"},
+        {"text": "Laptop anywhere, messy cables, it works", "score": "P"},
+        {"text": "Minimalist - just what you need", "score": "I"},
+        {"text": "Latest gadgets, always upgrading", "score": "E"}
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "When something breaks, you...",
+      "options": [
+        {"text": "Google the error and fix it yourself", "score": "T"},
+        {"text": "Ask a friend for help", "score": "E"},
+        {"text": "Try random solutions until it works", "score": "P"},
+        {"text": "Read the manual carefully", "score": "S"}
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your coding style is...",
+      "options": [
+        {"text": "Clean, documented, follows best practices", "score": "J"},
+        {"text": "Fast and functional - it works!", "score": "P"},
+        {"text": "Creative solutions to unique problems", "score": "N"},
+        {"text": "Thorough and well-tested", "score": "S"}
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When learning new tech, you prefer...",
+      "options": [
+        {"text": "Reading documentation and tutorials", "score": "I"},
+        {"text": "YouTube videos and hands-on practice", "score": "S"},
+        {"text": "Asking AI or experts questions", "score": "E"},
+        {"text": "Figure it out as you go", "score": "N"}
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Your dream tech job is...",
+      "options": [
+        {"text": "Building innovative products at a startup", "score": "E"},
+        {"text": "Deep research and solving hard problems", "score": "I"},
+        {"text": "Creating beautiful user experiences", "score": "F"},
+        {"text": "Optimizing systems for scale", "score": "T"}
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When AI gives you a wrong answer, you...",
+      "options": [
+        {"text": "Correct it and try again", "score": "T"},
+        {"text": "Ask it to explain its reasoning", "score": "N"},
+        {"text": "Try a different prompt", "score": "P"},
+        {"text": "Move on to a different tool", "score": "E"}
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "You prefer working on...",
+      "options": [
+        {"text": "Team projects with daily standups", "score": "E"},
+        {"text": "Independent deep work sessions", "score": "I"},
+        {"text": "Flexible async collaboration", "score": "P"},
+        {"text": "Structured sprint planning", "score": "J"}
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Your favorite type of problem is...",
+      "options": [
+        {"text": "Logical puzzles and bugs", "score": "T"},
+        {"text": "Creative challenges with no right answer", "score": "N"},
+        {"text": "Making things faster and more efficient", "score": "S"},
+        {"text": "Helping users have better experiences", "score": "F"}
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When starting a new project, you...",
+      "options": [
+        {"text": "Write a detailed spec first", "score": "J"},
+        {"text": "Jump in and build as you go", "score": "P"},
+        {"text": "Research what others have done", "score": "S"},
+        {"text": "Brainstorm wild possibilities", "score": "N"}
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "In a team code review, you focus on...",
+      "options": [
+        {"text": "Edge cases and potential bugs", "score": "T"},
+        {"text": "Code readability and maintainability", "score": "S"},
+        {"text": "Creative approaches and new ideas", "score": "N"},
+        {"text": "How it helps the user", "score": "F"}
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Your relationship with new tech is...",
+      "options": [
+        {"text": "Early adopter - always trying the latest", "score": "E"},
+        {"text": "Wait and see - proven tech is better", "score": "S"},
+        {"text": "Curious but selective", "score": "N"},
+        {"text": "Pragmatic - only what solves problems", "score": "T"}
+      ]
+    }
   ],
   "results": [
-    {"mbtiType": "INFJ", "title": "The Empathetic Advisor", "description": "You use AI to understand others better. Like an empathetic advisor, you seek AI insights to help people."},
-    {"mbtiType": "INTJ", "title": "The Strategic Architect", "description": "You treat AI as a tool to execute complex plans. You're strategic and efficient in how you use technology."},
-    {"mbtiType": "INFP", "title": "The Creative Explorer", "description": "You use AI for creative projects and self-expression. You're drawn to AI's imaginative possibilities."},
-    {"mbtiType": "INTP", "title": "The Curious Analyzer", "description": "You love exploring AI's capabilities intellectually. You're always testing boundaries and learning."},
-    {"mbtiType": "ENFJ", "title": "The Connector", "description": "You use AI to help others and bring people together. You see AI as a way to make a bigger impact."},
-    {"mbtiType": "ENTJ", "title": "The Power User", "description": "You leverage AI to get things done efficiently. You're always looking for ways to optimize and scale."},
-    {"mbtiType": "ENFP", "title": "The Idea Generator", "description": "You use AI to brainstorm and explore new possibilities. You're always excited by AI's creative potential."},
-    {"mbtiType": "ENTP", "title": "The Debate Partner", "description": "You treat AI as a intellectual sparring partner. You love challenging ideas and exploring all angles."},
-    {"mbtiType": "ISFJ", "title": "The Helpful Assistant", "description": "You use AI to be more helpful and organized. You appreciate AI's ability to remember details."},
-    {"mbtiType": "ISTJ", "title": "The Reliable Processor", "description": "You use AI for practical, structured tasks. You value efficiency and accuracy above all."},
-    {"mbtiType": "ESFJ", "title": "The Community Builder", "description": "You use AI to help your community and social circle. You see AI as a way to stay connected."},
-    {"mbtiType": "ESTJ", "title": "The Efficiency Expert", "description": "You use AI to streamline processes and get results. You're all about productivity and organization."},
-    {"mbtiType": "ISFP", "title": "The Aesthetic User", "description": "You use AI for creative and artistic pursuits. You appreciate beauty and personal expression."},
-    {"mbtiType": "ISTP", "title": "The Hands-On Tinkerer", "description": "You learn AI by doing and experimenting. You prefer practical applications over theory."},
-    {"mbtiType": "ESFP", "title": "The Fun Experimenter", "description": "You use AI for entertainment and spontaneous projects. You're always looking for fun ways to use new tools."},
-    {"mbtiType": "ESTP", "title": "The Action Taker", "description": "You use AI to get quick results and solve problems fast. You're all about real-world applications."}
+    {"mbtiType": "INTJ", "title": "The Architect", "description": "You're ChatGPT-4. Strategic, analytical, and always thinking multiple steps ahead. You build robust solutions that scale."},
+    {"mbtiType": "INTP", "title": "The Researcher", "description": "You're DeepMind's AlphaFold. Curious, thorough, and love diving deep into complex problems. You need to understand the 'why'."},
+    {"mbtiType": "ENTJ", "title": "The Commander", "description": "You're Claude Opus. Confident, direct, and excellent at getting things done. You cut through complexity with clarity."},
+    {"mbtiType": "ENTP", "title": "The Debater", "description": "You're GPT-4 with extended thinking. Love exploring all angles, challenging assumptions, and creative brainstorming."},
+    {"mbtiType": "INFJ", "title": "The Advocate", "description": "You're an AI assistant focused on helping. Deeply understanding user needs and providing thoughtful, empathetic responses."},
+    {"mbtiType": "INFP", "title": "The Mediator", "description": "You're a creative AI that understands emotions. Great at writing, art prompts, and sensitive topics."},
+    {"mbtiType": "ENFJ", "title": "The Teacher", "description": "You're an AI tutor. Patient, encouraging, and great at explaining complex topics in accessible ways."},
+    {"mbtiType": "ENFP", "title": "The Creative", "description": "You're good at brainstorming and creative writing. You bring energy and wild ideas to every conversation."},
+    {"mbtiType": "ISTJ", "title": "The Logician", "description": "You're precise and reliable. Follow established patterns and deliver consistent, accurate results."},
+    {"mbtiType": "ISFJ", "title": "The Defender", "description": "You're a helpful assistant that remembers preferences and provides steady, reliable support."},
+    {"mbtiType": "ESTJ", "title": "The Executive", "description": "You're results-oriented AI. Efficient, organized, and great at project management and planning."},
+    {"mbtiType": "ESFJ", "title": "The Caregiver", "description": "You're warm and supportive AI. Great at customer service, mental health support, and interpersonal tasks."},
+    {"mbtiType": "ISTP", "title": "The Virtuoso", "description": "You're the engineer AI. Great with technical problems, debugging, and hands-on coding tasks."},
+    {"mbtiType": "ISFP", "title": "The Adventurer", "description": "You're flexible and adaptable. Great at exploring new tools and creative applications of technology."},
+    {"mbtiType": "ESTP", "title": "The Entrepreneur", "description": "You're action-oriented AI. Fast responses, practical solutions, and always ready to tackle the next problem."},
+    {"mbtiType": "ESFP", "title": "The Entertainer", "description": "You're a fun, engaging AI. Great at entertainment, social media content, and bringing energy to tasks."}
   ]
 }
