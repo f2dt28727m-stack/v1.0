@@ -1,0 +1,853 @@
+{
+  "quizId": 9,
+  "title": "What's Your Love Language Personality Type?",
+  "category": "type",
+  "tags": [
+    "Love Language",
+    "Relationships",
+    "MBTI",
+    "Personality",
+    "Love"
+  ],
+  "description": "Answer 12 heartfelt questions to discover your love language personality type—unlock how you give and receive love!",
+  "questions": [
+    {
+      "text": "You feel loved when someone...",
+      "options": [
+        {
+          "text": "Says kind words to you",
+          "score": "E"
+        },
+        {
+          "text": "Spends one-on-one time with you",
+          "score": "I"
+        },
+        {
+          "text": "Does something nice for you",
+          "score": "S"
+        },
+        {
+          "text": "Gives you a thoughtful gift",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You show love by...",
+      "options": [
+        {
+          "text": "Saying kind words",
+          "score": "E"
+        },
+        {
+          "text": "Spending quality time",
+          "score": "I"
+        },
+        {
+          "text": "Doing favors",
+          "score": "S"
+        },
+        {
+          "text": "Giving gifts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal romantic gesture is...",
+      "options": [
+        {
+          "text": "A public declaration of love",
+          "score": "E"
+        },
+        {
+          "text": "A quiet dinner for two",
+          "score": "I"
+        },
+        {
+          "text": "They fix something for you",
+          "score": "S"
+        },
+        {
+          "text": "A handwritten letter",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're hurt when someone...",
+      "options": [
+        {
+          "text": "Says something unkind",
+          "score": "F"
+        },
+        {
+          "text": "Cancels plans last minute",
+          "score": "T"
+        },
+        {
+          "text": "Forgets to do a favor",
+          "score": "J"
+        },
+        {
+          "text": "Gives you a thoughtless gift",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You appreciate a partner who...",
+      "options": [
+        {
+          "text": "Complements you in public",
+          "score": "E"
+        },
+        {
+          "text": "Listens to you talk",
+          "score": "I"
+        },
+        {
+          "text": "Helps with chores",
+          "score": "S"
+        },
+        {
+          "text": "Remembers small details",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express gratitude by...",
+      "options": [
+        {
+          "text": "Saying thank you often",
+          "score": "E"
+        },
+        {
+          "text": "Spending time with them",
+          "score": "I"
+        },
+        {
+          "text": "Doing something in return",
+          "score": "S"
+        },
+        {
+          "text": "Giving a small gift",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite way to connect is...",
+      "options": [
+        {
+          "text": "Talking and laughing",
+          "score": "E"
+        },
+        {
+          "text": "Sitting in silence together",
+          "score": "I"
+        },
+        {
+          "text": "Working on a project together",
+          "score": "S"
+        },
+        {
+          "text": "Creating something together",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make up after a fight by...",
+      "options": [
+        {
+          "text": "Saying sorry and hugging",
+          "score": "F"
+        },
+        {
+          "text": "Talking through the issue",
+          "score": "T"
+        },
+        {
+          "text": "Doing something nice for them",
+          "score": "J"
+        },
+        {
+          "text": "Giving them a peace offering",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You value...",
+      "options": [
+        {
+          "text": "Words of affirmation",
+          "score": "E"
+        },
+        {
+          "text": "Quality time",
+          "score": "I"
+        },
+        {
+          "text": "Acts of service",
+          "score": "S"
+        },
+        {
+          "text": "Receiving gifts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You feel seen when someone...",
+      "options": [
+        {
+          "text": "Praises you in front of others",
+          "score": "E"
+        },
+        {
+          "text": "Remembers your stories",
+          "score": "I"
+        },
+        {
+          "text": "Anticipates your needs",
+          "score": "S"
+        },
+        {
+          "text": "Gives you something you've wanted",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You show support by...",
+      "options": [
+        {
+          "text": "Cheering them on publicly",
+          "score": "E"
+        },
+        {
+          "text": "Being there for them privately",
+          "score": "I"
+        },
+        {
+          "text": "Helping them with their goals",
+          "score": "S"
+        },
+        {
+          "text": "Giving them a motivational gift",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal date night is...",
+      "options": [
+        {
+          "text": "A party with friends",
+          "score": "E"
+        },
+        {
+          "text": "A quiet movie night at home",
+          "score": "I"
+        },
+        {
+          "text": "Cooking dinner together",
+          "score": "S"
+        },
+        {
+          "text": "A painting class or concert",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle distance in a relationship by...",
+      "options": [
+        {
+          "text": "Texting sweet messages",
+          "score": "E"
+        },
+        {
+          "text": "Having long video calls",
+          "score": "I"
+        },
+        {
+          "text": "Sending care packages",
+          "score": "S"
+        },
+        {
+          "text": "Writing letters",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're drawn to people who...",
+      "options": [
+        {
+          "text": "Are vocal about their love",
+          "score": "E"
+        },
+        {
+          "text": "Prioritize one-on-one time",
+          "score": "I"
+        },
+        {
+          "text": "Are helpful and reliable",
+          "score": "S"
+        },
+        {
+          "text": "Are thoughtful and creative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express anger in a relationship by...",
+      "options": [
+        {
+          "text": "Saying how you feel",
+          "score": "F"
+        },
+        {
+          "text": "Explaining why you're upset",
+          "score": "T"
+        },
+        {
+          "text": "Withdrawing from chores",
+          "score": "J"
+        },
+        {
+          "text": "Giving them the silent treatment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your love style is...",
+      "options": [
+        {
+          "text": "Outgoing and vocal",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and intimate",
+          "score": "I"
+        },
+        {
+          "text": "Practical and supportive",
+          "score": "S"
+        },
+        {
+          "text": "Creative and thoughtful",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You feel appreciated when someone...",
+      "options": [
+        {
+          "text": "Tells you how much you mean to them",
+          "score": "F"
+        },
+        {
+          "text": "Makes time for you",
+          "score": "T"
+        },
+        {
+          "text": "Does something you've been dreading",
+          "score": "J"
+        },
+        {
+          "text": "Gives you a surprise gift",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You show affection by...",
+      "options": [
+        {
+          "text": "Holding hands in public",
+          "score": "E"
+        },
+        {
+          "text": "Cuddling at home",
+          "score": "I"
+        },
+        {
+          "text": "Making them coffee in the morning",
+          "score": "S"
+        },
+        {
+          "text": "Leaving little notes for them",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your greatest relationship fear is...",
+      "options": [
+        {
+          "text": "Being criticized publicly",
+          "score": "E"
+        },
+        {
+          "text": "Being ignored",
+          "score": "I"
+        },
+        {
+          "text": "Being let down",
+          "score": "S"
+        },
+        {
+          "text": "Being forgotten",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You resolve conflict by...",
+      "options": [
+        {
+          "text": "Talking it out until it's fixed",
+          "score": "F"
+        },
+        {
+          "text": "Finding a logical solution",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to your boundaries",
+          "score": "J"
+        },
+        {
+          "text": "Compromising and making up",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You view love as...",
+      "options": [
+        {
+          "text": "A celebration",
+          "score": "E"
+        },
+        {
+          "text": "A connection",
+          "score": "I"
+        },
+        {
+          "text": "A partnership",
+          "score": "S"
+        },
+        {
+          "text": "A journey",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make plans with a partner by...",
+      "options": [
+        {
+          "text": "Planning a big event",
+          "score": "E"
+        },
+        {
+          "text": "Planning a quiet getaway",
+          "score": "I"
+        },
+        {
+          "text": "Planning a practical trip",
+          "score": "S"
+        },
+        {
+          "text": "Planning an adventurous trip",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You feel secure in a relationship when...",
+      "options": [
+        {
+          "text": "They say they love you often",
+          "score": "F"
+        },
+        {
+          "text": "They make time for you consistently",
+          "score": "T"
+        },
+        {
+          "text": "They're reliable and consistent",
+          "score": "J"
+        },
+        {
+          "text": "They remember the little things",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You show you care by...",
+      "options": [
+        {
+          "text": "Checking in with them often",
+          "score": "E"
+        },
+        {
+          "text": "Listening to their problems",
+          "score": "I"
+        },
+        {
+          "text": "Helping them when they're stressed",
+          "score": "S"
+        },
+        {
+          "text": "Doing something thoughtful for them",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your communication style in love is...",
+      "options": [
+        {
+          "text": "Loud and open",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and honest",
+          "score": "I"
+        },
+        {
+          "text": "Clear and practical",
+          "score": "S"
+        },
+        {
+          "text": "Creative and poetic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You appreciate small gestures like...",
+      "options": [
+        {
+          "text": "A sweet text",
+          "score": "E"
+        },
+        {
+          "text": "A hug",
+          "score": "I"
+        },
+        {
+          "text": "They take out the trash",
+          "score": "S"
+        },
+        {
+          "text": "A flower from the garden",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach love by...",
+      "options": [
+        {
+          "text": "Falling hard and fast",
+          "score": "F"
+        },
+        {
+          "text": "Taking it slow and steady",
+          "score": "T"
+        },
+        {
+          "text": "Building a life together",
+          "score": "J"
+        },
+        {
+          "text": "Enjoying every moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You're known for...",
+      "options": [
+        {
+          "text": "Your sweet words",
+          "score": "E"
+        },
+        {
+          "text": "Your listening skills",
+          "score": "I"
+        },
+        {
+          "text": "Your helpfulness",
+          "score": "S"
+        },
+        {
+          "text": "Your thoughtfulness",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You feel loved on your birthday when...",
+      "options": [
+        {
+          "text": "They throw you a big party",
+          "score": "E"
+        },
+        {
+          "text": "They plan a quiet day for you",
+          "score": "I"
+        },
+        {
+          "text": "They do all the work for the day",
+          "score": "S"
+        },
+        {
+          "text": "They give you a thoughtful gift",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You show love to friends by...",
+      "options": [
+        {
+          "text": "Saying kind words",
+          "score": "E"
+        },
+        {
+          "text": "Spending time with them",
+          "score": "I"
+        },
+        {
+          "text": "Helping them out",
+          "score": "S"
+        },
+        {
+          "text": "Giving them small gifts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your love language with family is...",
+      "options": [
+        {
+          "text": "Words of affirmation",
+          "score": "E"
+        },
+        {
+          "text": "Quality time",
+          "score": "I"
+        },
+        {
+          "text": "Acts of service",
+          "score": "S"
+        },
+        {
+          "text": "Gifts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle a breakup by...",
+      "options": [
+        {
+          "text": "Talking to friends",
+          "score": "E"
+        },
+        {
+          "text": "Being alone",
+          "score": "I"
+        },
+        {
+          "text": "Keeping busy",
+          "score": "S"
+        },
+        {
+          "text": "Writing in a journal",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You believe love is...",
+      "options": [
+        {
+          "text": "Loud and proud",
+          "score": "F"
+        },
+        {
+          "text": "Quiet and constant",
+          "score": "T"
+        },
+        {
+          "text": "Actions over words",
+          "score": "J"
+        },
+        {
+          "text": "In the little things",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You're attracted to people who...",
+      "options": [
+        {
+          "text": "Are expressive",
+          "score": "E"
+        },
+        {
+          "text": "Are attentive",
+          "score": "I"
+        },
+        {
+          "text": "Are reliable",
+          "score": "S"
+        },
+        {
+          "text": "Are creative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ultimate relationship goal is...",
+      "options": [
+        {
+          "text": "A love that's admired by all",
+          "score": "E"
+        },
+        {
+          "text": "A deep, intimate connection",
+          "score": "I"
+        },
+        {
+          "text": "A stable, happy life together",
+          "score": "S"
+        },
+        {
+          "text": "A love that's full of joy and surprise",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your love motto is...",
+      "options": [
+        {
+          "text": "Speak love often!",
+          "score": "F"
+        },
+        {
+          "text": "Make time for love!",
+          "score": "T"
+        },
+        {
+          "text": "Show love through action!",
+          "score": "J"
+        },
+        {
+          "text": "Love is in the details!",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Words of Affirmation (ENFJ)",
+      "description": "You give and receive love through kind words and heartfelt praise! You feel most loved when someone tells you how much you mean to them, and you show love by showering your loved ones with sweet words and encouragement. You're an ENFJ—charismatic, compassionate, and a natural communicator who makes others feel seen and valued with your words.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Quality Time (ISFJ)",
+      "description": "You give and receive love through one-on-one connection and undivided attention! You feel most loved when someone makes time for you, and you show love by being fully present with your loved ones. You're an ISFJ—kind, loyal, and a natural listener who cherishes deep, intimate connections with the people you care about.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Acts of Service (ISTJ)",
+      "description": "You give and receive love through thoughtful actions and helpful gestures! You feel most loved when someone does something nice for you, and you show love by taking care of the people you care about and making their lives easier. You're an ISTJ—practical, responsible, and a quiet giver who shows love through consistent, reliable action.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Receiving Gifts (ENFP)",
+      "description": "You give and receive love through thoughtful presents and meaningful tokens! You feel most loved when someone remembers the little things and gives you a thoughtful gift, and you show love by picking out the perfect present for your loved ones. You're an ENFP—optimistic, creative, and a thoughtful giver who finds joy in making others feel special with small, meaningful gestures.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Physical Touch (ESFP)",
+      "description": "You give and receive love through warm hugs, gentle touches, and physical connection! You feel most loved when someone holds your hand or gives you a hug, and you show love by being physically affectionate with your loved ones. You're an ESFP—energetic, spontaneous, and a warm, affectionate person who finds joy in physical connection with the people you care about.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Words + Quality Time (INFJ)",
+      "description": "You give and receive love through a mix of kind words and undivided attention! You feel most loved when someone tells you how much you mean to them and makes time for you, and you show love by being a thoughtful communicator and a present listener. You're an INFJ—compassionate, visionary, and a deep connector who values both heartfelt words and intimate connection.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Acts of Service + Quality Time (INTJ)",
+      "description": "You give and receive love through a mix of helpful actions and one-on-one time! You feel most loved when someone does something nice for you and makes time for you, and you show love by taking care of your loved ones and being fully present with them. You're an INTJ—visionary, logical, and a practical lover who shows care through consistent action and intentional connection.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Gifts + Physical Touch (ESTP)",
+      "description": "You give and receive love through a mix of thoughtful presents and physical affection! You feel most loved when someone gives you a cool gift and gives you a hug, and you show love by picking out fun presents and being physically affectionate with your loved ones. You're an ESTP—bold, spontaneous, and a fun-loving lover who finds joy in surprising and connecting with others.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Words + Physical Touch (ENTP)",
+      "description": "You give and receive love through a mix of sweet words and physical affection! You feel most loved when someone tells you how amazing you are and gives you a hug, and you show love by being a witty communicator and a physically affectionate partner. You're an ENTP—creative, strategic, and a playful lover who values both verbal affirmation and physical connection.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Quality Time + Acts of Service (ESFJ)",
+      "description": "You give and receive love through a mix of undivided attention and helpful actions! You feel most loved when someone makes time for you and takes care of you, and you show love by being fully present with your loved ones and making their lives easier. You're an ESFJ—compassionate, responsible, and a nurturing lover who values both connection and practical care.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Gifts + Words of Affirmation (INFP)",
+      "description": "You give and receive love through a mix of thoughtful presents and heartfelt words! You feel most loved when someone gives you a meaningful gift and tells you how much they care, and you show love by picking out thoughtful presents and writing sweet notes for your loved ones. You're an INFP—idealistic, introspective, and a deeply romantic lover who values both tangible and verbal expressions of love.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Physical Touch + Acts of Service (ENTJ)",
+      "description": "You give and receive love through a mix of physical affection and helpful actions! You feel most loved when someone gives you a hug and takes care of something for you, and you show love by being physically affectionate and taking charge to make your loved ones' lives easier. You're an ENTJ—strategic, charismatic, and a protective lover who values both connection and practical support.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Words + Acts of Service (ISFP)",
+      "description": "You give and receive love through a mix of kind words and helpful gestures! You feel most loved when someone tells you how much they appreciate you and does something nice for you, and you show love by being a thoughtful communicator and a quiet helper to your loved ones. You're an ISFP—gentle, creative, and a humble lover who values both verbal appreciation and practical care.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Quality Time + Gifts (INTP)",
+      "description": "You give and receive love through a mix of undivided attention and thoughtful presents! You feel most loved when someone makes time for you and gives you a gift that shows they get you, and you show love by being fully present with your loved ones and picking out unique gifts for them. You're an INTP—analytical, creative, and a thoughtful lover who values both connection and meaningful gestures.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Physical Touch + Quality Time (ESTJ)",
+      "description": "You give and receive love through a mix of physical affection and one-on-one time! You feel most loved when someone is physically affectionate with you and makes time for you, and you show love by being a warm, present partner who values both physical connection and intentional time together. You're an ESTJ—practical, responsible, and a loyal lover who shows care through presence and touch.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "All Love Languages (ENFP)",
+      "description": "You give and receive love through all five love languages! You feel loved in many different ways, and you show love to your loved ones through words, time, actions, gifts, and touch. You're an ENFP—optimistic, creative, and a versatile lover who finds joy in expressing love in every way possible.",
+      "mbti": "ENFP"
+    }
+  ]
+}

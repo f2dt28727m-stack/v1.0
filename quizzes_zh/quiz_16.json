@@ -1,0 +1,853 @@
+{
+  "quizId": 16,
+  "title": "Which Magical Creature Are You?",
+  "category": "which",
+  "tags": [
+    "Magic",
+    "Creature",
+    "Fantasy",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 enchanting questions to discover which magical creature matches your personality—enter a world of wonder and magic!",
+  "questions": [
+    {
+      "text": "Your magical habitat is...",
+      "options": [
+        {
+          "text": "Castle",
+          "score": "E"
+        },
+        {
+          "text": "Forest",
+          "score": "I"
+        },
+        {
+          "text": "Cave",
+          "score": "S"
+        },
+        {
+          "text": "Clouds",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You use magic by...",
+      "options": [
+        {
+          "text": "Protect others",
+          "score": "F"
+        },
+        {
+          "text": "Solve puzzles",
+          "score": "T"
+        },
+        {
+          "text": "Follow ancient rules",
+          "score": "J"
+        },
+        {
+          "text": "Create new spells",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical appearance is...",
+      "options": [
+        {
+          "text": "Glorious",
+          "score": "E"
+        },
+        {
+          "text": "Subtle",
+          "score": "I"
+        },
+        {
+          "text": "Strong",
+          "score": "S"
+        },
+        {
+          "text": "Unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You interact with wizards by...",
+      "options": [
+        {
+          "text": "Serve them",
+          "score": "E"
+        },
+        {
+          "text": "Avoid them",
+          "score": "I"
+        },
+        {
+          "text": "Help when asked",
+          "score": "S"
+        },
+        {
+          "text": "Teach them",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your magical ability is...",
+      "options": [
+        {
+          "text": "Strength",
+          "score": "E"
+        },
+        {
+          "text": "Healing",
+          "score": "I"
+        },
+        {
+          "text": "Protection",
+          "score": "S"
+        },
+        {
+          "text": "Transformation",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle danger by...",
+      "options": [
+        {
+          "text": "Fight bravely",
+          "score": "F"
+        },
+        {
+          "text": "Outsmart enemies",
+          "score": "T"
+        },
+        {
+          "text": "Use traditional defenses",
+          "score": "J"
+        },
+        {
+          "text": "Adapt magic",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical diet is...",
+      "options": [
+        {
+          "text": "Gold",
+          "score": "E"
+        },
+        {
+          "text": "Herbs",
+          "score": "I"
+        },
+        {
+          "text": "Meat",
+          "score": "S"
+        },
+        {
+          "text": "Starlight",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You communicate by...",
+      "options": [
+        {
+          "text": "Roar",
+          "score": "E"
+        },
+        {
+          "text": "Whisper",
+          "score": "I"
+        },
+        {
+          "text": "Telepathy",
+          "score": "S"
+        },
+        {
+          "text": "Song",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're drawn to magic that is...",
+      "options": [
+        {
+          "text": "Flashy",
+          "score": "E"
+        },
+        {
+          "text": "Quiet",
+          "score": "I"
+        },
+        {
+          "text": "Practical",
+          "score": "S"
+        },
+        {
+          "text": "Creative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your magical weakness is...",
+      "options": [
+        {
+          "text": "Arrogance",
+          "score": "E"
+        },
+        {
+          "text": "Loneliness",
+          "score": "I"
+        },
+        {
+          "text": "Overconfidence",
+          "score": "S"
+        },
+        {
+          "text": "Doubt",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You help others by...",
+      "options": [
+        {
+          "text": "Public displays",
+          "score": "E"
+        },
+        {
+          "text": "Secret acts",
+          "score": "I"
+        },
+        {
+          "text": "Practical aid",
+          "score": "S"
+        },
+        {
+          "text": "Magical gifts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You view humans by...",
+      "options": [
+        {
+          "text": "Amusing",
+          "score": "E"
+        },
+        {
+          "text": "Intriguing",
+          "score": "I"
+        },
+        {
+          "text": "Useful",
+          "score": "S"
+        },
+        {
+          "text": "Potential",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make decisions by...",
+      "options": [
+        {
+          "text": "Emotion",
+          "score": "F"
+        },
+        {
+          "text": "Logic",
+          "score": "T"
+        },
+        {
+          "text": "Tradition",
+          "score": "J"
+        },
+        {
+          "text": "Intuition",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical age is...",
+      "options": [
+        {
+          "text": "Young",
+          "score": "E"
+        },
+        {
+          "text": "Ancient",
+          "score": "I"
+        },
+        {
+          "text": "Middle-aged",
+          "score": "S"
+        },
+        {
+          "text": "Timeless",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You celebrate by...",
+      "options": [
+        {
+          "text": "Grand feasts",
+          "score": "E"
+        },
+        {
+          "text": "Quiet rituals",
+          "score": "I"
+        },
+        {
+          "text": "Simple gatherings",
+          "score": "S"
+        },
+        {
+          "text": "Magical displays",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle betrayal by...",
+      "options": [
+        {
+          "text": "Anger",
+          "score": "F"
+        },
+        {
+          "text": "Distance",
+          "score": "T"
+        },
+        {
+          "text": "Justice",
+          "score": "J"
+        },
+        {
+          "text": "Forgiveness",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical friends are...",
+      "options": [
+        {
+          "text": "Many",
+          "score": "E"
+        },
+        {
+          "text": "Few",
+          "score": "I"
+        },
+        {
+          "text": "Reliable",
+          "score": "S"
+        },
+        {
+          "text": "Unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're known for...",
+      "options": [
+        {
+          "text": "Courage",
+          "score": "E"
+        },
+        {
+          "text": "Wisdom",
+          "score": "I"
+        },
+        {
+          "text": "Strength",
+          "score": "S"
+        },
+        {
+          "text": "Magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach challenges by...",
+      "options": [
+        {
+          "text": "Directly",
+          "score": "F"
+        },
+        {
+          "text": "Strategically",
+          "score": "T"
+        },
+        {
+          "text": "Carefully",
+          "score": "J"
+        },
+        {
+          "text": "Creatively",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical treasure is...",
+      "options": [
+        {
+          "text": "Jewels",
+          "score": "E"
+        },
+        {
+          "text": "Knowledge",
+          "score": "I"
+        },
+        {
+          "text": "Weapons",
+          "score": "S"
+        },
+        {
+          "text": "Spells",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You value in life...",
+      "options": [
+        {
+          "text": "Fame",
+          "score": "E"
+        },
+        {
+          "text": "Peace",
+          "score": "I"
+        },
+        {
+          "text": "Safety",
+          "score": "S"
+        },
+        {
+          "text": "Freedom",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You rest by...",
+      "options": [
+        {
+          "text": "Light sleep",
+          "score": "E"
+        },
+        {
+          "text": "Deep slumber",
+          "score": "I"
+        },
+        {
+          "text": "Regular naps",
+          "score": "J"
+        },
+        {
+          "text": "Meditation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You learn magic by...",
+      "options": [
+        {
+          "text": "Teachers",
+          "score": "E"
+        },
+        {
+          "text": "Self-study",
+          "score": "I"
+        },
+        {
+          "text": "Books",
+          "score": "J"
+        },
+        {
+          "text": "Experiment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical purpose is...",
+      "options": [
+        {
+          "text": "Protect",
+          "score": "E"
+        },
+        {
+          "text": "Guard",
+          "score": "I"
+        },
+        {
+          "text": "Serve",
+          "score": "S"
+        },
+        {
+          "text": "Create",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express joy by...",
+      "options": [
+        {
+          "text": "Roar",
+          "score": "E"
+        },
+        {
+          "text": "Smile",
+          "score": "I"
+        },
+        {
+          "text": "Action",
+          "score": "S"
+        },
+        {
+          "text": "Song",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're attracted to...",
+      "options": [
+        {
+          "text": "Light",
+          "score": "E"
+        },
+        {
+          "text": "Dark",
+          "score": "I"
+        },
+        {
+          "text": "Earth",
+          "score": "S"
+        },
+        {
+          "text": "Sky",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your magical motto is...",
+      "options": [
+        {
+          "text": "Strength!",
+          "score": "F"
+        },
+        {
+          "text": "Wisdom!",
+          "score": "T"
+        },
+        {
+          "text": "Tradition!",
+          "score": "J"
+        },
+        {
+          "text": "Freedom!",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You heal by...",
+      "options": [
+        {
+          "text": "Magic",
+          "score": "E"
+        },
+        {
+          "text": "Herbs",
+          "score": "I"
+        },
+        {
+          "text": "Rest",
+          "score": "S"
+        },
+        {
+          "text": "Energy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle loss by...",
+      "options": [
+        {
+          "text": "Mourn",
+          "score": "F"
+        },
+        {
+          "text": "Accept",
+          "score": "T"
+        },
+        {
+          "text": "Honor",
+          "score": "J"
+        },
+        {
+          "text": "Grow",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your movement is...",
+      "options": [
+        {
+          "text": "Fast",
+          "score": "E"
+        },
+        {
+          "text": "Slow",
+          "score": "I"
+        },
+        {
+          "text": "Steady",
+          "score": "S"
+        },
+        {
+          "text": "Graceful",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make friends by...",
+      "options": [
+        {
+          "text": "Confidence",
+          "score": "E"
+        },
+        {
+          "text": "Trust",
+          "score": "I"
+        },
+        {
+          "text": "Reliability",
+          "score": "S"
+        },
+        {
+          "text": "Kindness",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're motivated by...",
+      "options": [
+        {
+          "text": "Adventure",
+          "score": "E"
+        },
+        {
+          "text": "Knowledge",
+          "score": "I"
+        },
+        {
+          "text": "Safety",
+          "score": "S"
+        },
+        {
+          "text": "Curiosity",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You interact with nature by...",
+      "options": [
+        {
+          "text": "Command",
+          "score": "E"
+        },
+        {
+          "text": "Respect",
+          "score": "I"
+        },
+        {
+          "text": "Use",
+          "score": "S"
+        },
+        {
+          "text": "Harmonize",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle curiosity by...",
+      "options": [
+        {
+          "text": "Explore",
+          "score": "F"
+        },
+        {
+          "text": "Investigate",
+          "score": "T"
+        },
+        {
+          "text": "Caution",
+          "score": "J"
+        },
+        {
+          "text": "Wonder",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ultimate goal is...",
+      "options": [
+        {
+          "text": "Protect",
+          "score": "E"
+        },
+        {
+          "text": "Understand",
+          "score": "I"
+        },
+        {
+          "text": "Survive",
+          "score": "S"
+        },
+        {
+          "text": "Create",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You balance power by...",
+      "options": [
+        {
+          "text": "Use",
+          "score": "E"
+        },
+        {
+          "text": "Control",
+          "score": "I"
+        },
+        {
+          "text": "Limit",
+          "score": "J"
+        },
+        {
+          "text": "Flow",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Phoenix",
+      "description": "You're the fiery, resilient phoenix! Like this legendary bird, you're outgoing, passionate, and rise from ashes stronger than before. You're an ENFP—optimistic, creative, and a symbol of renewal who brings hope and transformation wherever you go, with magic that heals and revitalizes all around you.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Unicorn",
+      "description": "You're the pure, magical unicorn! Like this rare creature, you're private, gentle, and possess healing magic that touches only the worthy. You're an INFJ—compassionate, visionary, and a guardian of purity who appears only to those with pure hearts and brings healing to the wounded and weary.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Dragon",
+      "description": "You're the powerful, wise dragon! Like this majestic beast, you're private, strategic, and a guardian of ancient treasures and knowledge. You're an INTJ—visionary, logical, and a master of elemental magic who values wisdom above all and uses your power to protect what matters most to you.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Griffin",
+      "description": "You're the noble, protective griffin! Like this mythical guardian, you're outgoing, loyal, and a fierce protector of the innocent. You're an ESTJ—practical, responsible, and a defender of justice who combines the strength of a lion with the vision of an eagle to keep watch over your realm.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Mermaid",
+      "description": "You're the mystical, emotional mermaid! Like this sea creature, you're private, intuitive, and possess the power to control water and enchant with your voice. You're an INFP—idealistic, introspective, and a creature of deep emotion who feels the tides of feeling in every part of your being and connects deeply with the ocean's mysteries.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Centaur",
+      "description": "You're the wise, practical centaur! Like this half-human, half-horse creature, you're outgoing, knowledgeable, and a teacher of both wisdom and warfare. You're an ESFJ—compassionate, generous, and a mentor who shares your knowledge freely with those who seek it and defends your students with fierce loyalty.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Werewolf",
+      "description": "You're the primal, passionate werewolf! Like this shape-shifter, you're outgoing, instinctual, and a creature of both human intellect and animal passion. You're an ESFP—energetic, spontaneous, and a being of raw emotion who embraces both your human and wolf sides with equal fervor and loyalty to your pack.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Vampire",
+      "description": "You're the elegant, mysterious vampire! Like this immortal creature, you're private, sophisticated, and possess eternal life and supernatural charm. You're an INTP—analytical, creative, and a being of endless curiosity who walks between light and dark, collecting knowledge and experiences across centuries of existence.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Giant",
+      "description": "You're the gentle, strong giant! Like this towering creature, you're outgoing, straightforward, and possess incredible strength with a kind heart. You're an ISFP—gentle, creative, and a peaceful being who lives in harmony with nature and uses your strength to protect the forests and creatures you love.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Fairy",
+      "description": "You're the playful, creative fairy! Like this tiny magical creature, you're outgoing, whimsical, and possess the power to control nature and cast small but powerful spells. You're an ENTP—creative, strategic, and a trickster with a heart of gold who brings joy and mischief to the world and helps those who respect nature's balance.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Minotaur",
+      "description": "You're the strong, focused minotaur! Like this labyrinth guardian, you're private, determined, and a creature of incredible strength and single-minded purpose. You're an ISTJ—practical, responsible, and a defender of boundaries who guards your domain with unwavering dedication and faces challenges with relentless persistence.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Sphinx",
+      "description": "You're the wise, mysterious sphinx! Like this riddling creature, you're private, intellectual, and a guardian of knowledge who tests the wisdom of all who pass. You're an INTP—analytical, creative, and a keeper of ancient secrets who challenges others to think deeply and prove their worth through cleverness rather than strength.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Hydra",
+      "description": "You're the resilient, strategic hydra! Like this multi-headed monster, you're outgoing, adaptive, and grow stronger when faced with adversity. You're an ENTJ—strategic, charismatic, and a formidable opponent who regenerates from every defeat and uses multiple strategies to overcome any challenge in your path.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Pegasus",
+      "description": "You're the free-spirited, majestic Pegasus! Like this winged horse, you're outgoing, independent, and a symbol of freedom and inspiration. You're an ESTP—bold, spontaneous, and a creature of the open sky who values freedom above all and carries heroes to victory on your powerful wings.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Cerberus",
+      "description": "You're the loyal, protective Cerberus! Like this three-headed dog, you're private, devoted, and the fearsome guardian of the underworld. You're an ISFJ—kind, loyal, and a defender of what's yours who takes your duties seriously and never lets anyone pass who doesn't belong in your domain.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Cyclops",
+      "description": "You're the straightforward, powerful cyclops! Like this one-eyed giant, you're outgoing, practical, and a creature of incredible strength and simple desires. You're an ESTP—bold, spontaneous, and a being of action who speaks your mind directly and uses your strength to forge powerful weapons and protect your home.",
+      "mbti": "ESTP"
+    }
+  ]
+}

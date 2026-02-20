@@ -1,0 +1,853 @@
+{
+  "quizId": 19,
+  "title": "Which Star Wars Character Are You (MBTI)?",
+  "category": "which",
+  "tags": [
+    "Star Wars",
+    "MBTI",
+    "Personality",
+    "Sci-Fi",
+    "Galaxy"
+  ],
+  "description": "Answer 12 intergalactic questions to discover which Star Wars character matches your MBTI personality type—may the force be with you!",
+  "questions": [
+    {
+      "text": "Your Star Wars role is...",
+      "options": [
+        {
+          "text": "Jedi Knight",
+          "score": "E"
+        },
+        {
+          "text": "Sith Lord",
+          "score": "I"
+        },
+        {
+          "text": "Rebel Pilot",
+          "score": "S"
+        },
+        {
+          "text": "Force User",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You use the Force by...",
+      "options": [
+        {
+          "text": "Protect others",
+          "score": "F"
+        },
+        {
+          "text": "Strategic advantage",
+          "score": "T"
+        },
+        {
+          "text": "Follow the Code",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneous action",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your starship is...",
+      "options": [
+        {
+          "text": "Millennium Falcon",
+          "score": "E"
+        },
+        {
+          "text": "TIE Fighter",
+          "score": "I"
+        },
+        {
+          "text": "X-Wing",
+          "score": "S"
+        },
+        {
+          "text": "Star Destroyer",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You fight by...",
+      "options": [
+        {
+          "text": "Lightsaber duel",
+          "score": "F"
+        },
+        {
+          "text": "Tactical strikes",
+          "score": "T"
+        },
+        {
+          "text": "Team coordination",
+          "score": "J"
+        },
+        {
+          "text": "Guerilla tactics",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your allegiance is...",
+      "options": [
+        {
+          "text": "Rebellion",
+          "score": "E"
+        },
+        {
+          "text": "Empire",
+          "score": "I"
+        },
+        {
+          "text": "New Republic",
+          "score": "S"
+        },
+        {
+          "text": "First Order",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You lead by...",
+      "options": [
+        {
+          "text": "Inspiration",
+          "score": "F"
+        },
+        {
+          "text": "Fear",
+          "score": "T"
+        },
+        {
+          "text": "Structure",
+          "score": "J"
+        },
+        {
+          "text": "Charisma",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your home planet is...",
+      "options": [
+        {
+          "text": "Coruscant",
+          "score": "E"
+        },
+        {
+          "text": "Tatooine",
+          "score": "I"
+        },
+        {
+          "text": "Hoth",
+          "score": "S"
+        },
+        {
+          "text": "Bespin",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle betrayal by...",
+      "options": [
+        {
+          "text": "Forgiveness",
+          "score": "F"
+        },
+        {
+          "text": "Vengeance",
+          "score": "T"
+        },
+        {
+          "text": "Justice",
+          "score": "J"
+        },
+        {
+          "text": "Adaptation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your droid companion is...",
+      "options": [
+        {
+          "text": "C-3PO",
+          "score": "E"
+        },
+        {
+          "text": "R2-D2",
+          "score": "I"
+        },
+        {
+          "text": "BB-8",
+          "score": "S"
+        },
+        {
+          "text": "K-2SO",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You train by...",
+      "options": [
+        {
+          "text": "Jedi Temple",
+          "score": "E"
+        },
+        {
+          "text": "Sith Academy",
+          "score": "I"
+        },
+        {
+          "text": "Rigorous drills",
+          "score": "J"
+        },
+        {
+          "text": "Real combat",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your greatest fear is...",
+      "options": [
+        {
+          "text": "Loss",
+          "score": "F"
+        },
+        {
+          "text": "Failure",
+          "score": "T"
+        },
+        {
+          "text": "Weakness",
+          "score": "J"
+        },
+        {
+          "text": "Obscurity",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You negotiate by...",
+      "options": [
+        {
+          "text": "Diplomacy",
+          "score": "F"
+        },
+        {
+          "text": "Intimidation",
+          "score": "T"
+        },
+        {
+          "text": "Protocol",
+          "score": "J"
+        },
+        {
+          "text": "Deception",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your combat style is...",
+      "options": [
+        {
+          "text": "Aggressive",
+          "score": "E"
+        },
+        {
+          "text": "Defensive",
+          "score": "I"
+        },
+        {
+          "text": "Technical",
+          "score": "S"
+        },
+        {
+          "text": "Unpredictable",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You view the Force as...",
+      "options": [
+        {
+          "text": "Balance",
+          "score": "F"
+        },
+        {
+          "text": "Power",
+          "score": "T"
+        },
+        {
+          "text": "Discipline",
+          "score": "J"
+        },
+        {
+          "text": "Mystery",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You make sacrifices for...",
+      "options": [
+        {
+          "text": "Love",
+          "score": "E"
+        },
+        {
+          "text": "Ambition",
+          "score": "I"
+        },
+        {
+          "text": "Duty",
+          "score": "S"
+        },
+        {
+          "text": "Destiny",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You solve problems by...",
+      "options": [
+        {
+          "text": "Empathy",
+          "score": "F"
+        },
+        {
+          "text": "Analysis",
+          "score": "T"
+        },
+        {
+          "text": "Experience",
+          "score": "J"
+        },
+        {
+          "text": "Innovation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your leadership style is...",
+      "options": [
+        {
+          "text": "Democratic",
+          "score": "E"
+        },
+        {
+          "text": "Autocratic",
+          "score": "I"
+        },
+        {
+          "text": "Hierarchical",
+          "score": "S"
+        },
+        {
+          "text": "Charismatic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle defeat by...",
+      "options": [
+        {
+          "text": "Perseverance",
+          "score": "F"
+        },
+        {
+          "text": "Reflection",
+          "score": "T"
+        },
+        {
+          "text": "Strategy",
+          "score": "J"
+        },
+        {
+          "text": "Adaptation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your lightsaber color is...",
+      "options": [
+        {
+          "text": "Blue",
+          "score": "E"
+        },
+        {
+          "text": "Red",
+          "score": "I"
+        },
+        {
+          "text": "Green",
+          "score": "S"
+        },
+        {
+          "text": "Purple",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You communicate by...",
+      "options": [
+        {
+          "text": "Inspiring speeches",
+          "score": "E"
+        },
+        {
+          "text": "Quiet authority",
+          "score": "I"
+        },
+        {
+          "text": "Clear orders",
+          "score": "S"
+        },
+        {
+          "text": "Cryptic wisdom",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You relax by...",
+      "options": [
+        {
+          "text": "Celebrate with allies",
+          "score": "E"
+        },
+        {
+          "text": "Solitary meditation",
+          "score": "I"
+        },
+        {
+          "text": "Mechanical work",
+          "score": "S"
+        },
+        {
+          "text": "Exploration",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach danger by...",
+      "options": [
+        {
+          "text": "Courage",
+          "score": "F"
+        },
+        {
+          "text": "Caution",
+          "score": "T"
+        },
+        {
+          "text": "Preparation",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneity",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your moral code is...",
+      "options": [
+        {
+          "text": "Compassion",
+          "score": "E"
+        },
+        {
+          "text": "Power",
+          "score": "I"
+        },
+        {
+          "text": "Honor",
+          "score": "S"
+        },
+        {
+          "text": "Freedom",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You learn the Force by...",
+      "options": [
+        {
+          "text": "Mentorship",
+          "score": "E"
+        },
+        {
+          "text": "Self-discovery",
+          "score": "I"
+        },
+        {
+          "text": "Ancient texts",
+          "score": "J"
+        },
+        {
+          "text": "Trial and error",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your greatest strength is...",
+      "options": [
+        {
+          "text": "Loyalty",
+          "score": "E"
+        },
+        {
+          "text": "Intelligence",
+          "score": "I"
+        },
+        {
+          "text": "Skill",
+          "score": "S"
+        },
+        {
+          "text": "Intuition",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle success by...",
+      "options": [
+        {
+          "text": "Humility",
+          "score": "F"
+        },
+        {
+          "text": "Calculation",
+          "score": "T"
+        },
+        {
+          "text": "Recognition",
+          "score": "J"
+        },
+        {
+          "text": "Ambition",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your battle strategy is...",
+      "options": [
+        {
+          "text": "Direct assault",
+          "score": "E"
+        },
+        {
+          "text": "Covert operation",
+          "score": "I"
+        },
+        {
+          "text": "Coordinated attack",
+          "score": "S"
+        },
+        {
+          "text": "Guerrilla warfare",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You view the Empire as...",
+      "options": [
+        {
+          "text": "Oppressive",
+          "score": "F"
+        },
+        {
+          "text": "Efficient",
+          "score": "T"
+        },
+        {
+          "text": "Formidable",
+          "score": "J"
+        },
+        {
+          "text": "Inevitable",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You connect with others by...",
+      "options": [
+        {
+          "text": "Shared purpose",
+          "score": "E"
+        },
+        {
+          "text": "Mutual respect",
+          "score": "I"
+        },
+        {
+          "text": "Reliability",
+          "score": "S"
+        },
+        {
+          "text": "Force bond",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ultimate goal is...",
+      "options": [
+        {
+          "text": "Freedom",
+          "score": "E"
+        },
+        {
+          "text": "Domination",
+          "score": "I"
+        },
+        {
+          "text": "Security",
+          "score": "S"
+        },
+        {
+          "text": "Balance",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make decisions by...",
+      "options": [
+        {
+          "text": "Heart",
+          "score": "F"
+        },
+        {
+          "text": "Mind",
+          "score": "T"
+        },
+        {
+          "text": "Code",
+          "score": "J"
+        },
+        {
+          "text": "Intuition",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You handle the dark side by...",
+      "options": [
+        {
+          "text": "Resist it",
+          "score": "E"
+        },
+        {
+          "text": "Embrace it",
+          "score": "I"
+        },
+        {
+          "text": "Understand it",
+          "score": "S"
+        },
+        {
+          "text": "Navigate it",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your legacy is...",
+      "options": [
+        {
+          "text": "Hope",
+          "score": "E"
+        },
+        {
+          "text": "Fear",
+          "score": "I"
+        },
+        {
+          "text": "Victory",
+          "score": "S"
+        },
+        {
+          "text": "Legend",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You trust by...",
+      "options": [
+        {
+          "text": "Instinct",
+          "score": "F"
+        },
+        {
+          "text": "Verification",
+          "score": "T"
+        },
+        {
+          "text": "Proven loyalty",
+          "score": "J"
+        },
+        {
+          "text": "Risk",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You pilot by...",
+      "options": [
+        {
+          "text": "Charisma",
+          "score": "E"
+        },
+        {
+          "text": "Precision",
+          "score": "I"
+        },
+        {
+          "text": "Skill",
+          "score": "S"
+        },
+        {
+          "text": "Instinct",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You balance emotion and logic by...",
+      "options": [
+        {
+          "text": "Heart first",
+          "score": "F"
+        },
+        {
+          "text": "Mind first",
+          "score": "T"
+        },
+        {
+          "text": "Code first",
+          "score": "J"
+        },
+        {
+          "text": "Adapt as needed",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Luke Skywalker (ENFP)",
+      "description": "You're Luke Skywalker—the hopeful, adventurous ENFP! Like Luke, you're outgoing, optimistic, and believe in the power of hope and the Force to change the galaxy. You're a dreamer who leaves home to fight for what's right, trust your intuition, and see the good in others even when no one else can.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Darth Vader (INTJ)",
+      "description": "You're Darth Vader—the strategic, complex INTJ! Like Vader, you're private, analytical, and driven by a mix of power, regret, and purpose. You have a clear vision (even if it's dark), use your intelligence and power to achieve your goals, and carry the weight of your past decisions with quiet intensity.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Leia Organa (ESTJ)",
+      "description": "You're Leia Organa—the determined, practical ESTJ! Like Leia, you're outgoing, responsible, and a natural leader who refuses to back down from the Empire. You're a skilled diplomat and warrior, value structure and strategy, and use your position to fight for freedom and justice in the galaxy.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Han Solo (ESTP)",
+      "description": "You're Han Solo—the charismatic, spontaneous ESTP! Like Han, you're outgoing, practical, and a rogue with a heart of gold. You trust your instincts, live for the moment, and use your quick wit and piloting skills to get out of (and into) trouble across the galaxy.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Yoda (INFJ)",
+      "description": "You're Yoda—the wise, compassionate INFJ! Like Yoda, you're private, visionary, and a master of the Force who sees beyond the present moment. You speak in cryptic wisdom, value patience and discipline, and guide others to discover their true potential through gentle mentorship.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Obi-Wan Kenobi (ISFJ)",
+      "description": "You're Obi-Wan Kenobi—the loyal, protective ISFJ! Like Obi-Wan, you're private, kind, and a steadfast guardian who honors your promises and protects those in your care. You follow the Jedi Code, use your wisdom and experience to guide others, and face adversity with calm resolve and quiet courage.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Emperor Palpatine (ENTJ)",
+      "description": "You're Emperor Palpatine—the manipulative, strategic ENTJ! Like Palpatine, you're outgoing, strategic, and a master of manipulation who craves power and control. You have a long-term vision for the galaxy, use others as pawns in your grand plan, and stop at nothing to achieve ultimate power.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Rey (ESFP)",
+      "description": "You're Rey—the resilient, energetic ESFP! Like Rey, you're outgoing, spontaneous, and a scavenger with hidden Force abilities. You adapt quickly to new situations, trust your instincts in combat, and discover your true identity and purpose through action and adventure across the galaxy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Kylo Ren (INFP)",
+      "description": "You're Kylo Ren—the conflicted, idealistic INFP! Like Kylo, you're private, emotional, and torn between the light and dark sides of the Force. You struggle with your identity and legacy, crave connection and purpose, and make impulsive decisions driven by your deep emotional inner world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Chewbacca (ISFP)",
+      "description": "You're Chewbacca—the loyal, gentle ISFP! Like Chewie, you're private, practical, and a fierce warrior who values loyalty above all else. You communicate without words, protect your friends with your life, and use your strength and technical skills to help the rebellion fight the Empire.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Padmé Amidala (ENFJ)",
+      "description": "You're Padmé Amidala—the compassionate, charismatic ENFJ! Like Padmé, you're outgoing, compassionate, and a skilled diplomat who fights for peace and justice. You use your charisma and influence to inspire others, balance your public duty with private love, and stand up for what's right even in the face of danger.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Boba Fett (ISTJ)",
+      "description": "You're Boba Fett—the disciplined, practical ISTJ! Like Boba, you're private, responsible, and a bounty hunter who values honor, rules, and getting the job done. You follow your code of honor, use precise tactics and equipment, and complete your missions with ruthless efficiency and professionalism.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Lando Calrissian (ENTP)",
+      "description": "You're Lando Calrissian—the charming, creative ENTP! Like Lando, you're outgoing, creative, and a smooth-talking gambler who always has a plan (or three). You adapt to changing circumstances, use your charisma and wit to get what you want, and ultimately choose to do the right thing when it matters most.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Mace Windu (ESTJ)",
+      "description": "You're Mace Windu—the strong, principled ESTJ! Like Mace, you're outgoing, practical, and a Jedi Master who values discipline and justice. You're a skilled lightsaber duelist, trust in the Jedi Code, and aren't afraid to make tough decisions to protect the galaxy from the dark side.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Ahsoka Tano (ENFP)",
+      "description": "You're Ahsoka Tano—the independent, optimistic ENFP! Like Ahsoka, you're outgoing, creative, and a former Jedi who carves her own path in the galaxy. You question authority, trust your moral compass, and use your Jedi training to help others while staying true to your own values and beliefs.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Count Dooku (INTP)",
+      "description": "You're Count Dooku—the intellectual, skeptical INTP! Like Dooku, you're private, analytical, and a former Jedi who becomes disillusioned with the Jedi Order. You question the status quo, believe in a different vision for the galaxy, and use your intelligence and lightsaber skills to challenge the established order.",
+      "mbti": "INTP"
+    }
+  ]
+}

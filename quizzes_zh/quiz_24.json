@@ -1,0 +1,853 @@
+{
+  "quizId": 24,
+  "title": "Which Animal Spirit Matches Your MBTI?",
+  "category": "which",
+  "tags": [
+    "Spirit Animal",
+    "MBTI",
+    "Personality",
+    "Nature",
+    "Symbolism"
+  ],
+  "description": "Answer 12 soulful questions to discover which animal spirit perfectly matches your MBTI personality type—connect with your wild side!",
+  "questions": [
+    {
+      "text": "Your natural habitat is...",
+      "options": [
+        {
+          "text": "Open savanna",
+          "score": "E"
+        },
+        {
+          "text": "Deep forest",
+          "score": "I"
+        },
+        {
+          "text": "Solid ground",
+          "score": "S"
+        },
+        {
+          "text": "Wide sky",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach life by...",
+      "options": [
+        {
+          "text": "Embracing community",
+          "score": "F"
+        },
+        {
+          "text": "Strategic thinking",
+          "score": "T"
+        },
+        {
+          "text": "Steady persistence",
+          "score": "J"
+        },
+        {
+          "text": "Adaptive curiosity",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your defense mechanism is...",
+      "options": [
+        {
+          "text": "Bold display",
+          "score": "E"
+        },
+        {
+          "text": "Camouflage/hiding",
+          "score": "I"
+        },
+        {
+          "text": "Physical strength",
+          "score": "S"
+        },
+        {
+          "text": "Clever evasion",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You hunt/gather by...",
+      "options": [
+        {
+          "text": "Pack cooperation",
+          "score": "F"
+        },
+        {
+          "text": "Solitary precision",
+          "score": "T"
+        },
+        {
+          "text": "Reliable methods",
+          "score": "J"
+        },
+        {
+          "text": "Creative strategies",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your social structure is...",
+      "options": [
+        {
+          "text": "Large herd/pack",
+          "score": "E"
+        },
+        {
+          "text": "Solitary/pair",
+          "score": "I"
+        },
+        {
+          "text": "Tight family unit",
+          "score": "S"
+        },
+        {
+          "text": "Loose association",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You communicate by...",
+      "options": [
+        {
+          "text": "Vocal expressions",
+          "score": "F"
+        },
+        {
+          "text": "Subtle signals",
+          "score": "T"
+        },
+        {
+          "text": "Consistent patterns",
+          "score": "J"
+        },
+        {
+          "text": "Creative sounds",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your movement style is...",
+      "options": [
+        {
+          "text": "Energetic and social",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and deliberate",
+          "score": "I"
+        },
+        {
+          "text": "Steady and purposeful",
+          "score": "S"
+        },
+        {
+          "text": "Graceful and free",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle threats by...",
+      "options": [
+        {
+          "text": "Confront directly",
+          "score": "F"
+        },
+        {
+          "text": "Analyze and avoid",
+          "score": "T"
+        },
+        {
+          "text": "Stand ground",
+          "score": "J"
+        },
+        {
+          "text": "Adapt and escape",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your strength is...",
+      "options": [
+        {
+          "text": "Charisma/leadership",
+          "score": "E"
+        },
+        {
+          "text": "Intelligence/strategy",
+          "score": "I"
+        },
+        {
+          "text": "Physical power",
+          "score": "S"
+        },
+        {
+          "text": "Intuition/vision",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You rest by...",
+      "options": [
+        {
+          "text": "Group safety",
+          "score": "F"
+        },
+        {
+          "text": "Solitary security",
+          "score": "T"
+        },
+        {
+          "text": "Familiar den",
+          "score": "J"
+        },
+        {
+          "text": "Random spots",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your sensory focus is...",
+      "options": [
+        {
+          "text": "Sight",
+          "score": "E"
+        },
+        {
+          "text": "Hearing",
+          "score": "I"
+        },
+        {
+          "text": "Touch",
+          "score": "S"
+        },
+        {
+          "text": "Intuition",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You adapt to seasons by...",
+      "options": [
+        {
+          "text": "Migration",
+          "score": "F"
+        },
+        {
+          "text": "Hibernation",
+          "score": "T"
+        },
+        {
+          "text": "Endurance",
+          "score": "J"
+        },
+        {
+          "text": "Adaptation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mating style is...",
+      "options": [
+        {
+          "text": "Vivid displays",
+          "score": "E"
+        },
+        {
+          "text": "Quiet connection",
+          "score": "I"
+        },
+        {
+          "text": "Lifelong pair",
+          "score": "S"
+        },
+        {
+          "text": "Varied partners",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You raise young by...",
+      "options": [
+        {
+          "text": "Community care",
+          "score": "F"
+        },
+        {
+          "text": "Solitary teaching",
+          "score": "T"
+        },
+        {
+          "text": "Structured protection",
+          "score": "J"
+        },
+        {
+          "text": "Creative guidance",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your territory style is...",
+      "options": [
+        {
+          "text": "Open and shared",
+          "score": "E"
+        },
+        {
+          "text": "Private and defended",
+          "score": "I"
+        },
+        {
+          "text": "Well-defined",
+          "score": "S"
+        },
+        {
+          "text": "Boundless",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You solve problems by...",
+      "options": [
+        {
+          "text": "Group brainstorming",
+          "score": "F"
+        },
+        {
+          "text": "Independent analysis",
+          "score": "T"
+        },
+        {
+          "text": "Proven methods",
+          "score": "J"
+        },
+        {
+          "text": "Innovative approaches",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your daily rhythm is...",
+      "options": [
+        {
+          "text": "Diurnal/social",
+          "score": "E"
+        },
+        {
+          "text": "Nocturnal/solitary",
+          "score": "I"
+        },
+        {
+          "text": "Consistent pattern",
+          "score": "S"
+        },
+        {
+          "text": "Irregular/curious",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express joy by...",
+      "options": [
+        {
+          "text": "Playful interaction",
+          "score": "F"
+        },
+        {
+          "text": "Quiet contentment",
+          "score": "T"
+        },
+        {
+          "text": "Familiar rituals",
+          "score": "J"
+        },
+        {
+          "text": "Exploratory behavior",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your food source is...",
+      "options": [
+        {
+          "text": "Varied/social hunting",
+          "score": "E"
+        },
+        {
+          "text": "Specialized/solitary",
+          "score": "I"
+        },
+        {
+          "text": "Reliable/consistent",
+          "score": "S"
+        },
+        {
+          "text": "Creative/opportunistic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle change by...",
+      "options": [
+        {
+          "text": "Embrace together",
+          "score": "F"
+        },
+        {
+          "text": "Analyze and adjust",
+          "score": "T"
+        },
+        {
+          "text": "Resist initially",
+          "score": "J"
+        },
+        {
+          "text": "Adapt quickly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your symbolic meaning is...",
+      "options": [
+        {
+          "text": "Leadership/courage",
+          "score": "E"
+        },
+        {
+          "text": "Wisdom/intuition",
+          "score": "I"
+        },
+        {
+          "text": "Strength/stability",
+          "score": "S"
+        },
+        {
+          "text": "Freedom/vision",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You interact with humans by...",
+      "options": [
+        {
+          "text": "Bold presence",
+          "score": "F"
+        },
+        {
+          "text": "Wary observation",
+          "score": "T"
+        },
+        {
+          "text": "Practical avoidance",
+          "score": "J"
+        },
+        {
+          "text": "Curious distance",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your water relationship is...",
+      "options": [
+        {
+          "text": "Surface play",
+          "score": "E"
+        },
+        {
+          "text": "Deep diving",
+          "score": "I"
+        },
+        {
+          "text": "Shallow wading",
+          "score": "S"
+        },
+        {
+          "text": "Aerial perspective",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You learn by...",
+      "options": [
+        {
+          "text": "Observation of others",
+          "score": "F"
+        },
+        {
+          "text": "Independent trial",
+          "score": "T"
+        },
+        {
+          "text": "Repetitive practice",
+          "score": "J"
+        },
+        {
+          "text": "Creative experimentation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your predatory style (if applicable) is...",
+      "options": [
+        {
+          "text": "Ambush",
+          "score": "E"
+        },
+        {
+          "text": "Stalking",
+          "score": "I"
+        },
+        {
+          "text": "Persistence",
+          "score": "S"
+        },
+        {
+          "text": "Strategy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You respond to praise/affection by...",
+      "options": [
+        {
+          "text": "Energetic appreciation",
+          "score": "F"
+        },
+        {
+          "text": "Quiet acceptance",
+          "score": "T"
+        },
+        {
+          "text": "Consistent loyalty",
+          "score": "J"
+        },
+        {
+          "text": "Playful response",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your natural enemy is...",
+      "options": [
+        {
+          "text": "Dominant predators",
+          "score": "E"
+        },
+        {
+          "text": "Clever hunters",
+          "score": "I"
+        },
+        {
+          "text": "Strong competitors",
+          "score": "S"
+        },
+        {
+          "text": "Environmental changes",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You navigate by...",
+      "options": [
+        {
+          "text": "Landmarks",
+          "score": "F"
+        },
+        {
+          "text": "Stars/sun",
+          "score": "T"
+        },
+        {
+          "text": "Familiar paths",
+          "score": "J"
+        },
+        {
+          "text": "Intuition",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your fur/feather/skin is...",
+      "options": [
+        {
+          "text": "Vivid colors",
+          "score": "E"
+        },
+        {
+          "text": "Camouflage",
+          "score": "I"
+        },
+        {
+          "text": "Thick/protective",
+          "score": "S"
+        },
+        {
+          "text": "Unique patterns",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You contribute to ecosystem by...",
+      "options": [
+        {
+          "text": "Keystone species",
+          "score": "F"
+        },
+        {
+          "text": "Balanced predator",
+          "score": "T"
+        },
+        {
+          "text": "Consistent grazer",
+          "score": "J"
+        },
+        {
+          "text": "Adaptive survivor",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your sleep pattern is...",
+      "options": [
+        {
+          "text": "Short/naps",
+          "score": "E"
+        },
+        {
+          "text": "Long/deep",
+          "score": "I"
+        },
+        {
+          "text": "Regular schedule",
+          "score": "S"
+        },
+        {
+          "text": "Irregular/restless",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle injury/sickness by...",
+      "options": [
+        {
+          "text": "Community support",
+          "score": "F"
+        },
+        {
+          "text": "Solitary recovery",
+          "score": "T"
+        },
+        {
+          "text": "Rest and routine",
+          "score": "J"
+        },
+        {
+          "text": "Adapt and survive",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your natural talent is...",
+      "options": [
+        {
+          "text": "Communication",
+          "score": "E"
+        },
+        {
+          "text": "Problem-solving",
+          "score": "I"
+        },
+        {
+          "text": "Endurance",
+          "score": "S"
+        },
+        {
+          "text": "Innovation",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach play by...",
+      "options": [
+        {
+          "text": "Social games",
+          "score": "F"
+        },
+        {
+          "text": "Solitary challenges",
+          "score": "T"
+        },
+        {
+          "text": "Familiar activities",
+          "score": "J"
+        },
+        {
+          "text": "Creative exploration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your life philosophy is...",
+      "options": [
+        {
+          "text": "Community",
+          "score": "E"
+        },
+        {
+          "text": "Independence",
+          "score": "I"
+        },
+        {
+          "text": "Stability",
+          "score": "S"
+        },
+        {
+          "text": "Freedom",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You balance instinct and intelligence by...",
+      "options": [
+        {
+          "text": "Heart-led",
+          "score": "F"
+        },
+        {
+          "text": "Mind-led",
+          "score": "T"
+        },
+        {
+          "text": "Routine-led",
+          "score": "J"
+        },
+        {
+          "text": "Intuition-led",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Wolf (ENFJ)",
+      "description": "Your spirit animal is the Wolf (ENFJ)—the loyal, social leader of the animal kingdom who values community, loyalty, and protection above all else. Like the wolf, you're outgoing, compassionate, and a natural leader who thrives in pack settings and will protect your loved ones fiercely.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Owl (INTP)",
+      "description": "Your spirit animal is the Owl (INTP)—the wise, solitary observer who sees what others miss and values knowledge and insight above all else. Like the owl, you're private, analytical, and possess incredible wisdom and intuition.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Bear (ISFJ)",
+      "description": "Your spirit animal is the Bear (ISFJ)—the strong, nurturing protector who values family, stability, and inner strength. You're reliable, gentle, and fiercely loyal to those you love.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Eagle (INTJ)",
+      "description": "Your spirit animal is the Eagle (INTJ)—the visionary, strategic hunter who values freedom, vision, and purpose. You soar above the fray and see the big picture clearly.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Deer (ESFP)",
+      "description": "Your spirit animal is the Deer (ESFP)—the gentle, social creature who values beauty, connection, and living in the moment. You're graceful, warm, and bring lightness everywhere you go.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Fox (ENTP)",
+      "description": "Your spirit animal is the Fox (ENTP)—the clever, adaptable trickster who values intelligence, creativity, and freedom. You're witty, quick-thinking, and always find a way.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Dolphin (ENFP)",
+      "description": "Your spirit animal is the Dolphin (ENFP)—the joyful, social free spirit who values connection, play, and curiosity. You're friendly, optimistic, and live life with a big heart.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Cat (INFP)",
+      "description": "Your spirit animal is the Cat (INFP)—the independent, mysterious dreamer who values authenticity, comfort, and inner peace. You're gentle, intuitive, and beautifully unique.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Horse (ESFJ)",
+      "description": "Your spirit animal is the Horse (ESFJ)—the loyal, social companion who values partnership, trust, and adventure. You're reliable, warm, and carry others with grace.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Lion (ESTJ)",
+      "description": "Your spirit animal is the Lion (ESTJ)—the bold, noble leader who values courage, strength, and order. You're confident, protective, and naturally command respect.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Snake (ISTJ)",
+      "description": "Your spirit animal is the Snake (ISTJ)—the wise, patient transformer who values renewal, intuition, and stealth. You shed what no longer serves you and grow quietly powerful.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Shark (ENTJ)",
+      "description": "Your spirit animal is the Shark (ENTJ)—the determined, focused predator who values ambition, efficiency, and success. You're driven, decisive, and unstoppable.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Rabbit (ISFP)",
+      "description": "Your spirit animal is the Rabbit (ISFP)—the gentle, sensitive soul who values kindness, awareness, and quickness of heart. You're compassionate, alert, and full of quiet courage.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Hawk (ISTP)",
+      "description": "Your spirit animal is the Hawk (ISTP)—the sharp, observant hunter who values focus, precision, and independence. You see details others miss and act with calm skill.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Whale (INFJ)",
+      "description": "Your spirit animal is the Whale (INFJ)—the deep, ancient soul who values wisdom, emotion, and connection to the collective. You carry deep knowing and gentle power.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Butterfly (ESTP)",
+      "description": "Your spirit animal is the Butterfly (ESTP)—the vibrant, free spirit who values transformation, joy, and beauty. You live boldly, change gracefully, and light up the world.",
+      "mbti": "ESTP"
+    }
+  ]
+}

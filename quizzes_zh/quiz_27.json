@@ -1,0 +1,363 @@
+{
+  "quizId": 27,
+  "title": "Which SZA Song Matches Your Personality?",
+  "category": "which_x",
+  "category_name": "Which X Are You?",
+  "language": "English",
+  "description": "哪首SZA歌曲与你的心情最匹配？回答问题，发现你的音乐心情！",
+  "tags": [
+    "SZA",
+    "Music",
+    "Personality",
+    "MBTI",
+    "R&B"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Your ideal Friday night is...",
+      "options": [
+        {
+          "text": "Going to a club or party with friends",
+          "score": "E"
+        },
+        {
+          "text": "Cozy night in with a good playlist",
+          "score": "I"
+        },
+        {
+          "text": "A romantic dinner date",
+          "score": "F"
+        },
+        {
+          "text": "Working on your passion project",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When you're sad, you...",
+      "options": [
+        {
+          "text": "Put on SZA and cry it out",
+          "score": "F"
+        },
+        {
+          "text": "Keep busy to distract yourself",
+          "score": "E"
+        },
+        {
+          "text": "Journal and reflect privately",
+          "score": "I"
+        },
+        {
+          "text": "Analyze why you feel this way",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your friends come to you for...",
+      "options": [
+        {
+          "text": "Honest advice, even if it's hard to hear",
+          "score": "T"
+        },
+        {
+          "text": "A shoulder to cry on and empathy",
+          "score": "F"
+        },
+        {
+          "text": "Fun and good vibes",
+          "score": "E"
+        },
+        {
+          "text": "Deep philosophical discussions",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "In a relationship, you...",
+      "options": [
+        {
+          "text": "Give your all but keep some independence",
+          "score": "N"
+        },
+        {
+          "text": "Go all in - full commitment",
+          "score": "F"
+        },
+        {
+          "text": "Take it slow and see where it goes",
+          "score": "P"
+        },
+        {
+          "text": "Want clear labels and expectations",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your go-to karaoke song is...",
+      "options": [
+        {
+          "text": "An emotional ballad",
+          "score": "F"
+        },
+        {
+          "text": "An upbeat banger to get the crowd hype",
+          "score": "E"
+        },
+        {
+          "text": "Something chill I can sing along to",
+          "score": "I"
+        },
+        {
+          "text": "A rap verse to show off",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When someone ghosts you, you...",
+      "options": [
+        {
+          "text": "Blast 'Kill Bill' and feel empowered",
+          "score": "T"
+        },
+        {
+          "text": "Listen to 'Good Days' and process it",
+          "score": "F"
+        },
+        {
+          "text": "Move on quickly - their loss",
+          "score": "E"
+        },
+        {
+          "text": "Analyze what went wrong",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Your aesthetic is best described as...",
+      "options": [
+        {
+          "text": "Effortlessly cool - denim and sneakers",
+          "score": "S"
+        },
+        {
+          "text": "Moody and mysterious - all black",
+          "score": "N"
+        },
+        {
+          "text": "Vibrant and bold - making statements",
+          "score": "E"
+        },
+        {
+          "text": "Comfortable and cozy - loungewear queen",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "You make decisions based on...",
+      "options": [
+        {
+          "text": "How it makes you feel emotionally",
+          "score": "F"
+        },
+        {
+          "text": "What's logically the best choice",
+          "score": "T"
+        },
+        {
+          "text": "What feels right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "How it aligns with your values",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Your perfect Sunday is...",
+      "options": [
+        {
+          "text": "Self-care day - face mask, journaling, SZA",
+          "score": "I"
+        },
+        {
+          "text": "Brunch with a big group of friends",
+          "score": "E"
+        },
+        {
+          "text": "Working on your side hustle",
+          "score": "J"
+        },
+        {
+          "text": "Exploring a new city or activity",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When someone asks what you're up to, you usually say...",
+      "options": [
+        {
+          "text": "Just vibing (even if you're overthinking)",
+          "score": "N"
+        },
+        {
+          "text": "Working on myself",
+          "score": "I"
+        },
+        {
+          "text": "Same old, what about you?",
+          "score": "S"
+        },
+        {
+          "text": "Something exciting I'm planning!",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your love language is...",
+      "options": [
+        {
+          "text": "Quality time - being present together",
+          "score": "F"
+        },
+        {
+          "text": "Words of affirmation - telling me how you feel",
+          "score": "F"
+        },
+        {
+          "text": "Physical touch - cuddles and affection",
+          "score": "E"
+        },
+        {
+          "text": "Acts of service - doing things for me",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When you're in your feels, you...",
+      "options": [
+        {
+          "text": "Write something - poem, journal, lyrics",
+          "score": "N"
+        },
+        {
+          "text": "Call your best friend",
+          "score": "E"
+        },
+        {
+          "text": "Listen to music and sit with it",
+          "score": "I"
+        },
+        {
+          "text": "Channel it into productivity",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "mbtiType": "INFP",
+      "title": "20 Something (INFP)",
+      "description": "You're '20 Something' - navigating life's big questions with vulnerability and grace. You're reflective, creative, and not afraid to feel deeply."
+    },
+    {
+      "mbtiType": "INFJ",
+      "title": "Good Days (INFJ)",
+      "description": "You're 'Good Days' - finding hope even in difficult times. You're introspective and always searching for peace."
+    },
+    {
+      "mbtiType": "ENFP",
+      "title": "Kiss Me More (ENFP)",
+      "description": "You're 'Kiss Me More' - playful, romantic, and bring energy to relationships. You love connection and intimacy."
+    },
+    {
+      "mbtiType": "ENFJ",
+      "title": "The Weekend (ENFJ)",
+      "description": "You're 'The Weekend' - the generous lover who puts others first. You shine when helping and supporting your people."
+    },
+    {
+      "mbtiType": "INTJ",
+      "title": "Kill Bill (INTJ)",
+      "description": "You're 'Kill Bill' - strategic and calculated. When someone wrongs you, you plan your revenge methodically."
+    },
+    {
+      "mbtiType": "INTP",
+      "title": "Normal Girl (INTP)",
+      "description": "You're 'Normal Girl' - marching to your own beat. You don't conform to expectations and embrace your uniqueness."
+    },
+    {
+      "mbtiType": "ENTP",
+      "title": "Snooze (ENTP)",
+      "description": "You're 'Snooze' - keeping people on their toes. Dynamic, unpredictable, and always bringing fresh perspectives."
+    },
+    {
+      "mbtiType": "ENTJ",
+      "title": "Power is Hard (ENTJ)",
+      "description": "You're 'Power is Hard' - ambitious and unapologetic about your goals. You know what you want and go for it."
+    },
+    {
+      "mbtiType": "ISFP",
+      "title": "Blinks (ISFP)",
+      "description": "You're 'Blinks' - artistic and sensitive. You express yourself through creativity and value your personal space."
+    },
+    {
+      "mbtiType": "ISTP",
+      "title": "Shirt (ISTP)",
+      "description": "You're 'Shirt' - cool under pressure. You keep your emotions in check and stay composed in tough situations."
+    },
+    {
+      "mbtiType": "ESFP",
+      "title": "PSA (ESFP)",
+      "description": "You're 'PSA' - bold and unapologetic. You speak your truth loudly and don't care what others think."
+    },
+    {
+      "mbtiType": "ESTP",
+      "title": "F2F (ESTP)",
+      "description": "You're 'F2F' - direct and bold. You never shy away from tough conversations and value honesty."
+    },
+    {
+      "mbtiType": "ISFJ",
+      "title": "Ghost in the Ghost (ISFJ)",
+      "description": "You're 'Ghost in the Ghost' - nurturing and protective. You're always there for your people, often putting their needs first."
+    },
+    {
+      "mbtiType": "ISTJ",
+      "title": "Too Well (ISTJ)",
+      "description": "You're 'Too Well' - loyal and consistent. You show up for your people and remember the important details."
+    },
+    {
+      "mbtiType": "ESFJ",
+      "title": "Love Language (ESFJ)",
+      "description": "You're 'Love Language' - affectionate and devoted. You express care through actions and being present."
+    },
+    {
+      "mbtiType": "ESTJ",
+      "title": "Die Tryin (ESTJ)",
+      "description": "You're 'Die Tryin' - driven and determined. You're always working toward your goals and never give up."
+    }
+  ]
+}
