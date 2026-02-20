@@ -1,0 +1,131 @@
+{
+  "title": "What's Your Secret Personality Type?",
+  "type": "hidden",
+  "category": "hidden",
+  "description": "Discover the hidden side of your personality that you rarely show to others",
+  "resultTitle": "Your Secret Personality",
+  "questions": [
+    {
+      "id": 1,
+      "text": "When you're alone and no one is watching, you usually:",
+      "options": [
+        { "id": "a", "text": "Daydream about different lives", "scores": {"dreamer": 3, "realist": 0, "rebel": 1, "nurturer": 0} },
+        { "id": "b", "text": "Organize and plan everything", "scores": {"dreamer": 0, "realist": 3, "rebel": 0, "nurturer": 1} },
+        { "id": "c", "text": "Do something rebellious or spontaneous", "scores": {"dreamer": 1, "realist": 0, "rebel": 3, "nurturer": 0} },
+        { "id": "d", "text": "Take care of tasks you've been putting off", "scores": {"dreamer": 0, "realist": 1, "rebel": 0, "nurturer": 3} }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Your friends would be surprised to learn you:",
+      "options": [
+        { "id": "a", "text": "Believe in soulmates and love at first sight", "scores": {"dreamer": 3, "realist": 0, "rebel": 0, "nurturer": 1} },
+        { "id": "b", "text": "Have a detailed 5-year plan", "scores": {"dreamer": 0, "realist": 3, "rebel": 0, "nurturer": 1} },
+        { "id": "c", "text": "Have broken rules they wouldn't expect", "scores": {"dreamer": 0, "realist": 0, "rebel": 3, "nurturer": 1} },
+        { "id": "d", "text": "Spend hours helping strangers anonymously", "scores": {"dreamer": 1, "realist": 0, "rebel": 0, "nurturer": 3} }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "If you could have any secret superpower, you'd choose:",
+      "options": [
+        { "id": "a", "text": "Reading minds to understand everyone's true feelings", "scores": {"dreamer": 2, "realist": 1, "rebel": 1, "nurturer": 1} },
+        { "id": "b", "text": "Stopping time to get everything done", "scores": {"dreamer": 0, "realist": 3, "rebel": 1, "nurturer": 0} },
+        { "id": "c", "text": "Invisibility to go anywhere unnoticed", "scores": {"dreamer": 1, "realist": 0, "rebel": 3, "nurturer": 0} },
+        { "id": "d", "text": "Healing any wound or illness", "scores": {"dreamer": 1, "realist": 0, "rebel": 0, "nurturer": 3} }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "The thing you hide most from others is:",
+      "options": [
+        { "id": "a", "text": "How deeply you feel things", "scores": {"dreamer": 3, "realist": 0, "rebel": 1, "nurturer": 1} },
+        { "id": "b", "text": "How much you worry about the future", "scores": {"dreamer": 1, "realist": 3, "rebel": 0, "nurturer": 0} },
+        { "id": "c", "text": "The wild decisions you've made in the past", "scores": {"dreamer": 0, "realist": 0, "rebel": 3, "nurturer": 1} },
+        { "id": "d", "text": "How much you care about what people think", "scores": {"dreamer": 1, "realist": 1, "rebel": 0, "nurturer": 2} }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "When nobody expects anything of you, you secretly want to:",
+      "options": [
+        { "id": "a", "text": "Write a novel or create something artistic", "scores": {"dreamer": 3, "realist": 0, "rebel": 1, "nurturer": 0} },
+        { "id": "b", "text": "Build something that lasts forever", "scores": {"dreamer": 0, "realist": 3, "rebel": 0, "nurturer": 1} },
+        { "id": "c", "text": "Run away and start fresh somewhere new", "scores": {"dreamer": 1, "realist": 0, "rebel": 3, "nurturer": 0} },
+        { "id": "d", "text": "Help someone who really needs it", "scores": {"dreamer": 0, "realist": 0, "rebel": 0, "nurturer": 3} }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Your guilty pleasure that you'd never admit publicly:",
+      "options": [
+        { "id": "a", "text": "Watching romantic comedies alone", "scores": {"dreamer": 3, "realist": 0, "rebel": 0, "nurturer": 1} },
+        { "id": "b", "text": "Reading self-help books obsessively", "scores": {"dreamer": 0, "realist": 3, "rebel": 0, "nurturer": 1} },
+        { "id": "c", "text": "Doing something your parents would disapprove of", "scores": {"dreamer": 0, "realist": 0, "rebel": 3, "nurturer": 0} },
+        { "id": "d", "text": "Binge-eating comfort food while watching sad movies", "scores": {"dreamer": 1, "realist": 0, "rebel": 1, "nurturer": 2} }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "The secret reason you do things is usually:",
+      "options": [
+        { "id": "a", "text": "Because it feels right in your heart", "scores": {"dreamer": 3, "realist": 0, "rebel": 0, "nurturer": 1} },
+        { "id": "b", "text": "Because it makes logical sense", "scores": {"dreamer": 0, "realist": 3, "rebel": 0, "nurturer": 1} },
+        { "id": "c", "text": "Because you're curious what happens", "scores": {"dreamer": 1, "realist": 0, "rebel": 3, "nurturer": 0} },
+        { "id": "d", "text": "Because someone you love would benefit", "scores": {"dreamer": 0, "realist": 0, "rebel": 0, "nurturer": 3} }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "If your life was a movie, the secret twist would be:",
+      "options": [
+        { "id": "a", "text": "You're actually a romantic at heart", "scores": {"dreamer": 3, "realist": 0, "rebel": 1, "nurturer": 0} },
+        { "id": "b", "text": "You've been planning something big all along", "scores": {"dreamer": 0, "realist": 3, "rebel": 0, "nurturer": 1} },
+        { "id": "c", "text": "You've been rebelling against your true self", "scores": {"dreamer": 1, "realist": 0, "rebel": 3, "nurturer": 0} },
+        { "id": "d", "text": "Your greatest strength is your capacity to love", "scores": {"dreamer": 1, "realist": 0, "rebel": 0, "nurturer": 3} }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "The version of yourself you show to the world vs. alone:",
+      "options": [
+        { "id": "a", "text": "Practical by day, dreamer by night", "scores": {"dreamer": 2, "realist": 2, "rebel": 0, "nurturer": 0} },
+        { "id": "b", "text": "Spontaneous by day, planner by night", "scores": {"dreamer": 1, "realist": 2, "rebel": 1, "nurturer": 0} },
+        { "id": "c", "text": "Serious by day, rebel by night", "scores": {"dreamer": 0, "realist": 1, "rebel": 2, "nurturer": 1} },
+        { "id": "d", "text": "Independent by day, clingy by night", "scores": {"dreamer": 1, "realist": 0, "rebel": 1, "nurturer": 2} }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Your hidden talent that nobody knows about:",
+      "options": [
+        { "id": "a", "text": "You can write incredibly moving poetry", "scores": {"dreamer": 3, "realist": 0, "rebel": 0, "nurturer": 1} },
+        { "id": "b", "text": "You can solve complex problems instantly", "scores": {"dreamer": 0, "realist": 3, "rebel": 1, "nurturer": 0} },
+        { "id": "c", "text": "You can talk your way out of any situation", "scores": {"dreamer": 0, "realist": 0, "rebel": 3, "nurturer": 1} },
+        { "id": "d", "text": "You can make anyone feel better instantly", "scores": {"dreamer": 1, "realist": 0, "rebel": 0, "nurturer": 3} }
+      ]
+    }
+  ],
+  "results": {
+    "dreamer": {
+      "title": "The Hidden Dreamer",
+      "description": "Beneath your practical exterior lies a romantic soul who believes in soulmates, fate, and fairy-tale endings. You may act tough in public, but privately you're a hopeless dreamer who cries at love stories and believes everything happens for a reason.",
+      "emoji": "🌙"
+    },
+    "realist": {
+      "title": "The Secret Strategist",
+      "description": "While others see you as laid-back, you're actually quietly planning your path to success. You have contingency plans for your contingency plans. Your hidden side is a calculating mind that's always three steps ahead.",
+      "emoji": "🎯"
+    },
+    "rebel": {
+      "title": "The Silent Rebel",
+      "description": "You present yourself as agreeable and conformist, but your private self is wild and unpredictable. You've broken rules others would never imagine. Your hidden side craves chaos and freedom more than anything.",
+      "emoji": "⚡"
+    },
+    "nurturer": {
+      "title": "The Hidden Nurturer",
+      "description": "You project independence and self-sufficiency, but inside you're someone who cares deeply about everyone. You would sacrifice anything for the people you love. Your hidden side is a bottomless well of compassion.",
+      "emoji": "💝"
+    }
+  }
+}
