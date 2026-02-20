@@ -1,0 +1,126 @@
+{
+  "title": "Which Plant Spirit Is Your Soulmate?",
+  "title_zh": "你的植物精灵灵魂伴侣是谁？",
+  "description": "Discover the plant spirit that resonates with your inner soul",
+  "description_zh": "发现与你内心灵魂产生共鸣的植物精灵",
+  "questions": [
+    {
+      "question": "How do you prefer to spend your weekends?",
+      "question_zh": "你更喜欢如何度过周末？",
+      "options": [
+        {"option": "Exploring nature and hiking", "option_zh": "探索自然和徒步旅行", "scores": {"oak": 3, "willow": 2, "sunflower": 1, "bamboo": 1, "rose": 0, "lavender": 2, "maple": 2, "cherry": 1, "cactus": 0}},
+        {"option": "Reading and reflecting at home", "option_zh": "在家阅读和沉思", "scores": {"oak": 1, "willow": 3, "sunflower": 1, "bamboo": 1, "rose": 2, "lavender": 3, "maple": 2, "cherry": 2, "cactus": 0}},
+        {"option": "Socializing with friends", "option_zh": "与朋友社交", "scores": {"oak": 1, "willow": 1, "sunflower": 3, "bamboo": 2, "rose": 2, "lavender": 1, "maple": 2, "cherry": 3, "cactus": 0}},
+        {"option": "Working on creative projects", "option_zh": "从事创意项目", "scores": {"oak": 1, "willow": 1, "sunflower": 2, "bamboo": 3, "rose": 2, "lavender": 2, "maple": 2, "cherry": 1, "cactus": 2}}
+      ]
+    },
+    {
+      "question": "What do you value most in life?",
+      "question_zh": "你在生活中最看重什么？",
+      "options": [
+        {"option": "Strength and stability", "option_zh": "力量与稳定", "scores": {"oak": 3, "willow": 1, "sunflower": 1, "bamboo": 2, "rose": 1, "lavender": 0, "maple": 2, "cherry": 1, "cactus": 2}},
+        {"option": "Beauty and passion", "option_zh": "美丽与热情", "scores": {"oak": 1, "willow": 2, "sunflower": 2, "bamboo": 1, "rose": 3, "lavender": 1, "maple": 1, "cherry": 2, "cactus": 1}},
+        {"option": "Peace and harmony", "option_zh": "平静与和谐", "scores": {"oak": 1, "willow": 3, "sunflower": 1, "bamboo": 2, "rose": 1, "lavender": 3, "maple": 2, "cherry": 1, "cactus": 0}},
+        {"option": "Growth and flexibility", "option_zh": "成长与灵活", "scores": {"oak": 1, "willow": 1, "sunflower": 2, "bamboo": 3, "rose": 1, "lavender": 1, "maple": 2, "cherry": 1, "cactus": 2}}
+      ]
+    },
+    {
+      "question": "How do you handle challenges?",
+      "question_zh": "你如何应对挑战？",
+      "options": [
+        {"option": "Face them head-on with determination", "option_zh": "坚定地直面挑战", "scores": {"oak": 3, "willow": 1, "sunflower": 2, "bamboo": 2, "rose": 2, "lavender": 0, "maple": 2, "cherry": 1, "cactus": 2}},
+        {"option": "Adapt and find creative solutions", "option_zh": "适应并找到创造性的解决方案", "scores": {"oak": 1, "willow": 2, "sunflower": 2, "bamboo": 3, "rose": 1, "lavender": 1, "maple": 2, "cherry": 1, "cactus": 2}},
+        {"option": "Stay patient and wait for the right moment", "option_zh": "保持耐心，等待合适的时机", "scores": {"oak": 1, "willow": 3, "sunflower": 1, "bamboo": 1, "rose": 1, "lavender": 3, "maple": 2, "cherry": 2, "cactus": 1}},
+        {"option": "Embrace change and go with the flow", "option_zh": "拥抱变化，顺其自然", "scores": {"oak": 1, "willow": 2, "sunflower": 2, "bamboo": 2, "rose": 2, "lavender": 2, "maple": 2, "cherry": 2, "cactus": 1}}
+      ]
+    },
+    {
+      "question": "Which environment makes you feel most at peace?",
+      "question_zh": "哪种环境让你感到最平静？",
+      "options": [
+        {"option": "Ancient forest with towering trees", "option_zh": "有高大树木的古老森林", "scores": {"oak": 3, "willow": 2, "sunflower": 1, "bamboo": 1, "rose": 0, "lavender": 1, "maple": 3, "cherry": 2, "cactus": 1}},
+        {"option": "Serene lakeside with weeping willows", "option_zh": "有垂柳的宁静湖边", "scores": {"oak": 1, "willow": 3, "sunflower": 1, "bamboo": 2, "rose": 1, "lavender": 2, "maple": 2, "cherry": 2, "cactus": 0}},
+        {"option": "Vibrant meadow under the sun", "option_zh": "阳光下充满活力的草地", "scores": {"oak": 1, "willow": 1, "sunflower": 3, "bamboo": 2, "rose": 2, "lavender": 1, "maple": 1, "cherry": 2, "cactus": 1}},
+        {"option": "Cozy garden with blooming flowers", "option_zh": "开满鲜花的温馨花园", "scores": {"oak": 1, "willow": 2, "sunflower": 2, "bamboo": 1, "rose": 3, "lavender": 2, "maple": 1, "cherry": 3, "cactus": 0}}
+      ]
+    },
+    {
+      "question": "What is your ideal way to relax?",
+      "question_zh": "你理想的放松方式是什么？",
+      "options": [
+        {"option": "Meditation in a quiet natural setting", "option_zh": "在安静的自然环境中冥想", "scores": {"oak": 2, "willow": 3, "sunflower": 1, "bamboo": 1, "rose": 1, "lavender": 3, "maple": 2, "cherry": 1, "cactus": 1}},
+        {"option": "Admiring beautiful things", "option_zh": "欣赏美好的事物", "scores": {"oak": 1, "willow": 2, "sunflower": 2, "bamboo": 1, "rose": 3, "lavender": 2, "maple": 1, "cherry": 3, "cactus": 0}},
+        {"option": "Being active outdoors", "option_zh": "在户外活动", "scores": {"oak": 2, "willow": 1, "sunflower": 3, "bamboo": 2, "rose": 1, "lavender": 1, "maple": 2, "cherry": 1, "cactus": 2}},
+        {"option": "Practicing mindfulness and inner work", "option_zh": "练习正念和内省", "scores": {"oak": 1, "willow": 2, "sunflower": 1, "bamboo": 2, "rose": 1, "lavender": 3, "maple": 2, "cherry": 1, "cactus": 2}}
+      ]
+    },
+    {
+      "question": "How would your friends describe you?",
+      "question_zh": "你的朋友会如何描述你？",
+      "options": [
+        {"option": "Reliable and strong", "option_zh": "可靠且坚强", "scores": {"oak": 3, "willow": 1, "sunflower": 2, "bamboo": 2, "rose": 1, "lavender": 0, "maple": 2, "cherry": 1, "cactus": 2}},
+        {"option": "Gentle and compassionate", "option_zh": "温柔且富有同情心", "scores": {"oak": 1, "willow": 3, "sunflower": 1, "bamboo": 1, "rose": 2, "lavender": 3, "maple": 2, "cherry": 2, "cactus": 0}},
+        {"option": "Bright and uplifting", "option_zh": "阳光且鼓舞人心", "scores": {"oak": 1, "willow": 1, "sunflower": 3, "bamboo": 2, "rose": 2, "lavender": 1, "maple": 1, "cherry": 2, "cactus": 1}},
+        {"option": "Gracious and elegant", "option_zh": "优雅且高贵", "scores": {"oak": 1, "willow": 2, "sunflower": 2, "bamboo": 1, "rose": 3, "lavender": 2, "maple": 1, "cherry": 3, "cactus": 0}}
+      ]
+    }
+  ],
+  "results": {
+    "oak": {
+      "result": "The Mighty Oak",
+      "result_zh": "伟岸橡树",
+      "description": "Like the ancient oak tree, you are strong, reliable, and deeply rooted. You provide stability for those around you and stand firm through life's storms. Your wisdom comes from experience, and your presence brings a sense of security and grounding.",
+      "description_zh": "如同古老的橡树，你坚强、可靠、根深蒂固。你为周围的人提供稳定性，在人生的风暴中屹立不倒。你的智慧来自经验，你的存在带来安全感和脚踏实地的感觉。"
+    },
+    "willow": {
+      "result": "The Graceful Willow",
+      "result_zh": "柔美垂柳",
+      "description": "The willow teaches us about flexibility and emotional depth. You flow with life's changes while staying deeply connected to your inner feelings. Your compassion and ability to adapt make you a comforting presence in any situation.",
+      "description_zh": "柳树教会我们灵活和情感深度。你随生活变化而流动，同时保持与内心感受的深层连接。你的同情心和适应能力使你在任何情况下都是一个令人安慰的存在。"
+    },
+    "sunflower": {
+      "result": "The Radiant Sunflower",
+      "result_zh": "灿烂向日葵",
+      "description": "You bring sunshine to everyone around you. Like the sunflower that always turns toward the light, you maintain a positive outlook and inspire others with your energy. Your warmth and optimism are contagious.",
+      "description_zh": "你为周围的每个人带来阳光。如同永远朝向光明的向日葵，你保持积极的态度，用你的能量激励他人。你的温暖和乐观具有感染力。"
+    },
+    "bamboo": {
+      "result": "The Flexible Bamboo",
+      "result_zh": "坚韧竹子",
+      "description": "Bamboo represents growth, flexibility, and resilience. You bend but never break, adapting to any situation with grace. Your creative energy and ability to thrive in different environments make you uniquely versatile.",
+      "description_zh": "竹子代表成长、灵活和韧性。你弯曲但从不折断，以优雅的方式适应任何情况。你的创造力和在不同环境中茁壮成长的能力使你变得独特多才。"
+    },
+    "rose": {
+      "result": "The Passionate Rose",
+      "result_zh": "热情玫瑰",
+      "description": "Like the rose, you embody beauty, passion, and romance. You aren't afraid to show your emotions and love deeply. Your elegance and charm draw others to you, and your thorns show you know how to protect yourself.",
+      "description_zh": "如同玫瑰，你体现美丽、热情和浪漫。你不怕展示自己的情感，爱得深沉。你的优雅和魅力吸引他人，而你的刺表明你知道如何保护自己。"
+    },
+    "lavender": {
+      "result": "The Calming Lavender",
+      "result_zh": "宁静薰衣草",
+      "description": "Lavender represents tranquility, healing, and inner peace. You have a calming presence that helps others relax and find balance. Your gentle nature and appreciation for life's simple pleasures make you a soothing soul.",
+      "description_zh": "薰衣草代表宁静、治愈和内心平静。你有冷静的存在感，帮助他人放松和找到平衡。你温柔的天性和对生活中简单事物的欣赏使你成为一个舒缓的灵魂。"
+    },
+    "maple": {
+      "result": "The Majestic Maple",
+      "result_zh": "雄伟枫树",
+      "description": "Like the maple tree that changes beautifully with seasons, you embrace transformation and growth. You are both strong and beautiful, with layers of depth that reveal themselves over time. Your adaptability is your superpower.",
+      "description_zh": "如同随季节变换而美丽变化的枫树，你拥抱转变和成长。你既坚强又美丽，随着时间的推移展现出深层的深度。你的适应能力是你的超能力。"
+    },
+    "cherry": {
+      "result": "The Cherry Blossom",
+      "result_zh": "浪漫樱花",
+      "description": "The cherry blossom represents the beauty of impermanence and the joy of living in the moment. You appreciate life's fleeting moments and find beauty in everything. Your romantic spirit and appreciation for aesthetics make you truly unique.",
+      "description_zh": "樱花代表无常之美和活在当下的喜悦。你欣赏生命中稍纵即逝的时刻，在一切事物中发现美。你的浪漫精神和对美学的欣赏使你真正独特。"
+    },
+    "cactus": {
+      "result": "The Resilient Cactus",
+      "result_zh": "顽强仙人掌",
+      "description": "The cactus thrives in harsh conditions, representing resilience and self-sufficiency. You are independent, practical, and able to survive life's toughest challenges. Your inner strength is matched by a soft, caring heart hidden beneath your tough exterior.",
+      "description_zh": "仙人掌在恶劣环境中茁壮成长，代表着韧性和自给自足。你独立、务实，能够在最艰难的生活挑战中生存。你的内在力量与坚硬外表下隐藏的温柔关怀心灵相匹配。"
+    }
+  },
+  "tags": ["personality", "soulmate", "plant", "nature", "match"],
+  "category": "match"
+}
