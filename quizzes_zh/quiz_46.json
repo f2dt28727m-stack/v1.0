@@ -1,0 +1,153 @@
+{
+  "quizId": 46,
+  "title": "你的灵魂与哪个古文明共鸣？",
+  "type": "which_x",
+  "category": "which_x",
+  "category_name": "你是哪种X",
+  "language": "Chinese",
+  "description": "穿越时空，发现哪个古代文明反映了你的内在精神！",
+  "tags": [
+    "古代",
+    "文明",
+    "历史",
+    "性格",
+    "文化",
+    "Ancient",
+    "Civilization",
+    "History",
+    "Personality"
+  ],
+  "resultTitle": "你的古文明",
+  "results": {
+    "rome": {
+      "title": "罗马帝国 🏛️",
+      "description": "你是一个天生的领导者，拥有战略思维。像罗马一样，你重视结构、纪律和建立持久的遗产。你雄心勃勃，知道如何团结人们来实现伟大成就。你的力量在于组织和坚持——你是长期奋斗者。",
+      "color": "#C0392B"
+    },
+    "egypt": {
+      "title": "古埃及 🐍",
+      "description": "你拥有永恒的智慧和对神秘事物的深刻欣赏。像埃及一样，你被深刻和永恒所吸引。你重视知识、精神性和在世界上留下你的印记。你的创造力是传奇的，你对美和象征有敏锐的眼光。",
+      "color": "#F39C12"
+    },
+    "greece": {
+      "title": "古希腊 ⚡",
+      "description": "你内心是一个热爱思想和辩论的哲学家。像希腊一样，你珍视民主、艺术和追求知识。你的创造力和求知欲驱使我们探索新概念。你相信思想的力量和表达的美。",
+      "color": "#3498DB"
+    },
+    "japan": {
+      "title": "古日本 🌸",
+      "description": "你体现和谐、纪律和对传统的深切尊重。像古日本一样，你在简约和正念中发现美。你平衡现代思维与古代智慧，始终寻求内心平静和精通。你的耐心和对细节的关注是无与伦比的。",
+      "color": "#E91E63"
+    },
+    "mayan": {
+      "title": "玛雅文明 🌟",
+      "description": "你是一个具有前瞻性视角的梦想家。像玛雅一样，你与天文学、时间和宇宙有深厚的联系。你创新且不怕有不同的想法。你的精神深度和对循环的理解使你拥有独特的智慧。",
+      "color": "#27AE60"
+    },
+    "viking": {
+      "title": "维京世界 ⚔️",
+      "description": "你大胆、冒险且忠诚。像维京人一样，你最重视勇气和自由。你不怕探索未知并承担经过计算的风险。你的实际力量和决心帮助你克服生活中抛出的任何障碍。",
+      "color": "#8E44AD"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "question": "你理想度周末的方式是什么？",
+      "options": [
+        { "optionId": "a", "text": "领导团队项目或组织一些史诗般的活动", "result": "rome" },
+        { "optionId": "b", "text": "参观博物馆或探索历史遗迹", "result": "egypt" },
+        { "optionId": "c", "text": "与朋友辩论想法或阅读哲学", "result": "greece" },
+        { "optionId": "d", "text": "练习正念、茶道或冥想", "result": "japan" },
+        { "optionId": "e", "text": "观星或学习天文学", "result": "mayan" },
+        { "optionId": "f", "text": "户外冒险、徒步或极限运动", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 2,
+      "question": "在团队项目中，你自然会成为：",
+      "options": [
+        { "optionId": "a", "text": "让每个人都保持正轨的组织者", "result": "rome" },
+        { "optionId": "b", "text": "有伟大想法的创意梦想家", "result": "egypt" },
+        { "optionId": "c", "text": "推动深入理解的知识分子", "result": "greece" },
+        { "optionId": "d", "text": "确保和谐的冷静调解人", "result": "japan" },
+        { "optionId": "e", "text": "看到大局的梦想家", "result": "mayan" },
+        { "optionId": "f", "text": "迈出第一步的勇敢先锋", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 3,
+      "question": "哪种价值观最能引起你的共鸣？",
+      "options": [
+        { "optionId": "a", "text": "权力和遗产", "result": "rome" },
+        { "optionId": "b", "text": "神秘和智慧", "result": "egypt" },
+        { "optionId": "c", "text": "知识和真理", "result": "greece" },
+        { "optionId": "d", "text": "和平和精通", "result": "japan" },
+        { "optionId": "e", "text": "愿景和创新", "result": "mayan" },
+        { "optionId": "f", "text": "自由和勇气", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 4,
+      "question": "你解决问题的方式是什么？",
+      "options": [
+        { "optionId": "a", "text": "有明确里程碑的战略规划", "result": "rome" },
+        { "optionId": "b", "text": "寻找隐藏的模式和更深层的含义", "result": "egypt" },
+        { "optionId": "c", "text": "逻辑分析和智力辩论", "result": "greece" },
+        { "optionId": "d", "text": "冷静反思和仔细考虑", "result": "japan" },
+        { "optionId": "e", "text": "跳出框框思考和未来主义想法", "result": "mayan" },
+        { "optionId": "f", "text": "直接行动和无畏的实验", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 5,
+      "question": "哪句话触动了你的灵魂？",
+      "options": [
+        { "optionId": "a", "text": "「我来、我见、我征服」", "result": "rome" },
+        { "optionId": "b", "text": "「上行下效」", "result": "egypt" },
+        { "optionId": "c", "text": "「未经审视的人生不值得过」", "result": "greece" },
+        { "optionId": "d", "text": "「在运动和混乱中保持内心平静」", "result": "japan" },
+        { "optionId": "e", "text": "「星星是宇宙的路标」", "result": "mayan" },
+        { "optionId": "f", "text": "「冒险本身就是值得的」", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 6,
+      "question": "什么样的艺术或创作吸引你？",
+      "options": [
+        { "optionId": "a", "text": "宏伟的建筑和工程奇迹", "result": "rome" },
+        { "optionId": "b", "text": "复杂的符号和神秘的象形文字", "result": "egypt" },
+        { "optionId": "c", "text": "戏剧、诗歌和哲学著作", "result": "greece" },
+        { "optionId": "d", "text": "极简艺术、书法和禅意庭院", "result": "japan" },
+        { "optionId": "e", "text": "天文日历和复杂数学", "result": "mayan" },
+        { "optionId": "f", "text": "大胆的纹身、雕刻和史诗传说", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 7,
+      "question": "你如何处理冲突？",
+      "options": [
+        { "optionId": "a", "text": "确立主导地位并建立秩序", "result": "rome" },
+        { "optionId": "b", "text": "从古代教义中寻求智慧", "result": "egypt" },
+        { "optionId": "c", "text": "进行激烈的辩论以寻找真相", "result": "greece" },
+        { "optionId": "d", "text": "保持冷静并找到和平解决方案", "result": "japan" },
+        { "optionId": "e", "text": "退后一步，看到事物的循环本质", "result": "mayan" },
+        { "optionId": "f", "text": "无所畏惧地直面它", "result": "viking" }
+      ]
+    },
+    {
+      "qId": 8,
+      "question": "你想留下什么遗产？",
+      "options": [
+        { "optionId": "a", "text": "塑造未来的具体而持久的东西", "result": "rome" },
+        { "optionId": "b", "text": "超越世代的永恒智慧", "result": "egypt" },
+        { "optionId": "c", "text": "激发未来思考的想法和知识", "result": "greece" },
+        { "optionId": "d", "text": "和平与正念生活的哲学", "result": "japan" },
+        { "optionId": "e", "text": "改变人们看待世界的新视角", "result": "mayan" },
+        { "optionId": "f", "text": "激励他人的勇敢和冒险故事", "result": "viking" }
+      ]
+    }
+  ],
+  "shareTitle": "我的灵魂与罗马帝国共鸣！🏛️ 你的古文明是哪个？",
+  "shareText": "发现哪个古代文明反映你的内在精神！参加测试，找到你的历史匹配。"
+}
