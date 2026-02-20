@@ -1,0 +1,160 @@
+{
+  "quizId": 47,
+  "title": "Which Element Is Your Soulmate?",
+  "type": "match",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "English",
+  "description": "Discover which of the five classical elements resonates with your spirit!",
+  "tags": [
+    "Element",
+    "Soulmate",
+    "Personality",
+    "Match",
+    "Nature",
+    "元素",
+    "灵魂伴侣",
+    "性格",
+    "自然"
+  ],
+  "resultTitle": "Your Elemental Soulmate",
+  "results": {
+    "fire": {
+      "title": "Fire 🔥",
+      "description": "You're a passionate, dynamic soul who lights up every room you enter. Like fire, you're driven by intensity and emotion. You tackle challenges head-on with boundless energy and inspire others with your enthusiasm. Your warmth draws people close, but remember to balance your blazing spirit with moments of calm.",
+      "color": "#E74C3C"
+    },
+    "water": {
+      "title": "Water 💧",
+      "description": "You flow through life with emotional intelligence and adaptability. Like water, you're receptive, intuitive, and deeply empathetic. You have a natural ability to understand others and find creative solutions. Your calm presence brings peace to those around you, and you navigate life's challenges with graceful flexibility.",
+      "color": "#3498DB"
+    },
+    "earth": {
+      "title": "Earth 🌱",
+      "description": "You're grounded, reliable, and deeply connected to the physical world. Like earth, you value stability, patience, and nurturing others. You have a practical wisdom and a strong sense of responsibility. People turn to you for support and guidance because you remain steady through any storm.",
+      "color": "#27AE60"
+    },
+    "air": {
+      "title": "Air 💨",
+      "description": "You're a free spirit who values intellectual freedom and unconventional thinking. Like air, you bring fresh perspectives and inspire creativity in others. You're social, curious, and always seeking new ideas and experiences. Your versatility allows you to adapt to any situation, though you sometimes struggle with staying grounded.",
+      "color": "#F1C40F"
+    },
+    "aether": {
+      "title": "Aether ✨",
+      "description": "You exist on a different plane—visionary, mystical, and deeply intuitive. Like the fifth element (aether/ether), you have a unique connection to the cosmic and the unknown. You're drawn to spiritual pursuits and have an innate wisdom that others sense but cannot always articulate. Your imagination and creativity know no bounds.",
+      "color": "#9B59B6"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "question": "What's your ideal weekend activity?",
+      "options": [
+        { "optionId": "a", "text": "Dancing, parties, or intense workout sessions", "result": "fire" },
+        { "optionId": "b", "text": "A peaceful day by the ocean or lake", "result": "water" },
+        { "optionId": "c", "text": "Gardening, hiking, or connecting with nature", "result": "earth" },
+        { "optionId": "d", "text": "Reading, brainstorming, or exploring new ideas", "result": "air" },
+        { "optionId": "e", "text": "Meditation, stargazing, or exploring the mystical", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 2,
+      "question": "How do you handle conflict?",
+      "options": [
+        { "optionId": "a", "text": "I confront it directly with passion", "result": "fire" },
+        { "optionId": "b", "text": "I try to understand everyone's emotions and find harmony", "result": "water" },
+        { "optionId": "c", "text": "I stay calm and work through practical solutions", "result": "earth" },
+        { "optionId": "d", "text": "I analyze the situation intellectually and discuss", "result": "air" },
+        { "optionId": "e", "text": "I look for the deeper meaning behind the conflict", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 3,
+      "question": "Which quality do you value most in yourself?",
+      "options": [
+        { "optionId": "a", "text": "Courage and passion", "result": "fire" },
+        { "optionId": "b", "text": "Empathy and intuition", "result": "water" },
+        { "optionId": "c", "text": "Reliability and patience", "result": "earth" },
+        { "optionId": "d", "text": "Creativity and adaptability", "result": "air" },
+        { "optionId": "e", "text": "Wisdom and insight", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 4,
+      "question": "Pick a dream vacation destination:",
+      "options": [
+        { "optionId": "a", "text": "A volcanic island with dramatic landscapes", "result": "fire" },
+        { "optionId": "b", "text": "A secluded beach or tropical paradise", "result": "water" },
+        { "optionId": "c", "text": "A mountain retreat or forest cabin", "result": "earth" },
+        { "optionId": "d", "text": "A vibrant city full of art and culture", "result": "air" },
+        { "optionId": "e", "text": "An ancient temple or mystical sacred site", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 5,
+      "question": "What's your approach to achieving goals?",
+      "options": [
+        { "optionId": "a", "text": "Go all in with intense focus and determination", "result": "fire" },
+        { "optionId": "b", "text": "Go with the flow and adapt as needed", "result": "water" },
+        { "optionId": "c", "text": "Take steady, consistent steps toward success", "result": "earth" },
+        { "optionId": "d", "text": "Keep options open and pivot when inspiration strikes", "result": "air" },
+        { "optionId": "e", "text": "Visualize the outcome and trust the universe", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 6,
+      "question": "How would friends describe you?",
+      "options": [
+        { "optionId": "a", "text": "The energizer—always bringing fire to the group", "result": "fire" },
+        { "optionId": "b", "text": "The healer—always understanding and supportive", "result": "water" },
+        { "optionId": "c", "text": "The rock—always dependable and grounded", "result": "earth" },
+        { "optionId": "d", "text": "The dreamer—always full of wild ideas", "result": "air" },
+        { "optionId": "e", "text": "The mystic—always seeing what others miss", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 7,
+      "question": "Which weather do you feel most alive in?",
+      "options": [
+        { "optionId": "a", "text": "Hot summer days under the blazing sun", "result": "fire" },
+        { "optionId": "b", "text": "Gentle rain or a misty morning", "result": "water" },
+        { "optionId": "c", "text": "Cool autumn days or crisp mountain air", "result": "earth" },
+        { "optionId": "d", "text": "Windy days when the clouds are dancing", "result": "air" },
+        { "optionId": "e", "text": "Clear starlit nights or magical snowfalls", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 8,
+      "question": "Pick a creative outlet:",
+      "options": [
+        { "optionId": "a", "text": "Dance, theater, or performing arts", "result": "fire" },
+        { "optionId": "b", "text": "Painting, poetry, or emotional expression", "result": "water" },
+        { "optionId": "c", "text": "Cooking, crafts, or working with hands", "result": "earth" },
+        { "optionId": "d", "text": "Writing, designing, or brainstorming", "result": "air" },
+        { "optionId": "e", "text": "Music, divination, or spiritual practices", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 9,
+      "question": "What's your biggest fear?",
+      "options": [
+        { "optionId": "a", "text": "Losing my passion or feeling numb", "result": "fire" },
+        { "optionId": "b", "text": "Being emotionally overwhelmed or drowning", "result": "water" },
+        { "optionId": "c", "text": "Being unstable or losing my foundation", "result": "earth" },
+        { "optionId": "d", "text": "Feeling trapped or losing my freedom", "result": "air" },
+        { "optionId": "e", "text": "Being misunderstood or losing my purpose", "result": "aether" }
+      ]
+    },
+    {
+      "qId": 10,
+      "question": "If you could have one magical ability, what would it be?",
+      "options": [
+        { "optionId": "a", "text": "Control over fire and energy", "result": "fire" },
+        { "optionId": "b", "text": "Healing and emotional manipulation", "result": "water" },
+        { "optionId": "c", "text": "Connection with nature and earth", "result": "earth" },
+        { "optionId": "d", "text": "Telekinesis and flight", "result": "air" },
+        { "optionId": "e", "text": "Time manipulation and prophecy", "result": "aether" }
+      ]
+    }
+  ]
+}
