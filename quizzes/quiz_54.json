@@ -1,0 +1,158 @@
+{
+  "title": "Which Fictional Genre Is Your Soulmate?",
+  "type": "match",
+  "category": "match",
+  "description": "Discover which literary genre matches your personality perfectly!",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you prefer to spend a perfect weekend?",
+      "options": [
+        {"id": "A", "text": "Exploring new places and having adventures", "scores": {"romance": 3, "thriller": 2}},
+        {"id": "B", "text": "Getting lost in a gripping story", "scores": {"mystery": 3, "fantasy": 2}},
+        {"id": "C", "text": "Cozy day in with comfort reads", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "D", "text": "Analyzing complex problems and puzzles", "scores": {"thriller": 3, "mystery": 2}}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What kind of movie plot excites you the most?",
+      "options": [
+        {"id": "A", "text": "Epic battle between good and evil", "scores": {"fantasy": 3, "scifi": 2}},
+        {"id": "B", "text": "A thrilling chase against time", "scores": {"thriller": 3, "action": 2}},
+        {"id": "C", "text": "Heartwarming story of love and connection", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "D", "text": "Investigating a mind-bending mystery", "scores": {"mystery": 3, "thriller": 2}}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What's your ideal vacation destination?",
+      "options": [
+        {"id": "A", "text": "A magical, otherworldly location", "scores": {"fantasy": 3, "romance": 2}},
+        {"id": "B", "text": "A bustling modern city", "scores": {"contemporary": 3, "thriller": 2}},
+        {"id": "C", "text": "A quiet countryside retreat", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "D", "text": "An ancient historical site", "scores": {"historical": 3, "mystery": 2}}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which quote resonates with you most?",
+      "options": [
+        {"id": "A", "text": "In the middle of difficulty lies opportunity", "scores": {"thriller": 3, "action": 2}},
+        {"id": "B", "text": "Love conquers all", "scores": {"romance": 3, "fantasy": 2}},
+        {"id": "C", "text": "The truth will set you free", "scores": {"mystery": 3, "thriller": 2}},
+        {"id": "D", "text": "Imagination is more important than knowledge", "scores": {"fantasy": 3, "scifi": 2}}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What do you value most in a story?",
+      "options": [
+        {"id": "A", "text": "Emotional connection and heartfelt moments", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "B", "text": "World-building and imaginative worlds", "scores": {"fantasy": 3, "scifi": 2}},
+        {"id": "C", "text": "Suspense and keeping me on edge", "scores": {"thriller": 3, "mystery": 2}},
+        {"id": "D", "text": "Clever twists and logic puzzles", "scores": {"mystery": 3, "thriller": 2}}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How do you handle challenges in real life?",
+      "options": [
+        {"id": "A", "text": "Face them head-on with courage", "scores": {"action": 3, "thriller": 2}},
+        {"id": "B", "text": "Find creative, unconventional solutions", "scores": {"fantasy": 3, "scifi": 2}},
+        {"id": "C", "text": "Rely on my support system and loved ones", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "D", "text": "Analyze the situation logically first", "scores": {"mystery": 3, "thriller": 2}}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What's your favorite type of music to read to?",
+      "options": [
+        {"id": "A", "text": "Upbeat pop or rock", "scores": {"action": 3, "thriller": 2}},
+        {"id": "B", "text": "Soft acoustic or classical", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "C", "text": "Ambient or electronic soundscapes", "scores": {"scifi": 3, "fantasy": 2}},
+        {"id": "D", "text": "Jazz or instrumental", "scores": {"mystery": 3, "historical": 2}}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "If you could have any superpower, what would it be?",
+      "options": [
+        {"id": "A", "text": "Mind-reading or telepathy", "scores": {"mystery": 3, "thriller": 2}},
+        {"id": "B", "text": "Time travel", "scores": {"scifi": 3, "historical": 2}},
+        {"id": "C", "text": "Healing or power of love", "scores": {"romance": 3, "fantasy": 2}},
+        {"id": "D", "text": "Flight or super strength", "scores": {"action": 3, "fantasy": 2}}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What kind of friend do you tend to be?",
+      "options": [
+        {"id": "A", "text": "The one who always has dramatic stories", "scores": {"romance": 3, "contemporary": 2}},
+        {"id": "B", "text": "The imaginative dreamer with wild ideas", "scores": {"fantasy": 3, "scifi": 2}},
+        {"id": "C", "text": "The calm problem-solver", "scores": {"mystery": 3, "thriller": 2}},
+        {"id": "D", "text": "The adventurous thrill-seeker", "scores": {"action": 3, "thriller": 2}}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What's your approach to making decisions?",
+      "options": [
+        {"id": "A", "text": "Follow my heart", "scores": {"romance": 3, "fantasy": 2}},
+        {"id": "B", "text": "Go with my gut instinct", "scores": {"thriller": 3, "action": 2}},
+        {"id": "C", "text": "Weigh all the facts carefully", "scores": {"mystery": 3, "thriller": 2}},
+        {"id": "D", "text": "Think outside the box", "scores": {"scifi": 3, "fantasy": 2}}
+      ]
+    }
+  ],
+  "results": {
+    "romance": {
+      "title": "Romance",
+      "emoji": "💕",
+      "description": "You are a hopeless romantic at heart! You crave emotional connections, heartfelt moments, and stories that celebrate love in all its forms. Your soulmate genre is Romance - where love conquers all and happy endings are guaranteed.",
+      "matches": ["Contemporary Fiction", "Historical Romance", "Chick Lit"]
+    },
+    "fantasy": {
+      "title": "Fantasy",
+      "emoji": "🧙",
+      "description": "You dream of magical worlds and epic adventures! Your imagination knows no bounds, and you love stories where anything is possible. Your soulmate genre is Fantasy - where heroes rise, magic exists, and legends are made.",
+      "matches": ["High Fantasy", "Urban Fantasy", "Fairy Tale Retellings"]
+    },
+    "mystery": {
+      "title": "Mystery",
+      "emoji": "🔍",
+      "description": "You have an investigative mind that loves solving puzzles! You thrive on clues, red herrings, and the satisfaction of uncovering the truth. Your soulmate genre is Mystery - where every question has an answer waiting to be found.",
+      "matches": ["Cozy Mystery", "Detective Fiction", "True Crime"]
+    },
+    "thriller": {
+      "title": "Thriller",
+      "emoji": "⚡",
+      "description": "You live for adrenaline and suspense! You love stories that keep you on the edge of your seat, wondering what happens next. Your soulmate genre is Thriller - where the stakes are high and tension never ends.",
+      "matches": ["Psychological Thriller", "Crime Thriller", "Suspense"]
+    },
+    "scifi": {
+      "title": "Science Fiction",
+      "emoji": "🚀",
+      "description": "You're fascinated by the future and what lies beyond the stars! You love exploring 'what if' scenarios and innovative ideas. Your soulmate genre is Science Fiction - where technology meets imagination and possibilities are endless.",
+      "matches": ["Space Opera", "Dystopian", "Hard Sci-Fi"]
+    },
+    "contemporary": {
+      "title": "Contemporary Fiction",
+      "emoji": "☕",
+      "description": "You appreciate relatable stories that reflect real life! You enjoy narratives with well-developed characters facing everyday challenges. Your soulmate genre is Contemporary Fiction - where slice-of-life meets emotional depth.",
+      "matches": ["Literary Fiction", "Domestic Fiction", "Graphic Novels"]
+    },
+    "historical": {
+      "title": "Historical Fiction",
+      "emoji": "📜",
+      "description": "You're drawn to the past and its stories! You love experiencing different eras and learning about history through compelling narratives. Your soulmate genre is Historical Fiction - where the past comes alive with drama and intrigue.",
+      "matches": ["Historical Romance", "Period Drama", "Historical Mystery"]
+    },
+    "action": {
+      "title": "Action & Adventure",
+      "emoji": "💥",
+      "description": "You're always ready for excitement and adventure! You love fast-paced stories with high energy and non-stop action. Your soulmate genre is Action & Adventure - where heroes act first and ask questions later.",
+      "matches": ["Adventure Fiction", "Espionage", "Military Thriller"]
+    }
+  }
+}
