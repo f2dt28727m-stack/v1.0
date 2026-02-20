@@ -1,0 +1,171 @@
+{
+  "quizId": 30,
+  "title": "二选一：真实的你是谁？",
+  "category": "pick_one",
+  "category_name": "Pick One / Choose 二选一",
+  "language": "Chinese",
+  "description": "简单的选择揭示真实的自我。A 还是 B？15个终极抉择，发现最真实的你！",
+  "tags": [
+    "性格",
+    "二选一",
+    "选择",
+    "自我发现",
+    "生活方式",
+    "趣味"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "咖啡还是茶？",
+      "options": [
+        {"optionId": "A", "text": "咖啡 - 我需要提神充电", "score": {"adventurous": 3, "practical": 2}},
+        {"optionId": "B", "text": "茶 - 我更喜欢平静与舒适", "score": {"traditional": 2, "peaceful": 3}}
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "海滩还是山脉？",
+      "options": [
+        {"optionId": "A", "text": "海滩 - 阳光、沙滩和放松", "score": {"outgoing": 3, "relaxed": 2}},
+        {"optionId": "B", "text": "山脉 - 冒险与自然", "score": {"adventurous": 3, "independent": 2}}
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "早起鸟还是夜猫子？",
+      "options": [
+        {"optionId": "A", "text": "早起鸟 - 早起的鸟儿有虫吃", "score": {"productive": 3, "organized": 2}},
+        {"optionId": "B", "text": "夜猫子 - 夜晚世界更安静", "score": {"creative": 3, "spontaneous": 2}}
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "城市还是乡村？",
+      "options": [
+        {"optionId": "A", "text": "城市 - 充满刺激和机遇", "score": {"ambitious": 3, "social": 2}},
+        {"optionId": "B", "text": "乡村 - 宁静与自然", "score": {"peaceful": 3, "traditional": 2}}
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "夏天还是冬天？",
+      "options": [
+        {"optionId": "A", "text": "夏天 - 漫长的白天和温暖", "score": {"outgoing": 2, "energetic": 3}},
+        {"optionId": "B", "text": "冬天 - 温馨的氛围和雪", "score": {"thoughtful": 2, "romantic": 3}}
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "书籍还是电影？",
+      "options": [
+        {"optionId": "A", "text": "书籍 - 想象力自由飞翔", "score": {"creative": 3, "thoughtful": 2}},
+        {"optionId": "B", "text": "电影 - 视觉故事", "score": {"social": 2, "practical": 3}}
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "冒险还是舒适区？",
+      "options": [
+        {"optionId": "A", "text": "冒险 - 尝试新事物！", "score": {"adventurous": 3, "brave": 2}},
+        {"optionId": "B", "text": "舒适区 - 安全又熟悉", "score": {"cautious": 2, "stable": 3}}
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "甜还是咸？",
+      "options": [
+        {"optionId": "A", "text": "甜 - 甜点是人间美味", "score": {"playful": 3, "romantic": 2}},
+        {"optionId": "B", "text": "咸 - 给我咸的和辣的", "score": {"practical": 2, "bold": 3}}
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "外向还是内向？",
+      "options": [
+        {"optionId": "A", "text": "外向 - 从人际中获取能量", "score": {"outgoing": 3, "social": 2}},
+        {"optionId": "B", "text": "内向 - 我在独处中充电", "score": {"thoughtful": 3, "independent": 2}}
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "计划还是随性？",
+      "options": [
+        {"optionId": "A", "text": "计划 - 我喜欢有准备", "score": {"organized": 3, "practical": 2}},
+        {"optionId": "B", "text": "随性 - 活在当下！", "score": {"spontaneous": 3, "creative": 2}}
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "狗还是猫？",
+      "options": [
+        {"optionId": "A", "text": "狗 - 忠诚活泼的伙伴", "score": {"loyal": 3, "outgoing": 2}},
+        {"optionId": "B", "text": "猫 - 独立又神秘", "score": {"independent": 3, "mysterious": 2}}
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "热水澡还是冷水澡？",
+      "options": [
+        {"optionId": "A", "text": "热水澡 - 极致放松", "score": {"romantic": 2, "relaxed": 3}},
+        {"optionId": "B", "text": "冷水澡 - 清醒又提神", "score": {"brave": 3, "energetic": 2}}
+      ]
+    },
+    {
+      "qId": 13,
+      "text": "发邮件还是打电话？",
+      "options": [
+        {"optionId": "A", "text": "邮件 - 我更喜欢文字沟通", "score": {"thoughtful": 3, "organized": 2}},
+        {"optionId": "B", "text": "电话 - 我们直接聊", "score": {"direct": 3, "social": 2}}
+      ]
+    },
+    {
+      "qId": 14,
+      "text": "独自旅行还是结伴旅行？",
+      "options": [
+        {"optionId": "A", "text": "独自旅行 - 自己的冒险", "score": {"independent": 3, "adventurous": 2}},
+        {"optionId": "B", "text": "结伴旅行 - 和朋友的回忆", "score": {"social": 3, "loyal": 2}}
+      ]
+    },
+    {
+      "qId": 15,
+      "text": "经典还是潮流？",
+      "options": [
+        {"optionId": "A", "text": "经典 - 永恒且可靠", "score": {"traditional": 3, "stable": 2}},
+        {"optionId": "B", "text": "潮流 - 永远走在前沿", "score": {"creative": 2, "bold": 3}}
+      ]
+    }
+  ],
+  "results": {
+    "adventurous": {
+      "title": "冒险家",
+      "description": "你勇敢、好奇，总是准备迎接下一个挑战。生命是一场冒险，而你正在 fullest 地生活它！",
+      "emoji": "🏔️"
+    },
+    "peaceful": {
+      "title": "平静追求者",
+      "description": "你重视宁静与和谐。你理想的生活是平静与平衡。",
+      "emoji": "🧘"
+    },
+    "social": {
+      "title": "社交达人",
+      "description": "你在关系中茁壮成长，喜欢与人在一起。你的能量来自人际关系！",
+      "emoji": "🦋"
+    },
+    "creative": {
+      "title": "创意灵魂",
+      "description": "想象力是你的超能力。你用独特、艺术的角度看待世界。",
+      "emoji": "🎨"
+    },
+    "traditional": {
+      "title": "传统主义者",
+      "description": "你欣赏经典，重视稳定。你的选择体现了智慧和可靠。",
+      "emoji": "📚"
+    },
+    "independent": {
+      "title": "独立灵魂",
+      "description": "你按自己的节奏行事。自立是你的代名词。",
+      "emoji": "🦅"
+    }
+  },
+  "resultCalculation": "highest_score"
+}

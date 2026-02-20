@@ -1,0 +1,171 @@
+{
+  "quizId": 30,
+  "title": "This or That: Your True Self",
+  "category": "pick_one",
+  "category_name": "Pick One / Choose",
+  "language": "English",
+  "description": "Simple choices reveal who you really are. A or B? Discover your true self in 15 ultimate showdowns!",
+  "tags": [
+    "Personality",
+    "A or B",
+    "Choice",
+    "Self Discovery",
+    "Lifestyle",
+    "趣味"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Coffee or Tea?",
+      "options": [
+        {"optionId": "A", "text": "Coffee - I need that energy boost", "score": {"adventurous": 3, "practical": 2}},
+        {"optionId": "B", "text": "Tea - I prefer calm and comfort", "score": {"traditional": 2, "peaceful": 3}}
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Beach or Mountains?",
+      "options": [
+        {"optionId": "A", "text": "Beach - Sun, sand, and relaxation", "score": {"outgoing": 3, "relaxed": 2}},
+        {"optionId": "B", "text": "Mountains - Adventure and nature", "score": {"adventurous": 3, "independent": 2}}
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Morning Person or Night Owl?",
+      "options": [
+        {"optionId": "A", "text": "Morning Person - Early bird catches the worm", "score": {"productive": 3, "organized": 2}},
+        {"optionId": "B", "text": "Night Owl - The world is quieter at night", "score": {"creative": 3, "spontaneous": 2}}
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "City or Countryside?",
+      "options": [
+        {"optionId": "A", "text": "City - Excitement and opportunities everywhere", "score": {"ambitious": 3, "social": 2}},
+        {"optionId": "B", "text": "Countryside - Peace and connection with nature", "score": {"peaceful": 3, "traditional": 2}}
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Summer or Winter?",
+      "options": [
+        {"optionId": "A", "text": "Summer - Long days and warmth", "score": {"outgoing": 2, "energetic": 3}},
+        {"optionId": "B", "text": "Winter - Cozy vibes and snow", "score": {"thoughtful": 2, "romantic": 3}}
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Books or Movies?",
+      "options": [
+        {"optionId": "A", "text": "Books - Imagination runs wild", "score": {"creative": 3, "thoughtful": 2}},
+        {"optionId": "B", "text": "Movies - Visual storytelling", "score": {"social": 2, "practical": 3}}
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Adventure or Comfort Zone?",
+      "options": [
+        {"optionId": "A", "text": "Adventure - Try something new!", "score": {"adventurous": 3, "brave": 2}},
+        {"optionId": "B", "text": "Comfort Zone - Safe and familiar", "score": {"cautious": 2, "stable": 3}}
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Sweet or Savory?",
+      "options": [
+        {"optionId": "A", "text": "Sweet - Desserts are the best", "score": {"playful": 3, "romantic": 2}},
+        {"optionId": "B", "text": "Savory - Give me salty and spicy", "score": {"practical": 2, "bold": 3}}
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Extrovert or Introvert?",
+      "options": [
+        {"optionId": "A", "text": "Extrovert - I draw energy from people", "score": {"outgoing": 3, "social": 2}},
+        {"optionId": "B", "text": "Introvert - I recharge alone", "score": {"thoughtful": 3, "independent": 2}}
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Planned or Spontaneous?",
+      "options": [
+        {"optionId": "A", "text": "Planned - I love being prepared", "score": {"organized": 3, "practical": 2}},
+        {"optionId": "B", "text": "Spontaneous - Live in the moment!", "score": {"spontaneous": 3, "creative": 2}}
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Dog or Cat?",
+      "options": [
+        {"optionId": "A", "text": "Dog - Loyal and active companion", "score": {"loyal": 3, "outgoing": 2}},
+        {"optionId": "B", "text": "Cat - Independent and mysterious", "score": {"independent": 3, "mysterious": 2}}
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Hot Shower or Cold Shower?",
+      "options": [
+        {"optionId": "A", "text": "Hot Shower - Ultimate relaxation", "score": {"romantic": 2, "relaxed": 3}},
+        {"optionId": "B", "text": "Cold Shower - Wake up and energize", "score": {"brave": 3, "energetic": 2}}
+      ]
+    },
+    {
+      "qId": 13,
+      "text": "Email or Phone Call?",
+      "options": [
+        {"optionId": "A", "text": "Email - I prefer written communication", "score": {"thoughtful": 3, "organized": 2}},
+        {"optionId": "B", "text": "Phone Call - Let's talk it out", "score": {"direct": 3, "social": 2}}
+      ]
+    },
+    {
+      "qId": 14,
+      "text": "Solo Travel or Group Travel?",
+      "options": [
+        {"optionId": "A", "text": "Solo Travel - My own adventure", "score": {"independent": 3, "adventurous": 2}},
+        {"optionId": "B", "text": "Group Travel - Memories with friends", "score": {"social": 3, "loyal": 2}}
+      ]
+    },
+    {
+      "qId": 15,
+      "text": "Classic or Trendy?",
+      "options": [
+        {"optionId": "A", "text": "Classic - Timeless and reliable", "score": {"traditional": 3, "stable": 2}},
+        {"optionId": "B", "text": "Trendy - Always staying current", "score": {"creative": 2, "bold": 3}}
+      ]
+    }
+  ],
+  "results": {
+    "adventurous": {
+      "title": "The Adventurer",
+      "description": "You're bold, curious, and always ready for the next challenge. Life is an adventure, and you're living it to the fullest!",
+      "emoji": "🏔️"
+    },
+    "peaceful": {
+      "title": "The Peace Seeker",
+      "description": "You value tranquility and harmony. Your ideal life is one of calm and balance.",
+      "emoji": "🧘"
+    },
+    "social": {
+      "title": "The Social Butterfly",
+      "description": "You thrive on connection and love being around people. Your energy comes from relationships!",
+      "emoji": "🦋"
+    },
+    "creative": {
+      "title": "The Creative Soul",
+      "description": "Imagination is your superpower. You see the world through a unique, artistic lens.",
+      "emoji": "🎨"
+    },
+    "traditional": {
+      "title": "The Traditionalist",
+      "description": "You appreciate the classics and value stability. Your choices reflect wisdom and reliability.",
+      "emoji": "📚"
+    },
+    "independent": {
+      "title": "The Independent Spirit",
+      "description": "You march to the beat of your own drum. Self-reliance is your middle name.",
+      "emoji": "🦅"
+    }
+  },
+  "resultCalculation": "highest_score"
+}
