@@ -1,0 +1,257 @@
+{
+  "title": "Your Secret Cyber Identity",
+  "type": "hidden",
+  "description": "In the digital underground, everyone has a hidden identity. Discover your secret cyber persona that you reveal only when no one's watching.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "It's 3 AM and you just discovered a major security breach. What do you do?",
+      "options": [
+        {
+          "text": "Document everything and report it through proper channels",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "Exploit it slightly to prove it exists, then notify anonymously",
+          "score": {"code_breaker": 1, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "Take screenshots and share with your online community",
+          "score": {"code_breaker": 0, "digital_nomad": 2, "shadow_hacker": 1, "neon_dreamer": 3}
+        },
+        {
+          "text": "Use it to access exclusive content and digital spaces",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 2, "neon_dreamer": 0}
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Your ideal digital sanctuary looks like:",
+      "options": [
+        {
+          "text": "A minimalist terminal with endless code streams",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "A cloud-based workspace accessible from anywhere",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "A dark room filled with glowing monitors and mysterious data",
+          "score": {"code_breaker": 1, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "A neon-lit virtual reality lounge with ethereal music",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Someone insults your favorite technology in a public forum. You:",
+      "options": [
+        {
+          "text": "Write a detailed technical rebuttal with code examples",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "Ignoring it - your work speaks for itself",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "Find their digital footprint and expose their hypocrisy",
+          "score": {"code_breaker": 0, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "Create something beautiful to show true tech appreciation",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Your username would be something like:",
+      "options": [
+        {
+          "text": "ZeroCool or CipherStorm",
+          "score": {"code_breaker": 2, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "PixelNomad or CloudWalker",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 1}
+        },
+        {
+          "text": "NeonPhoenix or SynthWave",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        },
+        {
+          "text": "RootAccess or DebugMaster",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "If you could master one digital skill overnight, it would be:",
+      "options": [
+        {
+          "text": "Breaking any encryption system",
+          "score": {"code_breaker": 2, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "Working from anywhere in the world seamlessly",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "Creating immersive digital experiences",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        },
+        {
+          "text": "Writing code that changes the world",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Your approach to learning new tech:",
+      "options": [
+        {
+          "text": "Read the documentation cover to cover",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "Jump in and figure it out as I go",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 1}
+        },
+        {
+          "text": "Find the underground communities and learn their secrets",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "Watch aesthetic tutorials and get inspired",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "The perfect weekend involves:",
+      "options": [
+        {
+          "text": "Building a new project from scratch",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "Working from a cafe in a different city",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "Exploring the dark web for interesting discoveries",
+          "score": {"code_breaker": 0, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "Losing myself in VR worlds and digital art",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "When someone says 'the internet is down':",
+      "options": [
+        {
+          "text": "Start troubleshooting immediately - what's the root cause?",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "Switch to mobile data and keep working",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "This is the perfect time to use my offline resources",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "Finally, time to disconnect and exist in the real world",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Your digital philosophy could be summarized as:",
+      "options": [
+        {
+          "text": "Code is poetry - elegant, efficient, beautiful",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "The world is my office - freedom above all",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "Information wants to be free - access is power",
+          "score": {"code_breaker": 1, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "Technology should be beautiful AND functional",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "If you appeared in a cyberpunk story, you'd be:",
+      "options": [
+        {
+          "text": "The elite coder who built the system everyone uses",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "The mysterious figure working from a rooftop somewhere",
+          "score": {"code_breaker": 0, "digital_nomad": 2, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "The digital nomad living in a smart van, everywhere and nowhere",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "The artist creating holographic installations in neon-lit streets",
+          "score": {"code_breaker": 0, "digital_nomad": 0, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "code_breaker",
+      "title": "The Code Breaker",
+      "description": "You are the architect of the digital world. In the shadows of the cyber landscape, you wield code like a master painter uses a brush - creating elegant solutions to complex problems. Your mind thinks in algorithms and your heart beats in binary. You're the one who truly understands how things work under the hood. While others use technology, you truly comprehend it.",
+      "emoji": "💻",
+      "tags": ["Tech Genius", "Problem Solver", "Detail Oriented"]
+    },
+    {
+      "id": "digital_nomad",
+      "title": "The Digital Nomad",
+      "description": "Location is just a state of mind to you. Your office could be a beach in Bali or a coffee shop in Tokyo - as long as there's WiFi, you're ready to work. You embody the true spirit of the remote revolution, proving that productivity has no geographic boundaries. The world is your workspace, and every new city is a fresh adventure.",
+      "emoji": "🌍",
+      "tags": ["Freedom Seeker", "Remote Worker", "Adventure Lover"]
+    },
+    {
+      "id": "shadow_hacker",
+      "title": "The Shadow Hacker",
+      "description": "You move through the digital world like a ghost, leaving no traces but always leaving your mark. The dark corners of the internet are your playground, and you've seen things that would blow most people's minds. You're not malicious - you just believe information should be free and systems should be tested. In a cyberpunk world, you'd be the legendary figure others whisper about.",
+      "emoji": "🎭",
+      "tags": ["Mysterious", "Rebel", "Cyber Revolutionary"]
+    },
+    {
+      "id": "neon_dreamer",
+      "title": "The Neon Dreamer",
+      "description": "You see the digital world through rose-colored pixels. While others see code, you see poetry. While others see screens, you see portals to infinite possibility. You represent the aesthetic side of technology - the beautiful intersection where art meets innovation. Your digital identity is a masterpiece of visual expression.",
+      "emoji": "🌃",
+      "tags": ["Creative", "Visionary", "Aesthetic Pioneer"]
+    }
+  ]
+}

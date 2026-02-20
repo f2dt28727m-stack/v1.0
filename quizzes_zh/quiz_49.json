@@ -1,0 +1,257 @@
+{
+  "title": "你的隐藏赛博身份",
+  "type": "hidden",
+  "description": "在数字地下世界，每个人都有隐藏身份。发现你独处时才会显露的秘密赛博人格。",
+  "questions": [
+    {
+      "id": 1,
+      "text": "凌晨3点，你发现了一个重大安全漏洞。你会怎么做？",
+      "options": [
+        {
+          "text": "完整记录并通过正规渠道上报",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "轻微利用一下证明漏洞存在，然后匿名通知",
+          "score": {"code_breaker": 1, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "截图分享到我的网络社群",
+          "score": {"code_breaker": 0, "digital_nomad": 2, "shadow_hacker": 1, "neon_dreamer": 3}
+        },
+        {
+          "text": "用它来访问独家内容和数字空间",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 2, "neon_dreamer": 0}
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "你理想的数字避风港是：",
+      "options": [
+        {
+          "text": "极简终端风格，无尽的代码流",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "云端工作空间，随时随地可访问",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "昏暗房间，满是发光显示器和神秘数据",
+          "score": {"code_breaker": 1, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "霓虹灯笼罩的虚拟现实休息室，配上空灵音乐",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "有人在公开论坛侮辱你最喜欢的技术，你会：",
+      "options": [
+        {
+          "text": "写一篇详细的技术反驳，附上代码示例",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "无视它——我的作品自会说话",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "找出他的数字足迹，揭露他的虚伪",
+          "score": {"code_breaker": 0, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "创造一些美好的东西来展示真正的技术之美",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "你的用户名会是：",
+      "options": [
+        {
+          "text": "ZeroCool 或 CipherStorm",
+          "score": {"code_breaker": 2, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "PixelNomad 或 CloudWalker",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 1}
+        },
+        {
+          "text": "NeonPhoenix 或 SynthWave",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        },
+        {
+          "text": "RootAccess 或 DebugMaster",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "如果你能在一夜之间掌握一项数字技能，那会是：",
+      "options": [
+        {
+          "text": "破解任何加密系统",
+          "score": {"code_breaker": 2, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "随时随地无缝远程工作",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "创造沉浸式数字体验",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        },
+        {
+          "text": "写改变世界的代码",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "你学习新技术的方式：",
+      "options": [
+        {
+          "text": "从头到尾阅读文档",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "直接上手，边做边学",
+          "score": {"code_breaker": 1, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 1}
+        },
+        {
+          "text": "寻找地下社群，学习他们的秘密",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "观看美学教程，获取灵感",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "完美的周末是这样度过的：",
+      "options": [
+        {
+          "text": "从零开始搭建一个新项目",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "在不同城市的咖啡馆里工作",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "探索暗网寻找有趣的发现",
+          "score": {"code_breaker": 0, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 1}
+        },
+        {
+          "text": "沉浸在VR世界和数字艺术中",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "当有人说"网络断了"：",
+      "options": [
+        {
+          "text": "立即开始排查——根本原因是什么？",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "切换到移动数据，继续工作",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "正好使用我的离线资源",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "终于有时间断开连接，存在于现实世界了",
+          "score": {"code_breaker": 0, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你的数字哲学可以概括为：",
+      "options": [
+        {
+          "text": "代码是诗——优雅、高效、美丽",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "世界是我的办公室——自由至上",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "信息想要自由——访问即力量",
+          "score": {"code_breaker": 1, "digital_nomad": 0, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "科技应该是美丽的，同时也是功能性的",
+          "score": {"code_breaker": 1, "digital_nomad": 1, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "如果你出现在赛博朋克故事中，你会是：",
+      "options": [
+        {
+          "text": "精英程序员，构建了所有人都在用的系统",
+          "score": {"code_breaker": 3, "digital_nomad": 1, "shadow_hacker": 1, "neon_dreamer": 0}
+        },
+        {
+          "text": "神秘人物，在某个天台上工作",
+          "score": {"code_breaker": 0, "digital_nomad": 2, "shadow_hacker": 3, "neon_dreamer": 0}
+        },
+        {
+          "text": "数字游民，住在智能房车裏，无处不在",
+          "score": {"code_breaker": 0, "digital_nomad": 3, "shadow_hacker": 0, "neon_dreamer": 1}
+        },
+        {
+          "text": "在霓虹灯街道上创作全息装置的艺术家",
+          "score": {"code_breaker": 0, "digital_nomad": 0, "shadow_hacker": 0, "neon_dreamer": 3}
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "code_breaker",
+      "title": "代码破译者",
+      "description": "你是数字世界的建筑师。在赛博景观的阴影中，你像大师画家使用画笔一样运用代码——为复杂问题创造优雅的解决方案。你的思维以算法运行，你的心跳以二进制跳动。你是真正理解事物内在运作方式的人。当别人在使用科技时，你真正在领悟它。",
+      "emoji": "💻",
+      "tags": ["技术天才", "问题解决者", "细节控"]
+    },
+    {
+      "id": "digital_nomad",
+      "title": "数字游民",
+      "description": "地点只是你的一种心态。你的办公室可以是巴厘岛的海滩或东京的咖啡馆——只要有WiFi，你就能工作。你体现了真正的远程革命精神，证明了生产力没有地理边界。世界是你的工作场所，每一座新城市都是新鲜的冒险。",
+      "emoji": "🌍",
+      "tags": ["自由追求者", "远程工作者", "冒险爱好者"]
+    },
+    {
+      "id": "shadow_hacker",
+      "title": "暗网黑客",
+      "description": "你像幽灵一样穿梭在数字世界，不留痕迹却总是留下你的标记。互联网的黑暗角落是你的游乐场，你见过那些能让大多数人震惊的事情。你并不恶意——你只是相信信息应该自由，系统应该被测试。在赛博朋克世界里，你是别人低声议论的传奇人物。",
+      "emoji": "🎭",
+      "tags": ["神秘", "反叛者", "网络革命者"]
+    },
+    {
+      "id": "neon_dreamer",
+      "title": "霓虹梦者",
+      "description": "你透过玫瑰色的像素看世界。当别人看到代码时，你看到诗。当别人看到屏幕时，你看到通往无限可能的门户。你代表了科技的美学一面——艺术与创新交汇的美丽。你的数字身份是一件视觉表达的杰作。",
+      "emoji": "🌃",
+      "tags": ["创意", "先驱", "美学先锋"]
+    }
+  ]
+}
