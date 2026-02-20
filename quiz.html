@@ -475,10 +475,10 @@ async function showR(){
         
         // Format percentages for display
         const displayPercentages = [
-            { name: percentages.extrovert_introvert > 50 ? 'Extrovert' : 'Introvert', p: Math.abs(percentages.extrovert_introvert - 50) + 50 },
-            { name: percentages.sensing_intuition > 50 ? 'Sensing' : 'Intuition', p: Math.abs(percentages.sensing_intuition - 50) + 50 },
-            { name: percentages.thinking_feeling > 50 ? 'Thinking' : 'Feeling', p: Math.abs(percentages.thinking_feeling - 50) + 50 },
-            { name: percentages.judging_perceiving > 50 ? 'Judging' : 'Perceiving', p: Math.abs(percentages.judging_perceiving - 50) + 50 }
+            { name: percentages.extrovert_introvert > 50 ? 'Extrovert' : 'Introvert', p: percentages.extrovert_introvert },
+            { name: percentages.sensing_intuition > 50 ? 'Sensing' : 'Intuition', p: percentages.sensing_intuition },
+            { name: percentages.thinking_feeling > 50 ? 'Thinking' : 'Feeling', p: percentages.thinking_feeling },
+            { name: percentages.judging_perceiving > 50 ? 'Judging' : 'Perceiving', p: percentages.judging_perceiving }
         ];
         
         document.getElementById('app').innerHTML=`
