@@ -3,59 +3,85 @@ import random
 import hashlib
 import os
 
-# Simple API handler for Vercel
-def handler(event, context):
-    # Get path from event
-    path = event.get('path', '/')
-    method = event.get('httpMethod', 'GET')
-    headers = event.get('headers', {})
-    body = event.get('body', '')
+BASE_DIR = '/var/task'
+
+# Load config and quizzes at module load time
+_quizzes = {}
+_config = {}
+_api_key = ''
+
+def _init():
+    global _quizzes, _config, _api_key
+    try:
+        with open(os.path.join(BASE_DIR, 'config.json')) as f:
+            _config = json.load(f)
+        _api_key = _config.get('commonSettings', {}).get('apiKey', '')
+        
+        quizzes_dir = os.path.join(BASE_DIR, 'quizzes')
+        if os.path.exists(quizzes_dir):
+            for f in os.listdir(quizzes_dir):
+                if f.endswith('.json'):
+                    qid = f.replace('.json', '')
+                    try:
+                        with open(os.path.join(quizzes_dir, f)) as fp:
+                            _quizzes[qid] = json.load(fp)
+                    except:
+                        pass
+    except Exception as e:
+        print(f"Init error: {e}")
+
+_init()
+
+def handler(request, context=None):
+    """Vercel Python handler - takes request dict and returns response dict"""
     
-    # CORS headers
+    # Handle both dict-style and object-style requests
+    if hasattr(request, 'url'):
+        # It's a WSGI-style request object
+        path = request.url.path
+        method = request.method
+        body = request.get_data(as_text=True) or ''
+        headers = dict(request.headers)
+    else:
+        # It's a Vercel event dict
+        path = request.get('path', '/')
+        method = request.get('httpMethod', 'GET')
+        body = request.get('body', '')
+        if isinstance(body, str):
+            try:
+                body = body.encode('utf-8')
+            except:
+                pass
+        headers = request.get('headers', {})
+    
     cors = {
         'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Headers': 'Content-Type,Authorization',
         'Access-Control-Allow-Methods': 'GET,POST,OPTIONS'
     }
     
     if method == 'OPTIONS':
         return {'statusCode': 200, 'headers': cors, 'body': ''}
     
-    # Only handle /api/* routes
-    if not path.startswith('/api/'):
-        return {'statusCode': 404, 'headers': cors, 'body': json.dumps({'error': 'Not found'})}
+    # Parse body if POST
+    data = {}
+    if body:
+        try:
+            if isinstance(body, bytes):
+                body = body.decode('utf-8')
+            data = json.loads(body) if body else {}
+        except:
+            pass
     
-    # Base directory
-    base = '/var/task'
-    
-    # Load config
-    try:
-        with open(f'{base}/config.json') as f:
-            config = json.load(f)
-        api_key = config['commonSettings']['apiKey']
-    except:
-        api_key = 'default_key'
-    
-    # /api/token
+    # Route: /api/token
     if path == '/api/token':
         token = hashlib.sha256(str(random.random()).encode()).hexdigest()
         return {'statusCode': 200, 'headers': cors, 'body': json.dumps({'token': token})}
     
-    # Load quizzes
-    quizzes = {}
-    try:
-        for f in os.listdir(f'{base}/quizzes'):
-            if f.endswith('.json'):
-                qid = f.replace('.json', '')
-                with open(f'{base}/quizzes/{f}') as fp:
-                    quizzes[qid] = json.load(fp)
-    except:
-        pass
-    
-    # /api/quizzes
-    if path == '/api/quizzes':
+    # Route: /api/quizzes (GET)
+    if path == '/api/quizzes' and method == 'GET':
         lst = []
-        for qid, q in quizzes.items():
+        for qid, q in _quizzes.items():
             lst.append({
                 'quiz_id': qid,
                 'title': q.get('title', 'Untitled'),
@@ -65,35 +91,22 @@ def handler(event, context):
             })
         return {'statusCode': 200, 'headers': cors, 'body': json.dumps({'quizzes': lst})}
     
-    # /api/questions (POST)
+    # Route: /api/questions (POST)
     if path == '/api/questions' and method == 'POST':
-        try:
-            data = json.loads(body) if body else {}
-        except:
-            data = {}
-        
-        # Simple auth - just check token exists
         token = data.get('token', '')
         if len(token) != 64:
             return {'statusCode': 401, 'headers': cors, 'body': json.dumps({'error': 'Unauthorized'})}
         
-        quiz_id = data.get('quiz_id', 'onequiz')
-        quiz = quizzes.get(quiz_id)
+        quiz_id = data.get('quiz_id', 'quiz_1')
+        quiz = _quizzes.get(quiz_id)
         
         if not quiz:
-            # Try to load from onequiz.json
-            try:
-                with open(f'{base}/onequiz.json') as f:
-                    quiz = json.load(f)
-            except:
-                return {'statusCode': 404, 'headers': cors, 'body': json.dumps({'error': 'Quiz not found'})}
+            return {'statusCode': 404, 'headers': cors, 'body': json.dumps({'error': 'Quiz not found'})}
         
-        # Get 12 random questions
         questions = quiz.get('questions', [])
         if len(questions) > 12:
             questions = random.sample(questions, 12)
         
-        # Add temp_id to each question
         for i, q in enumerate(questions):
             q['temp_id'] = f'q{i+1}'
         
@@ -103,29 +116,19 @@ def handler(event, context):
             'title': quiz.get('title', 'Quiz')
         })}
     
-    # /api/result (POST)
+    # Route: /api/result (POST)
     if path == '/api/result' and method == 'POST':
-        try:
-            data = json.loads(body) if body else {}
-        except:
-            data = {}
-        
         token = data.get('token', '')
         if len(token) != 64:
             return {'statusCode': 401, 'headers': cors, 'body': json.dumps({'error': 'Unauthorized'})}
         
         answers = data.get('answers', {})
-        quiz_id = data.get('quiz_id', 'onequiz')
-        quiz = quizzes.get(quiz_id)
+        quiz_id = data.get('quiz_id', 'quiz_1')
+        quiz = _quizzes.get(quiz_id)
         
         if not quiz:
-            try:
-                with open(f'{base}/onequiz.json') as f:
-                    quiz = json.load(f)
-            except:
-                return {'statusCode': 404, 'headers': cors, 'body': json.dumps({'error': 'Quiz not found'})}
+            return {'statusCode': 404, 'headers': cors, 'body': json.dumps({'error': 'Quiz not found'})}
         
-        # Calculate MBTI scores
         scores = {'E': 0, 'I': 0, 'S': 0, 'N': 0, 'T': 0, 'F': 0, 'J': 0, 'P': 0}
         
         for q_id, opt_idx in answers.items():
@@ -135,22 +138,20 @@ def handler(event, context):
                     if 0 <= int(opt_idx) < len(opts):
                         score = opts[int(opt_idx)].get('score', '')
                         if isinstance(score, str):
-                            opp = {'E': 'I', 'I': 'E', 'S': 'N', 'N': 'S', 'T': 'F', 'F': 'T', 'J': 'P', 'P': 'J'}
-                            if score in opp:
+                            if score in scores:
                                 scores[score] += 1
                         elif isinstance(score, dict):
                             for k, v in score.items():
-                                scores[k] = scores.get(k, 0) + v
+                                if k in scores:
+                                    scores[k] += v
                     break
         
-        # Determine MBTI
         mbti = ''
         mbti += 'E' if scores['E'] >= scores['I'] else 'I'
         mbti += 'S' if scores['S'] >= scores['N'] else 'N'
         mbti += 'T' if scores['T'] >= scores['F'] else 'F'
         mbti += 'J' if scores['J'] >= scores['P'] else 'P'
         
-        # Find result
         result = None
         for r in quiz.get('results', []):
             if r.get('mbtiType') == mbti or r.get('mbti') == mbti:
@@ -162,12 +163,7 @@ def handler(event, context):
         return {'statusCode': 200, 'headers': cors, 'body': json.dumps({
             'mbti_type': mbti,
             'result': result,
-            'percentages': {
-                'extrovert_introvert': 50,
-                'sensing_intuition': 50,
-                'thinking_feeling': 50,
-                'judging_perceiving': 50
-            }
+            'percentages': {'extrovert_introvert': 50, 'sensing_intuition': 50, 'thinking_feeling': 50, 'judging_perceiving': 50}
         })}
     
     return {'statusCode': 404, 'headers': cors, 'body': json.dumps({'error': 'Not found'})}
