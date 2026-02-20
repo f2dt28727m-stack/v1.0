@@ -1,0 +1,149 @@
+{
+  "quizId": 25,
+  "title": "Which Taylor Swift Era Matches Your Personality?",
+  "category": "which_x",
+  "category_name": "Which X Are You?",
+  "language": "English",
+  "description": "Discover which Taylor Swift era matches your personality based on MBTI traits!",
+  "tags": ["Taylor Swift", "Music", "Personality", "MBTI", "Eras"],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "At a party, you prefer to...",
+      "options": [
+        {"text": "Meet new people and be the center of attention", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Stick with close friends and have deep talks", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Help the host and make sure everyone is okay", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "Observe quietly and analyze the room", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When making decisions, you rely on...",
+      "options": [
+        {"text": "Logic and analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+        {"text": "Emotions and values", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "Past experiences", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Future possibilities", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your ideal weekend is...",
+      "options": [
+        {"text": "Planning every detail and sticking to the schedule", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
+        {"text": "Going with the flow and spontaneous adventures", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
+        {"text": "Spending quiet time alone recharging", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Socializing with a big group of friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When learning something new, you...",
+      "options": [
+        {"text": "Hands-on practice", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Reading and理论研究", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Figure it out as you go", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
+        {"text": "Follow instructions carefully", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}}
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "In a conflict, you usually...",
+      "options": [
+        {"text": "Express your feelings openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "Stay calm and logical", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+        {"text": "Avoid it altogether", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Confront directly to resolve", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When working on a project, you...",
+      "options": [
+        {"text": "Work alone until it's done", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Collaborate and bounce ideas off others", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Create a detailed plan first", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
+        {"text": "Start immediately and figure out details later", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}}
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "People would describe you as...",
+      "options": [
+        {"text": "Outgoing and energetic", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Reserved and thoughtful", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Practical and reliable", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Creative and imaginative", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When giving advice, you focus on...",
+      "options": [
+        {"text": "Facts and practical solutions", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+        {"text": "Empathy and understanding", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "What's worked before", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "New and innovative approaches", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "You prefer work that...",
+      "options": [
+        {"text": "Has clear structure and deadlines", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
+        {"text": "Allows flexibility and creativity", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
+        {"text": "Involves helping others", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "Requires deep analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When meeting new people, you...",
+      "options": [
+        {"text": "Take the lead and introduce yourself", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Wait for them to approach you", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Observe first, then engage", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Make quick small talk", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your communication style is...",
+      "options": [
+        {"text": "Direct and to the point", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+        {"text": "Warm and personal", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "Detailed and thorough", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Big picture and conceptual", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Under stress, you tend to...",
+      "options": [
+        {"text": "Stay calm and problem-solve", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+        {"text": "Express emotions openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+        {"text": "Withdraw and recharge alone", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+        {"text": "Seek support from friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+      ]
+    }
+  ],
+  "results": [
+    {"mbtiType": "INFJ", "title": "Lover", "description": "You're like Taylor's most romantic ballads - deep, thoughtful, and incredibly passionate. You value meaningful connections and often put others' needs before your own."},
+    {"mbtiType": "INTJ", "title": "The Archer", "description": "You're strategic and independent like 'The Archer'. You know what you want and aren't afraid to go after it."},
+    {"mbtiType": "INFP", "title": "All Too Well", "description": "You're deeply emotional and romantic, like the epic 'All Too Well'. You feel things deeply and value authenticity."},
+    {"mbtiType": "INTP", "title": "Anti-Hero", "description": "You're the introspective 'Anti-Hero' - analytical, thoughtful, and sometimes feel like an outsider looking in."},
+    {"mbtiType": "ENFJ", "title": "Bejeweled", "description": "You're the life of the party 'Bejeweled' - charismatic, supportive, and love making everyone feel included."},
+    {"mbtiType": "ENTJ", "title": "Look What You Made Me Do", "description": "You're powerful and determined like 'Look What You Made Me Do'. You know your worth and aren't afraid to stand up for yourself."},
+    {"mbtiType": "ENFP", "title": "Shake It Off", "description": "You're energetic and optimistic like 'Shake It Off' - you don't let anything bring you down and inspire others with your energy."},
+    {"mbtiType": "ENTP", "title": "Question...?", "description": "You're curious and unpredictable like 'Question...' - always questioning, debating, and loving intellectual banter."},
+    {"mbtiType": "ISFJ", "title": "Enchanted", "description": "You're warm and devoted like 'Enchanted' - you value loyalty and create magical moments for those you love."},
+    {"mbtiType": "ISTJ", "title": "Tim McGraw", "description": "You're traditional and loyal like Taylor's country roots. You value reliability and remember the important details."},
+    {"mbtiType": "ESFJ", "title": "You Need To Calm Down", "description": "You're the supportive friend who wants everyone to get along, like 'You Need To Calm Down'. You thrive on harmony."},
+    {"mbtiType": "ESTJ", "title": "Ready For It?", "description": "You're confident and commanding like 'Ready For It?' - you take charge and get things done efficiently."},
+    {"mbtiType": "ISFP", "title": "Cornelia Street", "description": "You're artistic and sensitive like 'Cornelia Street' - you experience life deeply and value your personal space."},
+    {"mbtiType": "ISTP", "title": "Blank Space", "description": "You're the mysterious 'Blank Space' - cool on the surface but with a wild side only close friends see."},
+    {"mbtiType": "ESFP", "title": "22", "description": "You're fun-loving and spontaneous like '22' - you live in the moment and bring energy everywhere you go."},
+    {"mbtiType": "ESTP", "title": "I Knew You Were Trouble", "description": "You're bold and daring like 'I Knew You Were Trouble' - you love excitement and aren't afraid to take risks."}
+  ]
+}

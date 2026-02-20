@@ -1,0 +1,101 @@
+{
+  "quizId": 26,
+  "title": "What's Your ChatGPT Personality Type?",
+  "category": "which_x",
+  "category_name": "Which X Are You?",
+  "language": "English",
+  "description": "Discover your ChatGPT personality type based on how you interact with AI and your natural thinking patterns!",
+  "tags": ["ChatGPT", "AI", "Personality", "MBTI", "Tech"],
+  "questions": [
+    {"qId": 1, "text": "At a party, you prefer to...", "options": [
+      {"text": "Meet new people and be the center of attention", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Stick with close friends and have deep talks", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Help the host and make sure everyone is okay", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "Observe quietly and analyze the room", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 2, "text": "When making decisions, you rely on...", "options": [
+      {"text": "Logic and analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+      {"text": "Emotions and values", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "Past experiences", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Future possibilities", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 3, "text": "Your ideal weekend is...", "options": [
+      {"text": "Planning every detail and sticking to the schedule", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
+      {"text": "Going with the flow and spontaneous adventures", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
+      {"text": "Spending quiet time alone recharging", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Socializing with a big group of friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 4, "text": "When learning something new, you...", "options": [
+      {"text": "Hands-on practice", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Reading and理论研究", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Figure it out as you go", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
+      {"text": "Follow instructions carefully", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}}
+    ]},
+    {"qId": 5, "text": "In a conflict, you usually...", "options": [
+      {"text": "Express your feelings openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "Stay calm and logical", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+      {"text": "Avoid it altogether", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Confront directly to resolve", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 6, "text": "When working on a project, you...", "options": [
+      {"text": "Work alone until it's done", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Collaborate and bounce ideas off others", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Create a detailed plan first", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
+      {"text": "Start immediately and figure out details later", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}}
+    ]},
+    {"qId": 7, "text": "People would describe you as...", "options": [
+      {"text": "Outgoing and energetic", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Reserved and thoughtful", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Practical and reliable", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Creative and imaginative", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 8, "text": "When giving advice, you focus on...", "options": [
+      {"text": "Facts and practical solutions", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+      {"text": "Empathy and understanding", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "What's worked before", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "New and innovative approaches", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 9, "text": "You prefer work that...", "options": [
+      {"text": "Has clear structure and deadlines", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 1, "P": 0}},
+      {"text": "Allows flexibility and creativity", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 1}},
+      {"text": "Involves helping others", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "Requires deep analysis", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 10, "text": "When meeting new people, you...", "options": [
+      {"text": "Take the lead and introduce yourself", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Wait for them to approach you", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Observe first, then engage", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Make quick small talk", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 11, "text": "Your communication style is...", "options": [
+      {"text": "Direct and to the point", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+      {"text": "Warm and personal", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "Detailed and thorough", "score": {"E": 0, "I": 0, "S": 1, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Big picture and conceptual", "score": {"E": 0, "I": 0, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]},
+    {"qId": 12, "text": "Under stress, you tend to...", "options": [
+      {"text": "Stay calm and problem-solve", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 0, "P": 0}},
+      {"text": "Express emotions openly", "score": {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0}},
+      {"text": "Withdraw and recharge alone", "score": {"E": 0, "I": 1, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}},
+      {"text": "Seek support from friends", "score": {"E": 1, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}}
+    ]}
+  ],
+  "results": [
+    {"mbtiType": "INFJ", "title": "The Empathetic Advisor", "description": "You use AI to understand others better. Like an empathetic advisor, you seek AI insights to help people."},
+    {"mbtiType": "INTJ", "title": "The Strategic Architect", "description": "You treat AI as a tool to execute complex plans. You're strategic and efficient in how you use technology."},
+    {"mbtiType": "INFP", "title": "The Creative Explorer", "description": "You use AI for creative projects and self-expression. You're drawn to AI's imaginative possibilities."},
+    {"mbtiType": "INTP", "title": "The Curious Analyzer", "description": "You love exploring AI's capabilities intellectually. You're always testing boundaries and learning."},
+    {"mbtiType": "ENFJ", "title": "The Connector", "description": "You use AI to help others and bring people together. You see AI as a way to make a bigger impact."},
+    {"mbtiType": "ENTJ", "title": "The Power User", "description": "You leverage AI to get things done efficiently. You're always looking for ways to optimize and scale."},
+    {"mbtiType": "ENFP", "title": "The Idea Generator", "description": "You use AI to brainstorm and explore new possibilities. You're always excited by AI's creative potential."},
+    {"mbtiType": "ENTP", "title": "The Debate Partner", "description": "You treat AI as a intellectual sparring partner. You love challenging ideas and exploring all angles."},
+    {"mbtiType": "ISFJ", "title": "The Helpful Assistant", "description": "You use AI to be more helpful and organized. You appreciate AI's ability to remember details."},
+    {"mbtiType": "ISTJ", "title": "The Reliable Processor", "description": "You use AI for practical, structured tasks. You value efficiency and accuracy above all."},
+    {"mbtiType": "ESFJ", "title": "The Community Builder", "description": "You use AI to help your community and social circle. You see AI as a way to stay connected."},
+    {"mbtiType": "ESTJ", "title": "The Efficiency Expert", "description": "You use AI to streamline processes and get results. You're all about productivity and organization."},
+    {"mbtiType": "ISFP", "title": "The Aesthetic User", "description": "You use AI for creative and artistic pursuits. You appreciate beauty and personal expression."},
+    {"mbtiType": "ISTP", "title": "The Hands-On Tinkerer", "description": "You learn AI by doing and experimenting. You prefer practical applications over theory."},
+    {"mbtiType": "ESFP", "title": "The Fun Experimenter", "description": "You use AI for entertainment and spontaneous projects. You're always looking for fun ways to use new tools."},
+    {"mbtiType": "ESTP", "title": "The Action Taker", "description": "You use AI to get quick results and solve problems fast. You're all about real-world applications."}
+  ]
+}
