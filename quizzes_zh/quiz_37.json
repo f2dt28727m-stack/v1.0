@@ -1,0 +1,165 @@
+{
+  "quizId": 37,
+  "title": "你的星际灵魂伴侣",
+  "category": "match",
+  "category_name": "配对/灵魂伴侣",
+  "language": "中文",
+  "description": "仰望星空！回答12道题，发现你的宇宙灵魂伴侣是谁——从古老神祇到遥远星球。",
+  "tags": [
+    "星际",
+    "灵魂伴侣",
+    "星空",
+    "占星",
+    "神话",
+    "宇宙",
+    "趣味"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你理想的夜晚外出是...",
+      "options": [
+        { "text": "在宁静的草地上仰望星空", "score": "moon" },
+        { "text": "在极光下跳舞", "score": "aurora" },
+        { "text": "在屋顶派对狂欢到黎明", "score": "sun" },
+        { "text": "午夜探索古老神庙", "score": "star" }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "当你面对挑战时，你会...",
+      "options": [
+        { "text": "闪耀光芒，带领大家前进", "score": "sun" },
+        { "text": "像潮汐一样顺势而为", "score": "moon" },
+        { "text": "以热情的强度燃烧", "score": "aurora" },
+        { "text": "耐心闪烁，等待时机", "score": "star" }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "人们形容你的能量是...",
+      "options": [
+        { "text": "温暖而明亮", "score": "sun" },
+        { "text": "神秘而深邃", "score": "moon" },
+        { "text": "空灵而超凡脱俗", "score": "aurora" },
+        { "text": "永恒而智慧", "score": "star" }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你理想的度假目的地是...",
+      "options": [
+        { "text": "晴朗的热带岛屿", "score": "sun" },
+        { "text": "满月下的山间", "score": "moon" },
+        { "text": "冰岛看北极光", "score": "aurora" },
+        { "text": "适合观星的偏远沙漠", "score": "star" }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "在感情中，你是...",
+      "options": [
+        { "text": "永不熄灭的热烈火焰", "score": "sun" },
+        { "text": "指引归途的稳定光芒", "score": "moon" },
+        { "text": "难忘的魔法体验", "score": "aurora" },
+        { "text": "跨越生生世世的永恒连接", "score": "star" }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "你的美学风格可以形容为...",
+      "options": [
+        { "text": "黄金时刻，温暖金色", "score": "sun" },
+        { "text": "银色月光，柔和神秘", "score": "moon" },
+        { "text": "彩虹般流转的色彩", "score": "aurora" },
+        { "text": "经典黑白，永恒", "score": "star" }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "当你爱的时候，你会...",
+      "options": [
+        { "text": "热烈而公开地爱", "score": "sun" },
+        { "text": "深沉而安静地爱", "score": "moon" },
+        { "text": "像魔法一样爱", "score": "aurora" },
+        { "text": "永远而始终地爱", "score": "star" }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "你的精神动物是...",
+      "options": [
+        { "text": "狮子——勇敢无畏", "score": "sun" },
+        { "text": "猫头鹰——智慧观察", "score": "moon" },
+        { "text": "凤凰——魔法重生", "score": "aurora" },
+        { "text": "狼——忠诚永恒", "score": "star" }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你的人生哲学是...",
+      "options": [
+        { "text": "为所有人闪耀你的光芒", "score": "sun" },
+        { "text": "随宇宙的节奏流动", "score": "moon" },
+        { "text": "相信魔法和奇迹", "score": "aurora" },
+        { "text": "星辰永恒，灵魂亦然", "score": "star" }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "如果你是一个季节，你会是...",
+      "options": [
+        { "text": "夏天——充满活力", "score": "sun" },
+        { "text": "冬天——安静反思", "score": "moon" },
+        { "text": "春天——充满惊奇", "score": "aurora" },
+        { "text": "秋天——美丽的过渡", "score": "star" }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你想对宇宙说的话...",
+      "options": [
+        { "text": "让我闪耀并激励他人", "score": "sun" },
+        { "text": "指引我回家的路", "score": "moon" },
+        { "text": "让我看到万物中的魔法", "score": "aurora" },
+        { "text": "在无限星辰中记住我", "score": "star" }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "什么吸引你走向宇宙？",
+      "options": [
+        { "text": "它提供的光明和温暖", "score": "sun" },
+        { "text": "它隐藏的神秘和秘密", "score": "moon" },
+        { "text": "它令人惊叹的美", "score": "aurora" },
+        { "text": "它的永恒和无限", "score": "star" }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "result_id": "sun",
+      "title": "太阳",
+      "description": "你的星际灵魂伴侣是太阳——太阳系的金色心脏！像太阳一样，你充满活力、热情洋溢，给周围的每个人带来温暖。你是天然领袖，行动时最为耀眼。你的光芒激励他人，你的热情永恒燃烧。人们被你的温暖和光彩所吸引。",
+      "image": "☀️"
+    },
+    {
+      "result_id": "moon",
+      "title": "月亮",
+      "description": "你的星际灵魂伴侣是月亮——夜晚的温柔守护者！像月亮一样，你给周围的人带来平静和安慰。你直觉敏锐、情感丰富、极其富有爱心。你的光虽然柔和，却在最黑暗的夜晚指引人们。你随生命的潮汐流动，同时保持真实的自我。",
+      "image": "🌙"
+    },
+    {
+      "result_id": "aurora",
+      "title": "北极光",
+      "description": "你的星际灵魂伴侣是北极光——自然界最神奇的灯光秀！你是一个在平凡中看到魔法的梦想家。你的存在空灵而迷人，让周围的每个人都惊叹不已。你为灰色的世界带来惊奇和色彩。就像北极光一样，你稀有、美丽、独一无二。",
+      "image": "🌌"
+    },
+    {
+      "result_id": "star",
+      "title": "北极星",
+      "description": "你的星际灵魂伴侣是北极星——迷路旅人的永恒指南！你有着超越年龄的智慧，有一种吸引他人的永恒品质。像永不动摇的星辰，你可靠、始终如一，总是指引方向。你与他人的联系超越时空。",
+      "image": "⭐"
+    }
+  ]
+}

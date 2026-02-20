@@ -1,0 +1,165 @@
+{
+  "quizId": 37,
+  "title": "Your Celestial Soulmate",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "English",
+  "description": "Look up at the stars! Answer 12 questions to discover which celestial being is your cosmic soulmate—from ancient gods to distant planets.",
+  "tags": [
+    "Celestial",
+    "Soulmate",
+    "Stars",
+    "Astrology",
+    "Mythology",
+    "Cosmic",
+    "Fun"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Your ideal night out is...",
+      "options": [
+        { "text": "Stargazing in a quiet meadow", "score": "moon" },
+        { "text": "Dancing under the aurora borealis", "score": "aurora" },
+        { "text": "A lively rooftop party until dawn", "score": "sun" },
+        { "text": "Exploring an ancient temple at midnight", "score": "star" }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When you face a challenge, you...",
+      "options": [
+        { "text": "Shine brightest and lead the way", "score": "sun" },
+        { "text": "Adapt and flow like the tides", "score": "moon" },
+        { "text": "Burn with passionate intensity", "score": "aurora" },
+        { "text": "Twinkle patiently and wait for your moment", "score": "star" }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "People describe your energy as...",
+      "options": [
+        { "text": "Warm and radiant", "score": "sun" },
+        { "text": "Mysterious and deep", "score": "moon" },
+        { "text": "Ethereal and otherworldly", "score": "aurora" },
+        { "text": "Timeless and wise", "score": "star" }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your ideal vacation destination is...",
+      "options": [
+        { "text": "A tropical island with clear skies", "score": "sun" },
+        { "text": "The mountains under a full moon", "score": "moon" },
+        { "text": "Iceland to see the northern lights", "score": "aurora" },
+        { "text": "A remote desert for star-gazing", "score": "star" }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "In relationships, you are...",
+      "options": [
+        { "text": "The passionate flame that never dims", "score": "sun" },
+        { "text": "The steady light guiding them home", "score": "moon" },
+        { "text": "A magical experience they'll never forget", "score": "aurora" },
+        { "text": "A timeless connection across lifetimes", "score": "star" }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Your aesthetic could be described as...",
+      "options": [
+        { "text": "Golden hour, warm and golden", "score": "sun" },
+        { "text": "Silver moonlight, soft and mysterious", "score": "moon" },
+        { "text": "Iridescent, shifting colors", "score": "aurora" },
+        { "text": "Classic black and white, eternal", "score": "star" }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When you love, you love...",
+      "options": [
+        { "text": "Fiercely and openly", "score": "sun" },
+        { "text": "Deeply and quietly", "score": "moon" },
+        { "text": "Like it's magic", "score": "aurora" },
+        { "text": "Forever and always", "score": "star" }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Your power animal would be...",
+      "options": [
+        { "text": "Lion - bold and brave", "score": "sun" },
+        { "text": "Owl - wise and observant", "score": "moon" },
+        { "text": "Phoenix - magical and reborn", "score": "aurora" },
+        { "text": "Wolf - loyal and eternal", "score": "star" }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Your philosophy in life is...",
+      "options": [
+        { "text": "Shine your light for all to see", "score": "sun" },
+        { "text": "Flow with the universe's rhythm", "score": "moon" },
+        { "text": "Believe in magic and miracles", "score": "aurora" },
+        { "text": "Stars are eternal, so is the soul", "score": "star" }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you were a season, you'd be...",
+      "options": [
+        { "text": "Summer - vibrant and energetic", "score": "sun" },
+        { "text": "Winter - quiet and reflective", "score": "moon" },
+        { "text": "Spring - full of wonder", "score": "aurora" },
+        { "text": "Autumn - beautifully transitional", "score": "star" }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your message to the universe...",
+      "options": [
+        { "text": "Let me shine and inspire others", "score": "sun" },
+        { "text": "Guide me on my journey home", "score": "moon" },
+        { "text": "Show me the magic in everything", "score": "aurora" },
+        { "text": "Remember me among the infinite stars", "score": "star" }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "What draws you to the cosmos?",
+      "options": [
+        { "text": "The light and warmth it provides", "score": "sun" },
+        { "text": "The mystery and secrets it holds", "score": "moon" },
+        { "text": "The breathtaking beauty and wonder", "score": "aurora" },
+        { "text": "The timelessness and infinity", "score": "star" }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "result_id": "sun",
+      "title": "The Sun",
+      "description": "Your celestial soulmate is THE SUN - the golden heart of the solar system! Like the sun, you are vibrant, energetic, and bring warmth to everyone around you. You're a natural leader who shines brightest when taking action. Your glow inspires others, and your passion burns eternal. People are drawn to your warmth and radiance.",
+      "image": "☀️"
+    },
+    {
+      "result_id": "moon",
+      "title": "The Moon",
+      "description": "Your celestial soulmate is THE MOON - the gentle guardian of the night! Like the moon, you bring calm and comfort to those around you. You're intuitive, emotional, and incredibly nurturing. Your light may be softer, but it guides people through the darkest nights. You flow with life's tides while staying true to yourself.",
+      "image": "🌙"
+    },
+    {
+      "result_id": "aurora",
+      "title": "The Aurora Borealis",
+      "description": "Your celestial soulmate is THE AURORA BOREALIS - nature's most magical light show! You're a dreamer who sees magic in the ordinary. Your presence is ethereal and enchanting, leaving everyone around you spellbound. You bring wonder and color to a gray world. Like the northern lights, you're rare, beautiful, and utterly unique.",
+      "image": "🌌"
+    },
+    {
+      "result_id": "star",
+      "title": "The North Star",
+      "description": "Your celestial soulmate is THE NORTH STAR - the eternal guide for lost travelers! You're wise beyond your years, with a timeless quality that draws others to you. Like the star that never wavers, you're reliable, constant, and always point the way. Your connection with others transcends time and space.",
+      "image": "⭐"
+    }
+  ]
+}
