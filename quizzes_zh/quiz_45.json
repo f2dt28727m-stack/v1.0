@@ -1,0 +1,171 @@
+{
+  "quizId": 45,
+  "title": "你的命运伴侣类型",
+  "title_zh": "你的命运伴侣类型",
+  "type": "match",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "Chinese",
+  "description": "发现什么样的伴侣类型与你的性格互补，创造完美的恋爱关系动态！",
+  "tags": [
+    "爱情",
+    "关系",
+    "配对",
+    "灵魂伴侣",
+    "性格",
+    "命运",
+    "Love",
+    "Relationship",
+    "Match",
+    "Soulmate"
+  ],
+  "resultTitle": "你的命运伴侣类型",
+  "results": {
+    "adventurer": {
+      "title": "冒险探索型",
+      "description": "你的理想伴侣是与你一样热爱 spontaneity 和新体验的人。他们激励你走出舒适区，让生活充满刺激和惊喜。你们是不可阻挡的二人组，一起追逐日落、收集回忆。"
+    },
+    "nurturer": {
+      "title": "温暖养育型",
+      "description": "你与能够提供情感深度和无条件支持的伴侣相处得最好。他们创造了一个安全的港湾，让你能够脆弱和真实。他们的耐心和关怀平衡你的能量，帮助你成长。"
+    },
+    "intellectual": {
+      "title": "理性知性型",
+      "description": "你需要一位能够匹配你心智能量并进行深入对话的伴侣。刺激的辩论和共同的好奇心定义了你们的关系。你们一起探索想法，挑战彼此思考更宏大。"
+    },
+    "playful": {
+      "title": "活泼有趣型",
+      "description": "完美的匹配是能为你的生活带来幽默和轻松的人。他们提醒你不要太认真对待每件事，把日常时刻变成有趣的冒险。在你们的关系中，笑声是基础。"
+    },
+    "stable": {
+      "title": "稳重可靠型",
+      "description": "你需要一位提供稳定和踏实能量的伴侣。他们帮助你度过难关，自信地制定长期计划。他们的可靠性让你追求梦想而无忧无虑。"
+    },
+    "passionate": {
+      "title": "热情如火型",
+      "description": "你渴望一位能够匹配你的热情和情感深度的伴侣。你的连接是电光火石的——你们互相激励去追求梦想、深情体验。一起，你们体验到最强大的爱情形式。"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你理想约会之夜是什么样的？",
+      "options": [
+        { "text": "说走就走的road trip，去未知的地方", "score": { "adventurer": 3, "nurturer": 1, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "在家做一顿温馨晚餐，深入交流", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 2, "playful": 1, "stable": 2, "passionate": 1 } },
+        { "text": "去博物馆或听讲座", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "尝试新餐厅或有趣的活动", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 1, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "你如何处理冲突？",
+      "options": [
+        { "text": "想马上面对面谈清楚", "score": { "adventurer": 2, "nurturer": 2, "intellectual": 3, "playful": 1, "stable": 1, "passionate": 3 } },
+        { "text": "需要空间先处理情绪", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 1, "playful": 1, "stable": 3, "passionate": 1 } },
+        { "text": "冷静下来再讨论", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 2, "playful": 2, "stable": 2, "passionate": 0 } },
+        { "text": "用幽默缓解紧张气氛", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你在感情中最看重什么？",
+      "options": [
+        { "text": "刺激和共同的冒险", "score": { "adventurer": 3, "nurturer": 0, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "情感支持和理解", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 2, "passionate": 2 } },
+        { "text": "思维刺激和深入对话", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "笑声和开心相处", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你如何表达爱意？",
+      "options": [
+        { "text": "计划惊喜冒险，一起体验", "score": { "adventurer": 3, "nurturer": 1, "intellectual": 1, "playful": 2, "stable": 1, "passionate": 2 } },
+        { "text": "通过照顾和服务的行动", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 3, "passionate": 1 } },
+        { "text": "分享知识和有趣的发现", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 1, "stable": 1, "passionate": 2 } },
+        { "text": "开玩笑和逗趣", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "你对未来的态度是？",
+      "options": [
+        { "text": "拥抱未知，活在当下", "score": { "adventurer": 3, "nurturer": 0, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "一起建立安全的基础", "score": { "adventurer": 0, "nurturer": 2, "intellectual": 1, "playful": 0, "stable": 3, "passionate": 1 } },
+        { "text": "深思熟虑地规划，讨论目标", "score": { "adventurer": 1, "nurturer": 2, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "一天天过，保持积极", "score": { "adventurer": 2, "nurturer": 2, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "生活艰难时，你需要伴侣：",
+      "options": [
+        { "text": "随时准备与你一起面对任何挑战", "score": { "adventurer": 3, "nurturer": 1, "intellectual": 1, "playful": 1, "stable": 1, "passionate": 3 } },
+        { "text": "给你依靠，分担你的难过", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 2, "passionate": 1 } },
+        { "text": "帮你理性分析解决方案", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "让你即使在困难时也能笑出来", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "周末你喜欢做什么？",
+      "options": [
+        { "text": "徒步、旅行或尝试新事物", "score": { "adventurer": 3, "nurturer": 1, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "一起做饭，在家度过温馨时光", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 2, "stable": 2, "passionate": 1 } },
+        { "text": "阅读、学习或看展览", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "玩游戏、看喜剧或社交聚会", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "你们如何做决定？",
+      "options": [
+        { "text": "顺其自然，看结果如何", "score": { "adventurer": 3, "nurturer": 1, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "开放讨论，优先考虑和谐", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 2, "playful": 1, "stable": 2, "passionate": 1 } },
+        { "text": "一起分析利弊", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "保持有趣，不要想太多", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你的爱情语言是什么？",
+      "options": [
+        { "text": "高质量时间和共同体验", "score": { "adventurer": 3, "nurturer": 2, "intellectual": 2, "playful": 2, "stable": 1, "passionate": 2 } },
+        { "text": "肯定的言语和情感连接", "score": { "adventurer": 1, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 1, "passionate": 3 } },
+        { "text": "深入对话和一起学习", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 1, "stable": 2, "passionate": 1 } },
+        { "text": "逗趣的互动和开心玩闹", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "什么吸引你？",
+      "options": [
+        { "text": "敢于尝试一切的勇气", "score": { "adventurer": 3, "nurturer": 0, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "善良和对他人的真诚关怀", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 2, "passionate": 2 } },
+        { "text": "智慧和有深度的见解", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "幽默感和有趣的灵魂", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你理想中的生活是什么样的？",
+      "options": [
+        { "text": "充满冒险和说走就走的旅行", "score": { "adventurer": 3, "nurturer": 1, "intellectual": 1, "playful": 2, "stable": 0, "passionate": 2 } },
+        { "text": "温暖有爱的家，深刻的连接", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 3, "passionate": 1 } },
+        { "text": "一起成长，通过学习和发现", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 2 } },
+        { "text": "充满笑声、梗和快乐", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "你最欣赏的品质是？",
+      "options": [
+        { "text": "勇气和无畏", "score": { "adventurer": 3, "nurturer": 0, "intellectual": 1, "playful": 1, "stable": 1, "passionate": 3 } },
+        { "text": "同情心和耐心", "score": { "adventurer": 0, "nurturer": 3, "intellectual": 1, "playful": 1, "stable": 3, "passionate": 1 } },
+        { "text": "智慧和洞察力", "score": { "adventurer": 1, "nurturer": 1, "intellectual": 3, "playful": 0, "stable": 2, "passionate": 1 } },
+        { "text": "乐观和幽默", "score": { "adventurer": 2, "nurturer": 1, "intellectual": 0, "playful": 3, "stable": 1, "passionate": 2 } }
+      ]
+    }
+  ]
+}
