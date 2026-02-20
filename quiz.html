@@ -340,23 +340,28 @@ async function loadQuizData() {
     try {
         document.getElementById('app').innerHTML = '<div class="loading">Loading questions...</div>';
         
-        // Load questions from static JSON file
+        // Get token
+        const tokenRes = await fetch('/api/token');
+        const tokenData = await tokenRes.json();
+        const token = tokenData.token;
+        
+        // Load questions from API
         const quizId = getQuizId();
-        const response = await fetch(`/quizzes/${quizId}.json`);
+        const response = await fetch('/api/questions', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ token: token, quiz_id: quizId })
+        });
         
         if (!response.ok) {
             throw new Error('Failed to load quiz data');
         }
         
-        const quizData = await response.json();
-        
-        // Shuffle and pick 12 random questions
-        const allQuestions = quizData.questions || [];
-        const shuffled = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 12);
+        const data = await response.json();
         
         // Format questions for the quiz
-        questions = shuffled.map((q, i) => ({
-            id: q.qId || `q${i+1}`,
+        questions = data.questions.map((q, i) => ({
+            id: q.temp_id || `q${i+1}`,
             t: q.text,
             o: q.options.map((opt, s) => ({
                 text: opt.text,
@@ -365,8 +370,7 @@ async function loadQuizData() {
             }))
         }));
         
-        quizData.title = quizData.title;
-        quizData.quizId = quizId;
+        quizData = { title: data.title, quizId: data.quiz_id, token: token };
         
     } catch (error) {
         console.error('Error loading quiz data:', error);
@@ -380,50 +384,40 @@ async function submitAnswers() {
     try {
         document.getElementById('app').innerHTML = '<div class="loading">Calculating your result...</div>';
         
-        // Calculate result locally
-        const dimensionScores = {E: 0, I: 0, S: 0, N: 0, T: 0, F: 0, J: 0, P: 0};
-        
+        // Prepare answers
+        const formattedAnswers = {};
         Object.entries(answers).forEach(([qId, optionScore]) => {
             const question = questions.find(q => q.id === qId);
             if (question) {
-                const option = question.o.find(o => o.score === optionScore);
-                if (option && option.score) {
-                    const score = option.score;
-                    // Handle score as string (like 'E', 'I', etc.) or object
-                    if (typeof score === 'string') {
-                        if (score === 'E') dimensionScores.E++;
-                        else if (score === 'I') dimensionScores.I++;
-                        else if (score === 'S') dimensionScores.S++;
-                        else if (score === 'N') dimensionScores.N++;
-                        else if (score === 'T') dimensionScores.T++;
-                        else if (score === 'F') dimensionScores.F++;
-                        else if (score === 'J') dimensionScores.J++;
-                        else if (score === 'P') dimensionScores.P++;
-                    } else if (typeof score === 'object') {
-                        Object.entries(score).forEach(([dim, val]) => {
-                            if (dimensionScores.hasOwnProperty(dim)) {
-                                dimensionScores[dim] += val;
-                            }
-                        });
-                    }
+                const optionIdx = question.o.findIndex(o => o.score === optionScore);
+                if (optionIdx >= 0) {
+                    formattedAnswers[qId] = optionIdx;
                 }
             }
         });
         
-        // Determine MBTI type
-        let mbtiType = '';
-        mbtiType += dimensionScores.E >= dimensionScores.I ? 'E' : 'I';
-        mbtiType += dimensionScores.S >= dimensionScores.N ? 'S' : 'N';
-        mbtiType += dimensionScores.T >= dimensionScores.F ? 'T' : 'F';
-        mbtiType += dimensionScores.J >= dimensionScores.P ? 'J' : 'P';
+        // Submit to API
+        const response = await fetch('/api/result', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                token: quizData.token,
+                quiz_id: quizData.quizId,
+                answers: formattedAnswers
+            })
+        });
         
-        // Return a mock result - in production you'd match against results in the quiz JSON
-        return {
-            mbti_type: mbtiType,
-            result: {
-                mbtiType: mbtiType,
-                title: mbtiType + ' Type',
-                description: 'Your result is ' + mbtiType
+        if (!response.ok) {
+            throw new Error('Failed to get result');
+        }
+        
+        return await response.json();
+        
+    } catch (error) {
+        console.error('Error submitting answers:', error);
+        throw error;
+    }
+}
             },
             percentages: {
                 extrovert_introvert: Math.round((dimensionScores.E / (dimensionScores.E + dimensionScores.I || 1)) * 100),
