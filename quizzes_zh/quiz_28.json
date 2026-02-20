@@ -1,0 +1,413 @@
+{
+  "quizId": 28,
+  "title": "你的浪漫指数有多高？",
+  "category": "degree",
+  "category_name": "程度型",
+  "language": "Chinese",
+  "description": "发现你的浪漫人格类型！回答12个问题，找出你到底有多浪漫。",
+  "tags": [
+    "浪漫",
+    "爱情",
+    "人格",
+    "情感",
+    "约会",
+    "Romance",
+    "Love"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "情人节你通常会...",
+      "options": [
+        {
+          "text": "精心策划惊喜，准备鲜花、晚餐和贴心的礼物",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "出去吃顿好吃的，但保持简单",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "会记得这个日子但不会大张旗鼓",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "对我来说只是普通的一天",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "当你暗恋一个人时，你会...",
+      "options": [
+        {
+          "text": "忍不住一直想他/她，经常 daydream",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "经常想到他/她，但还是很务实",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "慢慢来，看看情况发展",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "先观察对方是否对我有意思",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你理想的约会方式是...",
+      "options": [
+        {
+          "text": "星空下的烛光晚餐，配上轻柔的音乐",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "一起玩有趣的活动，比如迷你高尔夫或保龄球",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "喝咖啡或吃顿便饭聊聊天",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "双方时间能凑上就行",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "恋爱时，你倾向于...",
+      "options": [
+        {
+          "text": "写情书、计划惊喜，经常说"我爱你"",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "通过行动和相处时间来表达爱意",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "用实际的方式表达爱意，比如帮忙做事",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "专注于一起规划稳定的未来",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "你最喜欢的爱情故事类型是...",
+      "options": [
+        {
+          "text": "史诗级的浪漫故事，有戏剧性的阻碍和热烈的重逢",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "温馨的故事，有甜蜜细腻的小细节",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "现实的恋爱故事，讲述实际的挑战",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "我不太看浪漫故事",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "当伴侣做了甜蜜的事，你会...",
+      "options": [
+        {
+          "text": "感动得不行，也想回报同样甜蜜的事",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "很感激，会表达我的谢意",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "说谢谢但不会大惊小怪",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "觉得这是恋爱中很正常的事",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "你认为爱情是...",
+      "options": [
+        {
+          "text": "一种神奇的、改变人生的体验，让所有感官都沦陷",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "一种美好的连接，随时间推移越来越深",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "建立在信任、尊重和兼容性上的伙伴关系",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "一种互惠互利的实际安排",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "你在社交媒体上对待感情的态度是...",
+      "options": [
+        {
+          "text": "喜欢分享甜蜜的约会瞬间和纪念日帖子",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "偶尔分享，但保持得体",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "保持恋爱隐私，不公开",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "从来不在社交媒体上发关于恋爱的事",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "当你想象求婚或被求婚的场景，你梦想的是...",
+      "options": [
+        {
+          "text": "宏大的、电影般的时刻，有朋友和家人见证",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "有意义的、个性化的求婚，对我们两人独特",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "简单但真诚的时刻",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "直接告诉对方就行，不需要复杂计划",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "你会注意到伴侣的...",
+      "options": [
+        {
+          "text": "一切 - 从他/她的笑容到举止的方式",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "小习惯和让他们与众不同的小细节",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "对感情重要的事情",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "他/她的责任感和可靠性",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你理想的周年纪念庆祝方式是...",
+      "options": [
+        {
+          "text": "重温第一次约会的场景或梦幻 getaway",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "好吃的晚餐和交换用心的礼物",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "在家共度温馨时光",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "记得这个日子但不需要盛大庆祝",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "当你爱上一个人时，你会...",
+      "options": [
+        {
+          "text": "爱得很深很快 - 彻底坠入爱河",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "稳步坠入爱河但保持一些谨慎",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "慢慢培养感情",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "先分析兼容性再让自己陷入",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "绝望浪漫主义者",
+      "description": "爱情对你来说就是一切！你相信童话般的结果、宏大的举动和让人神魂颠倒的约会。你的心为你指引方向，你不怕把心写在袖子上。对你来说，爱是生命中最美好的事。",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 30,
+      "maxScore": 36,
+      "mbtiTypes": ["ENFJ", "ESFJ", "INFP", "ISFP"]
+    },
+    {
+      "title": "甜蜜梦想家",
+      "description": "你有一颗浪漫的心，但保持在现实与理想之间的平衡。你喜欢体贴的举动和有意义的时刻，但你也欣赏感情中实际的一面。你是那种会计划美好约会同时保持脚踏实地的人。",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 20,
+      "maxScore": 29,
+      "mbtiTypes": ["INFJ", "ENFP", "ESFP", "ISFJ"]
+    },
+    {
+      "title": "务实浪漫者",
+      "description": "你通过行动而不是宏大的举动来表达爱意。虽然你欣赏浪漫，但你认为浪漫应该自然地融入日常生活。你的爱是稳定的、可靠的、深刻的 - 只是不会太戏剧化。",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 10,
+      "maxScore": 19,
+      "mbtiTypes": ["ISTJ", "ESTJ", "INTJ", "ENTJ"]
+    },
+    {
+      "title": "理性恋人",
+      "description": "浪漫不是你擅长的，但这不意味着你爱得不深。你用分析的心态来处理感情，专注于兼容性和长期潜力。你的感情表现在稳定的支持而不是热情的举动。",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 0,
+      "maxScore": 9,
+      "mbtiTypes": ["ISTP", "ESTP", "INTP", "ENTP"]
+    }
+  ]
+}

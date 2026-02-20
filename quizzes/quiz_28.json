@@ -1,0 +1,413 @@
+{
+  "quizId": 28,
+  "title": "How Romantic Are You?",
+  "category": "degree",
+  "category_name": "How [Adjective] Are You?",
+  "language": "English",
+  "description": "Discover your romantic personality type! Answer 12 questions to find out just how romantic you truly are.",
+  "tags": [
+    "Romance",
+    "Love",
+    "Personality",
+    "Relationship",
+    "浪漫",
+    "爱情",
+    "情感"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "On Valentine's Day, you usually...",
+      "options": [
+        {
+          "text": "Plan an elaborate surprise with flowers, dinner, and thoughtful gifts",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Enjoy a nice dinner out but keep it simple",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Acknowledge it but don't make a big deal",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "It's just another day to me",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When you have a crush, you...",
+      "options": [
+        {
+          "text": "Can't stop thinking about them and daydream constantly",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Think about them often but stay practical",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Take it slow and see how things go",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Focus on whether they're interested first",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your ideal date would be...",
+      "options": [
+        {
+          "text": "A candlelit dinner under the stars with soft music",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "A fun activity together like mini-golf or bowling",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Coffee or a casual meal to talk",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Whatever works with both schedules",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When in love, you tend to...",
+      "options": [
+        {
+          "text": "Write love letters, plan surprises, and say 'I love you' often",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Show affection through actions and quality time",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Express love in practical ways like helping with tasks",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Focus on building a stable future together",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your favorite love story genre is...",
+      "options": [
+        {
+          "text": "Epic romance with dramatic obstacles and passionate reunions",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Heartwarming stories with sweet, subtle moments",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Realistic portrayals of relationships with practical challenges",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "I don't really watch romantic stories",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When your partner does something sweet, you...",
+      "options": [
+        {
+          "text": "Feel overwhelmed with emotion and want to do something equally sweet in return",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Really appreciate it and show your gratitude",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Say thanks but don't make a huge fuss",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Accept it as normal in a relationship",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "You believe love is...",
+      "options": [
+        {
+          "text": "A magical, life-changing experience that overwhelms all senses",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "A beautiful connection that grows deeper over time",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "A partnership built on trust, respect, and compatibility",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "A practical arrangement where both people benefit",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Your social media approach to relationships...",
+      "options": [
+        {
+          "text": "Love sharing cute couple moments and anniversary posts",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Share occasionally but keep it tasteful",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Keep my relationship private",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Never post about my relationship",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When proposing or being proposed to, you dream of...",
+      "options": [
+        {
+          "text": "A grand, cinematic moment with friends and family",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "A meaningful, personal proposal that's unique to us",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "A simple but sincere moment",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Just asking/telling them directly - no elaborate plans needed",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "You notice your partner's...",
+      "options": [
+        {
+          "text": "Everything - from their smile to the way they move",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Little habits and things that make them unique",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Important things that matter in the relationship",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Their responsible traits and reliability",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your idea of a perfect anniversary celebration...",
+      "options": [
+        {
+          "text": "Reliving our first date or a dreamy getaway",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "A nice dinner and exchanging thoughtful gifts",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Spending quality time together at home",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Acknowledging it but not needing to celebrate elaborately",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When you fall for someone, you...",
+      "options": [
+        {
+          "text": "Fall hard and fast - head over heels",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Fall steadily but maintain some caution",
+          "score": {
+            "romantic": 2
+          }
+        },
+        {
+          "text": "Take time to develop feelings gradually",
+          "score": {
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Analyze compatibility before letting myself fall",
+          "score": {
+            "romantic": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Hopeless Romantic",
+      "description": "Love is everything to you! You believe in fairy-tale endings, grand gestures, and sweeping people off their feet. Your heart leads the way, and you're not afraid to wear it on your sleeve. For you, love is the most beautiful thing in life.",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 30,
+      "maxScore": 36,
+      "mbtiTypes": ["ENFJ", "ESFJ", "INFP", "ISFP"]
+    },
+    {
+      "title": "The Sweet Dreamer",
+      "description": "You have a romantic heart but keep it balanced with reality. You love thoughtful gestures and meaningful moments, but you also appreciate the practical side of relationships. You're the type to plan nice dates while staying grounded.",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 20,
+      "maxScore": 29,
+      "mbtiTypes": ["INFJ", "ENFP", "ESFP", "ISFJ"]
+    },
+    {
+      "title": "The Practical Romantic",
+      "description": "You show love through actions rather than grand gestures. While you appreciate romance, you believe it should fit naturally into everyday life. Your love is steady, reliable, and deep - just not overly dramatic.",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 10,
+      "maxScore": 19,
+      "mbtiTypes": ["ISTJ", "ESTJ", "INTJ", "ENTJ"]
+    },
+    {
+      "title": "The Logical Lover",
+      "description": " Romance isn't your strong suit, but that doesn't mean you don't love deeply. You approach relationships with a analytical mind, focusing on compatibility and long-term potential. Your affection shows in steady support rather than passionate gestures.",
+      "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
+      "minScore": 0,
+      "maxScore": 9,
+      "mbtiTypes": ["ISTP", "ESTP", "INTP", "ENTP"]
+    }
+  ]
+}
