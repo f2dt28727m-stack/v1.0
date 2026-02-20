@@ -1,0 +1,718 @@
+{
+  "quizId": 50,
+  "title": "你退休后的理想生活是什么样的？",
+  "title_zh": "你退休后的理想生活是什么样的？",
+  "category": "future_destiny",
+  "category_name": "未来 / 命运",
+  "language": "Chinese",
+  "description": "回答12个问题，发现你退休后的理想生活方式！从居住地到日常安排，看看你的梦想退休生活是什么样子。",
+  "tags": [
+    "退休",
+    "理想生活",
+    "未来",
+    "生活方式",
+    "晚年",
+    "人生清单"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你希望在哪里度过退休岁月？",
+      "options": [
+        {
+          "text": "热带天堂的海滨别墅",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "山间温馨的小木屋",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "繁华都市中心的公寓",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "宁静乡村的农场小屋",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "环游世界的数字游民",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "你理想的退休早晨是什么样的？",
+      "options": [
+        {
+          "text": "在海滩上迎接日出，做瑜伽",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "早餐前登山徒步",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "在本地咖啡馆喝咖啡，读新闻",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "照料菜园和农场动物",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "探索一个新城市或国家",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你如何规划退休收入的使用？",
+      "options": [
+        {
+          "text": "奢华旅行和异国体验",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "舒适的房屋和兴趣爱好",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "投资企业和慈善事业",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "精致美食和文化活动",
+          "score": {
+            "beach": 2,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "简单生活，为家人储蓄",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 3,
+            "abroad": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你最期待的退休爱好是什么？",
+      "options": [
+        {
+          "text": "学习帆船和水上运动",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "摄影和自然探索",
+          "score": {
+            "beach": 1,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "上艺术课程，参观博物馆",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 2,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "园艺和可持续生活",
+          "score": {
+            "beach": 0,
+            "mountain": 2,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "写一本关于人生冒险的书",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 1,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "你希望与谁共度退休时光？",
+      "options": [
+        {
+          "text": "伴侣一起环游世界",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "陪伴家人，看孙辈成长",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "志同道合的朋友组成的社区",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "独自一人，享受完全的自由",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "混合模式 - 家人探访和独自冒险",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 2,
+            "abroad": 2
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "你梦想的退休之家是什么样的？",
+      "options": [
+        {
+          "text": "海景海滩别墅",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "可俯瞰全景的山间小屋",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "文化中心现代化公寓",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "有广阔土地的历史农舍",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "不固定 - 住在不同地方",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "退休后你想如何保持活力？",
+      "options": [
+        {
+          "text": "游泳、冲浪和海滩散步",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "登山、滑雪和山地运动",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "步行游览、跳舞和城市探索",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "农耕、园艺和体力劳动",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "瑜伽、冥想和养生练习",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 2
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "你想留下什么遗产？",
+      "options": [
+        {
+          "text": "旅行中的故事和回忆",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "保护的自然保护区或农场",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "书籍、艺术或文化贡献",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 2,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "传承家庭传统和价值观",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "指导和教育下一代",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你理想的退休生活节奏是什么？",
+      "options": [
+        {
+          "text": "放松的海滩氛围 - 缓慢而平静",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "活跃的山地生活 - 不断探索",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "都市兴奋 - 每天都有文化活动",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "乡村节奏 - 随季节生活",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "持续的冒险 - 从不安顿",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "退休后你想如何回馈社会？",
+      "options": [
+        {
+          "text": "海洋保护和组织海滩清洁",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "环境保护和野生动物保护",
+          "score": {
+            "beach": 1,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "城市志愿服务和社区服务",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "有机农业和粮食安全",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "海外支教和国际援助",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你梦想的退休交通工具是什么？",
+      "options": [
+        {
+          "text": "帆船或游艇",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "越野SUV或房车",
+          "score": {
+            "beach": 1,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "时尚的城际汽车",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "经典复古卡车",
+          "score": {
+            "beach": 0,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "不需要车辆 - 使用公共交通和飞机",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 1,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "你希望人们如何记住你的退休生活？",
+      "options": [
+        {
+          "text": "传奇的海滩达人和冒险家",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "山林智者和自然专家",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "文化偶像和城市传奇",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "备受爱戴的家族长辈",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "足迹遍布全球、影响许多人的人",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "beach": {
+      "title": "🏖️ 海滨天堂退休生活",
+      "description": "你的梦想退休生活是在热带天堂！你想象自己被海浪声唤醒，在海滩上享受活动，看着壮观的日落。无论是在巴厘岛、夏威夷还是某个温暖的热带天堂，你都希望在退休后脚踩细沙，海风吹拂。你重视放松、自然美景和悠闲的生活方式。",
+      "image": "beach_retirement"
+    },
+    "mountain": {
+      "title": "🏔️ 山间隐居退休生活",
+      "description": "你完美的退休生活是在山间！你梦想着拥有全景视野的温馨小屋、清新的空气和无尽的户外冒险。无论是瑞士阿尔卑斯山、落基山脉还是苏格兰高地，你都能在大自然的宏伟中找到平静。你理想的退休生活包括徒步小径、冬季滑雪和欣赏山地景观。你重视独处、冒险和与自然的联系。",
+      "image": "mountain_retirement"
+    },
+    "city": {
+      "title": "🏙️ 都市文化退休生活",
+      "description": "你的梦想退休生活是在充满活力的城市！你无法想象在离开文化场景、美食、艺术馆和无穷无尽的娱乐中度过晚年。无论是巴黎、纽约、东京还是巴塞罗那，你都在城市活力中茁壮成长。你理想的退休生活包括看演出、参观博物馆和成为充满活力的社区的一员。你重视文化、便利和智力刺激。",
+      "image": "city_retirement"
+    },
+    "countryside": {
+      "title": "🌾 乡村田园退休生活",
+      "description": "你完美的退休生活是在宁静的乡村！你梦想着历史悠久的农场、广阔的土地和自给自足的生活方式。无论是托斯卡纳、英国乡村还是美国农村，你都重视简单和与土地的的联系。你理想的退休生活包括园艺、农耕和观察四季更替。你重视传统、家庭和扎根的生活方式。",
+      "image": "countryside_retirement"
+    },
+    "abroad": {
+      "title": "🌍 全球游牧退休生活",
+      "description": "你的梦想退休生活没有固定地址！你想象自己环游世界，居住在不同的国家，体验多元的文化。从东南亚到南美洲，你想成为世界公民。你理想的退休生活包括持续的冒险、新体验和接触各行各业的人。你重视自由、探索和文化沉浸。",
+      "image": "abroad_retirement"
+    }
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "quizId": 50,
+  "title": "What Does Your Dream Retirement Lifestyle Look Like?",
+  "category": "future_destiny",
+  "category_name": "Future / Destiny",
+  "language": "English",
+  "description": "Answer 12 questions to discover your ideal retirement lifestyle! From where you'll live to how you'll spend your days, find out what your dream retirement looks like.",
+  "tags": [
+    "Retirement",
+    "Dream Life",
+    "Future",
+    "Lifestyle",
+    "Senior Years",
+    "Bucket List"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Where would you most like to spend your retirement years?",
+      "options": [
+        {
+          "text": "A beachfront villa in a tropical paradise",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "A cozy cabin in the mountains",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "An apartment in a vibrant city center",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "A farmhouse in the peaceful countryside",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Traveling the world as a digital nomad",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What does your perfect retirement morning look like?",
+      "options": [
+        {
+          "text": "Early sunrise yoga on the beach",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Hiking a mountain trail before breakfast",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Sipping coffee at a local cafe in the city",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Tending to your garden and farm animals",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Exploring a new city or country",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How do you want to spend your retirement income?",
+      "options": [
+        {
+          "text": "Luxury travel and exotic experiences",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "A comfortable home and hobbies",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Investing in businesses and charities",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Fine dining and cultural events",
+          "score": {
+            "beach": 2,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Simple living and savings for family",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 3,
+            "abroad": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "What retirement hobby are you most excited about?",
+      "options": [
+        {
+          "text": "Learning to sail and water sports",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Photography and nature exploration",
+          "score": {
+            "beach": 1,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Taking art classes and visiting museums",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 2,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Gardening and sustainable living",
+          "score": {
+            "beach": 0,
+            "mountain": 2,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Writing a book about my life adventures",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 1,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Who do you want to spend your retirement with?",
+      "options": [
+        {
+          "text": "My partner, traveling the world together",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "Close family, watching grandchildren grow",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "A community of like-minded friends",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Solo, enjoying complete freedom",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "A mix - family visits and solo adventures",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 2,
+            "abroad": 2
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "What's your dream retirement home like?",
+      "options": [
+        {
+          "text": "A beach house with ocean views",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "A mountain lodge with panoramic views",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "A modern apartment in a cultural hub",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "A historic farmhouse with acres of land",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "No fixed home - living in different places",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How do you want to stay active in retirement?",
+      "options": [
+        {
+          "text": "Swimming, surfing, and beach walks",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Hiking, skiing, and mountain sports",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Walking tours, dancing, and city exploration",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Farming, gardening, and physical labor",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Yoga, meditation, and wellness practices",
+          "score": {
+            "beach": 2,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 2
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "What legacy do you want to leave behind?",
+      "options": [
+        {
+          "text": "Stories and memories from my travels",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 3
+          }
+        },
+        {
+          "text": "A preserved natural sanctuary or farm",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Books, art, or cultural contributions",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 2,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Family traditions and values passed down",
+          "score": {
+            "beach": 1,
+            "mountain": 2,
+            "city": 2,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Mentorship and teaching the next generation",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "What's your ideal retirement pace of life?",
+      "options": [
+        {
+          "text": "Relaxed beach vibes - slow and peaceful",
+          "score": {
+            "beach": 3,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Active mountain life - always exploring",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Urban excitement - cultural events daily",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Country rhythms - seasonal and grounded",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "Constant adventure - never settling",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How do you want to give back in retirement?",
+      "options": [
+        {
+          "text": "Marine conservation and beach cleanups",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Environmental protection and wildlife",
+          "score": {
+            "beach": 1,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Urban volunteering and community service",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "Organic farming and food security",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 0,
+            "countryside": 3,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "Teaching abroad and international aid",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "What's your dream retirement vehicle?",
+      "options": [
+        {
+          "text": "A sailboat or yacht",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "An off-road SUV or camper van",
+          "score": {
+            "beach": 1,
+            "mountain": 3,
+            "city": 1,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "A stylish city car",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 1,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "A classic vintage truck",
+          "score": {
+            "beach": 0,
+            "mountain": 2,
+            "city": 1,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "No vehicle - using public transport and planes",
+          "score": {
+            "beach": 1,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 1,
+            "abroad": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How do you want your retirement to be remembered?",
+      "options": [
+        {
+          "text": "As a legendary beach bum and adventurer",
+          "score": {
+            "beach": 3,
+            "mountain": 0,
+            "city": 1,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "As a mountain sage and nature expert",
+          "score": {
+            "beach": 0,
+            "mountain": 3,
+            "city": 0,
+            "countryside": 2,
+            "abroad": 1
+          }
+        },
+        {
+          "text": "As a cultural icon and city legend",
+          "score": {
+            "beach": 1,
+            "mountain": 0,
+            "city": 3,
+            "countryside": 0,
+            "abroad": 2
+          }
+        },
+        {
+          "text": "As the beloved patriarch/matriarch of the community",
+          "score": {
+            "beach": 0,
+            "mountain": 1,
+            "city": 1,
+            "countryside": 3,
+            "abroad": 0
+          }
+        },
+        {
+          "text": "As a world citizen who touched many lives",
+          "score": {
+            "beach": 2,
+            "mountain": 1,
+            "city": 2,
+            "countryside": 0,
+            "abroad": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "beach": {
+      "title": "🏖️ The Beach Paradise Retirement",
+      "description": "Your dream retirement is spent in a tropical paradise! You imagine yourself waking up to the sound of waves, spending your days enjoying beach activities, and watching stunning sunsets over the ocean. Whether it's in Bali, Hawaii, or a coastal paradise somewhere warm, your ideal retirement involves sand between your toes and the ocean breeze in your hair. You value relaxation, natural beauty, and a laid-back lifestyle in your golden years.",
+      "image": "beach_retirement"
+    },
+    "mountain": {
+      "title": "🏔️ The Mountain Sanctuary Retirement",
+      "description": "Your perfect retirement is in the mountains! You dream of a cozy cabin with panoramic views, crisp fresh air, and plenty of outdoor adventures. Whether it's the Swiss Alps, the Rockies, or the Scottish Highlands, you find peace in nature's grandeur. Your ideal retirement involves hiking trails, skiing in winter, and appreciating the beauty of mountain landscapes. You value solitude, adventure, and connection with nature.",
+      "image": "mountain_retirement"
+    },
+    "city": {
+      "title": "🏙️ The Urban Cultural Retirement",
+      "description": "Your dream retirement is in a vibrant city! You can't imagine spending your golden years away from the cultural scene, fine dining, art galleries, and endless entertainment. Whether it's Paris, New York, Tokyo, or Barcelona, you thrive on urban energy. Your ideal retirement involves attending shows, exploring museums, and being part of a dynamic community. You value culture, convenience, and intellectual stimulation.",
+      "image": "city_retirement"
+    },
+    "countryside": {
+      "title": "🌾 The Countryside Homestead Retirement",
+      "description": "Your perfect retirement is in the peaceful countryside! You dream of a historic farmhouse, acres of land, and a self-sufficient lifestyle. Whether it's in Tuscany, the English countryside, or rural America, you value simplicity and connection to the land. Your ideal retirement involves gardening, farming, and watching the seasons change. You value tradition, family, and a grounded way of life.",
+      "image": "countryside_retirement"
+    },
+    "abroad": {
+      "title": "🌍 The Global Nomad Retirement",
+      "description": "Your dream retirement has no fixed address! You envision yourself traveling the world, living in different countries, and experiencing diverse cultures. From Southeast Asia to South America, you want to be a global citizen. Your ideal retirement involves constant adventure, new experiences, and meeting people from all walks of life. You value freedom, exploration, and cultural immersion.",
+      "image": "abroad_retirement"
+    }
+  }
+}
