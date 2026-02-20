@@ -890,7 +890,8 @@
         // Load quiz data from backend API
         async function loadData() {
             try {
-                const response = await fetch('http://localhost:5000/api/quizzes');
+                // Try to load from local API first (development)
+                const response = await fetch('/api/quizzes');
                 if (!response.ok) {
                     throw new Error('Failed to load quiz data');
                 }
@@ -1182,15 +1183,9 @@ function renderTags() {
         let welcomeSelectedTags = [];
         
         function checkFirstTime() {
-            const hasVisited = localStorage.getItem('quizy_visited');
-            if (!hasVisited) {
-                renderWelcomeTags();
-                document.getElementById('welcome-page').style.display = 'flex';
-                document.getElementById('main-content').style.display = 'none';
-            } else {
-                document.getElementById('welcome-page').style.display = 'none';
-                document.getElementById('main-content').style.display = 'block';
-            }
+            // Disable welcome page
+            document.getElementById('welcome-page').style.display = 'none';
+            document.getElementById('main-content').style.display = 'block';
         }
         
         function renderWelcomeTags() {

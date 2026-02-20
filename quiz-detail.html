@@ -254,7 +254,7 @@ let quizData = null;
 async function loadQuizData() {
     try {
         const quizId = getQuizId();
-        const response = await fetch(`http://localhost:5000/api/quizzes/${quizId}`);
+        const response = await fetch(`/api/quizzes/${quizId}`);
         if (!response.ok) {
             throw new Error('Failed to load quiz data');
         }
