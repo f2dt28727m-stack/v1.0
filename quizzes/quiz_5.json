@@ -1,0 +1,853 @@
+{
+  "quizId": 5,
+  "title": "Which Anime Character Are You?",
+  "category": "which",
+  "tags": [
+    "Anime",
+    "Character",
+    "MBTI",
+    "Personality",
+    "Otaku"
+  ],
+  "description": "Answer 12 questions to discover which iconic anime character matches your personality\u2014otaku approved!",
+  "questions": [
+    {
+      "text": "In a battle, you prefer to...",
+      "options": [
+        {
+          "text": "Charge in and fight head-on",
+          "score": "E"
+        },
+        {
+          "text": "Analyze from the sidelines",
+          "score": "I"
+        },
+        {
+          "text": "Use practical combat skills",
+          "score": "S"
+        },
+        {
+          "text": "Use creative special attacks",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime backstory is...",
+      "options": [
+        {
+          "text": "Tragic public loss",
+          "score": "E"
+        },
+        {
+          "text": "Quiet personal struggle",
+          "score": "I"
+        },
+        {
+          "text": "Practical training montage",
+          "score": "S"
+        },
+        {
+          "text": "Mysterious hidden power",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime trope is...",
+      "options": [
+        {
+          "text": "The loud protagonist",
+          "score": "E"
+        },
+        {
+          "text": "The quiet genius",
+          "score": "I"
+        },
+        {
+          "text": "The reliable sidekick",
+          "score": "S"
+        },
+        {
+          "text": "The mysterious mentor",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your special power is...",
+      "options": [
+        {
+          "text": "Super strength",
+          "score": "E"
+        },
+        {
+          "text": "Mind reading",
+          "score": "I"
+        },
+        {
+          "text": "Healing",
+          "score": "S"
+        },
+        {
+          "text": "Time travel",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You bond with friends by...",
+      "options": [
+        {
+          "text": "Loud adventures together",
+          "score": "E"
+        },
+        {
+          "text": "Quiet moments of trust",
+          "score": "I"
+        },
+        {
+          "text": "Practical teamwork",
+          "score": "S"
+        },
+        {
+          "text": "Deep emotional connection",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your arch-nemesis is...",
+      "options": [
+        {
+          "text": "A loud rival",
+          "score": "E"
+        },
+        {
+          "text": "A quiet villain",
+          "score": "I"
+        },
+        {
+          "text": "A practical threat",
+          "score": "S"
+        },
+        {
+          "text": "A philosophical enemy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime school life is...",
+      "options": [
+        {
+          "text": "Loud classroom antics",
+          "score": "E"
+        },
+        {
+          "text": "Quiet library study",
+          "score": "I"
+        },
+        {
+          "text": "Practical club activities",
+          "score": "S"
+        },
+        {
+          "text": "Mysterious after-school adventures",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle defeat by...",
+      "options": [
+        {
+          "text": "Yell and train harder",
+          "score": "E"
+        },
+        {
+          "text": "Reflect and improve",
+          "score": "I"
+        },
+        {
+          "text": "Fix practical mistakes",
+          "score": "S"
+        },
+        {
+          "text": "Find a new strategy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime aesthetic is...",
+      "options": [
+        {
+          "text": "Bold and colorful",
+          "score": "E"
+        },
+        {
+          "text": "Subtle and dark",
+          "score": "I"
+        },
+        {
+          "text": "Practical and functional",
+          "score": "S"
+        },
+        {
+          "text": "Creative and unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your motivation is...",
+      "options": [
+        {
+          "text": "Protect friends publicly",
+          "score": "E"
+        },
+        {
+          "text": "Protect family privately",
+          "score": "I"
+        },
+        {
+          "text": "Practical survival",
+          "score": "S"
+        },
+        {
+          "text": "Abstract justice",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You fight for...",
+      "options": [
+        {
+          "text": "Honor",
+          "score": "F"
+        },
+        {
+          "text": "Logic",
+          "score": "T"
+        },
+        {
+          "text": "Routine",
+          "score": "J"
+        },
+        {
+          "text": "Freedom",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your catchphrase is...",
+      "options": [
+        {
+          "text": "Loud and memorable",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and meaningful",
+          "score": "I"
+        },
+        {
+          "text": "Practical and direct",
+          "score": "S"
+        },
+        {
+          "text": "Creative and poetic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You train by...",
+      "options": [
+        {
+          "text": "Group training",
+          "score": "E"
+        },
+        {
+          "text": "Solo training",
+          "score": "I"
+        },
+        {
+          "text": "Strict schedule",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneous practice",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your greatest strength is...",
+      "options": [
+        {
+          "text": "Charisma",
+          "score": "E"
+        },
+        {
+          "text": "Intelligence",
+          "score": "I"
+        },
+        {
+          "text": "Physical strength",
+          "score": "S"
+        },
+        {
+          "text": "Creativity",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your greatest weakness is...",
+      "options": [
+        {
+          "text": "Overconfidence",
+          "score": "E"
+        },
+        {
+          "text": "Trust issues",
+          "score": "I"
+        },
+        {
+          "text": "Stubbornness",
+          "score": "S"
+        },
+        {
+          "text": "Overthinking",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make friends by...",
+      "options": [
+        {
+          "text": "Being outgoing",
+          "score": "E"
+        },
+        {
+          "text": "Being loyal",
+          "score": "I"
+        },
+        {
+          "text": "Being helpful",
+          "score": "S"
+        },
+        {
+          "text": "Being interesting",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime ending is...",
+      "options": [
+        {
+          "text": "Happy and public",
+          "score": "E"
+        },
+        {
+          "text": "Bittersweet and private",
+          "score": "I"
+        },
+        {
+          "text": "Practical and realistic",
+          "score": "S"
+        },
+        {
+          "text": "Creative and open-ended",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You face fear by...",
+      "options": [
+        {
+          "text": "Fight it head-on",
+          "score": "F"
+        },
+        {
+          "text": "Analyze it",
+          "score": "T"
+        },
+        {
+          "text": "Stick to plan",
+          "score": "J"
+        },
+        {
+          "text": "Adapt to it",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite anime genre is...",
+      "options": [
+        {
+          "text": "Shonen",
+          "score": "E"
+        },
+        {
+          "text": "Seinen",
+          "score": "I"
+        },
+        {
+          "text": "Slice of life",
+          "score": "S"
+        },
+        {
+          "text": "Fantasy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express love by...",
+      "options": [
+        {
+          "text": "Loud declarations",
+          "score": "E"
+        },
+        {
+          "text": "Quiet gestures",
+          "score": "I"
+        },
+        {
+          "text": "Practical gifts",
+          "score": "S"
+        },
+        {
+          "text": "Creative moments",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You lead by...",
+      "options": [
+        {
+          "text": "Example",
+          "score": "F"
+        },
+        {
+          "text": "Strategy",
+          "score": "T"
+        },
+        {
+          "text": "Rules",
+          "score": "J"
+        },
+        {
+          "text": "Inspiration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your anime theme song is...",
+      "options": [
+        {
+          "text": "Upbeat and loud",
+          "score": "E"
+        },
+        {
+          "text": "Melancholic and quiet",
+          "score": "I"
+        },
+        {
+          "text": "Practical and rhythmic",
+          "score": "S"
+        },
+        {
+          "text": "Creative and unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You solve problems by...",
+      "options": [
+        {
+          "text": "Fight first",
+          "score": "F"
+        },
+        {
+          "text": "Think first",
+          "score": "T"
+        },
+        {
+          "text": "Follow protocol",
+          "score": "J"
+        },
+        {
+          "text": "Improvise",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your anime world is...",
+      "options": [
+        {
+          "text": "Bright and colorful",
+          "score": "E"
+        },
+        {
+          "text": "Dark and gritty",
+          "score": "I"
+        },
+        {
+          "text": "Practical and realistic",
+          "score": "S"
+        },
+        {
+          "text": "Creative and magical",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You believe in...",
+      "options": [
+        {
+          "text": "Friendship",
+          "score": "F"
+        },
+        {
+          "text": "Power",
+          "score": "T"
+        },
+        {
+          "text": "Hard work",
+          "score": "J"
+        },
+        {
+          "text": "Luck",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your anime transformation is...",
+      "options": [
+        {
+          "text": "Loud and flashy",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and subtle",
+          "score": "I"
+        },
+        {
+          "text": "Practical and useful",
+          "score": "S"
+        },
+        {
+          "text": "Creative and powerful",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle secrets by...",
+      "options": [
+        {
+          "text": "Share them",
+          "score": "E"
+        },
+        {
+          "text": "Keep them",
+          "score": "I"
+        },
+        {
+          "text": "Use them",
+          "score": "S"
+        },
+        {
+          "text": "Analyze them",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime food is...",
+      "options": [
+        {
+          "text": "Loud and spicy",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and comforting",
+          "score": "I"
+        },
+        {
+          "text": "Practical and filling",
+          "score": "S"
+        },
+        {
+          "text": "Creative and exotic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You travel by...",
+      "options": [
+        {
+          "text": "With friends",
+          "score": "E"
+        },
+        {
+          "text": "Alone",
+          "score": "I"
+        },
+        {
+          "text": "By foot",
+          "score": "S"
+        },
+        {
+          "text": "By magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You learn by...",
+      "options": [
+        {
+          "text": "Doing",
+          "score": "F"
+        },
+        {
+          "text": "Studying",
+          "score": "T"
+        },
+        {
+          "text": "Following lessons",
+          "score": "J"
+        },
+        {
+          "text": "Experimenting",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your anime pet is...",
+      "options": [
+        {
+          "text": "Loud and playful",
+          "score": "E"
+        },
+        {
+          "text": "Quiet and loyal",
+          "score": "I"
+        },
+        {
+          "text": "Practical and useful",
+          "score": "S"
+        },
+        {
+          "text": "Creative and magical",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle stress by...",
+      "options": [
+        {
+          "text": "Yell and vent",
+          "score": "E"
+        },
+        {
+          "text": "Calm down alone",
+          "score": "I"
+        },
+        {
+          "text": "Exercise",
+          "score": "S"
+        },
+        {
+          "text": "Meditate",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime quote is...",
+      "options": [
+        {
+          "text": "\"Never give up!\"",
+          "score": "F"
+        },
+        {
+          "text": "\"Knowledge is power\"",
+          "score": "T"
+        },
+        {
+          "text": "\"Hard work pays off\"",
+          "score": "J"
+        },
+        {
+          "text": "\"Be true to yourself\"",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You dream of...",
+      "options": [
+        {
+          "text": "Fame",
+          "score": "E"
+        },
+        {
+          "text": "Peace",
+          "score": "I"
+        },
+        {
+          "text": "Wealth",
+          "score": "S"
+        },
+        {
+          "text": "Adventure",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your anime legacy is...",
+      "options": [
+        {
+          "text": "Remembered by all",
+          "score": "E"
+        },
+        {
+          "text": "Remembered by few",
+          "score": "I"
+        },
+        {
+          "text": "Practical impact",
+          "score": "S"
+        },
+        {
+          "text": "Creative inspiration",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You live by...",
+      "options": [
+        {
+          "text": "Heart",
+          "score": "F"
+        },
+        {
+          "text": "Mind",
+          "score": "T"
+        },
+        {
+          "text": "Routine",
+          "score": "J"
+        },
+        {
+          "text": "Freedom",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Naruto Uzumaki (Naruto)",
+      "description": "You're the energetic, never-give-up ninja! Like Naruto, you're outgoing, optimistic, and driven by a desire to be recognized and protect your friends. You've faced hardship but never lost your spirit, and you inspire others with your determination. You're an ESFP\u2014energetic, spontaneous, and deeply connected to the people around you.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Sasuke Uchiha (Naruto)",
+      "description": "You're the brooding, revenge-driven ninja! Like Sasuke, you're private, introspective, and driven by a desire to avenge your family. You're a skilled fighter with a sharp mind, and you're willing to walk a dark path to get what you want. You're an INTJ\u2014visionary, logical, and willing to make tough choices for your goals.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Monkey D. Luffy (One Piece)",
+      "description": "You're the carefree, ambitious pirate captain! Like Luffy, you're outgoing, optimistic, and driven by a desire to become the Pirate King. You value freedom and friendship above all, and you're always ready for a new adventure. You're an ENFP\u2014optimistic, creative, and always up for a challenge.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Goku (Dragon Ball Z)",
+      "description": "You're the powerful, competitive Saiyan! Like Goku, you're outgoing, friendly, and driven by a desire to become stronger and protect the Earth. You love a good fight and never back down from a challenge, and you're always willing to train to improve. You're an ESTP\u2014bold, practical, and always ready for action.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Vegeta (Dragon Ball Z)",
+      "description": "You're the proud, competitive Prince of all Saiyans! Like Vegeta, you're private, driven, and obsessed with surpassing Goku. You're a skilled fighter with a sharp mind, and you're willing to do whatever it takes to become the strongest. You're an ENTJ\u2014strategic, charismatic, and a natural leader who demands excellence.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Eren Yeager (Attack on Titan)",
+      "description": "You're the passionate, revenge-driven soldier! Like Eren, you're outgoing, emotional, and driven by a desire to destroy the Titans and protect humanity. You're willing to make sacrifices for your goals, and you're not afraid to challenge authority. You're an ENFJ\u2014charismatic, compassionate, and a natural leader who inspires others to fight.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Levi Ackerman (Attack on Titan)",
+      "description": "You're the stoic, skilled soldier! Like Levi, you're private, practical, and driven by a desire to protect his squad. You're a master fighter with a sharp mind, and you demand perfection from yourself and others. You're an ISTJ\u2014practical, responsible, and a steady force in chaos.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Ichigo Kurosaki (Bleach)",
+      "description": "You're the rebellious, protective Soul Reaper! Like Ichigo, you're outgoing, protective, and driven by a desire to protect his friends and family. You're a skilled fighter with a strong sense of justice, and you're not afraid to break the rules to do what's right. You're an ESFJ\u2014compassionate, responsible, and a natural protector of others.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Light Yagami (Death Note)",
+      "description": "You're the brilliant, power-hungry detective! Like Light, you're private, logical, and driven by a desire to become the god of a new world. You're a genius with a sharp mind, and you're willing to manipulate others to achieve your goals. You're an INTP\u2014analytical, creative, and always playing the long game.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "L (Death Note)",
+      "description": "You're the eccentric, brilliant detective! Like L, you're private, logical, and driven by a desire to catch Kira and bring justice. You're a genius with a unique perspective, and you're not afraid to break the rules to solve a case. You're an INFP\u2014idealistic, introspective, and deeply committed to your sense of justice.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Mikasa Ackerman (Attack on Titan)",
+      "description": "You're the loyal, protective soldier! Like Mikasa, you're private, protective, and driven by a desire to protect Eren. You're a skilled fighter with a strong sense of duty, and you're willing to do whatever it takes to keep your loved ones safe. You're an ISFJ\u2014kind, loyal, and a quiet protector of those you love.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Shoto Todoroki (My Hero Academia)",
+      "description": "You're the calm, powerful hero! Like Shoto, you're private, logical, and driven by a desire to escape his father's shadow. You're a skilled fighter with a unique quirk, and you're willing to work hard to become a great hero. You're an INTP\u2014analytical, creative, and always seeking to improve.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Izuku Midoriya (My Hero Academia)",
+      "description": "You're the determined, compassionate hero! Like Izuku, you're outgoing, compassionate, and driven by a desire to become the number one hero. You're a quick learner with a strong sense of justice, and you're always willing to help others. You're an ENFJ\u2014charismatic, compassionate, and a natural leader who inspires others.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Katsuki Bakugo (My Hero Academia)",
+      "description": "You're the explosive, competitive hero! Like Bakugo, you're outgoing, confident, and driven by a desire to be the best. You're a skilled fighter with a short temper, and you're willing to work hard to surpass your rivals. You're an ESTJ\u2014practical, responsible, and a natural leader who demands excellence.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Saitama (One Punch Man)",
+      "description": "You're the overpowered, bored hero! Like Saitama, you're outgoing, laid-back, and driven by a desire to find a worthy opponent. You're the strongest hero in the world, but you're always looking for a challenge to keep things interesting. You're an ESFP\u2014energetic, spontaneous, and always looking for fun.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Gojo Satoru (Jujutsu Kaisen)",
+      "description": "You're the powerful, eccentric sorcerer! Like Gojo, you're outgoing, charismatic, and driven by a desire to protect the next generation of sorcerers. You're the strongest sorcerer in the world, and you're not afraid to break the rules to do what's right. You're an ENTP\u2014creative, strategic, and always one step ahead of your enemies.",
+      "mbti": "ENTP"
+    }
+  ]
+}

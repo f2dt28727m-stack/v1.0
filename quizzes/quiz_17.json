@@ -1,0 +1,853 @@
+{
+  "quizId": 17,
+  "title": "What's Your Music Personality Type?",
+  "category": "type",
+  "tags": [
+    "Music",
+    "Personality",
+    "MBTI",
+    "Sound",
+    "Rhythm"
+  ],
+  "description": "Answer 12 melodic questions to discover your music personality type\u2014unlock your soundtrack to life!",
+  "questions": [
+    {
+      "text": "Your favorite music genre is...",
+      "options": [
+        {
+          "text": "Pop",
+          "score": "E"
+        },
+        {
+          "text": "Classical",
+          "score": "I"
+        },
+        {
+          "text": "Rock",
+          "score": "S"
+        },
+        {
+          "text": "Electronic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You listen to music by...",
+      "options": [
+        {
+          "text": "Party with friends",
+          "score": "F"
+        },
+        {
+          "text": "Headphones alone",
+          "score": "T"
+        },
+        {
+          "text": "While working",
+          "score": "J"
+        },
+        {
+          "text": "Random playlists",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music taste is...",
+      "options": [
+        {
+          "text": "Mainstream",
+          "score": "E"
+        },
+        {
+          "text": "Underground",
+          "score": "I"
+        },
+        {
+          "text": "Classic",
+          "score": "S"
+        },
+        {
+          "text": "Experimental",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You discover new music by...",
+      "options": [
+        {
+          "text": "Friends recommendations",
+          "score": "E"
+        },
+        {
+          "text": "Deep dives online",
+          "score": "I"
+        },
+        {
+          "text": "Algorithmic suggestions",
+          "score": "J"
+        },
+        {
+          "text": "Random discoveries",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You play music by...",
+      "options": [
+        {
+          "text": "Perform live",
+          "score": "E"
+        },
+        {
+          "text": "Practice alone",
+          "score": "I"
+        },
+        {
+          "text": "Follow sheet music",
+          "score": "J"
+        },
+        {
+          "text": "Improvise",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You express emotions through music by...",
+      "options": [
+        {
+          "text": "Sing loudly",
+          "score": "E"
+        },
+        {
+          "text": "Listen quietly",
+          "score": "I"
+        },
+        {
+          "text": "Play familiar songs",
+          "score": "J"
+        },
+        {
+          "text": "Create new mixes",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal concert is...",
+      "options": [
+        {
+          "text": "Stadium show",
+          "score": "E"
+        },
+        {
+          "text": "Intimate venue",
+          "score": "I"
+        },
+        {
+          "text": "Classic festival",
+          "score": "J"
+        },
+        {
+          "text": "Underground rave",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You judge music by...",
+      "options": [
+        {
+          "text": "Emotional impact",
+          "score": "F"
+        },
+        {
+          "text": "Technical skill",
+          "score": "T"
+        },
+        {
+          "text": "Lyric meaning",
+          "score": "J"
+        },
+        {
+          "text": "Sound innovation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music collection is...",
+      "options": [
+        {
+          "text": "Diverse",
+          "score": "E"
+        },
+        {
+          "text": "Curated",
+          "score": "I"
+        },
+        {
+          "text": "Organized",
+          "score": "J"
+        },
+        {
+          "text": "Eclectic",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You connect with lyrics by...",
+      "options": [
+        {
+          "text": "Relate to stories",
+          "score": "E"
+        },
+        {
+          "text": "Deep personal meaning",
+          "score": "I"
+        },
+        {
+          "text": "Practical advice",
+          "score": "J"
+        },
+        {
+          "text": "Abstract imagery",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You dance to music by...",
+      "options": [
+        {
+          "text": "Freestyle",
+          "score": "E"
+        },
+        {
+          "text": "Private moves",
+          "score": "I"
+        },
+        {
+          "text": "Choreographed steps",
+          "score": "J"
+        },
+        {
+          "text": "Experimental styles",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your morning music is...",
+      "options": [
+        {
+          "text": "Upbeat pop",
+          "score": "E"
+        },
+        {
+          "text": "Calming acoustic",
+          "score": "I"
+        },
+        {
+          "text": "Classic rock",
+          "score": "J"
+        },
+        {
+          "text": "Ambient electronic",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You share music by...",
+      "options": [
+        {
+          "text": "Playlists for friends",
+          "score": "E"
+        },
+        {
+          "text": "Quiet recommendations",
+          "score": "I"
+        },
+        {
+          "text": "Curated mixes",
+          "score": "J"
+        },
+        {
+          "text": "Random shares",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You study with music by...",
+      "options": [
+        {
+          "text": "Instrumental only",
+          "score": "F"
+        },
+        {
+          "text": "Focused playlists",
+          "score": "T"
+        },
+        {
+          "text": "Familiar tracks",
+          "score": "J"
+        },
+        {
+          "text": "New discoveries",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music mood is...",
+      "options": [
+        {
+          "text": "Reflect current feelings",
+          "score": "E"
+        },
+        {
+          "text": "Contrast emotions",
+          "score": "I"
+        },
+        {
+          "text": "Consistent vibe",
+          "score": "J"
+        },
+        {
+          "text": "Ever-changing",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You write music by...",
+      "options": [
+        {
+          "text": "Collaborate",
+          "score": "E"
+        },
+        {
+          "text": "Solo creation",
+          "score": "I"
+        },
+        {
+          "text": "Structured process",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneous jams",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite instrument is...",
+      "options": [
+        {
+          "text": "Vocals",
+          "score": "E"
+        },
+        {
+          "text": "Piano",
+          "score": "I"
+        },
+        {
+          "text": "Guitar",
+          "score": "J"
+        },
+        {
+          "text": "Synthesizer",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You attend concerts by...",
+      "options": [
+        {
+          "text": "With large groups",
+          "score": "E"
+        },
+        {
+          "text": "Alone or one friend",
+          "score": "I"
+        },
+        {
+          "text": "Pre-planned outings",
+          "score": "J"
+        },
+        {
+          "text": "Last-minute decisions",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You react to new music by...",
+      "options": [
+        {
+          "text": "Immediate judgment",
+          "score": "F"
+        },
+        {
+          "text": "Analyze carefully",
+          "score": "T"
+        },
+        {
+          "text": "Give multiple listens",
+          "score": "J"
+        },
+        {
+          "text": "Open-minded exploration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your workout music is...",
+      "options": [
+        {
+          "text": "High-energy pop",
+          "score": "E"
+        },
+        {
+          "text": "Motivational hip-hop",
+          "score": "I"
+        },
+        {
+          "text": "Classic rock anthems",
+          "score": "J"
+        },
+        {
+          "text": "Electronic beats",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You remember music by...",
+      "options": [
+        {
+          "text": "Lyrics first",
+          "score": "E"
+        },
+        {
+          "text": "Melody first",
+          "score": "I"
+        },
+        {
+          "text": "Chorus first",
+          "score": "J"
+        },
+        {
+          "text": "Rhythm first",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music nostalgia is...",
+      "options": [
+        {
+          "text": "Teenage years",
+          "score": "E"
+        },
+        {
+          "text": "Childhood",
+          "score": "I"
+        },
+        {
+          "text": "Specific eras",
+          "score": "J"
+        },
+        {
+          "text": "Random memories",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You relax with music by...",
+      "options": [
+        {
+          "text": "Chill pop",
+          "score": "E"
+        },
+        {
+          "text": "Classical",
+          "score": "I"
+        },
+        {
+          "text": "Acoustic covers",
+          "score": "J"
+        },
+        {
+          "text": "Ambient sounds",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You discover concerts by...",
+      "options": [
+        {
+          "text": "Social media",
+          "score": "E"
+        },
+        {
+          "text": "Artist newsletters",
+          "score": "I"
+        },
+        {
+          "text": "Calendar tracking",
+          "score": "J"
+        },
+        {
+          "text": "Random flyers",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music influence is...",
+      "options": [
+        {
+          "text": "Broad appeal",
+          "score": "E"
+        },
+        {
+          "text": "Niche following",
+          "score": "I"
+        },
+        {
+          "text": "Timeless classics",
+          "score": "J"
+        },
+        {
+          "text": "Cutting-edge trends",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You sing along by...",
+      "options": [
+        {
+          "text": "Full volume",
+          "score": "E"
+        },
+        {
+          "text": "Quietly to self",
+          "score": "I"
+        },
+        {
+          "text": "Know all lyrics",
+          "score": "J"
+        },
+        {
+          "text": "Make up words",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music goals are...",
+      "options": [
+        {
+          "text": "Perform for others",
+          "score": "E"
+        },
+        {
+          "text": "Personal mastery",
+          "score": "I"
+        },
+        {
+          "text": "Consistent practice",
+          "score": "J"
+        },
+        {
+          "text": "Creative exploration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You connect with artists by...",
+      "options": [
+        {
+          "text": "Fan interactions",
+          "score": "E"
+        },
+        {
+          "text": "Deep lyrics analysis",
+          "score": "I"
+        },
+        {
+          "text": "Discography deep dives",
+          "score": "J"
+        },
+        {
+          "text": "Random fact discoveries",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your road trip music is...",
+      "options": [
+        {
+          "text": "Sing-along hits",
+          "score": "E"
+        },
+        {
+          "text": "Intimate singer-songwriter",
+          "score": "I"
+        },
+        {
+          "text": "Classic rock",
+          "score": "J"
+        },
+        {
+          "text": "World music mixes",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You organize playlists by...",
+      "options": [
+        {
+          "text": "Mood-based",
+          "score": "F"
+        },
+        {
+          "text": "Genre-based",
+          "score": "T"
+        },
+        {
+          "text": "Chronological",
+          "score": "J"
+        },
+        {
+          "text": "Random selection",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music guilty pleasure is...",
+      "options": [
+        {
+          "text": "Cheesy pop",
+          "score": "E"
+        },
+        {
+          "text": "Embarrassing old favorites",
+          "score": "I"
+        },
+        {
+          "text": "Classic one-hit wonders",
+          "score": "J"
+        },
+        {
+          "text": "Odd experimental tracks",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You learn instruments by...",
+      "options": [
+        {
+          "text": "Group lessons",
+          "score": "E"
+        },
+        {
+          "text": "Online tutorials",
+          "score": "I"
+        },
+        {
+          "text": "Structured practice",
+          "score": "J"
+        },
+        {
+          "text": "Trial and error",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You experience music by...",
+      "options": [
+        {
+          "text": "Sensory immersion",
+          "score": "E"
+        },
+        {
+          "text": "Emotional connection",
+          "score": "I"
+        },
+        {
+          "text": "Familiar comfort",
+          "score": "J"
+        },
+        {
+          "text": "Novel exploration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music criticism is...",
+      "options": [
+        {
+          "text": "Constructive feedback",
+          "score": "F"
+        },
+        {
+          "text": "Technical analysis",
+          "score": "T"
+        },
+        {
+          "text": "Comparative reviews",
+          "score": "J"
+        },
+        {
+          "text": "Subjective impressions",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You celebrate with music by...",
+      "options": [
+        {
+          "text": "Party anthems",
+          "score": "E"
+        },
+        {
+          "text": "Personal favorites",
+          "score": "I"
+        },
+        {
+          "text": "Traditional songs",
+          "score": "J"
+        },
+        {
+          "text": "New discoveries",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your music philosophy is...",
+      "options": [
+        {
+          "text": "Universal language",
+          "score": "E"
+        },
+        {
+          "text": "Personal journey",
+          "score": "I"
+        },
+        {
+          "text": "Timeless art form",
+          "score": "J"
+        },
+        {
+          "text": "Ever-evolving expression",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Performer (ESFP)",
+      "description": "You're the ultimate music performer! Like an ESFP, you thrive on live music, energetic pop, and sharing your love of music with others. You're outgoing, spontaneous, and express yourself through singing, dancing, and performing\u2014music is your way of connecting with the world and spreading joy to everyone around you.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Connoisseur (INTP)",
+      "description": "You're the music connoisseur! Like an INTP, you dive deep into underground genres, analyze technical aspects of music, and find beauty in experimental sounds. You're private, analytical, and view music as a complex puzzle to solve\u2014you appreciate the intricacies of production and composition that others might miss.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Classicist (ISTJ)",
+      "description": "You're the music classicist! Like an ISTJ, you value timeless classics, organized playlists, and the reliability of familiar songs. You're practical, responsible, and find comfort in the music that has stood the test of time\u2014rock anthems, golden oldies, and music with meaningful lyrics that speak to enduring truths.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Visionary (INFJ)",
+      "description": "You're the music visionary! Like an INFJ, you connect deeply with classical music, emotional lyrics, and music that speaks to the soul. You're private, compassionate, and view music as a spiritual experience\u2014you find meaning in the quiet moments of beauty and use music to process your deepest emotions and connect with your inner self.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Connector (ENFJ)",
+      "description": "You're the music connector! Like an ENFJ, you use music to bring people together, create playlists for friends, and find joy in shared musical experiences. You're outgoing, compassionate, and view music as a universal language that bridges differences and builds community\u2014you remember everyone's favorite songs and use music to nurture relationships.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Innovator (ENTP)",
+      "description": "You're the music innovator! Like an ENTP, you're drawn to electronic music, experimental sounds, and breaking musical boundaries. You're outgoing, creative, and love to mix genres, create unique playlists, and discover the next big sound\u2014music is your playground for creativity and innovation.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Traditionalist (ESTJ)",
+      "description": "You're the music traditionalist! Like an ESTJ, you appreciate classic rock, structured playlists, and music with a strong beat and meaningful lyrics. You're outgoing, practical, and view music as a reliable companion\u2014you know what you like, stick to it, and appreciate the consistency of timeless musical traditions.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Romantic (INFP)",
+      "description": "You're the music romantic! Like an INFP, you connect with singer-songwriter music, emotional ballads, and lyrics that capture the depth of human experience. You're private, idealistic, and view music as a form of emotional expression\u2014you find solace in music that reflects your inner world and helps you make sense of your feelings.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Energizer (ESTP)",
+      "description": "You're the music energizer! Like an ESTP, you love high-energy electronic beats, last-minute concert trips, and music that gets your blood pumping. You're outgoing, spontaneous, and view music as a source of adrenaline and excitement\u2014you live for the moment, love to dance, and find joy in the raw energy of live music.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Analyst (INTJ)",
+      "description": "You're the music analyst! Like an INTJ, you appreciate classical music, complex compositions, and the technical mastery of skilled musicians. You're private, strategic, and view music as a form of intellectual expression\u2014you analyze the structure, composition, and theory behind music and appreciate the genius of musical innovation.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Nurturer (ISFJ)",
+      "description": "You're the music nurturer! Like an ISFJ, you appreciate calming acoustic music, familiar favorites, and music that creates a sense of comfort and safety. You're private, kind, and view music as a source of emotional support\u2014you use music to create a peaceful environment and care for yourself and others through the power of sound.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Explorer (ENFP)",
+      "description": "You're the music explorer! Like an ENFP, you love diverse playlists, world music, and discovering new genres from around the globe. You're outgoing, optimistic, and view music as a journey of discovery\u2014you're always open to new sounds, love to share your discoveries with others, and find joy in the diversity of musical expression.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Realist (ISFP)",
+      "description": "You're the music realist! Like an ISFP, you connect with raw, authentic music\u2014blues, folk, and music that speaks to real-life experiences. You're private, gentle, and view music as a form of honest expression\u2014you appreciate the simplicity of acoustic instruments and the authenticity of musicians who stay true to themselves.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Strategist (ENTJ)",
+      "description": "You're the music strategist! Like an ENTJ, you appreciate powerful anthems, motivational music, and songs that inspire action and ambition. You're outgoing, strategic, and view music as a tool for motivation and focus\u2014you create playlists for specific goals, use music to boost productivity, and appreciate the power of music to drive success.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Harmonizer (ESFJ)",
+      "description": "You're the music harmonizer! Like an ESFJ, you love feel-good pop music, sing-along hits, and music that brings people together in joy and celebration. You're outgoing, generous, and view music as a source of happiness and connection\u2014you organize music nights with friends, know all the best party songs, and use music to create harmony in your social circles.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Individualist (INTP)",
+      "description": "You're the music individualist! Like an INTP, you create your own unique music taste, reject mainstream trends, and find beauty in the most obscure sounds. You're private, creative, and view music as a form of personal expression that defies categorization\u2014you make your own rules and appreciate music that challenges conventional thinking and pushes creative boundaries.",
+      "mbti": "INTP"
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+[
+  {
+    "test_id": "travel_buddy",
+    "title": "What's Your Ideal Travel Buddy Personality?",
+    "results": [
+      {
+        "mbtiType": "ESTJ",
+        "title": "The Travel Planner",
+        "description": "You're the ultimate travel organizer! You plan every detail of the trip from flights to restaurants, ensuring no mishaps. Your ideal travel buddy appreciates your structure and reliability, and follows your well-crafted itinerary without complaint. You make sure the trip is efficient, safe, and exactly as planned.",
+        "traits": [
+          "Organized",
+          "Reliable",
+          "Practical",
+          "Decisive"
+        ],
+        "travelTip": "Try to leave small windows of spontaneity – some of the best travel memories come from unplanned moments!"
+      },
+      {
+        "mbtiType": "ESFJ",
+        "title": "The Travel Host",
+        "description": "You're the heart of any travel group! You make sure everyone is comfortable, happy, and included. Your ideal travel buddy values connection and kindness, and loves sharing meals and memories with you. You remember small details about your travel companions and make them feel special wherever you go.",
+        "traits": [
+          "Caring",
+          "Social",
+          "Nurturing",
+          "Responsible"
+        ],
+        "travelTip": "Don't forget to prioritize your own needs too – take time to do what YOU want to do on trips!"
+      },
+      {
+        "mbtiType": "ESTP",
+        "title": "The Adventure Seeker",
+        "description": "You're the spontaneous thrill-seeker of travel! You love last-minute plans, trying risky local foods, and exploring off-limits areas. Your ideal travel buddy is as bold as you are, ready to jump into any adventure without overthinking. You turn every trip into a series of exciting stories.",
+        "traits": [
+          "Spontaneous",
+          "Bold",
+          "Practical",
+          "Energetic"
+        ],
+        "travelTip": "Keep a basic safety plan in place – adventure is fun, but safety first!"
+      },
+      {
+        "mbtiType": "ESFP",
+        "title": "The Travel Entertainer",
+        "description": "You're the life of the party on the road! You make friends with locals instantly, dance at street festivals, and turn boring layovers into fun games. Your ideal travel buddy loves to laugh, be present, and soak up every moment with you. Travel for you is about joy and connection above all.",
+        "traits": [
+          "Playful",
+          "Social",
+          "Present",
+          "Optimistic"
+        ],
+        "travelTip": "Take a few quiet moments to appreciate the beauty around you – not every moment needs to be a party!"
+      },
+      {
+        "mbtiType": "ENTJ",
+        "title": "The Travel Strategist",
+        "description": "You're the visionary travel leader! You research destinations extensively, find hidden gems, and create trips that balance adventure and purpose. Your ideal travel buddy respects your big-picture thinking and follows your lead, but also contributes meaningful ideas. You turn trips into transformative experiences.",
+        "traits": [
+          "Strategic",
+          "Confident",
+          "Visionary",
+          "Efficient"
+        ],
+        "travelTip": "Listen to your travel buddy's input – collaboration makes trips more memorable!"
+      },
+      {
+        "mbtiType": "ENFJ",
+        "title": "The Travel Mentor",
+        "description": "You're the inspiring travel guide! You connect with locals on a deep level, learn about their culture, and help your travel buddy grow through new experiences. Your ideal travel buddy is open-minded and eager to learn, and values the meaningful connections you build together. Travel for you is about growth and understanding.",
+        "traits": [
+          "Inspiring",
+          "Empathetic",
+          "Charismatic",
+          "Insightful"
+        ],
+        "travelTip": "Let yourself be vulnerable – some of the best lessons come from being out of your comfort zone!"
+      },
+      {
+        "mbtiType": "ENTP",
+        "title": "The Travel Innovator",
+        "description": "You're the creative problem-solver of travel! You love debating the best route, finding hacky ways to save money, and turning travel mishaps into fun challenges. Your ideal travel buddy is witty, curious, and loves brainstorming new ideas with you. You make even the most chaotic trips feel exciting.",
+        "traits": [
+          "Curious",
+          "Witty",
+          "Inventive",
+          "Adaptable"
+        ],
+        "travelTip": "Sometimes the simplest plans are the best – don't overcomplicate every detail!"
+      },
+      {
+        "mbtiType": "ENFP",
+        "title": "The Dreamy Traveler",
+        "description": "You're the imaginative wanderer! You daydream about far-off destinations, fall in love with every new place, and see magic in the smallest moments. Your ideal travel buddy is open-hearted and adventurous, and loves exploring the world through your optimistic eyes. Travel for you is about chasing joy and wonder.",
+        "traits": [
+          "Imaginative",
+          "Optimistic",
+          "Enthusiastic",
+          "Open-minded"
+        ],
+        "travelTip": "Keep a travel journal – write down your favorite moments to cherish forever!"
+      },
+      {
+        "mbtiType": "ISTJ",
+        "title": "The Travel Stabilizer",
+        "description": "You're the dependable backbone of any trip! You keep track of passports, budgets, and schedules, and handle emergencies calmly. Your ideal travel buddy appreciates your reliability and lets you handle the practical details, while they focus on enjoying the journey. You make travel stress-free and secure.",
+        "traits": [
+          "Dependable",
+          "Practical",
+          "Detail-oriented",
+          "Calm"
+        ],
+        "travelTip": "Let yourself relax a little – it's okay if the schedule gets off track sometimes!"
+      },
+      {
+        "mbtiType": "ISFJ",
+        "title": "The Travel Caregiver",
+        "description": "You're the thoughtful travel companion! You pack extra snacks, first-aid kits, and comfort items for your buddy, and remember their favorite things. Your ideal travel buddy values your kindness and reciprocates your care, making the trip feel like home wherever you go. You prioritize others' comfort above all.",
+        "traits": [
+          "Thoughtful",
+          "Nurturing",
+          "Reliable",
+          "Observant"
+        ],
+        "travelTip": "Ask for help when you need it – you don't have to take care of everyone all the time!"
+      },
+      {
+        "mbtiType": "ISTP",
+        "title": "The Travel Mechanic",
+        "description": "You're the hands-on problem-solver of travel! You fix broken luggage, navigate tricky transportation, and adapt to any unexpected situation. Your ideal travel buddy is laid-back and appreciates your ability to handle anything that comes up. You enjoy the practical challenges of travel and take them in stride.",
+        "traits": [
+          "Practical",
+          "Adaptable",
+          "Calm",
+          "Resourceful"
+        ],
+        "travelTip": "Slow down and enjoy the scenery – you don't have to fix everything right away!"
+      },
+      {
+        "mbtiType": "ISFP",
+        "title": "The Travel Artist",
+        "description": "You're the sensory traveler! You notice the colors, sounds, and tastes of every place, and capture moments through photos, sketches, or memories. Your ideal travel buddy is quiet and present, and loves experiencing the world through your creative lens. Travel for you is about feeling deeply and appreciating beauty.",
+        "traits": [
+          "Creative",
+          "Present",
+          "Gentle",
+          "Observant"
+        ],
+        "travelTip": "Share your observations with your buddy – they'll love seeing the world through your eyes!"
+      },
+      {
+        "mbtiType": "INTJ",
+        "title": "The Travel Architect",
+        "description": "You're the mastermind of travel! You research destinations for months, create optimal itineraries, and seek out unique experiences that align with your interests. Your ideal travel buddy respects your intellectual approach to travel and engages in deep conversations about the places you visit. You value quality over quantity in travel.",
+        "traits": [
+          "Strategic",
+          "Intellectual",
+          "Independent",
+          "Visionary"
+        ],
+        "travelTip": "Be open to serendipity – some of the best trips deviate from the perfect plan!"
+      },
+      {
+        "mbtiType": "INFJ",
+        "title": "The Travel Mystic",
+        "description": "You're the introspective traveler! You connect with the soul of a place, seek out meaningful experiences, and reflect deeply on your journeys. Your ideal travel buddy is thoughtful and empathetic, and values the quiet moments of connection with you. Travel for you is about self-discovery and understanding the world.",
+        "traits": [
+          "Introspective",
+          "Empathetic",
+          "Insightful",
+          "Idealistic"
+        ],
+        "travelTip": "Share your reflections with someone you trust – your insights are valuable!"
+      },
+      {
+        "mbtiType": "INTP",
+        "title": "The Travel Philosopher",
+        "description": "You're the curious explorer of travel! You ask questions about local cultures, debate the history of places, and love learning new things on the road. Your ideal travel buddy is intellectually curious and enjoys deep conversations with you, even if you get so caught up in ideas you miss a landmark. You value learning over sightseeing.",
+        "traits": [
+          "Curious",
+          "Intellectual",
+          "Analytical",
+          "Open-minded"
+        ],
+        "travelTip": "Put the books/phone down sometimes – experience the moment without overthinking it!"
+      },
+      {
+        "mbtiType": "INFP",
+        "title": "The Travel Poet",
+        "description": "You're the dreamy soul of travel! You connect with the stories of places and people, and find meaning in even the smallest moments. Your ideal travel buddy is gentle and understanding, and loves exploring the emotional side of travel with you. Travel for you is about chasing authenticity and beauty in all forms.",
+        "traits": [
+          "Idealistic",
+          "Creative",
+          "Empathetic",
+          "Introspective"
+        ],
+        "travelTip": "Don't be afraid to share your travel dreams – they might just become reality!"
+      }
+    ]
+  },
+  {
+    "test_id": "anime_compatible",
+    "title": "Which Anime Character Are You Most Compatible With?",
+    "results": [
+      {
+        "mbtiType": "ESTJ",
+        "title": "The Shonen Leader",
+        "description": "You're the no-nonsense leader like Erwin Smith (Attack on Titan) or Seto Kaiba (Yu-Gi-Oh!). You're strategic, responsible, and demand excellence from yourself and others. Your ideal anime character companion respects your authority and follows your lead, while also matching your unwavering dedication to your goals.",
+        "traits": [
+          "Leaderly",
+          "Disciplined",
+          "Strategic",
+          "Honorable"
+        ],
+        "animeTip": "Let your guard down occasionally – even the strongest leaders need to rely on others!"
+      },
+      {
+        "mbtiType": "ESFJ",
+        "title": "The Anime Mom Friend",
+        "description": "You're the caring heart of the group like Tohru Honda (Fruits Basket) or Uraraka Ochaco (My Hero Academia). You look out for your friends, remember their favorite things, and make everyone feel welcome. Your ideal anime character companion appreciates your kindness and reciprocates your care, making every moment feel warm and safe.",
+        "traits": [
+          "Nurturing",
+          "Loyal",
+          "Optimistic",
+          "Generous"
+        ],
+        "animeTip": "Take care of yourself too – you can't pour from an empty cup!"
+      },
+      {
+        "mbtiType": "ESTP",
+        "title": "The Anime Trickster",
+        "description": "You're the bold, spontaneous rebel like Luffy (One Piece) or Naruto Uzumaki (Naruto). You love action, adventure, and breaking the rules (in fun ways!). Your ideal anime character companion is as fearless as you are, ready to jump into any fight or adventure without hesitation. You turn every day into an epic quest.",
+        "traits": [
+          "Bold",
+          "Spontaneous",
+          "Energetic",
+          "Fearless"
+        ],
+        "animeTip": "Think before you act sometimes – even heroes need a plan!"
+      },
+      {
+        "mbtiType": "ESFP",
+        "title": "The Anime Entertainer",
+        "description": "You're the cheerful, social star like Tanjiro Kamado (Demon Slayer) or Gon Freecss (Hunter x Hunter). You make friends easily, spread joy wherever you go, and find beauty in the small moments. Your ideal anime character companion loves to laugh, be present, and join you in celebrating life's simple pleasures. You're the light in any dark situation.",
+        "traits": [
+          "Cheerful",
+          "Social",
+          "Playful",
+          "Grateful"
+        ],
+        "animeTip": "Embrace your serious side too – depth makes your joy even more meaningful!"
+      },
+      {
+        "mbtiType": "ENTJ",
+        "title": "The Anime Mastermind",
+        "description": "You're the strategic genius like Light Yagami (Death Note) or Levi Ackerman (Attack on Titan). You see the big picture, make tough decisions, and never lose sight of your goals. Your ideal anime character companion is intelligent and ambitious, able to keep up with your plans and challenge your ideas. You're the brains behind every epic victory.",
+        "traits": [
+          "Strategic",
+          "Ambitious",
+          "Confident",
+          "Analytical"
+        ],
+        "animeTip": "Remember that people matter more than plans – don't sacrifice your heart for victory!"
+      },
+      {
+        "mbtiType": "ENFJ",
+        "title": "The Anime Mentor",
+        "description": "You're the inspiring guide like All Might (My Hero Academia) or Kakashi Hatake (Naruto). You see the potential in others, lift them up, and fight for what's right. Your ideal anime character companion is eager to learn and grow, and values your wisdom and compassion. You turn ordinary people into heroes.",
+        "traits": [
+          "Inspiring",
+          "Compassionate",
+          "Wise",
+          "Charismatic"
+        ],
+        "animeTip": "Let others inspire YOU sometimes – growth is a two-way street!"
+      },
+      {
+        "mbtiType": "ENTP",
+        "title": "The Anime Chaos Gremlin",
+        "description": "You're the witty, unpredictable troublemaker like Gintoki Sakata (Gintama) or Hisoka (Hunter x Hunter). You love debating, pranking, and turning boring situations into chaos (in the best way!). Your ideal anime character companion is sharp, playful, and able to keep up with your quick wit and wild ideas. You make every day an adventure.",
+        "traits": [
+          "Witty",
+          "Creative",
+          "Unpredictable",
+          "Curious"
+        ],
+        "animeTip": "Know when to tone it down – even chaos needs boundaries!"
+      },
+      {
+        "mbtiType": "ENFP",
+        "title": "The Anime Dreamer",
+        "description": "You're the optimistic, imaginative soul like Izuku Midoriya (My Hero Academia) or Sailor Moon (Sailor Moon). You believe in the power of hope, chase your dreams relentlessly, and see the good in everyone. Your ideal anime character companion shares your optimism and joins you in fighting for what you believe in. You're the heart of every hero's journey.",
+        "traits": [
+          "Optimistic",
+          "Imaginative",
+          "Passionate",
+          "Kind"
+        ],
+        "animeTip": "Stay grounded – even dreams need to be rooted in reality!"
+      },
+      {
+        "mbtiType": "ISTJ",
+        "title": "The Anime Reliable Sidekick",
+        "description": "You're the dependable, loyal companion like Sakura Haruno (Naruto) or Zenitsu Agatsuma (Demon Slayer) (when he's not scared!). You follow through on your promises, keep the group organized, and handle the practical details no one else wants to deal with. Your ideal anime character companion appreciates your reliability and stands by you in tough times.",
+        "traits": [
+          "Dependable",
+          "Loyal",
+          "Practical",
+          "Hardworking"
+        ],
+        "animeTip": "Step out of your comfort zone – you're capable of more than you think!"
+      },
+      {
+        "mbtiType": "ISFJ",
+        "title": "The Anime Protector",
+        "description": "You're the gentle, protective guardian like Mikasa Ackerman (Attack on Titan) or Chopper (One Piece). You care deeply for your loved ones, remember their fears and hopes, and would do anything to keep them safe. Your ideal anime character companion values your quiet strength and returns your loyalty tenfold. You're the unsung hero of every story.",
+        "traits": [
+          "Protective",
+          "Gentle",
+          "Loyal",
+          "Observant"
+        ],
+        "animeTip": "Let others protect YOU sometimes – you don't have to be strong all the time!"
+      },
+      {
+        "mbtiType": "ISTP",
+        "title": "The Anime Lone Wolf",
+        "description": "You're the calm, resourceful rebel like Zoro (One Piece) or Sasuke Uchiha (Naruto). You work best alone, solve problems with your hands, and stay cool under pressure. Your ideal anime character companion respects your independence and doesn't push you to be someone you're not. You're the quiet badass everyone admires.",
+        "traits": [
+          "Calm",
+          "Resourceful",
+          "Independent",
+          "Skilled"
+        ],
+        "animeTip": "Let people in – even lone wolves need a pack sometimes!"
+      },
+      {
+        "mbtiType": "ISFP",
+        "title": "The Anime Artist",
+        "description": "You're the creative, sensitive soul like Shinobu Kocho (Demon Slayer) or San (Princess Mononoke). You see beauty in the world, express yourself through art or action, and value authenticity above all. Your ideal anime character companion is gentle and understanding, and appreciates your unique perspective on the world. You're the heart and soul of every story.",
+        "traits": [
+          "Creative",
+          "Sensitive",
+          "Authentic",
+          "Courageous"
+        ],
+        "animeTip": "Share your art with others – your voice matters!"
+      },
+      {
+        "mbtiType": "INTJ",
+        "title": "The Anime Tactician",
+        "description": "You're the brilliant, independent strategist like Kurapika (Hunter x Hunter) or Ergo Proxy (Ergo Proxy). You plan for every outcome, value intelligence over emotion, and work tirelessly to achieve your goals. Your ideal anime character companion is as intellectually curious as you are, and respects your need for space and focus. You're the mastermind behind every successful mission.",
+        "traits": [
+          "Brilliant",
+          "Independent",
+          "Strategic",
+          "Determined"
+        ],
+        "animeTip": "Don't let your plans isolate you – collaboration makes victory sweeter!"
+      },
+      {
+        "mbtiType": "INFJ",
+        "title": "The Anime Seer",
+        "description": "You're the intuitive, compassionate visionary like Eren Yeager (Attack on Titan) or L (Death Note). You see the truth behind appearances, care deeply about justice, and have a powerful sense of purpose. Your ideal anime character companion understands your deep inner world and joins you in fighting for what's right. You're the soul of every epic story.",
+        "traits": [
+          "Intuitive",
+          "Compassionate",
+          "Purposeful",
+          "Insightful"
+        ],
+        "animeTip": "Take care of your mental health – carrying the weight of the world is heavy!"
+      },
+      {
+        "mbtiType": "INTP",
+        "title": "The Anime Nerd",
+        "description": "You're the curious, analytical genius like Shikamaru Nara (Naruto) or Light Yagami (early Death Note). You love learning, solving puzzles, and understanding how the world works. Your ideal anime character companion shares your love of knowledge and enjoys deep conversations with you, even if you get lost in your own thoughts for hours. You're the brain of every team.",
+        "traits": [
+          "Curious",
+          "Analytical",
+          "Intelligent",
+          "Creative"
+        ],
+        "animeTip": "Engage with the world around you – life isn't just a thought experiment!"
+      },
+      {
+        "mbtiType": "INFP",
+        "title": "The Anime Romantic",
+        "description": "You're the gentle, idealistic dreamer like Chihiro (Spirited Away) or Violet Evergarden (Violet Evergarden). You believe in the power of love and kindness, chase authenticity, and feel deeply about the stories of others. Your ideal anime character companion shares your idealism and helps you keep your hope alive in dark times. You're the heart of every beautiful story.",
+        "traits": [
+          "Idealistic",
+          "Gentle",
+          "Empathetic",
+          "Creative"
+        ],
+        "animeTip": "Don't lose your kindness – it's your greatest strength!"
+      }
+    ]
+  },
+  {
+    "test_id": "study_buddy",
+    "title": "Find Your Perfect Study Buddy Personality",
+    "results": [
+      {
+        "mbtiType": "ESTJ",
+        "title": "The Study Drill Sergeant",
+        "description": "You're the ultimate study organizer! You create strict schedules, set high standards, and make sure your study buddy stays on track. Your ideal study buddy respects your structure and works as hard as you do, turning study sessions into efficient, goal-oriented power hours. You don't mess around when it comes to grades.",
+        "traits": [
+          "Disciplined",
+          "Organized",
+          "Goal-Oriented",
+          "Assertive"
+        ],
+        "studyTip": "Lighten up a little – study breaks and laughter make learning more effective!"
+      },
+      {
+        "mbtiType": "ESFJ",
+        "title": "The Study Cheerleader",
+        "description": "You're the encouraging heart of study sessions! You bring snacks, celebrate small wins, and keep your study buddy motivated when they're struggling. Your ideal study buddy appreciates your support and cheers you on in return, making even the hardest subjects feel manageable. You make studying feel like a team effort.",
+        "traits": [
+          "Encouraging",
+          "Caring",
+          "Positive",
+          "Reliable"
+        ],
+        "studyTip": "Don't forget to focus on your own work – you can't cheer others on if you're falling behind!"
+      },
+      {
+        "mbtiType": "ESTP",
+        "title": "The Spontaneous Study Buddy",
+        "description": "You're the hands-on learner who hates boring study routines! You turn flashcards into games, learn by doing, and switch subjects when you get bored. Your ideal study buddy is as flexible as you are, ready to adapt to new study methods and turn learning into an adventure. You make studying feel less like work and more like fun.",
+        "traits": [
+          "Spontaneous",
+          "Practical",
+          "Energetic",
+          "Adaptable"
+        ],
+        "studyTip": "Set some basic structure – even fun study sessions need focus!"
+      },
+      {
+        "mbtiType": "ESFP",
+        "title": "The Social Study Butterfly",
+        "description": "You're the study buddy who makes group sessions fun! You love studying with friends, turning discussions into lively conversations, and making new connections over shared notes. Your ideal study buddy is social and positive, and loves learning together in a relaxed, friendly environment. You make studying feel like hanging out with friends.",
+        "traits": [
+          "Social",
+          "Playful",
+          "Positive",
+          "Present"
+        ],
+        "studyTip": "Know when to focus – too much chatting can derail your goals!"
+      },
+      {
+        "mbtiType": "ENTJ",
+        "title": "The Study Strategist",
+        "description": "You're the big-picture study planner! You analyze test formats, create long-term study plans, and find the most efficient ways to learn. Your ideal study buddy is intelligent and ambitious, able to keep up with your strategic approach and contribute their own ideas. You turn studying into a well-executed mission.",
+        "traits": [
+          "Strategic",
+          "Ambitious",
+          "Analytical",
+          "Confident"
+        ],
+        "studyTip": "Listen to others' study methods – sometimes the simple approach works best!"
+      },
+      {
+        "mbtiType": "ENFJ",
+        "title": "The Study Mentor",
+        "description": "You're the inspiring study leader! You help your study buddy understand difficult concepts, share your knowledge generously, and motivate them to reach their full potential. Your ideal study buddy is eager to learn and grow, and values your patience and insight. You make learning feel meaningful and empowering.",
+        "traits": [
+          "Inspiring",
+          "Patient",
+          "Generous",
+          "Insightful"
+        ],
+        "studyTip": "Don't take on too much – focus on your own learning goals too!"
+      },
+      {
+        "mbtiType": "ENTP",
+        "title": "The Debate Study Buddy",
+        "description": "You're the curious study buddy who loves to debate ideas! You ask challenging questions, explore different perspectives, and turn study sessions into intellectual conversations. Your ideal study buddy is sharp and curious, able to keep up with your quick wit and challenge your ideas. You make learning feel dynamic and engaging.",
+        "traits": [
+          "Curious",
+          "Witty",
+          "Analytical",
+          "Creative"
+        ],
+        "studyTip": "Stay on topic – interesting debates can take you off course!"
+      },
+      {
+        "mbtiType": "ENFP",
+        "title": "The Creative Study Buddy",
+        "description": "You're the imaginative learner who makes studying fun! You create colorful notes, turn memorization into stories, and find creative ways to understand boring subjects. Your ideal study buddy shares your enthusiasm and creativity, and loves exploring new ways to learn with you. You make even the driest material feel interesting.",
+        "traits": [
+          "Creative",
+          "Enthusiastic",
+          "Imaginative",
+          "Optimistic"
+        ],
+        "studyTip": "Balance creativity with focus – pretty notes don't mean you're learning!"
+      },
+      {
+        "mbtiType": "ISTJ",
+        "title": "The Reliable Study Buddy",
+        "description": "You're the steady, dependable study companion! You show up on time, take detailed notes, and stick to the study plan no matter what. Your ideal study buddy appreciates your reliability and matches your work ethic, making study sessions consistent and productive. You're the rock of every study group.",
+        "traits": [
+          "Reliable",
+          "Detail-Oriented",
+          "Consistent",
+          "Practical"
+        ],
+        "studyTip": "Be open to new study methods – routine is good, but flexibility is too!"
+      },
+      {
+        "mbtiType": "ISFJ",
+        "title": "The Thoughtful Study Buddy",
+        "description": "You're the caring study companion who remembers everything! You bring extra pens, share your notes with absent friends, and check in on your study buddy's mental health. Your ideal study buddy values your kindness and reciprocates your care, making study sessions feel supportive and safe. You prioritize people over perfect grades.",
+        "traits": [
+          "Thoughtful",
+          "Caring",
+          "Observant",
+          "Loyal"
+        ],
+        "studyTip": "Set boundaries – you can't take care of everyone all the time!"
+      },
+      {
+        "mbtiType": "ISTP",
+        "title": "The Hands-On Study Buddy",
+        "description": "You're the practical learner who hates rote memorization! You learn by doing, solve problems step-by-step, and stay calm under pressure. Your ideal study buddy respects your independent approach and doesn't push you to study in ways that don't work for you. You're the quiet problem-solver of every study group.",
+        "traits": [
+          "Practical",
+          "Calm",
+          "Independent",
+          "Resourceful"
+        ],
+        "studyTip": "Try explaining your ideas out loud – teaching others reinforces learning!"
+      },
+      {
+        "mbtiType": "ISFP",
+        "title": "The Intuitive Study Buddy",
+        "description": "You're the sensitive learner who connects with material on a deep level! You remember concepts through feelings and experiences, and find beauty in even the most technical subjects. Your ideal study buddy is gentle and understanding, and appreciates your unique way of learning. You make studying feel personal and meaningful.",
+        "traits": [
+          "Intuitive",
+          "Sensitive",
+          "Creative",
+          "Present"
+        ],
+        "studyTip": "Use structure to support your intuition – organization helps your ideas shine!"
+      },
+      {
+        "mbtiType": "INTJ",
+        "title": "The Independent Study Genius",
+        "description": "You're the self-directed learner who needs minimal supervision! You create your own study plans, dive deep into complex topics, and work best alone. Your ideal study buddy respects your need for space and intellectual independence, and only joins you for high-level discussions. You're the master of self-learning.",
+        "traits": [
+          "Independent",
+          "Analytical",
+          "Strategic",
+          "Focused"
+        ],
+        "studyTip": "Collaborate occasionally – others can bring new insights to your work!"
+      },
+      {
+        "mbtiType": "INFJ",
+        "title": "The Insightful Study Buddy",
+        "description": "You're the deep thinker who sees connections others miss! You understand the underlying meaning of material, ask profound questions, and study with purpose. Your ideal study buddy values your insight and engages in meaningful conversations with you, making studying feel like a journey of discovery. You make learning feel transformative.",
+        "traits": [
+          "Insightful",
+          "Purposeful",
+          "Intuitive",
+          "Reflective"
+        ],
+        "studyTip": "Don't overthink – sometimes the simplest answer is the right one!"
+      },
+      {
+        "mbtiType": "INTP",
+        "title": "The Curious Study Nerd",
+        "description": "You're the analytical learner who loves to dig deep! You ask endless questions, explore tangents, and understand concepts from every angle. Your ideal study buddy shares your curiosity and intellectual rigor, and doesn't mind when you go off on interesting tangents. You're the brain of every study group.",
+        "traits": [
+          "Curious",
+          "Analytical",
+          "Intellectual",
+          "Creative"
+        ],
+        "studyTip": "Stay focused on the goal – tangents are fun, but deadlines matter!"
+      },
+      {
+        "mbtiType": "INFP",
+        "title": "The Idealistic Study Buddy",
+        "description": "You're the dreamy learner who studies for passion, not grades! You connect material to your values and dreams, and find meaning in even the most mundane subjects. Your ideal study buddy shares your idealism and helps you stay motivated when learning feels pointless. You make studying feel like a journey of self-discovery.",
+        "traits": [
+          "Idealistic",
+          "Passionate",
+          "Empathetic",
+          "Creative"
+        ],
+        "studyTip": "Balance passion with practicality – grades matter too!"
+      }
+    ]
+  },
+  {
+    "test_id": "workout_buddy",
+    "title": "What's Your Ideal Workout Buddy Personality?",
+    "results": [
+      {
+        "mbtiType": "ESTJ",
+        "title": "The Fitness Drill Sergeant",
+        "description": "You're the no-nonsense workout leader! You create strict fitness plans, track every rep, and push your workout buddy to meet their goals. Your ideal workout buddy respects your discipline and matches your work ethic, turning every gym session into a focused, results-driven challenge. You don't skip reps – ever.",
+        "traits": [
+          "Disciplined",
+          "Goal-Oriented",
+          "Assertive",
+          "Reliable"
+        ],
+        "fitnessTip": "Add fun to your workouts – progress doesn't have to be miserable!"
+      },
+      {
+        "mbtiType": "ESFJ",
+        "title": "The Fitness Cheerleader",
+        "description": "You're the encouraging workout buddy who makes every rep feel achievable! You celebrate small wins, bring positive energy, and lift your buddy up when they're struggling. Your ideal workout buddy appreciates your support and cheers you on in return, making even the hardest workouts feel like a team effort.",
+        "traits": [
+          "Encouraging",
+          "Positive",
+          "Caring",
+          "Energetic"
+        ],
+        "fitnessTip": "Focus on your own form – don't neglect your body to cheer others on!"
+      },
+      {
+        "mbtiType": "ESTP",
+        "title": "The Fitness Daredevil",
+        "description": "You're the spontaneous workout buddy who loves to push limits! You try new exercises, turn workouts into competitions, and hate boring routines. Your ideal workout buddy is as bold as you are, ready to try risky moves and turn every gym session into an adventure. You make fitness feel like play.",
+        "traits": [
+          "Bold",
+          "Spontaneous",
+          "Competitive",
+          "Fearless"
+        ],
+        "fitnessTip": "Prioritize safety – pushing limits is good, but injury is not!"
+      },
+      {
+        "mbtiType": "ESFP",
+        "title": "The Fitness Social Butterfly",
+        "description": "You're the fun-loving workout buddy who makes group classes a party! You make friends at the gym, laugh through tough workouts, and turn fitness into a social event. Your ideal workout buddy is outgoing and positive, and loves sweating together in a lively, supportive environment. You make exercise feel like hanging out.",
+        "traits": [
+          "Social",
+          "Playful",
+          "Positive",
+          "Present"
+        ],
+        "fitnessTip": "Focus on your workout – too much chatting can reduce intensity!"
+      },
+      {
+        "mbtiType": "ENTJ",
+        "title": "The Fitness Strategist",
+        "description": "You're the big-picture fitness planner! You analyze workout science, create long-term training programs, and find the most efficient ways to build strength. Your ideal workout buddy is ambitious and intelligent, able to keep up with your strategic approach and contribute their own fitness ideas. You turn working out into a well-executed plan.",
+        "traits": [
+          "Strategic",
+          "Ambitious",
+          "Analytical",
+          "Confident"
+        ],
+        "fitnessTip": "Listen to your body – even the best plan needs to adapt to how you feel!"
+      },
+      {
+        "mbtiType": "ENFJ",
+        "title": "The Fitness Mentor",
+        "description": "You're the inspiring fitness leader who helps others grow! You teach proper form, share your fitness knowledge, and motivate your buddy to become their strongest self. Your ideal workout buddy is eager to learn and grow, and values your patience and guidance. You make fitness feel empowering and transformative.",
+        "traits": [
+          "Inspiring",
+          "Patient",
+          "Generous",
+          "Insightful"
+        ],
+        "fitnessTip": "Don't take on too much – focus on your own fitness journey too!"
+      },
+      {
+        "mbtiType": "ENTP",
+        "title": "The Fitness Innovator",
+        "description": "You're the curious workout buddy who loves to experiment! You try new fitness trends, debate workout science, and find creative ways to make exercise effective. Your ideal workout buddy is sharp and curious, able to keep up with your quick wit and challenge your fitness ideas. You make working out feel dynamic and interesting.",
+        "traits": [
+          "Curious",
+          "Creative",
+          "Witty",
+          "Adaptable"
+        ],
+        "fitnessTip": "Stick with a routine long enough to see results – constant change slows progress!"
+      },
+      {
+        "mbtiType": "ENFP",
+        "title": "The Fitness Dreamer",
+        "description": "You're the optimistic workout buddy who makes fitness feel magical! You set big fitness goals, find joy in movement, and see exercise as a way to grow. Your ideal workout buddy shares your enthusiasm and optimism, and joins you in chasing your fitness dreams. You make even the hardest workouts feel hopeful.",
+        "traits": [
+          "Optimistic",
+          "Enthusiastic",
+          "Imaginative",
+          "Passionate"
+        ],
+        "fitnessTip": "Set realistic short-term goals – big dreams need small steps!"
+      },
+      {
+        "mbtiType": "ISTJ",
+        "title": "The Reliable Fitness Buddy",
+        "description": "You're the steady, consistent workout companion! You show up on time, follow your routine exactly, and track every workout detail. Your ideal workout buddy appreciates your reliability and matches your consistency, making fitness a predictable, sustainable part of life. You're the rock of every workout partnership.",
+        "traits": [
+          "Reliable",
+          "Consistent",
+          "Detail-Oriented",
+          "Practical"
+        ],
+        "fitnessTip": "Be open to small changes – routine is good, but adaptability prevents boredom!"
+      },
+      {
+        "mbtiType": "ISFJ",
+        "title": "The Caring Fitness Buddy",
+        "description": "You're the thoughtful workout companion who looks out for others! You bring water and towels, check on form to prevent injury, and remember your buddy's fitness limits. Your ideal workout buddy values your care and reciprocates your kindness, making every gym session feel safe and supportive. You prioritize health over intensity.",
+        "traits": [
+          "Caring",
+          "Observant",
+          "Gentle",
+          "Loyal"
+        ],
+        "fitnessTip": "Advocate for yourself – don't neglect your own needs to care for others!"
+      },
+      {
+        "mbtiType": "ISTP",
+        "title": "The Hands-On Fitness Buddy",
+        "description": "You're the practical workout buddy who learns by doing! You master new exercises quickly, fix form issues with your hands, and stay calm during tough workouts. Your ideal workout buddy respects your independent approach and doesn't push you to talk or socialize during exercise. You're the quiet expert of the gym.",
+        "traits": [
+          "Practical",
+          "Calm",
+          "Independent",
+          "Skilled"
+        ],
+        "fitnessTip": "Share your knowledge – teaching others reinforces your own skills!"
+      },
+      {
+        "mbtiType": "ISFP",
+        "title": "The Intuitive Fitness Buddy",
+        "description": "You're the sensitive workout buddy who connects with movement! You feel your body's limits, find joy in physical expression, and value fitness for how it makes you feel. Your ideal workout buddy is gentle and understanding, and appreciates your unique approach to exercise. You make fitness feel personal and meaningful.",
+        "traits": [
+          "Intuitive",
+          "Sensitive",
+          "Creative",
+          "Present"
+        ],
+        "fitnessTip": "Set small goals – tracking progress helps you stay motivated!"
+      },
+      {
+        "mbtiType": "INTJ",
+        "title": "The Independent Fitness Genius",
+        "description": "You're the self-directed workout buddy who needs minimal guidance! You research fitness science, create your own programs, and work best alone. Your ideal workout buddy respects your need for space and intellectual independence, and only joins you for high-level fitness discussions. You're the master of self-training.",
+        "traits": [
+          "Independent",
+          "Analytical",
+          "Strategic",
+          "Focused"
+        ],
+        "fitnessTip": "Work out with others occasionally – accountability boosts consistency!"
+      },
+      {
+        "mbtiType": "INFJ",
+        "title": "The Insightful Fitness Buddy",
+        "description": "You're the deep-thinking workout buddy who sees fitness as self-care! You understand the mind-body connection, use exercise to relieve stress, and work out with purpose. Your ideal workout buddy values your insight and engages in meaningful conversations about health, making fitness feel like a journey of self-discovery.",
+        "traits": [
+          "Insightful",
+          "Purposeful",
+          "Intuitive",
+          "Compassionate"
+        ],
+        "fitnessTip": "Don't overanalyze – sometimes just moving your body is enough!"
+      },
+      {
+        "mbtiType": "INTP",
+        "title": "The Fitness Nerd",
+        "description": "You're the curious workout buddy who loves to analyze fitness! You research exercise physiology, debate training methods, and understand the science behind every rep. Your ideal workout buddy shares your curiosity and intellectual rigor, and doesn't mind when you go off on fitness tangents. You're the brain of every gym group.",
+        "traits": [
+          "Curious",
+          "Analytical",
+          "Intellectual",
+          "Creative"
+        ],
+        "fitnessTip": "Stop overthinking and start moving – action beats theory!"
+      },
+      {
+        "mbtiType": "INFP",
+        "title": "The Idealistic Fitness Buddy",
+        "description": "You're the dreamy workout buddy who exercises for joy, not perfection! You connect fitness to your values, find meaning in movement, and prioritize mental health over physical appearance. Your ideal workout buddy shares your idealism and helps you stay motivated when exercise feels hard. You make fitness feel like self-love.",
+        "traits": [
+          "Idealistic",
+          "Compassionate",
+          "Creative",
+          "Passionate"
+        ],
+        "fitnessTip": "Create a sustainable routine – consistency beats intensity for long-term joy!"
+      }
+    ]
+  },
+  {
+    "test_id": "work_colleague",
+    "title": "What's Your Ideal Work Colleague Personality?",
+    "results": [
+      {
+        "mbtiType": "ESTJ",
+        "title": "The Office Leader",
+        "description": "You're the reliable, structured colleague who keeps the team on track! You create clear processes, meet deadlines without fail, and hold everyone accountable. Your ideal work buddy respects your authority and matches your strong work ethic, making projects run smoothly and efficiently. You're the backbone of every successful team.",
+        "traits": [
+          "Organized",
+          "Responsible",
+          "Decisive",
+          "Reliable"
+        ],
+        "workTip": "Learn to delegate – you don't have to control every detail to succeed!"
+      },
+      {
+        "mbtiType": "ESFJ",
+        "title": "The Office Caregiver",
+        "description": "You're the warm, supportive colleague who makes the workplace feel like home! You remember birthdays, check in on stressed teammates, and foster a positive work environment. Your ideal work buddy appreciates your kindness and reciprocates your care, making even busy workdays feel enjoyable and connected.",
+        "traits": [
+          "Caring",
+          "Social",
+          "Nurturing",
+          "Cooperative"
+        ],
+        "workTip": "Set boundaries – you can't take care of everyone without burning out!"
+      },
+      {
+        "mbtiType": "ESTP",
+        "title": "The Office Problem-Solver",
+        "description": "You're the quick-thinking, hands-on colleague who thrives under pressure! You solve unexpected problems, adapt to changing priorities, and turn crises into opportunities. Your ideal work buddy is as flexible as you are, ready to jump into action and tackle challenges head-on. You make the workplace feel dynamic and exciting.",
+        "traits": [
+          "Adaptable",
+          "Practical",
+          "Bold",
+          "Energetic"
+        ],
+        "workTip": "Plan ahead occasionally – quick fixes don't solve long-term issues!"
+      },
+      {
+        "mbtiType": "ESFP",
+        "title": "The Office Social Butterfly",
+        "description": "You're the cheerful, outgoing colleague who boosts team morale! You organize office events, make meetings fun, and build connections between teammates. Your ideal work buddy is social and positive, and loves collaborating in a lively, supportive environment. You make work feel less like a chore and more like a community.",
+        "traits": [
+          "Social",
+          "Playful",
+          "Positive",
+          "Present"
+        ],
+        "workTip": "Balance fun with focus – too much socializing can derail productivity!"
+      },
+      {
+        "mbtiType": "ENTJ",
+        "title": "The Office Visionary",
+        "description": "You're the strategic, ambitious colleague who leads the team to success! You set big goals, create long-term plans, and inspire others to reach their potential. Your ideal work buddy is intelligent and driven, able to keep up with your big-picture thinking and contribute meaningful ideas. You turn ordinary projects into extraordinary successes.",
+        "traits": [
+          "Strategic",
+          "Ambitious",
+          "Confident",
+          "Visionary"
+        ],
+        "workTip": "Listen to your team – great ideas can come from anywhere, not just the top!"
+      },
+      {
+        "mbtiType": "ENFJ",
+        "title": "The Office Mentor",
+        "description": "You're the inspiring, empathetic colleague who helps others grow! You mentor new teammates, share your knowledge generously, and advocate for your team's needs. Your ideal work buddy is eager to learn and grow, and values your guidance and support. You make the workplace feel like a place for growth and development.",
+        "traits": [
+          "Inspiring",
+          "Empathetic",
+          "Wise",
+          "Generous"
+        ],
+        "workTip": "Focus on your own goals – you can't mentor everyone and still advance your career!"
+      },
+      {
+        "mbtiType": "ENTP",
+        "title": "The Office Innovator",
+        "description": "You're the creative, curious colleague who challenges the status quo! You brainstorm new ideas, debate processes, and find innovative solutions to old problems. Your ideal work buddy is sharp and open-minded, able to keep up with your quick wit and challenge your ideas. You make the workplace feel dynamic and forward-thinking.",
+        "traits": [
+          "Creative",
+          "Curious",
+          "Witty",
+          "Adaptable"
+        ],
+        "workTip": "Follow through on your ideas – great concepts need execution to succeed!"
+      },
+      {
+        "mbtiType": "ENFP",
+        "title": "The Office Dreamer",
+        "description": "You're the optimistic, imaginative colleague who brings joy to work! You see possibilities where others see obstacles, inspire creativity in your team, and make even boring tasks feel meaningful. Your ideal work buddy shares your optimism and creativity, and joins you in chasing big, bold ideas. You're the heart of every innovative team.",
+        "traits": [
+          "Optimistic",
+          "Imaginative",
+          "Enthusiastic",
+          "Creative"
+        ],
+        "workTip": "Ground your ideas in reality – dreams need practical steps to become real!"
+      },
+      {
+        "mbtiType": "ISTJ",
+        "title": "The Office Reliable",
+        "description": "You're the steady, detail-oriented colleague who gets things done! You follow processes to the letter, catch mistakes others miss, and deliver high-quality work on time. Your ideal work buddy appreciates your reliability and matches your attention to detail, making projects consistent and error-free. You're the rock every team needs.",
+        "traits": [
+          "Reliable",
+          "Detail-Oriented",
+          "Consistent",
+          "Practical"
+        ],
+        "workTip": "Be open to new methods – tradition is good, but innovation drives growth!"
+      },
+      {
+        "mbtiType": "ISFJ",
+        "title": "The Office Supporter",
+        "description": "You're the quiet, thoughtful colleague who makes the team run smoothly! You anticipate needs, handle administrative tasks without being asked, and support your teammates behind the scenes. Your ideal work buddy values your quiet contributions and acknowledges your hard work, making you feel seen and appreciated.",
+        "traits": [
+          "Thoughtful",
+          "Loyal",
+          "Observant",
+          "Cooperative"
+        ],
+        "workTip": "Speak up for yourself – your needs and ideas matter just as much as others'!"
+      },
+      {
+        "mbtiType": "ISTP",
+        "title": "The Office Technician",
+        "description": "You're the calm, practical colleague who fixes problems no one else can! You troubleshoot technical issues, streamline processes, and work independently without supervision. Your ideal work buddy respects your need for autonomy and doesn't micromanage your work. You're the quiet expert every office relies on.",
+        "traits": [
+          "Practical",
+          "Calm",
+          "Independent",
+          "Resourceful"
+        ],
+        "workTip": "Communicate your progress – even independent workers need to update the team!"
+      },
+      {
+        "mbtiType": "ISFP",
+        "title": "The Office Artist",
+        "description": "You're the creative, sensitive colleague who brings beauty to work! You design visually appealing projects, connect with clients on an emotional level, and value authenticity in your work. Your ideal work buddy is gentle and understanding, and appreciates your unique creative perspective. You make work feel personal and meaningful.",
+        "traits": [
+          "Creative",
+          "Sensitive",
+          "Authentic",
+          "Present"
+        ],
+        "workTip": "Advocate for your ideas – your creative vision is valuable to the team!"
+      },
+      {
+        "mbtiType": "INTJ",
+        "title": "The Office Strategist",
+        "description": "You're the independent, analytical colleague who plans for success! You research market trends, anticipate challenges, and create foolproof strategies for projects. Your ideal work buddy respects your need for space and intellectual independence, and only engages in high-level strategic discussions. You're the mastermind behind every successful initiative.",
+        "traits": [
+          "Analytical",
+          "Independent",
+          "Strategic",
+          "Focused"
+        ],
+        "workTip": "Collaborate with the team – your strategy needs buy-in to succeed!"
+      },
+      {
+        "mbtiType": "INFJ",
+        "title": "The Office Empath",
+        "description": "You're the insightful, compassionate colleague who understands people! You read team dynamics, anticipate client needs, and bring emotional intelligence to every interaction. Your ideal work buddy values your deep understanding of others and appreciates your thoughtful approach to work. You make the workplace feel more human and connected.",
+        "traits": [
+          "Insightful",
+          "Compassionate",
+          "Intuitive",
+          "Purposeful"
+        ],
+        "workTip": "Protect your energy – absorbing others' emotions can lead to burnout!"
+      },
+      {
+        "mbtiType": "INTP",
+        "title": "The Office Thinker",
+        "description": "You're the curious, analytical colleague who solves complex problems! You dive deep into data, question assumptions, and find logical solutions to challenging issues. Your ideal work buddy shares your love of learning and enjoys intellectual discussions, even if you get lost in your thoughts for hours. You're the brain of every problem-solving team.",
+        "traits": [
+          "Curious",
+          "Analytical",
+          "Intellectual",
+          "Creative"
+        ],
+        "workTip": "Communicate your ideas clearly – complex thoughts need simple explanations!"
+      },
+      {
+        "mbtiType": "INFP",
+        "title": "The Office Idealist",
+        "description": "You're the gentle, purpose-driven colleague who works with passion! You connect your work to your values, advocate for what's right, and bring heart to every project. Your ideal work buddy shares your idealism and helps you stay true to your values in a corporate world. You make work feel meaningful and purposeful.",
+        "traits": [
+          "Idealistic",
+          "Compassionate",
+          "Creative",
+          "Purposeful"
+        ],
+        "workTip": "Be practical about your ideals – small, consistent actions create real change!"
+      }
+    ]
+  },
+  {
+    "test_id": "pet_parent",
+    "title": "What's Your Ideal Pet Parent Personality?",
+    "results": [
+      {
+        "mbtiType": "ESTJ",
+        "title": "The Pet Parent Drill Sergeant",
+        "description": "You're the structured, disciplined pet parent who sets clear rules and routines! You create a consistent schedule for your pet, train them with firm kindness, and make sure they follow household rules. Your ideal pet appreciates your consistency and thrives under your reliable leadership. You're the pet parent who ensures your furry friend is well-behaved and cared for.",
+        "traits": [
+          "Disciplined",
+          "Structured",
+          "Reliable",
+          "Firm"
+        ],
+        "petTip": "Let loose occasionally – pets need fun and playtime too!"
+      },
+      {
+        "mbtiType": "ESFJ",
+        "title": "The Nurturing Pet Parent",
+        "description": "You're the warm, caring pet parent who puts your pet's needs first! You spoil your pet with love and attention, remember their favorite treats, and make sure they feel safe and secure. Your ideal pet is affectionate and appreciates your constant care and attention. You're the pet parent who turns your home into a pet paradise.",
+        "traits": [
+          "Caring",
+          "Nurturing",
+          "Attentive",
+          "Loving"
+        ],
+        "petTip": "Set boundaries – even pets need rules to feel secure!"
+      },
+      {
+        "mbtiType": "ESTP",
+        "title": "The Adventure Pet Parent",
+        "description": "You're the active, spontaneous pet parent who loves outdoor adventures! You take your pet on hikes, to the beach, and on road trips, turning every day into an exciting adventure. Your ideal pet is energetic and loves exploring the world with you. You're the pet parent who creates unforgettable memories with your furry companion.",
+        "traits": [
+          "Adventurous",
+          "Spontaneous",
+          "Energetic",
+          "Active"
+        ],
+        "petTip": "Make time for rest – even adventure pets need downtime!"
+      },
+      {
+        "mbtiType": "ESFP",
+        "title": "The Social Pet Parent",
+        "description": "You're the outgoing, friendly pet parent who loves showing off your pet! You take your pet to parks, pet cafes, and social events, making them the center of attention. Your ideal pet is sociable and loves meeting new people and animals. You're the pet parent who turns your pet into a local celebrity.",
+        "traits": [
+          "Social",
+          "Friendly",
+          "Outgoing",
+          "Playful"
+        ],
+        "petTip": "Respect your pet's boundaries – not all pets love constant socializing!"
+      },
+      {
+        "mbtiType": "ENTJ",
+        "title": "The Strategic Pet Parent",
+        "description": "You're the goal-oriented, strategic pet parent who plans for your pet's future! You research the best food, training methods, and healthcare options, creating a long-term plan for your pet's well-being. Your ideal pet is intelligent and responds well to your structured approach. You're the pet parent who ensures your pet has the best possible life.",
+        "traits": [
+          "Strategic",
+          "Goal-Oriented",
+          "Research-Driven",
+          "Planned"
+        ],
+        "petTip": "Be flexible – pets have their own personalities and needs!"
+      },
+      {
+        "mbtiType": "ENFJ",
+        "title": "The Inspirational Pet Parent",
+        "description": "You're the empathetic, inspiring pet parent who connects deeply with your pet! You understand your pet's emotions, advocate for animal welfare, and use your bond to inspire others. Your ideal pet is sensitive and responds well to your emotional support. You're the pet parent who creates a deep, meaningful bond with your furry friend.",
+        "traits": [
+          "Empathetic",
+          "Inspiring",
+          "Advocative",
+          "Bonded"
+        ],
+        "petTip": "Take care of yourself – you can't support your pet if you're burnt out!"
+      },
+      {
+        "mbtiType": "ENTP",
+        "title": "The Innovative Pet Parent",
+        "description": "You're the creative, curious pet parent who loves experimenting! You try new training methods, create DIY toys, and find innovative solutions to pet care challenges. Your ideal pet is adaptable and enjoys your creative approach. You're the pet parent who turns ordinary pet care into an exciting experiment.",
+        "traits": [
+          "Creative",
+          "Innovative",
+          "Curious",
+          "Experimental"
+        ],
+        "petTip": "Stick with what works – not every experiment needs to be permanent!"
+      },
+      {
+        "mbtiType": "ENFP",
+        "title": "The Dreamy Pet Parent",
+        "description": "You're the optimistic, imaginative pet parent who sees the best in your pet! You create elaborate stories about your pet's adventures, spoil them with love, and believe they're capable of anything. Your ideal pet is playful and responds well to your positive energy. You're the pet parent who makes every day magical for your furry friend.",
+        "traits": [
+          "Optimistic",
+          "Imaginative",
+          "Playful",
+          "Loving"
+        ],
+        "petTip": "Be realistic – pets have limitations too!"
+      },
+      {
+        "mbtiType": "ISTJ",
+        "title": "The Reliable Pet Parent",
+        "description": "You're the steady, dependable pet parent who follows through on commitments! You never miss a vet appointment, always keep your pet's supplies stocked, and provide consistent care. Your ideal pet appreciates your reliability and thrives in a stable environment. You're the pet parent who ensures your pet's needs are always met.",
+        "traits": [
+          "Reliable",
+          "Consistent",
+          "Dependable",
+          "Organized"
+        ],
+        "petTip": "Be open to spontaneity – pets enjoy surprises too!"
+      },
+      {
+        "mbtiType": "ISFJ",
+        "title": "The Caring Pet Parent",
+        "description": "You're the thoughtful, observant pet parent who notices every detail! You remember your pet's preferences, anticipate their needs, and provide gentle care. Your ideal pet is sensitive and appreciates your quiet devotion. You're the pet parent who creates a safe, loving home for your furry friend.",
+        "traits": [
+          "Thoughtful",
+          "Observant",
+          "Gentle",
+          "Caring"
+        ],
+        "petTip": "Share your care with others – your pet can benefit from socialization!"
+      },
+      {
+        "mbtiType": "ISTP",
+        "title": "The Hands-On Pet Parent",
+        "description": "You're the practical, hands-on pet parent who fixes problems yourself! You groom your pet at home, build them custom toys, and handle minor health issues with confidence. Your ideal pet is independent and appreciates your practical approach. You're the pet parent who takes care of business when it comes to pet care.",
+        "traits": [
+          "Practical",
+          "Hands-On",
+          "Independent",
+          "Resourceful"
+        ],
+        "petTip": "Ask for help when needed – some pet issues require professionals!"
+      },
+      {
+        "mbtiType": "ISFP",
+        "title": "The Artistic Pet Parent",
+        "description": "You're the creative, sensitive pet parent who connects with your pet on a deep level! You take beautiful photos of your pet, create art inspired by them, and appreciate their unique personality. Your ideal pet is gentle and responds well to your artistic energy. You're the pet parent who sees your pet as a muse and a friend.",
+        "traits": [
+          "Creative",
+          "Sensitive",
+          "Artistic",
+          "Observant"
+        ],
+        "petTip": "Balance art with practicality – pets need basic care too!"
+      },
+      {
+        "mbtiType": "INTJ",
+        "title": "The Analytical Pet Parent",
+        "description": "You're the strategic, analytical pet parent who plans for every scenario! You research pet behavior, create detailed care plans, and make decisions based on data. Your ideal pet is intelligent and responds well to your logical approach. You're the pet parent who ensures your pet's care is based on science and strategy.",
+        "traits": [
+          "Analytical",
+          "Strategic",
+          "Research-Driven",
+          "Logical"
+        ],
+        "petTip": "Trust your intuition – pets aren't just data points!"
+      },
+      {
+        "mbtiType": "INFJ",
+        "title": "The Insightful Pet Parent",
+        "description": "You're the intuitive, insightful pet parent who understands your pet's soul! You sense when your pet is upset, anticipate their needs, and create a deep emotional bond. Your ideal pet is sensitive and responds well to your intuitive care. You're the pet parent who truly understands what makes your furry friend tick.",
+        "traits": [
+          "Intuitive",
+          "Insightful",
+          "Empathetic",
+          "Bonded"
+        ],
+        "petTip": "Don't overanalyze – sometimes pets just need simple care!"
+      },
+      {
+        "mbtiType": "INTP",
+        "title": "The Curious Pet Parent",
+        "description": "You're the inquisitive, analytical pet parent who loves learning about pets! You study animal behavior, experiment with different training methods, and enjoy solving pet-related puzzles. Your ideal pet is intelligent and enjoys your mental stimulation. You're the pet parent who turns pet care into a fascinating learning experience.",
+        "traits": [
+          "Curious",
+          "Analytical",
+          "Inquisitive",
+          "Intellectual"
+        ],
+        "petTip": "Remember to play – pets need fun, not just mental stimulation!"
+      },
+      {
+        "mbtiType": "INFP",
+        "title": "The Idealistic Pet Parent",
+        "description": "You're the compassionate, idealistic pet parent who sees your pet as a family member! You advocate for animal rights, create a loving home environment, and believe in the power of unconditional love. Your ideal pet is gentle and responds well to your kind-hearted approach. You're the pet parent who treats your furry friend with the respect and love they deserve.",
+        "traits": [
+          "Compassionate",
+          "Idealistic",
+          "Loving",
+          "Advocative"
+        ],
+        "petTip": "Be practical – pets have basic needs that can't be ignored!"
+      }
+    ]
+  }
+]

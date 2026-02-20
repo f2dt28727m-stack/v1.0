@@ -107,6 +107,7 @@
             padding-top: 120px;
             padding-bottom: 20px;
             min-height: 100vh;
+            display: none;
         }
         
         /* Page */
@@ -571,17 +572,42 @@
             bottom: 0;
             background: #0a0a0a;
             display: flex;
-            align-items: center;
+            align-items: flex-start;
             justify-content: center;
             z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        
+        /* Custom scrollbar for welcome page */
+        .welcome-page::-webkit-scrollbar {
+            width: 6px;
+        }
+        
+        .welcome-page::-webkit-scrollbar-track {
+            background: #1a1a1a;
+            border-radius: 3px;
+        }
+        
+        .welcome-page::-webkit-scrollbar-thumb {
+            background: #333;
+            border-radius: 3px;
+        }
+        
+        .welcome-page::-webkit-scrollbar-thumb:hover {
+            background: #444;
         }
         .welcome-content {
-            width: 90%;
+            width: 100%;
             max-width: 600px;
             padding: 30px;
             background: #141414;
             border-radius: 20px;
             border: 1px solid #333;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
         .welcome-header {
             text-align: center;
@@ -638,12 +664,8 @@
         /* Responsive adjustments for welcome page */
         @media (max-width: 480px) {
             .welcome-content {
-                width: 100%;
-                height: 100%;
-                max-width: 100%;
+                width: 95%;
                 padding: 20px;
-                border-radius: 0;
-                border: none;
             }
             
             .welcome-header h1 {
@@ -655,7 +677,7 @@
             }
             
             .welcome-filter-panel {
-                max-height: calc(100vh - 200px);
+                max-height: 300px;
             }
             
             .welcome-actions {
@@ -664,33 +686,28 @@
             }
             
             .welcome-btn {
-                padding: 12px 30px;
+                padding: 10px 24px;
                 font-size: 14px;
-                width: 220px;
+                width: 200px;
             }
             
             .category-header {
-                padding-left: 0;
+                padding-left: 4px;
             }
             
             .category-tags {
-                padding-left: 0;
+                padding-left: 4px;
             }
             
             .filter-tag {
-                padding: 8px 12px;
-                font-size: 12px;
+                padding: 6px 10px;
+                font-size: 11px;
             }
         }
         
         @media (max-width: 320px) {
             .welcome-content {
-                width: 100%;
-                height: 100%;
-                max-width: 100%;
                 padding: 16px;
-                border-radius: 0;
-                border: none;
             }
             
             .welcome-header h1 {
@@ -701,14 +718,10 @@
                 font-size: 13px;
             }
             
-            .welcome-filter-panel {
-                max-height: calc(100vh - 180px);
-            }
-            
             .welcome-btn {
-                padding: 10px 24px;
+                padding: 8px 20px;
                 font-size: 13px;
-                width: 200px;
+                width: 180px;
             }
         }
         
@@ -923,31 +936,46 @@
         }
         
         function renderRecommended() {
+            let recommended = [...testList];
+            
             // Get user interests from localStorage
-            const userInterests = JSON.parse(localStorage.getItem('quizy_interests') || '[]');
+            const userInterests = localStorage.getItem('quizy_interests');
+            if (userInterests) {
+                try {
+                    const interests = JSON.parse(userInterests);
+                    if (interests.length > 0) {
+                        // Sort quizzes by number of matching tags
+                        recommended.sort((a, b) => {
+                            const aMatches = a.tags.filter(tag => 
+                                interests.some(interest => 
+                                    tag.toLowerCase().includes(interest.toLowerCase()) || 
+                                    interest.toLowerCase().includes(tag.toLowerCase())
+                                )
+                            ).length;
+                            const bMatches = b.tags.filter(tag => 
+                                interests.some(interest => 
+                                    tag.toLowerCase().includes(interest.toLowerCase()) || 
+                                    interest.toLowerCase().includes(tag.toLowerCase())
+                                )
+                            ).length;
+                            return bMatches - aMatches;
+                        });
+                    }
+                } catch (error) {
+                    console.error('Error parsing user interests:', error);
+                }
+            } else {
+                // If no interests, randomize
+                recommended.sort(() => 0.5 - Math.random());
+            }
             
-            // Sort quizzes by number of matching tags
-            const recommended = [...testList].sort((a, b) => {
-                const aMatches = countMatches(a.tags, userInterests);
-                const bMatches = countMatches(b.tags, userInterests);
-                return bMatches - aMatches;
-            });
+            document.getElementById('recommend-list').innerHTML = recommended.map(t => createCard(t)).join('');
             
-            document.getElementById('recommended-list').innerHTML = recommended.map(t => createCard(t)).join('');
-        }
-        
-        // Helper function to count matching tags
-        function countMatches(quizTags, userInterests) {
-            if (!userInterests || userInterests.length === 0) return 0;
-            
-            return quizTags.reduce((count, quizTag) => {
-                // Check if any user interest matches this quiz tag
-                const hasMatch = userInterests.some(interest => 
-                    quizTag.toLowerCase().includes(interest.toLowerCase()) || 
-                    interest.toLowerCase().includes(quizTag.toLowerCase())
-                );
-                return count + (hasMatch ? 1 : 0);
-            }, 0);
+            // Also update the recommended page content
+            const recommendedListEl = document.getElementById('recommended-list');
+            if (recommendedListEl) {
+                recommendedListEl.innerHTML = recommended.map(t => createCard(t)).join('');
+            }
         }
         
         
@@ -992,23 +1020,9 @@ function renderTags() {
             const hot = [...testList].sort((a,b) => b.hot_count - a.hot_count).slice(0, 6);
             document.getElementById('hot-list').innerHTML = hot.map(t => createCard(t)).join('');
             
-            // Recommend - based on user interests
-            const userInterests = JSON.parse(localStorage.getItem('quizy_interests') || '[]');
-            let recommended;
-            
-            if (userInterests.length > 0) {
-                // Sort by matching tags
-                recommended = [...testList].sort((a, b) => {
-                    const aMatches = countMatches(a.tags, userInterests);
-                    const bMatches = countMatches(b.tags, userInterests);
-                    return bMatches - aMatches;
-                }).slice(0, 10);
-            } else {
-                // Fallback to random if no interests selected
-                recommended = [...testList].sort(() => 0.5 - Math.random()).slice(0, 10);
-            }
-            
-            document.getElementById('recommend-list').innerHTML = recommended.map(t => createCard(t)).join('');
+            // Recommend - random
+            const shuffled = [...testList].sort(() => 0.5 - Math.random()).slice(0, 10);
+            document.getElementById('recommend-list').innerHTML = shuffled.map(t => createCard(t)).join('');
         }
         
         function renderAll() {
@@ -1160,46 +1174,53 @@ function renderTags() {
         function checkFirstTime() {
             const hasVisited = localStorage.getItem('quizy_visited');
             if (!hasVisited) {
+                // Pre-render welcome tags before showing the page
                 renderWelcomeTags();
-                document.getElementById('welcome-page').style.display = 'flex';
+                // Show welcome page
+                const welcomePage = document.getElementById('welcome-page');
+                welcomePage.style.opacity = '1';
                 document.getElementById('main-content').style.display = 'none';
             } else {
-                document.getElementById('welcome-page').style.display = 'none';
+                const welcomePage = document.getElementById('welcome-page');
+                welcomePage.style.opacity = '0';
+                setTimeout(() => {
+                    welcomePage.style.display = 'none';
+                }, 300);
                 document.getElementById('main-content').style.display = 'block';
             }
         }
         
         function renderWelcomeTags() {
             const welcomeFilterPanel = document.getElementById('welcome-filter-panel');
-            let html = '';
+            
+            // Use document fragment for better performance
+            const fragment = document.createDocumentFragment();
             
             // Render each category (reusing existing tagCategories)
             for (const [category, categoryData] of Object.entries(tagCategories)) {
-                html += `
-                <div class="category-section">
+                const categorySection = document.createElement('div');
+                categorySection.className = 'category-section';
+                
+                categorySection.innerHTML = `
                     <div class="category-header">
                         <span class="category-icon">${categoryData.icon}</span>
                         <span class="category-title">${category}</span>
                     </div>
                     <div class="category-tags">
-                `;
-                
-                // Render tags in this category
-                categoryData.tags.forEach(tag => {
-                    html += `
-                        <div class="filter-tag" data-tag="${tag.tag_id}" onclick="toggleWelcomeTag('${tag.tag_id}')">
-                            ${tag.icon} ${tag.text}
-                        </div>
-                    `;
-                });
-                
-                html += `
+                        ${categoryData.tags.map(tag => `
+                            <div class="filter-tag" data-tag="${tag.tag_id}" onclick="toggleWelcomeTag('${tag.tag_id}')">
+                                ${tag.icon} ${tag.text}
+                            </div>
+                        `).join('')}
                     </div>
-                </div>
                 `;
+                
+                fragment.appendChild(categorySection);
             }
             
-            welcomeFilterPanel.innerHTML = html;
+            // Clear existing content and append fragment
+            welcomeFilterPanel.innerHTML = '';
+            welcomeFilterPanel.appendChild(fragment);
         }
         
         function toggleWelcomeTag(tag) {
@@ -1217,18 +1238,22 @@ function renderTags() {
         function saveInterests() {
             localStorage.setItem('quizy_interests', JSON.stringify(welcomeSelectedTags));
             localStorage.setItem('quizy_visited', 'true');
-            document.getElementById('welcome-page').style.display = 'none';
-            document.getElementById('main-content').style.display = 'block';
-            
-            // Update recommendations based on selected interests
-            renderHome();
-            renderRecommended();
+            const welcomePage = document.getElementById('welcome-page');
+            welcomePage.style.opacity = '0';
+            setTimeout(() => {
+                welcomePage.style.display = 'none';
+                document.getElementById('main-content').style.display = 'block';
+            }, 300);
         }
         
         function skipWelcome() {
             localStorage.setItem('quizy_visited', 'true');
-            document.getElementById('welcome-page').style.display = 'none';
-            document.getElementById('main-content').style.display = 'block';
+            const welcomePage = document.getElementById('welcome-page');
+            welcomePage.style.opacity = '0';
+            setTimeout(() => {
+                welcomePage.style.display = 'none';
+                document.getElementById('main-content').style.display = 'block';
+            }, 300);
         }
         
         // Tag categories - moved here to ensure it's defined before any function calls
@@ -1328,8 +1353,15 @@ function renderTags() {
         
         // Load data when page loads
         window.onload = function() {
+            // Clear localStorage for testing (remove this in production)
+            localStorage.removeItem('quizy_visited');
+            localStorage.removeItem('quizy_interests');
+            
+            // Show welcome page immediately
             checkFirstTime();
-            loadData();
+            
+            // Load data in the background
+            setTimeout(loadData, 100);
             
             // Initialize ads after page load
             if (window.adsbygoogle) {

@@ -1,0 +1,832 @@
+{
+  "quizId": 23,
+  "title": "Which Travel Style Matches Your MBTI?",
+  "category": "which",
+  "tags": [
+    "Travel",
+    "MBTI",
+    "Adventure",
+    "Personality",
+    "Wanderlust"
+  ],
+  "description": "Answer 12 wanderlust-filled questions to discover which travel style perfectly matches your MBTI personality type\u2014find your perfect journey!",
+  "questions": [
+    {
+      "text": "Your ideal travel companion is...",
+      "options": [
+        {
+          "text": "Large group of friends",
+          "score": "E"
+        },
+        {
+          "text": "One close friend or alone",
+          "score": "I"
+        },
+        {
+          "text": "Practical travel partner",
+          "score": "S"
+        },
+        {
+          "text": "Open-minded adventure buddy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You plan trips by...",
+      "options": [
+        {
+          "text": "Research with others",
+          "score": "F"
+        },
+        {
+          "text": "Detailed itinerary",
+          "score": "T"
+        },
+        {
+          "text": "Structured planning",
+          "score": "J"
+        },
+        {
+          "text": "Loose outline",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal accommodation is...",
+      "options": [
+        {
+          "text": "Social hostel",
+          "score": "E"
+        },
+        {
+          "text": "Private villa/cabin",
+          "score": "I"
+        },
+        {
+          "text": "Practical hotel",
+          "score": "S"
+        },
+        {
+          "text": "Unique boutique stay",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You explore destinations by...",
+      "options": [
+        {
+          "text": "Guided group tours",
+          "score": "F"
+        },
+        {
+          "text": "Self-guided exploration",
+          "score": "T"
+        },
+        {
+          "text": "Planned sightseeing",
+          "score": "J"
+        },
+        {
+          "text": "Random wandering",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel motivation is...",
+      "options": [
+        {
+          "text": "Social connection",
+          "score": "E"
+        },
+        {
+          "text": "Personal reflection",
+          "score": "I"
+        },
+        {
+          "text": "Practical experience",
+          "score": "S"
+        },
+        {
+          "text": "Cultural immersion",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle travel mishaps by...",
+      "options": [
+        {
+          "text": "Stay positive",
+          "score": "F"
+        },
+        {
+          "text": "Problem-solve",
+          "score": "T"
+        },
+        {
+          "text": "Follow backup plan",
+          "score": "J"
+        },
+        {
+          "text": "Adapt and explore",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel packing style is...",
+      "options": [
+        {
+          "text": "Pack for social situations",
+          "score": "E"
+        },
+        {
+          "text": "Minimal and practical",
+          "score": "I"
+        },
+        {
+          "text": "Organized lists",
+          "score": "S"
+        },
+        {
+          "text": "Flexible essentials",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You experience local culture by...",
+      "options": [
+        {
+          "text": "Local festivals/events",
+          "score": "F"
+        },
+        {
+          "text": "Museums/historical sites",
+          "score": "T"
+        },
+        {
+          "text": "Local cuisine",
+          "score": "J"
+        },
+        {
+          "text": "Cultural workshops",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel pace is...",
+      "options": [
+        {
+          "text": "Energetic and social",
+          "score": "E"
+        },
+        {
+          "text": "Slow and reflective",
+          "score": "I"
+        },
+        {
+          "text": "Planned and efficient",
+          "score": "S"
+        },
+        {
+          "text": "Variable and curious",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You document travels by...",
+      "options": [
+        {
+          "text": "Social media sharing",
+          "score": "F"
+        },
+        {
+          "text": "Private journal/photos",
+          "score": "T"
+        },
+        {
+          "text": "Structured scrapbook",
+          "score": "J"
+        },
+        {
+          "text": "Creative storytelling",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal destination type is...",
+      "options": [
+        {
+          "text": "Bustling city",
+          "score": "E"
+        },
+        {
+          "text": "Remote nature",
+          "score": "I"
+        },
+        {
+          "text": "Practical beach resort",
+          "score": "S"
+        },
+        {
+          "text": "Cultural heritage site",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You choose activities by...",
+      "options": [
+        {
+          "text": "Popular experiences",
+          "score": "F"
+        },
+        {
+          "text": "Intellectual pursuits",
+          "score": "T"
+        },
+        {
+          "text": "Physical activities",
+          "score": "J"
+        },
+        {
+          "text": "Unique adventures",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You interact with locals by...",
+      "options": [
+        {
+          "text": "Friendly conversation",
+          "score": "E"
+        },
+        {
+          "text": "Respectful observation",
+          "score": "I"
+        },
+        {
+          "text": "Practical transactions",
+          "score": "S"
+        },
+        {
+          "text": "Cultural exchange",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle travel stress by...",
+      "options": [
+        {
+          "text": "Social support",
+          "score": "F"
+        },
+        {
+          "text": "Logical perspective",
+          "score": "T"
+        },
+        {
+          "text": "Stick to routine",
+          "score": "J"
+        },
+        {
+          "text": "Mindfulness",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel budget approach is...",
+      "options": [
+        {
+          "text": "Experience-focused",
+          "score": "E"
+        },
+        {
+          "text": "Value-conscious",
+          "score": "I"
+        },
+        {
+          "text": "Budget-planned",
+          "score": "S"
+        },
+        {
+          "text": "Flexible spending",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You travel for...",
+      "options": [
+        {
+          "text": "Fun and connection",
+          "score": "F"
+        },
+        {
+          "text": "Learning and growth",
+          "score": "T"
+        },
+        {
+          "text": "Rest and relaxation",
+          "score": "J"
+        },
+        {
+          "text": "Adventure and discovery",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your transportation preference is...",
+      "options": [
+        {
+          "text": "Social group travel",
+          "score": "E"
+        },
+        {
+          "text": "Private transport",
+          "score": "I"
+        },
+        {
+          "text": "Practical public transit",
+          "score": "S"
+        },
+        {
+          "text": "Scenic routes",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make travel memories by...",
+      "options": [
+        {
+          "text": "Shared experiences",
+          "score": "F"
+        },
+        {
+          "text": "Personal achievements",
+          "score": "T"
+        },
+        {
+          "text": "Consistent traditions",
+          "score": "J"
+        },
+        {
+          "text": "Unexpected moments",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel comfort level is...",
+      "options": [
+        {
+          "text": "Adaptable to social situations",
+          "score": "E"
+        },
+        {
+          "text": "Need personal space",
+          "score": "I"
+        },
+        {
+          "text": "Prioritize practical comfort",
+          "score": "S"
+        },
+        {
+          "text": "Embrace new experiences",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach language barriers by...",
+      "options": [
+        {
+          "text": "Gestures and smiles",
+          "score": "F"
+        },
+        {
+          "text": "Translation tools",
+          "score": "T"
+        },
+        {
+          "text": "Basic phrases",
+          "score": "J"
+        },
+        {
+          "text": "Creative communication",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel goal is...",
+      "options": [
+        {
+          "text": "Connection with others",
+          "score": "E"
+        },
+        {
+          "text": "Self-discovery",
+          "score": "I"
+        },
+        {
+          "text": "Relaxation",
+          "score": "S"
+        },
+        {
+          "text": "Cultural understanding",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You plan daily activities by...",
+      "options": [
+        {
+          "text": "Group consensus",
+          "score": "F"
+        },
+        {
+          "text": "Strategic selection",
+          "score": "T"
+        },
+        {
+          "text": "Daily schedule",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneous decisions",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel style is...",
+      "options": [
+        {
+          "text": "Extroverted explorer",
+          "score": "E"
+        },
+        {
+          "text": "Introverted observer",
+          "score": "I"
+        },
+        {
+          "text": "Practical traveler",
+          "score": "S"
+        },
+        {
+          "text": "Creative adventurer",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle jet lag by...",
+      "options": [
+        {
+          "text": "Social activity",
+          "score": "F"
+        },
+        {
+          "text": "Strategic rest",
+          "score": "T"
+        },
+        {
+          "text": "Stick to routine",
+          "score": "J"
+        },
+        {
+          "text": "Adapt naturally",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel souvenir style is...",
+      "options": [
+        {
+          "text": "Social gifts for others",
+          "score": "E"
+        },
+        {
+          "text": "Personal mementos",
+          "score": "I"
+        },
+        {
+          "text": "Practical items",
+          "score": "S"
+        },
+        {
+          "text": "Unique cultural artifacts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You travel to...",
+      "options": [
+        {
+          "text": "Meet new people",
+          "score": "F"
+        },
+        {
+          "text": "Learn new things",
+          "score": "T"
+        },
+        {
+          "text": "Escape routine",
+          "score": "J"
+        },
+        {
+          "text": "Challenge yourself",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal travel season is...",
+      "options": [
+        {
+          "text": "Peak social season",
+          "score": "E"
+        },
+        {
+          "text": "Quiet off-season",
+          "score": "I"
+        },
+        {
+          "text": "Practical weather conditions",
+          "score": "S"
+        },
+        {
+          "text": "Unique seasonal experiences",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You share travel experiences by...",
+      "options": [
+        {
+          "text": "Stories with friends",
+          "score": "E"
+        },
+        {
+          "text": "Reflective writing",
+          "score": "I"
+        },
+        {
+          "text": "Photo albums",
+          "score": "S"
+        },
+        {
+          "text": "Creative presentations",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach travel risks by...",
+      "options": [
+        {
+          "text": "Optimistic attitude",
+          "score": "F"
+        },
+        {
+          "text": "Risk assessment",
+          "score": "T"
+        },
+        {
+          "text": "Safety precautions",
+          "score": "J"
+        },
+        {
+          "text": "Calculated spontaneity",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel technology use is...",
+      "options": [
+        {
+          "text": "Social sharing",
+          "score": "E"
+        },
+        {
+          "text": "Navigation/planning",
+          "score": "I"
+        },
+        {
+          "text": "Practical tools",
+          "score": "S"
+        },
+        {
+          "text": "Cultural research",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You travel to learn about...",
+      "options": [
+        {
+          "text": "People and cultures",
+          "score": "F"
+        },
+        {
+          "text": "History and systems",
+          "score": "T"
+        },
+        {
+          "text": "Daily life",
+          "score": "J"
+        },
+        {
+          "text": "Philosophy and perspectives",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel dining style is...",
+      "options": [
+        {
+          "text": "Social group meals",
+          "score": "E"
+        },
+        {
+          "text": "Private local restaurants",
+          "score": "I"
+        },
+        {
+          "text": "Practical food options",
+          "score": "S"
+        },
+        {
+          "text": "Unique culinary experiences",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You measure travel success by...",
+      "options": [
+        {
+          "text": "Connections made",
+          "score": "F"
+        },
+        {
+          "text": "Goals achieved",
+          "score": "T"
+        },
+        {
+          "text": "Relaxation level",
+          "score": "J"
+        },
+        {
+          "text": "Experiences had",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your travel philosophy is...",
+      "options": [
+        {
+          "text": "Connection",
+          "score": "E"
+        },
+        {
+          "text": "Reflection",
+          "score": "I"
+        },
+        {
+          "text": "Balance",
+          "score": "S"
+        },
+        {
+          "text": "Discovery",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You balance planning and spontaneity by...",
+      "options": [
+        {
+          "text": "Social flexibility",
+          "score": "F"
+        },
+        {
+          "text": "Logical balance",
+          "score": "T"
+        },
+        {
+          "text": "Structured flexibility",
+          "score": "J"
+        },
+        {
+          "text": "Embrace spontaneity",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Social Explorer (ESFP)",
+      "description": "You're The Social Explorer (ESFP)\u2014the outgoing, spontaneous traveler who thrives on meeting new people, experiencing local festivals, and creating unforgettable memories with friends. You're energetic, adaptable, and see travel as an opportunity to connect with others and embrace the joy of new experiences. Your ideal trip is full of social adventures, local interactions, and the freedom to follow your curiosity wherever it leads.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Solo Adventurer (INTP)",
+      "description": "You're The Solo Adventurer (INTP)\u2014the independent, curious traveler who prefers exploring destinations alone or with one close companion. You're analytical, reflective, and see travel as an opportunity for intellectual stimulation and personal discovery. Your ideal trip involves deep dives into local culture, self-guided exploration, and the freedom to follow your intellectual curiosity at your own pace.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Practical Traveler (ISTJ)",
+      "description": "You're The Practical Traveler (ISTJ)\u2014the organized, reliable traveler who plans trips meticulously and values comfort and efficiency. You're practical, structured, and see travel as an opportunity to experience new places while maintaining your sense of stability and routine. Your ideal trip involves detailed itineraries, comfortable accommodations, and the satisfaction of checking off well-planned experiences and destinations.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Cultural Immersionist (INFJ)",
+      "description": "You're The Cultural Immersionist (INFJ)\u2014the thoughtful, introspective traveler who seeks deep connections with local cultures and meaningful travel experiences. You're compassionate, visionary, and see travel as an opportunity to understand different perspectives and connect with the human experience on a deeper level. Your ideal trip involves quiet reflection in meaningful places, cultural exchanges, and the chance to make a positive impact on the communities you visit.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Group Traveler (ENFJ)",
+      "description": "You're The Group Traveler (ENFJ)\u2014the charismatic, social traveler who loves organizing trips for friends and creating shared experiences. You're outgoing, compassionate, and see travel as an opportunity to strengthen relationships and create lasting memories with loved ones. Your ideal trip involves group adventures, meaningful cultural experiences, and the joy of sharing new discoveries with your favorite people.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Planner (INTJ)",
+      "description": "You're The Strategic Planner (INTJ)\u2014the visionary, analytical traveler who plans trips with precision and purpose. You're strategic, independent, and see travel as an opportunity to achieve specific goals and experiences. Your ideal trip involves well-researched destinations, efficient itineraries, and the intellectual satisfaction of executing a perfectly planned journey that maximizes your experiences and learning.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Relaxation Seeker (ISFJ)",
+      "description": "You're The Relaxation Seeker (ISFJ)\u2014the nurturing, practical traveler who prioritizes rest, comfort, and meaningful experiences with loved ones. You're caring, reliable, and see travel as an opportunity to recharge and create peaceful memories with family and friends. Your ideal trip involves comfortable accommodations, low-key activities, and the simple pleasures of good food, beautiful surroundings, and quality time with those you care about.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Spontaneous Adventurer (ESTP)",
+      "description": "You're The Spontaneous Adventurer (ESTP)\u2014the bold, adaptable traveler who thrives on last-minute plans and unexpected adventures. You're outgoing, practical, and see travel as an opportunity for excitement, challenge, and new experiences. Your ideal trip involves minimal planning, maximum flexibility, and the thrill of discovering hidden gems and creating unforgettable stories through spontaneous decisions and brave choices.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Organized Tourist (ESTJ)",
+      "description": "You're The Organized Tourist (ESTJ)\u2014the decisive, practical traveler who values structure, efficiency, and tangible experiences. You're outgoing, responsible, and see travel as an opportunity to check off bucket list destinations and experiences in an organized, efficient way. Your ideal trip involves guided tours, clear itineraries, and the satisfaction of making the most of your travel time and budget through careful planning and execution.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Dreamy Wanderer (INFP)",
+      "description": "You're The Dreamy Wanderer (INFP)\u2014the idealistic, introspective traveler who seeks beauty, meaning, and personal connection in your journeys. You're creative, compassionate, and see travel as an opportunity for self-discovery and emotional growth. Your ideal trip involves quiet moments in beautiful natural settings, meaningful cultural encounters, and the freedom to follow your heart and imagination wherever they lead you.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Community Connector (ESFJ)",
+      "description": "You're The Community Connector (ESFJ)\u2014the warm, social traveler who loves connecting with locals and fellow travelers alike. You're outgoing, nurturing, and see travel as an opportunity to build relationships and create a sense of community wherever you go. Your ideal trip involves staying in social accommodations, participating in group activities, and the joy of making new friends and connections around the world.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Intellectual Explorer (ENTJ)",
+      "description": "You're The Intellectual Explorer (ENTJ)\u2014the ambitious, strategic traveler who seeks transformative experiences and intellectual growth through travel. You're outgoing, analytical, and see travel as an opportunity to expand your worldview and achieve personal and professional growth. Your ideal trip involves challenging destinations, cultural immersion, and the intellectual stimulation of navigating complex environments and achieving ambitious travel goals.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Gentle Adventurer (ISFP)",
+      "description": "You're The Gentle Adventurer (ISFP)\u2014the creative, sensory traveler who finds joy in the beauty of the journey and the simple pleasures of travel. You're private, practical, and see travel as an opportunity to connect with nature and experience the world through your senses. Your ideal trip involves slow travel, outdoor experiences, and the freedom to appreciate the beauty of your surroundings without the pressure of strict schedules or expectations.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idea Explorer (ENTP)",
+      "description": "You're The Idea Explorer (ENTP)\u2014the curious, creative traveler who loves exploring new concepts, challenging perspectives, and discovering unique experiences. You're outgoing, innovative, and see travel as an opportunity to expand your mind and challenge your assumptions about the world. Your ideal trip involves off-the-beaten-path destinations, intellectual conversations with locals, and the thrill of discovering new ideas and perspectives through travel.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Optimistic Globetrotter (ENFP)",
+      "description": "You're The Optimistic Globetrotter (ENFP)\u2014the enthusiastic, idealistic traveler who sees the world as full of endless possibilities and opportunities for connection. You're outgoing, creative, and see travel as an adventure of the heart and mind. Your ideal trip involves diverse destinations, meaningful cultural exchanges, and the joy of embracing the unexpected and finding beauty and connection in every new place you visit.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Mindful Traveler (INTP)",
+      "description": "You're The Mindful Traveler (INTP)\u2014the reflective, analytical traveler who seeks to understand the world deeply through thoughtful observation and experience. You're private, curious, and see travel as an intellectual journey of discovery and understanding. Your ideal trip involves slow, intentional travel, deep dives into local history and culture, and the intellectual satisfaction of making meaningful connections between different places, people, and ideas.",
+      "mbti": "INTP"
+    }
+  ]
+}

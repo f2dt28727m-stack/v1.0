@@ -1,0 +1,853 @@
+{
+  "quizId": 18,
+  "title": "Which Disney Princess Are You (MBTI Edition)?",
+  "category": "which",
+  "tags": [
+    "Disney",
+    "Princess",
+    "MBTI",
+    "Personality",
+    "Fantasy"
+  ],
+  "description": "Answer 12 magical questions to discover which Disney princess matches your MBTI personality type\u2014live your fairy tale!",
+  "questions": [
+    {
+      "text": "Your fairy tale setting is...",
+      "options": [
+        {
+          "text": "Castle ballroom",
+          "score": "E"
+        },
+        {
+          "text": "Enchanted forest",
+          "score": "I"
+        },
+        {
+          "text": "Coastal village",
+          "score": "S"
+        },
+        {
+          "text": "Magical kingdom",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You solve problems by...",
+      "options": [
+        {
+          "text": "Inspire others",
+          "score": "F"
+        },
+        {
+          "text": "Strategic thinking",
+          "score": "T"
+        },
+        {
+          "text": "Hard work",
+          "score": "J"
+        },
+        {
+          "text": "Creative solutions",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your princess style is...",
+      "options": [
+        {
+          "text": "Glamorous gowns",
+          "score": "E"
+        },
+        {
+          "text": "Simple dresses",
+          "score": "I"
+        },
+        {
+          "text": "Practical attire",
+          "score": "S"
+        },
+        {
+          "text": "Unique outfits",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You face adversity by...",
+      "options": [
+        {
+          "text": "Courage and heart",
+          "score": "F"
+        },
+        {
+          "text": "Calm analysis",
+          "score": "T"
+        },
+        {
+          "text": "Determination",
+          "score": "J"
+        },
+        {
+          "text": "Adaptability",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical gift is...",
+      "options": [
+        {
+          "text": "Charisma",
+          "score": "E"
+        },
+        {
+          "text": "Intuition",
+          "score": "I"
+        },
+        {
+          "text": "Resourcefulness",
+          "score": "S"
+        },
+        {
+          "text": "Imagination",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You connect with animals by...",
+      "options": [
+        {
+          "text": "Lead them",
+          "score": "E"
+        },
+        {
+          "text": "Understand them",
+          "score": "I"
+        },
+        {
+          "text": "Care for them",
+          "score": "S"
+        },
+        {
+          "text": "Communicate with them",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal adventure is...",
+      "options": [
+        {
+          "text": "Grand ball",
+          "score": "E"
+        },
+        {
+          "text": "Quiet nature walk",
+          "score": "I"
+        },
+        {
+          "text": "Practical quest",
+          "score": "S"
+        },
+        {
+          "text": "Magical journey",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make friends by...",
+      "options": [
+        {
+          "text": "Warmth and charm",
+          "score": "F"
+        },
+        {
+          "text": "Shared interests",
+          "score": "T"
+        },
+        {
+          "text": "Reliability",
+          "score": "J"
+        },
+        {
+          "text": "Open-mindedness",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your royal duty is...",
+      "options": [
+        {
+          "text": "Lead your kingdom",
+          "score": "E"
+        },
+        {
+          "text": "Protect traditions",
+          "score": "I"
+        },
+        {
+          "text": "Serve your people",
+          "score": "S"
+        },
+        {
+          "text": "Inspire change",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express love by...",
+      "options": [
+        {
+          "text": "Grand gestures",
+          "score": "E"
+        },
+        {
+          "text": "Quiet devotion",
+          "score": "I"
+        },
+        {
+          "text": "Consistent care",
+          "score": "S"
+        },
+        {
+          "text": "Creative surprises",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your villain strategy is...",
+      "options": [
+        {
+          "text": "Emotional appeal",
+          "score": "F"
+        },
+        {
+          "text": "Outsmart them",
+          "score": "T"
+        },
+        {
+          "text": "Stand your ground",
+          "score": "J"
+        },
+        {
+          "text": "Unexpected tactics",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your morning routine is...",
+      "options": [
+        {
+          "text": "Social gatherings",
+          "score": "E"
+        },
+        {
+          "text": "Quiet reflection",
+          "score": "I"
+        },
+        {
+          "text": "Productive tasks",
+          "score": "S"
+        },
+        {
+          "text": "Creative pursuits",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle criticism by...",
+      "options": [
+        {
+          "text": "Stay true to heart",
+          "score": "F"
+        },
+        {
+          "text": "Consider feedback",
+          "score": "T"
+        },
+        {
+          "text": "Prove your worth",
+          "score": "J"
+        },
+        {
+          "text": "Adapt and grow",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your magical companion is...",
+      "options": [
+        {
+          "text": "Talkative sidekick",
+          "score": "E"
+        },
+        {
+          "text": "Quiet mentor",
+          "score": "I"
+        },
+        {
+          "text": "Reliable friend",
+          "score": "S"
+        },
+        {
+          "text": "Mystical guide",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You dream of...",
+      "options": [
+        {
+          "text": "Public recognition",
+          "score": "E"
+        },
+        {
+          "text": "Personal fulfillment",
+          "score": "I"
+        },
+        {
+          "text": "Stable future",
+          "score": "S"
+        },
+        {
+          "text": "Endless possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You resolve conflict by...",
+      "options": [
+        {
+          "text": "Compassion",
+          "score": "F"
+        },
+        {
+          "text": "Negotiation",
+          "score": "T"
+        },
+        {
+          "text": "Compromise",
+          "score": "J"
+        },
+        {
+          "text": "Innovation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite hobby is...",
+      "options": [
+        {
+          "text": "Dancing",
+          "score": "E"
+        },
+        {
+          "text": "Reading",
+          "score": "I"
+        },
+        {
+          "text": "Cooking",
+          "score": "S"
+        },
+        {
+          "text": "Art",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You lead by...",
+      "options": [
+        {
+          "text": "Example",
+          "score": "F"
+        },
+        {
+          "text": "Strategy",
+          "score": "T"
+        },
+        {
+          "text": "Structure",
+          "score": "J"
+        },
+        {
+          "text": "Inspiration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your greatest strength is...",
+      "options": [
+        {
+          "text": "Courage",
+          "score": "E"
+        },
+        {
+          "text": "Wisdom",
+          "score": "I"
+        },
+        {
+          "text": "Perseverance",
+          "score": "S"
+        },
+        {
+          "text": "Creativity",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You celebrate victory by...",
+      "options": [
+        {
+          "text": "Grand feast",
+          "score": "E"
+        },
+        {
+          "text": "Quiet gratitude",
+          "score": "I"
+        },
+        {
+          "text": "Shared meal",
+          "score": "S"
+        },
+        {
+          "text": "Joyful celebration",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You learn new skills by...",
+      "options": [
+        {
+          "text": "Group lessons",
+          "score": "E"
+        },
+        {
+          "text": "Self-study",
+          "score": "I"
+        },
+        {
+          "text": "Step-by-step practice",
+          "score": "J"
+        },
+        {
+          "text": "Trial and error",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your love story is...",
+      "options": [
+        {
+          "text": "Grand romance",
+          "score": "E"
+        },
+        {
+          "text": "Quiet connection",
+          "score": "I"
+        },
+        {
+          "text": "Reliable partnership",
+          "score": "S"
+        },
+        {
+          "text": "Magical bond",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You face fear by...",
+      "options": [
+        {
+          "text": "Bravery",
+          "score": "F"
+        },
+        {
+          "text": "Preparation",
+          "score": "T"
+        },
+        {
+          "text": "Determination",
+          "score": "J"
+        },
+        {
+          "text": "Adaptability",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your kingdom values are...",
+      "options": [
+        {
+          "text": "Community",
+          "score": "E"
+        },
+        {
+          "text": "Tradition",
+          "score": "I"
+        },
+        {
+          "text": "Prosperity",
+          "score": "S"
+        },
+        {
+          "text": "Innovation",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express creativity by...",
+      "options": [
+        {
+          "text": "Performance",
+          "score": "E"
+        },
+        {
+          "text": "Private art",
+          "score": "I"
+        },
+        {
+          "text": "Practical crafts",
+          "score": "S"
+        },
+        {
+          "text": "Imaginative creations",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal gift is...",
+      "options": [
+        {
+          "text": "Sparkling jewels",
+          "score": "E"
+        },
+        {
+          "text": "Handwritten note",
+          "score": "I"
+        },
+        {
+          "text": "Practical tool",
+          "score": "S"
+        },
+        {
+          "text": "Magical trinket",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle change by...",
+      "options": [
+        {
+          "text": "Embrace it",
+          "score": "F"
+        },
+        {
+          "text": "Analyze it",
+          "score": "T"
+        },
+        {
+          "text": "Adjust gradually",
+          "score": "J"
+        },
+        {
+          "text": "Adapt quickly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your royal motto is...",
+      "options": [
+        {
+          "text": "Follow your heart",
+          "score": "F"
+        },
+        {
+          "text": "Knowledge is power",
+          "score": "T"
+        },
+        {
+          "text": "Hard work prevails",
+          "score": "J"
+        },
+        {
+          "text": "Dream big",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You comfort others by...",
+      "options": [
+        {
+          "text": "Encouraging words",
+          "score": "E"
+        },
+        {
+          "text": "Listening ear",
+          "score": "I"
+        },
+        {
+          "text": "Practical help",
+          "score": "S"
+        },
+        {
+          "text": "Creative distractions",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your perfect day is...",
+      "options": [
+        {
+          "text": "Festival with subjects",
+          "score": "E"
+        },
+        {
+          "text": "Alone in nature",
+          "score": "I"
+        },
+        {
+          "text": "Productive work",
+          "score": "S"
+        },
+        {
+          "text": "Magical adventure",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make decisions by...",
+      "options": [
+        {
+          "text": "Heart",
+          "score": "F"
+        },
+        {
+          "text": "Mind",
+          "score": "T"
+        },
+        {
+          "text": "Experience",
+          "score": "J"
+        },
+        {
+          "text": "Intuition",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your legacy is...",
+      "options": [
+        {
+          "text": "Uniting people",
+          "score": "E"
+        },
+        {
+          "text": "Preserving wisdom",
+          "score": "I"
+        },
+        {
+          "text": "Building prosperity",
+          "score": "S"
+        },
+        {
+          "text": "Inspiring imagination",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle magic by...",
+      "options": [
+        {
+          "text": "Celebrate it",
+          "score": "E"
+        },
+        {
+          "text": "Respect it",
+          "score": "I"
+        },
+        {
+          "text": "Use wisely",
+          "score": "S"
+        },
+        {
+          "text": "Explore it",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You apologize by...",
+      "options": [
+        {
+          "text": "Sincere words",
+          "score": "F"
+        },
+        {
+          "text": "Logical explanation",
+          "score": "T"
+        },
+        {
+          "text": "Making amends",
+          "score": "J"
+        },
+        {
+          "text": "Creative gestures",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your true self is...",
+      "options": [
+        {
+          "text": "Outgoing leader",
+          "score": "E"
+        },
+        {
+          "text": "Private dreamer",
+          "score": "I"
+        },
+        {
+          "text": "Practical doer",
+          "score": "S"
+        },
+        {
+          "text": "Imaginative visionary",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You balance duty and desire by...",
+      "options": [
+        {
+          "text": "Integrate both",
+          "score": "E"
+        },
+        {
+          "text": "Honor both privately",
+          "score": "I"
+        },
+        {
+          "text": "Structure your time",
+          "score": "J"
+        },
+        {
+          "text": "Find creative solutions",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Cinderella (ISFJ)",
+      "description": "You're Cinderella\u2014the kind, loyal ISFJ princess! Like Cinderella, you're private, practical, and find strength in kindness and hard work. You face adversity with grace, stay true to your values, and believe in the power of small acts of goodness to create magic in the world around you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Ariel (ESFP)",
+      "description": "You're Ariel\u2014the curious, outgoing ESFP princess! Like Ariel, you're energetic, spontaneous, and obsessed with exploring new worlds and experiences. You follow your heart, take bold risks for what you want, and bring joy and adventure to everyone who knows you with your free-spirited nature.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Belle (INFP)",
+      "description": "You're Belle\u2014the thoughtful, imaginative INFP princess! Like Belle, you're private, idealistic, and find beauty in books, knowledge, and seeing the good in others. You value intelligence over appearances, stand up for what's right, and believe in the transformative power of compassion and understanding.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Jasmine (ESTP)",
+      "description": "You're Jasmine\u2014the bold, independent ESTP princess! Like Jasmine, you're outgoing, practical, and refuse to be confined by expectations or tradition. You speak your mind, take action to defend your beliefs, and value freedom and authenticity above royal titles or societal approval.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Snow White (ESFJ)",
+      "description": "You're Snow White\u2014the nurturing, social ESFJ princess! Like Snow White, you're outgoing, compassionate, and a natural caretaker who brings joy and harmony to those around you. You find strength in community, use your kindness as a superpower, and create warmth and belonging wherever you go.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Mulan (ISTJ)",
+      "description": "You're Mulan\u2014the brave, practical ISTJ princess! Like Mulan, you're private, responsible, and willing to sacrifice for those you love. You honor your family and traditions, face challenges with determination and practicality, and prove that true strength comes from being true to yourself.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Elsa (INFJ)",
+      "description": "You're Elsa\u2014the visionary, complex INFJ princess! Like Elsa, you're private, compassionate, and struggle with embracing your true power and self. You have a deep inner world, care deeply for your loved ones, and learn to turn your perceived weaknesses into your greatest strengths.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Anna (ENFP)",
+      "description": "You're Anna\u2014the optimistic, outgoing ENFP princess! Like Anna, you're energetic, creative, and see the best in everyone around you. You follow your heart, embrace adventure, and use your unwavering hope and love to bring people together and overcome even the greatest challenges.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Rapunzel (ENFJ)",
+      "description": "You're Rapunzel\u2014the creative, charismatic ENFJ princess! Like Rapunzel, you're outgoing, compassionate, and have a magical ability to inspire and connect with others. You're curious about the world, use your creativity to bring joy to others, and lead with your heart and vision for a better world.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Moana (ESTJ)",
+      "description": "You're Moana\u2014the determined, practical ESTJ princess! Like Moana, you're outgoing, responsible, and deeply connected to your people and traditions. You lead with courage and purpose, honor your heritage while embracing change, and stop at nothing to protect what matters most to you.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Pocahontas (INTP)",
+      "description": "You're Pocahontas\u2014the curious, analytical INTP princess! Like Pocahontas, you're private, creative, and have a deep connection to nature and a unique perspective on the world. You see beyond surface differences, value truth and understanding, and use your wisdom to bridge divides between different worlds.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Tiana (ENTJ)",
+      "description": "You're Tiana\u2014the ambitious, strategic ENTJ princess! Like Tiana, you're outgoing, determined, and have clear goals and a strong work ethic. You work tirelessly to achieve your dreams, value hard work and independence, and prove that you can have both success and love on your own terms.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Aurora (ISFP)",
+      "description": "You're Aurora\u2014the gentle, artistic ISFP princess! Like Aurora, you're private, gentle, and deeply connected to nature and beauty. You have a quiet strength, trust your instincts, and find joy in the simple pleasures of life and the beauty of the world around you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Merida (ENTP)",
+      "description": "You're Merida\u2014the fierce, creative ENTP princess! Like Merida, you're outgoing, independent, and refuse to conform to expectations. You're a skilled warrior, value your freedom above all, and use your intelligence and creativity to rewrite your own story and challenge traditional gender roles.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Briar Rose (INTP)",
+      "description": "You're Briar Rose (Sleeping Beauty)\u2014the dreamy, analytical INTP princess! Like Briar Rose, you're private, imaginative, and have a rich inner world that few get to see. You find beauty in quiet moments, trust your intuition, and believe in the power of true love to overcome even the darkest curses.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Elsa (INTJ)",
+      "description": "You're Elsa\u2014the strategic, visionary INTJ princess! Like Elsa, you're private, analytical, and have a powerful gift that you learn to master and control. You overcome fear and self-doubt, embrace your true power, and use your intelligence and foresight to protect your kingdom and those you love.",
+      "mbti": "INTJ"
+    }
+  ]
+}

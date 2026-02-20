@@ -1,0 +1,853 @@
+{
+  "quizId": 14,
+  "title": "Which Mythological Creature Are You?",
+  "category": "which",
+  "tags": [
+    "Mythology",
+    "Creature",
+    "MBTI",
+    "Personality",
+    "Fantasy"
+  ],
+  "description": "Answer 12 mystical questions to discover which iconic mythological creature matches your personality\u2014enter the realm of legends!",
+  "questions": [
+    {
+      "text": "Your mythical habitat is...",
+      "options": [
+        {
+          "text": "Mountaintop",
+          "score": "E"
+        },
+        {
+          "text": "Deep forest",
+          "score": "I"
+        },
+        {
+          "text": "Underground cave",
+          "score": "S"
+        },
+        {
+          "text": "Magical realm",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You use your powers by...",
+      "options": [
+        {
+          "text": "Protect others",
+          "score": "F"
+        },
+        {
+          "text": "Solve problems",
+          "score": "T"
+        },
+        {
+          "text": "Follow ancient laws",
+          "score": "J"
+        },
+        {
+          "text": "Adapt to situations",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical appearance is...",
+      "options": [
+        {
+          "text": "Majestic",
+          "score": "E"
+        },
+        {
+          "text": "Mysterious",
+          "score": "I"
+        },
+        {
+          "text": "Powerful",
+          "score": "S"
+        },
+        {
+          "text": "Unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You interact with humans by...",
+      "options": [
+        {
+          "text": "Reveal yourself",
+          "score": "E"
+        },
+        {
+          "text": "Remain hidden",
+          "score": "I"
+        },
+        {
+          "text": "Help when needed",
+          "score": "S"
+        },
+        {
+          "text": "Test their character",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical power is...",
+      "options": [
+        {
+          "text": "Strength",
+          "score": "E"
+        },
+        {
+          "text": "Intuition",
+          "score": "I"
+        },
+        {
+          "text": "Healing",
+          "score": "S"
+        },
+        {
+          "text": "Transformation",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle conflict by...",
+      "options": [
+        {
+          "text": "Fight bravely",
+          "score": "F"
+        },
+        {
+          "text": "Outsmart opponents",
+          "score": "T"
+        },
+        {
+          "text": "Follow tradition",
+          "score": "J"
+        },
+        {
+          "text": "Compromise creatively",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical diet is...",
+      "options": [
+        {
+          "text": "Feast on riches",
+          "score": "E"
+        },
+        {
+          "text": "Simple sustenance",
+          "score": "I"
+        },
+        {
+          "text": "Practical nourishment",
+          "score": "S"
+        },
+        {
+          "text": "Magical energy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You communicate by...",
+      "options": [
+        {
+          "text": "Roar loudly",
+          "score": "E"
+        },
+        {
+          "text": "Whisper softly",
+          "score": "I"
+        },
+        {
+          "text": "Speak plainly",
+          "score": "S"
+        },
+        {
+          "text": "Telepathically",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're drawn to places that are...",
+      "options": [
+        {
+          "text": "Busy",
+          "score": "E"
+        },
+        {
+          "text": "Quiet",
+          "score": "I"
+        },
+        {
+          "text": "Secure",
+          "score": "S"
+        },
+        {
+          "text": "Magical",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical weakness is...",
+      "options": [
+        {
+          "text": "Pride",
+          "score": "E"
+        },
+        {
+          "text": "Loneliness",
+          "score": "I"
+        },
+        {
+          "text": "Overconfidence",
+          "score": "S"
+        },
+        {
+          "text": "Doubt",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You help others by...",
+      "options": [
+        {
+          "text": "Public displays of power",
+          "score": "E"
+        },
+        {
+          "text": "Quiet acts of kindness",
+          "score": "I"
+        },
+        {
+          "text": "Practical assistance",
+          "score": "S"
+        },
+        {
+          "text": "Magical guidance",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You view humans as...",
+      "options": [
+        {
+          "text": "Entertaining",
+          "score": "E"
+        },
+        {
+          "text": "Intriguing",
+          "score": "I"
+        },
+        {
+          "text": "Useful",
+          "score": "S"
+        },
+        {
+          "text": "Potential",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make decisions by...",
+      "options": [
+        {
+          "text": "Emotional impulse",
+          "score": "F"
+        },
+        {
+          "text": "Logical analysis",
+          "score": "T"
+        },
+        {
+          "text": "Ancient wisdom",
+          "score": "J"
+        },
+        {
+          "text": "Intuitive feeling",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical age is...",
+      "options": [
+        {
+          "text": "Young and vibrant",
+          "score": "E"
+        },
+        {
+          "text": "Ancient and wise",
+          "score": "I"
+        },
+        {
+          "text": "Middle-aged and practical",
+          "score": "S"
+        },
+        {
+          "text": "Timeless and magical",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You celebrate by...",
+      "options": [
+        {
+          "text": "Grand festivals",
+          "score": "E"
+        },
+        {
+          "text": "Quiet reflection",
+          "score": "I"
+        },
+        {
+          "text": "Simple rituals",
+          "score": "S"
+        },
+        {
+          "text": "Magical ceremonies",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle betrayal by...",
+      "options": [
+        {
+          "text": "Seek revenge",
+          "score": "F"
+        },
+        {
+          "text": "Cut ties logically",
+          "score": "T"
+        },
+        {
+          "text": "Follow justice",
+          "score": "J"
+        },
+        {
+          "text": "Forgive eventually",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical allies are...",
+      "options": [
+        {
+          "text": "Many and varied",
+          "score": "E"
+        },
+        {
+          "text": "Few and trusted",
+          "score": "I"
+        },
+        {
+          "text": "Reliable and strong",
+          "score": "S"
+        },
+        {
+          "text": "Magical and unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're known for...",
+      "options": [
+        {
+          "text": "Your courage",
+          "score": "E"
+        },
+        {
+          "text": "Your wisdom",
+          "score": "I"
+        },
+        {
+          "text": "Your strength",
+          "score": "S"
+        },
+        {
+          "text": "Your magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You approach danger by...",
+      "options": [
+        {
+          "text": "Face it head-on",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the threat",
+          "score": "T"
+        },
+        {
+          "text": "Prepare thoroughly",
+          "score": "J"
+        },
+        {
+          "text": "Adapt to circumstances",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical treasure is...",
+      "options": [
+        {
+          "text": "Gold and jewels",
+          "score": "E"
+        },
+        {
+          "text": "Knowledge",
+          "score": "I"
+        },
+        {
+          "text": "Practical tools",
+          "score": "S"
+        },
+        {
+          "text": "Magical artifacts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You value in life...",
+      "options": [
+        {
+          "text": "Recognition",
+          "score": "E"
+        },
+        {
+          "text": "Peace",
+          "score": "I"
+        },
+        {
+          "text": "Security",
+          "score": "S"
+        },
+        {
+          "text": "Freedom",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You sleep by...",
+      "options": [
+        {
+          "text": "Light slumber",
+          "score": "E"
+        },
+        {
+          "text": "Deep hibernation",
+          "score": "I"
+        },
+        {
+          "text": "Regular patterns",
+          "score": "J"
+        },
+        {
+          "text": "Irregular rest",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You learn new magic by...",
+      "options": [
+        {
+          "text": "Group teachings",
+          "score": "E"
+        },
+        {
+          "text": "Solo study",
+          "score": "I"
+        },
+        {
+          "text": "Ancient texts",
+          "score": "J"
+        },
+        {
+          "text": "Trial and error",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical purpose is...",
+      "options": [
+        {
+          "text": "Protect the realm",
+          "score": "E"
+        },
+        {
+          "text": "Guard secrets",
+          "score": "I"
+        },
+        {
+          "text": "Maintain balance",
+          "score": "S"
+        },
+        {
+          "text": "Bring magic to the world",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You express anger by...",
+      "options": [
+        {
+          "text": "Lash out",
+          "score": "F"
+        },
+        {
+          "text": "Withdraw",
+          "score": "T"
+        },
+        {
+          "text": "Follow tradition",
+          "score": "J"
+        },
+        {
+          "text": "Channel into power",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You're attracted to...",
+      "options": [
+        {
+          "text": "Bright lights",
+          "score": "E"
+        },
+        {
+          "text": "Dark shadows",
+          "score": "I"
+        },
+        {
+          "text": "Solid ground",
+          "score": "S"
+        },
+        {
+          "text": "Mystical auras",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical motto is...",
+      "options": [
+        {
+          "text": "Strength above all!",
+          "score": "F"
+        },
+        {
+          "text": "Wisdom conquers all",
+          "score": "T"
+        },
+        {
+          "text": "Tradition is key",
+          "score": "J"
+        },
+        {
+          "text": "Adapt or perish",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You heal by...",
+      "options": [
+        {
+          "text": "Public rituals",
+          "score": "E"
+        },
+        {
+          "text": "Private ceremonies",
+          "score": "I"
+        },
+        {
+          "text": "Herbal remedies",
+          "score": "S"
+        },
+        {
+          "text": "Magical energy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle loss by...",
+      "options": [
+        {
+          "text": "Mourn publicly",
+          "score": "F"
+        },
+        {
+          "text": "Grieve privately",
+          "score": "T"
+        },
+        {
+          "text": "Honor traditions",
+          "score": "J"
+        },
+        {
+          "text": "Find meaning",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your mythical movement is...",
+      "options": [
+        {
+          "text": "Fast and loud",
+          "score": "E"
+        },
+        {
+          "text": "Slow and silent",
+          "score": "I"
+        },
+        {
+          "text": "Steady and strong",
+          "score": "S"
+        },
+        {
+          "text": "Magical and fluid",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You make allies by...",
+      "options": [
+        {
+          "text": "Impress with power",
+          "score": "E"
+        },
+        {
+          "text": "Earn trust slowly",
+          "score": "I"
+        },
+        {
+          "text": "Prove reliability",
+          "score": "S"
+        },
+        {
+          "text": "Share magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're motivated by...",
+      "options": [
+        {
+          "text": "Glory",
+          "score": "E"
+        },
+        {
+          "text": "Knowledge",
+          "score": "I"
+        },
+        {
+          "text": "Survival",
+          "score": "S"
+        },
+        {
+          "text": "Curiosity",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You interact with nature by...",
+      "options": [
+        {
+          "text": "Command it",
+          "score": "E"
+        },
+        {
+          "text": "Harmonize with it",
+          "score": "I"
+        },
+        {
+          "text": "Use it",
+          "score": "S"
+        },
+        {
+          "text": "Transform it",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You handle curiosity by...",
+      "options": [
+        {
+          "text": "Satisfy it immediately",
+          "score": "F"
+        },
+        {
+          "text": "Investigate thoroughly",
+          "score": "T"
+        },
+        {
+          "text": "Follow rules",
+          "score": "J"
+        },
+        {
+          "text": "Explore freely",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ultimate mythical goal is...",
+      "options": [
+        {
+          "text": "Rule the realm",
+          "score": "E"
+        },
+        {
+          "text": "Find inner peace",
+          "score": "I"
+        },
+        {
+          "text": "Ensure survival",
+          "score": "S"
+        },
+        {
+          "text": "Master all magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You balance power by...",
+      "options": [
+        {
+          "text": "Use it openly",
+          "score": "E"
+        },
+        {
+          "text": "Control it privately",
+          "score": "I"
+        },
+        {
+          "text": "Follow limits",
+          "score": "J"
+        },
+        {
+          "text": "Adapt to its flow",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Dragon",
+      "description": "You're the powerful, majestic dragon of mythology! Like a dragon, you're private, powerful, and guard your treasures and territory fiercely. You're an INTJ\u2014visionary, logical, and a wise creature with ancient knowledge and incredible power who values wisdom and strength above all else.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Unicorn",
+      "description": "You're the gentle, magical unicorn of mythology! Like a unicorn, you're private, compassionate, and possess pure magic that heals and protects. You're an INFJ\u2014compassionate, visionary, and a rare and beautiful creature who brings light and healing to the world and only reveals yourself to the pure of heart.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Phoenix",
+      "description": "You're the fiery, resilient phoenix of mythology! Like a phoenix, you're outgoing, powerful, and rise from the ashes stronger than before. You're an ENFP\u2014optimistic, creative, and a symbol of rebirth and renewal who faces destruction with courage and emerges victorious every time.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Griffin",
+      "description": "You're the noble, protective griffin of mythology! Like a griffin, you're outgoing, loyal, and a fierce protector of treasure and the innocent. You're an ESTJ\u2014practical, responsible, and a noble creature with the body of a lion and the head of an eagle who values honor and duty above all else.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Mermaid/Merman",
+      "description": "You're the mystical, emotional mermaid/merman of mythology! Like a mermaid, you're private, emotional, and possess a deep connection to the ocean and its mysteries. You're an INFP\u2014idealistic, introspective, and a beautiful creature with a song that can enchant humans and control the tides of emotion.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Centaur",
+      "description": "You're the wise, practical centaur of mythology! Like a centaur, you're outgoing, practical, and possess both human wisdom and animal strength. You're an ESFJ\u2014compassionate, generous, and a wise teacher and fierce warrior who values knowledge and honor in equal measure.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Minotaur",
+      "description": "You're the powerful, complex minotaur of mythology! Like a minotaur, you're private, strong, and trapped between human intellect and animal instinct. You're an ISTJ\u2014practical, responsible, and a misunderstood creature who guards the labyrinth with unwavering duty despite your inner turmoil.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Satyr/faun",
+      "description": "You're the playful, outgoing satyr/faun of mythology! Like a satyr, you're outgoing, spontaneous, and love music, dance, and celebration. You're an ESFP\u2014energetic, spontaneous, and a fun-loving creature of the forest who brings joy and laughter to all who encounter you.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Hydra",
+      "description": "You're the resilient, strategic hydra of mythology! Like a hydra, you're private, powerful, and grow stronger when faced with adversity. You're an ENTJ\u2014strategic, charismatic, and a fearsome creature with multiple heads that regenerate when cut off, making you nearly unbeatable in battle.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Cerberus",
+      "description": "You're the loyal, protective Cerberus of mythology! Like Cerberus, you're private, loyal, and the fearsome guardian of the underworld. You're an ISFJ\u2014kind, loyal, and a devoted protector who takes your duty seriously and never lets anyone pass who doesn't belong in the realm of Hades.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Pegasus",
+      "description": "You're the free-spirited, majestic Pegasus of mythology! Like Pegasus, you're outgoing, free-spirited, and possess the power of flight and untamed freedom. You're an ENTP\u2014creative, strategic, and a beautiful winged horse who represents freedom and inspiration to all who see you.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Cyclops",
+      "description": "You're the strong, straightforward cyclops of mythology! Like a cyclops, you're outgoing, practical, and possess incredible strength and a single-minded focus. You're an ESTP\u2014bold, spontaneous, and a powerful creature of the forge who values action over words and strength over cunning.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Sphinx",
+      "description": "You're the wise, mysterious sphinx of mythology! Like a sphinx, you're private, intelligent, and guard knowledge with clever riddles and puzzles. You're an INTP\u2014analytical, creative, and a mysterious creature with the body of a lion and the head of a human who tests the wisdom of all who seek to pass.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Werewolf",
+      "description": "You're the complex, primal werewolf of mythology! Like a werewolf, you're outgoing, emotional, and struggle between human civility and animal instinct. You're an ESFP\u2014energetic, spontaneous, and a creature of the moon who embraces both your human and wolf sides with passion and intensity.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Vampire",
+      "description": "You're the elegant, mysterious vampire of mythology! Like a vampire, you're private, sophisticated, and possess eternal life and a thirst for blood. You're an INFJ\u2014compassionate, visionary, and a misunderstood creature who walks the night and struggles with your immortal nature and desire for connection.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Giant",
+      "description": "You're the strong, simple giant of mythology! Like a giant, you're outgoing, practical, and possess incredible size and strength with a simple outlook on life. You're an ISFP\u2014gentle, creative, and a peaceful creature of the mountains who values nature and simplicity above the complexities of human civilization.",
+      "mbti": "ISFP"
+    }
+  ]
+}
