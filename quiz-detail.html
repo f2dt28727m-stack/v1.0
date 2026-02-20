@@ -254,16 +254,20 @@ let quizData = null;
 async function loadQuizData() {
     try {
         const quizId = getQuizId();
+        console.log('Loading quiz:', quizId);
         const response = await fetch(`/api/quizzes/${quizId}`);
+        console.log('Response status:', response.status);
         if (!response.ok) {
             throw new Error('Failed to load quiz data');
         }
         quizData = await response.json();
+        console.log('Quiz data received:', quizData);
         renderQuizDetail();
     } catch (error) {
         console.error('Error loading quiz data:', error);
         // Fallback to default quiz data if loading fails
         const quizId = getQuizId();
+        console.log('Using fallback for:', quizId);
         let fallbackData = {
             title: 'Which Disney Princess Resonates With Your Personality?',
             category: 'MBTI Personality',
