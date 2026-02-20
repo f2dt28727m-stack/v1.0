@@ -4,12 +4,7 @@
       "src": "api/index.py",
       "use": "@vercel/python",
       "config": {
-        "runtime": "python3.8",
-        "includeFiles": [
-          "quizzes/**",
-          "config.json",
-          "onequiz.json"
-        ]
+        "runtime": "python3.9"
       }
     },
     {
