@@ -1,0 +1,133 @@
+{
+  "quizId": 32,
+  "title": "What's Your Disaster Survival Style?",
+  "type": "scenario",
+  "category": "scenario",
+  "category_name": "What Would You Do?",
+  "description": "Discover how you'd really handle emergencies and disasters",
+  "resultTitle": "Your Survival Style",
+  "questions": [
+    {
+      "id": 1,
+      "text": "There's a zombie apocalypse starting right now. What's your first move?",
+      "options": [
+        { "id": "a", "text": "Rally my friends and find a safe location", "scores": {"leader": 3, "survivor": 1, "hero": 1, "diplomat": 0} },
+        { "id": "b", "text": "Head to the nearest grocery store for supplies", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Try to save as many people as possible", "scores": {"leader": 1, "survivor": 0, "hero": 3, "diplomat": 0} },
+        { "id": "d", "text": "Call my family and make sure everyone's safe", "scores": {"leader": 0, "survivor": 1, "hero": 0, "diplomat": 3} }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "You're trapped in a burning building with three strangers. What do you do?",
+      "options": [
+        { "id": "a", "text": "Take charge and organize an escape plan", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
+        { "id": "b", "text": "Look for the quickest way out for yourself", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Help the most vulnerable people first", "scores": {"leader": 0, "survivor": 0, "hero": 3, "diplomat": 1} },
+        { "id": "d", "text": "Try to keep everyone calm and work together", "scores": {"leader": 1, "survivor": 0, "hero": 0, "diplomat": 3} }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "A meteor is heading toward Earth. You have 24 hours. What's your plan?",
+      "options": [
+        { "id": "a", "text": "Organize a global emergency response team", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
+        { "id": "b", "text": "Secure supplies and find the best shelter", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Spend time with loved ones, making final memories", "scores": {"leader": 0, "survivor": 1, "hero": 1, "diplomat": 2} },
+        { "id": "d", "text": "Spread hope and try to unite people", "scores": {"leader": 1, "survivor": 0, "hero": 2, "diplomat": 2} }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "You're lost in a forest with no phone signal. It's getting dark. You...",
+      "options": [
+        { "id": "a", "text": "Try to find higher ground to see the stars for direction", "scores": {"leader": 1, "survivor": 2, "hero": 1, "diplomat": 0} },
+        { "id": "b", "text": "Build a shelter and start a fire to survive the night", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Yell for help and hope someone hears you", "scores": {"leader": 0, "survivor": 1, "hero": 2, "diplomat": 1} },
+        { "id": "d", "text": "Stay put so search teams can find you", "scores": {"leader": 1, "survivor": 1, "hero": 0, "diplomat": 2} }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "A massive earthquake hits while you're at work. What's your immediate reaction?",
+      "options": [
+        { "id": "a", "text": "Help colleagues evacuate in an orderly manner", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
+        { "id": "b", "text": "Duck under sturdy furniture and assess the situation", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Run back for someone who can't move quickly", "scores": {"leader": 0, "survivor": 0, "hero": 3, "diplomat": 0} },
+        { "id": "d", "text": "Check on everyone's emotional state first", "scores": {"leader": 0, "survivor": 0, "hero": 0, "diplomat": 3} }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Your car breaks down in a dangerous neighborhood at night. You...",
+      "options": [
+        { "id": "a", "text": "Call for help and wait, but stay alert", "scores": {"leader": 1, "survivor": 2, "hero": 0, "diplomat": 1} },
+        { "id": "b", "text": "Walk to the nearest lit public place", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Hitch a ride from a stranger (desperate times)", "scores": {"leader": 0, "survivor": 1, "hero": 2, "diplomat": 1} },
+        { "id": "d", "text": "Message someone to stay on the phone with you", "scores": {"leader": 1, "survivor": 1, "hero": 0, "diplomat": 2} }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "A deadly virus is spreading. The government announces a lockdown. You...",
+      "options": [
+        { "id": "a", "text": "Create a community support network for your neighborhood", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
+        { "id": "b", "text": "Stockpile essentials and prepare to hunker down", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Volunteer at a hospital or help frontline workers", "scores": {"leader": 1, "survivor": 0, "hero": 3, "diplomat": 0} },
+        { "id": "d", "text": "Check on elderly neighbors and offer to get their groceries", "scores": {"leader": 0, "survivor": 1, "hero": 1, "diplomat": 2} }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Your flight is experiencing severe turbulence. The pilot announces an emergency. You...",
+      "options": [
+        { "id": "a", "text": "Stay calm and memorize the emergency procedures", "scores": {"leader": 1, "survivor": 2, "hero": 0, "diplomat": 1} },
+        { "id": "b", "text": "Focus on securing your own oxygen mask first", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Help the person next to you who looks panicked", "scores": {"leader": 0, "survivor": 0, "hero": 3, "diplomat": 0} },
+        { "id": "d", "text": "Hold hands with your seatmate and pray together", "scores": {"leader": 0, "survivor": 1, "hero": 0, "diplomat": 3} }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "You wake up to find your apartment flooding. Water is rising fast. You...",
+      "options": [
+        { "id": "a", "text": "Turn off electricity and try to save belongings", "scores": {"leader": 2, "survivor": 1, "hero": 1, "diplomat": 0} },
+        { "id": "b", "text": "Grab essentials and get to higher ground immediately", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
+        { "id": "c", "text": "Check if neighbors need help escaping", "scores": {"leader": 1, "survivor": 0, "hero": 3, "diplomat": 0} },
+        { "id": "d", "text": "Call everyone you know for help and updates", "scores": {"leader": 0, "survivor": 1, "hero": 0, "diplomat": 3} }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "A shark attacks while you're swimming in the ocean. What's your response?",
+      "options": [
+        { "id": "a", "text": "Stay calm and slowly swim back to shore", "scores": {"leader": 1, "survivor": 2, "hero": 0, "diplomat": 1} },
+        { "id": "b", "text": "Fight back aggressively if it gets close", "scores": {"leader": 0, "survivor": 2, "hero": 2, "diplomat": 0} },
+        { "id": "c", "text": "Scream for help from nearby swimmers", "scores": {"leader": 0, "survivor": 1, "hero": 2, "diplomat": 1} },
+        { "id": "d", "text": "Make yourself as small and still as possible", "scores": {"leader": 1, "survivor": 1, "hero": 0, "diplomat": 2} }
+      ]
+    }
+  ],
+  "results": {
+    "leader": {
+      "title": "The Crisis Leader",
+      "description": "You shine in emergencies! While others panic, you take charge and organize people toward survival. Your natural leadership kicks in when it matters most. You're the person others look to for direction during chaos.",
+      "emoji": "🦅"
+    },
+    "survivor": {
+      "title": "The Pragmatic Survivor",
+      "description": "You're a survival machine! In crisis mode, you focus on practical solutions and self-preservation. You stay calm, think clearly, and know exactly what to do. You're prepared for anything life throws at you.",
+      "emoji": "🦊"
+    },
+    "hero": {
+      "title": "The Brave Hero",
+      "description": "Danger makes you heroic! When disaster strikes, your first instinct is to help others, even at personal risk. You have a strong sense of duty and can't stand by while others suffer. You're the one who runs toward danger.",
+      "emoji": "🦁"
+    },
+    "diplomat": {
+      "title": "The Compassionate Diplomat",
+      "description": "In emergencies, you prioritize people over tasks. Your strength is emotional intelligence—you keep others calm, connected, and cared for. While others act, you nurture. You're the heart that holds groups together.",
+      "emoji": "🐻"
+    }
+  }
+}
