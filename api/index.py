@@ -8,21 +8,28 @@ import sys
 def handler(request, context=None):
     global config, quizzes, API_KEY
     
-    BASE_DIR = os.environ.get('BASE_DIR', '/var/task')
+    # Vercel puts files in /var/task
+    BASE_DIR = '/var/task'
     
     # Initialize only once
     if not hasattr(handler, 'initialized'):
         try:
             # Load config
-            with open(os.path.join(BASE_DIR, 'config.json'), 'r') as f:
+            config_path = os.path.join(BASE_DIR, 'config.json')
+            with open(config_path, 'r') as f:
                 config = json.load(f)
             
             # Load quizzes
             quizzes = {}
             quizzes_dir = os.path.join(BASE_DIR, 'quizzes')
             
+            print(f"Base dir: {BASE_DIR}")
+            print(f"Quizzes dir: {quizzes_dir}, exists: {os.path.exists(quizzes_dir)}")
+            
             if os.path.exists(quizzes_dir):
-                for filename in os.listdir(quizzes_dir):
+                files = os.listdir(quizzes_dir)
+                print(f"Quiz files: {files[:5]}...")
+                for filename in files:
                     if filename.endswith('.json'):
                         quiz_id = os.path.splitext(filename)[0]
                         try:
@@ -35,7 +42,8 @@ def handler(request, context=None):
                             print(f"Error loading {filename}: {e}")
             
             # Load onequiz.json
-            with open(os.path.join(BASE_DIR, 'onequiz.json'), 'r') as f:
+            onequiz_path = os.path.join(BASE_DIR, 'onequiz.json')
+            with open(onequiz_path, 'r') as f:
                 onequiz_data = json.load(f)
                 if 'scoringRules' not in onequiz_data:
                     onequiz_data['scoringRules'] = config['scoringRules']
@@ -43,7 +51,7 @@ def handler(request, context=None):
             
             API_KEY = config['commonSettings']['apiKey']
             handler.initialized = True
-            print(f"Initialized successfully. Base dir: {BASE_DIR}")
+            print(f"Initialized successfully. Loaded {len(quizzes)} quizzes")
         except Exception as e:
             print(f"Init error: {e}", file=sys.stderr)
             raise
