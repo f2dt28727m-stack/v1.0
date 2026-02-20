@@ -56,6 +56,19 @@ def get_quizzes():
         })
     return jsonify({'quizzes': lst})
 
+@app.route('/api/quizzes/<quiz_id>', methods=['GET'])
+def get_single_quiz(quiz_id):
+    quiz = _quizzes.get(quiz_id)
+    if not quiz:
+        return jsonify({'error': 'Quiz not found'}), 404
+    return jsonify({
+        'quiz_id': quiz_id,
+        'title': quiz.get('title', 'Untitled'),
+        'category': quiz.get('category', 'General'),
+        'tags': quiz.get('tags', []),
+        'description': quiz.get('description', '')
+    })
+
 @app.route('/api/questions', methods=['POST'])
 def get_questions():
     data = request.get_json() or {}
