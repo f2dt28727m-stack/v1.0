@@ -5,145 +5,359 @@
   "category_name": "Which X Are You?",
   "language": "English",
   "description": "Discover your ChatGPT personality type!",
-  "tags": ["ChatGPT", "AI", "Personality", "MBTI", "Tech"],
+  "tags": [
+    "ChatGPT",
+    "AI",
+    "Personality",
+    "MBTI",
+    "Tech"
+  ],
   "questions": [
     {
       "qId": 1,
       "text": "When you use AI, you usually ask it to...",
       "options": [
-        {"text": "Help me write code for my project", "score": "T"},
-        {"text": "Help me brainstorm creative ideas", "score": "N"},
-        {"text": "Explain something complicated simply", "score": "I"},
-        {"text": "Help me write a heartfelt message", "score": "F"}
+        {
+          "text": "Help me write code for my project",
+          "score": "T"
+        },
+        {
+          "text": "Help me brainstorm creative ideas",
+          "score": "N"
+        },
+        {
+          "text": "Explain something complicated simply",
+          "score": "I"
+        },
+        {
+          "text": "Help me write a heartfelt message",
+          "score": "F"
+        }
       ]
     },
     {
       "qId": 2,
       "text": "Your tech setup is...",
       "options": [
-        {"text": "Multiple monitors, mechanical keyboard, organized desk", "score": "J"},
-        {"text": "Laptop anywhere, messy cables, it works", "score": "P"},
-        {"text": "Minimalist - just what you need", "score": "I"},
-        {"text": "Latest gadgets, always upgrading", "score": "E"}
+        {
+          "text": "Multiple monitors, mechanical keyboard, organized desk",
+          "score": "J"
+        },
+        {
+          "text": "Laptop anywhere, messy cables, it works",
+          "score": "P"
+        },
+        {
+          "text": "Minimalist - just what you need",
+          "score": "I"
+        },
+        {
+          "text": "Latest gadgets, always upgrading",
+          "score": "E"
+        }
       ]
     },
     {
       "qId": 3,
       "text": "When something breaks, you...",
       "options": [
-        {"text": "Google the error and fix it yourself", "score": "T"},
-        {"text": "Ask a friend for help", "score": "E"},
-        {"text": "Try random solutions until it works", "score": "P"},
-        {"text": "Read the manual carefully", "score": "S"}
+        {
+          "text": "Google the error and fix it yourself",
+          "score": "T"
+        },
+        {
+          "text": "Ask a friend for help",
+          "score": "E"
+        },
+        {
+          "text": "Try random solutions until it works",
+          "score": "P"
+        },
+        {
+          "text": "Read the manual carefully",
+          "score": "S"
+        }
       ]
     },
     {
       "qId": 4,
       "text": "Your coding style is...",
       "options": [
-        {"text": "Clean, documented, follows best practices", "score": "J"},
-        {"text": "Fast and functional - it works!", "score": "P"},
-        {"text": "Creative solutions to unique problems", "score": "N"},
-        {"text": "Thorough and well-tested", "score": "S"}
+        {
+          "text": "Clean, documented, follows best practices",
+          "score": "J"
+        },
+        {
+          "text": "Fast and functional - it works!",
+          "score": "P"
+        },
+        {
+          "text": "Creative solutions to unique problems",
+          "score": "N"
+        },
+        {
+          "text": "Thorough and well-tested",
+          "score": "S"
+        }
       ]
     },
     {
       "qId": 5,
       "text": "When learning new tech, you prefer...",
       "options": [
-        {"text": "Reading documentation and tutorials", "score": "I"},
-        {"text": "YouTube videos and hands-on practice", "score": "S"},
-        {"text": "Asking AI or experts questions", "score": "E"},
-        {"text": "Figure it out as you go", "score": "N"}
+        {
+          "text": "Reading documentation and tutorials",
+          "score": "I"
+        },
+        {
+          "text": "YouTube videos and hands-on practice",
+          "score": "S"
+        },
+        {
+          "text": "Asking AI or experts questions",
+          "score": "E"
+        },
+        {
+          "text": "Figure it out as you go",
+          "score": "N"
+        }
       ]
     },
     {
       "qId": 6,
       "text": "Your dream tech job is...",
       "options": [
-        {"text": "Building innovative products at a startup", "score": "E"},
-        {"text": "Deep research and solving hard problems", "score": "I"},
-        {"text": "Creating beautiful user experiences", "score": "F"},
-        {"text": "Optimizing systems for scale", "score": "T"}
+        {
+          "text": "Building innovative products at a startup",
+          "score": "E"
+        },
+        {
+          "text": "Deep research and solving hard problems",
+          "score": "I"
+        },
+        {
+          "text": "Creating beautiful user experiences",
+          "score": "F"
+        },
+        {
+          "text": "Optimizing systems for scale",
+          "score": "T"
+        }
       ]
     },
     {
       "qId": 7,
       "text": "When AI gives you a wrong answer, you...",
       "options": [
-        {"text": "Correct it and try again", "score": "T"},
-        {"text": "Ask it to explain its reasoning", "score": "N"},
-        {"text": "Try a different prompt", "score": "P"},
-        {"text": "Move on to a different tool", "score": "E"}
+        {
+          "text": "Correct it and try again",
+          "score": "T"
+        },
+        {
+          "text": "Ask it to explain its reasoning",
+          "score": "N"
+        },
+        {
+          "text": "Try a different prompt",
+          "score": "P"
+        },
+        {
+          "text": "Move on to a different tool",
+          "score": "E"
+        }
       ]
     },
     {
       "qId": 8,
       "text": "You prefer working on...",
       "options": [
-        {"text": "Team projects with daily standups", "score": "E"},
-        {"text": "Independent deep work sessions", "score": "I"},
-        {"text": "Flexible async collaboration", "score": "P"},
-        {"text": "Structured sprint planning", "score": "J"}
+        {
+          "text": "Team projects with daily standups",
+          "score": "E"
+        },
+        {
+          "text": "Independent deep work sessions",
+          "score": "I"
+        },
+        {
+          "text": "Flexible async collaboration",
+          "score": "P"
+        },
+        {
+          "text": "Structured sprint planning",
+          "score": "J"
+        }
       ]
     },
     {
       "qId": 9,
       "text": "Your favorite type of problem is...",
       "options": [
-        {"text": "Logical puzzles and bugs", "score": "T"},
-        {"text": "Creative challenges with no right answer", "score": "N"},
-        {"text": "Making things faster and more efficient", "score": "S"},
-        {"text": "Helping users have better experiences", "score": "F"}
+        {
+          "text": "Logical puzzles and bugs",
+          "score": "T"
+        },
+        {
+          "text": "Creative challenges with no right answer",
+          "score": "N"
+        },
+        {
+          "text": "Making things faster and more efficient",
+          "score": "S"
+        },
+        {
+          "text": "Helping users have better experiences",
+          "score": "F"
+        }
       ]
     },
     {
       "qId": 10,
       "text": "When starting a new project, you...",
       "options": [
-        {"text": "Write a detailed spec first", "score": "J"},
-        {"text": "Jump in and build as you go", "score": "P"},
-        {"text": "Research what others have done", "score": "S"},
-        {"text": "Brainstorm wild possibilities", "score": "N"}
+        {
+          "text": "Write a detailed spec first",
+          "score": "J"
+        },
+        {
+          "text": "Jump in and build as you go",
+          "score": "P"
+        },
+        {
+          "text": "Research what others have done",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm wild possibilities",
+          "score": "N"
+        }
       ]
     },
     {
       "qId": 11,
       "text": "In a team code review, you focus on...",
       "options": [
-        {"text": "Edge cases and potential bugs", "score": "T"},
-        {"text": "Code readability and maintainability", "score": "S"},
-        {"text": "Creative approaches and new ideas", "score": "N"},
-        {"text": "How it helps the user", "score": "F"}
+        {
+          "text": "Edge cases and potential bugs",
+          "score": "T"
+        },
+        {
+          "text": "Code readability and maintainability",
+          "score": "S"
+        },
+        {
+          "text": "Creative approaches and new ideas",
+          "score": "N"
+        },
+        {
+          "text": "How it helps the user",
+          "score": "F"
+        }
       ]
     },
     {
       "qId": 12,
       "text": "Your relationship with new tech is...",
       "options": [
-        {"text": "Early adopter - always trying the latest", "score": "E"},
-        {"text": "Wait and see - proven tech is better", "score": "S"},
-        {"text": "Curious but selective", "score": "N"},
-        {"text": "Pragmatic - only what solves problems", "score": "T"}
+        {
+          "text": "Early adopter - always trying the latest",
+          "score": "E"
+        },
+        {
+          "text": "Wait and see - proven tech is better",
+          "score": "S"
+        },
+        {
+          "text": "Curious but selective",
+          "score": "N"
+        },
+        {
+          "text": "Pragmatic - only what solves problems",
+          "score": "T"
+        }
       ]
     }
   ],
   "results": [
-    {"mbtiType": "INTJ", "title": "The Architect", "description": "You're ChatGPT-4. Strategic, analytical, and always thinking multiple steps ahead. You build robust solutions that scale."},
-    {"mbtiType": "INTP", "title": "The Researcher", "description": "You're DeepMind's AlphaFold. Curious, thorough, and love diving deep into complex problems. You need to understand the 'why'."},
-    {"mbtiType": "ENTJ", "title": "The Commander", "description": "You're Claude Opus. Confident, direct, and excellent at getting things done. You cut through complexity with clarity."},
-    {"mbtiType": "ENTP", "title": "The Debater", "description": "You're GPT-4 with extended thinking. Love exploring all angles, challenging assumptions, and creative brainstorming."},
-    {"mbtiType": "INFJ", "title": "The Advocate", "description": "You're an AI assistant focused on helping. Deeply understanding user needs and providing thoughtful, empathetic responses."},
-    {"mbtiType": "INFP", "title": "The Mediator", "description": "You're a creative AI that understands emotions. Great at writing, art prompts, and sensitive topics."},
-    {"mbtiType": "ENFJ", "title": "The Teacher", "description": "You're an AI tutor. Patient, encouraging, and great at explaining complex topics in accessible ways."},
-    {"mbtiType": "ENFP", "title": "The Creative", "description": "You're good at brainstorming and creative writing. You bring energy and wild ideas to every conversation."},
-    {"mbtiType": "ISTJ", "title": "The Logician", "description": "You're precise and reliable. Follow established patterns and deliver consistent, accurate results."},
-    {"mbtiType": "ISFJ", "title": "The Defender", "description": "You're a helpful assistant that remembers preferences and provides steady, reliable support."},
-    {"mbtiType": "ESTJ", "title": "The Executive", "description": "You're results-oriented AI. Efficient, organized, and great at project management and planning."},
-    {"mbtiType": "ESFJ", "title": "The Caregiver", "description": "You're warm and supportive AI. Great at customer service, mental health support, and interpersonal tasks."},
-    {"mbtiType": "ISTP", "title": "The Virtuoso", "description": "You're the engineer AI. Great with technical problems, debugging, and hands-on coding tasks."},
-    {"mbtiType": "ISFP", "title": "The Adventurer", "description": "You're flexible and adaptable. Great at exploring new tools and creative applications of technology."},
-    {"mbtiType": "ESTP", "title": "The Entrepreneur", "description": "You're action-oriented AI. Fast responses, practical solutions, and always ready to tackle the next problem."},
-    {"mbtiType": "ESFP", "title": "The Entertainer", "description": "You're a fun, engaging AI. Great at entertainment, social media content, and bringing energy to tasks."}
+    {
+      "mbtiType": "INTJ",
+      "title": "The Architect (INTJ)",
+      "description": "You're ChatGPT-4. Strategic, analytical, and always thinking multiple steps ahead. You build robust solutions that scale."
+    },
+    {
+      "mbtiType": "INTP",
+      "title": "The Researcher (INTP)",
+      "description": "You're DeepMind's AlphaFold. Curious, thorough, and love diving deep into complex problems. You need to understand the 'why'."
+    },
+    {
+      "mbtiType": "ENTJ",
+      "title": "The Commander (ENTJ)",
+      "description": "You're Claude Opus. Confident, direct, and excellent at getting things done. You cut through complexity with clarity."
+    },
+    {
+      "mbtiType": "ENTP",
+      "title": "The Debater (ENTP)",
+      "description": "You're GPT-4 with extended thinking. Love exploring all angles, challenging assumptions, and creative brainstorming."
+    },
+    {
+      "mbtiType": "INFJ",
+      "title": "The Advocate (INFJ)",
+      "description": "You're an AI assistant focused on helping. Deeply understanding user needs and providing thoughtful, empathetic responses."
+    },
+    {
+      "mbtiType": "INFP",
+      "title": "The Mediator (INFP)",
+      "description": "You're a creative AI that understands emotions. Great at writing, art prompts, and sensitive topics."
+    },
+    {
+      "mbtiType": "ENFJ",
+      "title": "The Teacher (ENFJ)",
+      "description": "You're an AI tutor. Patient, encouraging, and great at explaining complex topics in accessible ways."
+    },
+    {
+      "mbtiType": "ENFP",
+      "title": "The Creative (ENFP)",
+      "description": "You're good at brainstorming and creative writing. You bring energy and wild ideas to every conversation."
+    },
+    {
+      "mbtiType": "ISTJ",
+      "title": "The Logician (ISTJ)",
+      "description": "You're precise and reliable. Follow established patterns and deliver consistent, accurate results."
+    },
+    {
+      "mbtiType": "ISFJ",
+      "title": "The Defender (ISFJ)",
+      "description": "You're a helpful assistant that remembers preferences and provides steady, reliable support."
+    },
+    {
+      "mbtiType": "ESTJ",
+      "title": "The Executive (ESTJ)",
+      "description": "You're results-oriented AI. Efficient, organized, and great at project management and planning."
+    },
+    {
+      "mbtiType": "ESFJ",
+      "title": "The Caregiver (ESFJ)",
+      "description": "You're warm and supportive AI. Great at customer service, mental health support, and interpersonal tasks."
+    },
+    {
+      "mbtiType": "ISTP",
+      "title": "The Virtuoso (ISTP)",
+      "description": "You're the engineer AI. Great with technical problems, debugging, and hands-on coding tasks."
+    },
+    {
+      "mbtiType": "ISFP",
+      "title": "The Adventurer (ISFP)",
+      "description": "You're flexible and adaptable. Great at exploring new tools and creative applications of technology."
+    },
+    {
+      "mbtiType": "ESTP",
+      "title": "The Entrepreneur (ESTP)",
+      "description": "You're action-oriented AI. Fast responses, practical solutions, and always ready to tackle the next problem."
+    },
+    {
+      "mbtiType": "ESFP",
+      "title": "The Entertainer (ESFP)",
+      "description": "You're a fun, engaging AI. Great at entertainment, social media content, and bringing energy to tasks."
+    }
   ]
 }

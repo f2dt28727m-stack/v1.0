@@ -5,145 +5,359 @@
   "category_name": "Which X Are You?",
   "language": "English",
   "description": "Discover which Taylor Swift era matches your personality!",
-  "tags": ["Taylor Swift", "Music", "Personality", "MBTI", "Eras Tour"],
+  "tags": [
+    "Taylor Swift",
+    "Music",
+    "Personality",
+    "MBTI",
+    "Eras Tour"
+  ],
   "questions": [
     {
       "qId": 1,
       "text": "Your ideal concert experience is...",
       "options": [
-        {"text": "Dancing to 1989 with glitter and neon lights", "score": "E"},
-        {"text": "Singing acoustic songs in an intimate venue", "score": "I"},
-        {"text": "Joining a massive crowd at the Eras Tour", "score": "E"},
-        {"text": "Watching from a VIP box with perfect view", "score": "I"}
+        {
+          "text": "Dancing to 1989 with glitter and neon lights",
+          "score": "E"
+        },
+        {
+          "text": "Singing acoustic songs in an intimate venue",
+          "score": "I"
+        },
+        {
+          "text": "Joining a massive crowd at the Eras Tour",
+          "score": "E"
+        },
+        {
+          "text": "Watching from a VIP box with perfect view",
+          "score": "I"
+        }
       ]
     },
     {
       "qId": 2,
       "text": "When someone wrongs you, you usually...",
       "options": [
-        {"text": "Write a scathing breakup song about them", "score": "E"},
-        {"text": "Write a subtle revenge song (like All Too Well)", "score": "I"},
-        {"text": "Forgive and move on like 'Clean'", "score": "F"},
-        {"text": "Plot your revenge like 'Look What You Made Me Do'", "score": "T"}
+        {
+          "text": "Write a scathing breakup song about them",
+          "score": "E"
+        },
+        {
+          "text": "Write a subtle revenge song (like All Too Well)",
+          "score": "I"
+        },
+        {
+          "text": "Forgive and move on like 'Clean'",
+          "score": "F"
+        },
+        {
+          "text": "Plot your revenge like 'Look What You Made Me Do'",
+          "score": "T"
+        }
       ]
     },
     {
       "qId": 3,
       "text": "Your love language in relationships is...",
       "options": [
-        {"text": "Grand romantic gestures (like in Love Story)", "score": "E"},
-        {"text": "Quiet, deep connection (like in Cornelia Street)", "score": "I"},
-        {"text": "Surprise them with gifts (like in Bejeweled)", "score": "S"},
-        {"text": "Writing them poems and songs", "score": "N"}
+        {
+          "text": "Grand romantic gestures (like in Love Story)",
+          "score": "E"
+        },
+        {
+          "text": "Quiet, deep connection (like in Cornelia Street)",
+          "score": "I"
+        },
+        {
+          "text": "Surprise them with gifts (like in Bejeweled)",
+          "score": "S"
+        },
+        {
+          "text": "Writing them poems and songs",
+          "score": "N"
+        }
       ]
     },
     {
       "qId": 4,
       "text": "Your aesthetic is most like...",
       "options": [
-        {"text": "Red - bold, dramatic, classic", "score": "E"},
-        {"text": "Folklore/ Evermore - cozy, vintage, ethereal", "score": "I"},
-        {"text": "1989 - neon, synth-pop, party", "score": "N"},
-        {"text": "Midnights - dark, moody, sparkle", "score": "N"}
+        {
+          "text": "Red - bold, dramatic, classic",
+          "score": "E"
+        },
+        {
+          "text": "Folklore/ Evermore - cozy, vintage, ethereal",
+          "score": "I"
+        },
+        {
+          "text": "1989 - neon, synth-pop, party",
+          "score": "N"
+        },
+        {
+          "text": "Midnights - dark, moody, sparkle",
+          "score": "N"
+        }
       ]
     },
     {
       "qId": 5,
       "text": "When you're heartbroken, you...",
       "options": [
-        {"text": "Blast All Too Well (10 minute version)", "score": "F"},
-        {"text": "Write your own breakup song", "score": "N"},
-        {"text": "Delete all photos and move on (like Clean)", "score": "T"},
-        {"text": "Listen to sad songs on repeat for days", "score": "F"}
+        {
+          "text": "Blast All Too Well (10 minute version)",
+          "score": "F"
+        },
+        {
+          "text": "Write your own breakup song",
+          "score": "N"
+        },
+        {
+          "text": "Delete all photos and move on (like Clean)",
+          "score": "T"
+        },
+        {
+          "text": "Listen to sad songs on repeat for days",
+          "score": "F"
+        }
       ]
     },
     {
       "qId": 6,
       "text": "Your friends would describe you as...",
       "options": [
-        {"text": "The life of the party - always dramatic and fun", "score": "E"},
-        {"text": "The wise one - always giving advice", "score": "N"},
-        {"text": "The loyal one - always there when needed", "score": "S"},
-        {"text": "The mysterious one - hard to read", "score": "I"}
+        {
+          "text": "The life of the party - always dramatic and fun",
+          "score": "E"
+        },
+        {
+          "text": "The wise one - always giving advice",
+          "score": "N"
+        },
+        {
+          "text": "The loyal one - always there when needed",
+          "score": "S"
+        },
+        {
+          "text": "The mysterious one - hard to read",
+          "score": "I"
+        }
       ]
     },
     {
       "qId": 7,
       "text": "You prefer songs that are...",
       "options": [
-        {"text": "Upbeat and make you want to dance", "score": "E"},
-        {"text": "Deep and meaningful with storytelling", "score": "N"},
-        {"text": "Catchy with a good beat", "score": "S"},
-        {"text": "Emotional and relatable", "score": "F"}
+        {
+          "text": "Upbeat and make you want to dance",
+          "score": "E"
+        },
+        {
+          "text": "Deep and meaningful with storytelling",
+          "score": "N"
+        },
+        {
+          "text": "Catchy with a good beat",
+          "score": "S"
+        },
+        {
+          "text": "Emotional and relatable",
+          "score": "F"
+        }
       ]
     },
     {
       "qId": 8,
       "text": "When making important life decisions, you...",
       "options": [
-        {"text": "Go with your heart (like 'Enchanted')", "score": "F"},
-        {"text": "Analyze all options carefully", "score": "T"},
-        {"text": "Trust your gut instinct", "score": "N"},
-        {"text": "Ask close friends for advice", "score": "E"}
+        {
+          "text": "Go with your heart (like 'Enchanted')",
+          "score": "F"
+        },
+        {
+          "text": "Analyze all options carefully",
+          "score": "T"
+        },
+        {
+          "text": "Trust your gut instinct",
+          "score": "N"
+        },
+        {
+          "text": "Ask close friends for advice",
+          "score": "E"
+        }
       ]
     },
     {
       "qId": 9,
       "text": "Your perfect Friday night is...",
       "options": [
-        {"text": "Going to a party or club", "score": "E"},
-        {"text": "Staying home with a movie", "score": "I"},
-        {"text": "Karaoke with close friends", "score": "E"},
-        {"text": "Writing or creating something", "score": "N"}
+        {
+          "text": "Going to a party or club",
+          "score": "E"
+        },
+        {
+          "text": "Staying home with a movie",
+          "score": "I"
+        },
+        {
+          "text": "Karaoke with close friends",
+          "score": "E"
+        },
+        {
+          "text": "Writing or creating something",
+          "score": "N"
+        }
       ]
     },
     {
       "qId": 10,
       "text": "You react to drama by...",
       "options": [
-        {"text": "Writing about it in a journal", "score": "I"},
-        {"text": "Talking it out with friends", "score": "E"},
-        {"text": "Ignoring it until it passes", "score": "P"},
-        {"text": "Addressing it head-on", "score": "J"}
+        {
+          "text": "Writing about it in a journal",
+          "score": "I"
+        },
+        {
+          "text": "Talking it out with friends",
+          "score": "E"
+        },
+        {
+          "text": "Ignoring it until it passes",
+          "score": "P"
+        },
+        {
+          "text": "Addressing it head-on",
+          "score": "J"
+        }
       ]
     },
     {
       "qId": 11,
       "text": "Your career goal is...",
       "options": [
-        {"text": "To be famous and celebrated", "score": "E"},
-        {"text": "To be respected as an expert", "score": "T"},
-        {"text": "To make a positive impact", "score": "F"},
-        {"text": "To create something meaningful", "score": "N"}
+        {
+          "text": "To be famous and celebrated",
+          "score": "E"
+        },
+        {
+          "text": "To be respected as an expert",
+          "score": "T"
+        },
+        {
+          "text": "To make a positive impact",
+          "score": "F"
+        },
+        {
+          "text": "To create something meaningful",
+          "score": "N"
+        }
       ]
     },
     {
       "qId": 12,
       "text": "When someone asks about your ex, you...",
       "options": [
-        {"text": "Have a whole playlist about them", "score": "F"},
-        {"text": "Change the subject immediately", "score": "I"},
-        {"text": "Give a vague answer and move on", "score": "T"},
-        {"text": "Laugh and share funny stories", "score": "E"}
+        {
+          "text": "Have a whole playlist about them",
+          "score": "F"
+        },
+        {
+          "text": "Change the subject immediately",
+          "score": "I"
+        },
+        {
+          "text": "Give a vague answer and move on",
+          "score": "T"
+        },
+        {
+          "text": "Laugh and share funny stories",
+          "score": "E"
+        }
       ]
     }
   ],
   "results": [
-    {"mbtiType": "ENFP", "title": "1989 Era", "description": "You're the 1989 era - fun, outgoing, and always the life of the party! You love big gestures and aren't afraid to be the center of attention."},
-    {"mbtiType": "INFP", "title": "Folklore/Evermore Era", "description": "You're the Folklore/Evermore era - deep, introspective, and beautifully complex. You find magic in the quiet moments."},
-    {"mbtiType": "ENFJ", "title": "Fearless Era", "description": "You're the Fearless era - brave, optimistic, and inspires everyone around you. You go after what you want without hesitation."},
-    {"mbtiType": "INFJ", "title": "Evermore Era", "description": "You're the Evermore era - wise, mysterious, and deeply intuitive. You see things others miss."},
-    {"mbtiType": "ENTP", "title": "Midnights Era", "description": "You're the Midnights era - complex, sometimes contradictory, but always fascinating. You embrace all sides of yourself."},
-    {"mbtiType": "INTP", "title": "Red (Taylor's Version)", "description": "You're the Red era - emotionally rich, deeply felt, and brilliantly chaotic. You feel everything intensely."},
-    {"mbtiType": "ESFP", "title": "Reputation Era", "description": "You're the Reputation era - bold, unapologetic, and fierce. You don't care what others think."},
-    {"mbtiType": "ISFP", "title": "Speak Now Era", "description": "You're the Speak Now era - creative, passionate, and speak your truth. You write your own story."},
-    {"mbtiType": "ESTJ", "title": "The Tortured Poets Department", "description": "You're the TTPD era - intellectual, complex, and deeply analytical. You overthink everything but that's your superpower."},
-    {"mbtiType": "ISTJ", "title": "Debut Era", "description": "You're the Debut era - authentic, country roots, and true to yourself. You started from humble beginnings and stayed genuine."},
-    {"mbtiType": "ESFJ", "title": "Lover Era", "description": "You're the Lover era - romantic, colorful, and all about love in all forms. You wear your heart on your sleeve."},
-    {"mbtiType": "ISFJ", "title": "Red (Acoustic)", "description": "You're the acoustic side of Red - quietly powerful, deeply emotional, and always there for your people."},
-    {"mbtiType": "ESTP", "title": "Miss Eras Era", "description": "You're the Miss Eras era - determined, competitive, and always working toward your next goal. You never stop."},
-    {"mbtiType": "ISTP", "title": "Midnights (3am Edition)", "description": "You're the 3am edition of Midnights - private, mysterious, but surprisingly deep when someone gets to know you."},
-    {"mbtiType": "ENTJ", "title": "Eras Tour Energy", "description": "You're the Eras Tour - a master of reinvention, ambitious, and always evolving. You've got a plan for everything."},
-    {"mbtiType": "INTJ", "title": "Vault Tracks", "description": "You're the Vault tracks - the hidden gems that not everyone finds, but those who do are rewarded with brilliance."}
+    {
+      "mbtiType": "ENFP",
+      "title": "1989 Era (ENFP)",
+      "description": "You're the 1989 era - fun, outgoing, and always the life of the party! You love big gestures and aren't afraid to be the center of attention."
+    },
+    {
+      "mbtiType": "INFP",
+      "title": "Folklore/Evermore Era (INFP)",
+      "description": "You're the Folklore/Evermore era - deep, introspective, and beautifully complex. You find magic in the quiet moments."
+    },
+    {
+      "mbtiType": "ENFJ",
+      "title": "Fearless Era (ENFJ)",
+      "description": "You're the Fearless era - brave, optimistic, and inspires everyone around you. You go after what you want without hesitation."
+    },
+    {
+      "mbtiType": "INFJ",
+      "title": "Evermore Era (INFJ)",
+      "description": "You're the Evermore era - wise, mysterious, and deeply intuitive. You see things others miss."
+    },
+    {
+      "mbtiType": "ENTP",
+      "title": "Midnights Era (ENTP)",
+      "description": "You're the Midnights era - complex, sometimes contradictory, but always fascinating. You embrace all sides of yourself."
+    },
+    {
+      "mbtiType": "INTP",
+      "title": "Red (Taylor's Version) (INTP)",
+      "description": "You're the Red era - emotionally rich, deeply felt, and brilliantly chaotic. You feel everything intensely."
+    },
+    {
+      "mbtiType": "ESFP",
+      "title": "Reputation Era (ESFP)",
+      "description": "You're the Reputation era - bold, unapologetic, and fierce. You don't care what others think."
+    },
+    {
+      "mbtiType": "ISFP",
+      "title": "Speak Now Era (ISFP)",
+      "description": "You're the Speak Now era - creative, passionate, and speak your truth. You write your own story."
+    },
+    {
+      "mbtiType": "ESTJ",
+      "title": "The Tortured Poets Department (ESTJ)",
+      "description": "You're the TTPD era - intellectual, complex, and deeply analytical. You overthink everything but that's your superpower."
+    },
+    {
+      "mbtiType": "ISTJ",
+      "title": "Debut Era (ISTJ)",
+      "description": "You're the Debut era - authentic, country roots, and true to yourself. You started from humble beginnings and stayed genuine."
+    },
+    {
+      "mbtiType": "ESFJ",
+      "title": "Lover Era (ESFJ)",
+      "description": "You're the Lover era - romantic, colorful, and all about love in all forms. You wear your heart on your sleeve."
+    },
+    {
+      "mbtiType": "ISFJ",
+      "title": "Red (Acoustic) (ISFJ)",
+      "description": "You're the acoustic side of Red - quietly powerful, deeply emotional, and always there for your people."
+    },
+    {
+      "mbtiType": "ESTP",
+      "title": "Miss Eras Era (ESTP)",
+      "description": "You're the Miss Eras era - determined, competitive, and always working toward your next goal. You never stop."
+    },
+    {
+      "mbtiType": "ISTP",
+      "title": "Midnights (3am Edition) (ISTP)",
+      "description": "You're the 3am edition of Midnights - private, mysterious, but surprisingly deep when someone gets to know you."
+    },
+    {
+      "mbtiType": "ENTJ",
+      "title": "Eras Tour Energy (ENTJ)",
+      "description": "You're the Eras Tour - a master of reinvention, ambitious, and always evolving. You've got a plan for everything."
+    },
+    {
+      "mbtiType": "INTJ",
+      "title": "Vault Tracks (INTJ)",
+      "description": "You're the Vault tracks - the hidden gems that not everyone finds, but those who do are rewarded with brilliance."
+    }
   ]
 }
