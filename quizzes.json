@@ -1,0 +1,328 @@
+{
+  "quizzes": [
+    {
+      "quiz_id": "quiz_1",
+      "title": "Which Disney Princess Resonates With Your Personality?",
+      "category": "which_x",
+      "tags": [
+        "Disney",
+        "Princess",
+        "Personality",
+        "MBTI",
+        "16\u578b\u4eba\u683c",
+        "\u8da3\u5473"
+      ],
+      "description": "Discover which Disney Princess matches your personality based on MBTI traits! Answer 12 questions to find your royal counterpart."
+    },
+    {
+      "quiz_id": "quiz_10",
+      "title": "What's Your Career Personality Type?",
+      "category": "type",
+      "tags": [
+        "Career",
+        "Personality",
+        "MBTI",
+        "Work",
+        "Success"
+      ],
+      "description": "Answer 12 insightful questions to discover your career personality type\u2014unlock your professional potential!"
+    },
+    {
+      "quiz_id": "quiz_11",
+      "title": "What's Your Travel Personality Type?",
+      "category": "type",
+      "tags": [
+        "Travel",
+        "Personality",
+        "MBTI",
+        "Adventure",
+        "Wanderlust"
+      ],
+      "description": "Answer 12 wanderlust-filled questions to discover your travel personality type\u2014unlock your perfect vacation style!"
+    },
+    {
+      "quiz_id": "quiz_12",
+      "title": "What's Your Food Personality Type?",
+      "category": "type",
+      "tags": [
+        "Food",
+        "Personality",
+        "MBTI",
+        "Cooking",
+        "Eating"
+      ],
+      "description": "Answer 12 delicious questions to discover your food personality type\u2014unlock your culinary identity!"
+    },
+    {
+      "quiz_id": "quiz_13",
+      "title": "Which Superhero Sidekick Are You?",
+      "category": "which",
+      "tags": [
+        "Superhero",
+        "Sidekick",
+        "MBTI",
+        "Personality",
+        "Comics"
+      ],
+      "description": "Answer 12 heroic questions to discover which iconic superhero sidekick matches your personality\u2014time to save the day!"
+    },
+    {
+      "quiz_id": "quiz_14",
+      "title": "Which Mythological Creature Are You?",
+      "category": "which",
+      "tags": [
+        "Mythology",
+        "Creature",
+        "MBTI",
+        "Personality",
+        "Fantasy"
+      ],
+      "description": "Answer 12 mystical questions to discover which iconic mythological creature matches your personality\u2014enter the realm of legends!"
+    },
+    {
+      "quiz_id": "quiz_15",
+      "title": "Which Historical Figure Are You?",
+      "category": "which",
+      "tags": [
+        "History",
+        "Historical Figure",
+        "MBTI",
+        "Personality",
+        "Legacy"
+      ],
+      "description": "Answer 12 timeless questions to discover which iconic historical figure matches your personality\u2014walk in the footsteps of legends!"
+    },
+    {
+      "quiz_id": "quiz_16",
+      "title": "Which Magical Creature Are You?",
+      "category": "which",
+      "tags": [
+        "Magic",
+        "Creature",
+        "Fantasy",
+        "MBTI",
+        "Personality"
+      ],
+      "description": "Answer 12 enchanting questions to discover which magical creature matches your personality\u2014enter a world of wonder and magic!"
+    },
+    {
+      "quiz_id": "quiz_17",
+      "title": "What's Your Music Personality Type?",
+      "category": "type",
+      "tags": [
+        "Music",
+        "Personality",
+        "MBTI",
+        "Sound",
+        "Rhythm"
+      ],
+      "description": "Answer 12 melodic questions to discover your music personality type\u2014unlock your soundtrack to life!"
+    },
+    {
+      "quiz_id": "quiz_18",
+      "title": "Which Disney Princess Are You (MBTI Edition)?",
+      "category": "which",
+      "tags": [
+        "Disney",
+        "Princess",
+        "MBTI",
+        "Personality",
+        "Fantasy"
+      ],
+      "description": "Answer 12 magical questions to discover which Disney princess matches your MBTI personality type\u2014live your fairy tale!"
+    },
+    {
+      "quiz_id": "quiz_19",
+      "title": "Which Star Wars Character Are You (MBTI)?",
+      "category": "which",
+      "tags": [
+        "Star Wars",
+        "MBTI",
+        "Personality",
+        "Sci-Fi",
+        "Galaxy"
+      ],
+      "description": "Answer 12 intergalactic questions to discover which Star Wars character matches your MBTI personality type\u2014may the force be with you!"
+    },
+    {
+      "quiz_id": "quiz_2",
+      "title": "Which Harry Potter Character Matches Your Personality?",
+      "category": "harry_potter",
+      "tags": [
+        "Harry Potter",
+        "Wizarding World",
+        "MBTI",
+        "Personality"
+      ],
+      "description": "Answer 12 magical questions to discover which Harry Potter character you are most like!"
+    },
+    {
+      "quiz_id": "quiz_20",
+      "title": "Which Harry Potter House Matches Your MBTI?",
+      "category": "which",
+      "tags": [
+        "Harry Potter",
+        "Hogwarts",
+        "MBTI",
+        "Personality",
+        "Magic"
+      ],
+      "description": "Answer 12 magical questions to discover which Hogwarts house matches your MBTI personality type\u2014welcome to the wizarding world!"
+    },
+    {
+      "quiz_id": "quiz_21",
+      "title": "Which Career Path Matches Your MBTI?",
+      "category": "which",
+      "tags": [
+        "Career",
+        "MBTI",
+        "Personality",
+        "Work",
+        "Success"
+      ],
+      "description": "Answer 12 insightful questions to discover which career path perfectly matches your MBTI personality type\u2014find your professional purpose!"
+    },
+    {
+      "quiz_id": "quiz_22",
+      "title": "Which Love Language Matches Your MBTI?",
+      "category": "which",
+      "tags": [
+        "Love Language",
+        "MBTI",
+        "Relationships",
+        "Personality",
+        "Emotions"
+      ],
+      "description": "Answer 12 heartfelt questions to discover which love language perfectly matches your MBTI personality type\u2014speak the language of love!"
+    },
+    {
+      "quiz_id": "quiz_23",
+      "title": "Which Travel Style Matches Your MBTI?",
+      "category": "which",
+      "tags": [
+        "Travel",
+        "MBTI",
+        "Adventure",
+        "Personality",
+        "Wanderlust"
+      ],
+      "description": "Answer 12 wanderlust-filled questions to discover which travel style perfectly matches your MBTI personality type\u2014find your perfect journey!"
+    },
+    {
+      "quiz_id": "quiz_24",
+      "title": "Which Animal Spirit Matches Your MBTI?",
+      "category": "which",
+      "tags": [
+        "Spirit Animal",
+        "MBTI",
+        "Personality",
+        "Nature",
+        "Symbolism"
+      ],
+      "description": "Answer 12 soulful questions to discover which animal spirit perfectly matches your MBTI personality type\u2014connect with your wild side!"
+    },
+    {
+      "quiz_id": "quiz_3",
+      "title": "Which Marvel Superhero Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Marvel",
+        "Superhero",
+        "MCU",
+        "MBTI",
+        "Personality"
+      ],
+      "description": "Answer 12 epic questions to discover which Marvel superhero you are destined to be!"
+    },
+    {
+      "quiz_id": "quiz_4",
+      "title": "Which Disney Villain Are You?",
+      "category": "which",
+      "tags": [
+        "Disney",
+        "Villain",
+        "MBTI",
+        "Personality",
+        "Dark Side"
+      ],
+      "description": "Answer 12 questions to uncover which iconic Disney villain matches your personality\u2014embrace your dark side!"
+    },
+    {
+      "quiz_id": "quiz_5",
+      "title": "Which Anime Character Are You?",
+      "category": "which",
+      "tags": [
+        "Anime",
+        "Character",
+        "MBTI",
+        "Personality",
+        "Otaku"
+      ],
+      "description": "Answer 12 questions to discover which iconic anime character matches your personality\u2014otaku approved!"
+    },
+    {
+      "quiz_id": "quiz_6",
+      "title": "Which Harry Potter Character Are You?",
+      "category": "which",
+      "tags": [
+        "Harry Potter",
+        "Wizarding World",
+        "MBTI",
+        "Personality",
+        "Hogwarts"
+      ],
+      "description": "Answer 12 magical questions to discover which Harry Potter character matches your personality\u2014wand at the ready!"
+    },
+    {
+      "quiz_id": "quiz_7",
+      "title": "Which Zodiac Sign Character Are You?",
+      "category": "which",
+      "tags": [
+        "Zodiac",
+        "Astrology",
+        "Personality",
+        "Horoscope",
+        "Star Sign"
+      ],
+      "description": "Answer 12 cosmic questions to discover which iconic zodiac sign character matches your personality\u2014stars align for you!"
+    },
+    {
+      "quiz_id": "quiz_8",
+      "title": "Which Disney Princess Are You?",
+      "category": "which",
+      "tags": [
+        "Disney",
+        "Princess",
+        "MBTI",
+        "Personality",
+        "Fairy Tale"
+      ],
+      "description": "Answer 12 magical questions to discover which iconic Disney Princess matches your personality\u2014once upon a time for you!"
+    },
+    {
+      "quiz_id": "quiz_9",
+      "title": "What's Your Love Language Personality Type?",
+      "category": "type",
+      "tags": [
+        "Love Language",
+        "Relationships",
+        "MBTI",
+        "Personality",
+        "Love"
+      ],
+      "description": "Answer 12 heartfelt questions to discover your love language personality type\u2014unlock how you give and receive love!"
+    },
+    {
+      "quiz_id": "quiz_harry_potter1",
+      "title": "Which Harry Potter Character Matches Your Personality?",
+      "category": "harry_potter",
+      "tags": [
+        "Harry Potter",
+        "Wizarding World",
+        "MBTI",
+        "Personality"
+      ],
+      "description": "Answer 12 magical questions to discover which Harry Potter character you are most like!"
+    }
+  ]
+}

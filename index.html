@@ -891,7 +891,7 @@
         async function loadData() {
             try {
                 // Try to load from local API first (development)
-                const response = await fetch('/api/quizzes');
+                const response = await fetch('/quizzes.json');
                 if (!response.ok) {
                     throw new Error('Failed to load quiz data');
                 }
