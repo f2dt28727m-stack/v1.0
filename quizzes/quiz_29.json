@@ -1,398 +1,125 @@
 {
-  "quizId": 29,
-  "title": "How Indie Are You?",
-  "category": "degree",
-  "category_name": "How [Adjective] Are You?",
-  "language": "English",
-  "description": "Discover just how indie your personality is! Answer 12 questions to find out your indie quotient.",
-  "tags": [
-    "Indie",
-    "Music",
-    "Culture",
-    "Lifestyle",
-    "Personality",
-    "文艺",
-    "独立音乐",
-    "生活方式"
-  ],
+  "id": "quiz_29",
+  "type": "match",
+  "title": "Which Fictional Soulmate Is Your Perfect Match?",
+  "description": "Discover which fictional character would be your ideal romantic partner based on your personality and preferences.",
   "questions": [
     {
-      "qId": 1,
-      "text": "Your music playlist mostly consists of...",
+      "id": "q1",
+      "text": "What's your ideal romantic date?",
       "options": [
-        {
-          "text": "Underground indie bands no one has heard of",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "A mix of indie and mainstream artists",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "Popular artists but I appreciate good music when I hear it",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Top 40 hits and trending songs",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "A quiet dinner under the stars", "scores": {"romantic_hero": 3, "adventure_partner": 1}},
+        {"text": "Traveling to an exotic location together", "scores": {"adventure_partner": 3, "soulmate_artist": 1}},
+        {"text": "Cozy movie night with homemade popcorn", "scores": {"soulmate_artist": 3, "protective_hero": 1}},
+        {"text": "An unexpected adventure where we nearly get caught", "scores": {"bad_boy": 3, "adventure_partner": 1}}
       ]
     },
     {
-      "qId": 2,
-      "text": "When choosing a coffee shop, you prefer...",
+      "id": "q2",
+      "text": "How do you show love?",
       "options": [
-        {
-          "text": "A hidden gem with no WiFi and questionable aesthetics",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "A local café with character",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "A cozy spot that isn't too crowded",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Whatever is most convenient",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "Through grand gestures and protection", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "Through deep conversations and understanding", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "Through spontaneity and excitement", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "Through small daily acts of care", "scores": {"sweet_nerd": 3, "protective_hero": 1}}
       ]
     },
     {
-      "qId": 3,
-      "text": "Your fashion style could be described as...",
+      "id": "q3",
+      "text": "What attracts you most in a person?",
       "options": [
-        {
-          "text": "Thrift store finds and vintage pieces",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Bohemian with artistic flair",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "Casual but with unique touches",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Whatever is comfortable and practical",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "A strong, protective presence", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "Creativity and emotional depth", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "A sense of danger and excitement", "scores": {"bad_boy": 3, "adventure_partner": 1}},
+        {"text": "Intelligence and witty conversation", "scores": {"intellectual": 3, "sweet_nerd": 1}}
       ]
     },
     {
-      "qId": 4,
-      "text": "When watching movies, you usually choose...",
+      "id": "q4",
+      "text": "What's your biggest fear in a relationship?",
       "options": [
-        {
-          "text": "Foreign films and indie documentaries",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Independent films with unique storytelling",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "A good mix of mainstream and art-house",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Blockbusters and popular franchises",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "Being betrayed or abandoned", "scores": {"romantic_hero": 2, "protective_hero": 2}},
+        {"text": "Feeling emotionally disconnected", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "Living a boring, predictable life", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "Not being understood or appreciated", "scores": {"sweet_nerd": 2, "intellectual": 2}}
       ]
     },
     {
-      "qId": 5,
-      "text": "Your ideal weekend activity would be...",
+      "id": "q5",
+      "text": "If your partner needed you, you would...",
       "options": [
-        {
-          "text": "Exploring a new city or attending a underground show",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Visiting a local market or art gallery",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "Spending time with friends at a laid-back spot",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Watching movies at home or shopping at the mall",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "Drop everything and rush to their side", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "Write them a heartfelt letter or song", "scores": {"soulmate_artist": 3}},
+        {"text": "Plan an epic escape or adventure together", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "Research solutions and help them practically", "scores": {"sweet_nerd": 3, "intellectual": 1}}
       ]
     },
     {
-      "qId": 6,
-      "text": "When it comes to books, you read...",
+      "id": "q6",
+      "text": "What's your communication style?",
       "options": [
-        {
-          "text": "Obscure novels and avant-garde literature",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Contemporary fiction and memoirs",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "A variety of genres depending on my mood",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Best-sellers and popular fiction",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "Direct and honest, sometimes blunt", "scores": {"protective_hero": 2, "bad_boy": 2}},
+        {"text": "Poetic and emotionally expressive", "scores": {"soulmate_artist": 3}},
+        {"text": "Playful teasing and humor", "scores": {"adventure_partner": 2, "sweet_nerd": 2}},
+        {"text": "Thoughtful and analytical", "scores": {"intellectual": 3, "sweet_nerd": 1}}
       ]
     },
     {
-      "qId": 7,
-      "text": "Your social media presence is...",
+      "id": "q7",
+      "text": "What do you value most in a partner?",
       "options": [
-        {
-          "text": "I barely use social media, or I post obscure art",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "I share creative content but not too frequently",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "Active but not obsessed with follower counts",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Very active with regular updates",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "Loyalty and devotion", "scores": {"romantic_hero": 3, "protective_hero": 1}},
+        {"text": "Passion and emotional connection", "scores": {"soulmate_artist": 3, "bad_boy": 1}},
+        {"text": "Adventure and spontaneity", "scores": {"adventure_partner": 3}},
+        {"text": "Understanding and acceptance", "scores": {"intellectual": 2, "sweet_nerd": 2}}
       ]
     },
     {
-      "qId": 8,
-      "text": "When traveling, you prefer...",
+      "id": "q8",
+      "text": "How do you handle conflict?",
       "options": [
-        {
-          "text": "Off-the-beaten-path destinations",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Local neighborhoods over tourist areas",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "A balance of popular spots and hidden gems",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Famous landmarks and popular destinations",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 9,
-      "text": "Your favorite way to discover new music is through...",
-      "options": [
-        {
-          "text": "Small record stores and bandcamp",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Spotify playlists and music blogs",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "Friends recommendations",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Radio and mainstream charts",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 10,
-      "text": "When friends ask for restaurant recommendations, you suggest...",
-      "options": [
-        {
-          "text": "A hole-in-the-wall with amazing food",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "A unique local restaurant",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "A solid choice that's not too fancy",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "The most popular place in town",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 11,
-      "text": "Your approach to hobbies is...",
-      "options": [
-        {
-          "text": "I collect unusual skills and niche interests",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "I enjoy creative and hands-on activities",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "I have a mix of mainstream and unique hobbies",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "I stick to popular and accessible hobbies",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 12,
-      "text": "When someone asks what your 'vibe' is, you would say...",
-      "options": [
-        {
-          "text": "Lo-fi beats to relax/study to",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Artistic, free-spirited",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "Easy-going and adaptable",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "Trendy and up-to-date",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "Become overly protective or possessive", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "Withdraw and process emotions privately", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "Say sorry first but suggest an adventure", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "Analyze the problem logically", "scores": {"intellectual": 3, "sweet_nerd": 1}}
       ]
     }
   ],
   "results": {
-    "0-10": {
-      "title": "Mainstream Maven",
-      "description": "You're firmly in the mainstream! You enjoy what's popular and that's perfectly fine. Your tastes are accessible and you know what you like. There's nothing wrong with enjoying the popular stuff - it's popular for a reason!"
+    "romantic_hero": {
+      "title": "The Romantic Hero",
+      "description": "Your perfect match is a classic romantic hero - think Mr. Darcy, Prince Charming, or Jamie Fraser. They're devoted, protective, and believe in grand love that stands the test of time.",
+      "examples": ["Mr. Darcy (Pride & Prejudice)", "Prince Eric (The Little Mermaid)", "Jamie Fraser (Outlander)"]
     },
-    "11-20": {
-      "title": "Indie Curious",
-      "description": "You have one foot in the mainstream and one in the indie world. You're open to discovering new things but also appreciate a good pop song. You're the perfect bridge between worlds!"
+    "protective_hero": {
+      "title": "The Protective Hero",
+      "description": "You need a partner who will always put your safety first. Your match is someone like Captain America or Jean Valjean - strong, reliable, and willing to protect you at all costs.",
+      "examples": ["Captain America (Marvel)", "Jean Valjean (Les Misérables)", "Thor (Marvel)"]
     },
-    "21-30": {
-      "title": "Indie Spirit",
-      "description": "You've got a solid indie streak! You appreciate uniqueness and often seek out alternatives to the mainstream. Your friends probably come to you for recommendations on hidden gems."
+    "soulmate_artist": {
+      "title": "The Soulmate Artist",
+      "description": "You crave deep emotional connection. Your match is a creative soul like Jack Dawson, Christian Grey, or Day 6 from 'The Vampire Diaries' - intense, passionate, and devastatingly romantic.",
+      "examples": ["Jack Dawson (Titanic)", "Christian Grey (Fifty Shades)", "Damon Salvatore (The Vampire Diaries)"]
     },
-    "31-36": {
-      "title": "Indie Icon",
-      "description": "You are the definition of indie! Your taste is impeccable, your recommendations are legendary, and you probably own more vinyl than most. You're the person others aspire to be when it comes to being authentically you."
+    "adventure_partner": {
+      "title": "The Adventure Partner",
+      "description": "Life with you is never boring. Your match is someone who lives for excitement - like Jack Sparrow, Han Solo, or Dmitri - spontaneous, daring, and always up for the next thrill.",
+      "examples": ["Jack Sparrow (Pirates of the Caribbean)", "Han Solo (Star Wars)", "Dmitri (The Last Song)"]
+    },
+    "bad_boy": {
+      "title": "The Bad Boy with a Heart",
+      "description": "You love the thrill of taming a wild heart. Your match has an edge - like Draco Malfoy, Mr. Grey, or Beast - secretly soft beneath the tough exterior.",
+      "examples": ["Draco Malfoy (Harry Potter)", "Christian Grey (Fifty Shades)", "Beast (Beauty and the Beast)"]
+    },
+    "intellectual": {
+      "title": "The Intellectual Equal",
+      "description": "You need someone who can match your mind. Your match is a brilliant soul like Dr. Strange, Sherlock, or Edward Cullen - smart, sophisticated, and forever intriguing.",
+      "examples": ["Dr. Strange (Marvel)", "Sherlock Holmes", "Edward Cullen (Twilight)"]
+    },
+    "sweet_nerd": {
+      "title": "The Sweet Nerd",
+      "description": "Your perfect match is adorably awkward and genuinely kind. Think Ron Weasley, Ted Mosby, or Pete L. - lovable, loyal, and always putting a smile on your face.",
+      "examples": ["Ron Weasley (Harry Potter)", "Ted Mosby (How I Met Your Mother)", "Pete L. (The Last Song)"]
     }
   }
 }

@@ -1,398 +1,125 @@
 {
-  "quizId": 29,
-  "title": "你有多文艺?",
-  "category": "degree",
-  "category_name": "How [Adjective] Are You?",
-  "language": "English",
-  "description": "发现你的文艺程度！回答12个问题，找出你的文艺指数。",
-  "tags": [
-    "Indie",
-    "Music",
-    "Culture",
-    "Lifestyle",
-    "Personality",
-    "文艺",
-    "独立音乐",
-    "生活方式"
-  ],
+  "id": "quiz_29",
+  "type": "match",
+  "title": "哪种虚构角色是你的灵魂伴侣？",
+  "description": "根据你的性格和偏好，发现哪个虚构角色是你理想的浪漫伴侣。",
   "questions": [
     {
-      "qId": 1,
-      "text": "你的音乐播放列表主要是...",
+      "id": "q1",
+      "text": "你理想中的浪漫约会是什么？",
       "options": [
-        {
-          "text": "没人听过的地下独立乐队",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "独立音乐和主流歌手的混合",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "流行歌曲，但听到好听的也会欣赏",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "热门歌曲和流行榜单",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "在星空下享用安静的晚餐", "scores": {"romantic_hero": 3, "adventure_partner": 1}},
+        {"text": "一起去异国他乡旅行探险", "scores": {"adventure_partner": 3, "soulmate_artist": 1}},
+        {"text": "一起在家看电影吃爆米花", "scores": {"soulmate_artist": 3, "protective_hero": 1}},
+        {"text": "一场差点被抓的刺激冒险", "scores": {"bad_boy": 3, "adventure_partner": 1}}
       ]
     },
     {
-      "qId": 2,
-      "text": "选择咖啡店时，你更喜欢...",
+      "id": "q2",
+      "text": "你如何表达爱意？",
       "options": [
-        {
-          "text": "一家没有WiFi、审美独特的隐藏小店",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "一家有特色的本地咖啡馆",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "一个不太拥挤的舒适场所",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "最方便的那一家",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "通过浪漫的举动和保护的承诺", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "通过深入交流和理解", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "通过冲动和惊喜", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "通过日常的细心关怀", "scores": {"sweet_nerd": 3, "protective_hero": 1}}
       ]
     },
     {
-      "qId": 3,
-      "text": "你的穿搭风格可以说是...",
+      "id": "q3",
+      "text": "什么最吸引你？",
       "options": [
-        {
-          "text": "二手店淘的古着单品",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "波西米亚风格，带有艺术气息",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "休闲但有独特的细节",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "舒适实用为主",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "强大而有保护欲的气质", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "创造力和情感的深度", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "危险感和刺激感", "scores": {"bad_boy": 3, "adventure_partner": 1}},
+        {"text": "才智和机智的谈吐", "scores": {"intellectual": 3, "sweet_nerd": 1}}
       ]
     },
     {
-      "qId": 4,
-      "text": "看电影时，你通常选择...",
+      "id": "q4",
+      "text": "你在感情中最大的恐惧是什么？",
       "options": [
-        {
-          "text": "外国电影和独立纪录片",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "叙事独特的独立电影",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "主流和艺术电影的平衡",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "大片和热门IP",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "被背叛或抛弃", "scores": {"romantic_hero": 2, "protective_hero": 2}},
+        {"text": "情感上感到疏离", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "生活无聊且可预测", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "不被理解或欣赏", "scores": {"sweet_nerd": 2, "intellectual": 2}}
       ]
     },
     {
-      "qId": 5,
-      "text": "理想的周末活动是...",
+      "id": "q5",
+      "text": "如果你的伴侣需要你，你会怎么做？",
       "options": [
-        {
-          "text": "探索新城市或参加地下演出",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "逛本地市集或艺术展",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "和朋友在轻松的地方聚会",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "在家看电影或逛商场",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "放下一切立刻赶到他们身边", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "为他们写一封真挚的信或一首歌", "scores": {"soulmate_artist": 3}},
+        {"text": "计划一场史诗般的冒险", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "研究解决方案并实际帮助他们", "scores": {"sweet_nerd": 3, "intellectual": 1}}
       ]
     },
     {
-      "qId": 6,
-      "text": "关于阅读，你喜欢...",
+      "id": "q6",
+      "text": "你的沟通风格是什么？",
       "options": [
-        {
-          "text": "小众小说和先锋文学",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "当代小说和回忆录",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "根据心情选择不同类型",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "畅销书和流行小说",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "直接诚实，有时有点直率", "scores": {"protective_hero": 2, "bad_boy": 2}},
+        {"text": "诗意且情感丰富", "scores": {"soulmate_artist": 3}},
+        {"text": "俏皮的调侃和幽默", "scores": {"adventure_partner": 2, "sweet_nerd": 2}},
+        {"text": "深思熟虑且分析性强", "scores": {"intellectual": 3, "sweet_nerd": 1}}
       ]
     },
     {
-      "qId": 7,
-      "text": "你的社交媒体状态是...",
+      "id": "q7",
+      "text": "你在伴侣身上最看重什么？",
       "options": [
-        {
-          "text": "几乎不用社交媒体，或只发小众艺术",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "分享创意内容但不太频繁",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "活跃但不太在意粉丝数量",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "非常活跃，定期更新",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "忠诚和奉献", "scores": {"romantic_hero": 3, "protective_hero": 1}},
+        {"text": "激情和情感连接", "scores": {"soulmate_artist": 3, "bad_boy": 1}},
+        {"text": "冒险精神和 spontaneity", "scores": {"adventure_partner": 3}},
+        {"text": "理解和接纳", "scores": {"intellectual": 2, "sweet_nerd": 2}}
       ]
     },
     {
-      "qId": 8,
-      "text": "旅行时，你更喜欢...",
+      "id": "q8",
+      "text": "你如何处理冲突？",
       "options": [
-        {
-          "text": "小众目的地",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "本地社区而非景点",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "热门景点和小众地方的平衡",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "著名地标和热门目的地",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 9,
-      "text": "你发现新音乐的主要方式是...",
-      "options": [
-        {
-          "text": "小众唱片店和Bandcamp",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "Spotify播放列表和音乐博客",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "朋友推荐",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "电台和主流榜单",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 10,
-      "text": "朋友问餐厅推荐时，你会说...",
-      "options": [
-        {
-          "text": "一家藏在巷子里但超好吃的店",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "一家有特色的本地餐厅",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "一个不错的选择，不太贵",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "城里最火的那家",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 11,
-      "text": "你对爱好的态度是...",
-      "options": [
-        {
-          "text": "收集小众技能和冷门兴趣",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "喜欢创意和动手的活动",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "主流和小众爱好都有",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "喜欢流行且容易上手的爱好",
-          "score": {
-            "indie": 0
-          }
-        }
-      ]
-    },
-    {
-      "qId": 12,
-      "text": "当别人问你的'风格'是什么，你会说...",
-      "options": [
-        {
-          "text": "Lo-fi beats to relax/study to",
-          "score": {
-            "indie": 3
-          }
-        },
-        {
-          "text": "艺术、自由的灵魂",
-          "score": {
-            "indie": 2
-          }
-        },
-        {
-          "text": "随和、适应性强",
-          "score": {
-            "indie": 1
-          }
-        },
-        {
-          "text": "潮流、紧跟热点",
-          "score": {
-            "indie": 0
-          }
-        }
+        {"text": "变得过度保护或占有欲强", "scores": {"protective_hero": 3, "romantic_hero": 1}},
+        {"text": "退一步私下处理情绪", "scores": {"soulmate_artist": 3, "intellectual": 1}},
+        {"text": "先道歉但提议一场冒险", "scores": {"adventure_partner": 3, "bad_boy": 1}},
+        {"text": "理性地分析问题", "scores": {"intellectual": 3, "sweet_nerd": 1}}
       ]
     }
   ],
   "results": {
-    "0-10": {
-      "title": "主流达人",
-      "description": "你完全走在主流前沿！你喜欢流行的东西，这完全没问题。你的品味容易被接受，你知道自己想要什么。喜欢流行的东西没什么不对——它们流行是有原因的！"
+    "romantic_hero": {
+      "title": "浪漫英雄",
+      "description": "你的理想伴侣是经典的浪漫英雄——想想达西先生、白马王子或杰米·弗雷泽。他们忠诚、浪漫，坚信经得起时间考验的伟大爱情。",
+      "examples": ["达西先生（《傲慢与偏见》）", "埃里克王子（《小美人鱼》）", "杰米·弗雷泽（《外乡人》）"]
     },
-    "11-20": {
-      "title": "文艺探索者",
-      "description": "你一只脚在主流，一只脚在独立世界。你愿意发现新事物，但也会欣赏好听的流行歌曲。你是连接两个世界的完美桥梁！"
+    "protective_hero": {
+      "title": "保护型英雄",
+      "description": "你需要的是一个永远把你放在首位的伴侣。你的匹配对象是美国队长或冉阿让——坚强、可靠，随时愿意保护你。",
+      "examples": ["美国队长（漫威）", "冉阿让（《悲惨世界》）", "雷神（漫威）"]
     },
-    "21-30": {
-      "title": "文艺青年",
-      "description": "你有浓厚的文艺气息！你欣赏独特，经常寻找主流之外的选择。你的朋友们可能会向你寻求小众推荐。"
+    "soulmate_artist": {
+      "title": "灵魂艺术家",
+      "description": "你渴望深层的情感连接。你的另一半是富有创造力的灵魂，如杰克·道森、克里斯蒂安·格雷或《吸血鬼日记》的Damon——强烈、热情，且浪漫得让人心碎。",
+      "examples": ["杰克·道森（《泰坦尼克号》）", "克里斯蒂安·格雷（《五十度灰》）", "达蒙·萨瓦特（《吸血鬼日记》）"]
     },
-    "31-36": {
-      "title": "文艺icon",
-      "description": "你是文艺的定义者！你的品味无可挑剔，你的推荐是传奇，你可能比大多数人拥有更多的黑胶唱片。在做真实的自己这方面，你是别人想要成为的人。"
+    "adventure_partner": {
+      "title": "冒险伙伴",
+      "description": "和你在一起，生活永远不会无聊。你的伴侣是热爱刺激的人——如杰克·斯帕罗、汉·索罗或德米特里—— spontaneous、勇敢，永远准备迎接下一次冒险。",
+      "examples": ["杰克·斯帕罗（《加勒比海盗》）", "汉·索罗（《星球大战》）", "德米特里（《最后的歌》）"]
+    },
+    "bad_boy": {
+      "title": "内心柔软的坏男孩",
+      "description": "你喜欢驯服野马的刺激感。你的伴侣有点坏坏的——如德拉科·格雷，或野兽——在坚强的外表下其实柔软。",
+      "examples": ["德拉科·马尔福（《哈利·波特》）", "克里斯蒂安·格雷（《五十度灰》）", "野兽（《美女与野兽》）"]
+    },
+    "intellectual": {
+      "title": "智识相当的伴侣",
+      "description": "你需要能与你思想匹配的人。你的另一半是聪明的灵魂，如奇异博士、夏洛克或爱德华·卡伦——聪明、优雅、永远令人着迷。",
+      "examples": ["奇异博士（漫威）", "夏洛克·福尔摩斯", "爱德华·卡伦（《暮光之城》）"]
+    },
+    "sweet_nerd": {
+      "title": "甜心书呆子",
+      "description": "你的理想伴侣是可爱又呆萌的类型。想想罗恩·韦斯利、泰德·莫斯比或皮特——可爱、忠诚，总能让你笑逐颜开。",
+      "examples": ["罗恩·韦斯利（《哈利·波特》）", "泰德·莫斯比（《老爸老妈的浪漫史》）", "皮特（《最后的歌》）"]
     }
   }
 }
