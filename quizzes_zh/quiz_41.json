@@ -1,0 +1,178 @@
+{
+  "quizId": 41,
+  "title": "你的灵魂星球是哪一颗？",
+  "type": "match",
+  "category": "match",
+  "category_name": "配对/灵魂伴侣",
+  "language": "Chinese",
+  "description": "发现宇宙中哪颗星球与你独特的个性和能量最匹配！",
+  "tags": [
+    "太空",
+    "星球",
+    "灵魂伴侣",
+    "配对",
+    "人格",
+    "宇宙",
+    "星象",
+    "Space",
+    "Planet",
+    "Soulmate"
+  ],
+  "resultTitle": "你的灵魂星球",
+  "results": {
+    "mars": {
+      "title": "火星 - 战神星球",
+      "description": "你勇敢、有野心，随时准备迎接挑战。像火星一样，你散发着能量和决心。你有竞争力，但对所爱的人极其忠诚。你的驱动力推动你前进，你从不害怕追求自己想要的东西。"
+    },
+    "venus": {
+      "title": "金星 - 爱神星球",
+      "description": "你重视和谐、美感和联系。像金星一样，你有一颗艺术灵魂，欣赏生活中美好的事物。你浪漫、善于外交，在人际关系中茁壮成长。你的温暖吸引人们靠近你。"
+    },
+    "mercury": {
+      "title": "水星 - 信使星球",
+      "description": "你好奇、反应敏捷，总是充满交流。像水星一样，你适应力强，喜欢学习新事物。你是聚会中的焦点，拥有幽默感和智慧。想法在你身上轻松流淌。"
+    },
+    "jupiter": {
+      "title": "木星 - 探险家星球",
+      "description": "你有着乐观、拓展的精神。像木星一样，你热爱冒险、旅行和新体验。你是终身学习者，始终寻求成长和智慧。你的热情感染着身边的每一个人。"
+    },
+    "saturn": {
+      "title": "土星 - 建设者星球",
+      "description": "你有纪律、有责任感，成熟超出你的年龄。像土星一样，你重视结构和长期目标。你有耐心，明白努力工作会带来持久的回报。其他人依靠你获得稳定和指导。"
+    },
+    "neptune": {
+      "title": "海王星 - 梦想家星球",
+      "description": "你拥有富有想象力和直觉的灵魂。像海王星一样，你生活在梦想和精神的世界里。你富有创造力、富有同情心，与内心深处紧密相连。艺术和音乐对你有深刻的意义。"
+    },
+    "uranus": {
+      "title": "天王星 - 叛逆者星球",
+      "description": "你 unconventional、创新、领先于时代。像天王星一样，你在变化和原创想法中茁壮成长。你不怕脱颖而出。你独特的视角挑战常规，激励他人。"
+    },
+    "moon": {
+      "title": "月亮 - 守护者",
+      "description": "你有着情感丰富、善于照顾他人的精神。像月亮一样，你直觉敏锐，与自己和他人的感受深切相连。你为周围的人创造舒适和安全。你的同理心是你最大的优点。"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你如何处理冲突？",
+      "options": [
+        { "text": "直面它，为我所相信的而战", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "寻求和谐，尽量找到折中方案", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "用逻辑来调解并找到解决方案", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "退后一步，先处理我的情绪", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 3 } }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "你理想的周末是怎样的？",
+      "options": [
+        { "text": "开始一个新项目或挑战自我", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "浪漫的晚餐或艺术活动", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
+        { "text": "学习新东西或参加讲座", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
+        { "text": "在家放松，和亲人在一起", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "什么最能激励你？",
+      "options": [
+        { "text": "成就和胜利", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "爱和联系", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "知识和交流", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
+        { "text": "成长和新体验", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 3, "saturn": 1, "neptune": 2, "uranus": 2, "moon": 0 } }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你如何做决定？",
+      "options": [
+        { "text": "快速，凭直觉", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 1 } },
+        { "text": "用心，考虑感受", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "仔细分析后做决定", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 1, "saturn": 3, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "相信我的直觉和梦想", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 2 } }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "你在人生中最看重什么？",
+      "options": [
+        { "text": "独立和自由", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 3, "moon": 0 } },
+        { "text": "美和愉悦", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
+        { "text": "智慧和纪律", "score": { "mars": 1, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 3, "neptune": 1, "uranus": 1, "moon": 0 } },
+        { "text": "情感和精神联系", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "别人如何描述你？",
+      "options": [
+        { "text": "勇敢、热情、坚定", "score": { "mars": 3, "venus": 0, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "迷人、浪漫、有艺术气质", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
+        { "text": "聪明、好奇、机智", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "直觉强、梦幻、富有同情心", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 0, "moon": 2 } }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "你喜欢什么配色？",
+      "options": [
+        { "text": "大胆的红色和火热的橙色", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "柔和的粉色和浪漫的蓝色", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 0, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "明亮的黄色和电光蓝", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
+        { "text": "深紫色和神秘的银色", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 2, "neptune": 3, "uranus": 1, "moon": 1 } }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "你对待规则的态度？",
+      "options": [
+        { "text": "挑战它们，走自己的路", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
+        { "text": "欣赏传统和结构", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 1, "saturn": 3, "neptune": 1, "uranus": 0, "moon": 1 } },
+        { "text": "调整它们以适应我的风格", "score": { "mars": 2, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "跟随情感上感觉正确的东西", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "什么吸引你靠近一个人？",
+      "options": [
+        { "text": "他们的野心和动力", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "他们的善良和温暖", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "他们的智慧和想法", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "他们的深度和情感联系", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 2 } }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "你如何面对失败？",
+      "options": [
+        { "text": "变得更强大、更有决心归来", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "专注于自我照顾和情感治愈", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } },
+        { "text": "分析问题所在并学习", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "把它视为精神旅程中的一课", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 1 } }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你理想假期是？",
+      "options": [
+        { "text": "冒险远征", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "去巴黎浪漫 getaway", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "历史文化之旅", "score": { "mars": 1, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 2, "neptune": 1, "uranus": 0, "moon": 0 } },
+        { "text": "在自然中静修", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "你在团队中扮演什么角色？",
+      "options": [
+        { "text": "掌控局面的领导者", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "维持和平的调解者", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 1, "uranus": 0, "moon": 2 } },
+        { "text": "连接大家的沟通者", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "用愿景激励他人的梦想家", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 1 } }
+      ]
+    }
+  ]
+}

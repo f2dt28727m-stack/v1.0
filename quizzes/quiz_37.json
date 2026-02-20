@@ -1,165 +1,178 @@
 {
   "quizId": 37,
-  "title": "Your Celestial Soulmate",
+  "title": "Which Planet Is Your Soulmate?",
+  "type": "match",
   "category": "match",
   "category_name": "Match / Soulmate",
   "language": "English",
-  "description": "Look up at the stars! Answer 12 questions to discover which celestial being is your cosmic soulmate—from ancient gods to distant planets.",
+  "description": "Discover which planet in the universe matches your unique personality and energy!",
   "tags": [
-    "Celestial",
+    "Space",
+    "Planet",
     "Soulmate",
-    "Stars",
-    "Astrology",
-    "Mythology",
+    "Match",
+    "Personality",
     "Cosmic",
-    "Fun"
+    "Astrology",
+    "星空",
+    "星球",
+    "灵魂伴侣"
   ],
+  "resultTitle": "Your Soul Planet",
+  "results": {
+    "mars": {
+      "title": "Mars - The Warrior Planet",
+      "description": "You're bold, ambitious, and always ready for a challenge. Like Mars, you radiate energy and determination. You're competitive but also fiercely loyal to those you love. Your drive pushes you forward, and you're never afraid to go after what you want."
+    },
+    "venus": {
+      "title": "Venus - The Lover Planet",
+      "description": "You value harmony, beauty, and connection. Like Venus, you have an artistic soul and appreciate the finer things in life. You're romantic, diplomatic, and thrive in relationships. Your warmth draws people to you."
+    },
+    "mercury": {
+      "title": "Mercury - The Messenger Planet",
+      "description": "You're curious, quick-witted, and always communicating. Like Mercury, you adapt easily and love learning new things. You're the life of the party with your humor and intellectual nature. Ideas flow through you effortlessly."
+    },
+    "jupiter": {
+      "title": "Jupiter - The Explorer Planet",
+      "description": "You have an optimistic, expansive spirit. Like Jupiter, you love adventure, travel, and new experiences. You're a lifelong learner who always seeks growth and wisdom. Your enthusiasm is contagious to everyone around you."
+    },
+    "saturn": {
+      "title": "Saturn - The Builder Planet",
+      "description": "You're disciplined, responsible, and wise beyond your years. Like Saturn, you value structure and long-term goals. You're patient and understand that hard work leads to lasting rewards. Others look to you for stability and guidance."
+    },
+    "neptune": {
+      "title": "Neptune - The Dreamer Planet",
+      "description": "You have an imaginative, intuitive soul. Like Neptune, you live in a world of dreams and spirituality. You're creative, compassionate, and deeply connected to your inner self. Art and music speak to your soul in profound ways."
+    },
+    "uranus": {
+      "title": "Uranus - The Rebel Planet",
+      "description": "You're unconventional, innovative, and ahead of your time. Like Uranus, you thrive on change and original ideas. You're not afraid to stand out from the crowd. Your unique perspective challenges the norm and inspires others."
+    },
+    "moon": {
+      "title": "The Moon - The Nurturer",
+      "description": "You have an emotional, nurturing spirit. Like the Moon, you're intuitive and deeply connected to your feelings and the feelings of others. You create comfort and security for those around you. Your empathy is your greatest strength."
+    }
+  },
   "questions": [
     {
       "qId": 1,
-      "text": "Your ideal night out is...",
+      "text": "How do you handle conflicts?",
       "options": [
-        { "text": "Stargazing in a quiet meadow", "score": "moon" },
-        { "text": "Dancing under the aurora borealis", "score": "aurora" },
-        { "text": "A lively rooftop party until dawn", "score": "sun" },
-        { "text": "Exploring an ancient temple at midnight", "score": "star" }
+        { "text": "I face them head-on and fight for what I believe", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "I seek harmony and try to find middle ground", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "I use logic to mediate and find solutions", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "I step back and process my emotions first", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 3 } }
       ]
     },
     {
       "qId": 2,
-      "text": "When you face a challenge, you...",
+      "text": "What's your ideal weekend?",
       "options": [
-        { "text": "Shine brightest and lead the way", "score": "sun" },
-        { "text": "Adapt and flow like the tides", "score": "moon" },
-        { "text": "Burn with passionate intensity", "score": "aurora" },
-        { "text": "Twinkle patiently and wait for your moment", "score": "star" }
+        { "text": "Starting a new project or challenging myself", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "A romantic dinner or artistic outing", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
+        { "text": "Learning something new or attending a talk", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
+        { "text": "Relaxing at home with loved ones", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
       ]
     },
     {
       "qId": 3,
-      "text": "People describe your energy as...",
+      "text": "What motivates you most?",
       "options": [
-        { "text": "Warm and radiant", "score": "sun" },
-        { "text": "Mysterious and deep", "score": "moon" },
-        { "text": "Ethereal and otherworldly", "score": "aurora" },
-        { "text": "Timeless and wise", "score": "star" }
+        { "text": "Achievement and winning", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "Love and connection", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "Knowledge and communication", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
+        { "text": "Growth and new experiences", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 3, "saturn": 1, "neptune": 2, "uranus": 2, "moon": 0 } }
       ]
     },
     {
       "qId": 4,
-      "text": "Your ideal vacation destination is...",
+      "text": "How do you make decisions?",
       "options": [
-        { "text": "A tropical island with clear skies", "score": "sun" },
-        { "text": "The mountains under a full moon", "score": "moon" },
-        { "text": "Iceland to see the northern lights", "score": "aurora" },
-        { "text": "A remote desert for star-gazing", "score": "star" }
+        { "text": "Quickly, based on instinct", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 1 } },
+        { "text": "With my heart, considering feelings", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "After careful analysis and research", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 1, "saturn": 3, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "I trust my intuition and dreams", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 2 } }
       ]
     },
     {
       "qId": 5,
-      "text": "In relationships, you are...",
+      "text": "What do you value most in life?",
       "options": [
-        { "text": "The passionate flame that never dims", "score": "sun" },
-        { "text": "The steady light guiding them home", "score": "moon" },
-        { "text": "A magical experience they'll never forget", "score": "aurora" },
-        { "text": "A timeless connection across lifetimes", "score": "star" }
+        { "text": "Independence and freedom", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 3, "moon": 0 } },
+        { "text": "Beauty and pleasure", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
+        { "text": "Wisdom and discipline", "score": { "mars": 1, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 3, "neptune": 1, "uranus": 1, "moon": 0 } },
+        { "text": "Emotion and spiritual connection", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } }
       ]
     },
     {
       "qId": 6,
-      "text": "Your aesthetic could be described as...",
+      "text": "How do others describe you?",
       "options": [
-        { "text": "Golden hour, warm and golden", "score": "sun" },
-        { "text": "Silver moonlight, soft and mysterious", "score": "moon" },
-        { "text": "Iridescent, shifting colors", "score": "aurora" },
-        { "text": "Classic black and white, eternal", "score": "star" }
+        { "text": "Bold, passionate, and determined", "score": { "mars": 3, "venus": 0, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "Charming, romantic, and artistic", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
+        { "text": "Clever, curious, and witty", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "Intuitive, dreamy, and compassionate", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 0, "moon": 2 } }
       ]
     },
     {
       "qId": 7,
-      "text": "When you love, you love...",
+      "text": "Pick a color palette:",
       "options": [
-        { "text": "Fiercely and openly", "score": "sun" },
-        { "text": "Deeply and quietly", "score": "moon" },
-        { "text": "Like it's magic", "score": "aurora" },
-        { "text": "Forever and always", "score": "star" }
+        { "text": "Bold reds and fiery oranges", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "Soft pinks and romantic blues", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 0, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "Bright yellows and electric blues", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
+        { "text": "Deep purples and mystic silvers", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 2, "neptune": 3, "uranus": 1, "moon": 1 } }
       ]
     },
     {
       "qId": 8,
-      "text": "Your power animal would be...",
+      "text": "What's your approach to rules?",
       "options": [
-        { "text": "Lion - bold and brave", "score": "sun" },
-        { "text": "Owl - wise and observant", "score": "moon" },
-        { "text": "Phoenix - magical and reborn", "score": "aurora" },
-        { "text": "Wolf - loyal and eternal", "score": "star" }
+        { "text": "I challenge them and forge my own path", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
+        { "text": "I appreciate tradition and structure", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 1, "saturn": 3, "neptune": 1, "uranus": 0, "moon": 1 } },
+        { "text": "I adapt them to fit my style", "score": { "mars": 2, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "I follow what feels right emotionally", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } }
       ]
     },
     {
       "qId": 9,
-      "text": "Your philosophy in life is...",
+      "text": "What draws you to a person?",
       "options": [
-        { "text": "Shine your light for all to see", "score": "sun" },
-        { "text": "Flow with the universe's rhythm", "score": "moon" },
-        { "text": "Believe in magic and miracles", "score": "aurora" },
-        { "text": "Stars are eternal, so is the soul", "score": "star" }
+        { "text": "Their ambition and drive", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "Their kindness and warmth", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "Their intelligence and ideas", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "Their depth and emotional connection", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 2 } }
       ]
     },
     {
       "qId": 10,
-      "text": "If you were a season, you'd be...",
+      "text": "How do you handle failure?",
       "options": [
-        { "text": "Summer - vibrant and energetic", "score": "sun" },
-        { "text": "Winter - quiet and reflective", "score": "moon" },
-        { "text": "Spring - full of wonder", "score": "aurora" },
-        { "text": "Autumn - beautifully transitional", "score": "star" }
+        { "text": "I come back stronger and more determined", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "I focus on self-care and emotional healing", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } },
+        { "text": "I analyze what went wrong and learn", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "I see it as a lesson in my spiritual journey", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 1 } }
       ]
     },
     {
       "qId": 11,
-      "text": "Your message to the universe...",
+      "text": "Pick a dream vacation:",
       "options": [
-        { "text": "Let me shine and inspire others", "score": "sun" },
-        { "text": "Guide me on my journey home", "score": "moon" },
-        { "text": "Show me the magic in everything", "score": "aurora" },
-        { "text": "Remember me among the infinite stars", "score": "star" }
+        { "text": "An adventurous expedition", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "A romantic escape to Paris", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
+        { "text": "A cultural tour of historical sites", "score": { "mars": 1, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 2, "neptune": 1, "uranus": 0, "moon": 0 } },
+        { "text": "A peaceful retreat in nature", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
       ]
     },
     {
       "qId": 12,
-      "text": "What draws you to the cosmos?",
+      "text": "What role do you play in a group?",
       "options": [
-        { "text": "The light and warmth it provides", "score": "sun" },
-        { "text": "The mystery and secrets it holds", "score": "moon" },
-        { "text": "The breathtaking beauty and wonder", "score": "aurora" },
-        { "text": "The timelessness and infinity", "score": "star" }
+        { "text": "The leader who takes charge", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
+        { "text": "The mediator who keeps peace", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 1, "uranus": 0, "moon": 2 } },
+        { "text": "The communicator who connects everyone", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
+        { "text": "The dreamer who inspires with visions", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 1 } }
       ]
-    }
-  ],
-  "results": [
-    {
-      "result_id": "sun",
-      "title": "The Sun",
-      "description": "Your celestial soulmate is THE SUN - the golden heart of the solar system! Like the sun, you are vibrant, energetic, and bring warmth to everyone around you. You're a natural leader who shines brightest when taking action. Your glow inspires others, and your passion burns eternal. People are drawn to your warmth and radiance.",
-      "image": "☀️"
-    },
-    {
-      "result_id": "moon",
-      "title": "The Moon",
-      "description": "Your celestial soulmate is THE MOON - the gentle guardian of the night! Like the moon, you bring calm and comfort to those around you. You're intuitive, emotional, and incredibly nurturing. Your light may be softer, but it guides people through the darkest nights. You flow with life's tides while staying true to yourself.",
-      "image": "🌙"
-    },
-    {
-      "result_id": "aurora",
-      "title": "The Aurora Borealis",
-      "description": "Your celestial soulmate is THE AURORA BOREALIS - nature's most magical light show! You're a dreamer who sees magic in the ordinary. Your presence is ethereal and enchanting, leaving everyone around you spellbound. You bring wonder and color to a gray world. Like the northern lights, you're rare, beautiful, and utterly unique.",
-      "image": "🌌"
-    },
-    {
-      "result_id": "star",
-      "title": "The North Star",
-      "description": "Your celestial soulmate is THE NORTH STAR - the eternal guide for lost travelers! You're wise beyond your years, with a timeless quality that draws others to you. Like the star that never wavers, you're reliable, constant, and always point the way. Your connection with others transcends time and space.",
-      "image": "⭐"
     }
   ]
 }
