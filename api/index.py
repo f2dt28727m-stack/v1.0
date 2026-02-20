@@ -4,13 +4,30 @@ import random
 import hashlib
 import os
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Try multiple possible paths
+possible_dirs = [
+    os.path.dirname(os.path.abspath(__file__)),
+    '/var/task',
+    os.getcwd()
+]
+
+BASE_DIR = None
+for d in possible_dirs:
+    if os.path.exists(os.path.join(d, 'quizzes')):
+        BASE_DIR = d
+        break
+
+if BASE_DIR is None:
+    BASE_DIR = possible_dirs[0]
 
 # Load quizzes at cold start
 _quizzes = {}
+_config = {}
 try:
-    with open(os.path.join(BASE_DIR, 'config.json')) as f:
-        _config = json.load(f)
+    config_path = os.path.join(BASE_DIR, 'config.json')
+    if os.path.exists(config_path):
+        with open(config_path) as f:
+            _config = json.load(f)
     
     quizzes_dir = os.path.join(BASE_DIR, 'quizzes')
     if os.path.exists(quizzes_dir):
@@ -22,7 +39,8 @@ try:
                         _quizzes[qid] = json.load(fp)
                 except Exception as e:
                     print(f"Error loading {f}: {e}")
-    print(f"Loaded {len(_quizzes)} quizzes")
+    print(f"Loaded {len(_quizzes)} quizzes from {quizzes_dir}")
+    print(f"Quiz IDs: {list(_quizzes.keys())[:5]}")
 except Exception as e:
     print(f"Init error: {e}")
 
