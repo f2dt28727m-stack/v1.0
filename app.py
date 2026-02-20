@@ -8,11 +8,10 @@ app = Flask(__name__, static_folder='static')
 
 # Detect Vercel environment
 IS_VERCEL = os.environ.get('VERCEL', '') == '1'
-VERCEL_OUTPUT_DIR = os.environ.get('VERCEL_OUTPUT_DIR', '/var/task')
 
-# Get the correct base directory
+# Get the correct base directory for Vercel
 if IS_VERCEL:
-    BASE_DIR = VERCEL_OUTPUT_DIR
+    BASE_DIR = '/var/task'
 else:
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 

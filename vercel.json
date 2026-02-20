@@ -4,49 +4,8 @@
       "src": "app.py",
       "use": "@vercel/python",
       "config": {
-        "runtime": "python3.9",
-        "maxDuration": 60
+        "runtime": "python3.9"
       }
-    },
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "quiz.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "quiz-detail.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "quizzes/",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "static/",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "css/",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "js/",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "data/",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "onequiz.json",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "config.json",
-      "use": "@vercel/static"
     }
   ],
   "routes": [
@@ -55,8 +14,12 @@
       "dest": "/app.py"
     },
     {
+      "src": "/",
+      "dest": "/app.py"
+    },
+    {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "/app.py"
     }
   ]
 }
