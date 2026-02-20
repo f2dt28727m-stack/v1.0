@@ -1,0 +1,398 @@
+{
+  "quizId": 29,
+  "title": "How Indie Are You?",
+  "category": "degree",
+  "category_name": "How [Adjective] Are You?",
+  "language": "English",
+  "description": "Discover just how indie your personality is! Answer 12 questions to find out your indie quotient.",
+  "tags": [
+    "Indie",
+    "Music",
+    "Culture",
+    "Lifestyle",
+    "Personality",
+    "文艺",
+    "独立音乐",
+    "生活方式"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Your music playlist mostly consists of...",
+      "options": [
+        {
+          "text": "Underground indie bands no one has heard of",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "A mix of indie and mainstream artists",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "Popular artists but I appreciate good music when I hear it",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Top 40 hits and trending songs",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When choosing a coffee shop, you prefer...",
+      "options": [
+        {
+          "text": "A hidden gem with no WiFi and questionable aesthetics",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "A local café with character",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "A cozy spot that isn't too crowded",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Whatever is most convenient",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your fashion style could be described as...",
+      "options": [
+        {
+          "text": "Thrift store finds and vintage pieces",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Bohemian with artistic flair",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "Casual but with unique touches",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Whatever is comfortable and practical",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When watching movies, you usually choose...",
+      "options": [
+        {
+          "text": "Foreign films and indie documentaries",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Independent films with unique storytelling",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "A good mix of mainstream and art-house",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Blockbusters and popular franchises",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your ideal weekend activity would be...",
+      "options": [
+        {
+          "text": "Exploring a new city or attending a underground show",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Visiting a local market or art gallery",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "Spending time with friends at a laid-back spot",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Watching movies at home or shopping at the mall",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When it comes to books, you read...",
+      "options": [
+        {
+          "text": "Obscure novels and avant-garde literature",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Contemporary fiction and memoirs",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "A variety of genres depending on my mood",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Best-sellers and popular fiction",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Your social media presence is...",
+      "options": [
+        {
+          "text": "I barely use social media, or I post obscure art",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "I share creative content but not too frequently",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "Active but not obsessed with follower counts",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Very active with regular updates",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When traveling, you prefer...",
+      "options": [
+        {
+          "text": "Off-the-beaten-path destinations",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Local neighborhoods over tourist areas",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "A balance of popular spots and hidden gems",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Famous landmarks and popular destinations",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Your favorite way to discover new music is through...",
+      "options": [
+        {
+          "text": "Small record stores and bandcamp",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Spotify playlists and music blogs",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "Friends recommendations",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Radio and mainstream charts",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When friends ask for restaurant recommendations, you suggest...",
+      "options": [
+        {
+          "text": "A hole-in-the-wall with amazing food",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "A unique local restaurant",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "A solid choice that's not too fancy",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "The most popular place in town",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your approach to hobbies is...",
+      "options": [
+        {
+          "text": "I collect unusual skills and niche interests",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "I enjoy creative and hands-on activities",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "I have a mix of mainstream and unique hobbies",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "I stick to popular and accessible hobbies",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When someone asks what your 'vibe' is, you would say...",
+      "options": [
+        {
+          "text": "Lo-fi beats to relax/study to",
+          "score": {
+            "indie": 3
+          }
+        },
+        {
+          "text": "Artistic, free-spirited",
+          "score": {
+            "indie": 2
+          }
+        },
+        {
+          "text": "Easy-going and adaptable",
+          "score": {
+            "indie": 1
+          }
+        },
+        {
+          "text": "Trendy and up-to-date",
+          "score": {
+            "indie": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "0-10": {
+      "title": "Mainstream Maven",
+      "description": "You're firmly in the mainstream! You enjoy what's popular and that's perfectly fine. Your tastes are accessible and you know what you like. There's nothing wrong with enjoying the popular stuff - it's popular for a reason!"
+    },
+    "11-20": {
+      "title": "Indie Curious",
+      "description": "You have one foot in the mainstream and one in the indie world. You're open to discovering new things but also appreciate a good pop song. You're the perfect bridge between worlds!"
+    },
+    "21-30": {
+      "title": "Indie Spirit",
+      "description": "You've got a solid indie streak! You appreciate uniqueness and often seek out alternatives to the mainstream. Your friends probably come to you for recommendations on hidden gems."
+    },
+    "31-36": {
+      "title": "Indie Icon",
+      "description": "You are the definition of indie! Your taste is impeccable, your recommendations are legendary, and you probably own more vinyl than most. You're the person others aspire to be when it comes to being authentically you."
+    }
+  }
+}
