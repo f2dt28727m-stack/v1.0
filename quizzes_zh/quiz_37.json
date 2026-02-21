@@ -1,165 +1,548 @@
 {
   "quizId": 37,
-  "title": "你的星际灵魂伴侣",
-  "category": "match",
-  "category_name": "配对/灵魂伴侣",
+  "title": "哪位韩剧男主角是你的灵魂伴侣？",
+  "category": "soulmate",
+  "category_name": "Soulmate / 配对型",
   "language": "中文",
-  "description": "仰望星空！回答12道题，发现你的宇宙灵魂伴侣是谁——从古老神祇到遥远星球。",
+  "description": "准备好找到你的完美韩剧CP了吗？根据你的性格、价值观和约会偏好回答12个问题，发现哪位韩剧男主角是你的灵魂伴侣！",
   "tags": [
-    "星际",
+    "韩剧",
+    "韩剧男主角",
     "灵魂伴侣",
-    "星空",
-    "占星",
-    "神话",
-    "宇宙",
-    "趣味"
+    "恋爱",
+    "MBTI",
+    "韩流"
   ],
   "questions": [
     {
       "qId": 1,
-      "text": "你理想的夜晚外出是...",
+      "text": "你理想的第一次约会是什么样的？",
       "options": [
-        { "text": "在宁静的草地上仰望星空", "score": "moon" },
-        { "text": "在极光下跳舞", "score": "aurora" },
-        { "text": "在屋顶派对狂欢到黎明", "score": "sun" },
-        { "text": "午夜探索古老神庙", "score": "star" }
+        {
+          "text": "浪漫的高端餐厅晚餐",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "一起探索新城市",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 2,
+            "friendly_warm": 3,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "咖啡厅聊几个小时",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "商务风格讨论未来规划",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 2,
-      "text": "当你面对挑战时，你会...",
+      "text": "你希望被追求的方式是？",
       "options": [
-        { "text": "闪耀光芒，带领大家前进", "score": "sun" },
-        { "text": "像潮汐一样顺势而为", "score": "moon" },
-        { "text": "以热情的强度燃烧", "score": "aurora" },
-        { "text": "耐心闪烁，等待时机", "score": "star" }
+        {
+          "text": "浪漫的惊喜和惊喜",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "打情骂俏和调侃",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "温暖、持续的陪伴和关心",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "间接的暗示和微妙的信号",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 2,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 3,
-      "text": "人们形容你的能量是...",
+      "text": "你在伴侣身上最看重什么品质？",
       "options": [
-        { "text": "温暖而明亮", "score": "sun" },
-        { "text": "神秘而深邃", "score": "moon" },
-        { "text": "空灵而超凡脱俗", "score": "aurora" },
-        { "text": "永恒而智慧", "score": "star" }
+        {
+          "text": "忠诚和专一",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "激情和刺激",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "善良和理解",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "野心和决心",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 4,
-      "text": "你理想的度假目的地是...",
+      "text": "你如何处理感情中的冲突？",
       "options": [
-        { "text": "晴朗的热带岛屿", "score": "sun" },
-        { "text": "满月下的山间", "score": "moon" },
-        { "text": "冰岛看北极光", "score": "aurora" },
-        { "text": "适合观星的偏远沙漠", "score": "star" }
+        {
+          "text": "想一直聊到解决为止",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "我会变得冷漠和疏远",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "先尝试理解对方的观点",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "专注于找到实际的解决方案",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 5,
-      "text": "在感情中，你是...",
+      "text": "你最喜欢什么类型的爱情故事？",
       "options": [
-        { "text": "永不熄灭的热烈火焰", "score": "sun" },
-        { "text": "指引归途的稳定光芒", "score": "moon" },
-        { "text": "难忘的魔法体验", "score": "aurora" },
-        { "text": "跨越生生世世的永恒连接", "score": "star" }
+        {
+          "text": "青梅竹马变恋人",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "欢喜冤家",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "慢热型/温馨爱情",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "势均力敌/商战爱情",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 6,
-      "text": "你的美学风格可以形容为...",
+      "text": "朋友们如何描述你的性格？",
       "options": [
-        { "text": "黄金时刻，温暖金色", "score": "sun" },
-        { "text": "银色月光，柔和神秘", "score": "moon" },
-        { "text": "彩虹般流转的色彩", "score": "aurora" },
-        { "text": "经典黑白，永恒", "score": "star" }
+        {
+          "text": "浪漫且爱幻想",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "神秘且有魅力",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "温暖且平易近人",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "有野心且上进",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 7,
-      "text": "当你爱的时候，你会...",
+      "text": "你理想中的完美周末是怎样的？",
       "options": [
-        { "text": "热烈而公开地爱", "score": "sun" },
-        { "text": "深沉而安静地爱", "score": "moon" },
-        { "text": "像魔法一样爱", "score": "aurora" },
-        { "text": "永远而始终地爱", "score": "star" }
+        {
+          "text": "两个人的浪漫 getaway",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "充满惊喜和冒险",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 2,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "在家做饭和看电影",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "追求个人目标和自我提升",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 8,
-      "text": "你的精神动物是...",
+      "text": "你如何表达爱意？",
       "options": [
-        { "text": "狮子——勇敢无畏", "score": "sun" },
-        { "text": "猫头鹰——智慧观察", "score": "moon" },
-        { "text": "凤凰——魔法重生", "score": "aurora" },
-        { "text": "狼——忠诚永恒", "score": "star" }
+        {
+          "text": "通过言语和浪漫的举动",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "通过行动和保护对方",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 3,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "通过持续的照顾和关注",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "通过支持对方的梦想和目标",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 9,
-      "text": "你的人生哲学是...",
+      "text": "什么会吸引你爱上一个人？",
       "options": [
-        { "text": "为所有人闪耀你的光芒", "score": "sun" },
-        { "text": "随宇宙的节奏流动", "score": "moon" },
-        { "text": "相信魔法和奇迹", "score": "aurora" },
-        { "text": "星辰永恒，灵魂亦然", "score": "star" }
+        {
+          "text": "他的笑容和浪漫气质",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "他神秘的气质和魅力",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "他温暖的性格和幽默感",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "他的智慧和成功欲望",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 10,
-      "text": "如果你是一个季节，你会是...",
+      "text": "你如何处理嫉妒情绪？",
       "options": [
-        { "text": "夏天——充满活力", "score": "sun" },
-        { "text": "冬天——安静反思", "score": "moon" },
-        { "text": "春天——充满惊奇", "score": "aurora" },
-        { "text": "秋天——美丽的过渡", "score": "star" }
+        {
+          "text": "变得格外浪漫来赢回对方",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "变得冷漠疏远，故意表现得不在乎",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "坦诚沟通表达我的感受",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "专注于提升自己",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 11,
-      "text": "你想对宇宙说的话...",
+      "text": "你梦想的职业是什么？",
       "options": [
-        { "text": "让我闪耀并激励他人", "score": "sun" },
-        { "text": "指引我回家的路", "score": "moon" },
-        { "text": "让我看到万物中的魔法", "score": "aurora" },
-        { "text": "在无限星辰中记住我", "score": "star" }
+        {
+          "text": "能帮助他人的浪漫职业",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "充满刺激和非传统的职业",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "稳定且工作生活平衡的职业",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "高收入、高地位的成功事业",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 12,
-      "text": "什么吸引你走向宇宙？",
+      "text": "你如何描述理想的恋爱关系？",
       "options": [
-        { "text": "它提供的光明和温暖", "score": "sun" },
-        { "text": "它隐藏的神秘和秘密", "score": "moon" },
-        { "text": "它令人惊叹的美", "score": "aurora" },
-        { "text": "它的永恒和无限", "score": "star" }
+        {
+          "text": "像韩剧一样的童话般爱情",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "充满激情和戏剧性的关系",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "温暖、像家一样舒适的关系",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "一起努力走向成功的 power couple",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     }
   ],
-  "results": [
-    {
-      "result_id": "sun",
-      "title": "太阳",
-      "description": "你的星际灵魂伴侣是太阳——太阳系的金色心脏！像太阳一样，你充满活力、热情洋溢，给周围的每个人带来温暖。你是天然领袖，行动时最为耀眼。你的光芒激励他人，你的热情永恒燃烧。人们被你的温暖和光彩所吸引。",
-      "image": "☀️"
+  "results": {
+    "classic_romantic": {
+      "title": "经典浪漫型男主",
+      "description": "你的灵魂伴侣是那种甜蜜、深情相信真爱的类型，会不惜一切赢得你的心。想想：《继承者们》中的李敏镐、《 她很可爱》中的朴叙俊、《爱的迫降》中的玄彬。他们会给你写情书、在雨中等你，用整颗心去爱你。",
+      "image": "🌹",
+      "match": "李敏镐、朴叙俊、玄彬类型"
     },
-    {
-      "result_id": "moon",
-      "title": "月亮",
-      "description": "你的星际灵魂伴侣是月亮——夜晚的温柔守护者！像月亮一样，你给周围的人带来平静和安慰。你直觉敏锐、情感丰富、极其富有爱心。你的光虽然柔和，却在最黑暗的夜晚指引人们。你随生命的潮汐流动，同时保持真实的自我。",
-      "image": "🌙"
+    "bad_boy": {
+      "title": "外冷内热的痞气男主",
+      "description": "你的灵魂伴侣是那种外表看起来冷漠神秘，实际上对你有柔软一面的类型。想想：《Doctor Stranger》中的李钟硕、《来自星星的你》中的金秀贤、《花郎》中的V。他们会无限调侃你、奋力保护你，私下却是最专一的人。",
+      "image": "😎",
+      "match": "李钟硕、金秀贤、V类型"
     },
-    {
-      "result_id": "aurora",
-      "title": "北极光",
-      "description": "你的星际灵魂伴侣是北极光——自然界最神奇的灯光秀！你是一个在平凡中看到魔法的梦想家。你的存在空灵而迷人，让周围的每个人都惊叹不已。你为灰色的世界带来惊奇和色彩。就像北极光一样，你稀有、美丽、独一无二。",
-      "image": "🌌"
+    "friendly_warm": {
+      "title": "从朋友变情人的温暖男主",
+      "description": "你的灵魂伴侣是那种亲切可爱、一直是你的好朋友然后慢慢变成恋人的人。想想：《继承者们》中的金宇彬、《九尾狐传》中的李栋旭、《Doctor John》中的朴海镇。他们让你感到舒服、逗你笑，像家人一样爱你。",
+      "image": "☕",
+      "match": "金宇彬、李栋旭、朴海镇类型"
     },
-    {
-      "result_id": "star",
-      "title": "北极星",
-      "description": "你的星际灵魂伴侣是北极星——迷路旅人的永恒指南！你有着超越年龄的智慧，有一种吸引他人的永恒品质。像永不动摇的星辰，你可靠、始终如一，总是指引方向。你与他人的联系超越时空。",
-      "image": "⭐"
+    "success_drive": {
+      "title": "野心勃勃的财阀CEO",
+      "description": "你的灵魂伴侣是那种成功、有野心的事业型人士，工作努力爱得也热烈。想想：《你是我的命运》中的李胜基、《奴隶猎人》中的张赫、《来自星星的你》中的池晟。他们会用成功让你倾倒，私底下却是浪漫主义者。",
+      "image": "💼",
+      "match": "李胜基、张赫、池晟类型"
     }
-  ]
+  }
 }

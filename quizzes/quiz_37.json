@@ -1,178 +1,548 @@
 {
   "quizId": 37,
-  "title": "Which Planet Is Your Soulmate?",
-  "type": "match",
-  "category": "match",
-  "category_name": "Match / Soulmate",
+  "title": "Which K-Drama Leading Man Is Your Soulmate?",
+  "category": "soulmate",
+  "category_name": "Soulmate / Match",
   "language": "English",
-  "description": "Discover which planet in the universe matches your unique personality and energy!",
+  "description": "Are you ready to find your perfect K-Drama match? Answer 12 questions to discover which Korean drama leading man is your soulmate based on your personality, values, and dating preferences!",
   "tags": [
-    "Space",
-    "Planet",
+    "K-Drama",
+    "Korean Drama",
     "Soulmate",
-    "Match",
-    "Personality",
-    "Cosmic",
-    "Astrology",
-    "星空",
-    "星球",
-    "灵魂伴侣"
+    "Romance",
+    "MBTI",
+    "K-Pop"
   ],
-  "resultTitle": "Your Soul Planet",
-  "results": {
-    "mars": {
-      "title": "Mars - The Warrior Planet",
-      "description": "You're bold, ambitious, and always ready for a challenge. Like Mars, you radiate energy and determination. You're competitive but also fiercely loyal to those you love. Your drive pushes you forward, and you're never afraid to go after what you want."
-    },
-    "venus": {
-      "title": "Venus - The Lover Planet",
-      "description": "You value harmony, beauty, and connection. Like Venus, you have an artistic soul and appreciate the finer things in life. You're romantic, diplomatic, and thrive in relationships. Your warmth draws people to you."
-    },
-    "mercury": {
-      "title": "Mercury - The Messenger Planet",
-      "description": "You're curious, quick-witted, and always communicating. Like Mercury, you adapt easily and love learning new things. You're the life of the party with your humor and intellectual nature. Ideas flow through you effortlessly."
-    },
-    "jupiter": {
-      "title": "Jupiter - The Explorer Planet",
-      "description": "You have an optimistic, expansive spirit. Like Jupiter, you love adventure, travel, and new experiences. You're a lifelong learner who always seeks growth and wisdom. Your enthusiasm is contagious to everyone around you."
-    },
-    "saturn": {
-      "title": "Saturn - The Builder Planet",
-      "description": "You're disciplined, responsible, and wise beyond your years. Like Saturn, you value structure and long-term goals. You're patient and understand that hard work leads to lasting rewards. Others look to you for stability and guidance."
-    },
-    "neptune": {
-      "title": "Neptune - The Dreamer Planet",
-      "description": "You have an imaginative, intuitive soul. Like Neptune, you live in a world of dreams and spirituality. You're creative, compassionate, and deeply connected to your inner self. Art and music speak to your soul in profound ways."
-    },
-    "uranus": {
-      "title": "Uranus - The Rebel Planet",
-      "description": "You're unconventional, innovative, and ahead of your time. Like Uranus, you thrive on change and original ideas. You're not afraid to stand out from the crowd. Your unique perspective challenges the norm and inspires others."
-    },
-    "moon": {
-      "title": "The Moon - The Nurturer",
-      "description": "You have an emotional, nurturing spirit. Like the Moon, you're intuitive and deeply connected to your feelings and the feelings of others. You create comfort and security for those around you. Your empathy is your greatest strength."
-    }
-  },
   "questions": [
     {
       "qId": 1,
-      "text": "How do you handle conflicts?",
+      "text": "What's your ideal first date?",
       "options": [
-        { "text": "I face them head-on and fight for what I believe", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "I seek harmony and try to find middle ground", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "I use logic to mediate and find solutions", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "I step back and process my emotions first", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 3 } }
+        {
+          "text": "A romantic dinner at a fancy restaurant",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Exploring a new city together",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 2,
+            "friendly_warm": 3,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Coffee shop conversation for hours",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "A business-style meeting to discuss future plans",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 2,
-      "text": "What's your ideal weekend?",
+      "text": "How do you like to be pursued?",
       "options": [
-        { "text": "Starting a new project or challenging myself", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "A romantic dinner or artistic outing", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
-        { "text": "Learning something new or attending a talk", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
-        { "text": "Relaxing at home with loved ones", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 0, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
+        {
+          "text": "Grand romantic gestures and surprises",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Playful banter and teasing",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Warm, consistent presence and care",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Indirect hints and subtle signals",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 2,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 3,
-      "text": "What motivates you most?",
+      "text": "What quality do you value most in a partner?",
       "options": [
-        { "text": "Achievement and winning", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "Love and connection", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "Knowledge and communication", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 1, "uranus": 1, "moon": 0 } },
-        { "text": "Growth and new experiences", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 3, "saturn": 1, "neptune": 2, "uranus": 2, "moon": 0 } }
+        {
+          "text": "Loyalty and devotion",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Passion and excitement",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Kindness and understanding",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Ambition and determination",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 4,
-      "text": "How do you make decisions?",
+      "text": "How do you handle conflict in relationships?",
       "options": [
-        { "text": "Quickly, based on instinct", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 1 } },
-        { "text": "With my heart, considering feelings", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "After careful analysis and research", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 1, "saturn": 3, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "I trust my intuition and dreams", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 2 } }
+        {
+          "text": "I want to talk it out until we resolve it",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "I tend to get cold and distant",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "I try to understand their perspective first",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "I focus on finding a practical solution",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 5,
-      "text": "What do you value most in life?",
+      "text": "What's your favorite romance trope?",
       "options": [
-        { "text": "Independence and freedom", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 3, "moon": 0 } },
-        { "text": "Beauty and pleasure", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
-        { "text": "Wisdom and discipline", "score": { "mars": 1, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 3, "neptune": 1, "uranus": 1, "moon": 0 } },
-        { "text": "Emotion and spiritual connection", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } }
+        {
+          "text": "Childhood friends to lovers",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Enemies to lovers",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Slow burn / Wholesome romance",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Power couple / Business romance",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 6,
-      "text": "How do others describe you?",
+      "text": "How would your friends describe your personality?",
       "options": [
-        { "text": "Bold, passionate, and determined", "score": { "mars": 3, "venus": 0, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "Charming, romantic, and artistic", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 1 } },
-        { "text": "Clever, curious, and witty", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "Intuitive, dreamy, and compassionate", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 3, "uranus": 0, "moon": 2 } }
+        {
+          "text": "Romantic and dreamy",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Mysterious and intense",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Warm and approachable",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Driven and ambitious",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 7,
-      "text": "Pick a color palette:",
+      "text": "What's your idea of a perfect weekend?",
       "options": [
-        { "text": "Bold reds and fiery oranges", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "Soft pinks and romantic blues", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 0, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "Bright yellows and electric blues", "score": { "mars": 1, "venus": 0, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
-        { "text": "Deep purples and mystic silvers", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 2, "neptune": 3, "uranus": 1, "moon": 1 } }
+        {
+          "text": "A romantic getaway just the two of us",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Something spontaneous and adventurous",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 2,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Cooking together and movie night at home",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Working on personal goals and self-improvement",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 8,
-      "text": "What's your approach to rules?",
+      "text": "How do you express love?",
       "options": [
-        { "text": "I challenge them and forge my own path", "score": { "mars": 2, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 0, "neptune": 0, "uranus": 3, "moon": 0 } },
-        { "text": "I appreciate tradition and structure", "score": { "mars": 1, "venus": 1, "mercury": 1, "jupiter": 1, "saturn": 3, "neptune": 1, "uranus": 0, "moon": 1 } },
-        { "text": "I adapt them to fit my style", "score": { "mars": 2, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "I follow what feels right emotionally", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 2 } }
+        {
+          "text": "Through words and romantic gestures",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Through actions and protecting them",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 3,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Through constant care and attention",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Through supporting their dreams and goals",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 9,
-      "text": "What draws you to a person?",
+      "text": "What attracts you to someone?",
       "options": [
-        { "text": "Their ambition and drive", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "Their kindness and warmth", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "Their intelligence and ideas", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "Their depth and emotional connection", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 2 } }
+        {
+          "text": "Their smile and romantic nature",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Their mysterious aura and intensity",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Their warm personality and humor",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Their intelligence and drive for success",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 10,
-      "text": "How do you handle failure?",
+      "text": "How do you handle jealousy?",
       "options": [
-        { "text": "I come back stronger and more determined", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "I focus on self-care and emotional healing", "score": { "mars": 0, "venus": 2, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 3 } },
-        { "text": "I analyze what went wrong and learn", "score": { "mars": 1, "venus": 0, "mercury": 3, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "I see it as a lesson in my spiritual journey", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 1, "neptune": 3, "uranus": 0, "moon": 1 } }
+        {
+          "text": "I become overly romantic to win them back",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "I get cold and distant, playing hard to get",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "I communicate openly about my feelings",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "I focus on improving myself instead",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 11,
-      "text": "Pick a dream vacation:",
+      "text": "What's your dream career?",
       "options": [
-        { "text": "An adventurous expedition", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 2, "saturn": 1, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "A romantic escape to Paris", "score": { "mars": 0, "venus": 3, "mercury": 0, "jupiter": 1, "saturn": 0, "neptune": 2, "uranus": 0, "moon": 2 } },
-        { "text": "A cultural tour of historical sites", "score": { "mars": 1, "venus": 1, "mercury": 2, "jupiter": 2, "saturn": 2, "neptune": 1, "uranus": 0, "moon": 0 } },
-        { "text": "A peaceful retreat in nature", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 1, "saturn": 1, "neptune": 2, "uranus": 0, "moon": 3 } }
+        {
+          "text": "Something that allows me to help others romantically",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "Something exciting and unconventional",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "Something stable with good work-life balance",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "A high-powered, successful career",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     },
     {
       "qId": 12,
-      "text": "What role do you play in a group?",
+      "text": "How would you describe your ideal relationship?",
       "options": [
-        { "text": "The leader who takes charge", "score": { "mars": 3, "venus": 0, "mercury": 1, "jupiter": 1, "saturn": 2, "neptune": 0, "uranus": 1, "moon": 0 } },
-        { "text": "The mediator who keeps peace", "score": { "mars": 0, "venus": 3, "mercury": 1, "jupiter": 1, "saturn": 1, "neptune": 1, "uranus": 0, "moon": 2 } },
-        { "text": "The communicator who connects everyone", "score": { "mars": 1, "venus": 1, "mercury": 3, "jupiter": 2, "saturn": 0, "neptune": 0, "uranus": 2, "moon": 0 } },
-        { "text": "The dreamer who inspires with visions", "score": { "mars": 0, "venus": 1, "mercury": 0, "jupiter": 2, "saturn": 0, "neptune": 3, "uranus": 1, "moon": 1 } }
+        {
+          "text": "A fairytale romance like in the dramas",
+          "score": {
+            "classic_romantic": 3,
+            "bad_boy": 1,
+            "friendly_warm": 2,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "A passionate, intense relationship with drama",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 3,
+            "friendly_warm": 1,
+            "success_drive": 2
+          }
+        },
+        {
+          "text": "A warm, comfortable relationship like home",
+          "score": {
+            "classic_romantic": 2,
+            "bad_boy": 1,
+            "friendly_warm": 3,
+            "success_drive": 1
+          }
+        },
+        {
+          "text": "A power couple that achieves success together",
+          "score": {
+            "classic_romantic": 1,
+            "bad_boy": 1,
+            "friendly_warm": 1,
+            "success_drive": 3
+          }
+        }
       ]
     }
-  ]
+  ],
+  "results": {
+    "classic_romantic": {
+      "title": "The Classic Romantic Lead",
+      "description": "Your soulmate is the sweet, devoted romantic lead who believes in true love and will do anything to win your heart. Think: Lee Min-ho in 'The Heirs,' Park Seo-joon in 'She Was Pretty,' or Hyun Bin in 'Crash Landing on You.' They'll write you love letters, wait for you outside in the rain, and love you with their whole heart.",
+      "image": "🌹",
+      "match": "Lee Min-ho, Park Seo-joon, Hyun Bin type"
+    },
+    "bad_boy": {
+      "title": "The Bad Boy with a Hidden Heart of Gold",
+      "description": "Your soulmate is the mysterious, edgy character who seems cold on the outside but has a soft spot just for you. Think: Lee Jong-suk in 'Doctor Stranger,' Kim Soo-hyun in 'My Love from the Star,' or V in 'Hwarang.' They'll tease you endlessly, protect you fiercely, and secretly be the most devoted person ever.",
+      "image": "😎",
+      "match": "Lee Jong-suk, Kim Soo-hyun, V type"
+    },
+    "friendly_warm": {
+      "title": "The Warm Friend Who Became More",
+      "description": "Your soulmate is the sweet, approachable guy who was always there for you as a friend before becoming something more. Think: Kim Woo-bin in 'The Heirs,' Lee Dong-wook in 'Tale of the Nine Tailed,' or Park Hae-jin in 'Doctor John.' They make you feel comfortable, laugh with you, and love you like family.",
+      "image": "☕",
+      "match": "Kim Woo-bin, Lee Dong-wook, Park Hae-jin type"
+    },
+    "success_drive": {
+      "title": "The Ambitious CEO",
+      "description": "Your soulmate is the successful, driven CEO or business mogul who works hard and loves just as hard. Think: Lee Seung-gi in 'You're My Destiny,' Jang Hyuk in 'The Slave Hunters,' or Ji Sung in 'My Love from the Star.' They'll sweep you off your feet with their success while secretly being a hopeless romantic.",
+      "image": "💼",
+      "match": "Lee Seung-gi, Jang Hyuk, Ji Sung type"
+    }
+  }
 }
