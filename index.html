@@ -428,7 +428,6 @@
     background: #fff;
     z-index: 1000;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    border: 2px solid red;
 }
 .filter-panel.show {
     display: flex;
@@ -1227,16 +1226,12 @@
         }
         
         function toggleFilter() {
-            alert('toggle called, open=' + filterPanelOpen);
-            filterPanelOpen = !filterPanelOpen;
             const panel = document.getElementById('filter-panel');
-            alert('panel found=' + (panel !== null) + ', class=' + (panel ? panel.className : 'null'));
-            if (panel) {
-                alert('about to toggle show');
-                panel.classList.toggle('show', filterPanelOpen);
-                alert('toggled');
+            if (panel.style.display === 'none' || panel.style.display === '') {
+                panel.style.display = 'block';
+            } else {
+                panel.style.display = 'none';
             }
-            document.querySelector('.filter-toggle').classList.toggle('active', filterPanelOpen);
         }
         
         function toggleTag(tag) {
