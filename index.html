@@ -418,6 +418,8 @@
     padding: 15px 20px;
     flex-direction: column;
     gap: 15px;
+    max-height: 50vh;
+    overflow-y: auto;
 }
 .filter-panel.show {
     display: flex;
@@ -465,6 +467,19 @@
         .filter-tag.active {
             background: #00d4ff;
             color: #fff;
+        }
+        .filter-tag.hidden {
+            display: none;
+        }
+        .tags-more {
+            font-size: 11px;
+            color: #00d4ff;
+            cursor: pointer;
+            padding: 4px 8px;
+            white-space: nowrap;
+        }
+        .tags-more:hover {
+            text-decoration: underline;
         }
 /* Search bar (when active) */
         .search-bar {
@@ -1041,38 +1056,68 @@
 
 
 // Render filter tags dynamically
-function renderTags() {
-    const filterPanel = document.getElementById('filter-panel');
-    let html = '';
-    
-    // Render each category
-    for (const [category, categoryData] of Object.entries(tagCategories)) {
-        html += `
-        <div class="category-section">
-            <div class="category-header">
-                <span class="category-icon">${categoryData.icon}</span>
-                <span class="category-title">${category}</span>
-            </div>
-            <div class="category-tags">
-        `;
+        const MAX_TAGS_PER_ROW = 8;
         
-        // Render tags in this category
-        categoryData.tags.forEach(tag => {
-            html += `
-                <div class="filter-tag" data-tag="${tag.tag_id}" onclick="toggleTag('${tag.tag_id}')">
-                    ${tag.icon} ${tag.text}
+        function renderTags() {
+            const filterPanel = document.getElementById('filter-panel');
+            let html = '';
+            
+            // Render each category
+            for (const [category, categoryData] of Object.entries(tagCategories)) {
+                const totalTags = categoryData.tags.length;
+                const visibleTags = categoryData.tags.slice(0, MAX_TAGS_PER_ROW);
+                const hiddenTags = categoryData.tags.slice(MAX_TAGS_PER_ROW);
+                const hasMore = hiddenTags.length > 0;
+                
+                html += `
+                <div class="category-section">
+                    <div class="category-header">
+                        <span class="category-icon">${categoryData.icon}</span>
+                        <span class="category-title">${category}</span>
+                    </div>
+                    <div class="category-tags" id="tags-${category.replace(/\s+/g, '-')}">
+                `;
+                
+                // Render visible tags
+                visibleTags.forEach(tag => {
+                    html += `
+                        <div class="filter-tag" data-tag="${tag.tag_id}" onclick="toggleTag('${tag.tag_id}')">
+                            ${tag.icon} ${tag.text}
+                        </div>
+                    `;
+                });
+                
+                // Render hidden tags (collapsed by default)
+                if (hasMore) {
+                    html += `<div class="tags-more" onclick="expandCategory('${category.replace(/\s+/g, '-')}')">+${hiddenTags.length} more</div>`;
+                    hiddenTags.forEach(tag => {
+                        html += `
+                            <div class="filter-tag hidden" data-tag="${tag.tag_id}" onclick="toggleTag('${tag.tag_id}')">
+                                ${tag.icon} ${tag.text}
+                            </div>
+                        `;
+                    });
+                }
+                
+                html += `
+                    </div>
                 </div>
-            `;
-        });
+                `;
+            }
+            
+            filterPanel.innerHTML = html;
+        }
         
-        html += `
-            </div>
-        </div>
-        `;
-    }
-    
-    filterPanel.innerHTML = html;
-}
+        function expandCategory(categoryId) {
+            const container = document.getElementById('tags-' + categoryId);
+            const moreBtn = container.querySelector('.tags-more');
+            const hiddenTags = container.querySelectorAll('.filter-tag.hidden');
+            
+            if (moreBtn) {
+                moreBtn.style.display = 'none';
+                hiddenTags.forEach(t => t.classList.remove('hidden'));
+            }
+        }
         
         function renderHome() {
             // Hot - sorted by hot_count
