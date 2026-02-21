@@ -1,0 +1,697 @@
+{
+  "quizId": 69,
+  "title": "Which Ancient Deity Matches Your Spirit?",
+  "category": "which_x",
+  "category_name": "Which X Are You?",
+  "language": "English",
+  "description": "Discover which ancient deity from mythology resonates with your true self. Answer 12 questions to find your divine counterpart!",
+  "tags": [
+    "Mythology",
+    "Ancient",
+    "Deity",
+    "Gods",
+    "Personality",
+    "Divine"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When facing a difficult challenge, you...",
+      "options": [
+        {
+          "text": "Face it head-on with courage and strength",
+          "score": {
+            "warrior": 3,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Think carefully and find a clever solution",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 2,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Seek help from others and work together",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Adapt and flow around it like water",
+          "score": {
+            "warrior": 0,
+            "wisdom": 1,
+            "love": 1,
+            "trickster": 1,
+            "nature": 3,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What do you value most in life?",
+      "options": [
+        {
+          "text": "Power and achievement",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Knowledge and truth",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Love and connection",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Freedom and adventure",
+          "score": {
+            "warrior": 1,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How do you handle conflicts?",
+      "options": [
+        {
+          "text": "Fight for what I believe is right",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Analyze and find the fair solution",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Try to understand and forgive",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Use humor to defuse the situation",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 1,
+            "trickster": 3,
+            "nature": 0,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your ideal weekend activity:",
+      "options": [
+        {
+          "text": "Competition or physical challenge",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Reading, learning, or deep conversation",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Spending time with loved ones",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Exploring something new and unexpected",
+          "score": {
+            "warrior": 0,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "What quality do you admire most in others?",
+      "options": [
+        {
+          "text": "Bravery and strength",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Wisdom and insight",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Kindness and compassion",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Creativity and cunning",
+          "score": {
+            "warrior": 0,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 3,
+            "nature": 0,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How do you make important decisions?",
+      "options": [
+        {
+          "text": "Trust my instincts and act quickly",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Weigh all options carefully",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Consider how it affects everyone",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Keep my options open and stay flexible",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "In a group, you usually...",
+      "options": [
+        {
+          "text": "Take charge and lead the way",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Offer thoughtful advice and guidance",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 1,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Bring people together and create harmony",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Add excitement and challenge the norms",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 0,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "What scares you the most?",
+      "options": [
+        {
+          "text": "Being weak or powerless",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Being ignorant or deceived",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Being alone or unloved",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Being trapped or constrained",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Your approach to rules:",
+      "options": [
+        {
+          "text": "Rules exist to be followed and enforced",
+          "score": {
+            "warrior": 2,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 2
+          }
+        },
+        {
+          "text": "Rules should be questioned and understood",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Rules should serve to help and protect people",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Rules are meant to be bent or broken",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When you love someone, you...",
+      "options": [
+        {
+          "text": "Protect them fiercely no matter what",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 1,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "Support their growth and independence",
+          "score": {
+            "warrior": 0,
+            "wisdom": 2,
+            "love": 2,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Love them unconditionally with all your heart",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Make life an exciting adventure together",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 1,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "What represents your ideal life?",
+      "options": [
+        {
+          "text": "Achieving greatness and leaving a legacy",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Understanding the mysteries of existence",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 1
+          }
+        },
+        {
+          "text": "Living in peace with those you love",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 2,
+            "death": 0
+          }
+        },
+        {
+          "text": "A life full of surprises and freedom",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 2,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you had unlimited power, you would...",
+      "options": [
+        {
+          "text": "Conquer challenges and build an empire",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Unlock all the secrets of the universe",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "Create a world where everyone is loved",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "Throw out all the rules and have fun",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "type": "warrior",
+      "title": "The Warrior God",
+      "description": "Like Ares (Greek), Tyr (Norse), or Mars (Roman), you embody the spirit of a warrior deity. You're brave, competitive, and determined. You face challenges head-on and inspire others with your courage. Your strength lies in your willingness to fight for what you believe in, though sometimes you may need to learn when to fight and when to seek peace.",
+      "traits": [
+        "Brave",
+        "Competitive",
+        "Determined",
+        "Protective"
+      ],
+      "tip": "Balance your warrior spirit with moments of reflection—not every battle needs to be fought."
+    },
+    {
+      "type": "wisdom",
+      "title": "The Wise One",
+      "description": "Like Athena (Greek), Odin (Norse), or Thoth (Egyptian), you embody divine wisdom. You're thoughtful, analytical, and always seeking knowledge. You solve problems with your mind and value truth above all else. Your wisdom guides others, though sometimes you may need to remember that not everything can be understood through logic alone.",
+      "traits": [
+        "Wise",
+        "Analytical",
+        "Strategic",
+        "Thoughtful"
+      ],
+      "tip": "Your mind is your greatest gift, but don't forget to trust your heart sometimes too."
+    },
+    {
+      "type": "love",
+      "title": "The Love Goddess",
+      "description": "Like Aphrodite (Greek), Freya (Norse), or Isis (Egyptian), you embody the power of love. You're compassionate, nurturing, and deeply connected to others. Your warmth brings people together and heals emotional wounds. Your love is your greatest strength, though remember to love yourself as much as you love others.",
+      "traits": [
+        "Compassionate",
+        "Nurturing",
+        "Romantic",
+        "Empathetic"
+      ],
+      "tip": "Your ability to love is your superpower—but set boundaries to protect your generous heart."
+    },
+    {
+      "type": "trickster",
+      "title": "The Trickster Spirit",
+      "description": "Like Loki (Norse), Hermes (Greek), or Anansi (African), you embody the trickster spirit. You're clever, playful, and never boring. You challenge the status quo and find creative solutions to problems. Your humor and cunning help you navigate life's challenges, though sometimes your tricks may get you into trouble.",
+      "traits": [
+        "Clever",
+        "Playful",
+        "Resourceful",
+        "Unpredictable"
+      ],
+      "tip": "Your wit is your weapon—but use it wisely, as not everyone appreciates a good trick."
+    },
+    {
+      "type": "nature",
+      "title": "The Nature Deity",
+      "description": "Like Artemis (Greek), Terra (Roman), or Gaia (Greek), you're connected to the natural world. You value freedom, growth, and the cycles of life. Being in nature replenishes your spirit, and you have a deep respect for all living things. Your grounded nature brings peace to those around you.",
+      "traits": [
+        "Grounded",
+        "Free-spirited",
+        "Natural",
+        "Peaceful"
+      ],
+      "tip": "Your connection to nature is your anchor—spend time outdoors when life gets overwhelming."
+    },
+    {
+      "type": "death",
+      "title": "The Underworld Ruler",
+      "description": "Like Hades (Greek), Anubis (Egyptian), or Hel (Norse), you have a profound connection to the mysteries of death and transformation. You're introspective, brave in facing difficult truths, and understand the cyclical nature of existence. Others come to you for guidance through dark times. Your acceptance of mortality gives you unique wisdom.",
+      "traits": [
+        "Brave",
+        "Introspective",
+        "Mysterious",
+        "Transformative"
+      ],
+      "tip": "Your comfort with difficult truths is rare—use it to help others face their fears."
+    }
+  ],
+  "scoringRules": {
+    "dimensionCalculation": "Sum scores for each deity type, highest score determines the result",
+    "tiebreakerRule": "If tied, prioritize the type with more questions answered in that category",
+    "percentageDisplay": "Show percentage match for each deity type below the main result"
+  }
+}

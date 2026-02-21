@@ -1,0 +1,696 @@
+{
+  "quizId": 69,
+  "title": "你的灵魂对应哪尊古神？",
+  "category": "which_x",
+  "category_name": "你是哪种X？",
+  "language": "中文",
+  "description": "探索你与哪位古代神话神祇产生共鸣。回答12道题，找到你的神性另一半！",
+  "tags": [
+    "神话",
+    "古神",
+    "神祇",
+    "性格",
+    "神性"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "面对艰难的挑战时，你会...",
+      "options": [
+        {
+          "text": "鼓起勇气迎面而上",
+          "score": {
+            "warrior": 3,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "深思熟虑，找到聪明的解决办法",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 2,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "寻求他人帮助，共同面对",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "灵活适应，像水一样绕过去",
+          "score": {
+            "warrior": 0,
+            "wisdom": 1,
+            "love": 1,
+            "trickster": 1,
+            "nature": 3,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "你最看重人生的什么？",
+      "options": [
+        {
+          "text": "权力与成就",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "知识与真理",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "爱与连结",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "自由与冒险",
+          "score": {
+            "warrior": 1,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你如何处理冲突？",
+      "options": [
+        {
+          "text": "为正义而战",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "分析情况，寻找公平的解决方案",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "尝试理解与原谅",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "用幽默化解紧张气氛",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 1,
+            "trickster": 3,
+            "nature": 0,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你理想周末活动是：",
+      "options": [
+        {
+          "text": "竞技或体力挑战",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "阅读、学习或深入交流",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "与所爱的人共度时光",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "探索新的、意想不到的事物",
+          "score": {
+            "warrior": 0,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "你最欣赏他人的什么品质？",
+      "options": [
+        {
+          "text": "勇敢与力量",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "智慧与洞察力",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "善良与同情心",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "创意与机智",
+          "score": {
+            "warrior": 0,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 3,
+            "nature": 0,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "你如何做出重要决定？",
+      "options": [
+        {
+          "text": "相信直觉，迅速行动",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "仔细权衡所有选项",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "考虑对他人的影响",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "保持灵活性，不把路走死",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "在群体中，你通常...",
+      "options": [
+        {
+          "text": "带头指挥，掌握方向",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "提供深思熟虑的建议与指导",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 1,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "团结他人，创造和谐",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "添加乐趣，挑战常规",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 0,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "什么让你最害怕？",
+      "options": [
+        {
+          "text": "软弱或无能为力",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "无知或被欺骗",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "孤独或不被爱",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "被束缚或受限",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你对规则的态度：",
+      "options": [
+        {
+          "text": "规则存在就是为了被遵守和执行",
+          "score": {
+            "warrior": 2,
+            "wisdom": 1,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 2
+          }
+        },
+        {
+          "text": "规则应该被质疑和理解",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 1,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "规则应该服务于帮助和保护人们",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "规则是用来被扭曲或打破的",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "当你爱上一个人时，你会...",
+      "options": [
+        {
+          "text": "无论发生什么都激烈地保护ta",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 1,
+            "trickster": 0,
+            "nature": 0,
+            "death": 0
+          }
+        },
+        {
+          "text": "支持ta的成长与独立",
+          "score": {
+            "warrior": 0,
+            "wisdom": 2,
+            "love": 2,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "无条件地用全部真心去爱",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "让生活成为充满刺激的冒险",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 1,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "什么代表你的理想生活？",
+      "options": [
+        {
+          "text": "成就伟大，留下一番事业",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "解开存在的所有奥秘",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 1,
+            "death": 1
+          }
+        },
+        {
+          "text": "与所爱的人平静地生活",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 2,
+            "death": 0
+          }
+        },
+        {
+          "text": "充满惊喜与自由的生活",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 2,
+            "death": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "如果你拥有无限的力量，你会...",
+      "options": [
+        {
+          "text": "征服挑战，建立帝国",
+          "score": {
+            "warrior": 3,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "解锁宇宙的所有秘密",
+          "score": {
+            "warrior": 0,
+            "wisdom": 3,
+            "love": 0,
+            "trickster": 0,
+            "nature": 0,
+            "death": 1
+          }
+        },
+        {
+          "text": "创造一个每个人都受到爱的世界",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 3,
+            "trickster": 0,
+            "nature": 1,
+            "death": 0
+          }
+        },
+        {
+          "text": "抛弃所有规则，尽情享乐",
+          "score": {
+            "warrior": 0,
+            "wisdom": 0,
+            "love": 0,
+            "trickster": 3,
+            "nature": 1,
+            "death": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "type": "warrior",
+      "title": "战神",
+      "description": "如同希腊的阿瑞斯、北欧的提尔或罗马的马尔斯，你代表着战神的精神。你勇敢、好胜、有决心。你直面挑战，用勇气激励他人。你的力量来自于为信念而战，尽管有时你需要学会何时该战，何时该求和。",
+      "traits": [
+        "勇敢",
+        "好胜",
+        "坚定",
+        "保护"
+      ],
+      "tip": "平衡你的战神精神与反思的时刻——并非每场战斗都必须打。"
+    },
+    {
+      "type": "wisdom",
+      "title": "智慧之神",
+      "description": "如同希腊的雅典娜、北欧的奥丁或埃及的托特，你代表着神圣的智慧。你深思熟虑、善于分析，始终追求知识。你用智慧解决问题，真理至上。你的智慧指引他人，尽管有时你需要记住，并非所有事情都能通过逻辑理解。",
+      "traits": [
+        "智慧",
+        "分析",
+        "战略",
+        "深思"
+      ],
+      "tip": "你的头脑是你最伟大的天赋，但有时也要学会信任你的心。"
+    },
+    {
+      "type": "love",
+      "title": "爱神",
+      "description": "如同希腊的阿芙罗黛蒂、北欧的弗蕾亚或埃及的伊西斯，你代表着爱的力量。你富有同情心、培育情感，与他人深深连结。你的温暖将人们聚在一起，治愈情感的创伤。你的爱是你最大的力量，但请记得像爱他人一样爱自己。",
+      "traits": [
+        "同情",
+        "培育",
+        "浪漫",
+        "感同身受"
+      ],
+      "tip": "你爱的能力是你的超能力——但要设定界限来保护你慷慨的心。"
+    },
+    {
+      "type": "trickster",
+      "title": "恶作剧之神",
+      "description": "如同北欧的洛基、希腊的赫尔墨斯或非洲的阿南西，你代表着恶作剧精神。你聪明、活泼、永不无聊。你挑战现状，用创意解决问题。你的幽默和机智帮助你度过人生的挑战，尽管有时你的恶作剧会让你陷入麻烦。",
+      "traits": [
+        "聪明",
+        "活泼",
+        "足智多谋",
+        "不可预测"
+      ],
+      "tip": "你的智慧是你的武器——但要明智地使用它，不是每个人都欣赏好玩的恶作剧。"
+    },
+    {
+      "type": "nature",
+      "title": "自然之神",
+      "description": "如同希腊的阿尔忒弥斯、罗马的泰拉或希腊的盖亚，你与自然世界相连。你重视自由、成长和生命的循环。亲近自然能恢复你的精神，你对所有生命形式都深怀敬意。你接地气的本性给周围的人带来平静。",
+      "traits": [
+        "脚踏实地",
+        "自由精神",
+        "自然",
+        "平静"
+      ],
+      "tip": "你与自然的连结是你的锚——当生活变得不堪重负时，到户外走走。"
+    },
+    {
+      "type": "death",
+      "title": "冥界之主",
+      "description": "如同希腊的哈迪斯、埃及的阿努比斯或北欧的海尔，你与死亡和转化的奥秘有深刻的。你内省，敢于连结面对困难的真相，理解存在的循环本质。其他人会在艰难时刻向你寻求指引。你对死亡的接受给了你独特的智慧。",
+      "traits": [
+        "勇敢",
+        "内省",
+        "神秘",
+        "转化"
+      ],
+      "tip": "你面对困难真相的勇气是罕见的——用它来帮助他人面对恐惧。"
+    }
+  ],
+  "scoringRules": {
+    "dimensionCalculation": "为每位神祇类型累加分数，最高分决定结果",
+    "tiebreakerRule": "如平局，优先选择回答该类别问题更多的类型",
+    "percentageDisplay": "在主结果下方显示每位神祇类型的匹配百分比"
+  }
+}
