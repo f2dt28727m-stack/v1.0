@@ -1,0 +1,349 @@
+{
+  "quizId": 78,
+  "title": "What Would You Do in Stardew Valley?",
+  "category": "whatwould",
+  "tags": [
+    "Stardew Valley",
+    "Farming Simulation",
+    "MBTI",
+    "Personality",
+    "Life Choices"
+  ],
+  "description": "Answer 12 questions to discover your ideal Stardew Valley life approach!",
+  "questions": [
+    {
+      "text": "You’ve just arrived at your grandfather’s farm. What’s your first move?",
+      "options": [
+        {
+          "text": "Start by clearing the most overgrown patch of land and planting quick-growing parsnips right away",
+          "score": "S"
+        },
+        {
+          "text": "Head straight to Pelican Town to introduce yourself to every villager, promising to help with their small tasks",
+          "score": "E"
+        },
+        {
+          "text": "Spend the first afternoon exploring the hidden corners of your farm, mapping out where to plant crops and build your first coop",
+          "score": "I"
+        },
+        {
+          "text": "Sit on the porch daydreaming about turning the abandoned mine into a magical crystal garden or building a secret forest hideaway",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your crops get hit by a sudden blight. How do you react?",
+      "options": [
+        {
+          "text": "Research natural remedies in the town library and test a homemade fungicide on the remaining healthy plants",
+          "score": "T"
+        },
+        {
+          "text": "Ask every farmer in town for their old-fashioned blight tips, sharing your own stories of crop failure to build rapport",
+          "score": "F"
+        },
+        {
+          "text": "Immediately till the affected rows and replant with blight-resistant seeds you stashed away last season",
+          "score": "J"
+        },
+        {
+          "text": "Take a break to forage in the woods, figuring you can adjust your farm plan to focus on foraged goods and artisan crafts instead",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "It’s the Flower Dance festival. What do you do?",
+      "options": [
+        {
+          "text": "Dance with three different villagers throughout the night, making sure no one sits alone on the sidelines",
+          "score": "E"
+        },
+        {
+          "text": "Spend the evening walking through the flower fields, picking wild blooms to press in your journal and enjoying the quiet breeze",
+          "score": "I"
+        },
+        {
+          "text": "Help the mayor set up the dance floor and organize the flower crown contest, ensuring every detail runs smoothly",
+          "score": "S"
+        },
+        {
+          "text": "Create a impromptu flower-themed performance, teaching a small group of kids a silly dance to the town band’s music",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious locked chest in the mine. What’s next?",
+      "options": [
+        {
+          "text": "Take it to Clint the blacksmith to unlock, eager to see what practical tools or rare ores are inside",
+          "score": "T"
+        },
+        {
+          "text": "Keep it in your cabin and spend nights trying to decode the carvings on the surface, wondering if it holds a hidden village secret",
+          "score": "N"
+        },
+        {
+          "text": "Leave it where it is, focusing on mining the nearby iridium veins that will help upgrade your farm tools faster",
+          "score": "S"
+        },
+        {
+          "text": "Bring it to the community center to show the wizard, asking him about its magical origins and sharing your theories with the villagers",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A rainy day keeps you off the farm. How do you spend it?",
+      "options": [
+        {
+          "text": "Bake a batch of cookies and deliver them to every sick or lonely villager, stopping to listen to their stories for hours",
+          "score": "E"
+        },
+        {
+          "text": "Rearrange your chests to organize seeds, tools, and artifacts, creating a color-coded system for easy access",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with new jam recipes in your kitchen, testing combinations of foraged berries and farm-grown fruit",
+          "score": "P"
+        },
+        {
+          "text": "Write in your farm journal, sketching designs for a new greenhouse layout and planning next year’s crop rotation",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Joja Mart offers to buy your farm’s entire harvest at a premium price. What do you choose?",
+      "options": [
+        {
+          "text": "Accept the offer, using the money to upgrade your barn and buy more expensive livestock to increase future profits",
+          "score": "T"
+        },
+        {
+          "text": "Decline, telling Morris you’d rather sell your produce directly to villagers who value the care you put into each crop",
+          "score": "F"
+        },
+        {
+          "text": "Negotiate a deal where you sell half your harvest to Joja and the other half to the community center to support both sides",
+          "score": "S"
+        },
+        {
+          "text": "Refuse publicly at the town square, then start a ‘Buy Local’ campaign with posters and a weekly farmers’ market",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You need to pick a gift for a villager you barely know. What do you do?",
+      "options": [
+        {
+          "text": "Ask their neighbors about their favorite hobbies and habits, then find a gift that perfectly matches their interests",
+          "score": "F"
+        },
+        {
+          "text": "Pick a bouquet of flowers from your farm or a jar of honey from your bees—simple, thoughtful gifts everyone usually likes",
+          "score": "S"
+        },
+        {
+          "text": "Create a unique gift, like a hand-carved wooden figurine or a personalized painting of their favorite spot in town",
+          "score": "N"
+        },
+        {
+          "text": "Choose the most valuable item you have in your inventory, figuring a pricey gift will make a strong first impression",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Winter is coming. How do you prepare your farm?",
+      "options": [
+        {
+          "text": "Build a heated greenhouse and plant winter crops, creating a detailed schedule for daily watering and maintenance",
+          "score": "J"
+        },
+        {
+          "text": "Stock up on foraged winter roots and mushrooms, planning to spend the season crafting artisanal goods to sell at the winter market",
+          "score": "P"
+        },
+        {
+          "text": "Organize a winter workshop with villagers, teaching everyone how to make their own bird feeders and cold-weather gear",
+          "score": "E"
+        },
+        {
+          "text": "Set up a series of birdhouses and feeders around your farm, enjoying watching the winter birds while you read by the fireplace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your chickens escape their coop and wander into the forest. What do you do?",
+      "options": [
+        {
+          "text": "Call a few villagers to help round them up, turning the chase into a playful game with laughter and friendly competition",
+          "score": "E"
+        },
+        {
+          "text": "Calmly track their footprints through the mud, using treats to lure them back one by one without making a fuss",
+          "score": "I"
+        },
+        {
+          "text": "Fix the coop’s broken fence first, then build a temporary pen in the yard to keep them safe while you finish repairs",
+          "score": "S"
+        },
+        {
+          "text": "Follow them into the forest to see where they go, discovering a hidden clearing with wild berries you can add to your farm’s garden next year",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A new villager moves to town and seems shy. How do you reach out?",
+      "options": [
+        {
+          "text": "Leave a basket of fresh produce and a handwritten note on their doorstep, letting them know you’re here to help if they need anything",
+          "score": "F"
+        },
+        {
+          "text": "Invite them to your farm for a quiet dinner, cooking their favorite meal after asking the townsfolk about their preferences",
+          "score": "I"
+        },
+        {
+          "text": "Ask them to help you build a new shed, using the project as a way to chat and get to know each other naturally",
+          "score": "T"
+        },
+        {
+          "text": "Organize a small welcome party with a few close villagers, making sure they feel included in the community right away",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You win a rare golden pumpkin in the Spirit’s Eve maze. What do you do with it?",
+      "options": [
+        {
+          "text": "Donate it to the community center to complete the final collection, helping restore the building to its former glory",
+          "score": "J"
+        },
+        {
+          "text": "Carve it into a unique lantern and display it at the town square, creating a spooky yet festive decoration for everyone to enjoy",
+          "score": "N"
+        },
+        {
+          "text": "Sell it to the traveling cart merchant for a large sum of money, using the funds to pay off your remaining farm debt",
+          "score": "T"
+        },
+        {
+          "text": "Keep it on your fireplace mantel, telling stories about how you found it to any villager who visits your cabin",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "What’s your ultimate long-term goal for your farm?",
+      "options": [
+        {
+          "text": "Turn it into a sustainable organic farm that supplies the entire town with fresh, healthy produce year-round",
+          "score": "S"
+        },
+        {
+          "text": "Create a magical sanctuary with a fairy garden, crystal pond, and rare exotic plants that attract mythical creatures",
+          "score": "N"
+        },
+        {
+          "text": "Build a community hub where villagers can take farming classes, share tools, and host weekly potlucks",
+          "score": "E"
+        },
+        {
+          "text": "Design a quiet, self-sufficient farm with a small library, greenhouse, and cozy cabin, focusing on your own peace and happiness",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Charismatic Community Builder (ENFJ)",
+      "description": "You’re the heart of Pelican Town, always organizing potlucks, helping villagers reconcile, and turning the community center into a thriving hub. You prioritize everyone’s happiness, use your empathy to support struggling neighbors, and your farm is a warm gathering spot with colorful flowers and shared harvests.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Innovative Farm Visionary (ENTP)",
+      "description": "You’re the town’s wild inventor, turning your farm into a lab of experimental crops, automated irrigation systems, and magical crystal gardens. You love debating with the wizard about magical theories, challenging Joja Mart’s dominance with creative solutions, and turning every problem into a playful adventure.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Strategic Crop Tycoon (ESTJ)",
+      "description": "You’re Pelican Town’s most successful farmer, running a highly efficient operation with strict crop rotation schedules, upgraded tools, and maximum profits. You help the mayor organize town budgets, enforce farm safety rules, and turn every harvest into a well-oiled machine that supports the entire community.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Adventurous Mine Explorer (ESTP)",
+      "description": "You spend more time in the mines than on your farm, hunting for rare ores, fighting slimes, and discovering hidden caverns. You sell your treasure to Clint for big profits, teach villagers how to defend themselves from monsters, and turn every cave dive into a thrilling, impromptu adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Nurturing Homestead Healer (ESFJ)",
+      "description": "Your farm is a haven of comfort, with cozy cabins for stray animals, a herb garden for natural remedies, and fresh baked goods for sick villagers. You organize weekly knitting circles, help new farmers settle in, and use your care and kindness to make every townsperson feel loved and supported.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Social Harvest Coordinator (ESFP)",
+      "description": "You’re the life of every town festival, organizing pie-eating contests, flower crown workshops, and impromptu dance parties. Your farm is a colorful chaos of sunflowers, chickens, and laughter, and you love inviting neighbors over for spontaneous barbecues and harvest celebrations.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Creative Farm Artist (ENFP)",
+      "description": "Your farm is a masterpiece of whimsical design—think rainbow crop fields, fairy light-lit coops, and a treehouse studio where you paint and write. You host poetry readings in the forest, teach kids how to make pressed flower art, and turn every day on the farm into a creative, joyful escape.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Visionary Community Planner (ENTJ)",
+      "description": "You transform Pelican Town into a thriving, self-sustaining village by building a farmers’ market, upgrading the town hall, and negotiating deals with traveling merchants. Your farm is a model of efficiency and innovation, and you use your strategic mind to guide the town into a prosperous future.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Quiet Foraging Sage (INFJ)",
+      "description": "You prefer the quiet of the forest and mountains to town crowds, spending your days foraging rare mushrooms, studying wild plants, and writing in your nature journal. You share your herbal remedies with villagers in need, build birdhouses for winter birds, and find peace in the simple, hidden beauties of Stardew Valley.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Mystical Crystal Keeper (INTP)",
+      "description": "You’re obsessed with the magical secrets of Stardew Valley, spending nights studying star charts with the wizard, growing crystal fruits in your greenhouse, and decoding the ancient runes in the mine. Your farm is a quiet sanctuary of books, crystals, and curious experiments that no one else fully understands.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Steady Crop Guardian (ISTJ)",
+      "description": "You’re the most reliable farmer in town, tending to your crops with meticulous care, keeping detailed records of every harvest, and always being ready to help neighbors fix broken fences or plant their seeds. Your farm is a neat, orderly space where every row of crops is perfectly aligned and every tool has its place.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Resourceful Survivalist (ISTP)",
+      "description": "You’re a master of fixing and building, turning scrap metal into useful tools, repairing broken farm equipment in minutes, and navigating the mine’s deepest caverns with ease. You teach villagers how to fish in winter streams, trap wild game for food, and survive any storm or monster attack that comes their way.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Warm Homemaker (ISFJ)",
+      "description": "Your farm is the coziest spot in town, with a roaring fireplace, homemade quilts, and a kitchen always filled with fresh bread. You bake cookies for the local kids, help elderly villagers with their chores, and turn every visitor into family with your gentle, nurturing presence and thoughtful gestures.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Playful Nature Lover (ISFP)",
+      "description": "You spend your days barefoot in the fields, chasing butterflies, painting the sunset over the ocean, and playing with your farm animals. Your garden is a wild, beautiful mix of flowers and veggies, and you love making flower crowns for villagers and leaving small, unexpected gifts on their doorsteps.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Dreamy Storyteller (INFP)",
+      "description": "You live in a world of stories and daydreams, writing novels in your cabin, creating fairytale-inspired gardens, and telling magical tales to the town’s children. Your farm is a quiet retreat with a small library, a pond for ducks, and hidden nooks where you can sit and lose yourself in your imagination.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Solo Farm Pioneer (INTJ)",
+      "description": "You build a self-sufficient farm that relies on solar panels, automated watering systems, and rainwater collection. You keep to yourself, focusing on your long-term plans to turn your farm into a sustainable oasis, and only emerge from your cabin to share your groundbreaking farming techniques with those who ask.",
+      "mbti": "INTJ"
+    }
+  ]
+}

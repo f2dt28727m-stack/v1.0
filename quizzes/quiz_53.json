@@ -1,0 +1,349 @@
+{
+  "quizId": 53,
+  "title": "Which Sabrina Carpenter Archetype Are You?",
+  "category": "which",
+  "tags": [
+    "Sabrina Carpenter",
+    "Celebrity Archetype",
+    "MBTI",
+    "Personality Test",
+    "Pop Culture"
+  ],
+  "description": "Answer 12 questions to discover which Sabrina Carpenter-inspired archetype aligns with your true self!",
+  "questions": [
+    {
+      "text": "When you have a free afternoon, you’d rather...",
+      "options": [
+        {
+          "text": "Tick off 3 small but satisfying tasks from your to-do list, like organizing your closet or trying a new recipe",
+          "score": "S"
+        },
+        {
+          "text": "Host an impromptu gathering with friends, turning a lazy day into a lively hangout",
+          "score": "E"
+        },
+        {
+          "text": "Curate a cozy nook with your favorite playlist and a new book, losing track of time in your own world",
+          "score": "I"
+        },
+        {
+          "text": "Daydream about a hypothetical adventure—like road-tripping to a tiny coastal town or writing a short story",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If a friend shares a big, messy problem with you, you respond by...",
+      "options": [
+        {
+          "text": "Sit with them in the emotion, holding space for their feelings before talking next steps",
+          "score": "F"
+        },
+        {
+          "text": "Help them map out clear, step-by-step actions to fix it, focusing on tangible solutions",
+          "score": "T"
+        },
+        {
+          "text": "Brainstorm wild, out-of-the-box ideas that might turn the problem into an unexpected opportunity",
+          "score": "N"
+        },
+        {
+          "text": "Remind them of past wins, using specific memories to boost their confidence",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a weekend trip, you prefer to...",
+      "options": [
+        {
+          "text": "Go with the flow, deciding where to eat or explore once you’re there",
+          "score": "P"
+        },
+        {
+          "text": "Book every detail in advance—hotel, reservations, and a loose itinerary to avoid stress",
+          "score": "J"
+        },
+        {
+          "text": "Research hidden gems off the beaten path, like a local art gallery or a family-owned café",
+          "score": "N"
+        },
+        {
+          "text": "Pick a spot you’ve visited before, knowing exactly what to expect and what you love about it",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "At a party, you’re most likely to be found...",
+      "options": [
+        {
+          "text": "Deep in a one-on-one conversation with someone new, learning every detail about their life story",
+          "score": "I"
+        },
+        {
+          "text": "Moving between groups, making jokes and ensuring everyone in the room feels included",
+          "score": "E"
+        },
+        {
+          "text": "Testing out the snack spread and rating each item with a trusted friend, sticking to a familiar circle",
+          "score": "S"
+        },
+        {
+          "text": "Proposing a silly group game, turning the party into a chaotic, memorable event",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck on a creative project, you...",
+      "options": [
+        {
+          "text": "Look to real-life moments for inspiration—like overhearing a stranger’s conversation or people-watching at a park",
+          "score": "S"
+        },
+        {
+          "text": "Let your mind wander to fictional scenarios, blending fantasy and reality to spark new ideas",
+          "score": "N"
+        },
+        {
+          "text": "Take a break to exercise or chat with a friend, using the distraction to reset your focus",
+          "score": "E"
+        },
+        {
+          "text": "Step away to a quiet space, journaling your thoughts until a clear direction emerges",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you rely on...",
+      "options": [
+        {
+          "text": "How it will affect the people you care about, prioritizing their feelings over logic",
+          "score": "F"
+        },
+        {
+          "text": "Cold hard facts and data, weighing pros and cons to find the most efficient choice",
+          "score": "T"
+        },
+        {
+          "text": "Your gut instinct, choosing the option that feels right in the moment even if it doesn’t make sense on paper",
+          "score": "P"
+        },
+        {
+          "text": "A structured pros-and-cons list, ensuring every angle is covered before committing",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you receive feedback on your work, you...",
+      "options": [
+        {
+          "text": "Ask specific follow-up questions to understand how to improve in tangible ways",
+          "score": "S"
+        },
+        {
+          "text": "Focus on the overall vibe of the feedback, letting it guide your creative intuition moving forward",
+          "score": "N"
+        },
+        {
+          "text": "Debate the points respectfully, explaining your reasoning to find a middle ground",
+          "score": "T"
+        },
+        {
+          "text": "Take it to heart, reflecting on how it makes you feel before deciding how to act",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal way to celebrate a win is to...",
+      "options": [
+        {
+          "text": "Throw a big party with all your loved ones, cheering and toasting to the achievement",
+          "score": "E"
+        },
+        {
+          "text": "Treat yourself to a quiet luxury—like a fancy dinner alone or a day at the spa",
+          "score": "I"
+        },
+        {
+          "text": "Plan a small, intentional gathering with your closest 2-3 friends, sharing stories over homemade food",
+          "score": "S"
+        },
+        {
+          "text": "Do something spontaneous and adventurous, like skydiving or a late-night road trip",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling overwhelmed, you...",
+      "options": [
+        {
+          "text": "Break the situation into tiny, manageable tasks, tackling one at a time until you feel in control",
+          "score": "J"
+        },
+        {
+          "text": "Let go of rigid plans, allowing yourself to focus on what feels most important in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Call a friend to vent, finding comfort in sharing your stress with someone who understands",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the source of the stress, creating a logical plan to eliminate it completely",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re drawn to media that...",
+      "options": [
+        {
+          "text": "Explores complex, abstract ideas—like time travel or moral dilemmas that don’t have easy answers",
+          "score": "N"
+        },
+        {
+          "text": "Focuses on relatable, real-life stories—like coming-of-age tales or slice-of-life comedies",
+          "score": "S"
+        },
+        {
+          "text": "Makes you laugh until you cry, with fast-paced dialogue and chaotic, lovable characters",
+          "score": "E"
+        },
+        {
+          "text": "Deeply resonates emotionally, making you reflect on your own relationships and experiences",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When starting a new hobby, you...",
+      "options": [
+        {
+          "text": "Watch tutorial videos and follow a step-by-step guide to master the basics quickly",
+          "score": "J"
+        },
+        {
+          "text": "Jump in headfirst, experimenting and making mistakes without worrying about doing it “right”",
+          "score": "P"
+        },
+        {
+          "text": "Join a group class or community, learning from others and making new friends along the way",
+          "score": "E"
+        },
+        {
+          "text": "Practice alone until you feel confident, then share your progress with a small circle of friends",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your approach to gift-giving is to...",
+      "options": [
+        {
+          "text": "Pick something practical they’ve been needing, like a new water bottle or a cozy blanket",
+          "score": "S"
+        },
+        {
+          "text": "Create a personalized, one-of-a-kind gift—like a scrapbook of memories or a handwritten poem",
+          "score": "N"
+        },
+        {
+          "text": "Ask them directly what they want, ensuring you get something they’ll love and use",
+          "score": "T"
+        },
+        {
+          "text": "Choose something that reminds you of your relationship, like a trinket from a place you visited together",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "ESFP: The Stage Ready Dynamo",
+      "description": "Like Sabrina’s electrifying live performances, you’re a natural performer who thrives on connecting with others. You turn every moment into a celebration, find joy in spontaneous laughs, and use your warmth to make everyone feel seen. You live in the now, embracing chaos with a smile and turning ordinary days into unforgettable moments that feel like a pop chorus come to life.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "ESTP: The Unfiltered Maverick",
+      "description": "Channeling Sabrina’s bold, no-nonsense lyrics, you’re a straight shooter who loves a good challenge. You dive headfirst into new experiences, trust your gut over overthinking, and aren’t afraid to call it like you see it. You turn setbacks into fuel, using your quick wit and practicality to navigate any situation—all while keeping things fun and unpretentious, just like a catchy, rebellious pop track.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "ESFJ: The Heartfelt Connector",
+      "description": "Mirroring Sabrina’s loyal, caring persona, you’re the glue that holds your friend group together. You remember every small detail about the people you love, prioritize their needs above your own, and create warm, inclusive spaces where everyone feels at home. Your kindness is your superpower, and you find the most joy in making others feel celebrated and supported.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "ESTJ: The Organized Visionary",
+      "description": "Like Sabrina’s disciplined work ethic, you’re a natural leader who turns big ideas into actionable plans. You thrive on structure, set clear boundaries, and take pride in getting things done right. You’re reliable, responsible, and always have a backup plan—making you the go-to person for anyone who needs help turning chaos into order, all while staying true to your core values.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "ISFP: The Quiet Creative",
+      "description": "Channeling Sabrina’s introspective, artful side, you express yourself through quiet, meaningful acts of creativity. You find beauty in the small things—like a sunset over the city or a perfectly curated playlist—and use your art to process your emotions. You’re fiercely independent, preferring to let your work speak for itself rather than seeking the spotlight, and your authenticity draws others to you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "ISTP: The Calm Problem-Solver",
+      "description": "Mirroring Sabrina’s cool, collected demeanor, you’re a master of staying calm under pressure. You love taking things apart to see how they work, whether it’s a broken appliance or a complex problem, and you find joy in figuring out creative solutions on your own. You’re quiet but confident, preferring to show up and get things done rather than talk about your achievements.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "ISFJ: The Nurturing Guardian",
+      "description": "Like Sabrina’s warm, supportive energy, you’re the person everyone turns to when they need a shoulder to lean on. You’re deeply empathetic, remember every important date and milestone, and go out of your way to make others feel safe and loved. You find fulfillment in taking care of others, and your quiet acts of kindness have a ripple effect that touches everyone around you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "ISTJ: The Steadfast Rock",
+      "description": "Channeling Sabrina’s consistent, reliable presence, you’re the backbone of every team you join. You value tradition, honor your commitments, and take pride in being someone others can always count on. You’re detail-oriented, prefer to follow a plan, and your practicality helps you navigate even the most chaotic situations with grace and poise.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "ENFP: The Dreamy Storyteller",
+      "description": "Like Sabrina’s whimsical, lyrical songwriting, you’re a natural storyteller who sees the world through a creative lens. You’re full of big ideas, love to explore new possibilities, and find joy in connecting with others over shared dreams and passions. You’re optimistic, idealistic, and always looking for the magic in everyday moments, inspiring those around you to dream bigger.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "ENTP: The Unapologetic Maverick",
+      "description": "Mirroring Sabrina’s bold, boundary-pushing artistry, you’re a curious, quick-witted thinker who loves to challenge the status quo. You thrive on debate, enjoy playing devil’s advocate, and aren’t afraid to speak your mind even when it’s unpopular. You’re a natural innovator, always looking for new ways to do things, and your confidence inspires others to embrace their own uniqueness.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "ENFJ: The Inspirational Leader",
+      "description": "Like Sabrina’s empowering, uplifting message, you’re a natural leader who uses your voice to lift others up. You’re deeply empathetic, can read a room in seconds, and have a gift for bringing out the best in people. You find fulfillment in helping others reach their potential, and your passion for making a difference drives everything you do.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "ENTJ: The Strategic Visionary",
+      "description": "Channeling Sabrina’s ambitious, goal-oriented mindset, you’re a natural strategist who turns big-picture ideas into reality. You’re decisive, confident, and aren’t afraid to take charge when needed. You thrive on challenges, love to set and achieve ambitious goals, and your ability to see the bigger picture makes you an invaluable leader in any setting.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "INFP: The Introspective Idealist",
+      "description": "Like Sabrina’s deeply personal, vulnerable songwriting, you’re a thoughtful, introspective soul who values authenticity above all else. You have a rich inner world, full of big dreams and deep emotions, and you use your creativity to process your experiences. You’re fiercely loyal to your values, prefer deep, meaningful connections over small talk, and your kindness and compassion touch everyone you meet.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "INTP: The Curious Philosopher",
+      "description": "Mirroring Sabrina’s intellectual, curious side, you’re a deep thinker who loves to explore complex ideas and theories. You’re always asking “why,” enjoy solving abstract problems, and find joy in learning new things just for the sake of learning. You’re quiet but passionate, preferring to dive deep into a topic rather than scratch the surface, and your unique perspective makes you a fascinating conversationalist.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "INFJ: The Insightful Empath",
+      "description": "Like Sabrina’s intuitive, perceptive energy, you’re a deep empath who can sense the emotions of others before they even speak. You have a gift for seeing the bigger picture, understand the hidden motivations behind people’s actions, and use your insight to help others navigate complex emotions. You’re quiet but powerful, and your ability to connect with others on a deep level is your greatest strength.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "INTJ: The Strategic Innovator",
+      "description": "Channeling Sabrina’s forward-thinking, innovative approach, you’re a strategic thinker who plans for the long term. You’re independent, confident in your abilities, and aren’t afraid to go against the grain to achieve your goals. You thrive on solving complex problems, love to turn big ideas into actionable plans, and your focus and determination make you unstoppable when you set your mind to something.",
+      "mbti": "INTJ"
+    }
+  ]
+}

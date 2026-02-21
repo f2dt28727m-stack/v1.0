@@ -1,0 +1,349 @@
+{
+  "quizId": 93,
+  "title": "What’s Your LOL Inner Playstyle Personality?",
+  "category": "which",
+  "tags": [
+    "LOL",
+    "League of Legends",
+    "MBTI",
+    "Personality",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover your LOL inner playstyle personality!",
+  "questions": [
+    {
+      "text": "Before a ranked game begins, you usually...",
+      "options": [
+        {
+          "text": "Experiment with a rarely-played champion just to try something fresh",
+          "score": "N"
+        },
+        {
+          "text": "Stay quiet, lock in your main role, and focus on your own gameplay",
+          "score": "I"
+        },
+        {
+          "text": "Hop on voice chat to brainstorm lane matchups and early-game objectives with your team",
+          "score": "E"
+        },
+        {
+          "text": "Pick the highest-win-rate champion in your role to maximize your chances of winning",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your team loses a key objective like Baron Nashor, you...",
+      "options": [
+        {
+          "text": "Adapt on the fly by roaming to help teammates secure smaller objectives",
+          "score": "P"
+        },
+        {
+          "text": "Reassure your teammates that there’s still time to turn the game around",
+          "score": "F"
+        },
+        {
+          "text": "Immediately suggest a new plan, like pushing a side lane to apply pressure elsewhere",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your pre-planned farming route to rebuild your gold lead",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a teamfight, your focus is mainly on...",
+      "options": [
+        {
+          "text": "Reacting to sudden openings, like catching an out-of-position enemy off guard",
+          "score": "P"
+        },
+        {
+          "text": "Protecting your squishy carries so they can deal maximum damage",
+          "score": "F"
+        },
+        {
+          "text": "Following your team’s pre-determined engage signal without second-guessing",
+          "score": "J"
+        },
+        {
+          "text": "Calculating the best moment to engage with your ultimate ability for a team wipe",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a tough loss, you tend to...",
+      "options": [
+        {
+          "text": "Message your gaming friend to vent and commiserate about the loss",
+          "score": "E"
+        },
+        {
+          "text": "Analyze the replay to pinpoint exactly where you made mistakes",
+          "score": "S"
+        },
+        {
+          "text": "Log off for a bit to process the defeat alone before trying again",
+          "score": "I"
+        },
+        {
+          "text": "Daydream about creative new strategies you could use in your next game",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a summoner spell, you prefer to...",
+      "options": [
+        {
+          "text": "Try an unconventional spell combo to catch enemies off guard",
+          "score": "N"
+        },
+        {
+          "text": "Trust your own judgment and pick the spell you feel most comfortable with",
+          "score": "I"
+        },
+        {
+          "text": "Take the spell that’s most commonly used for your champion, as it’s proven effective",
+          "score": "S"
+        },
+        {
+          "text": "Ask your friend which spell they think would work best for the current matchup",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When your teammate makes a critical mistake, you...",
+      "options": [
+        {
+          "text": "Tell them it’s okay, everyone makes mistakes, and encourage them to keep going",
+          "score": "F"
+        },
+        {
+          "text": "Adjust your strategy to compensate for their error, like covering their lane",
+          "score": "P"
+        },
+        {
+          "text": "Quickly assess the situation and tell them how to fix it for future plays",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your original game plan instead of changing your approach",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Before queueing up, you like to...",
+      "options": [
+        {
+          "text": "Come up with a wild new build for your favorite champion to test out",
+          "score": "N"
+        },
+        {
+          "text": "Invite a group of friends to play together and have fun",
+          "score": "E"
+        },
+        {
+          "text": "Watch a pro player’s stream to learn new tricks for your main champion",
+          "score": "S"
+        },
+        {
+          "text": "Queue solo and enjoy the quiet focus of playing alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When the game is going back and forth with no clear advantage, you...",
+      "options": [
+        {
+          "text": "Check in on your teammates to make sure they’re holding their lanes",
+          "score": "F"
+        },
+        {
+          "text": "Roam around the map looking for unexpected fights to seize control",
+          "score": "P"
+        },
+        {
+          "text": "Calculate the gold difference and suggest a target to prioritize for take down",
+          "score": "T"
+        },
+        {
+          "text": "Focus on farming and securing neutral objectives to build a steady lead",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you unlock a new champion, you first...",
+      "options": [
+        {
+          "text": "Ask a friend who mains that champion for tips on how to play them",
+          "score": "E"
+        },
+        {
+          "text": "Read through all their abilities and practice combos in the training tool",
+          "score": "S"
+        },
+        {
+          "text": "Spend time in the practice tool alone, figuring out their kit on your own",
+          "score": "I"
+        },
+        {
+          "text": "Jump into a normal game and experiment with different playstyles to see what works",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your team wants to take a risky objective like Dragon while enemies are missing, you...",
+      "options": [
+        {
+          "text": "Go along with the group, ready to adapt if enemies show up",
+          "score": "P"
+        },
+        {
+          "text": "Argue against it, citing the potential for an enemy ambush",
+          "score": "T"
+        },
+        {
+          "text": "Insist on sticking to the original plan of pushing lanes instead",
+          "score": "J"
+        },
+        {
+          "text": "Agree to go for it, hoping to boost your team’s morale",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "After winning a hard-fought game, you most likely...",
+      "options": [
+        {
+          "text": "Smile to yourself, close the game, and move on to the next activity",
+          "score": "I"
+        },
+        {
+          "text": "Review the stats to see which of your decisions contributed most to the win",
+          "score": "S"
+        },
+        {
+          "text": "Celebrate in voice chat with your team, laughing about the best plays",
+          "score": "E"
+        },
+        {
+          "text": "Think about how you could have made the win even more stylish with a flashy play",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re in a lane against a tricky opponent, you...",
+      "options": [
+        {
+          "text": "Stick to a safe farming pattern, avoiding unnecessary fights",
+          "score": "J"
+        },
+        {
+          "text": "Analyze their movement patterns to predict their next move and counter it",
+          "score": "T"
+        },
+        {
+          "text": "Try out unexpected trades and movement to throw them off balance",
+          "score": "P"
+        },
+        {
+          "text": "Focus on keeping your mental state positive, even if you fall behind",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Shotcalling Strategist",
+      "description": "You’re the undisputed leader of any ranked team, cutting through chaos with sharp, decisive calls. You map out objectives, adjust tactics on the fly, and push your team to victory with unshakable confidence. Teammates look to you when the game hangs in the balance, and your ability to turn a losing fight into a win makes you a force to be reckoned with on the rift.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Unconventional Trickster",
+      "description": "You thrive on outsmarting opponents with unexpected plays and off-meta builds. You love testing new strategies, turning forgotten champions into secret weapons, and catching enemies off guard with your creativity. While some may see your style as risky, you turn chaos into opportunity, making every game feel like an exciting experiment.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Inspirational Leader",
+      "description": "You’re the heart of your team, lifting up teammates with encouragement and rallying them to push forward even when things look bleak. You listen to everyone’s ideas, foster a positive atmosphere, and use your empathy to keep morale high. Your ability to bring people together makes you not just a great teammate, but a friend who turns every game into a shared adventure.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Creative Maverick",
+      "description": "You play for the joy of experimentation, picking champions and builds that spark your curiosity. You love surprising enemies with flashy, unorthodox plays and inspiring your team to try new things. Every game is a chance to express your creativity, and you turn even the most mundane matches into memorable moments with your infectious energy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Tactical Anchor",
+      "description": "You’re the backbone of any winning team, sticking to proven strategies and prioritizing objectives over flashy plays. You focus on lane control, farming efficiently, and making sure your team follows through on pre-planned tactics. Your reliability and attention to detail mean you’re the teammate everyone can count on to keep the game on track.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Adaptive Scrapper",
+      "description": "You thrive in fast-paced, chaotic fights, reacting to every opening with lightning speed. You love engaging in unexpected skirmishes, outplaying opponents with quick reflexes, and turning losing situations around with bold moves. You’re at your best when the game is unpredictable, making every match feel like a thrilling challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Supportive Guardian",
+      "description": "You put your team’s needs above your own, focusing on protecting your carries, healing allies, and keeping everyone in sync. You check in on teammates, celebrate their small wins, and make sure no one feels left out. Your kindness and dedication make you the most beloved teammate, and games feel better just because you’re there.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Energetic Playmaker",
+      "description": "You bring endless energy to every game, celebrating every kill, laugh at every mistake, and making sure everyone’s having fun. You love playing flashy champions that let you show off, and you turn even the most serious ranked games into a good time. Your positivity is contagious, and teammates look forward to playing with you just to share the excitement.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Mastermind Planner",
+      "description": "You spend every game thinking several steps ahead, mapping out enemy movements, and planning long-term strategies. You prefer to work alone, focusing on your own objectives and executing your plan with precision. While you may not be the loudest teammate, your ability to predict enemy plays and turn the tide with calculated moves makes you a silent powerhouse.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analytical Innovator",
+      "description": "You’re constantly analyzing champion kits, matchup data, and game mechanics to find hidden advantages. You love experimenting with new builds and strategies, even if they seem counterintuitive at first. You play the game like a puzzle, always looking for ways to optimize your play and outthink opponents with your sharp intellect.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Empathetic Visionary",
+      "description": "You have a knack for reading your teammates’ moods and adjusting your play to support them. You see the bigger picture, focusing on long-term team success rather than individual glory. You’re quiet but deeply influential, using your intuition to guide your team toward victory and making sure everyone feels seen and valued along the way.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Idealistic Dreamer",
+      "description": "You play the game with passion, choosing champions and playstyles that resonate with your values. You love stories behind the champions and strive to play with honor, even when the game gets tough. You may not be the most aggressive player, but your kindness and integrity make you a teammate who brings heart to every match.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Steadfast Operator",
+      "description": "You’re the most reliable player on the rift, sticking to your role, farming consistently, and never cutting corners. You prioritize objectives over risky fights, follow meta strategies to the letter, and make sure your team never falls behind on essential tasks. Your consistency and dependability make you the foundation of any winning squad.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Silent Outplayer",
+      "description": "You’re a quiet but deadly player, focusing on mechanical skill and precise plays. You love champions that let you show off your reflexes, and you thrive in one-on-one duels where you can outplay opponents with sheer skill. You don’t need to talk to make an impact—your gameplay speaks for itself, leaving enemies stunned and teammates impressed.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Protector",
+      "description": "You’re the ultimate support, always looking out for your teammates, healing them before they ask, and pinging dangers before enemies strike. You focus on keeping your team safe and secure, making sure no one gets caught out or falls behind. Your attention to detail and kindness make you a teammate who makes every game feel safer and more enjoyable.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artistic Skirmisher",
+      "description": "You play the game like a form of self-expression, choosing champions with stylish kits and making plays that feel like works of art. You love the beauty of well-executed combos and the thrill of a perfectly timed escape. You may not be the most vocal player, but your unique style and quiet passion make you a memorable presence on the rift.",
+      "mbti": "ISFP"
+    }
+  ]
+}

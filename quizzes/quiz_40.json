@@ -1,0 +1,349 @@
+{
+  "quizId": 40,
+  "title": "What’s your hidden Olivia Rodrigo-inspired inner trait?",
+  "category": "hidden",
+  "tags": [
+    "Olivia Rodrigo",
+    "Hidden Trait",
+    "MBTI",
+    "Personality",
+    "Inner Self"
+  ],
+  "description": "Answer 12 questions to discover your hidden Olivia Rodrigo-inspired inner trait!",
+  "questions": [
+    {
+      "text": "When you hear a new Olivia Rodrigo song, you first:",
+      "options": [
+        {
+          "text": "Analyze how the song’s production amplifies its emotional core to resonate with listeners",
+          "score": "T"
+        },
+        {
+          "text": "Get swept up in the raw lyrics and connect them to your own past heartbreaks",
+          "score": "F"
+        },
+        {
+          "text": "Focus on the catchy melody and hum along immediately",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the detailed backstory of the characters in the song’s narrative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you could write a duet with Olivia, you’d suggest:",
+      "options": [
+        {
+          "text": "A track that explores the quiet anger of unrecognized effort in friendships",
+          "score": "F"
+        },
+        {
+          "text": "A collaboration that experiments with unexpected genre blends to surprise fans",
+          "score": "N"
+        },
+        {
+          "text": "A song with a straightforward, relatable hook that fans can sing at concerts",
+          "score": "S"
+        },
+        {
+          "text": "A lyrical debate between two perspectives on a messy breakup",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When processing a difficult moment, you tend to:",
+      "options": [
+        {
+          "text": "Distract yourself with a routine task like cleaning or organizing your space",
+          "score": "S"
+        },
+        {
+          "text": "Call up a friend and rant about every detail until you feel better",
+          "score": "E"
+        },
+        {
+          "text": "Spend time alone journaling your thoughts until you make sense of the feeling",
+          "score": "I"
+        },
+        {
+          "text": "Daydream about alternative scenarios where the moment went differently",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when someone criticizes a favorite Olivia song?",
+      "options": [
+        {
+          "text": "Argue that the song’s deeper message is being overlooked by their surface judgment",
+          "score": "N"
+        },
+        {
+          "text": "Feel personally hurt and defensive, as if they’re attacking your own taste",
+          "score": "F"
+        },
+        {
+          "text": "Ask them to explain their reasoning and discuss the song’s merits calmly",
+          "score": "T"
+        },
+        {
+          "text": "Brush it off and keep listening to the song because it makes you happy",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a night in, you’d most likely:",
+      "options": [
+        {
+          "text": "Curate a cozy playlist of Olivia’s deep cuts and read poetry in quiet",
+          "score": "I"
+        },
+        {
+          "text": "Host a small gathering to watch Olivia’s concert videos with friends",
+          "score": "E"
+        },
+        {
+          "text": "Bake your favorite snack and rewatch Olivia’s behind-the-scenes interview clips",
+          "score": "S"
+        },
+        {
+          "text": "Write a short story inspired by the themes in Olivia’s latest album",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you had to give Olivia advice, you’d tell her to:",
+      "options": [
+        {
+          "text": "Prioritize her mental health over meeting industry deadlines and expectations",
+          "score": "F"
+        },
+        {
+          "text": "Stick to writing about what she knows—raw, personal experiences that connect with fans",
+          "score": "S"
+        },
+        {
+          "text": "Strategically collaborate with diverse artists to expand her audience reach",
+          "score": "T"
+        },
+        {
+          "text": "Branch into new genres to showcase her versatility as an artist",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you relate to an Olivia lyric, you:",
+      "options": [
+        {
+          "text": "Text the lyric to multiple friends to see if they relate too",
+          "score": "E"
+        },
+        {
+          "text": "Reflect on how the lyric captures a universal truth about human emotion",
+          "score": "N"
+        },
+        {
+          "text": "Save the lyric in a private note to revisit when you need comfort",
+          "score": "I"
+        },
+        {
+          "text": "Create a mood board of images that match the lyric’s vibe",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach a creative project (like writing or drawing)?",
+      "options": [
+        {
+          "text": "Let ideas flow freely, switching between tasks as inspiration strikes",
+          "score": "P"
+        },
+        {
+          "text": "Follow a step-by-step plan to ensure you finish on schedule",
+          "score": "J"
+        },
+        {
+          "text": "Start with a concrete idea and build out details based on real-life observations",
+          "score": "S"
+        },
+        {
+          "text": "Begin with a vague concept and expand it into a complex, imaginative world",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When resolving a conflict with someone close, you:",
+      "options": [
+        {
+          "text": "Focus on finding a practical solution that fixes the issue immediately",
+          "score": "T"
+        },
+        {
+          "text": "Stay open to changing your mind based on new information they share",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize understanding their feelings to heal the relationship long-term",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your original point until they acknowledge your perspective",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to engage with Olivia’s fandom?",
+      "options": [
+        {
+          "text": "Scroll through fan art and quietly appreciate the creativity without commenting",
+          "score": "I"
+        },
+        {
+          "text": "Create fan fiction that expands the stories in her songs",
+          "score": "N"
+        },
+        {
+          "text": "Join online discussions to debate the meaning behind her lyrics",
+          "score": "E"
+        },
+        {
+          "text": "Attend in-person meetups to sing her songs with other fans",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have a busy week, you:",
+      "options": [
+        {
+          "text": "Batch similar tasks together to maximize your efficiency in new ways",
+          "score": "N"
+        },
+        {
+          "text": "Plan out every hour of your schedule to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Tackle one practical task at a time to avoid feeling overwhelmed",
+          "score": "S"
+        },
+        {
+          "text": "Go with the flow, adjusting your tasks as the day unfolds",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If you could embody one Olivia song’s energy for a day, you’d choose:",
+      "options": [
+        {
+          "text": "“vampire”—quietly intense, introspective, and deeply reflective",
+          "score": "I"
+        },
+        {
+          "text": "“bad idea right?”—chaotic, spontaneous, and unapologetically fun",
+          "score": "E"
+        },
+        {
+          "text": "“good 4 u”—raw, fiery, and unfiltered in expressing frustration",
+          "score": "F"
+        },
+        {
+          "text": "“deja vu”—observant, detail-oriented, and focused on repeating patterns",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Raw Storyteller",
+      "description": "Like Olivia in “vampire,” you’re The Raw Storyteller—you turn quiet, unspoken heartbreaks into vivid, emotional narratives. You feel deeply, holding onto memories others overlook, and express your truth through subtle, intimate moments. Your hidden trait is making even personal pain feel universal, letting others know they’re not alone in their struggles.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Unfiltered Dreamer",
+      "description": "Channeling the chaotic joy of “bad idea right?,” you’re The Unfiltered Dreamer—you thrive on turning spontaneous moments into unforgettable stories. You’re always connecting with others over shared passions, infusing every interaction with warmth and creativity. Your hidden trait is inspiring friends to embrace their messy, authentic selves through your fearless energy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Empathetic Seer",
+      "description": "You’re The Empathetic Seer, mirroring Olivia’s ability to see beyond surface emotions in “drivers license.” You intuitively understand others’ unsaid feelings, often anticipating their needs before they speak. Your hidden trait is weaving quiet wisdom into casual conversations, helping others make sense of their own confusing emotions without judgment.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Passionate Advocate",
+      "description": "Like Olivia’s call to authenticity in her music, you’re The Passionate Advocate—you use your voice to lift others up and champion what’s right. You thrive in group settings, rallying friends to support causes they care about. Your hidden trait is turning shared frustrations into collective action, creating safe spaces for everyone to express their true selves.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You’re The Strategic Visionary, echoing Olivia’s thoughtful approach to crafting hit songs. You see the big picture, planning every detail to turn your ideas into reality. Your hidden trait is analyzing situations from all angles, finding clever solutions that others miss. You balance creativity with logic, turning raw inspiration into structured, impactful work that leaves a mark.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Bold Trailblazer",
+      "description": "Channeling the unapologetic fire of “good 4 u,” you’re The Bold Trailblazer—you lead with confidence, never shying away from taking charge. You turn challenges into opportunities, using your strategic mind to outthink obstacles. Your hidden trait is motivating others to step outside their comfort zones, pushing them to achieve more than they ever thought possible.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Curious Analyst",
+      "description": "You’re The Curious Analyst, like Olivia dissecting the nuances of heartbreak in “deja vu.” You love diving deep into complex ideas, questioning everything to uncover hidden truths. Your hidden trait is turning casual observations into fascinating theories, sparking thoughtful conversations that make others see the world in a new light.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Witty Provocateur",
+      "description": "Mirroring Olivia’s sharp, playful lyricism, you’re The Witty Provocateur—you love challenging conventional ideas with clever jokes and unexpected perspectives. You thrive on lively debates, turning even mundane topics into engaging discussions. Your hidden trait is making others laugh while subtly shifting their worldview, one witty comment at a time.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Sensory Poet",
+      "description": "You’re The Sensory Poet, capturing the quiet beauty of moments like Olivia does in “enough for you.” You live in the present, savoring the taste of a favorite snack, the sound of a rainy day, or the feeling of a soft blanket. Your hidden trait is expressing your love through small, tangible gestures—like making a playlist or drawing a doodle—that speak louder than words.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Spontaneous Joy-Bringer",
+      "description": "Channeling the infectious energy of Olivia’s live performances, you’re The Spontaneous Joy-Bringer—you turn ordinary days into adventures. You love being around people, making everyone laugh with your silly antics and warm personality. Your hidden trait is finding joy in the smallest moments, turning a boring afternoon into a memorable experience with just a little creativity.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Calm Problem-Solver",
+      "description": "You’re The Calm Problem-Solver, like Olivia’s ability to turn chaos into a catchy song. You stay cool under pressure, using your hands-on skills to fix whatever comes your way. Your hidden trait is quietly taking charge in crises, fixing issues without needing recognition. You prefer showing your support through actions rather than words, letting your work speak for itself.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Fearless Experimenter",
+      "description": "Mirroring Olivia’s willingness to try new sounds in her music, you’re The Fearless Experimenter—you love taking risks and trying new things. You thrive in fast-paced environments, adapting quickly to whatever life throws at you. Your hidden trait is turning mistakes into opportunities, using every setback as a chance to learn and grow, no matter how messy it gets.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Nurturing Keeper",
+      "description": "You’re The Nurturing Keeper, like Olivia’s heartfelt tributes to her loved ones in her music. You remember every small detail about your friends—their favorite snacks, their biggest fears, their happiest memories. Your hidden trait is creating a sense of home wherever you go, making everyone feel safe and loved with your quiet, consistent care.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Warm Host",
+      "description": "Channeling Olivia’s ability to connect with fans on a personal level, you’re The Warm Host—you go out of your way to make everyone feel welcome. You love planning gatherings, from cozy movie nights to big parties, and always make sure no one feels left out. Your hidden trait is remembering the little things that make people feel seen, turning ordinary moments into cherished memories.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Reliable Grounder",
+      "description": "You’re The Reliable Grounder, like Olivia’s consistent work ethic in crafting her albums. You value tradition and stability, always keeping your promises and following through on your commitments. Your hidden trait is being the rock your friends can always count on, providing practical support and calm advice whenever they need it most, no questions asked.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Structured Leader",
+      "description": "Mirroring Olivia’s intentional approach to her career, you’re The Structured Leader—you thrive on organization and efficiency. You create clear plans to help your team succeed, making sure every task is done right. Your hidden trait is balancing structure with empathy, ensuring everyone feels valued while keeping things running smoothly, even in the most chaotic situations.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

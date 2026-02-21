@@ -1,0 +1,349 @@
+{
+  "quizId": 76,
+  "title": "How Stardew Valley-Aligned Are You?",
+  "category": "how",
+  "tags": [
+    "Stardew Valley",
+    "Farm Life",
+    "Personality",
+    "MBTI",
+    "Lifestyle"
+  ],
+  "description": "Answer 12 questions to discover how aligned you are with the heart of Stardew Valley!",
+  "questions": [
+    {
+      "text": "On a lazy morning, you’d most likely spend it...",
+      "options": [
+        {
+          "text": "Organizing your storage chests to make sure every tool and seed has its place",
+          "score": "J"
+        },
+        {
+          "text": "Chatting with neighbors and swapping stories over fresh-baked bread",
+          "score": "E"
+        },
+        {
+          "text": "Daydreaming about designing a completely new farm layout with exotic plants and unique structures",
+          "score": "N"
+        },
+        {
+          "text": "Lost in tending to your favorite patch of crops, totally focused on the rhythm of the soil",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When your farm faces sudden storm damage, you...",
+      "options": [
+        {
+          "text": "Feel a pang of worry for your plants first, then reach out to neighbors for help cleaning up",
+          "score": "F"
+        },
+        {
+          "text": "Immediately assess the most critical repairs and make a step-by-step plan to fix them",
+          "score": "T"
+        },
+        {
+          "text": "Grab your tools and start clearing debris right away, adapting to what needs fixing most in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Check each crop row carefully, noting exactly which plants need replanting first",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A new stranger moves into Pelican Town. You...",
+      "options": [
+        {
+          "text": "Wait a few days to let them settle in, then leave a jar of homemade jam on their doorstep with a quiet note",
+          "score": "I"
+        },
+        {
+          "text": "Bustle over with a plate of cookies the second you hear they’ve arrived, eager to show them around town",
+          "score": "E"
+        },
+        {
+          "text": "Wonder what stories they bring with them and how they might change the vibe of the valley",
+          "score": "N"
+        },
+        {
+          "text": "Observe their daily routine to figure out what they might need before approaching",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When choosing what to grow on your farm, you prioritize...",
+      "options": [
+        {
+          "text": "Crops that you can sell for the highest profit to expand your farm quickly",
+          "score": "T"
+        },
+        {
+          "text": "Plants that your neighbors mentioned they love, so you can share your harvest with them",
+          "score": "F"
+        },
+        {
+          "text": "Following a strict planting schedule to ensure maximum yield each season",
+          "score": "J"
+        },
+        {
+          "text": "Experimenting with rare, unusual seeds just to see how they grow in your soil",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy day when you can’t go outside, you’d rather...",
+      "options": [
+        {
+          "text": "Read up on ancient valley legends and imagine what secrets the mines might hold",
+          "score": "N"
+        },
+        {
+          "text": "Sort through your collection of foraged items and create a detailed inventory list",
+          "score": "S"
+        },
+        {
+          "text": "Host a small game night with a few close friends from town, laughing and sharing tales",
+          "score": "E"
+        },
+        {
+          "text": "Spend time journaling about your farm’s progress and planning small, meaningful upgrades",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When deciding whether to build a new structure on your farm, you...",
+      "options": [
+        {
+          "text": "Pick whatever feels right in the moment, even if it means rearranging later",
+          "score": "P"
+        },
+        {
+          "text": "Map out exactly where it will go and how it fits into your long-term farm design",
+          "score": "J"
+        },
+        {
+          "text": "Think about how it will help you connect with more people, like a community kitchen or market stall",
+          "score": "F"
+        },
+        {
+          "text": "Calculate how much it will cost, how long it takes to build, and what practical benefits it offers",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find an unusual, glowing rock in the mines. Your first thought is...",
+      "options": [
+        {
+          "text": "Wonder if it’s a sign from the valley’s old spirits and what it might mean for your farm",
+          "score": "N"
+        },
+        {
+          "text": "Take it to the blacksmith right away to find out its exact value and uses",
+          "score": "S"
+        },
+        {
+          "text": "Show it to every neighbor in town to see if anyone knows anything about it",
+          "score": "E"
+        },
+        {
+          "text": "Keep it in your pocket for a while, studying it alone and enjoying the mystery",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a friend from town is feeling down, you...",
+      "options": [
+        {
+          "text": "Offer specific, practical help—like watering their crops or fixing their fence—without being asked",
+          "score": "T"
+        },
+        {
+          "text": "Sit with them and listen to their worries, letting them know you’re there no matter what",
+          "score": "F"
+        },
+        {
+          "text": "Bring them a care package filled with their favorite things and plan a fun, spontaneous day to cheer them up",
+          "score": "P"
+        },
+        {
+          "text": "Follow a tried-and-true routine you use to comfort others, like making their go-to soup and sitting in quiet company",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "At the annual Stardew Valley Fair, you’re most drawn to...",
+      "options": [
+        {
+          "text": "The baking contest, where you’ve practiced your recipe for weeks to make it perfect",
+          "score": "J"
+        },
+        {
+          "text": "The fortune teller’s tent, curious about what the future might hold for your farm",
+          "score": "N"
+        },
+        {
+          "text": "The community dance, spinning around with anyone who asks and making new friends",
+          "score": "E"
+        },
+        {
+          "text": "The petting zoo, spending time with the animals and quietly enjoying their company",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a harvest festival contribution, you...",
+      "options": [
+        {
+          "text": "Create a unique, artistic arrangement of foraged flowers and rare fruits that no one else will think of",
+          "score": "P"
+        },
+        {
+          "text": "Stick to a classic, well-loved dish that everyone in town enjoys, using your best ingredients",
+          "score": "S"
+        },
+        {
+          "text": "Ask around to see what the town needs most, then contribute something that fills that gap",
+          "score": "F"
+        },
+        {
+          "text": "Calculate which contribution will earn you the most respect and help you build your reputation in town",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new path in the woods, you...",
+      "options": [
+        {
+          "text": "Immediately explore it, curious about what you might find around every corner",
+          "score": "E"
+        },
+        {
+          "text": "Take a moment to mark the spot, then come back later with a plan to explore it thoroughly",
+          "score": "J"
+        },
+        {
+          "text": "Wonder what kind of wildlife lives there and how it connects to the valley’s ecosystem",
+          "score": "N"
+        },
+        {
+          "text": "Forage any visible plants along the way, noting their uses as you go",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "At the end of a long farm day, you feel most satisfied when you’ve...",
+      "options": [
+        {
+          "text": "Helped multiple neighbors with small tasks and made someone’s day a little brighter",
+          "score": "F"
+        },
+        {
+          "text": "Checked every item off your to-do list and made measurable progress on your farm goals",
+          "score": "T"
+        },
+        {
+          "text": "Spent time alone in quiet reflection, appreciating the slow beauty of your farm at dusk",
+          "score": "I"
+        },
+        {
+          "text": "Had an unexpected adventure, like finding a hidden treasure or making a new animal friend",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Valley Community Champion",
+      "description": "You’re the beating heart of Pelican Town, always organizing potlucks, checking in on lonely neighbors, and rallying the town for every event. Your warmth and empathy draw people to you, and you see the best in everyone. Like a well-tended community garden, you help the valley and its residents grow stronger together—you’re an ENFJ, the nurturer of connections.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Whimsical Valley Dreamer",
+      "description": "You’re the valley’s resident visionary, always coming up with wild ideas like a fairy tale-themed farm or a traveling storytelling circle for kids. You thrive on unexpected moments, whether it’s finding a rare flower or striking up a deep conversation with a stranger. Your creativity and joy are contagious, making you the ENFP who turns every day into an adventure.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Master Farm Strategist",
+      "description": "You’re the valley’s most ambitious farmer, turning a tiny plot into a thriving agricultural empire with sharp planning and bold moves. You see the big picture—investing in the right crops, upgrading tools strategically, and negotiating the best prices in town. Your decisive, forward-thinking nature makes you an ENTJ, the architect of farm success.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Innovative Valley Tinkerer",
+      "description": "You’re always experimenting with new farming techniques—like hydroponic systems or cross-breeding rare crops—just to see what works. You love debating town plans with the mayor and challenging the status quo to make the valley better. Your quick wit and curiosity make you an ENTP, the problem-solver who turns every obstacle into an exciting project.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Cozy Valley Caretaker",
+      "description": "You remember every neighbor’s birthday, leave jam on doorsteps when someone’s sick, and keep your farm a warm, welcoming spot for everyone. You take pride in tending to the small, meaningful details—like mending the town’s bench or teaching kids to plant seeds. Your reliable, nurturing spirit makes you an ESFJ, the valley’s quiet guardian.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Festive Valley Celebrant",
+      "description": "You’re the life of every valley event, leading square dances at the harvest festival, decorating the town square for Winter Star, and always having a joke or a snack to share. You live in the moment, finding joy in harvesting a perfect pumpkin or splashing in the river on a hot day. Your outgoing, playful energy makes you an ESFP, the valley’s biggest cheerleader.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Valley Steward",
+      "description": "You keep your farm running like a well-oiled machine, following strict schedules, maintaining perfect records, and ensuring every task is done right. You respect the valley’s traditions and work hard to keep the town’s rules and routines intact. Your practical, organized nature makes you an ESTJ, the steady hand that keeps Pelican Town grounded.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Adventurous Valley Explorer",
+      "description": "You’re the first to dive into the deepest mines, catch the rarest fish, and test out the riskiest farming tricks. You thrive on action—whether it’s participating in the annual fishing tournament or fixing a broken tractor with whatever tools you have on hand. Your bold, hands-on approach makes you an ESTP, the valley’s fearless adventurer.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Valley Seer",
+      "description": "You have a deep connection to the valley’s ancient spirits and hidden secrets. You spend quiet evenings meditating by the lake, journaling about the valley’s history, and sensing when a neighbor needs a kind word before they even ask. Your introspective, intuitive nature makes you an INFJ, the valley’s wise guardian of stories and souls.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Gentle Valley Idealist",
+      "description": "You create a farm that’s a sanctuary for all—stray animals, rare plants, and anyone who needs a quiet place to rest. You write poetry about the changing seasons and see magic in every dewdrop on a leaf. Your soft-spoken, heartfelt spirit makes you an INFP, the dreamer who nurtures the valley’s most tender corners.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Mysterious Farm Architect",
+      "description": "You’ve mapped out every inch of your farm for the next 10 years, from crop rotations to mine exploration routes. You prefer to work alone, uncovering the valley’s hidden mysteries like the wizard’s tower secrets. Your strategic, independent nature makes you an INTJ, the mastermind who turns visions into precise, lasting plans.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Curious Valley Scholar",
+      "description": "You spend your free time studying the valley’s ecosystems, analyzing crop growth patterns, and figuring out how to optimize your farm’s energy use. You love solving puzzles, like cracking the mines’ secret levels or decoding old valley runes. Your analytical, inquisitive nature makes you an INTP, the valley’s resident researcher and problem-solver.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Warm Homesteader",
+      "description": "You’re the quiet backbone of Pelican Town. You remember everyone’s favorite gifts, tend to the community garden without fanfare, and find joy in making your farm a warm haven for friends and stray animals. Your careful, nurturing nature mirrors the steady growth of your crops—reliable, heartfelt, and deeply rooted in the valley’s spirit. You’re an ISFJ.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Artistic Farm Keeper",
+      "description": "Your farm is a living work of art—with wildflower borders, hand-painted signs, and a cozy nook for painting the sunset over the mountains. You express yourself through your harvests, arranging bouquets for neighbors and making unique crafts from foraged materials. Your gentle, creative spirit makes you an ISFP, the valley’s quiet artist.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Dependable Farm Manager",
+      "description": "You never miss a planting deadline, always pay your bills on time, and keep your farm immaculate from fence posts to crop rows. You value tradition, following the farming practices passed down through generations and honoring the valley’s history. Your reliable, detail-oriented nature makes you an ISTJ, the steady steward of farm and town.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Resourceful Valley Tinkerer",
+      "description": "You’re the go-to person when something breaks—whether it’s a broken fence, a jammed watering can, or the town’s old mill. You love taking things apart to see how they work, and you can fix almost anything with just a few tools and a little ingenuity. Your practical, hands-on nature makes you an ISTP, the valley’s quiet problem-solver.",
+      "mbti": "ISTP"
+    }
+  ]
+}

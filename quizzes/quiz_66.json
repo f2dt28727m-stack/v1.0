@@ -1,0 +1,349 @@
+{
+  "quizId": 66,
+  "title": "Which Bluey Character Is Your Perfect Soulmate?",
+  "category": "which",
+  "tags": [
+    "Bluey",
+    "Animated Series",
+    "Soulmate Match",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover which Bluey character is your ideal soulmate!",
+  "questions": [
+    {
+      "text": "When you have a free afternoon, you tend to...",
+      "options": [
+        {
+          "text": "Stay home and bake your favorite treat, following the recipe step by step to get it just right",
+          "score": "S"
+        },
+        {
+          "text": "Curl up in a cozy corner and daydream about all the big adventures you could go on someday",
+          "score": "N"
+        },
+        {
+          "text": "Wander through a local park, stopping to chat with every dog you meet along the way",
+          "score": "E"
+        },
+        {
+          "text": "Spend time rearranging your shelf of favorite toys into a perfectly organized display",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If your friend is feeling sad, you would...",
+      "options": [
+        {
+          "text": "Help them list out small, actionable steps to fix what’s making them upset",
+          "score": "T"
+        },
+        {
+          "text": "Sit with them quietly, sharing a warm blanket and letting them know you’re there without needing to say much",
+          "score": "I"
+        },
+        {
+          "text": "Invite them to join you for a fun activity to take their mind off things",
+          "score": "E"
+        },
+        {
+          "text": "Bring them their favorite snack and tell them a silly story to make them laugh",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new game, you prefer to...",
+      "options": [
+        {
+          "text": "Ask someone to walk you through every rule carefully before starting",
+          "score": "J"
+        },
+        {
+          "text": "Jump right in and figure out the rules as you play",
+          "score": "P"
+        },
+        {
+          "text": "Focus on mastering the basic moves before trying any fancy tricks",
+          "score": "S"
+        },
+        {
+          "text": "Invent your own house rules to make the game more exciting",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about unexpected plans?",
+      "options": [
+        {
+          "text": "See it as a chance to try something you wouldn’t have thought of otherwise",
+          "score": "N"
+        },
+        {
+          "text": "Get excited—spontaneity makes life feel more fun and alive",
+          "score": "P"
+        },
+        {
+          "text": "Take it in stride, adjusting your plans without much fuss",
+          "score": "S"
+        },
+        {
+          "text": "Feel a little anxious, preferring to stick to your original schedule",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When solving a problem, you usually...",
+      "options": [
+        {
+          "text": "Use past experiences to guide your choice",
+          "score": "S"
+        },
+        {
+          "text": "Trust your gut and go with what feels right in the moment",
+          "score": "F"
+        },
+        {
+          "text": "Brainstorm creative, out-of-the-box solutions",
+          "score": "N"
+        },
+        {
+          "text": "Look at the facts and logical outcomes to make a decision",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At a family gathering, you’re most likely to be...",
+      "options": [
+        {
+          "text": "Sitting on the sidelines, listening intently to others’ conversations",
+          "score": "I"
+        },
+        {
+          "text": "The one telling stories and getting everyone involved in a group game",
+          "score": "E"
+        },
+        {
+          "text": "Coming up with a silly skit to perform for everyone",
+          "score": "N"
+        },
+        {
+          "text": "Helping out in the kitchen, making sure everything is running smoothly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you finish a project, you feel the most proud if...",
+      "options": [
+        {
+          "text": "It turned out exactly how you had envisioned it",
+          "score": "J"
+        },
+        {
+          "text": "It brought joy to the people around you",
+          "score": "F"
+        },
+        {
+          "text": "It was completed efficiently and met all your initial goals",
+          "score": "T"
+        },
+        {
+          "text": "It evolved into something even better than you originally planned",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle long, quiet days?",
+      "options": [
+        {
+          "text": "Use the time to dive deep into a creative hobby you love",
+          "score": "N"
+        },
+        {
+          "text": "Fill them with small, meaningful tasks to keep busy",
+          "score": "S"
+        },
+        {
+          "text": "Enjoy the peace and quiet, recharging your energy alone",
+          "score": "I"
+        },
+        {
+          "text": "Call up a friend to chat and catch up on all the news",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a gift for someone, you...",
+      "options": [
+        {
+          "text": "Focus on getting them something practical they can use every day",
+          "score": "T"
+        },
+        {
+          "text": "Pick something you know they’ve been wanting for a long time",
+          "score": "S"
+        },
+        {
+          "text": "Choose something sentimental that will make them feel loved",
+          "score": "F"
+        },
+        {
+          "text": "Create a personalized gift that reflects your unique bond",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you have to give feedback to someone, you...",
+      "options": [
+        {
+          "text": "Suggest creative ways they could approach things differently",
+          "score": "N"
+        },
+        {
+          "text": "Be direct and clear about what needs to be improved",
+          "score": "T"
+        },
+        {
+          "text": "Frame it gently, focusing on their feelings as much as the issue",
+          "score": "F"
+        },
+        {
+          "text": "Use specific examples from their past actions to explain your point",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip, you...",
+      "options": [
+        {
+          "text": "Pack a bag and leave with only a rough idea of where you’re going",
+          "score": "P"
+        },
+        {
+          "text": "Book every detail—flights, hotels, and activities—months in advance",
+          "score": "J"
+        },
+        {
+          "text": "Research all the best local spots to visit and make a loose itinerary",
+          "score": "S"
+        },
+        {
+          "text": "Let your imagination run wild, planning all the unique adventures you want to have",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "What makes a day feel truly successful to you?",
+      "options": [
+        {
+          "text": "Checking off all the items on your to-do list",
+          "score": "T"
+        },
+        {
+          "text": "Spending quality time with the people you care about",
+          "score": "F"
+        },
+        {
+          "text": "Having a quiet, peaceful moment to yourself to reflect",
+          "score": "I"
+        },
+        {
+          "text": "Trying something new and stepping out of your comfort zone",
+          "score": "E"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bluey’s Adventure Companion",
+      "description": "You’re as lively and imaginative as Bluey herself, always ready to turn ordinary moments into epic quests. Your warmth and enthusiasm draw people in, and you love making others laugh with your silly ideas. Like Bluey, you value fun and connection above all else, turning every day into a chance to create new memories with loved ones.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Bandit’s Playful Co-Pilot",
+      "description": "You’re a laid-back, fun-loving soul just like Bandit, who sees life as one big game. You thrive on making people smile, whether that means telling a dad joke or inventing a silly new activity. You’re great at putting others at ease, and you believe the best moments happen when you let go of expectations and just play.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Chilli’s Caring Sidekick",
+      "description": "You’re the steady, nurturing presence everyone turns to, just like Chilli. You notice the small details that make others feel loved—like making a warm drink after a long day or remembering someone’s favorite snack. You thrive on creating a cozy, safe space for your family and friends, always ready to lend a helping hand.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Bingo’s Creative Partner",
+      "description": "You’re gentle and imaginative, with a knack for turning quiet moments into magic—just like Bingo. You love expressing yourself through art and storytelling, and you find joy in the little things, like a pretty rock or a silly song. You’re a loyal friend who listens deeply and always has a kind word to say.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Grandma’s Wise Advisor",
+      "description": "You’re calm, wise, and full of practical wisdom, just like Bluey’s grandma. You’ve learned to slow down and appreciate life’s simple pleasures, and you love sharing your stories with the younger generation. People come to you for advice because you listen without judgment and offer thoughtful, grounded insights.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Grandpa’s Adventure Buddy",
+      "description": "You’re a curious, easy-going soul who loves exploring the outdoors, just like Bluey’s grandpa. You’re always up for a walk in the woods or a trip to the beach, and you know all the best spots to find interesting bugs or hidden treasures. You teach others to appreciate nature’s beauty through your quiet enthusiasm.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Frisky’s Social Butterfly",
+      "description": "You’re outgoing and charismatic, with a gift for bringing people together—just like Frisky. You love hosting gatherings and making sure everyone feels included, whether that means planning a potluck or organizing a group game night. Your warm, friendly energy makes you the life of every party, and you thrive on connecting with others.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Radley’s Strategic Mentor",
+      "description": "You’re a sharp, strategic thinker who loves solving problems, just like Radley. You’re great at seeing the big picture and coming up with clever solutions to even the trickiest challenges. People respect your ability to stay calm under pressure and make decisions based on logic and reason, though you still know how to have fun when the work is done.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Muffin’s Bold Collaborator",
+      "description": "You’re confident and unapologetically yourself, just like Muffin. You have a strong sense of who you are and aren’t afraid to speak your mind, even if it means standing out from the crowd. You love leading the way in new adventures, and your boldness inspires others to step out of their comfort zones too.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Socks’ Gentle Protector",
+      "description": "You’re quiet but fiercely loyal, just like Socks. You take time to warm up to new people, but once you do, you’re their biggest supporter. You notice when someone feels left out and always find a way to include them, whether that means sharing your toy or inviting them to play a game. Your kindness runs deep, even if you don’t shout it from the rooftops.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Jack’s Loyal Teammate",
+      "description": "You’re a team player through and through, just like Jack. You value fairness and cooperation above all else, and you’re always willing to put in the work to help your group succeed. You’re reliable and hardworking, and people know they can count on you to follow through on your promises, no matter what.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Rusty’s Creative Innovator",
+      "description": "You’re a curious, inventive thinker who loves tinkering with new ideas, just like Rusty. You’re always taking things apart to see how they work and building new creations from scrap materials. Your imagination knows no bounds, and you inspire others to think outside the box and embrace their own creativity.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Indy’s Empathetic Guide",
+      "description": "You’re deeply empathetic and intuitive, able to sense how others are feeling without them saying a word—just like Indy. You’re a great listener who offers comfort and understanding to anyone who needs it. You believe in the power of connection and always strive to make the world a more kind and compassionate place.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Wendy’s Organized Coordinator",
+      "description": "You’re a detail-oriented, organized planner who loves bringing order to chaos, just like Wendy. You’re great at keeping track of schedules, deadlines, and small details that others might miss. People rely on your ability to make sure everything runs smoothly, and you take pride in creating systems that make life easier for everyone around you.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Judo’s Confident Leader",
+      "description": "You’re a natural leader who knows how to take charge and get things done, just like Judo. You’re confident in your abilities and aren’t afraid to make tough decisions when needed. You inspire others with your determination and drive, and you always strive to bring out the best in the people you work with.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Lila’s Compassionate Unifier",
+      "description": "You’re a warm, charismatic leader who leads with kindness, just like Lila. You have a gift for understanding what others need and bringing people together to achieve a common goal. You believe in lifting others up and creating a supportive community where everyone feels valued and heard. Your optimism and compassion make you a beloved figure to all who know you.",
+      "mbti": "ENFJ"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 83,
+  "title": "What’s Your Hidden Fortnite Gaming Trait?",
+  "category": "hidden",
+  "tags": [
+    "Fortnite",
+    "Gaming Personality",
+    "Hidden Trait",
+    "MBTI",
+    "Gaming Strategy"
+  ],
+  "description": "Answer 12 questions to discover your hidden Fortnite gaming trait!",
+  "questions": [
+    {
+      "text": "When the storm starts closing in, you immediately...",
+      "options": [
+        {
+          "text": "First check if you have enough meds and ammo to survive until the safe zone",
+          "score": "S"
+        },
+        {
+          "text": "Map out an unconventional route that avoids all popular firefight areas",
+          "score": "N"
+        },
+        {
+          "text": "Quickly mark multiple cover spots and call your team to move together",
+          "score": "E"
+        },
+        {
+          "text": "Quietly move to a hidden corner alone without disturbing your team",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a legendary weapon and a rare healing kit in a chest. You...",
+      "options": [
+        {
+          "text": "Keep both for yourself, knowing they’ll boost your team’s overall strength",
+          "score": "T"
+        },
+        {
+          "text": "Immediately ask nearby teammates if they need either item more",
+          "score": "F"
+        },
+        {
+          "text": "Toss a random extra item to make space, then stash them casually",
+          "score": "P"
+        },
+        {
+          "text": "Organize them into your pre-planned inventory slots for quick access",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A teammate gets pinned down by enemies. You...",
+      "options": [
+        {
+          "text": "Find a hidden sniping spot and suppress enemies to buy your teammate time",
+          "score": "I"
+        },
+        {
+          "text": "Throw a smoke grenade to cover them, then rush in to pull them up",
+          "score": "S"
+        },
+        {
+          "text": "Set up traps around the enemies’ position to force them to reposition",
+          "score": "N"
+        },
+        {
+          "text": "Gather remaining teammates to launch a coordinated counterattack",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re about to land on the island. You choose to...",
+      "options": [
+        {
+          "text": "Pick a random, visually interesting area to explore without a plan",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your pre-marked list of high-priority landing zones",
+          "score": "J"
+        },
+        {
+          "text": "Select a resource-rich but low-competition spot to gear up fast",
+          "score": "T"
+        },
+        {
+          "text": "Follow your teammates’ chosen landing spot to stay close together",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You hear footsteps nearby but can’t see the enemy. You...",
+      "options": [
+        {
+          "text": "Take a defensive stance and ready your shotgun for close combat",
+          "score": "S"
+        },
+        {
+          "text": "Call out to your teammates to help search the surrounding area",
+          "score": "E"
+        },
+        {
+          "text": "Crouch silently and use your headset to pinpoint their exact location",
+          "score": "I"
+        },
+        {
+          "text": "Circle around to their likely rear position for a surprise attack",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your team debates which strategy to use for the final circle. You...",
+      "options": [
+        {
+          "text": "Support the most popular suggestion to keep team morale high",
+          "score": "F"
+        },
+        {
+          "text": "Argue for the statistically most likely to succeed tactic",
+          "score": "T"
+        },
+        {
+          "text": "Suggest going with the flow and adapting to enemy movements",
+          "score": "P"
+        },
+        {
+          "text": "Reference your pre-written final circle playbook to pick a plan",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a secret bunker full of loot. You...",
+      "options": [
+        {
+          "text": "Search every nook and cranny for hidden passages or secret items",
+          "score": "N"
+        },
+        {
+          "text": "Grab only ammo and armor, leaving other loot for later",
+          "score": "S"
+        },
+        {
+          "text": "Stay quiet and collect key resources before slipping out unnoticed",
+          "score": "I"
+        },
+        {
+          "text": "Alert all teammates to come share the valuable loot with you",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "The game enters its final 5 minutes. You...",
+      "options": [
+        {
+          "text": "Stick strictly to your pre-planned final circle movement route",
+          "score": "J"
+        },
+        {
+          "text": "Wander to a vantage point that lets you watch all possible enemy angles",
+          "score": "P"
+        },
+        {
+          "text": "Check in with teammates to ensure they have enough supplies left",
+          "score": "F"
+        },
+        {
+          "text": "Focus intently on enemy positions to analyze their weaknesses",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You accidentally trigger a trap that alerts enemies. You...",
+      "options": [
+        {
+          "text": "Hide quietly and wait for enemies to approach before striking suddenly",
+          "score": "I"
+        },
+        {
+          "text": "Circle around to the enemy’s back to use the terrain for an ambush",
+          "score": "N"
+        },
+        {
+          "text": "Throw a grenade in the direction enemies are likely coming from",
+          "score": "S"
+        },
+        {
+          "text": "Shout for teammates to support while firing to draw their attention",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You have extra building materials but your inventory is full. You...",
+      "options": [
+        {
+          "text": "Keep only the most useful materials and discard the rest",
+          "score": "T"
+        },
+        {
+          "text": "Toss random excess materials and keep whatever’s left",
+          "score": "P"
+        },
+        {
+          "text": "Adhere strictly to your planned material stockpile limits and adjust accordingly",
+          "score": "J"
+        },
+        {
+          "text": "Drop them for any teammate who might need them, even if you run low",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your team loses a key member mid-game. You...",
+      "options": [
+        {
+          "text": "Cheer up remaining teammates and reorganize the team’s attack plan",
+          "score": "E"
+        },
+        {
+          "text": "Quietly adjust your playstyle to fill the missing teammate’s role",
+          "score": "I"
+        },
+        {
+          "text": "Shift to a more defensive strategy to avoid further losses",
+          "score": "N"
+        },
+        {
+          "text": "Collect your fallen teammate’s loot to boost your own capabilities",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You win the game. Your first reaction is to...",
+      "options": [
+        {
+          "text": "Lean back, stretch, and immediately queue up for another match",
+          "score": "P"
+        },
+        {
+          "text": "Celebrate with your teammates over voice chat for several minutes",
+          "score": "F"
+        },
+        {
+          "text": "Review your gameplay to identify tactics you can improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Jot down your winning strategy in a notes app for future reference",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Master Strategist",
+      "description": "You’re the silent architect of victory. Your hidden Fortnite trait is mapping entire game plans before landing, predicting enemy moves and setting traps that catch opponents off guard. You prioritize long-term wins over short-term thrills, often sacrificing immediate loot for a perfect final circle position. Your calm, calculated approach makes you any competitive team’s backbone.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Unconventional Tactician",
+      "description": "You thrive on chaos and unexpected plays. Your hidden Fortnite trait is turning random in-game events into wins—like using a stray grenade to trigger a chain reaction that takes out an enemy squad. You hate rigid strategies, preferring weird weapon combinations and unorthodox building tricks no one else anticipates. Your playful experimentation keeps opponents guessing.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Commanding Leader",
+      "description": "You’re the natural leader who takes charge the second the game starts. Your hidden Fortnite trait is rallying teammates, assigning roles, and making split-second decisions that turn battle tides. You don’t hesitate to take risks for victory, and your confident directives keep everyone focused on the end goal. Other players instinctively look to you for guidance.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Trickster Innovator",
+      "description": "You’re your team’s playful chaos agent. Your hidden Fortnite trait is baiting enemies into traps with fake loot drops or decoy builds, manipulating their moves for your advantage. You love ditching plans mid-game to try wild, untested tactics that catch everyone off guard. Your quick wit and unpredictable playstyle keep opponents on constant edge.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Empathetic Mentor",
+      "description": "You’re the quiet team player who always has others’ backs. Your hidden Fortnite trait is sensing when teammates struggle—whether they need healing, resources, or a pep talk. You prioritize team connection over individual kills, often sacrificing your own loot to help others. Your intuitive guidance helps teammates unlock their full in-game potential.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Creative Explorer",
+      "description": "You see Fortnite as an adventure, not just a battle. Your hidden Fortnite trait is craving map exploration over firefights, seeking out secret bunkers and scenic spots instead of high-loot zones. You build cozy structures just for fun, and you’d rather help a stranger than eliminate them. Your gentle curiosity makes every match feel like a new journey.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Inspiring Coordinator",
+      "description": "You’re your team’s heart and soul. Your hidden Fortnite trait is motivating nervous rookies into confident players with encouraging words. You remember everyone’s strengths, assign roles that let them shine, and celebrate every small win together. Even in tense moments, you keep morale high, making every game feel like a collaborative triumph.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Energetic Adventurer",
+      "description": "You’re the burst of energy that makes every game exciting. Your hidden Fortnite trait is landing in hot zones just for the thrill, experimenting with every weapon, and leading teammates on spontaneous explorations. You see every match as a chance to have fun, not just win, and your positive attitude is contagious to everyone you play with.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Guardian",
+      "description": "You’re the steady, dependable player everyone counts on. Your hidden Fortnite trait is meticulous preparation—you always have enough meds, ammo, and building materials for any scenario. You stick to proven strategies, never take unnecessary risks, and you’re first to rescue teammates in trouble. Your consistency is the foundation of every winning team.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Protector",
+      "description": "You’re the quiet caregiver who puts teammates first. Your hidden Fortnite trait is anticipating team needs, stockpiling healing items and sharing them before anyone asks. You build protective structures around injured allies, preferring defense over reckless charges. Your selfless acts keep the team alive and focused on reaching the final circle together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Structured Commander",
+      "description": "You’re the no-nonsense leader who runs tight, efficient teams. Your hidden Fortnite trait is creating clear, step-by-step plans that leave no room for error. You assign specific tasks, track resources carefully, and enforce rules to keep everyone organized. Your structured approach minimizes mistakes and maximizes your team’s chance of winning every match.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Sociable Team Player",
+      "description": "You’re the friendly glue that holds your team together. Your hidden Fortnite trait is keeping everyone laughing and connected, even during tense firefights. You celebrate every kill, console every loss, and make sure no one feels left out. You prioritize team harmony over individual success, making every game feel like a fun hangout with friends.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Quick-Thinker Mechanic",
+      "description": "You’re the silent problem-solver who thrives under pressure. Your hidden Fortnite trait is building complex structures in seconds to escape danger or take out enemies. You’re a master of using whatever resources are available, turning scrap into defensive fortresses or offensive traps. Your calm, hands-on approach makes you unbeatable in close-quarters combat.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Builder",
+      "description": "You see building as an art form, not just a tool. Your hidden Fortnite trait is designing beautiful, functional structures that double as masterpieces—you’d rather build a stunning castle than a plain bunker. You love experimenting with materials and shapes, playing for the joy of creating instead of just winning. Your builds make every match visually unique.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Fearless Scavenger",
+      "description": "You’re the bold, action-oriented player who lives for thrills. Your hidden Fortnite trait is rushing into hot zones, looting everything in sight, and taking out enemies before they notice you. You’re a master of close-quarters combat, using quick reflexes and bold moves to dominate encounters. Your fearless playstyle makes you a force to be reckoned with.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Spontaneous Entertainer",
+      "description": "You’re the life of the party who turns every match into a show. Your hidden Fortnite trait is dancing after kills, using silly emotes to taunt enemies, and pulling off wild stunts that make teammates laugh. You play for the moment, never worrying about rigid plans, and your infectious energy makes even losing matches feel like a memorable experience.",
+      "mbti": "ESFP"
+    }
+  ]
+}

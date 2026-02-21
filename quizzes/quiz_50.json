@@ -1,0 +1,349 @@
+{
+  "quizId": 50,
+  "title": "What Would You Do in Euphoria’s Most Raw Moments?",
+  "category": "whatwould",
+  "tags": [
+    "Euphoria",
+    "Personality Test",
+    "MBTI",
+    "What Would You Do",
+    "Drama Series"
+  ],
+  "description": "Answer 12 questions to discover how you’d navigate the chaotic, emotional world of Euphoria and uncover your inner response type!",
+  "questions": [
+    {
+      "text": "At a chaotic school party, someone you barely know breaks down in tears in the middle of the dance floor. You...",
+      "options": [
+        {
+          "text": "Wave down a friend who knows them better, then stand nearby to make sure they’re not bothered by others",
+          "score": "E"
+        },
+        {
+          "text": "Step back, observe their body language and the room’s energy for a few seconds before choosing how to intervene",
+          "score": "N"
+        },
+        {
+          "text": "Grab a bottle of water and a nearby quiet space, then gently guide them over to calm down",
+          "score": "S"
+        },
+        {
+          "text": "Push through the crowd to sit beside them, softly sharing a small vulnerable moment of your own to help them feel safe",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your best friend confesses they’ve been lying to everyone about a major part of their life. You...",
+      "options": [
+        {
+          "text": "Tell them you need a day to process what they said, then reach out when you’re ready to talk more",
+          "score": "I"
+        },
+        {
+          "text": "Help them map out a plan to be honest with others, focusing on minimizing hurt from the lie",
+          "score": "J"
+        },
+        {
+          "text": "Ask them to explain their reasons first, prioritizing understanding over judging their choices",
+          "score": "F"
+        },
+        {
+          "text": "Bring up specific moments you noticed something was off, asking how you can support them moving forward",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a handwritten note in the hallway that reveals someone is struggling with suicidal thoughts. You...",
+      "options": [
+        {
+          "text": "Take the note to a school counselor immediately, asking them to discreetly check in on the student",
+          "score": "T"
+        },
+        {
+          "text": "Post an anonymous message on the school’s social media, letting them know they’re not alone",
+          "score": "E"
+        },
+        {
+          "text": "Spend your lunch period hanging around the area where you found it, looking for clues about who wrote it",
+          "score": "S"
+        },
+        {
+          "text": "Keep the note with you, writing a heartfelt response and leaving it back in the same spot later that day",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your parent unexpectedly confronts you about a secret relationship you’ve been hiding. You...",
+      "options": [
+        {
+          "text": "Laugh it off and change the subject, planning to open up when you feel more prepared",
+          "score": "P"
+        },
+        {
+          "text": "Admit everything right away, explaining why you kept it secret and how the relationship makes you feel",
+          "score": "F"
+        },
+        {
+          "text": "Listen quietly to their concerns, then outline specific boundaries you need them to respect",
+          "score": "J"
+        },
+        {
+          "text": "Ask them to share their worries first, then respond with logical reasons for your choices",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "A classmate spreads a nasty rumor about you that goes viral on the school’s group chat. You...",
+      "options": [
+        {
+          "text": "Ignore the chat entirely, focusing on hanging out with your closest friends who know the truth",
+          "score": "I"
+        },
+        {
+          "text": "Post a sarcastic, lighthearted response to defuse the tension, turning the rumor into a joke",
+          "score": "E"
+        },
+        {
+          "text": "Ask a trusted teacher to help address the rumor publicly, setting the record straight clearly",
+          "score": "S"
+        },
+        {
+          "text": "DM the people who started the rumor, asking them to take it down and explaining how it hurt you",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to two conflicting events: a small, intimate dinner with your childhood friends and a huge, hyped-up party. You...",
+      "options": [
+        {
+          "text": "Show up to the party for an hour to say hello, then head to the dinner for the rest of the night",
+          "score": "P"
+        },
+        {
+          "text": "Commit fully to the dinner, letting the party hosts know you’ll catch up with them another time",
+          "score": "J"
+        },
+        {
+          "text": "Flip a coin to decide, going with whatever feels more exciting in the moment",
+          "score": "E"
+        },
+        {
+          "text": "Ask both groups if you can bring a friend from one event to the other, trying to merge the two plans",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re assigned a group project with people you don’t get along with. You...",
+      "options": [
+        {
+          "text": "Take charge of dividing tasks based on everyone’s strengths, creating a clear timeline for completion",
+          "score": "T"
+        },
+        {
+          "text": "Start a casual conversation about their interests first, hoping to build rapport before diving into work",
+          "score": "E"
+        },
+        {
+          "text": "Focus on your individual part of the project, checking in with the group only when necessary",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm creative, out-of-the-box ideas to make the project stand out, even if they’re a bit risky",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find out your significant other has been flirting with someone else online. You...",
+      "options": [
+        {
+          "text": "Ask them to show you the messages, calmly discussing boundaries and trust moving forward",
+          "score": "S"
+        },
+        {
+          "text": "Take some time alone to process your feelings before talking to them about how it made you hurt",
+          "score": "F"
+        },
+        {
+          "text": "Break things off immediately, deciding you don’t want to be with someone who can’t be loyal",
+          "score": "J"
+        },
+        {
+          "text": "Flirt with someone back to get even, then see how they react before making a decision",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re struggling with a mental health slump and can barely get out of bed. You...",
+      "options": [
+        {
+          "text": "Call your best friend to come over, letting them sit with you in silence without trying to fix it",
+          "score": "E"
+        },
+        {
+          "text": "Write down all your feelings in a journal, focusing on small, actionable steps to feel better",
+          "score": "T"
+        },
+        {
+          "text": "Scroll through old photos of happy memories, letting yourself feel the sadness until it fades a little",
+          "score": "N"
+        },
+        {
+          "text": "Force yourself to take a shower and eat a meal, sticking to your usual routine as much as possible",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A teacher accuses you of cheating on a test you studied hard for. You...",
+      "options": [
+        {
+          "text": "Argue with them loudly in front of the class, demanding they prove their accusation right away",
+          "score": "E"
+        },
+        {
+          "text": "Ask to speak with them privately after class, showing them your study notes and explaining your process",
+          "score": "I"
+        },
+        {
+          "text": "Request a retake of the test immediately to prove you didn’t cheat",
+          "score": "J"
+        },
+        {
+          "text": "Let it slide for now, then talk to the school principal about the unfair treatment later",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re at a store and witness someone shoplifting something small. You...",
+      "options": [
+        {
+          "text": "Alert the store manager discreetly, then wait to make sure they handle it appropriately",
+          "score": "S"
+        },
+        {
+          "text": "Walk over to the person, quietly saying you’ve been where they are and offering to buy the item for them",
+          "score": "F"
+        },
+        {
+          "text": "Mind your own business, figuring it’s not your place to interfere in someone else’s choices",
+          "score": "N"
+        },
+        {
+          "text": "Take a photo of them with your phone, then send it to the store’s security email anonymously",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a chance to skip school for a day and go on an impromptu road trip with friends. You...",
+      "options": [
+        {
+          "text": "Pack a bag immediately, ditching your plans without a second thought",
+          "score": "P"
+        },
+        {
+          "text": "Tell them you can’t go, since you have a test the next day and need to study",
+          "score": "J"
+        },
+        {
+          "text": "Ask them to delay the trip by a day so you can finish your schoolwork first",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a shorter, local adventure instead, so you don’t miss out entirely",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Rue’s Introspective Truth-Seeker",
+      "description": "Like Rue, you’re deeply introspective and driven by a hunger for authenticity. You’d navigate Euphoria’s chaos by clinging to your core values, even when the world feels overwhelming. You’re quick to pick up on others’ unspoken pain, and you offer quiet, unwavering support to those you love. Your INFP spirit makes you a loyal, empathetic presence in every messy moment.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Jules’s Free-Spirited Dreamer",
+      "description": "Channeling Jules’s vibrant energy, you’re a free-spirited dreamer who embraces life’s messy, beautiful moments. You’d dive headfirst into Euphoria’s parties and adventures, always looking for new ways to express yourself. You’re naturally curious about others, and you have a gift for making even the most reserved people feel seen. Your ENFP charm turns every day into an adventure.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Lexi’s Quiet Storyteller",
+      "description": "Just like Lexi, you’re a quiet storyteller who sees the world through a lens of deep empathy. You’d observe Euphoria’s chaos from the sidelines, taking in every detail and turning it into something meaningful. You’re a master at understanding others’ hidden motivations, and you use that insight to connect with people on a profound level. Your INFJ wisdom makes you a trusted confidant.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Maddy’s Passionate Advocate",
+      "description": "With Maddy’s fiery passion, you’re a natural advocate for yourself and others. You’d stand up against injustice in Euphoria’s world, never backing down from a fight that matters. You’re charismatic and confident, drawing people to you with your bold personality. You’re quick to notice when someone’s being mistreated, and you’ll do whatever it takes to protect those you care about.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Nate’s Strategic Visionary",
+      "description": "Like Nate, you’re a strategic visionary who always has a plan. You’d navigate Euphoria’s chaos by staying one step ahead, anticipating every possible outcome before making a move. You’re sharp and analytical, using your intellect to solve even the most complex problems. Your INTJ focus makes you a force to be reckoned with, even in the most unpredictable situations.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Cassie’s Bold Controller",
+      "description": "Channeling Cassie’s bold intensity, you’re a natural leader who takes charge in every situation. You’d dive into Euphoria’s drama with confidence, making decisions quickly and without hesitation. You’re driven by your goals, and you’ll do whatever it takes to get what you want. Your ENTJ determination makes you a dominant presence in every room you enter.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Fezco’s Laid-Back Thinker",
+      "description": "Just like Fezco, you’re a laid-back thinker who moves at his own pace. You’d navigate Euphoria’s chaos by staying calm and collected, even when everything around you is falling apart. You’re curious and analytical, always asking questions to understand the world better. Your INTP perspective makes you a thoughtful, grounded presence in every chaotic moment.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Kat’s Witty Provocateur",
+      "description": "With Kat’s sharp wit, you’re a provocative thinker who loves to challenge the status quo. You’d navigate Euphoria’s world by using your humor to defuse tension and turn heads. You’re quick on your feet, always ready with a clever comeback or a bold idea. Your ENTP charm makes you a memorable, unapologetic presence in every room.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Jules’s Soft-Hearted Creator",
+      "description": "Channeling Jules’s creative spirit, you’re a soft-hearted creator who expresses yourself through art and emotion. You’d navigate Euphoria’s chaos by turning your pain into something beautiful, using your creativity to cope with life’s challenges. You’re gentle and kind, always putting others’ needs before your own. Your ISFP warmth makes you a comforting, inspiring friend.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Maddy’s Spontaneous Performer",
+      "description": "Like Maddy, you’re a spontaneous performer who loves being the center of attention. You’d light up Euphoria’s parties with your bold style and infectious energy, always ready to dance or make a scene. You’re outgoing and fun-loving, drawing people to you with your vibrant personality. Your ESFP spirit turns every moment into a celebration.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Fezco’s Cool Problem-Solver",
+      "description": "Just like Fezco, you’re a cool problem-solver who stays calm under pressure. You’d navigate Euphoria’s chaos by taking action when it matters most, using your practical skills to fix any situation. You’re quiet and reserved, but you’re always ready to help out when someone needs it. Your ISTP reliability makes you a trusted friend in every crisis.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Nate’s Impulsive Risk-Taker",
+      "description": "With Nate’s impulsive energy, you’re a risk-taker who loves living on the edge. You’d dive into Euphoria’s drama without thinking twice, always looking for the next thrill. You’re bold and confident, never afraid to take what you want. Your ESTP fearlessness makes you a dynamic, unpredictable presence in every moment.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Lexi’s Nurturing Caregiver",
+      "description": "Just like Lexi, you’re a nurturing caregiver who puts others first. You’d navigate Euphoria’s chaos by taking care of your friends and family, always making sure everyone is safe and happy. You’re thoughtful and detail-oriented, remembering the little things that matter most. Your ISFJ kindness makes you a beloved, reliable presence in every life you touch.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Cassie’s Warm People-Pleaser",
+      "description": "Channeling Cassie’s warmth, you’re a people-pleaser who loves making others feel welcome. You’d thrive in Euphoria’s social scene, always going out of your way to be kind and helpful. You’re outgoing and friendly, drawing people to you with your big heart. Your ESFJ generosity makes you a popular, loved member of every group.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Cal’s Structured Traditionalist",
+      "description": "Like Cal, you’re a structured traditionalist who values order and stability. You’d navigate Euphoria’s chaos by sticking to your routine and following the rules, even when others are breaking them. You’re reliable and responsible, always doing what you think is right. Your ISTJ discipline makes you a steady, trustworthy presence in every uncertain situation.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Suze’s No-Nonsense Leader",
+      "description": "With Suze’s no-nonsense attitude, you’re a natural leader who gets things done. You’d navigate Euphoria’s chaos by taking charge and setting clear boundaries, making sure everyone stays on track. You’re practical and logical, always focusing on the most efficient way to solve a problem. Your ESTJ determination makes you a respected, effective leader in every scenario.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

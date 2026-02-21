@@ -1,0 +1,349 @@
+{
+  "quizId": 56,
+  "title": "What’s Your Sabrina Carpenter Hidden Personality?",
+  "category": "hidden",
+  "tags": [
+    "Sabrina Carpenter",
+    "Hidden Personality",
+    "MBTI",
+    "Personality Test",
+    "Pop Culture"
+  ],
+  "description": "Answer 12 questions to discover your hidden Sabrina Carpenter-inspired personality traits!",
+  "questions": [
+    {
+      "text": "After attending an intimate live show, you...",
+      "options": [
+        {
+          "text": "Sneak out early to unwind alone at a quiet nearby bookstore",
+          "score": "I"
+        },
+        {
+          "text": "Recall every tiny fan interaction and offhand comment from the set",
+          "score": "S"
+        },
+        {
+          "text": "Hang back to joke and chat with the band members and crew",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about how the performance would feel in a moonlit forest venue",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you first hear a new Sabrina Carpenter song, you...",
+      "options": [
+        {
+          "text": "Add it to your structured daily playlist and set it on repeat",
+          "score": "J"
+        },
+        {
+          "text": "Feel instantly pulled into the song’s emotional core and your own memories",
+          "score": "F"
+        },
+        {
+          "text": "Bounce between remixes and acoustic versions to explore all angles",
+          "score": "P"
+        },
+        {
+          "text": "Fixate on the clever chord progressions and production choices",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "If you had to co-write a song with Sabrina, you’d start by...",
+      "options": [
+        {
+          "text": "Brainstorming a surreal metaphor about stargazing and missed connections",
+          "score": "N"
+        },
+        {
+          "text": "Sharing a funny, specific anecdote from your weekend adventures",
+          "score": "S"
+        },
+        {
+          "text": "Writing down quiet, personal thoughts you’ve never shared with anyone",
+          "score": "I"
+        },
+        {
+          "text": "Inviting her to bounce wild, unfiltered ideas back and forth with you",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when someone disagrees with your take on Sabrina’s best album?",
+      "options": [
+        {
+          "text": "Present specific examples of lyrics and production to defend your view",
+          "score": "T"
+        },
+        {
+          "text": "Go with the flow, changing the topic to a shared favorite song instead",
+          "score": "P"
+        },
+        {
+          "text": "Listen closely to their reasoning to understand their perspective fully",
+          "score": "F"
+        },
+        {
+          "text": "Stand your ground, firmly stating your opinion without backing down",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "On a free day inspired by Sabrina’s vibe, you’d rather...",
+      "options": [
+        {
+          "text": "Host a small gathering with friends, baking cookies and singing along to her discography",
+          "score": "E"
+        },
+        {
+          "text": "Spontaneously take a road trip to a quirky small town you’ve never visited",
+          "score": "P"
+        },
+        {
+          "text": "Spend hours journaling, sketching, and crafting a DIY project in your room",
+          "score": "I"
+        },
+        {
+          "text": "Follow a detailed plan to visit a hidden art gallery and vintage record store",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you relate to a Sabrina lyric, you...",
+      "options": [
+        {
+          "text": "Save it in a private notes app to revisit when you need a mood boost",
+          "score": "I"
+        },
+        {
+          "text": "Text it to your closest friends, asking if they feel the same way",
+          "score": "E"
+        },
+        {
+          "text": "Connect it to a precise moment in your life, like a rainy afternoon last month",
+          "score": "S"
+        },
+        {
+          "text": "Imagine how it could apply to a fictional character you’ve created in your head",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you were directing a short film for one of her songs, you’d prioritize...",
+      "options": [
+        {
+          "text": "Building a fantastical, symbolic world that mirrors the song’s abstract emotions",
+          "score": "N"
+        },
+        {
+          "text": "Capturing raw, unscripted moments that feel authentic and heartfelt",
+          "score": "F"
+        },
+        {
+          "text": "Designing a tight, logical narrative that ties every scene to the song’s theme",
+          "score": "T"
+        },
+        {
+          "text": "Focusing on the vivid, sensory details of the setting—light, sound, textures",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle a stressful day that feels chaotic, like one of Sabrina’s high-energy tracks?",
+      "options": [
+        {
+          "text": "Stick to your usual routine, checking off tasks one by one to regain control",
+          "score": "J"
+        },
+        {
+          "text": "Find a quiet corner to breathe deeply and process your thoughts alone",
+          "score": "I"
+        },
+        {
+          "text": "Ditch your plans entirely and do something completely random to reset",
+          "score": "P"
+        },
+        {
+          "text": "Call a friend to vent and laugh about the chaos together",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When discovering a deep cut from Sabrina’s discography, you...",
+      "options": [
+        {
+          "text": "Analyze how it fits into her overall artistic evolution over time",
+          "score": "T"
+        },
+        {
+          "text": "Research the context of when it was written and who inspired it",
+          "score": "S"
+        },
+        {
+          "text": "Create a curated playlist pairing it with similar vibe songs for your friends",
+          "score": "F"
+        },
+        {
+          "text": "Wonder what it would sound like reimagined in a different genre, like jazz or folk",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you could ask Sabrina one question, you’d choose...",
+      "options": [
+        {
+          "text": "“How do you balance staying true to yourself with industry expectations?”",
+          "score": "F"
+        },
+        {
+          "text": "“What’s your strategy for handling pressure during big performances?”",
+          "score": "T"
+        },
+        {
+          "text": "“What’s the most unexpected place you’ve ever found songwriting inspiration?”",
+          "score": "N"
+        },
+        {
+          "text": "“Can you walk me through exactly how you wrote the bridge of my favorite song?”",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you’re trying to get into a creative mood like Sabrina, you...",
+      "options": [
+        {
+          "text": "Join a local songwriting workshop to collaborate with other creative people",
+          "score": "E"
+        },
+        {
+          "text": "Let your mind wander, flipping through random books or scrolling nature photos",
+          "score": "P"
+        },
+        {
+          "text": "Rearrange your space with new decorations and light candles to set the scene",
+          "score": "J"
+        },
+        {
+          "text": "Hide away in a quiet park bench with your notebook, writing down random thoughts",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you show your love for Sabrina’s music to others?",
+      "options": [
+        {
+          "text": "Create a detailed spreadsheet ranking her songs by production quality and lyricism",
+          "score": "T"
+        },
+        {
+          "text": "Make personalized mix CDs for friends, adding handwritten notes about each track",
+          "score": "F"
+        },
+        {
+          "text": "Wear a subtle, homemade pin with her song title that only true fans would recognize",
+          "score": "I"
+        },
+        {
+          "text": "Host a themed movie night watching her music videos with a group of fans",
+          "score": "E"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Sparkling Storyteller",
+      "description": "Like Sabrina’s whimsical lyricism, you’re a hidden storyteller who turns everyday moments into magic. You see the world through a lens of possibility, drawing inspiration from every conversation and quiet daydream. You’re unafraid to show your vulnerable side, connecting deeply with others through shared emotions. Your hidden trait is making the mundane feel extraordinary—just like a Sabrina deep cut that feels written just for you.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Quiet Dream Weaver",
+      "description": "You’re the hidden dream weaver, much like the introspective layers in Sabrina’s ballads. You find inspiration in quiet corners and late-night thoughts, crafting rich, internal narratives that feel deeply personal. You prefer to share your creativity with a small circle of trusted friends, valuing depth over breadth. Your hidden strength is turning your inner world into something that resonates softly but powerfully with others.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Empathetic Mentor",
+      "description": "You’re the empathetic mentor, mirroring Sabrina’s ability to lead with heart while staying grounded. You notice when others need support and step up to guide them through challenges, using your intuition to understand unspoken needs. You balance warmth with purpose, turning every interaction into an opportunity to lift someone up. Your hidden trait is making people feel seen and valued, just like Sabrina does with her fans.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Intuitive Guide",
+      "description": "You’re the intuitive guide, much like the subtle wisdom in Sabrina’s songwriting. You process the world through quiet observation, picking up on patterns and emotions others miss. You offer thoughtful, measured advice that feels tailored to each person’s journey, preferring to act behind the scenes rather than in the spotlight. Your hidden strength is helping others uncover their own hidden potential with gentle direction.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Witty Innovator",
+      "description": "You’re the witty innovator, channeling Sabrina’s sharp, playful energy into every aspect of life. You love brainstorming wild, unconventional ideas and challenging the status quo, turning boredom into adventure with a single quip. You thrive on intellectual banter and unexpected collaborations, finding joy in pushing creative boundaries. Your hidden trait is turning even the most ordinary moments into something exciting and unpredictable.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Curious Analyst",
+      "description": "You’re the curious analyst, mirroring the layered complexity in Sabrina’s production choices. You dive deep into topics that fascinate you, breaking them down to understand every nuance and detail. You prefer quiet focus over loud interactions, using your logic to solve problems and uncover hidden truths. Your hidden strength is turning confusion into clarity, making sense of the world in ways that feel both precise and insightful.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Spontaneous Adventurer",
+      "description": "You’re the spontaneous adventurer, channeling Sabrina’s high-energy, carefree vibe. You live in the moment, saying yes to every unexpected opportunity and turning routine into chaos (the good kind). You love exploring new places, trying new foods, and meeting new people, finding inspiration in every experience. Your hidden trait is making every day feel like an exciting, unscripted episode of your favorite show.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Sensory Creator",
+      "description": "You’re the sensory creator, much like the vivid, tactile details in Sabrina’s music. You find joy in the little things—the smell of fresh coffee, the sound of rain on a window, the feel of soft fabric. You express yourself through hands-on crafts and experiences, turning your surroundings into something beautiful and personal. Your hidden strength is making others appreciate the world’s small, sensory pleasures right alongside you.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Vibrant Connector",
+      "description": "You’re the vibrant connector, mirroring Sabrina’s ability to bring people together through her music. You thrive in social settings, lighting up every room with your energy and warmth. You remember everyone’s favorite song and favorite snack, turning gatherings into inclusive, joyful events. Your hidden trait is making even strangers feel like old friends, creating community wherever you go.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Gentle Expressionist",
+      "description": "You’re the gentle expressionist, channeling the soft, intimate side of Sabrina’s artistry. You express yourself through quiet, creative acts—painting, writing poetry, playing an instrument alone in your room. You prefer to share your work with a few close friends, valuing authenticity over attention. Your hidden strength is turning your quiet emotions into something that touches others in deep, unspoken ways.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Grounded Organizer",
+      "description": "You’re the grounded organizer, much like the structured, intentional way Sabrina builds her career. You thrive on order and plan, turning chaos into calm with your practical approach. You’re the one everyone turns to when they need help planning an event or solving a problem, using your logic to get things done efficiently. Your hidden trait is making sure everything runs smoothly, so others can focus on enjoying the moment.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Steadfast Traditionalist",
+      "description": "You’re the steadfast traditionalist, mirroring the classic, timeless elements in Sabrina’s music. You value loyalty, routine, and tradition, finding comfort in the things that have stood the test of time. You’re reliable and consistent, showing up for the people you care about no matter what. Your hidden strength is being a rock for others, providing stability in a world that’s always changing.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Nurturing Host",
+      "description": "You’re the nurturing host, channeling Sabrina’s warm, welcoming energy. You love taking care of others, whether it’s baking cookies for a friend who’s having a bad day or planning a perfect gathering for your loved ones. You notice when someone needs a hug or a listening ear, and you’re always there to offer support. Your hidden trait is making everyone feel loved and cared for, one small, thoughtful gesture at a time.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Caring Guardian",
+      "description": "You’re the caring guardian, much like the protective undertones in Sabrina’s lyrics about friendship. You quietly watch over the people you love, making sure they’re safe and happy without drawing attention to yourself. You remember every important date and every small detail about their lives, showing your love through consistent, reliable actions. Your hidden strength is being the quiet hero everyone can count on.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Strategic Visionary",
+      "description": "You’re the strategic visionary, mirroring the bold, ambitious side of Sabrina’s artistic evolution. You set big goals and create detailed plans to achieve them, using your logic and foresight to navigate challenges. You’re not afraid to take risks, as long as they’re calculated and aligned with your long-term vision. Your hidden trait is turning big dreams into reality, inspiring others to reach for their own goals too.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Focused Architect",
+      "description": "You’re the focused architect, much like the intricate, well-crafted structure of Sabrina’s songs. You build your life with intention, designing every part to fit into a larger, coherent vision. You prefer to work alone or with a small, trusted team, using your logic and attention to detail to create something lasting. Your hidden strength is turning abstract ideas into tangible, meaningful results that stand the test of time.",
+      "mbti": "INTJ"
+    }
+  ]
+}

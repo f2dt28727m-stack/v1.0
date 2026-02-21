@@ -1,0 +1,349 @@
+{
+  "quizId": 51,
+  "title": "What Euphoria Aesthetic Type Are You?",
+  "category": "which",
+  "tags": [
+    "Euphoria",
+    "TV Series",
+    "Personality Test",
+    "MBTI",
+    "Inner Aesthetic"
+  ],
+  "description": "Answer 12 questions to discover your Euphoria aesthetic personality!",
+  "questions": [
+    {
+      "text": "When you stumble upon a secret someone’s been hiding, you...",
+      "options": [
+        {
+          "text": "Confront them immediately, wanting to get to the bottom of it right away",
+          "score": "T"
+        },
+        {
+          "text": "Sit with the information for days, wondering how it affects their feelings",
+          "score": "F"
+        },
+        {
+          "text": "Tell your closest friend and brainstorm what it could mean for everyone involved",
+          "score": "E"
+        },
+        {
+          "text": "Keep it to yourself, not wanting to disrupt the fragile peace around you",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "On a random Saturday night, you’re most likely to...",
+      "options": [
+        {
+          "text": "Stick to your pre-planned movie marathon with a carefully curated snack list",
+          "score": "J"
+        },
+        {
+          "text": "Wander aimlessly around the city, letting your feet take you wherever feels right",
+          "score": "P"
+        },
+        {
+          "text": "Explore a new underground art exhibit you heard about from a stranger",
+          "score": "N"
+        },
+        {
+          "text": "Help your sibling fix their broken bike, since they’ve been asking for weeks",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have to make a big decision, you...",
+      "options": [
+        {
+          "text": "Trust your gut feeling, even if it doesn’t make logical sense to others",
+          "score": "F"
+        },
+        {
+          "text": "Take time alone to reflect on what you truly want, ignoring outside noise",
+          "score": "I"
+        },
+        {
+          "text": "Ask a handful of friends for their opinions before choosing",
+          "score": "E"
+        },
+        {
+          "text": "List out all the pros and cons before weighing the best possible outcome",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a journal left behind in a public space. You...",
+      "options": [
+        {
+          "text": "Turn it in to the front desk immediately, following the rules to return lost items",
+          "score": "J"
+        },
+        {
+          "text": "Imagine the story behind each entry, creating a whole backstory for the writer",
+          "score": "N"
+        },
+        {
+          "text": "Flip through the pages to look for clues about who the owner is",
+          "score": "S"
+        },
+        {
+          "text": "Hold onto it for a day or two, just in case the owner comes back looking for it spontaneously",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When a friend cancels plans last minute, you...",
+      "options": [
+        {
+          "text": "Breathe a sigh of relief, glad you get to spend the night alone with your favorite hobby",
+          "score": "I"
+        },
+        {
+          "text": "Invite another group of friends over to turn it into an impromptu gathering",
+          "score": "E"
+        },
+        {
+          "text": "Shift to your backup plan without hesitation, already having something else in mind",
+          "score": "T"
+        },
+        {
+          "text": "Text them to make sure they’re okay, prioritizing their well-being over your own plans",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re assigned a group project. You prefer to...",
+      "options": [
+        {
+          "text": "Brainstorm out-of-the-box ideas that could make the project stand out",
+          "score": "N"
+        },
+        {
+          "text": "Set a strict timeline and hold everyone accountable to their roles",
+          "score": "J"
+        },
+        {
+          "text": "Focus on the specific, tangible tasks that need to be done to meet the deadline",
+          "score": "S"
+        },
+        {
+          "text": "Go with the flow, adapting to whatever ideas the group comes up with on the spot",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling emotionally drained, you...",
+      "options": [
+        {
+          "text": "Call up your best friend and vent for hours until you feel better",
+          "score": "E"
+        },
+        {
+          "text": "Clean your entire room, using the physical task to distract yourself from the pain",
+          "score": "S"
+        },
+        {
+          "text": "Spend the day in bed reading poetry, letting your feelings wash over you",
+          "score": "I"
+        },
+        {
+          "text": "Write down all your emotions in a letter you’ll never send, organizing your thoughts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re at a party where you don’t know anyone. You...",
+      "options": [
+        {
+          "text": "Leave early, deciding it’s not worth forcing yourself to socialize",
+          "score": "P"
+        },
+        {
+          "text": "Walk up to the first person you see and strike up a conversation about the music",
+          "score": "E"
+        },
+        {
+          "text": "Set a timer for an hour, committing to staying until it goes off before deciding to leave",
+          "score": "J"
+        },
+        {
+          "text": "Hang back by the snack table, observing everyone else’s interactions from afar",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you watch a tragic movie, you...",
+      "options": [
+        {
+          "text": "Analyze the character’s motivations, trying to understand why things unfolded that way",
+          "score": "T"
+        },
+        {
+          "text": "Sit in silence for a while, processing the story alone before moving on",
+          "score": "I"
+        },
+        {
+          "text": "Cry openly, feeling every emotion as if it’s happening to you",
+          "score": "F"
+        },
+        {
+          "text": "Text your friends to discuss the ending, wanting to hear their take on it",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re planning a surprise for someone. You...",
+      "options": [
+        {
+          "text": "Choose a gift that solves a practical problem they’ve been having lately",
+          "score": "S"
+        },
+        {
+          "text": "Stick to a detailed checklist to make sure every part goes off without a hitch",
+          "score": "J"
+        },
+        {
+          "text": "Create a custom gift that reflects their deepest hopes and dreams",
+          "score": "N"
+        },
+        {
+          "text": "Wing most of it, adding little touches based on how the day unfolds",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you disagree with someone, you...",
+      "options": [
+        {
+          "text": "State your point clearly, using facts to back up your argument",
+          "score": "T"
+        },
+        {
+          "text": "Drop the argument, not wanting to cause tension between you two",
+          "score": "I"
+        },
+        {
+          "text": "Try to see things from their perspective, prioritizing their feelings over being right",
+          "score": "F"
+        },
+        {
+          "text": "Bring in other people to weigh in, hoping to find a middle ground together",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new hobby, you...",
+      "options": [
+        {
+          "text": "Join a community of people who share the hobby, learning from others’ experiences",
+          "score": "E"
+        },
+        {
+          "text": "Dive deep into tutorials and practice daily to master the basics quickly",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with it alone, coming up with your own unique way to do it",
+          "score": "I"
+        },
+        {
+          "text": "Play around with it casually, trying different techniques without pressure to excel",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Wounded Idealist",
+      "description": "Beneath your soft, quiet exterior lies a storm of unspoken longing and fierce loyalty. Like Rue’s quiet quest for belonging, you crave genuine connections in a world that often feels fake. You hold onto small, sacred moments of authenticity, even when life feels chaotic and unmanageable. You’re deeply sensitive, introspective, and unafraid to confront the pain others ignore.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Chaotic Visionary",
+      "description": "You’re the life of every gathering, but beneath your bubbly exterior lies a mind constantly racing with wild ideas and big dreams. Like Jules’ fearless exploration of identity, you embrace change and thrive on uncertainty. You draw energy from connecting with others, inspiring them to see the world through a more vibrant lens, even when your emotions feel scattered.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Silent Empath",
+      "description": "You see the hidden truths everyone else misses, sensing unspoken pain and desires in those around you. Like Lexi’s quiet observation of her friends’ lives, you process the world through deep empathy and intuition. You prefer the background, but your insights have the power to shift how people see themselves and the messy, beautiful world around them.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Compassionate Leader",
+      "description": "You’re the person everyone turns to for advice, drawn to your warm, nurturing energy and ability to see the best in people. Like Maddy’s quiet care for her friends, you take on the protector role, always putting others’ needs first. You thrive on building meaningful communities and helping loved ones grow into their most authentic selves, even when it drains you.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Dreamer",
+      "description": "You’re a master of planning, with a mind that always thinks three steps ahead. Like Nate’s calculated approach (minus the darkness), you use intelligence to navigate complex situations and achieve your goals. You prefer working alone, trusting your own logic and intuition over others’ opinions, even when it makes you feel misunderstood or isolated.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Unapologetic Director",
+      "description": "You’re a natural leader, unafraid to take charge and make tough decisions. Like Cassie’s sudden shift to assertiveness, you know what you want and aren’t afraid to go after it. You draw energy from organizing chaos and inspiring others to follow your vision, even when your bluntness rubs people the wrong way or creates tension.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Curious Rebel",
+      "description": "You’re a walking question mark, always curious about how the world works and why people do what they do. Like Fezco’s quiet observation and unexpected wisdom, you prefer analyzing situations from a distance, crafting clever solutions to problems no one else notices. You hate being boxed in, thriving on freedom to explore your own weird, wonderful ideas.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Provocative Innovator",
+      "description": "You love challenging the status quo, using quick wit and sharp mind to debate any topic under the sun. Like Kat’s bold reclamation of her identity, you aren’t afraid to ruffle feathers and make people uncomfortable. You draw energy from engaging with others, turning every conversation into an opportunity to learn and grow, even when it feels chaotic.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Gentle Rebel",
+      "description": "You express yourself through quiet acts of creativity—art, music, or small, thoughtful gestures. Like Jules’ artistic expression of identity, you prefer showing feelings rather than saying them. You value authenticity above all else, staying true to yourself even when the world tries to pressure you into being something you’re not or hiding your true colors.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Vibrant Storyteller",
+      "description": "You live in the moment, drawing energy from every sensory experience around you. Like Maddy’s bold, unapologetic presence, you love being the center of attention, using charm and charisma to make everyone feel seen. You thrive on excitement and new adventures, turning even the most mundane day into something memorable and full of life.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Quiet Problem-Solver",
+      "description": "You’re a master of fixing things, whether it’s a broken bike or a messy situation. Like Fezco’s calm under pressure and ability to handle crises, you prefer taking action rather than talking about it. You stay cool and collected in chaos, using practical skills to navigate whatever life throws your way, even when others don’t understand your methods.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Bold Risk-Taker",
+      "description": "You thrive on adrenaline, loving nothing more than taking spontaneous risks and living on the edge. Like Nate’s reckless actions (but with a kinder heart), you trust your instincts and jump into new experiences without overthinking. You draw energy from being in the thick of things, solving problems as they come and making life feel like one big adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Nurturing Guardian",
+      "description": "You’re the person everyone relies on, always remembering the small details that matter most. Like Lexi’s careful planning of her play to honor friends, you show love through acts of service. You prefer the background, but your kindness and attention to detail make you the glue that holds your loved ones together, even when life feels unsteady.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Warm Host",
+      "description": "You live for making others feel welcome, turning every gathering into a cozy, inclusive space. Like Maddy’s ability to make everyone feel seen at parties, you thrive on connecting with others and ensuring everyone has a good time. You’re deeply loyal to friends and family, always going out of your way to meet their needs, even when it’s exhausting.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Steady Rock",
+      "description": "You’re the epitome of reliability, always keeping promises and sticking to your word. Like Cal’s structured (but flawed) approach to family, you value order and stability above all else. You prefer following rules and routines, using practical skills to keep things running smoothly, even when life feels unpredictable or overwhelming.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Responsible Organizer",
+      "description": "You’re a natural planner, with a knack for turning chaos into order. Like Cassie’s desire to please others (but with more confidence), you take on responsibility willingly, ensuring every task is done correctly. You draw energy from helping others stay on track, using practical wisdom to guide those around you, even when it feels like a heavy burden.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 100,
+  "title": "What Taylor Swift-Aligned Reaction Style Matches Your Inner Tendencies?",
+  "category": "whatwould",
+  "tags": [
+    "Taylor Swift",
+    "MBTI",
+    "Personality",
+    "What Would You Do",
+    "Pop Culture"
+  ],
+  "description": "Answer 12 scenario-based questions to discover which Taylor Swift-aligned reaction style matches your inner tendencies and hidden preferences!",
+  "questions": [
+    {
+      "text": "You stumble upon a surprise fan meet-and-greet while running errands—you would...",
+      "options": [
+        {
+          "text": "Quietly slip past, smiling at the fans but preferring not to draw attention to yourself",
+          "score": "I"
+        },
+        {
+          "text": "Dive right in, strike up conversations with other fans, and stay to take photos with everyone",
+          "score": "E"
+        },
+        {
+          "text": "Imagine what it’d be like to perform for such dedicated fans, daydreaming about the experience for the rest of your errand run",
+          "score": "N"
+        },
+        {
+          "text": "Take a quick photo from the side to remember the moment, then finish your errands as planned",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite song gets misinterpreted online—you would...",
+      "options": [
+        {
+          "text": "Analyze the comments logically, then craft a thoughtful response to clarify the song’s true meaning",
+          "score": "T"
+        },
+        {
+          "text": "Feel hurt by the misinterpretation, then reach out to close friends for emotional support",
+          "score": "F"
+        },
+        {
+          "text": "Let it go, focusing instead on the fans who already understand the song’s heart",
+          "score": "P"
+        },
+        {
+          "text": "Draft a clear, point-by-point statement to set the record straight immediately",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to plan a small gathering with close friends—you would...",
+      "options": [
+        {
+          "text": "Create a detailed schedule with specific activities, dinner menus, and timelines",
+          "score": "J"
+        },
+        {
+          "text": "Pick a cozy spot and let the night unfold naturally, going with whatever feels right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Ask each friend what they want to do, prioritizing their preferences over your own",
+          "score": "F"
+        },
+        {
+          "text": "Organize lighthearted competitive games to keep the energy high and everyone laughing",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You hear a new unreleased snippet of a song—you would...",
+      "options": [
+        {
+          "text": "Save the snippet to listen to later when you’re alone, savoring the moment without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Share the snippet with all your friends immediately, asking them what they think about it",
+          "score": "E"
+        },
+        {
+          "text": "Replay it repeatedly to pick up on every lyric and instrumental detail, memorizing the melody quickly",
+          "score": "S"
+        },
+        {
+          "text": "Let the snippet spark a story in your head, imagining the full song’s backstory and themes",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend suggests you try a new, unconventional hobby—you would...",
+      "options": [
+        {
+          "text": "Say yes immediately, eager to learn something new and meet people who share the hobby",
+          "score": "E"
+        },
+        {
+          "text": "Ask for detailed information about how the hobby works before deciding to try it",
+          "score": "S"
+        },
+        {
+          "text": "Think about how the hobby could fit into your long-term interests and creative goals",
+          "score": "N"
+        },
+        {
+          "text": "Politely decline, preferring to stick with your familiar, comforting hobbies instead",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You have to resolve a conflict between two close friends—you would...",
+      "options": [
+        {
+          "text": "Listen closely to both sides, validating their feelings before helping them find common ground",
+          "score": "F"
+        },
+        {
+          "text": "Point out the factual inconsistencies in their arguments to help them see the logical solution",
+          "score": "T"
+        },
+        {
+          "text": "Let them work it out on their own, checking in later to see if they’ve resolved things",
+          "score": "P"
+        },
+        {
+          "text": "Set a time for all three of you to talk, creating a structured plan to address the conflict",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a free ticket to a last-minute concert—you would...",
+      "options": [
+        {
+          "text": "Invite a group of friends to come with you, making a night out of the spontaneous event",
+          "score": "E"
+        },
+        {
+          "text": "Go alone, excited to experience the concert without having to coordinate with others",
+          "score": "I"
+        },
+        {
+          "text": "Research the band’s discography beforehand to familiarize yourself with their most popular songs",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all the possible moments you’ll remember, from the opening act to the encore",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You need to rewrite a personal project that didn’t turn out as planned—you would...",
+      "options": [
+        {
+          "text": "Start over from scratch, experimenting with new ideas and creative approaches",
+          "score": "P"
+        },
+        {
+          "text": "Follow a step-by-step outline to fix the specific issues with the original project",
+          "score": "J"
+        },
+        {
+          "text": "Ask for feedback from others to understand how to make it more meaningful to them",
+          "score": "F"
+        },
+        {
+          "text": "Analyze what went wrong logically, adjusting the project based on practical solutions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a handwritten note with a heartfelt message left in a bookstore—you would...",
+      "options": [
+        {
+          "text": "Leave a reply note for the writer, hoping to connect with someone who shares your sentiment",
+          "score": "E"
+        },
+        {
+          "text": "Fold it neatly and put it back where you found it, letting it wait for its intended recipient",
+          "score": "I"
+        },
+        {
+          "text": "Think about the exact moment the writer sat in the bookstore, penning the words on the page",
+          "score": "S"
+        },
+        {
+          "text": "Wonder about the writer’s life story, imagining all the experiences that led them to write the note",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re assigned to lead a group project for work or school—you would...",
+      "options": [
+        {
+          "text": "Delegate tasks based on each member’s strengths, checking in regularly to ensure progress",
+          "score": "J"
+        },
+        {
+          "text": "Let the group self-organize, adjusting your role based on what the team needs in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize building a positive team dynamic, making sure everyone feels heard and valued",
+          "score": "F"
+        },
+        {
+          "text": "Set clear deadlines and measurable goals to ensure the project is completed efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You have a free afternoon with no plans—you would...",
+      "options": [
+        {
+          "text": "Call up a friend and explore a new café or park in your city",
+          "score": "E"
+        },
+        {
+          "text": "Spend the time reading, journaling, or working on a personal creative project",
+          "score": "I"
+        },
+        {
+          "text": "Tackle the small chores you’ve been putting off, crossing items off your to-do list",
+          "score": "S"
+        },
+        {
+          "text": "Take a drive to a new neighborhood, exploring without a specific destination in mind",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You receive constructive criticism on a personal creation—you would...",
+      "options": [
+        {
+          "text": "Ask follow-up questions to understand how you can improve the creation effectively",
+          "score": "T"
+        },
+        {
+          "text": "Take a moment to process the feedback, focusing on how it makes you feel before responding",
+          "score": "F"
+        },
+        {
+          "text": "Make immediate changes based on the feedback to refine the creation right away",
+          "score": "J"
+        },
+        {
+          "text": "Set the feedback aside for a few days, coming back to it when you’re ready to make adjustments",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Fearless Dreamer",
+      "description": "You’re the bold, whimsical spirit who wears their heart on their sleeve, just like Taylor in her Fearless era. You thrive on connecting with others through shared stories, jump into new adventures without overthinking, and turn everyday moments into magical memories. Your optimism is contagious, and you never shy away from speaking your truth, even when it feels scary.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Reputation Strategist",
+      "description": "You’re the sharp, forward-thinking planner who values privacy and precision, mirroring Taylor’s Reputation era. You prefer to observe before acting, craft long-term strategies to reach your goals, and keep your inner circle small but loyal. You don’t let outside noise distract you, focusing instead on what truly matters to you and your closest loved ones.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Lover Social Butterfly",
+      "description": "You’re the warm, energetic extrovert who lives for connection and joy, just like Taylor in her Lover era. You love throwing gatherings for friends, expressing your affection openly, and creating colorful, memorable moments for everyone around you. Your ability to make others feel seen and loved is your greatest strength.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Folklore Storyteller",
+      "description": "You’re the introspective, creative visionary who finds magic in quiet moments, mirroring Taylor’s Folklore era. You love crafting complex stories, exploring deep, meaningful ideas, and spending time alone to recharge your energy. Your inner world is rich with imagination, and you often see beauty in the overlooked details of life.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "1989 Bold Explorer",
+      "description": "You’re the spontaneous, adventurous risk-taker who loves living in the moment, just like Taylor in her 1989 era. You’re always ready to try something new, embrace change with open arms, and make the most of every opportunity that comes your way. Your quick wit and charm make you the life of any gathering.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Evermore Contemplative Thinker",
+      "description": "You’re the curious, analytical problem-solver who values knowledge and independence, mirroring Taylor’s Evermore era. You love diving into complex topics, questioning the world around you, and finding creative solutions to challenging problems. You prefer to work alone, allowing your mind to wander and explore new ideas freely.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Speak Now Nurturer",
+      "description": "You’re the caring, responsible caregiver who puts others first, just like Taylor in her Speak Now era. You’re always there for your friends and family, offering support and guidance whenever they need it. You thrive on creating harmony in your relationships and making sure everyone feels safe and valued.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Red Passionate Artist",
+      "description": "You’re the sensitive, creative soul who experiences life deeply, mirroring Taylor’s Red era. You express yourself through art, music, or writing, turning your emotions into something beautiful and relatable. You value authenticity above all else, and you aren’t afraid to show your vulnerable side to those you trust.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Midnights Organized Planner",
+      "description": "You’re the reliable, detail-oriented planner who values structure and consistency, just like Taylor in her Midnights era. You love making lists, setting goals, and staying on top of your responsibilities. Your ability to stay calm under pressure and get things done efficiently makes you someone others can always count on.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Debut Bold Leader",
+      "description": "You’re the confident, decisive leader who knows exactly what they want, mirroring Taylor’s Debut era. You’re not afraid to take charge, speak your mind, and pursue your goals with unwavering determination. Your strong work ethic and clear vision inspire those around you to follow your lead.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Fearless Loyal Caregiver",
+      "description": "You’re the quiet, dedicated nurturer who supports others from the shadows, just like Taylor’s introspective side in Fearless. You remember the small details about your loved ones, go out of your way to help them, and prioritize their needs above your own. Your loyalty and kindness make you a trusted confidant to everyone in your life.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Reputation Quick Thinker",
+      "description": "You’re the witty, innovative visionary who loves challenging the status quo, mirroring Taylor’s sharp side in Reputation. You thrive on brainstorming new ideas, debating different perspectives, and finding clever ways to overcome obstacles. Your ability to think on your feet makes you a natural problem-solver and conversationalist.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Lover Introspective Romantic",
+      "description": "You’re the dreamy, empathetic romantic who values deep, meaningful connections, just like Taylor’s tender side in Lover. You express your love through small, thoughtful gestures, cherish quiet moments with your loved ones, and believe in the power of love to change the world. Your heart is full of compassion and warmth.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Folklore Structured Visionary",
+      "description": "You’re the organized, strategic thinker who balances creativity with practicality, mirroring Taylor’s thoughtful side in Folklore. You love turning big ideas into actionable plans, creating order out of chaos, and ensuring every detail is perfect. Your ability to see the big picture while focusing on small details makes you an effective leader.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "1989 Thoughtful Explorer",
+      "description": "You’re the curious, adaptable observer who loves exploring new places and ideas, just like Taylor’s reflective side in 1989. You enjoy learning about different cultures, trying new foods, and meeting interesting people. You’re always open to new experiences, and you take the time to appreciate the beauty in every moment.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Evermore Spontaneous Thinker",
+      "description": "You’re the laid-back, open-minded problem-solver who loves going with the flow, mirroring Taylor’s free-spirited side in Evermore. You don’t let plans hold you back, preferring to adapt to whatever comes your way. Your ability to stay calm in unexpected situations and find joy in the journey makes you a beloved friend and companion.",
+      "mbti": "ENFJ"
+    }
+  ]
+}

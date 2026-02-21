@@ -1,0 +1,349 @@
+{
+  "quizId": 52,
+  "title": "What’s Your Future Euphoria-Inspired Life Path?",
+  "category": "future",
+  "tags": [
+    "Euphoria",
+    "TV Show",
+    "MBTI",
+    "Future Life",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your future Euphoria-inspired life path!",
+  "questions": [
+    {
+      "text": "When you have a free weekend with no plans, you most likely...",
+      "options": [
+        {
+          "text": "Create a detailed schedule for the next month, including small rituals to help you stay grounded",
+          "score": "J"
+        },
+        {
+          "text": "Spend hours rearranging your personal space with thrifted decor that reminds you of forgotten memories",
+          "score": "S"
+        },
+        {
+          "text": "Reach out to three different friends and plan a spontaneous night exploring underground music venues",
+          "score": "E"
+        },
+        {
+          "text": "Lose yourself in writing a raw, unfiltered journal entry about the quiet grief you’ve been ignoring",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "If you had to resolve a conflict with someone close to you, you would...",
+      "options": [
+        {
+          "text": "Focus on finding a mutual solution that addresses both your core needs without drama",
+          "score": "T"
+        },
+        {
+          "text": "Invite them to a quiet cafe and share how their actions made you feel, even if it’s uncomfortable",
+          "score": "F"
+        },
+        {
+          "text": "Avoid the conversation altogether, hoping the tension fades on its own over time",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm a creative way to express your feelings through art or a symbolic gesture instead of talking",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you encounter a confusing new trend online, you react by...",
+      "options": [
+        {
+          "text": "Dive deep into analyzing the cultural context and real-world impact behind it",
+          "score": "S"
+        },
+        {
+          "text": "Imagine how you could twist the trend to fit your own unique identity and style",
+          "score": "N"
+        },
+        {
+          "text": "Ask multiple friends their opinions to understand different perspectives on it",
+          "score": "E"
+        },
+        {
+          "text": "Ignore it completely, focusing on the things that already bring you comfort",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a sudden crisis disrupts your daily routine, you...",
+      "options": [
+        {
+          "text": "Adapt quickly, turning the chaos into an opportunity to try something you’ve never done before",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your original plan as much as possible, making small adjustments to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Prioritize supporting the people around you who are feeling overwhelmed by the change",
+          "score": "F"
+        },
+        {
+          "text": "Break down the problem into logical steps and solve each one systematically",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you want to celebrate a personal win, you prefer to...",
+      "options": [
+        {
+          "text": "Host a small gathering with your closest loved ones, sharing stories and laughter late into the night",
+          "score": "E"
+        },
+        {
+          "text": "Treat yourself to a solo adventure, like hiking a hidden trail or visiting a museum you’ve always wanted to see",
+          "score": "I"
+        },
+        {
+          "text": "Document the moment with a series of photos and handwritten notes to preserve the feeling",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about all the bigger, more ambitious wins that could come next",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you had to choose a late-night activity, you’d pick...",
+      "options": [
+        {
+          "text": "Experiment with mixing unusual flavors to create a new signature drink in your kitchen",
+          "score": "P"
+        },
+        {
+          "text": "Finish organizing your digital files so everything is in its proper place for the next day",
+          "score": "J"
+        },
+        {
+          "text": "Join a virtual discussion group about the ethical implications of modern technology",
+          "score": "T"
+        },
+        {
+          "text": "Call a friend who’s been struggling and listen to their deepest worries without judgment",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling lost, you find clarity by...",
+      "options": [
+        {
+          "text": "Walking through your neighborhood and observing the small, meaningful details of daily life",
+          "score": "S"
+        },
+        {
+          "text": "Writing a letter to your future self, imagining the person you want to become",
+          "score": "N"
+        },
+        {
+          "text": "Attending a local workshop to learn a new skill that gives you a sense of purpose",
+          "score": "E"
+        },
+        {
+          "text": "Cuddling up with a familiar blanket and re-watching your favorite childhood movie",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When working on a group project, you take on the role of...",
+      "options": [
+        {
+          "text": "The one who keeps everyone on schedule and ensures all deadlines are met",
+          "score": "J"
+        },
+        {
+          "text": "The one who comes up with unexpected, out-of-the-box ideas to make the project stand out",
+          "score": "N"
+        },
+        {
+          "text": "The one who mediates disagreements and makes sure everyone’s voice is heard",
+          "score": "F"
+        },
+        {
+          "text": "The one who researches facts and data to back up the team’s decisions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new song that resonates with you, you...",
+      "options": [
+        {
+          "text": "Share it on all your social media platforms and ask friends to send you similar recommendations",
+          "score": "E"
+        },
+        {
+          "text": "Listen to it on repeat while you reflect on how the lyrics connect to your own life experiences",
+          "score": "S"
+        },
+        {
+          "text": "Create a whole playlist around the song’s vibe, imagining a story that fits the music",
+          "score": "N"
+        },
+        {
+          "text": "Keep it to yourself, making it a secret anthem that only you know about",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you rely most on...",
+      "options": [
+        {
+          "text": "The gut feeling that tells you what feels right in your heart",
+          "score": "F"
+        },
+        {
+          "text": "The logical pros and cons list you’ve carefully written out",
+          "score": "T"
+        },
+        {
+          "text": "The random, spontaneous impulse that pulls you toward the unknown",
+          "score": "P"
+        },
+        {
+          "text": "The advice from trusted mentors who have more experience than you",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you have a tough day, you unwind by...",
+      "options": [
+        {
+          "text": "Cleaning your living space from top to bottom, finding calm in the process of order",
+          "score": "S"
+        },
+        {
+          "text": "Daydreaming about a far-off place where you can start over with no past mistakes",
+          "score": "N"
+        },
+        {
+          "text": "Going to a busy bar and striking up conversations with strangers to distract yourself",
+          "score": "E"
+        },
+        {
+          "text": "Sitting in silence with a cup of tea, letting your emotions wash over you without judgment",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you could design a perfect day, it would include...",
+      "options": [
+        {
+          "text": "A flexible agenda with no fixed plans, letting the day take you wherever you want to go",
+          "score": "P"
+        },
+        {
+          "text": "A structured itinerary with exact times for every activity you want to do",
+          "score": "J"
+        },
+        {
+          "text": "Helping a neighbor with a task they’ve been struggling with, knowing you made a difference",
+          "score": "F"
+        },
+        {
+          "text": "Building something useful from scratch, like a bookshelf or a piece of furniture",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Compassionate Catalyst",
+      "description": "Your future life is defined by lifting others up. Like Euphoria’s Rue, you see the hidden pain in people and use your voice to advocate for them. You’ll create safe spaces for marginalized voices, organizing community events that foster connection. As an ENFJ, you turn empathy into action, shaping a future where no one feels invisible—your warmth and purpose leave a lasting mark on everyone you meet.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Unfiltered Visionary",
+      "description": "Your future is a chaotic, beautiful tapestry of creative rebellion. Channeling Jules’ bold self-expression, you’ll reject societal norms to pursue your wildest dreams: writing raw poetry, curating underground art shows, or traveling the world to collect stories. As an ENFP, you find magic in the mundane, turning everyday moments into unforgettable adventures that inspire others to embrace their true selves.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Strategic Trailblazer",
+      "description": "You’re the architect of your own future, building a legacy by turning bold ideas into tangible change—launching social enterprises, reforming broken systems, or leading movements that challenge the status quo. As an ENTJ, your sharp logic and unshakable drive make you a force to be reckoned with, turning chaos into order and visions into reality, much like a more ethical version of Euphoria’s Nate.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Provocative Innovator",
+      "description": "Your future is full of intellectual sparring and creative disruption. Feeding off the energy of debate, you’ll question every rule, reimagine outdated concepts, and push boundaries in fields like tech, art, or philosophy. Like Euphoria’s Fezco, you balance wit with unexpected depth, using your charm to win over skeptics. As an ENTP, you’re the one who turns 'impossible' into 'watch me'.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Nurturing Anchor",
+      "description": "Your future life is rooted in connection and care. Like Lexi from Euphoria, you remember every small detail about your loved ones—their favorite snacks, hidden fears, and quiet joys. You’ll create traditions that bind your community together, hosting weekly dinners, organizing support groups, or volunteering at local shelters. As an ESFJ, you’re the calm in the storm, making everyone feel seen and loved.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Spontaneous Storyteller",
+      "description": "Your future is a series of vivid, unforgettable moments. Channeling Maddy’s vibrant energy, you’ll light up every room with your infectious laughter and bold choices—dancing in the rain, trying extreme sports, or impromptu performing at open mics. As an ESFP, you live in the present, turning ordinary days into extraordinary memories that people will talk about for years to come.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Reliable Architect",
+      "description": "You’re the backbone of your future community, building stability by creating structured systems that support others—managing nonprofits, organizing local events, or leading teams to meet ambitious goals. As an ESTJ, your dedication and practicality ensure that things run smoothly, making you the go-to person when anyone needs help or guidance, much like Cassie’s grounded side.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Adaptive Daredevil",
+      "description": "Your future is a thrill ride of risk and reward. Like Kat from Euphoria, you thrive in the unknown, taking on challenges that scare others—street art, extreme hiking, or starting a business with no plan but a lot of grit. As an ESTP, you’re quick on your feet, turning setbacks into opportunities and using your charm to navigate any situation. You live by the motto: 'I’ll figure it out as I go'.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Intuitive Seer",
+      "description": "Your future is a journey of deep self-discovery and hidden wisdom. Like Rue’s introspective nature, you’ll spend years exploring the layers of your psyche, using your insights to guide others through their own struggles. You might work as a counselor, a writer, or a spiritual guide, helping people connect with their true purpose. As an INFJ, you’re a quiet force, whose words have the power to heal and transform.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreaming Idealist",
+      "description": "Your future is a world of quiet magic and unwavering idealism. Channeling Jules’ softness, you’ll create art that touches souls—writing novels that explore hidden emotions, painting pieces that capture the beauty of loneliness, or creating music that soothes broken hearts. As an INFP, you hold onto hope even in the darkest times, believing that kindness can change the world, one small act at a time.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Visionary Strategist",
+      "description": "Your future is built on grand, meticulously planned visions. Like Euphoria’s Cal, you see the bigger picture (but use your power for good). You’ll revolutionize industries with innovative ideas—designing sustainable cities, creating cutting-edge technology, or writing philosophical works that challenge how people think. As an INTJ, your logic and foresight make you a master of long-term planning, turning dreams into reality.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Philosopher",
+      "description": "Your future is a lifelong quest for knowledge and understanding. Feeding your curiosity, you’ll dive into obscure topics—quantum physics, ancient mythology, or the psychology of dreams—spending hours lost in research and thought. Like Fezco’s quiet intelligence, you might not speak often, but when you do, your words are filled with depth. As an INTP, you’re the one who answers the questions no one else thought to ask.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Gentle Guardian",
+      "description": "Your future is a sanctuary of care and consistency. Like Lexi’s nurturing side, you’ll dedicate yourself to protecting the people you love, remembering their needs before your own. You might work as a nurse, a teacher, or a caregiver, creating warm, safe spaces where people can grow. As an ISFJ, your quiet strength and unwavering loyalty make you the rock that everyone in your life can lean on.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Sensitive Creator",
+      "description": "Your future is a canvas for intimate, soulful expression. Channeling Kat’s artistic spirit, you’ll create work that reflects your inner world—sculpting pieces that capture fleeting emotions, taking photos that tell quiet stories, or making clothes that feel like a second skin. As an ISFP, you live in harmony with your surroundings, finding beauty in the smallest details and sharing that beauty with the world.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Steadfast Realist",
+      "description": "Your future is a foundation of trust and reliability. Like Cassie’s grounded side, you’ll build a life of stability by honoring your commitments and doing things the right way. You might work in finance, law enforcement, or education, ensuring that systems function fairly and efficiently. As an ISTJ, your dependability and attention to detail make you the person everyone can count on, no matter what.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Quiet Problem-Solver",
+      "description": "Your future is defined by hands-on ingenuity and quiet confidence. Like Fezco’s ability to handle tough situations calmly, you’ll thrive in roles that require quick thinking and practical skills—fixing cars, designing gadgets, or working as a paramedic. As an ISTP, you don’t need to draw attention to yourself; your work speaks for itself, solving problems that others can’t and making a difference in quiet, meaningful ways.",
+      "mbti": "ISTP"
+    }
+  ]
+}

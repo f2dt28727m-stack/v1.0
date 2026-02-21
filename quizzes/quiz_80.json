@@ -1,0 +1,349 @@
+{
+  "quizId": 80,
+  "title": "What Will Your Future Stardew Valley Life Be?",
+  "category": "future",
+  "tags": [
+    "Stardew Valley",
+    "Future Life",
+    "MBTI",
+    "Personality",
+    "Farming Simulation"
+  ],
+  "description": "Answer 12 questions to discover your future life in Stardew Valley!",
+  "questions": [
+    {
+      "text": "When you first step onto your new Stardew Valley farm, you immediately...",
+      "options": [
+        {
+          "text": "Grab a hoe and start clearing the overgrown weeds to make space for planting",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about building a sprawling greenhouse and a secret forest sanctuary",
+          "score": "N"
+        },
+        {
+          "text": "Stride over to the nearest neighbor’s house to introduce yourself and swap farming tips",
+          "score": "E"
+        },
+        {
+          "text": "Find a quiet corner to sketch out a rough plan for your first crop bed",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A storm damages part of your farm overnight. You respond by...",
+      "options": [
+        {
+          "text": "Use the chaos as an excuse to redesign the damaged area into something completely new",
+          "score": "P"
+        },
+        {
+          "text": "Check on your animals first to make sure they’re calm and unharmed before anything else",
+          "score": "F"
+        },
+        {
+          "text": "Make a detailed list of repairs in order of urgency, starting with the most critical structures",
+          "score": "T"
+        },
+        {
+          "text": "Follow your pre-made emergency repair checklist to fix everything step by step",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you find a mysterious glowing artifact in the mines, you...",
+      "options": [
+        {
+          "text": "Run back to town to show it to the museum curator and chat about its history with other villagers",
+          "score": "E"
+        },
+        {
+          "text": "Take it home to study its markings privately and keep a journal of your theories",
+          "score": "I"
+        },
+        {
+          "text": "Bring it to the blacksmith to see if it can be melted down into a useful tool part",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the artifact’s connection to the valley’s ancient magic and what secrets it might hold",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The annual Flower Dance is this weekend. You decide to...",
+      "options": [
+        {
+          "text": "Wait until the last minute to see who’s still without a partner, then join the fun spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Ask the shy new villager who just moved in if they’d like to be your dance partner",
+          "score": "F"
+        },
+        {
+          "text": "Prioritize finishing your crop harvest first—you can watch the dance from the sidelines later",
+          "score": "T"
+        },
+        {
+          "text": "Plan your outfit and route to the dance hall a week in advance to avoid any delays",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your crops are being eaten by a sudden infestation of bugs. You...",
+      "options": [
+        {
+          "text": "Gather a group of villagers to host a pest-prevention workshop and share tips",
+          "score": "E"
+        },
+        {
+          "text": "Spend an afternoon experimenting with homemade natural repellents in your kitchen",
+          "score": "I"
+        },
+        {
+          "text": "Grab your spray bottle and start treating each affected plant one by one immediately",
+          "score": "S"
+        },
+        {
+          "text": "Research alternative pest control methods in the valley’s old books to find a long-term solution",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A traveler offers to trade you a rare exotic seed for your favorite family heirloom. You...",
+      "options": [
+        {
+          "text": "Accept immediately, curious to see how the exotic plant will transform your farm’s landscape",
+          "score": "N"
+        },
+        {
+          "text": "Ask the traveler for more details about how to care for the seed before making a choice",
+          "score": "S"
+        },
+        {
+          "text": "Calculate the long-term yield of the exotic plant versus the heirloom’s sentimental value before deciding",
+          "score": "T"
+        },
+        {
+          "text": "Decline gently—your heirloom holds too many precious memories to part with",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You have a free afternoon with no farm chores. You choose to...",
+      "options": [
+        {
+          "text": "Tackle the stacked-up repairs on your farm’s fence line to get it done once and for all",
+          "score": "J"
+        },
+        {
+          "text": "Wander into the Cindersap Forest to see what new plants or creatures you can discover",
+          "score": "P"
+        },
+        {
+          "text": "Bake a batch of cookies and drop them off at the nursing home for the elderly villagers",
+          "score": "F"
+        },
+        {
+          "text": "Spend time organizing your inventory to optimize your farming workflow",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a potluck at the Community Center. You bring...",
+      "options": [
+        {
+          "text": "A small jar of homemade honey, labeled with a handwritten note for the host",
+          "score": "I"
+        },
+        {
+          "text": "A large platter of your famous strawberry shortcake, eager to get feedback from everyone",
+          "score": "E"
+        },
+        {
+          "text": "A batch of hearty vegetable soup made from your farm’s fresh produce",
+          "score": "S"
+        },
+        {
+          "text": "A unique dish inspired by a recipe you dreamed up last night—sweet potato and starfruit tart",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck on a difficult puzzle in the Skull Caverns, you...",
+      "options": [
+        {
+          "text": "Step back and look for a hidden pattern in the cave’s rock formations",
+          "score": "N"
+        },
+        {
+          "text": "Try every possible combination of levers until you find the right one",
+          "score": "S"
+        },
+        {
+          "text": "Yell out for nearby adventurers to see if they’ve solved the puzzle before",
+          "score": "E"
+        },
+        {
+          "text": "Sit quietly and think through each possible outcome in your head",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The valley is hosting a farmers’ market. Your approach is to...",
+      "options": [
+        {
+          "text": "Give extra vegetables to regular customers and chat with them about their week",
+          "score": "F"
+        },
+        {
+          "text": "Price your produce based on market rates and keep track of every sale in a notebook",
+          "score": "T"
+        },
+        {
+          "text": "Wake up late, throw your produce into a basket, and set up wherever there’s an empty spot",
+          "score": "P"
+        },
+        {
+          "text": "Set up your stall an hour early to arrange your produce neatly and display signs clearly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a lost puppy wandering near your farm. You...",
+      "options": [
+        {
+          "text": "Check for a collar with an address, then take it to the town hall to file a lost pet report",
+          "score": "T"
+        },
+        {
+          "text": "Bring it into your home immediately, make a warm bed for it, and ask villagers about its owner",
+          "score": "F"
+        },
+        {
+          "text": "Post flyers all over town and host a small gathering to help find the puppy’s owner",
+          "score": "E"
+        },
+        {
+          "text": "Take care of it quietly at your farm while you discreetly ask around about its origins",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a gift for a villager’s birthday, you...",
+      "options": [
+        {
+          "text": "Create a custom piece of art or hand-carved trinket that reflects their personality",
+          "score": "N"
+        },
+        {
+          "text": "Give them something they’ve mentioned needing lately, like a new watering can or fresh eggs",
+          "score": "S"
+        },
+        {
+          "text": "Mark the date on your calendar a month in advance and shop for the gift early",
+          "score": "J"
+        },
+        {
+          "text": "Remember the birthday at the last minute and grab the first nice thing in your storage chest",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Efficient Farm Steward (ESTJ)",
+      "description": "Your future Stardew Valley farm is a model of efficiency and order. You’ve mastered crop rotation, automated every tedious task, and built a reputation as the valley’s most reliable supplier. Neighbors turn to you for farm management advice, and you host annual workshops for new farmers. Your days are structured, but you find deep satisfaction in seeing your well-laid plans flourish year after year.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Heart of the Valley (ESFJ)",
+      "description": "Your farm is the warmest gathering spot in Stardew Valley. You host weekly potlucks, care for elderly villagers, and always have fresh cookies for anyone who drops by. You’ve turned your farmhouse into a community hub where everyone feels welcome. Your future is filled with laughter, shared meals, and the joy of nurturing both your crops and your relationships.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Nurturing Homesteader (ISFJ)",
+      "description": "Your farm is a peaceful haven where every creature and plant is treated with kindness. You specialize in medicinal herbs to help sick villagers, and your barn houses rescue animals. You spend quiet afternoons tending your garden and writing heartfelt letters to distant friends. Your future is rooted in gentle care and the quiet beauty of living in harmony with nature.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Methodical Farmer (ISTJ)",
+      "description": "Your farm is a testament to patience and precision. You keep detailed harvest logs, track weather patterns religiously, and follow a strict planting schedule for maximum yield. You’re known for high-quality produce and unshakeable reliability. Your future is steady and secure, filled with the quiet reward of a well-tended farm that thrives year after year.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Visionary Tycoon (ENTJ)",
+      "description": "Your farm grows into the valley’s most successful enterprise. You expand into wine production, open farm-to-table restaurants, and negotiate deals with big-city buyers. You take bold risks that always pay off, and your innovative plans transform Stardew Valley’s agricultural landscape. Your future is filled with growth, innovation, and the thrill of building a lasting legacy.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Valley Mentor (ENFJ)",
+      "description": "You become Stardew Valley’s most beloved mentor, guiding new farmers to success and helping struggling villagers find purpose. Your farm is a training ground for sustainable practices and emotional resilience. You organize community projects to revitalize the valley, and your future is defined by the impact you have on the lives of those around you.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Mystical Gardener (INFJ)",
+      "description": "Your farm is a secret sanctuary filled with rare, magical plants and hidden nooks. You communicate with the valley’s spirits, use ancient farming techniques, and grow crops with healing properties. You keep to yourself, but those who know you respect your deep connection to the land. Your future is filled with quiet magic and wisdom from living in tune with nature.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Planner (INTJ)",
+      "description": "Your farm is a masterpiece of strategic design. You map every crop bed, irrigation line, and storage shed for maximum efficiency. You invest in cutting-edge tech, develop crop hybrids, and plan decades ahead. Rarely seen in town, your innovations revolutionize valley farming. Your future is defined by brilliant ideas and the satisfaction of executing complex plans perfectly.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Bold Adventurer (ESTP)",
+      "description": "Your farm is a base for endless adventures. You spend most days exploring Skull Caverns, fishing secret spots, and trading rare artifacts with travelers. Your farm is messy but full of life, and you’re always the first to try new challenges. Your future is filled with excitement, unexpected discoveries, and the thrill of living life on the edge of the valley’s wildest corners.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Festive Farmer (ESFP)",
+      "description": "Your farm is the valley’s most vibrant gathering spot. You host monthly festivals, decorate your barn with fairy lights, and grow the most exotic flowers in Stardew Valley. You’re the center of attention at town events, and your joy is contagious. Your future is filled with laughter, bright colors, and the constant buzz of celebration that makes the valley feel like home.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Quiet Creator (ISFP)",
+      "description": "Your farm is a living work of art. You grow flowers in unique color combinations, carve wooden sculptures for your property, and make handcrafted candles from beeswax. You keep to yourself, but your farm is admired by everyone who passes by. Your future is filled with quiet creativity and the joy of expressing yourself through your connection to the land.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Resourceful Tinkerer (ISTP)",
+      "description": "Your farm is full of clever inventions and repurposed materials. You fix broken tools with scrap metal, build automated machines from old parts, and find innovative ways to solve farming problems. You’re always experimenting with new techniques, and your farm is a testament to your resourcefulness. Your future is filled with hands-on projects and turning junk into treasure.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Inventive Innovator (ENTP)",
+      "description": "Your farm is a laboratory for wild, brilliant ideas. You grow genetically modified crops, build a flying scarecrow, and create a solar-powered irrigation system. You love debating farming theories with villagers and challenging the status quo. Your future is filled with wild experiments, unexpected breakthroughs, and pushing the boundaries of what’s possible in Stardew Valley.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Dreamy Explorer (ENFP)",
+      "description": "Your farm is ever-changing, reflecting your endless curiosity. One month you grow tropical fruits, the next you build a treehouse retreat. You travel the valley, befriend every creature, and your farm is a collection of adventure souvenirs. Your future is filled with new experiences, big dreams, and never staying in one place for too long.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Soulful Forager (INFP)",
+      "description": "Your farm is a small, intimate space focused on sustainability and connection. You forage wild mushrooms, grow organic vegetables, and write poetry about the valley’s beauty. You avoid town hustle, preferring nature’s quiet company. Your future is filled with deep introspection, gentle moments, and the peace of living in alignment with your core values.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Scholar (INTP)",
+      "description": "Your farm is a research center for agricultural science. You study soil chemistry, experiment with crop cross-breeding, and publish papers in farming journals. You’re often lost in thought, solving complex problems like winter crop growth. Your future is filled with intellectual discovery, quiet breakthroughs, and unlocking the land’s deepest secrets.",
+      "mbti": "INTP"
+    }
+  ]
+}

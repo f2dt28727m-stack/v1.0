@@ -1,0 +1,349 @@
+{
+  "quizId": 58,
+  "title": "What Sabrina Carpenter-Inspired Aesthetic Personality Are You?",
+  "category": "which",
+  "tags": [
+    "Sabrina Carpenter",
+    "Aesthetic Personality",
+    "Personality Quiz",
+    "Pop Culture",
+    "Lifestyle"
+  ],
+  "description": "Answer 12 questions to discover your Sabrina Carpenter-inspired aesthetic personality!",
+  "questions": [
+    {
+      "text": "When you have a free afternoon, you’d rather...",
+      "options": [
+        {
+          "text": "Tackle a small DIY project you’ve been putting off, like organizing your vinyl collection or fixing a loose cabinet handle",
+          "score": "S"
+        },
+        {
+          "text": "Curate a cozy nook with your favorite playlist, rereading a beloved book and jotting down random poetic lines",
+          "score": "I"
+        },
+        {
+          "text": "Spend it hosting a casual potluck with friends, swapping funny anecdotes and trying out a new homemade dessert",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about a fictional road trip you’ve been crafting, mapping out quirky stops and unexpected character encounters",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a new song that sticks with you, you first...",
+      "options": [
+        {
+          "text": "Add it to a carefully curated playlist, making sure it fits the exact mood of the list you’re building",
+          "score": "J"
+        },
+        {
+          "text": "Look up the lyrics to dissect the story behind them, connecting the words to your own personal experiences",
+          "score": "F"
+        },
+        {
+          "text": "Shazam it immediately and share it with three friends, eager to hear their thoughts on the track",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the song’s structure, noting how the melody builds and the production choices enhance the vibe",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When planning a weekend getaway, you prioritize...",
+      "options": [
+        {
+          "text": "Researching all the local hotspots and creating a detailed schedule to make sure you don’t miss anything",
+          "score": "J"
+        },
+        {
+          "text": "Booking a stay at a quiet, nature-filled spot where you can hike, stargaze, and disconnect fully",
+          "score": "I"
+        },
+        {
+          "text": "Keeping the itinerary loose, leaving plenty of time to wander and stumble upon hidden gems",
+          "score": "P"
+        },
+        {
+          "text": "Choosing a vibrant city destination where you can meet new people, attend live shows, and explore bustling markets",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When a friend asks for advice on a creative project, you suggest...",
+      "options": [
+        {
+          "text": "Focusing on refining the core idea first, making sure every detail serves the main message they want to convey",
+          "score": "S"
+        },
+        {
+          "text": "Trying out a mix of unexpected elements, like adding a bold metaphor to their writing or a contrasting color to their painting",
+          "score": "N"
+        },
+        {
+          "text": "Breaking down the project into small, actionable steps to help them stay on track and avoid overwhelm",
+          "score": "T"
+        },
+        {
+          "text": "Sharing how their project made you feel, encouraging them to lean into the emotional resonance of their work",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you need to recharge after a busy week, you do...",
+      "options": [
+        {
+          "text": "Get lost in a fantasy novel or a thought-provoking podcast, letting your mind escape into a different world",
+          "score": "N"
+        },
+        {
+          "text": "Invite a close friend over for a low-key movie night, complete with your go-to snacks and inside jokes",
+          "score": "E"
+        },
+        {
+          "text": "Take a long walk in a nearby park, observing the changing seasons and listening to the sounds of nature around you",
+          "score": "S"
+        },
+        {
+          "text": "Spend the day alone in your room, rearranging your space to feel fresh and lighting scented candles to unwind",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a tough decision, you rely on...",
+      "options": [
+        {
+          "text": "Facts and data about each option, weighing the pros and cons logically to find the most effective solution",
+          "score": "T"
+        },
+        {
+          "text": "Your gut instinct, choosing the option that feels right even if it doesn’t make sense on paper",
+          "score": "P"
+        },
+        {
+          "text": "How each choice will affect the people you care about, prioritizing their feelings and well-being",
+          "score": "F"
+        },
+        {
+          "text": "A structured list of criteria, checking off boxes to ensure you don’t overlook any important details",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you want to express yourself creatively, you tend to...",
+      "options": [
+        {
+          "text": "Collaborate with a friend on a short film, bouncing ideas off each other and bringing each other’s visions to life",
+          "score": "E"
+        },
+        {
+          "text": "Write stream-of-consciousness poetry, letting your thoughts flow without worrying about perfect structure",
+          "score": "P"
+        },
+        {
+          "text": "Draft a detailed outline for a short story, mapping out character arcs and plot points before you start writing",
+          "score": "J"
+        },
+        {
+          "text": "Create a scrapbook filled with ticket stubs, photos, and handwritten notes from your favorite memories",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you meet someone new, you’re most drawn to...",
+      "options": [
+        {
+          "text": "Their sharp sense of humor and ability to engage in thoughtful, intellectually stimulating conversations",
+          "score": "T"
+        },
+        {
+          "text": "Their willingness to share small, everyday moments that show who they really are, like their morning routine or favorite snack",
+          "score": "S"
+        },
+        {
+          "text": "Their warm, open energy that makes you feel instantly comfortable and eager to keep talking",
+          "score": "F"
+        },
+        {
+          "text": "The way the lyrics make you feel, connecting each line to a specific memory or emotion you’ve experienced",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you have a big task to complete, you approach it by...",
+      "options": [
+        {
+          "text": "Jumping in wherever feels most exciting, letting the task unfold naturally as you go",
+          "score": "P"
+        },
+        {
+          "text": "Asking for help from colleagues or friends, dividing the work to make it more manageable and fun",
+          "score": "E"
+        },
+        {
+          "text": "Starting with the most challenging part first, tackling it head-on to get it out of the way",
+          "score": "J"
+        },
+        {
+          "text": "Working quietly on your own, focusing intently until you’ve finished every detail",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you listen to music, you’re most focused on...",
+      "options": [
+        {
+          "text": "The complexity of the instrumental arrangement, noticing how each layer of sound works together",
+          "score": "T"
+        },
+        {
+          "text": "The story the song tells, imagining the characters and scenes that inspired the artist to write it",
+          "score": "N"
+        },
+        {
+          "text": "The catchy melody and rhythm that makes you want to dance and sing along at the top of your lungs",
+          "score": "S"
+        },
+        {
+          "text": "The way the lyrics make you feel, connecting each line to a specific memory or emotion you’ve experienced",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you’re in a group setting, you usually...",
+      "options": [
+        {
+          "text": "Sit back and listen to others talk, chiming in only when you have something meaningful to add",
+          "score": "I"
+        },
+        {
+          "text": "Daydream about different scenarios, wondering what it would be like if the group decided to do something entirely unexpected",
+          "score": "N"
+        },
+        {
+          "text": "Find yourself leading the conversation, asking questions and sharing funny stories to keep everyone engaged",
+          "score": "E"
+        },
+        {
+          "text": "Observe the dynamics between people, noticing small gestures and expressions that reveal how they’re feeling",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you think about your ideal future, you picture...",
+      "options": [
+        {
+          "text": "A stable, predictable life with a close-knit group of loved ones, where you can build lasting traditions and routines",
+          "score": "J"
+        },
+        {
+          "text": "A life focused on learning and growth, mastering new skills and exploring complex ideas that interest you",
+          "score": "T"
+        },
+        {
+          "text": "A life filled with new adventures, traveling to different countries, meeting diverse people, and trying new things",
+          "score": "P"
+        },
+        {
+          "text": "A life where you can help others, using your skills to make a positive impact on the people around you",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Steadfast Storyteller",
+      "description": "Like Sabrina’s relatable, no-nonsense lyrics that feel like a conversation with a friend, you’re a steadfast storyteller who finds beauty in consistency. You value reliability and quiet dedication, turning everyday routines into meaningful rituals. Your attention to detail and grounded nature make you a trusted presence for those around you, and you never shy away from rolling up your sleeves to get things done right.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Nurturing Nostalgic",
+      "description": "Channeling Sabrina’s ability to capture tender, nostalgic moments in her music, you’re a nurturing nostalgic who cherishes connections and memories. You go out of your way to make others feel seen and loved, remembering the little things that matter most. Your warm, caring energy makes you the heart of any group, and you thrive on creating cozy, comforting spaces for the people you care about.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Intuitive Lyricist",
+      "description": "Like Sabrina’s introspective, thought-provoking tracks that dig deep into emotion, you’re an intuitive lyricist who sees beyond the surface. You have a natural talent for understanding people’s unspoken feelings, and you use your insight to offer gentle, wise guidance. Your quiet depth and creative vision make you a unique voice, always ready to turn complex emotions into something beautiful and relatable.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Strategic Visionary",
+      "description": "Channeling Sabrina’s bold, unapologetic approach to her art, you’re a strategic visionary who knows exactly what you want to achieve. You think ahead, mapping out plans to turn your big ideas into reality, and you aren’t afraid to take risks to get there. Your sharp intellect and independent spirit make you a leader in your own right, always pushing boundaries and challenging the status quo.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Adventurous Tinkerer",
+      "description": "Like Sabrina’s playful yet edgy sound that blends unexpected elements, you’re an adventurous tinkerer who loves to experiment. You’re hands-on and curious, always looking for new ways to fix things or create something fresh. Your laid-back, go-with-the-flow attitude makes you fun to be around, and you thrive in situations where you can use your quick thinking to solve problems on the fly.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Quiet Creative",
+      "description": "Channeling Sabrina’s soft, intimate vocals that feel like a secret shared only with you, you’re a quiet creative who expresses yourself through subtle, meaningful acts. You find joy in small, beautiful things—like a sunset, a handwritten note, or a perfectly curated playlist. Your gentle, authentic nature draws people in, and you use your creativity to make the world a little more warm and beautiful.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Dreamy Wordsmith",
+      "description": "Like Sabrina’s poetic, whimsical lyrics that feel like a daydream put to music, you’re a dreamy wordsmith who lives in a world of imagination. You’re deeply in touch with your emotions, and you use your creativity to process and share your feelings with others. Your kind, idealistic spirit makes you a hopeless romantic, always believing in the power of love and beauty to change the world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Curious Philosopher",
+      "description": "Channeling Sabrina’s clever, witty songwriting that’s full of unexpected twists, you’re a curious philosopher who loves to question everything. You’re always digging into the ‘why’ behind things, exploring complex ideas and theories just for fun. Your laid-back, intellectual energy makes you a fascinating conversationalist, and you never stop looking for new ways to expand your mind.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Bold Entertainer",
+      "description": "Like Sabrina’s high-energy, catchy tracks that make you want to dance, you’re a bold entertainer who loves being the center of attention. You thrive on excitement and new experiences, always ready to jump into an impromptu adventure. Your quick wit and charismatic personality draw people to you, and you have a talent for turning any ordinary moment into something fun and memorable.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Vibrant Connector",
+      "description": "Channeling Sabrina’s warm, infectious energy that makes everyone feel like part of the party, you’re a vibrant connector who lives in the moment. You love to make people laugh and feel good, using your outgoing nature to bring people together. Your playful, spontaneous spirit makes you the life of any gathering, and you never miss a chance to celebrate the little joys in life.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Whimsical Optimist",
+      "description": "Like Sabrina’s uplifting, hopeful songs that make you believe anything is possible, you’re a whimsical optimist who sees the best in everyone and everything. You thrive on creativity and new ideas, always ready to brainstorm something fun or silly with your friends. Your warm, enthusiastic energy is contagious, and you use your positivity to inspire those around you to chase their dreams.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Witty Innovator",
+      "description": "Channeling Sabrina’s clever, tongue-in-cheek lyrics that keep you on your toes, you’re a witty innovator who loves to challenge the norm. You’re always coming up with unexpected ideas and playful debates, using your sharp intellect to keep things interesting. Your outgoing, curious nature makes you a natural leader in creative settings, and you never shy away from speaking your mind.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Reliable Organizer",
+      "description": "Like Sabrina’s polished, professional approach to her career, you’re a reliable organizer who knows how to get things done. You thrive on structure and order, creating plans to ensure everything runs smoothly. Your no-nonsense attitude and strong work ethic make you a trusted leader, and you take pride in being the person others can count on to handle any task, big or small.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Warm Hostess",
+      "description": "Channeling Sabrina’s ability to make everyone feel welcome and included, you’re a warm hostess who loves taking care of others. You thrive in social settings, planning gatherings that bring people together and make everyone feel special. Your kind, generous nature makes you the go-to person for advice and support, and you take great joy in seeing the people you love happy and connected.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Confident Leader",
+      "description": "Like Sabrina’s unapologetic, bold energy in tracks like ‘Nonsense’ and ‘Skin’, you’re a confident leader who knows how to take charge. You’re goal-oriented and decisive, always looking for ways to achieve your ambitions. Your sharp mind and commanding presence make you a natural leader, and you aren’t afraid to speak up and make tough decisions to get things done.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Inspirational Mentor",
+      "description": "Channeling Sabrina’s empowering, uplifting messages that encourage self-love and growth, you’re an inspirational mentor who loves to lift others up. You have a natural talent for motivating people to chase their dreams, using your empathy and insight to help them reach their full potential. Your warm, charismatic energy makes you a beloved leader, and you take pride in seeing the people you support succeed.",
+      "mbti": "ENFJ"
+    }
+  ]
+}

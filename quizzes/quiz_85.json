@@ -1,0 +1,349 @@
+{
+  "quizId": 85,
+  "title": "What Fortnite Playstyle Personality Are You?",
+  "category": "which",
+  "tags": [
+    "Fortnite",
+    "Gaming Personality",
+    "Playstyle",
+    "MBTI",
+    "Video Games"
+  ],
+  "description": "Answer 12 questions to discover your Fortnite playstyle personality!",
+  "questions": [
+    {
+      "text": "When a new Fortnite season launches, your first move is to...",
+      "options": [
+        {
+          "text": "Look up verified spawn locations for new weapons and plan a route that maximizes resource efficiency",
+          "score": "S"
+        },
+        {
+          "text": "Experiment with the new terrain mechanics immediately—like using launch pads to reach hidden floating islands",
+          "score": "N"
+        },
+        {
+          "text": "Dive straight into the center of the busiest POI to test your reflexes against other players",
+          "score": "E"
+        },
+        {
+          "text": "Sneak into a quiet, isolated area to loot undisturbed and learn the new map’s layout at your own pace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you spot an enemy team nearby, you...",
+      "options": [
+        {
+          "text": "Analyze their position and gear from afar, then pick the perfect moment to take a precise sniper shot",
+          "score": "T"
+        },
+        {
+          "text": "Impulsively rush in with a shotgun, adapting your moves based on their immediate reactions",
+          "score": "P"
+        },
+        {
+          "text": "Signal your squad to flank together, using voice chat to coordinate every step of the ambush",
+          "score": "F"
+        },
+        {
+          "text": "Build a quick cover wall and wait for them to make a mistake before engaging",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach resource management during a match?",
+      "options": [
+        {
+          "text": "Prioritize rare crafting materials for experimental traps or unconventional building designs",
+          "score": "N"
+        },
+        {
+          "text": "Share extra materials with teammates who need them, even if it leaves you with less for yourself",
+          "score": "F"
+        },
+        {
+          "text": "Collect every ammo type and healing item you find, just in case you run into a long, drawn-out fight",
+          "score": "S"
+        },
+        {
+          "text": "Calculate exactly how much wood/stone you need for endgame builds, discarding excess to save inventory space",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite role in a squad is to...",
+      "options": [
+        {
+          "text": "Be the silent assassin, staying back to pick off key targets without drawing attention to the group",
+          "score": "I"
+        },
+        {
+          "text": "Be the strategist, mapping out rotation paths and predicting enemy movements to stay one step ahead",
+          "score": "T"
+        },
+        {
+          "text": "Be the scout, running ahead to spot enemies and relay updates to the team nonstop",
+          "score": "E"
+        },
+        {
+          "text": "Be the support, always carrying extra heals and building cover to protect allies in fights",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When building in a fight, you prefer to...",
+      "options": [
+        {
+          "text": "Plan your build layout in advance based on the enemy’s position, ensuring every structure serves a purpose",
+          "score": "J"
+        },
+        {
+          "text": "Construct simple, 1x1 towers and walls to quickly block incoming fire and gain high ground",
+          "score": "S"
+        },
+        {
+          "text": "Build on the fly, adjusting your structures based on the enemy’s current attack pattern",
+          "score": "P"
+        },
+        {
+          "text": "Create elaborate tunnel systems and trap-laden forts to outsmart enemies who chase you",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "In the final circle, your strategy is to...",
+      "options": [
+        {
+          "text": "Take a risky shot from an unexpected angle, hoping to catch the last enemy off guard",
+          "score": "N"
+        },
+        {
+          "text": "Hide in a bush or behind natural cover, waiting for other players to eliminate each other first",
+          "score": "I"
+        },
+        {
+          "text": "Talk to your squad about everyone’s positions and agree on a unified push to take the center",
+          "score": "E"
+        },
+        {
+          "text": "Use the circle’s terrain to your advantage—like building on a hill to have a clear line of sight",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have downtime between matches, you like to...",
+      "options": [
+        {
+          "text": "Create custom game modes with weird rules—like no building or only using melee weapons—for fun",
+          "score": "F"
+        },
+        {
+          "text": "Join a random public lobby and make friends with new players while messing around in creative mode",
+          "score": "E"
+        },
+        {
+          "text": "Watch pro player clips to learn new building techniques and apply them to your own gameplay",
+          "score": "T"
+        },
+        {
+          "text": "Practice editing builds solo in a creative map to perfect your speed and precision",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If your squad is losing a fight, you...",
+      "options": [
+        {
+          "text": "Calmly assess the situation and tell everyone to retreat and reposition to a better spot",
+          "score": "T"
+        },
+        {
+          "text": "Encourage your teammates to keep fighting, pointing out small wins to boost their morale",
+          "score": "F"
+        },
+        {
+          "text": "Quickly adapt by switching to a different weapon or building a new escape route on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the pre-planned backup strategy and guide the team to the nearest safe zone",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When a new item is added to the game, you...",
+      "options": [
+        {
+          "text": "Read the patch notes carefully to understand its exact stats and best use cases",
+          "score": "S"
+        },
+        {
+          "text": "Solo test it in a creative map to figure out how it fits into your personal playstyle",
+          "score": "I"
+        },
+        {
+          "text": "Use it in unconventional ways—like using a grappler to swing into enemy bases instead of escaping",
+          "score": "N"
+        },
+        {
+          "text": "Ask your squad to try it out with you immediately, testing its limits in a team fight",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "After a frustrating loss, you...",
+      "options": [
+        {
+          "text": "Switch to a completely different playstyle for your next match to shake things up and have fun",
+          "score": "P"
+        },
+        {
+          "text": "Analyze your replay to identify exactly where you went wrong and how to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Vent to your squad about the mistake that cost you the win, then jump back into another match together",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your usual playstyle and trust that consistent practice will lead to better results",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your main goal for a Fortnite season is to...",
+      "options": [
+        {
+          "text": "Discover every hidden secret in the map, like secret caves or Easter eggs, with friends",
+          "score": "E"
+        },
+        {
+          "text": "Reach the highest rank possible, grinding ranked matches with your most reliable squad members",
+          "score": "J"
+        },
+        {
+          "text": "Invent new trick shots and build sequences to share with your gaming community",
+          "score": "N"
+        },
+        {
+          "text": "Complete every single challenge and collect all the cosmetic items available that season",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When playing casual modes, you prefer to...",
+      "options": [
+        {
+          "text": "Play solo zero build and focus on improving your aim without the pressure of building",
+          "score": "I"
+        },
+        {
+          "text": "Play creative mode and build detailed replicas of real-world landmarks or fantasy castles",
+          "score": "F"
+        },
+        {
+          "text": "Play arena mode to practice your competitive skills even in casual play",
+          "score": "T"
+        },
+        {
+          "text": "Play team rumble and chat with random teammates, making jokes as you storm enemy bases",
+          "score": "E"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Squad Heart (ENFJ)",
+      "description": "You’re the emotional core of every team, always checking in on teammates and lifting their spirits after losses. You prioritize group success over individual kills, using your empathy to coordinate strategies that keep everyone alive. Whether reviving downed allies mid-fight or calling out enemy positions clearly, you turn every match into a collaborative victory. Your playstyle blends compassion with tactical awareness, making you the most trusted leader on the island.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Commander (ENTJ)",
+      "description": "You approach every match like a military operation, mapping out rotation paths and setting clear objectives for your squad. You’re quick to analyze enemy movements and adjust strategies on the fly, never letting emotion cloud your judgment. Your focus is on winning—you call the shots, delegate roles, and push your team to execute flawlessly. Your sharp mind and decisive leadership make you unstoppable in competitive lobbies.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Innovator (ENTP)",
+      "description": "You’re the player who invents wild, unorthodox strategies no one else thinks of—like building a floating fortress in the final circle or using launch pads to surprise enemies from above. You thrive on chaos, turning every mistake into a new opportunity to experiment. You love debating playstyles with friends and challenging meta norms, making every match feel fresh and exciting. Your creativity keeps opponents guessing at every turn.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Curious Explorer (ENFP)",
+      "description": "For you, Fortnite is all about adventure—you’d rather explore hidden caves and chase Easter eggs than grind ranked matches. You drag friends along to discover every map secret, laughing at silly detours and unexpected encounters. You play with your heart, prioritizing fun over wins, and you’re always the first to try new game modes or cosmetic items. Your upbeat energy makes every match feel like a joyride through the island.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Support (ESFJ)",
+      "description": "You’re the teammate everyone can count on—you always carry extra heals, build cover for allies in fights, and never leave someone downed to fend for themselves. You focus on keeping the team together, communicating clearly and making sure no one feels left out. Your patient, nurturing playstyle turns chaotic matches into smooth collaborations, and you celebrate every small win with your squad like it’s a victory royale.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Methodical Grinder (ESTJ)",
+      "description": "You’re all about consistency and routine—you follow a strict loot route every match, memorize weapon spawns, and stick to proven strategies. You grind ranked matches daily, tracking your progress and adjusting your playstyle to climb the ladder steadily. You value efficiency over flash, making sure every action serves a purpose, whether it’s looting a chest or taking a sniper shot. Your discipline makes you a formidable opponent in any lobby.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Bold Trickster (ESTP)",
+      "description": "You’re the ultimate risk-taker—you jump hot drop after hot drop, using quick reflexes and close-quarters combat to eliminate enemies before they can react. You love showing off trick shots and fast edits, thriving on the adrenaline of last-minute fights. You play in the moment, adapting to every enemy move without overthinking, and you turn every match into a high-stakes thrill ride. Your boldness keeps you one step ahead of the competition.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Friendly Adventurer (ESFP)",
+      "description": "You play Fortnite to have fun and make connections—you join random lobbies to make new friends, dance for enemies in casual modes, and turn every match into a party. You’re always trying silly cosmetic combinations and messing around in creative mode with friends. You don’t care much about wins; instead, you focus on creating memorable moments that make everyone laugh. Your outgoing, playful energy lights up every lobby you join.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Insightful Strategist (INFJ)",
+      "description": "You’re the quiet mastermind behind every squad’s success—you observe enemy patterns, predict their next moves, and share subtle hints with your team to gain an edge. You prefer deep, meaningful connections with a small group of trusted teammates, rather than large public squads. Your playstyle is thoughtful and intentional, prioritizing long-term strategy over short-term thrills. Your ability to read the game makes you an invaluable asset to any team.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Analytical Tactician (INTJ)",
+      "description": "You treat every Fortnite match like a chess game, planning several moves ahead and analyzing every possible outcome. You spend hours studying pro player replays, optimizing your build edits, and refining your looting routes. You prefer solo play where you can execute your strategies without distractions, using your sharp mind to outsmart opponents even when outnumbered. Your focus on efficiency and precision makes you a top-tier competitor.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Visionary Inventor (INTP)",
+      "description": "You’re always experimenting with new build sequences and weapon combinations, trying to find the perfect meta-breaking strategy. You spend hours in creative mode testing unconventional ideas, like building automated trap systems or using movement mechanics in unique ways. You play to solve puzzles, not just to win, and you love discussing game design and balance with other players. Your curious, innovative mind keeps you ahead of the meta curve.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Dreamy Explorer (INFP)",
+      "description": "For you, Fortnite is a canvas for your imagination—you build whimsical castles in creative mode, chase map lore Easter eggs, and create backstories for your in-game character. You prefer casual modes where you can play at your own pace, avoiding the stress of ranked matches. You connect with the game’s storytelling elements, and you love sharing your creative builds and discoveries with a small group of close friends. Your gentle, imaginative playstyle makes the island feel like a magical world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Steadfast Protector (ISFJ)",
+      "description": "You’re the unsung hero of your squad—you stick close to teammates, build cover during fights, and always prioritize reviving others over looting. You remember small details about your friends’ playstyles, like their favorite weapons or healing preferences, and adjust your game to support them. You play with kindness and consistency, turning every match into a safe, supportive experience for your team. Your reliability makes you the backbone of any successful squad.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Practical Perfectionist (ISTJ)",
+      "description": "You’re a master of the basics—you can build a 1x1 tower in seconds, memorize every loot spot, and never waste a single ammo round. You follow a strict routine every match, ensuring you’re always prepared for any fight. You grind ranked matches with discipline, tracking your stats and fixing small mistakes to improve steadily. Your practical, no-nonsense playstyle makes you a consistent top performer in any game mode.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Adaptive Survivor (ISTP)",
+      "description": "You thrive in chaotic situations—you can switch from building a fort to taking a trick shot in seconds, adapting to every enemy move without breaking a sweat. You prefer solo play where you can rely on your quick reflexes and problem-solving skills to outlast opponents. You love experimenting with new weapons and movement mechanics, using them to turn tight spots into victories. Your calm, adaptive playstyle makes you a nightmare for enemies in close-quarters fights.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Playful Creator (ISFP)",
+      "description": "You play Fortnite to express yourself—you collect unique cosmetics, build vibrant art in creative mode, and dance for enemies to spread joy. You prefer casual modes where you can take your time, exploring the map’s beauty and making small, creative choices. You love playing with a few close friends, laughing at silly mistakes and creating inside jokes during matches. Your gentle, artistic playstyle turns the island into your personal playground.",
+      "mbti": "ISFP"
+    }
+  ]
+}

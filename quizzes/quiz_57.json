@@ -1,0 +1,349 @@
+{
+  "quizId": 57,
+  "title": "What Would You Do in Sabrina Carpenter-Inspired Scenarios?",
+  "category": "whatwould",
+  "tags": [
+    "Sabrina Carpenter",
+    "What Would You Do",
+    "Personality Test",
+    "MBTI",
+    "Pop Culture"
+  ],
+  "description": "Answer 12 questions to discover your hidden behavioral tendencies through relatable scenarios inspired by Sabrina Carpenter’s vibe!",
+  "questions": [
+    {
+      "text": "You stumble upon a last-minute opportunity to join an impromptu creative session with Sabrina and her team. You...",
+      "options": [
+        {
+          "text": "Bring a small notebook to jot down concrete action steps you can contribute",
+          "score": "S"
+        },
+        {
+          "text": "Immediately say yes, eager to jump in and share your off-the-cuff ideas with everyone",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about all the wild, unexpected directions the session could take before agreeing",
+          "score": "N"
+        },
+        {
+          "text": "Politely ask for 10 minutes to gather your thoughts before joining, preferring to observe first",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Sabrina asks you to help pick a spot for a low-key weekend getaway. You...",
+      "options": [
+        {
+          "text": "Opt for a secluded beach house where you can unwind without any distractions",
+          "score": "I"
+        },
+        {
+          "text": "Choose a cozy cabin with a known hiking trail and nearby café, prioritizing comfort and practicality",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a quirky, off-the-grid treehouse with stargazing spots, imagining all the unique memories you’ll make",
+          "score": "N"
+        },
+        {
+          "text": "Pick a spot close to a small town where you can meet local artists and strike up conversations",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re helping Sabrina draft a social media caption for a new single. She’s torn between two versions. You...",
+      "options": [
+        {
+          "text": "Tell her to go with the one that feels most raw and personal, even if it’s a bit unpolished",
+          "score": "F"
+        },
+        {
+          "text": "Suggest waiting a few hours to revisit it with fresh eyes, maybe even adding a playful twist later",
+          "score": "P"
+        },
+        {
+          "text": "Analyze which caption has better engagement potential based on past post data",
+          "score": "T"
+        },
+        {
+          "text": "Insist on finalizing the caption right now to avoid last-minute stress",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A friend invites you to a Sabrina-themed fan meetup. You...",
+      "options": [
+        {
+          "text": "Prepare a list of specific Sabrina lyrics to discuss and share with other fans",
+          "score": "S"
+        },
+        {
+          "text": "Arrive early and start chatting with everyone, making new fan friends right away",
+          "score": "E"
+        },
+        {
+          "text": "Imagine leading a group activity where everyone creates their own Sabrina-inspired song verse",
+          "score": "N"
+        },
+        {
+          "text": "Bring a small group of close friends and stick to your bubble, enjoying low-key conversations",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find out Sabrina is struggling to decide between two tour locations. You...",
+      "options": [
+        {
+          "text": "Help her create a strict timeline to finalize the decision by the end of the day",
+          "score": "J"
+        },
+        {
+          "text": "Focus on the logistical details: travel time, venue capacity, and local fan turnout numbers",
+          "score": "T"
+        },
+        {
+          "text": "Encourage her to keep her options open, maybe even add a surprise pop-up show in both spots",
+          "score": "P"
+        },
+        {
+          "text": "Ask her how each location makes her feel emotionally, prioritizing her gut instinct",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a chance to design a small gift for Sabrina. You...",
+      "options": [
+        {
+          "text": "Create a custom piece of abstract art that captures the mood of her latest album",
+          "score": "N"
+        },
+        {
+          "text": "Organize a group video from fans around the world to compile into a heartfelt montage",
+          "score": "E"
+        },
+        {
+          "text": "Craft a quiet, personal journal with prompts for her to reflect on her journey",
+          "score": "I"
+        },
+        {
+          "text": "Make a scrapbook filled with photos from her career milestones and handwritten notes from fans",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Sabrina invites you to join her for a spontaneous road trip to a nearby city. You...",
+      "options": [
+        {
+          "text": "Spend 20 minutes mapping out the route, packing snacks, and checking hotel availability first",
+          "score": "J"
+        },
+        {
+          "text": "Throw a few essentials in a bag and hit the road immediately, excited for the unknown",
+          "score": "P"
+        },
+        {
+          "text": "Sit back and enjoy the silence, watching the scenery pass by while daydreaming",
+          "score": "I"
+        },
+        {
+          "text": "Chat nonstop about all the fun stops you can make along the way, from quirky diners to record stores",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re in a meeting where Sabrina’s team is debating a controversial creative choice. You...",
+      "options": [
+        {
+          "text": "Propose a third, out-of-the-box option that no one else has considered yet",
+          "score": "N"
+        },
+        {
+          "text": "Speak up for the choice that feels most aligned with Sabrina’s personal story and values",
+          "score": "F"
+        },
+        {
+          "text": "Argue for the choice that makes the most financial and strategic sense for her brand",
+          "score": "T"
+        },
+        {
+          "text": "Suggest testing both options with a small group of fans before making a final call",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After a long day of working with Sabrina, you have free time to unwind. You...",
+      "options": [
+        {
+          "text": "Use the time to organize your notes from the day and plan tomorrow’s tasks",
+          "score": "J"
+        },
+        {
+          "text": "Join Sabrina and her team for a late-night pizza party, laughing and sharing stories",
+          "score": "E"
+        },
+        {
+          "text": "Doodle random ideas for future projects, letting your mind wander freely",
+          "score": "P"
+        },
+        {
+          "text": "Head back to your room to read a book or listen to a calming playlist alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Sabrina asks for your opinion on whether to collaborate with a mainstream artist or an indie newcomer. You...",
+      "options": [
+        {
+          "text": "Talk about the long-term creative possibilities each collaboration could unlock for her artistry",
+          "score": "N"
+        },
+        {
+          "text": "Analyze the potential impact on her brand image and career trajectory objectively",
+          "score": "T"
+        },
+        {
+          "text": "Point out the concrete benefits: mainstream reach vs. creative freedom, using past collaboration data",
+          "score": "S"
+        },
+        {
+          "text": "Tell her to go with the option that makes her feel most excited and energized",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with helping Sabrina prepare for a surprise fan Q&A. You...",
+      "options": [
+        {
+          "text": "Brainstorm fun, unexpected questions she can ask the fans to keep the energy high",
+          "score": "N"
+        },
+        {
+          "text": "Invite a few fans early to warm up the room, making sure everyone feels welcome and excited",
+          "score": "E"
+        },
+        {
+          "text": "Stay backstage with Sabrina, helping her practice calm breathing to ease her nerves privately",
+          "score": "I"
+        },
+        {
+          "text": "Prepare a list of concrete, fan-favorite topics she can reference if she hits a lull",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When Sabrina shares a vulnerable personal story with you, you...",
+      "options": [
+        {
+          "text": "Sit quietly with her, letting her feel seen without needing to fix anything right away",
+          "score": "P"
+        },
+        {
+          "text": "Offer to help her create a plan to navigate any challenges that come from sharing it",
+          "score": "J"
+        },
+        {
+          "text": "Listen closely and share a similar personal story of your own to connect deeper",
+          "score": "F"
+        },
+        {
+          "text": "Ask thoughtful questions to understand how she’s processing the experience objectively",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "ENFJ: The Empathetic Mentor",
+      "description": "You’re the empathetic mentor who mirrors Sabrina’s ability to connect deeply with others. You use your warm, nurturing energy to lift those around you, always prioritizing people’s feelings and growth. You thrive on guiding others to reach their full potential, turning every interaction into a chance to build meaningful bonds and create positive change.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "ENFP: The Vibrant Storyteller",
+      "description": "You’re a vibrant, imaginative storyteller who channels Sabrina’s fearless creative spirit. You chase bold, unfiltered ideas, embrace life’s spontaneous twists, and wear your heart on your sleeve. Your warm energy draws people in, and you turn every moment into a chance for joy, inspiration, and authentic connection with those around you.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "ENTJ: The Strategic Visionary",
+      "description": "You’re the strategic visionary who combines Sabrina’s drive with sharp, forward-thinking planning. You excel at turning big ideas into actionable plans, leading with confidence and objectivity. You thrive in high-pressure environments, always keeping an eye on long-term goals while navigating challenges with clarity and decisive action.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "ENTP: The Quick-Witted Innovator",
+      "description": "You’re the quick-witted innovator who matches Sabrina’s playful, unapologetic creativity. You love challenging the status quo, brainstorming wild, unexpected ideas, and engaging in lively debates. Your sharp humor and flexible thinking keep every interaction fresh, and you turn obstacles into opportunities for clever, out-of-the-box solutions.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "ESFJ: The Nurturing Organizer",
+      "description": "You’re the nurturing organizer who balances Sabrina’s warmth with meticulous care for details. You thrive on making others feel welcome and supported, going out of your way to ensure every event or interaction runs smoothly. You’re the glue that holds teams together, using your practical skills to create comfortable, inclusive spaces for everyone.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "ESFP: The Spontaneous Entertainer",
+      "description": "You’re the spontaneous entertainer who embodies Sabrina’s lively, fun-loving energy. You live in the moment, thrive on social interactions, and love bringing joy to others through playful, unplanned moments. You’re always up for an adventure, whether it’s a last-minute concert or a impromptu dance party, and your infectious spirit lights up every room.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "ESTJ: The Reliable Leader",
+      "description": "You’re the reliable leader who pairs Sabrina’s work ethic with structured, practical decision-making. You excel at creating order out of chaos, using your logical thinking to ensure tasks are completed efficiently and effectively. Others trust you to get things done, and you lead by example, always following through on commitments and upholding high standards.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "ESTP: The Bold Problem-Solver",
+      "description": "You’re the bold problem-solver who channels Sabrina’s fearless, hands-on approach to life. You thrive in fast-paced environments, using your quick thinking to tackle challenges head-on. You love taking calculated risks, learning by doing, and turning every situation into a chance to test your skills and create immediate, tangible results.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "INFJ: The Insightful Dreamer",
+      "description": "You’re the insightful dreamer who mirrors Sabrina’s depth and introspective side. You have a knack for understanding people’s hidden motivations, and you use your quiet empathy to support others from behind the scenes. You chase meaningful, purpose-driven goals, always looking for the deeper meaning in every experience and interaction.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "INFP: The Idealistic Creator",
+      "description": "You’re the idealistic creator who channels Sabrina’s vulnerable, authentic artistry. You value authenticity above all else, using your imagination to create work that speaks to the heart. You often retreat into your own world of daydreams and ideas, and you connect deeply with others through shared values and quiet, meaningful conversations.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "INTJ: The Independent Strategist",
+      "description": "You’re the independent strategist who combines Sabrina’s focus with long-term, visionary planning. You prefer to work alone, using your logical, analytical mind to create complex, well-thought-out plans. You’re driven by a desire to achieve your goals efficiently, and you value competence and innovation in yourself and those around you.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "INTP: The Curious Thinker",
+      "description": "You’re the curious thinker who matches Sabrina’s love for exploring new ideas. You thrive on diving deep into complex topics, asking endless questions to uncover the truth behind every concept. You prefer quiet, focused environments where you can let your mind wander freely, and you often surprise others with your clever, unexpected insights.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "ISFJ: The Caring Guardian",
+      "description": "You’re the caring guardian who embodies Sabrina’s nurturing, detail-oriented side. You quietly take care of others, remembering small, meaningful details that make people feel seen and valued. You excel at creating warm, comfortable spaces, and you use your practical skills to support those around you without seeking recognition.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "ISFP: The Gentle Artist",
+      "description": "You’re the gentle artist who channels Sabrina’s soft, expressive creativity. You find joy in small, beautiful moments, using your hands to create art that reflects your inner world. You prefer low-key, intimate interactions, and you connect deeply with others through shared experiences and quiet, unspoken understanding.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "ISTJ: The Dedicated Realist",
+      "description": "You’re the dedicated realist who pairs Sabrina’s reliability with practical, no-nonsense decision-making. You value tradition and consistency, using your structured approach to ensure every task is completed correctly and on time. Others rely on you to keep things grounded, and you take pride in your ability to handle responsibilities with precision and care.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "ISTP: The Hands-On Innovator",
+      "description": "You’re the hands-on innovator who mirrors Sabrina’s ability to adapt and create on the fly. You love working with your hands, solving problems through trial and error, and figuring out how things work. You prefer independent work, and you thrive in situations where you can use your technical skills to tackle unexpected challenges with calm efficiency.",
+      "mbti": "ISTP"
+    }
+  ]
+}

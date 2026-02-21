@@ -1,0 +1,349 @@
+{
+  "quizId": 86,
+  "title": "What’s Your Future Fortnite Battle Destiny?",
+  "category": "future",
+  "tags": [
+    "Fortnite",
+    "Battle Royale",
+    "Future Destiny",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your future role and path in the Fortnite battlefield!",
+  "questions": [
+    {
+      "text": "When you first land on the Fortnite island, your immediate move is to...",
+      "options": [
+        {
+          "text": "Mark a hidden high ground in the distance and plan a route avoiding hot zones",
+          "score": "N"
+        },
+        {
+          "text": "Rush to the nearest weapon crate to grab immediate self-defense gear",
+          "score": "S"
+        },
+        {
+          "text": "Find the closest building and meet up with your squad, sharing loot locations quickly",
+          "score": "E"
+        },
+        {
+          "text": "Hide in a remote bush and observe your surroundings before taking action",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a teammate gets knocked down in the middle of a firefight, you...",
+      "options": [
+        {
+          "text": "Stick to your pre-planned tactic, flank the enemies first before handling the rescue",
+          "score": "J"
+        },
+        {
+          "text": "Throw a smoke grenade for cover, rush in to revive your teammate and retreat together",
+          "score": "F"
+        },
+        {
+          "text": "Keep suppressing enemy fire to secure the area before attempting a rescue",
+          "score": "T"
+        },
+        {
+          "text": "Switch weapons flexibly and adjust your rescue timing based on the changing battlefield",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with looting a small town for supplies—you prioritize...",
+      "options": [
+        {
+          "text": "Talk to random players in the area (even enemies) to trade rare items",
+          "score": "E"
+        },
+        {
+          "text": "Search every drawer and cabinet for hidden healing items and ammo",
+          "score": "S"
+        },
+        {
+          "text": "Imagine how each item could be used in a future trap or creative play",
+          "score": "N"
+        },
+        {
+          "text": "Grab only what you need and leave quickly to avoid unwanted attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you spot an enemy team setting up a defensive base, you decide to...",
+      "options": [
+        {
+          "text": "Adapt your approach on the fly, using nearby natural terrain to surprise them",
+          "score": "P"
+        },
+        {
+          "text": "Follow a step-by-step plan to breach their defenses systematically",
+          "score": "J"
+        },
+        {
+          "text": "Focus on protecting your squad first, using distractions to draw fire away",
+          "score": "F"
+        },
+        {
+          "text": "Analyze their base weaknesses and exploit them with precise, targeted attacks",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After winning a hard-fought battle, you spend the downtime by...",
+      "options": [
+        {
+          "text": "Brainstorm new building tricks to use in your next match",
+          "score": "N"
+        },
+        {
+          "text": "Share your victory with your squad and plan your next game together",
+          "score": "E"
+        },
+        {
+          "text": "Organize your inventory to optimize loot for future fights",
+          "score": "S"
+        },
+        {
+          "text": "Review the match replay alone to identify areas for improvement",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a sudden storm starts closing in, your reaction is to...",
+      "options": [
+        {
+          "text": "Check your map and move to the exact center of the safe zone immediately",
+          "score": "J"
+        },
+        {
+          "text": "Use the storm as cover to sneak up on unsuspecting enemies in the area",
+          "score": "P"
+        },
+        {
+          "text": "Help nearby teammates find shelter and share your extra healing items",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the storm’s speed and plan the shortest path to safety",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare experimental item you’ve never used before—you...",
+      "options": [
+        {
+          "text": "Test it out right away on nearby objects to see what it does",
+          "score": "S"
+        },
+        {
+          "text": "Ask your squad if they’ve used it before and get their advice",
+          "score": "E"
+        },
+        {
+          "text": "Think through all possible scenarios where it could give you an edge",
+          "score": "N"
+        },
+        {
+          "text": "Put it in your inventory and save it for a critical moment later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you’re the last one standing in your squad, you...",
+      "options": [
+        {
+          "text": "Play it safe, using your surroundings to hide until the final circle",
+          "score": "F"
+        },
+        {
+          "text": "Take calculated risks, eliminating one enemy at a time to secure the win",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your initial strategy of avoiding direct confrontations",
+          "score": "J"
+        },
+        {
+          "text": "Improvise your playstyle based on the remaining enemies’ movements",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Before a tournament match, your pre-game routine includes...",
+      "options": [
+        {
+          "text": "Chat with your squad to boost morale and go over basic strategies",
+          "score": "E"
+        },
+        {
+          "text": "Study previous tournament replays to learn from top players’ moves",
+          "score": "S"
+        },
+        {
+          "text": "Visualize different in-game scenarios and how you’d respond to each",
+          "score": "N"
+        },
+        {
+          "text": "Warm up alone in a creative mode map to focus on your aim",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you encounter a player who refuses to fight and surrenders, you...",
+      "options": [
+        {
+          "text": "Let them go and focus on finding other enemies instead of wasting time",
+          "score": "T"
+        },
+        {
+          "text": "Offer them a place in your squad temporarily to help with looting",
+          "score": "F"
+        },
+        {
+          "text": "Follow tournament rules exactly and eliminate them as required",
+          "score": "J"
+        },
+        {
+          "text": "Use the opportunity to practice your building skills around them before moving on",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re given the chance to design a custom Fortnite map section—you create...",
+      "options": [
+        {
+          "text": "A complex maze of tunnels and hidden rooms for stealthy gameplay",
+          "score": "N"
+        },
+        {
+          "text": "An open area with plenty of weapon spawns for fast-paced battles",
+          "score": "S"
+        },
+        {
+          "text": "A social hub with interactive objects where players can gather and trade",
+          "score": "E"
+        },
+        {
+          "text": "A quiet, isolated valley with few resources for solo survival challenges",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you’re trailing in points during a tournament, you adjust your playstyle by...",
+      "options": [
+        {
+          "text": "Stick to your proven tactics and trust your squad’s coordination to catch up",
+          "score": "J"
+        },
+        {
+          "text": "Try bold, unexpected plays to turn the tide in your favor",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize protecting your squad to minimize further losses",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the leaderboard and target the weakest teams to gain quick points",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactical Warlord",
+      "description": "As the Tactical Warlord of your future Fortnite career, you’ll dominate tournaments with unshakable strategies and decisive leadership. You coordinate squad pushes, predict enemy movements, and turn every firefight into a calculated victory. Your ability to adapt plans while maintaining control makes you a feared opponent and a trusted leader—your future holds endless top finishes and a reputation as a battlefield genius.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Innovator",
+      "description": "You’ll become the Creative Innovator of the Fortnite scene, known for your wild, unexpected plays that leave enemies stunned. You experiment with new building tricks, turn the environment into your weapon, and thrive on improvising in high-pressure moments. Your future is filled with viral clips and a fanbase that admires your ability to redefine what’s possible on the island.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Squad Guardian",
+      "description": "As the Squad Guardian, your future in Fortnite is all about lifting up your team to victory. You prioritize your squad’s well-being, offer constant support, and turn tense moments into opportunities to bond. Teammates will flock to play with you, and you’ll be known for turning random squads into championship-winning teams through empathy and strategic guidance.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Free-Spirited Maverick",
+      "description": "You’re the Free-Spirited Maverick of Fortnite, whose future is defined by joy and adventure. You explore every corner of the island, befriend random players, and turn every match into a memorable story. Your playful energy and willingness to take risks make you a beloved teammate, and you’ll find success in casual and competitive scenes alike by staying true to your fun-loving self.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Methodical Strategist",
+      "description": "The Methodical Strategist is your future Fortnite identity—you thrive on structure and precision. You plan every move in advance, optimize your inventory to perfection, and follow proven tactics that guarantee consistent results. Tournaments will be your playground, as your reliable, no-nonsense approach earns you a spot among the most respected competitive players in the community.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Adrenaline Junkie",
+      "description": "You’ll be the Adrenaline Junkie of Fortnite, chasing thrills in every match. You rush into hot zones, engage in fast-paced firefights, and use your quick reflexes to outmaneuver enemies. Your future is filled with high-stakes battles and last-second victories, and you’ll gain a following for your explosive, action-packed gameplay that keeps viewers on the edge of their seats.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Nurturing Supporter",
+      "description": "As the Nurturing Supporter, your future in Fortnite is centered on caring for your squad. You always have extra healing items to share, you’re the first to revive teammates, and you create a positive environment that brings out the best in everyone. You’ll be known as the backbone of any successful team, turning even the most chaotic matches into enjoyable, rewarding experiences.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Energetic Showman",
+      "description": "You’re the Energetic Showman of Fortnite, whose future is all about entertaining and engaging. You love showing off your building skills mid-fight, celebrating victories with elaborate dances, and making every match feel like a performance. Your charismatic personality will attract a loyal fanbase, and you’ll find success in content creation as well as casual competitive play.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Lone Visionary",
+      "description": "The Lone Visionary is your future Fortnite persona—you excel at long-term planning and strategic dominance. You pick remote starting positions, map out enemy movements hours in advance, and use your knowledge of the island to outsmart opponents. You’ll be known as a quiet but formidable force, winning matches through patience, precision, and unrivaled foresight that leaves enemies confused and defeated.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analytical Tactician",
+      "description": "You’ll become the Analytical Tactician of Fortnite, obsessed with dissecting every aspect of the game. You experiment with item combinations, study enemy behavior patterns, and create unique strategies that no one else has thought of. Your future includes sharing your insights with the community, and you’ll be revered as a genius who unlocks new ways to play the game.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Empathetic Mentor",
+      "description": "As the Empathetic Mentor, your future in Fortnite is about guiding others to grow. You notice when teammates are struggling, offer personalized advice, and create safe spaces for new players to learn. You’ll be known as a wise and compassionate leader, and you’ll make a lasting impact on the community by fostering a culture of kindness and growth alongside competitive success.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreamy Explorer",
+      "description": "You’re the Dreamy Explorer of Fortnite, whose future is filled with quiet adventures on the island. You seek out hidden locations, appreciate the game’s environmental details, and prioritize peace over constant fighting. Your calm, thoughtful approach will earn you respect from other players, and you’ll find joy in every match by connecting with the game’s world in a way few others do.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Reliable Survivor",
+      "description": "The Reliable Survivor is your future Fortnite identity—you’re the player who always makes it to the final circle. You stick to proven looting routes, prioritize essential supplies, and avoid unnecessary risks. Teammates will rely on you to keep the squad grounded, and you’ll earn a reputation for consistency and dependability, turning every match into a masterclass in survival strategy.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Resourceful Scavenger",
+      "description": "You’ll become the Resourceful Scavenger of Fortnite, turning scraps into victory. You use every item you find to its full potential, adapt quickly to unexpected situations, and thrive in solo matches where self-reliance is key. Your future includes countless last-minute wins where you turn a disadvantage into an advantage using your quick thinking and practical skills.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Caring Protector",
+      "description": "As the Caring Protector, your future in Fortnite is all about looking out for those around you. You stay close to your squad, anticipate their needs, and put their safety above your own. You’ll be known as the most trustworthy teammate in the community, and you’ll build lasting friendships through your consistent, selfless support in every match you play.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Quiet Craftsman",
+      "description": "You’re the Quiet Craftsman of Fortnite, whose future is defined by precision and creativity. You build intricate structures that blend into the environment, use natural terrain to your advantage, and prefer stealthy play over loud firefights. Your future includes creating stunning custom builds and teaching others how to use the game’s tools to express their own creativity.",
+      "mbti": "ISFP"
+    }
+  ]
+}

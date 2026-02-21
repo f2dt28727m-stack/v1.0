@@ -1,0 +1,349 @@
+{
+  "quizId": 70,
+  "title": "What’s Your Hidden Bluey Trait?",
+  "category": "hidden",
+  "tags": [
+    "Bluey",
+    "Hidden Traits",
+    "Personality",
+    "MBTI",
+    "Character Insight"
+  ],
+  "description": "Answer 12 questions to discover your hidden Bluey-inspired trait!",
+  "questions": [
+    {
+      "text": "When planning a backyard adventure, you find yourself drawn to...",
+      "options": [
+        {
+          "text": "Imagining the garden is a magical forest full of mythical creatures",
+          "score": "N"
+        },
+        {
+          "text": "Gathering all the neighborhood kids to build a giant fort together",
+          "score": "E"
+        },
+        {
+          "text": "Exploring the quiet corner of the garden alone, looking for hidden bugs",
+          "score": "I"
+        },
+        {
+          "text": "Bringing a checklist of supplies to make sure the adventure runs smoothly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If your friend is upset after losing their favorite toy, you would...",
+      "options": [
+        {
+          "text": "Turn the search into a silly game to lift their mood while looking",
+          "score": "P"
+        },
+        {
+          "text": "Sit with them, hold their hand, and validate how hurt they feel",
+          "score": "F"
+        },
+        {
+          "text": "Help them retrace their steps logically to find the toy quickly",
+          "score": "T"
+        },
+        {
+          "text": "Create a structured search plan covering every area they visited",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When a game you’re playing hits a snag, you tend to...",
+      "options": [
+        {
+          "text": "Adapt the rules on the fly to keep everyone having fun",
+          "score": "P"
+        },
+        {
+          "text": "Call a group huddle to brainstorm new game ideas together",
+          "score": "E"
+        },
+        {
+          "text": "Stick to the original rules until you figure out the right way to proceed",
+          "score": "J"
+        },
+        {
+          "text": "Think of a creative workaround that no one else has considered",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "After a busy day of playing, you prefer to wind down by...",
+      "options": [
+        {
+          "text": "Sitting quietly with a book, replaying the day’s best moments in your head",
+          "score": "I"
+        },
+        {
+          "text": "Drawing a colorful picture of all the fun things you did that day",
+          "score": "S"
+        },
+        {
+          "text": "Chatting with your family about every detail of your adventures",
+          "score": "E"
+        },
+        {
+          "text": "Daydreaming about the exciting adventures you’ll have tomorrow",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you have to make a quick decision about what to play next, you...",
+      "options": [
+        {
+          "text": "Pick the game that will make everyone in the group happy",
+          "score": "F"
+        },
+        {
+          "text": "Choose the game that has the clearest set of rules to avoid confusion",
+          "score": "T"
+        },
+        {
+          "text": "Go with the first idea that pops into your head without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "Pick the game you know you can win by using a strategic approach",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you find a mysterious object in the park, you would...",
+      "options": [
+        {
+          "text": "Show it to every person you meet, asking them what they think it is",
+          "score": "E"
+        },
+        {
+          "text": "Examine it closely, noting every texture and mark to guess its purpose",
+          "score": "S"
+        },
+        {
+          "text": "Keep it to yourself, wondering about all the stories it could tell",
+          "score": "I"
+        },
+        {
+          "text": "Invent a wild story about where it came from and who lost it",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When teaching a younger kid how to play a new game, you...",
+      "options": [
+        {
+          "text": "Break down each step slowly and clearly so they understand every part",
+          "score": "S"
+        },
+        {
+          "text": "Use silly voices and exaggerated gestures to make the lesson fun",
+          "score": "E"
+        },
+        {
+          "text": "Let them figure it out on their own, stepping in only if they get stuck",
+          "score": "I"
+        },
+        {
+          "text": "Modify the game to fit their skill level so they can join in easily",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you’re given a new craft kit, your first move is to...",
+      "options": [
+        {
+          "text": "Skip the instructions and create something totally unique from the materials",
+          "score": "P"
+        },
+        {
+          "text": "Read the instructions carefully before touching any of the supplies",
+          "score": "J"
+        },
+        {
+          "text": "Ask a friend to join you so you can craft and chat at the same time",
+          "score": "E"
+        },
+        {
+          "text": "Focus on making the craft exactly as it’s shown in the pictures",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If your favorite snack runs out unexpectedly, you would...",
+      "options": [
+        {
+          "text": "Feel disappointed and mope about it for a little while",
+          "score": "F"
+        },
+        {
+          "text": "Look for a logical alternative that’s just as satisfying",
+          "score": "T"
+        },
+        {
+          "text": "Raid the pantry randomly to see what fun snacks you can find instead",
+          "score": "P"
+        },
+        {
+          "text": "Make a list of snacks to buy next time to avoid this problem",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a strange noise at night, you react by...",
+      "options": [
+        {
+          "text": "Go investigate alone, determined to find out what’s making the sound",
+          "score": "I"
+        },
+        {
+          "text": "Wake up your family to check it out together, feeling safer in a group",
+          "score": "E"
+        },
+        {
+          "text": "Listen closely to identify the exact source of the noise before acting",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all sorts of spooky (but fun) explanations for the noise",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a surprise for a loved one, you prioritize...",
+      "options": [
+        {
+          "text": "Making sure every detail is perfect according to a detailed plan",
+          "score": "J"
+        },
+        {
+          "text": "Choosing something that will make them feel deeply loved and appreciated",
+          "score": "F"
+        },
+        {
+          "text": "Keeping it simple but thoughtful, based on what you know they like",
+          "score": "T"
+        },
+        {
+          "text": "Adding spontaneous, silly touches at the last minute to make it extra fun",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you finish a game you’ve been playing for hours, you...",
+      "options": [
+        {
+          "text": "Think about all the ways you could improve your strategy for next time",
+          "score": "N"
+        },
+        {
+          "text": "Talk nonstop about your favorite moments with anyone who will listen",
+          "score": "E"
+        },
+        {
+          "text": "Take a moment to quietly enjoy the sense of accomplishment",
+          "score": "I"
+        },
+        {
+          "text": "Clean up all the game pieces immediately to keep things tidy",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Empathetic Play Leader",
+      "description": "You’re the heart of any group, just like Bluey when organizing games for her friends. You notice when someone feels left out and always find a way to include them, turning ordinary moments into opportunities to connect deeply. Your hidden trait is leading with kindness, using empathy to guide others and make everyone feel seen. You’re an ENFJ—warm, intuitive, and ready to lift others up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Whimsical Adventure Initiator",
+      "description": "Your hidden trait is endless playful imagination, just like Bluey’s wildest game ideas. You turn mundane tasks into magical adventures—pretending the grocery store is a pirate ship or the bathtub a mermaid lagoon. You thrive on joy and connection, always looking for the next fun thing to do with loved ones. You’re an ENFP—optimistic, creative, and full of childlike wonder.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Strategic Game Planner",
+      "description": "Beneath your playful exterior lies a strategic mind, just like Bluey planning elaborate games to outsmart Bingo. You excel at thinking ahead, mapping every detail of an adventure to ensure everyone has fun while staying on track. Your hidden trait is leading with purpose, turning chaotic play into organized joy. You’re an ENTJ—confident, decisive, and always one step ahead.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Clever Rule-Breaker",
+      "description": "You love thinking outside the box, just like Bluey bending game rules to make them more exciting. Your hidden trait is quick wit and adaptability—turning boring walks into treasure hunts or quiet afternoons into silly improv shows. You thrive on surprises and never shy away from shaking things up. You’re an ENTP—curious, inventive, and always ready for spontaneous fun.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Nurturing Play Coordinator",
+      "description": "Your hidden trait is making everyone feel comfortable and included, just like Bluey’s mum Chilli. You remember small details about friends’ favorite games and plan activities that cater to everyone’s interests. You create warm, welcoming environments where play feels safe and joyful. You’re an ESFJ—caring, reliable, and the glue that holds every group together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Spontaneous Playmaker",
+      "description": "You live in the moment, just like Bluey diving into new games without overthinking. Your hidden trait is turning ordinary moments into celebrations—dancing in the rain or making up silly songs on the spot. You thrive on energy and excitement, always the first to suggest a new adventure. You’re an ESFP—energetic, fun-loving, and full of contagious enthusiasm.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Organized Play Referee",
+      "description": "Your hidden trait is love for structure and fairness, just like Bluey enforcing game rules to prevent cheating. You keep playtime running smoothly with clear guidelines that everyone can follow while still having fun. You take responsibility seriously and ensure no one feels shortchanged. You’re an ESTJ—responsible, practical, and the go-to for steady game management.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Quick-Thinking Problem-Solver",
+      "description": "You jump into action when games hit snags, just like Bluey fixing a broken swing set with a clever idea. Your hidden trait is thinking on your feet, turning obstacles into new play opportunities. You thrive on excitement and love testing limits with daring, impromptu challenges. You’re an ESTP—adventurous, resourceful, and always ready for a thrill.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Intuitive Storyteller",
+      "description": "Your hidden trait is a deep, imaginative inner world, just like Bluey creating elaborate stories for her stuffed animals. You notice small, meaningful moments others miss and craft heartfelt narratives that resonate. You turn quiet afternoons into magical tales, connecting with loved ones through shared wonder. You’re an INFJ—thoughtful, intuitive, and a master of quiet magic.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreamy Playful Idealist",
+      "description": "You see the world through wonder, just like Bluey imagining her backyard is a fairy tale kingdom. Your hidden trait is holding onto childlike curiosity, finding joy in the simplest things—chasing butterflies or building sandcastles. You prioritize heart and beauty over chaos, turning small adventures into lasting memories. You’re an INFP—kind, creative, and full of gentle optimism.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Quiet Game Strategist",
+      "description": "Beneath your calm exterior lies a strategic mind, just like Bluey planning a secret mission to surprise her dad. You excel at thinking ahead, mapping every step of an adventure to ensure it goes off without a hitch. Your hidden trait is turning ordinary play into something extraordinary with careful planning. You’re an INTJ—independent, analytical, and always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Play Inventor",
+      "description": "You love tinkering with ideas, just like Bluey inventing new games to entertain herself. Your hidden trait is endless curiosity—always asking ‘what if?’ and experimenting with unique play concepts. You’re happiest exploring new ways to turn everyday objects into fun toys or simple rules into complex, engaging games. You’re an INTP—logical, inventive, and a master of quiet creativity.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Thoughtful Play Companion",
+      "description": "Your hidden trait is remembering every small detail about friends’ favorite things, just like Bluey planning a perfect day for Bingo. You thrive on making others feel special, tailoring adventures to their interests and ensuring no one is left out. You’re reliable and kind, always ready to listen or join in on a quiet, meaningful game. You’re an ISFJ—caring, attentive, and the best friend anyone could ask for.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artistic Play Creator",
+      "description": "You find joy in expressing yourself through creative play, just like Bluey drawing colorful pictures of her adventures. Your hidden trait is turning ordinary objects into works of art—leaf crowns, block sculptures, or chalk murals. You’re in tune with beauty and emotion, using play as a way to connect with your inner child and others. You’re an ISFP—gentle, creative, and deeply observant.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Reliable Play Organizer",
+      "description": "Your hidden trait is keeping things running smoothly, just like Bluey’s dad Bandit during game night. You plan every detail, ensuring everyone has what they need to have fun. You value order and responsibility, making sure games are fair and play spaces are tidy. You’re the one friends turn to when they need a steady hand. You’re an ISTJ—responsible, practical, and incredibly dependable.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Play Innovator",
+      "description": "You love building and creating, just like Bluey constructing giant forts from blankets and pillows. Your hidden trait is turning any material into something fun and functional—fixing broken toys with rubber bands or building slides from cardboard boxes. You thrive on problem-solving with your hands, turning play into a chance to learn and create. You’re an ISTP—resourceful, practical, and happiest when working with your hands.",
+      "mbti": "ISTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 73,
+  "title": "What Will Your Future Bluey-Inspired Life Look Like?",
+  "category": "future",
+  "tags": [
+    "Bluey",
+    "Future Lifestyle",
+    "Family-centric",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your future Bluey-inspired life path!",
+  "questions": [
+    {
+      "text": "When a sudden rainstorm cancels your outdoor plans, you immediately...",
+      "options": [
+        {
+          "text": "Pull out craft supplies and start a messy, creative art project with whoever’s around",
+          "score": "N"
+        },
+        {
+          "text": "Invite a few close friends over for hot cocoa and a marathon of your favorite cozy shows",
+          "score": "E"
+        },
+        {
+          "text": "Use the time to sort through your closet and donate clothes you no longer wear",
+          "score": "S"
+        },
+        {
+          "text": "Curl up in your favorite chair with a blanket and a quiet, calming hobby",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a gift for a loved one, you prioritize...",
+      "options": [
+        {
+          "text": "An item they mentioned needing weeks ago, perfectly tailored to their daily routine",
+          "score": "S"
+        },
+        {
+          "text": "A silly, inside-joke inspired item that’ll make them laugh until they cry",
+          "score": "F"
+        },
+        {
+          "text": "A practical, long-lasting gift that solves a small problem in their life",
+          "score": "T"
+        },
+        {
+          "text": "A unique, one-of-a-kind piece that sparks their curiosity and sense of wonder",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When resolving a minor conflict with a family member, you tend to...",
+      "options": [
+        {
+          "text": "Take a break to cool off before coming back to talk when everyone’s calm",
+          "score": "P"
+        },
+        {
+          "text": "Listen deeply and validate their feelings before discussing possible solutions",
+          "score": "F"
+        },
+        {
+          "text": "Bring up similar past situations where you resolved things successfully",
+          "score": "J"
+        },
+        {
+          "text": "Suggest a clear, step-by-step plan to fix the issue quickly and fairly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you have a free afternoon with no plans, you’re most likely to...",
+      "options": [
+        {
+          "text": "Stroll through your local park, stopping to chat with every dog owner you meet",
+          "score": "E"
+        },
+        {
+          "text": "Get lost in a daydream about a fictional adventure where you’re a pirate dog",
+          "score": "N"
+        },
+        {
+          "text": "Spend time experimenting with a new baking recipe you found online",
+          "score": "S"
+        },
+        {
+          "text": "Finish the puzzle you’ve been working on for weeks in a quiet corner of the house",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a family trip, you focus on...",
+      "options": [
+        {
+          "text": "Leaving plenty of open time to explore unexpected spots that catch your eye",
+          "score": "P"
+        },
+        {
+          "text": "Creating a detailed itinerary with exact times for meals, activities, and rest stops",
+          "score": "J"
+        },
+        {
+          "text": "Picking places that offer unique, once-in-a-lifetime experiences everyone will talk about for years",
+          "score": "N"
+        },
+        {
+          "text": "Choosing destinations that have meaningful connections to your family’s history",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a friend shares a big worry with you, you respond by...",
+      "options": [
+        {
+          "text": "Helping them list out concrete steps to address the issue head-on",
+          "score": "T"
+        },
+        {
+          "text": "Sharing a personal story of a similar struggle to make them feel less alone",
+          "score": "F"
+        },
+        {
+          "text": "Inviting them to a fun activity to take their mind off things temporarily",
+          "score": "E"
+        },
+        {
+          "text": "Sitting in silence with them, holding their hand and letting them know you’re there",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you learn a new skill, you prefer to...",
+      "options": [
+        {
+          "text": "Visualize how you’ll use this skill to create something entirely new in the future",
+          "score": "N"
+        },
+        {
+          "text": "Watch a step-by-step tutorial and follow each instruction exactly",
+          "score": "S"
+        },
+        {
+          "text": "Practice with a group of people, asking questions and learning from others’ mistakes",
+          "score": "E"
+        },
+        {
+          "text": "Jump in and try it out, figuring things out as you go with trial and error",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When organizing your living space, you lean toward...",
+      "options": [
+        {
+          "text": "Choosing functional furniture that serves multiple purposes to maximize space",
+          "score": "T"
+        },
+        {
+          "text": "Having a specific spot for every item, keeping surfaces clear and clutter-free",
+          "score": "J"
+        },
+        {
+          "text": "Decorating with photos and mementos that tell stories of your favorite memories",
+          "score": "F"
+        },
+        {
+          "text": "Letting items be where they’re most convenient, even if it looks a bit messy",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you hear about a new local event, you...",
+      "options": [
+        {
+          "text": "Imagine all the fun, unexpected moments you might have if you attend",
+          "score": "N"
+        },
+        {
+          "text": "Decide to skip it and stay home with a good book instead",
+          "score": "I"
+        },
+        {
+          "text": "Text all your friends immediately to see who wants to go with you",
+          "score": "E"
+        },
+        {
+          "text": "Research the event online to see if it aligns with your current interests",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you rely most on...",
+      "options": [
+        {
+          "text": "Your vision of how each choice will shape your long-term future goals",
+          "score": "N"
+        },
+        {
+          "text": "The pros and cons list you’ve carefully written out and analyzed",
+          "score": "T"
+        },
+        {
+          "text": "The gut feeling you get when you think about each possible outcome",
+          "score": "F"
+        },
+        {
+          "text": "Advice from trusted family members who know you better than anyone",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When hosting a dinner for loved ones, you focus on...",
+      "options": [
+        {
+          "text": "Cooking a tried-and-true recipe that everyone knows and loves",
+          "score": "S"
+        },
+        {
+          "text": "Trying a fancy, new recipe you’ve been dying to experiment with",
+          "score": "N"
+        },
+        {
+          "text": "Making sure everyone is comfortable and engaged in lively conversation",
+          "score": "E"
+        },
+        {
+          "text": "Preparing everything ahead of time so you don’t have to rush during the meal",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on your day before bed, you think about...",
+      "options": [
+        {
+          "text": "The small task you completed that made your home feel a little cozier",
+          "score": "S"
+        },
+        {
+          "text": "The funny, silly moment you shared with a stranger at the grocery store",
+          "score": "E"
+        },
+        {
+          "text": "The quiet time you spent reading that helped you unwind after a busy day",
+          "score": "I"
+        },
+        {
+          "text": "The big idea you had for a family adventure next month",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Bandit-style Community Anchor",
+      "description": "Your future days are a warm tapestry of community and connection. Like Bandit, you’ll be the one organizing neighborhood game nights, checking in on lonely neighbors, and turning ordinary afternoons into silly, memorable adventures. Your home is a hub of joy, where everyone feels seen and loved. You thrive on lifting others up, and your life is rooted in empathy and playful kindness.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Chilli-like Quiet Nurturer",
+      "description": "Your future life is defined by quiet, intentional care. Like Chilli, you’ll find joy in small, meaningful moments: making a cup of tea for a tired family member, tending to a window box of flowers, or listening deeply when someone needs to talk. You prioritize peace and balance, and your home is a calm retreat where everyone can recharge. Your strength lies in your gentle, unwavering support.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Bluey-like Adventure Creator",
+      "description": "Your future is full of endless imagination and playful energy. Like Bluey, you’ll turn every walk to the park into a pirate quest, every rainy day into a mud pie feast. You see magic in the mundane, and your life is a series of spontaneous, joyful adventures with friends and family. You inspire others to let loose and have fun, and your days are never boring.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Bingo-like Thoughtful Dreamer",
+      "description": "Your future life is a soft, whimsical journey. Like Bingo, you’ll spend hours daydreaming about imaginary friends and secret hideouts, finding joy in the quiet corners of the world. You’re deeply attuned to the feelings of others, and small acts of kindness—like leaving a drawing for a friend—are your favorite way to connect. Your days are slow, intentional, and filled with gentle wonder.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Muffin-like Bold Trailblazer",
+      "description": "Your future life is bold, unapologetic, and full of confidence. Like Muffin, you’ll march to the beat of your own drum, never shying away from expressing your true self. You’re the one trying new things first, speaking up when no one else will, and turning every challenge into an opportunity to stand out. Your life is loud, vibrant, and entirely your own.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Socks-like Curious Observer",
+      "description": "Your future life is a journey of quiet curiosity. Like Socks, you’ll spend your days watching, learning, and taking in the world around you. You’re fascinated by small details—how a spider weaves its web, the way light hits the leaves in the afternoon—and you find joy in understanding how things work. You’re thoughtful and observant, and your insights often surprise those around you.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Rusty-like Reliable Problem-Solver",
+      "description": "Your future life is built on reliability and practicality. Like Rusty, you’ll be the one everyone turns to when they need help fixing a broken bike, planning a budget, or solving a tricky problem. You thrive on order and structure, and your days are filled with tasks that make a tangible difference. You’re steady, dependable, and your calm presence puts everyone at ease.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Indy-like Steadfast Keeper of Traditions",
+      "description": "Your future life is rooted in tradition and loyalty. Like Indy, you’ll hold dear the rituals that bind your family together—annual camping trips, holiday recipes passed down through generations, and Sunday morning walks. You value stability and consistency, and you’re the one who keeps everyone connected to their roots. Your home is filled with warmth and familiar comfort.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Chloe-like Social Connector",
+      "description": "Your future life is a whirlwind of social energy and fun. Like Chloe, you’ll know everyone in the neighborhood, from the local barista to the kids at the park. You thrive on hosting parties, organizing group outings, and bringing people together. Your days are busy with laughter and conversation, and you have a gift for making even the shyest person feel included.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Honey-like Gentle Caregiver",
+      "description": "Your future life is centered around quiet, consistent care. Like Honey, you’ll spend your days tending to the needs of others—whether it’s taking care of a sick pet, helping a child learn to ride a bike, or bringing soup to a neighbor in need. You’re deeply nurturing, and your kindness is felt by everyone around you. Your life is a testament to the power of small, meaningful acts.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Jack-like Spontaneous Explorer",
+      "description": "Your future life is full of spontaneous adventures and new experiences. Like Jack, you’ll jump at the chance to try a new sport, visit a new town, or try a weird snack. You hate routine and love living in the moment, and your days are filled with unexpected twists and turns. You inspire others to step outside their comfort zones and embrace the unknown.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Lucky-like Patient Creator",
+      "description": "Your future life is a canvas for your creative passions. Like Lucky, you’ll spend hours lost in your favorite hobbies—drawing, building, or playing music—finding peace in the process of creating something new. You’re patient and focused, and you take pride in the work you do. Your home is filled with your creations, and you find joy in sharing them with those you love.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Mackenzie-like Energetic Collaborator",
+      "description": "Your future life is all about collaboration and shared fun. Like Mackenzie, you love working with others on big, exciting projects—whether it’s building a giant fort with the neighborhood kids or planning a community garden. You’re energetic, optimistic, and you bring out the best in everyone around you. Your days are filled with teamwork and laughter.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Princess-like Quiet Enjoyer of Small Joys",
+      "description": "Your future life is a celebration of small, simple joys. Like Princess, you’ll find happiness in the little things: a warm cup of hot chocolate on a cold day, a walk through the leaves in autumn, or a cozy nap with your favorite stuffed animal. You’re gentle and content, and you don’t need big adventures to feel fulfilled. Your life is calm, peaceful, and full of quiet happiness.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Calypso-like Strategic Visionary",
+      "description": "Your future life is guided by big ideas and strategic planning. Like Calypso, you’re always looking ahead, thinking about how to make the world a better place. You’re the one organizing community clean-ups, starting a local book club, or planning a sustainable garden. You’re focused on long-term goals, and your life is dedicated to making a positive impact.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Stripe-like Focused Achiever",
+      "description": "Your future life is driven by focus and determination. Like Stripe, you set clear goals and work tirelessly to achieve them—whether it’s learning a new language, running a marathon, or fixing up an old house. You’re disciplined and hardworking, and you take pride in your accomplishments. Your life is structured, purposeful, and filled with a sense of achievement.",
+      "mbti": "INTJ"
+    }
+  ]
+}

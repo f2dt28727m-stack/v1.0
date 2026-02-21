@@ -1,0 +1,349 @@
+{
+  "quizId": 37,
+  "title": "Which Olivia Rodrigo Vibe Matches Your Inner Self?",
+  "category": "which",
+  "tags": [
+    "Olivia Rodrigo",
+    "Soulmate Match",
+    "MBTI",
+    "Personality",
+    "Music Personality"
+  ],
+  "description": "Answer 12 questions to discover which Olivia Rodrigo-inspired inner vibe matches you perfectly!",
+  "questions": [
+    {
+      "text": "When you stumble on a song that hits you right in the heart, you tend to...",
+      "options": [
+        {
+          "text": "Dig through every interview the artist gave to uncover the real-life story behind the track",
+          "score": "S"
+        },
+        {
+          "text": "Blast it at full volume and drag your friends into a late-night lyric analysis session",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about a whole movie plot inspired by the song’s emotional arc",
+          "score": "N"
+        },
+        {
+          "text": "Curl up with your favorite blanket and let the words wrap around you alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you had to write a song about a recent heartbreak, you would focus on...",
+      "options": [
+        {
+          "text": "Pouring out your sadness in soft, trembling lines that feel like a whisper",
+          "score": "F"
+        },
+        {
+          "text": "Channeling your anger into sharp, fiery verses that demand attention",
+          "score": "T"
+        },
+        {
+          "text": "The specific, tiny moments—like the way they left their coffee mug on your counter",
+          "score": "S"
+        },
+        {
+          "text": "The big-picture feeling of betrayal and how it changed your view of love",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a weekend with friends, you prefer...",
+      "options": [
+        {
+          "text": "Winging it—seeing where the day takes you without any set plans",
+          "score": "P"
+        },
+        {
+          "text": "Hosting a cozy dinner with a carefully curated playlist and homemade snacks",
+          "score": "J"
+        },
+        {
+          "text": "Trying a new adventure like rock climbing or a hidden hike",
+          "score": "E"
+        },
+        {
+          "text": "A low-key movie marathon with just your closest friend",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you disagree with someone’s opinion on art, you...",
+      "options": [
+        {
+          "text": "Ask them to explain their perspective, eager to understand their reasoning",
+          "score": "F"
+        },
+        {
+          "text": "Present logical points to support your own take on the work",
+          "score": "T"
+        },
+        {
+          "text": "Change the topic to avoid any potential conflict",
+          "score": "I"
+        },
+        {
+          "text": "Debate the point passionately, loving the back-and-forth of ideas",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling stuck creatively, you...",
+      "options": [
+        {
+          "text": "Flip through old journals to draw from past experiences",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm wild, unfiltered ideas without worrying about feasibility",
+          "score": "N"
+        },
+        {
+          "text": "Set a strict schedule to write or create for 30 minutes every hour",
+          "score": "J"
+        },
+        {
+          "text": "Wander around the city, letting random sights spark inspiration",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you celebrate a personal win?",
+      "options": [
+        {
+          "text": "Treat yourself to a fancy meal at your favorite restaurant",
+          "score": "S"
+        },
+        {
+          "text": "Take a solo trip to a place you’ve always wanted to visit",
+          "score": "N"
+        },
+        {
+          "text": "Throw a big party with all your loved ones",
+          "score": "E"
+        },
+        {
+          "text": "Spend the day reading your favorite book in a quiet spot",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset, you...",
+      "options": [
+        {
+          "text": "Offer specific solutions to help them fix their problem",
+          "score": "T"
+        },
+        {
+          "text": "Sit with them in silence, holding their hand and letting them cry",
+          "score": "F"
+        },
+        {
+          "text": "Distract them with a fun activity to take their mind off things",
+          "score": "E"
+        },
+        {
+          "text": "Listen carefully and ask questions to let them process their feelings",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you have to make a big decision, you...",
+      "options": [
+        {
+          "text": "List out all the pros and cons to weigh your options logically",
+          "score": "J"
+        },
+        {
+          "text": "Go with your gut instinct, even if it doesn’t make sense on paper",
+          "score": "P"
+        },
+        {
+          "text": "Ask multiple friends for their advice before choosing",
+          "score": "E"
+        },
+        {
+          "text": "Spend a few days alone reflecting on what feels right for you",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "What draws you to a song the most?",
+      "options": [
+        {
+          "text": "The catchy beat that makes you want to dance",
+          "score": "S"
+        },
+        {
+          "text": "The poetic lyrics that paint vivid, abstract images",
+          "score": "N"
+        },
+        {
+          "text": "The way it makes you feel connected to the artist’s emotions",
+          "score": "F"
+        },
+        {
+          "text": "The clever song structure and production details",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you have free time, you’re most likely to...",
+      "options": [
+        {
+          "text": "Organize your closet and rearrange your room for better flow",
+          "score": "J"
+        },
+        {
+          "text": "Try a new hobby like pottery or calligraphy just for fun",
+          "score": "P"
+        },
+        {
+          "text": "Volunteer at a local shelter to help people in need",
+          "score": "E"
+        },
+        {
+          "text": "Learn a new skill by watching online tutorials at your own pace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle criticism about your work?",
+      "options": [
+        {
+          "text": "Take notes and use the feedback to improve your next project",
+          "score": "T"
+        },
+        {
+          "text": "Feel hurt but try to see the other person’s point of view",
+          "score": "F"
+        },
+        {
+          "text": "Defend your work passionately, explaining your creative choices",
+          "score": "E"
+        },
+        {
+          "text": "Step away to process the feedback alone before responding",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "What’s your ideal way to connect with someone new?",
+      "options": [
+        {
+          "text": "Bond over a shared love of a specific band or movie",
+          "score": "S"
+        },
+        {
+          "text": "Discuss big ideas like the meaning of life or future innovations",
+          "score": "N"
+        },
+        {
+          "text": "Plan a group activity to get to know them in a fun setting",
+          "score": "E"
+        },
+        {
+          "text": "Have a one-on-one conversation in a quiet café",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Vulnerable Balladeer",
+      "description": "You resonate with Olivia’s raw, introspective side—you pour your heart into every word and find solace in turning pain into art. Like her when writing ‘vampire,’ you feel deeply, cherish authenticity, and connect with others through shared vulnerability. You’re unafraid to show your soft edges, and your quiet strength draws people who value genuine emotion.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Unapologetic Dreamer",
+      "description": "You match Olivia’s bold, imaginative spirit—you see the world through a lens of endless possibility. Like how she crafts epic, cinematic lyrics, you love to daydream, chase big ideas, and inspire others with your enthusiasm. You’re unafraid to speak your mind, and your infectious energy makes you the life of any creative conversation.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Intuitive Lyricist",
+      "description": "You align with Olivia’s intuitive, thoughtful side—you pick up on hidden meanings and connect dots others miss. Like her when decoding complex emotions in ‘drivers license,’ you have a knack for understanding people’s unspoken feelings. You’re a deep thinker who values purpose over popularity, and your insights help others make sense of their own lives.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Empathetic Connector",
+      "description": "You mirror Olivia’s warm, empathetic vibe—you thrive on bringing people together and making everyone feel seen. Like how she interacts with her fans, you’re the friend who remembers every small detail and always knows how to lift someone up. Your ability to connect with others on a deep level makes you a natural leader in any community.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Strategic Songwriter",
+      "description": "You match Olivia’s focused, strategic side—you approach creativity with a clear plan and sharp attention to detail. Like how she crafts hit after hit with intentionality, you value logic and structure, turning big ideas into polished, impactful work. You’re a problem-solver who never shies away from a challenge, and your precision sets you apart.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Bold Producer",
+      "description": "You resonate with Olivia’s confident, take-charge energy—you’re not afraid to lead and make bold choices. Like how she takes control of her music career, you thrive in positions of power, using your strategic mind to turn visions into reality. You’re a natural leader who inspires others to step outside their comfort zones.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Curious Analyst",
+      "description": "You align with Olivia’s curious, analytical side—you love to dig deep into the ‘why’ behind every song and story. Like how she explores complex themes in her lyrics, you’re a lifelong learner who asks endless questions. You’re fascinated by systems and patterns, and your unique perspective helps you uncover truths others overlook.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Witty Wordsmith",
+      "description": "You mirror Olivia’s clever, playful vibe—you have a way with words that’s equal parts sharp and charming. Like her when writing witty one-liners in ‘bad idea right?,’ you love to debate, joke around, and keep conversations lively. You’re a quick thinker who never runs out of ideas, and your humor makes you instantly likable.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Sensory Storyteller",
+      "description": "You match Olivia’s grounded, sensory side—you find inspiration in the small, tangible moments of life. Like how she writes about specific memories in ‘vampire,’ you cherish the feel of a warm coffee mug, the sound of rain on a window, and the smell of old books. You’re a hands-on creator who turns everyday experiences into something beautiful.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Dynamic Performer",
+      "description": "You resonate with Olivia’s energetic, expressive side—you thrive in the spotlight and love to entertain. Like her when performing live, you’re bold, charismatic, and always ready to put on a show. You love to try new things, whether it’s a dance class or an open mic night, and your passion for life is contagious.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Caring Supporter",
+      "description": "You align with Olivia’s kind, nurturing side—you’re the friend everyone turns to for support. Like how she stands up for her loved ones, you’re reliable, loyal, and always willing to lend a hand. You value tradition and stability, and your quiet dedication makes you a rock for everyone in your life.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Harmony Builder",
+      "description": "You mirror Olivia’s warm, community-focused vibe—you love to bring people together and keep the peace. Like how she collaborates with other artists, you’re a team player who listens to everyone’s ideas and finds common ground. You’re the one who plans group outings and makes sure no one feels left out, and your kindness makes you beloved by all.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Cool Observer",
+      "description": "You match Olivia’s calm, observant side—you prefer to watch and learn before jumping in. Like how she takes in her surroundings to write lyrics, you’re a quiet observer who notices details others miss. You’re practical, resourceful, and love to fix things with your hands, whether it’s a broken bike or a messy playlist.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Spontaneous Collaborator",
+      "description": "You resonate with Olivia’s fun, spontaneous side—you love to go with the flow and try new things. Like how she impromptu performs covers on stage, you’re adventurous, energetic, and always ready for a last-minute plan. You thrive in social settings and love to collaborate with others on creative projects.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Grounded Traditionalist",
+      "description": "You align with Olivia’s down-to-earth, reliable side—you value hard work and consistency above all else. Like how she stays true to her roots, you prefer familiar routines and tangible results. You’re the one who shows up on time, keeps promises, and always follows through, making you a trusted partner in any endeavor.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Reliable Organizer",
+      "description": "You mirror Olivia’s focused, organized side—you excel at turning chaos into order. Like how she manages her busy career with precision, you’re a natural planner who loves to check off to-do lists. You’re practical, efficient, and always have a backup plan, making you the go-to person for any big project or event.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

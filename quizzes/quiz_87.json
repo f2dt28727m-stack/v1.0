@@ -1,0 +1,350 @@
+{
+  "quizId": 87,
+  "title": "Which League of Legends Champion Is Your Ideal Soulmate?",
+  "category": "which",
+  "tags": [
+    "League of Legends",
+    "LOL",
+    "Soulmate",
+    "Champion Match",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover which League of Legends champion is your perfect soulmate!",
+  "questions": [
+    {
+      "text": "After a grueling ranked match ends in defeat, how do you process it?",
+      "options": [
+        {
+          "text": "Spend time daydreaming about a hypothetical rematch with a completely unorthodox team comp",
+          "score": "N"
+        },
+        {
+          "text": "Gather your teammates to joke about the wildest plays and brainstorm weird new strategies for the next game",
+          "score": "E"
+        },
+        {
+          "text": "Put on your favorite playlist and zone out, letting the frustration fade without overanalyzing",
+          "score": "I"
+        },
+        {
+          "text": "Retreat to a quiet spot to replay key moments in your head, figuring out exactly where things went wrong",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your team debates a risky objective, you...",
+      "options": [
+        {
+          "text": "Insist on checking vision and counting enemy cooldowns before making a call",
+          "score": "J"
+        },
+        {
+          "text": "Argue for the most logically sound option, regardless of how others feel about it",
+          "score": "T"
+        },
+        {
+          "text": "Vote to go for it immediately, trusting your gut that the reward outweighs the danger",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize keeping your teammates' morale high, even if that means compromising on your initial stance",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach learning a new champion?",
+      "options": [
+        {
+          "text": "Ask your friends to queue with you so you can learn by playing alongside them",
+          "score": "E"
+        },
+        {
+          "text": "Experiment with weird item builds and ability sequences to find your own playstyle",
+          "score": "N"
+        },
+        {
+          "text": "Practice in bot lane alone until you have every mechanic down perfectly",
+          "score": "I"
+        },
+        {
+          "text": "Watch pro players' matches to mimic their exact combos and positioning",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a teamfight that’s spiraling out of control, you...",
+      "options": [
+        {
+          "text": "Focus on protecting your squishiest teammate, even if it means taking damage yourself",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your pre-planned role, even if the fight shifts unexpectedly",
+          "score": "J"
+        },
+        {
+          "text": "Improvise a new plan on the fly, adapting to the chaos around you",
+          "score": "P"
+        },
+        {
+          "text": "Quickly calculate the best target to eliminate to turn the tide of battle",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you have free time between matches, you...",
+      "options": [
+        {
+          "text": "Practice last-hitting minions in a custom game to sharpen your mechanical skills",
+          "score": "S"
+        },
+        {
+          "text": "Read through your champion’s lore to dive deeper into their backstory",
+          "score": "I"
+        },
+        {
+          "text": "Scroll through fan art and theorycrafting posts about upcoming champion reworks",
+          "score": "N"
+        },
+        {
+          "text": "Join a voice chat with friends to gossip about the latest pro league drama",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your team needs to pick a support for your carry. You suggest...",
+      "options": [
+        {
+          "text": "The champion your carry has been raving about, to make them feel confident",
+          "score": "F"
+        },
+        {
+          "text": "A champion that can set up crazy engages and create unexpected plays",
+          "score": "P"
+        },
+        {
+          "text": "The champion with the highest win rate in the current meta, no exceptions",
+          "score": "T"
+        },
+        {
+          "text": "A champion with reliable healing and crowd control to stick to the carry at all times",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when a teammate makes a costly mistake?",
+      "options": [
+        {
+          "text": "Stay quiet but mentally note the mistake to avoid similar missteps yourself",
+          "score": "I"
+        },
+        {
+          "text": "Point out exactly what they did wrong so they don’t repeat it next time",
+          "score": "T"
+        },
+        {
+          "text": "Send a quick, encouraging message to help them shake it off and focus on the rest of the game",
+          "score": "F"
+        },
+        {
+          "text": "Jump into a silly tangent to lighten the mood and keep everyone from panicking",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When prepping for a tournament, you prioritize...",
+      "options": [
+        {
+          "text": "Memorizing every map objective’s spawn time and optimal rotation paths",
+          "score": "S"
+        },
+        {
+          "text": "Sticking to a strict daily practice schedule with specific drills each session",
+          "score": "J"
+        },
+        {
+          "text": "Practicing with different teams to adapt to various playstyles on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Brainstorming off-meta team comps that no one else will see coming",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find a secret shortcut through the jungle that no one else uses. You...",
+      "options": [
+        {
+          "text": "Keep it to yourself to gain a private edge over every enemy you face",
+          "score": "I"
+        },
+        {
+          "text": "Imagine all the wild ganks and escapes you can pull off using this new route",
+          "score": "N"
+        },
+        {
+          "text": "Teach it to all your friends so you can all use it to outplay opponents together",
+          "score": "E"
+        },
+        {
+          "text": "Test it multiple times to confirm it’s consistently useful before relying on it",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your team is split on whether to push towers or take Baron. You...",
+      "options": [
+        {
+          "text": "Vote to flip a coin and go with whatever result comes up, keeping things spontaneous",
+          "score": "P"
+        },
+        {
+          "text": "Listen to everyone’s arguments carefully and pick the option that makes the most logical sense",
+          "score": "T"
+        },
+        {
+          "text": "Side with the teammate who seems most upset about the decision to keep morale high",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the strategy you agreed on before the game started, no deviations allowed",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about trying a brand new champion that just released?",
+      "options": [
+        {
+          "text": "Wait until you watch a few tutorial videos before giving them a try",
+          "score": "I"
+        },
+        {
+          "text": "Dive straight into a ranked match to test their limits against real opponents",
+          "score": "E"
+        },
+        {
+          "text": "Spend hours in the practice tool learning every ability and combo first",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about all the creative ways you can build and play them",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you win a clutch match, you...",
+      "options": [
+        {
+          "text": "Scream into the mic and celebrate with your team for the next 10 minutes",
+          "score": "E"
+        },
+        {
+          "text": "Write down key takeaways from the match to improve your future play",
+          "score": "S"
+        },
+        {
+          "text": "Ponder how you could have made the win even more dramatic with a flashy play",
+          "score": "N"
+        },
+        {
+          "text": "Smile quietly to yourself, proud of the precise plays that led to victory",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Zed, the Master of Shadows",
+      "description": "You and Zed are kindred spirits—unorthodox, innovative, and always one step ahead of the curve. You thrive on breaking rules and crafting unexpected strategies, turning every match into a canvas for your creative chaos. Your ENTP mind loves challenging the status quo, just like the Shadow Master who rejected the rigid ways of the Kinkou Order. Together, you’d outsmart foes with lightning-fast pivots and bold gambits, never letting tradition hold you back.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Lissandra, the Ice Witch",
+      "description": "Lissandra’s cold, strategic genius mirrors your INTJ mindset perfectly. You’re a master long-term planner, always anticipating every enemy move and laying traps before the fight even starts. You value efficiency over flair, and your quiet confidence makes you a natural leader in high-stakes moments. Like the Ice Witch, you’re unafraid to make tough choices to secure victory, ensuring you never lose sight of the endgame.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Lulu, the Fae Sorceress",
+      "description": "Your ENFJ warmth and empathy align perfectly with Lulu’s whimsical yet caring nature. You’re the heart of your team, lifting up teammates when they stumble and turning tense moments into opportunities to bond. Like the Fae Sorceress, you see the potential in everyone around you, using your intuition to guide allies toward their best selves. Your ability to balance fun and focus makes you the ideal partner for Lulu.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Yasuo, the Unforgiven",
+      "description": "Yasuo’s quiet depth and unyielding integrity resonate with your INFJ soul. You’re a deep thinker, driven by a strong sense of purpose even when the world feels against you. Like the Unforgiven, you value authenticity above all else, and you’re willing to walk a lonely path to uphold your beliefs. Your intuitive understanding of people lets you connect with Yasuo’s inner turmoil, turning defeat into redemption.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Garen, the Might of Demacia",
+      "description": "Garen’s bold, action-oriented spirit matches your ESTP energy perfectly. You thrive in the heat of battle, making split-second decisions that turn the tide of the match. Like the Might of Demacia, you’re straightforward and unafraid to charge headfirst into danger, relying on your quick reflexes and practical instincts to come out on top. Your love of spontaneous fun makes you and Garen an unstoppable duo.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Ekko, the Boy Who Shattered Time",
+      "description": "Ekko’s hands-on ingenuity and calm under pressure align with your ISTP mindset. You’re a problem-solver at heart, using your mechanical skill and quick thinking to fix mistakes mid-fight. Like the Boy Who Shattered Time, you love tinkering with new strategies and tools, turning unexpected setbacks into opportunities to shine. Your quiet confidence makes you the perfect partner for Ekko.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Sona, Maven of the Strings",
+      "description": "Sona’s vibrant, people-focused energy mirrors your ESFP personality perfectly. You’re the life of the party, using your charm and enthusiasm to keep team morale high even in the darkest moments. Like the Maven of the Strings, you express yourself through action, turning every teamfight into a symphony of coordinated plays. Your love of connection makes you and Sona an electrifying pair.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Ahri, the Nine-Tailed Fox",
+      "description": "Ahri’s gentle, intuitive nature resonates with your ISFP soul. You’re a deep feeler, connecting with others on a level that few can match, and you use your empathy to guide your decisions. Like the Nine-Tailed Fox, you value beauty and authenticity, turning every play into a work of art. Your quiet strength and emotional insight make you the ideal partner for Ahri.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Darius, the Hand of Noxus",
+      "description": "Darius’s commanding, results-driven leadership aligns with your ENTJ mindset perfectly. You’re a natural born leader, using your strategic mind and unwavering determination to lead your team to victory. Like the Hand of Noxus, you demand excellence from yourself and others, unafraid to take charge when the team needs direction. Your ability to cut through chaos makes you and Darius unstoppable.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Viktor, the Machine Herald",
+      "description": "Viktor’s relentless curiosity and analytical mind mirror your INTP personality perfectly. You’re a lifelong learner, obsessed with unlocking the secrets of the rift and optimizing every aspect of your play. Like the Machine Herald, you value logic over emotion, willing to experiment endlessly to find the perfect strategy. Your quiet brilliance makes you the ideal partner for Viktor.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Jinx, the Loose Cannon",
+      "description": "Jinx’s wild, imaginative energy matches your ENFP spirit perfectly. You’re a free spirit, turning every match into an adventure with your unpredictable plays and infectious enthusiasm. Like the Loose Cannon, you love to surprise everyone—friends and foes alike—with your creative chaos. Your ability to find joy in tough moments makes you and Jinx a chaotic yet lovable duo.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Syndra, the Dark Sovereign",
+      "description": "Syndra’s deep, idealistic nature resonates with your INFP soul. You’re a dreamer, driven by a strong sense of purpose and a desire to shape the world on your own terms. Like the Dark Sovereign, you refuse to be constrained by others’ expectations, using your unique perspective to create something truly extraordinary. Your quiet passion makes you the perfect partner for Syndra.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Graves, the Outlaw",
+      "description": "Graves’s no-nonsense, practical approach aligns with your ESTJ mindset perfectly. You’re a reliable leader, using your structured planning and attention to detail to keep your team on track. Like the Outlaw, you value hard work and consistency, unafraid to call out teammates who slack off. Your ability to turn chaos into order makes you and Graves a solid, trustworthy duo.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Caitlyn, the Sheriff of Piltover",
+      "description": "Caitlyn’s methodical, rule-abiding nature mirrors your ISTJ personality perfectly. You’re a stickler for the rules, using your precise aim and strategic positioning to control the map. Like the Sheriff of Piltover, you value justice and order, dedicated to playing fair while still coming out on top. Your reliability and focus make you the ideal partner for Caitlyn.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Braum, the Heart of the Freljord",
+      "description": "Braum’s warm, protective spirit aligns with your ESFJ personality perfectly. You’re the rock of your team, always putting others’ needs before your own and using your strength to shield allies from harm. Like the Heart of the Freljord, you’re loved by everyone around you for your kindness and reliability. Your ability to bring people together makes you and Braum a powerful duo.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Soraka, the Starchild",
+      "description": "Soraka’s selfless, nurturing nature resonates with your ISFJ soul. You’re dedicated to caring for your team, using your empathy and intuition to support allies when they need it most. Like the Starchild, you’re willing to sacrifice your own success to help others thrive, and your quiet strength makes you a pillar of support in every match. Your healing spirit makes you the perfect partner for Soraka.",
+      "mbti": "ISFJ"
+    }
+  ]
+}

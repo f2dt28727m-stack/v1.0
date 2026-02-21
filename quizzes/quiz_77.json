@@ -1,0 +1,349 @@
+{
+  "quizId": 77,
+  "title": "What’s Your Hidden Stardew Valley Trait?",
+  "category": "hidden",
+  "tags": [
+    "Stardew Valley",
+    "Hidden Trait",
+    "MBTI",
+    "Personality",
+    "Indie Game"
+  ],
+  "description": "Answer 12 questions to discover your hidden Stardew Valley trait!",
+  "questions": [
+    {
+      "text": "When you first arrive at your abandoned farm, you immediately...",
+      "options": [
+        {
+          "text": "Rummage through the old cabin’s attic to find forgotten tools that might still work",
+          "score": "I"
+        },
+        {
+          "text": "Strike up a conversation with the local blacksmith who’s passing by",
+          "score": "E"
+        },
+        {
+          "text": "Wander into the secret forest edge to see what hidden spots you can find",
+          "score": "N"
+        },
+        {
+          "text": "Kneel down to examine the soil quality and map out your first crop rows",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "At the Flower Dance, you find yourself...",
+      "options": [
+        {
+          "text": "Creating a loose schedule to greet every villager you haven’t spoken to yet",
+          "score": "J"
+        },
+        {
+          "text": "Calculating the fastest way to dance with three different people before the song ends",
+          "score": "T"
+        },
+        {
+          "text": "Offering to help the organizer fix the wobbly flower arch for late arrivals",
+          "score": "F"
+        },
+        {
+          "text": "Going along with whatever your friend suggests, even if it’s not what you planned",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When your crops get destroyed by a sudden storm, you...",
+      "options": [
+        {
+          "text": "Spend the afternoon researching drought-resistant seeds in the library’s old farming books",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about building a magical greenhouse that can protect plants from any weather",
+          "score": "N"
+        },
+        {
+          "text": "Head to the saloon to vent about your bad luck with other farmers",
+          "score": "E"
+        },
+        {
+          "text": "Stay home to list out exactly what you need to replant the next morning",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious locked chest in the mine. You decide to...",
+      "options": [
+        {
+          "text": "Trade it to the wizard in exchange for a spell that reveals hidden cave paths",
+          "score": "T"
+        },
+        {
+          "text": "Keep it under your bed until you can figure out what’s inside by yourself",
+          "score": "F"
+        },
+        {
+          "text": "Wait for the adventurer guild to open so you can ask them about its origin",
+          "score": "P"
+        },
+        {
+          "text": "Use a crowbar to pry it open right away to see if there’s useful loot inside",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When a new villager moves to town, you...",
+      "options": [
+        {
+          "text": "Bring them a basket of fresh vegetables and invite them to your farm for dinner",
+          "score": "F"
+        },
+        {
+          "text": "Analyze their daily routine to find the best time to approach them with a welcome gift",
+          "score": "T"
+        },
+        {
+          "text": "Let them come to you when they’re ready to talk, not wanting to overwhelm them",
+          "score": "I"
+        },
+        {
+          "text": "Host a small gathering at your farm to introduce them to everyone in town",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy day with no farm work to do, you prefer to...",
+      "options": [
+        {
+          "text": "Draw up a detailed blueprint for adding a new chicken coop to your farm",
+          "score": "J"
+        },
+        {
+          "text": "Explore the hidden corners of the sewers to see what creatures you can encounter",
+          "score": "P"
+        },
+        {
+          "text": "Brew a cup of tea and write down your favorite memories from your time in Pelican Town",
+          "score": "F"
+        },
+        {
+          "text": "Organize your inventory of minerals and categorize them by rarity",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a gift for a villager, you prioritize...",
+      "options": [
+        {
+          "text": "A handcrafted item that reminds you of a conversation you had with them",
+          "score": "N"
+        },
+        {
+          "text": "Something you grew or made on your farm that they mentioned needing once",
+          "score": "S"
+        },
+        {
+          "text": "A trendy item you saw other villagers giving to show you fit in",
+          "score": "E"
+        },
+        {
+          "text": "A quiet, personal gift that feels like it’s just for them, not for anyone else",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to plan the town’s summer festival. You start by...",
+      "options": [
+        {
+          "text": "Brainstorming unique activities like a firefly catching contest or a pie baking marathon",
+          "score": "P"
+        },
+        {
+          "text": "Listing out all the necessary supplies and assigning tasks to volunteers",
+          "score": "J"
+        },
+        {
+          "text": "Polling villagers to find out what activities they would most enjoy",
+          "score": "F"
+        },
+        {
+          "text": "Calculating the budget and ensuring every activity is cost-effective for the town",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck on a difficult mine floor with no way up, you...",
+      "options": [
+        {
+          "text": "Shout for help hoping another explorer nearby can hear you",
+          "score": "E"
+        },
+        {
+          "text": "Use the rocks around you to create a makeshift ladder to climb up",
+          "score": "S"
+        },
+        {
+          "text": "Meditate for a minute to visualize the path you took to find an alternative exit",
+          "score": "N"
+        },
+        {
+          "text": "Take out your journal to draw a map of the floor to spot a hidden passage",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a stray cat hanging around your farm. You decide to...",
+      "options": [
+        {
+          "text": "Build a small shelter for it and leave out food every night",
+          "score": "F"
+        },
+        {
+          "text": "Train it to chase away mice that are eating your crop seeds",
+          "score": "T"
+        },
+        {
+          "text": "Let it come and go as it pleases without making any formal plans",
+          "score": "P"
+        },
+        {
+          "text": "Set up a daily feeding schedule and check on it every morning",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When deciding what to do with your extra gold, you...",
+      "options": [
+        {
+          "text": "Invest in upgrading your tools to make farm work faster and easier",
+          "score": "S"
+        },
+        {
+          "text": "Spend it on rare seeds that can grow into magical flowers you’ve only read about",
+          "score": "N"
+        },
+        {
+          "text": "Treat all your friends to a round of drinks at the saloon",
+          "score": "E"
+        },
+        {
+          "text": "Save it in a hidden jar under your floorboards for emergencies",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "On the day of the Spirit’s Eve festival, you...",
+      "options": [
+        {
+          "text": "Team up with others to solve the maze as quickly as possible",
+          "score": "T"
+        },
+        {
+          "text": "Take your time to explore every corner of the maze to find hidden candy",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow and follow whoever seems to know their way around",
+          "score": "P"
+        },
+        {
+          "text": "Study the maze map beforehand to create the most efficient route",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Cozy Village Anchor",
+      "description": "Your hidden trait is being the quiet heart of Pelican Town. You remember every villager’s favorite gift, notice when someone’s having a bad day, and always show up to help with harvest festivals or repair projects. You thrive on making others feel seen, turning your farm into a gathering spot for neighbors to share stories and homemade pies. You’re an ESFJ—warm, reliable, and deeply connected to your community.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Efficient Farm Steward",
+      "description": "Your hidden trait is the town’s most organized problem-solver. You keep a detailed schedule for every farm task, know exactly when to plant each crop for maximum yield, and step in to fix any town dispute with clear, fair solutions. Villagers rely on your no-nonsense approach to get things done, and your farm runs like a well-oiled machine. You’re an ESTJ—practical, decisive, and committed to stability.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Festivity Trailblazer",
+      "description": "Your hidden trait is the life of every Pelican Town celebration. You’re the first to suggest an impromptu bonfire at the beach, the one who brings homemade cookies to every town meeting, and the person who gets even the shiest villagers dancing at the Flower Dance. Your farm is full of colorful decorations and surprise visitors, and you live for the joy of spontaneous moments. You’re an ESFP—energetic, playful, and always in the moment.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Adventurous Mine Scavenger",
+      "description": "Your hidden trait is a fearless explorer who lives for the thrill of the mine. You dive into dark caves without hesitation, use quick thinking to outsmart slimes, and trade rare artifacts for the best tools in town. You’re always up for a challenge, whether it’s climbing to the deepest mine floor or betting on your crop yield at the fair. You’re an ESTP—bold, resourceful, and ready for any adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Nurturing Crop Guardian",
+      "description": "Your hidden trait is a gentle caretaker who tends to both your farm and the people around you. You spend hours pruning your fruit trees, leave extra vegetables on the doorsteps of struggling villagers, and remember the birthdays of even the most reclusive townsfolk. Your farm is a peaceful oasis where everyone feels welcome, and you find joy in taking care of what matters most. You’re an ISFJ—compassionate, dedicated, and deeply loyal.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Meticulous Record-Keeper",
+      "description": "Your hidden trait is a detail-oriented planner who knows every inch of your farm. You keep a journal of every crop’s growth cycle, track every mineral you’ve mined, and have a strict routine that ensures nothing is left to chance. Villagers come to you for advice on crop rotations and budget planning, as your methodical approach never fails. You’re an ISTJ—responsible, precise, and committed to doing things right.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Whimsical Forager",
+      "description": "Your hidden trait is a creative soul who finds beauty in the small things. You spend your days foraging for wild berries and flowers, pressing them into journals, and decorating your farm with unique, handmade crafts. You prefer quiet afternoons alone with your plants over loud gatherings, and your hidden talent is creating potions from foraged ingredients that help other farmers. You’re an ISFP—artistic, gentle, and deeply in touch with nature.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Resourceful Tool Inventor",
+      "description": "Your hidden trait is a quiet problem-solver who loves tinkering with tools. You can fix any broken plow or watering can in minutes, create makeshift traps for pests in your garden, and even modify your fishing rod to catch rare fish. You prefer to work alone on projects, and your farm is full of innovative gadgets you’ve built yourself. You’re an ISTP—hands-on, logical, and always looking for better ways to do things.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Inspiring Community Builder",
+      "description": "Your hidden trait is a natural leader who brings people together. You organize town clean-up days, start a community garden for villagers who don’t have space to grow their own food, and encourage shy residents to share their talents at the town fair. Your farm is a hub for creativity and collaboration, and you have a gift for making everyone feel like they belong. You’re an ENFJ—charismatic, empathetic, and driven to make Pelican Town a better place.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Strategic Farm Visionary",
+      "description": "Your hidden trait is a bold visionary who turns small farms into thriving enterprises. You expand your land to grow rare crops for export, partner with the wizard to create magical fertilizers, and negotiate better prices for farmers at the local market. You’re not afraid to take risks, and your long-term plans always pay off. Villagers look up to your ambition and strategic mind. You’re an ENTJ—confident, goal-oriented, and a natural leader.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Dreamy Storyteller",
+      "description": "Your hidden trait is a creative dreamer who sees magic in every corner of Pelican Town. You write poems about the sunset over the mountain, host storytelling nights at the saloon, and create fantasy stories about the wizard’s tower. Your farm is full of whimsical touches like fairy lights and a treehouse, and you love inspiring others to see the world through a more imaginative lens. You’re an ENFP—optimistic, creative, and full of big ideas.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Curious Mystery Solver",
+      "description": "Your hidden trait is a curious explorer who loves uncovering Pelican Town’s secrets. You spend hours investigating the wizard’s tower, solving the mystery of the hidden junimo village, and asking villagers about their pasts. You’re always coming up with new theories about the town’s history and love debating your ideas with anyone who will listen. Your farm is full of oddities you’ve collected from your adventures. You’re an ENTP—witty, innovative, and never satisfied with the surface story.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Wisdom-Seeking Sage",
+      "description": "Your hidden trait is a quiet sage who understands the unspoken needs of Pelican Town. You spend your evenings meditating under the oak tree, giving gentle advice to villagers who are struggling, and tending to a secret garden of magical plants that have healing properties. You have a deep intuition about people and can sense when someone needs help before they ask. You’re an INFJ—insightful, compassionate, and deeply connected to the spiritual side of the valley.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Mastermind Planner",
+      "description": "Your hidden trait is a strategic thinker who plans decades ahead. You map out your farm’s expansion for the next 10 years, create a system to predict crop yields based on weather patterns, and even figure out how to unlock every secret in the valley. You prefer to work alone on your long-term projects, and your farm is a testament to your foresight and intelligence. You’re an INTJ—analytical, independent, and always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Quiet Idealist",
+      "description": "Your hidden trait is a gentle idealist who believes in the goodness of both people and nature. You rescue injured animals from the forest, create a sanctuary for them on your farm, and write letters to the mayor advocating for better environmental protection. You prefer quiet days with your books and plants over loud crowds, and your hidden talent is writing heartfelt poems that touch the hearts of anyone who reads them. You’re an INFP—idealistic, creative, and deeply empathetic.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Analytical Nature Enthusiast",
+      "description": "Your hidden trait is a curious scholar who loves studying the science of the valley. You spend hours researching the genetics of your crops, conducting experiments on different fertilizers, and documenting the behavior of the junimos. You prefer to work alone on your studies, and your farm is full of notebooks filled with observations and data. Villagers come to you for advice on complex farming problems, as your analytical mind can solve any puzzle. You’re an INTP—intelligent, curious, and always seeking to understand the world around you.",
+      "mbti": "INTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 48,
+  "title": "How Euphoria-Resonant Is Your Inner World?",
+  "category": "how",
+  "tags": [
+    "Euphoria",
+    "Personality",
+    "MBTI",
+    "Inner Identity",
+    "Emotional Exploration"
+  ],
+  "description": "Answer 12 questions to discover how deeply your inner world aligns with the raw, unfiltered emotional landscape of Euphoria!",
+  "questions": [
+    {
+      "text": "When you're overwhelmed by a secret you're keeping, you...",
+      "options": [
+        {
+          "text": "Write every messy thought in a locked journal you never let anyone see",
+          "score": "I"
+        },
+        {
+          "text": "Analyze exactly how the secret affects your daily routine and plan to address it step by step",
+          "score": "S"
+        },
+        {
+          "text": "Find yourself accidentally dropping hints to random people you meet",
+          "score": "E"
+        },
+        {
+          "text": "Imagine all the wild, worst-case scenarios that could unfold if it gets out",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "At a chaotic party where you know almost no one, you...",
+      "options": [
+        {
+          "text": "Hang back by the snack table, observing the crowd without engaging much",
+          "score": "I"
+        },
+        {
+          "text": "Feel a spark of excitement, curious to connect with strangers and soak up the energy",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about the stories each person in the room might be hiding",
+          "score": "N"
+        },
+        {
+          "text": "Stick to the few people you recognize, keeping conversation low-key and familiar",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a friend comes to you with a messy, complicated problem, you...",
+      "options": [
+        {
+          "text": "Schedule a time to follow up with them later to make sure they’re doing okay",
+          "score": "J"
+        },
+        {
+          "text": "Hold them close and validate every feeling they express, no solutions needed",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow, letting the conversation take whatever turn feels right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Help them break down the problem into logical steps to find a practical solution",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you look back on a painful memory, you...",
+      "options": [
+        {
+          "text": "View it as a detached observer, analyzing what you could have done differently",
+          "score": "T"
+        },
+        {
+          "text": "Feel the same intense emotions as if it happened yesterday, unable to shake them",
+          "score": "F"
+        },
+        {
+          "text": "Focus on the specific sounds, smells, and physical sensations you felt at the time",
+          "score": "S"
+        },
+        {
+          "text": "Fixate on the abstract themes and lessons you took away from the experience",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "On a free weekend with no plans, you prefer to...",
+      "options": [
+        {
+          "text": "Text three friends to see who’s free for an impromptu adventure",
+          "score": "E"
+        },
+        {
+          "text": "Wander around the city without a destination, seeing where your feet take you",
+          "score": "P"
+        },
+        {
+          "text": "Spend the day alone, recharging with your favorite shows and a cozy snack",
+          "score": "I"
+        },
+        {
+          "text": "Stick to your usual routine: morning walk, grocery run, evening movie night",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you have to make a big decision, you...",
+      "options": [
+        {
+          "text": "Trust your gut feeling, even if it doesn’t make logical sense to others",
+          "score": "F"
+        },
+        {
+          "text": "Wait until the last minute, hoping the decision will make itself clear",
+          "score": "P"
+        },
+        {
+          "text": "List out all the pros and cons in a spreadsheet to compare each choice objectively",
+          "score": "T"
+        },
+        {
+          "text": "Ask multiple people for their opinions before weighing your options",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When someone disagrees with your core beliefs, you...",
+      "options": [
+        {
+          "text": "Reference specific facts or personal experiences to support your stance",
+          "score": "S"
+        },
+        {
+          "text": "Withdraw from the conversation, not wanting to stir up unnecessary conflict",
+          "score": "I"
+        },
+        {
+          "text": "Argue using abstract principles and universal values to make your point",
+          "score": "N"
+        },
+        {
+          "text": "Engage in a heated debate, eager to understand their perspective and share yours",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you're feeling unmotivated, you...",
+      "options": [
+        {
+          "text": "Spend time reflecting on what truly matters to you to reignite your passion",
+          "score": "I"
+        },
+        {
+          "text": "Clean your entire room or organize your closet to build momentum",
+          "score": "J"
+        },
+        {
+          "text": "Browse social media or flip through a magazine until inspiration hits",
+          "score": "P"
+        },
+        {
+          "text": "Call a friend to vent about your lack of drive and get a pep talk",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you watch a deeply emotional movie, you...",
+      "options": [
+        {
+          "text": "Get lost in the hypothetical scenarios the movie sparks in your mind",
+          "score": "N"
+        },
+        {
+          "text": "Feel the emotion but keep it to yourself, processing it quietly after the movie ends",
+          "score": "T"
+        },
+        {
+          "text": "Cry openly, not caring who sees how affected you are",
+          "score": "F"
+        },
+        {
+          "text": "Notice the small, realistic details that make the characters feel like real people",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have a project due, you...",
+      "options": [
+        {
+          "text": "Pull an all-nighter the night before, thriving under the last-minute pressure",
+          "score": "P"
+        },
+        {
+          "text": "Start working on it weeks in advance, breaking it into small, daily tasks",
+          "score": "J"
+        },
+        {
+          "text": "Work on it alone, focusing intently without distractions until it’s done",
+          "score": "I"
+        },
+        {
+          "text": "Ask a classmate or coworker to collaborate with you to make it more fun",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you meet someone new, you’re most drawn to...",
+      "options": [
+        {
+          "text": "The quiet depth behind their eyes, wondering what they’re really thinking",
+          "score": "I"
+        },
+        {
+          "text": "The big dreams and abstract ideas they’re eager to talk about",
+          "score": "N"
+        },
+        {
+          "text": "Their ability to make you laugh and keep the conversation flowing effortlessly",
+          "score": "E"
+        },
+        {
+          "text": "The specific stories they share about their daily life and past experiences",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you feel like you’re losing yourself, you...",
+      "options": [
+        {
+          "text": "Embrace the change, seeing it as a chance to reinvent yourself entirely",
+          "score": "P"
+        },
+        {
+          "text": "Reconnect with old friends who knew you before you changed",
+          "score": "E"
+        },
+        {
+          "text": "Write down your core values and set goals to align with them again",
+          "score": "J"
+        },
+        {
+          "text": "Spend time in a place that feels like home, grounding yourself in familiar surroundings",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Quiet Anchor",
+      "description": "Like Rue’s quiet resolve when fighting to stay grounded, you’re the steady force beneath the chaos. You prioritize consistency and hold space for others without fanfare, your inner world a structured haven from the noise. You value loyalty above all, and your calm presence is a lifeline for those who know you deeply.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Guardian",
+      "description": "You’re the Jules of your circle—warm, empathetic, and always putting others’ needs first. Your inner world is filled with soft, vivid memories of the people you love, and you go out of your way to make everyone feel seen. You find purpose in caring for others, even when it means putting your own needs on the backburner.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Mystic Empath",
+      "description": "Like Lexi’s ability to see the hidden stories in everyone around her, you’re a deep, intuitive observer. Your inner world is a tapestry of abstract thoughts and quiet insights, and you often feel overwhelmed by the emotions of others. You crave deep, meaningful connections and avoid superficial interactions at all costs.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You’re the Nate of inner complexity—sharp, strategic, and always one step ahead. Your inner world is a labyrinth of big ideas and carefully laid plans, and you trust logic over emotion to guide your decisions. You’re unafraid to challenge the status quo, even if it means standing alone in your beliefs.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Calm Problem-Solver",
+      "description": "Like Fez’s quiet confidence in high-pressure situations, you’re a calm, adaptable problem-solver. Your inner world is practical and hands-on, and you thrive when faced with immediate challenges. You prefer to show up for others through actions rather than words, and you hate unnecessary drama or attention.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Gentle Dreamer",
+      "description": "You’re the Cassie of quiet creativity—soft, sensitive, and deeply in touch with your emotions. Your inner world is filled with vivid sensory details and artistic impulses, and you find joy in small, beautiful moments. You’re fiercely loyal to the people you love, even when they don’t always deserve it.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Romantic",
+      "description": "Like Kat’s journey of self-discovery, you’re an idealistic romantic with a rich inner life. Your inner world is full of big dreams and moral principles, and you refuse to compromise on what you believe is right. You’re unafraid to embrace your true self, even when it means going against the crowd.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Thinker",
+      "description": "You’re the Ethan of intellectual curiosity—quirky, analytical, and always asking questions. Your inner world is a playground of abstract ideas and logical puzzles, and you often get lost in thought for hours. You value truth above all else, and you’re unafraid to challenge your own beliefs to grow.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Bold Adventurer",
+      "description": "Like Maddy’s fearless confidence, you’re a bold, outgoing adventurer. Your inner world is energetic and impulsive, and you thrive in high-energy, unpredictable situations. You love being the center of attention and aren’t afraid to speak your mind, even if it ruffled a few feathers.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Vibrant Performer",
+      "description": "You’re the Lexi of vibrant charm—outgoing, charismatic, and always ready to put on a show. Your inner world is full of lively memories and social energy, and you find joy in making others laugh. You’re unafraid to embrace your flaws and wear your heart on your sleeve, making you the life of every gathering.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Visionary",
+      "description": "Like Jules’s free-spirited optimism, you’re an enthusiastic visionary with a big heart. Your inner world is filled with wild dreams and creative ideas, and you love inspiring others to chase their passions. You crave new experiences and hate feeling stuck in a routine, always seeking out the next adventure.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Witty Debater",
+      "description": "You’re the Kat of sharp wit—clever, sarcastic, and always ready for a good debate. Your inner world is a whirlwind of ideas and counterarguments, and you love challenging others to think differently. You’re unafraid to push boundaries and question authority, making you a natural leader in any group.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Reliable Organizer",
+      "description": "Like Fez’s steady responsibility, you’re a reliable organizer who thrives on structure. Your inner world is ordered and practical, and you take pride in getting things done right. You’re the one everyone turns to when they need help planning or problem-solving, and you hate chaos or disorganization.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warm Host",
+      "description": "You’re the Maddy of generous warmth—outgoing, caring, and always making sure everyone feels welcome. Your inner world is focused on the people around you, and you find purpose in creating happy memories for others. You’re the life of the party, but also the first to offer a shoulder to cry on when things go wrong.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Leader",
+      "description": "Like Rue’s ability to connect with others through vulnerability, you’re an inspirational leader with a big heart. Your inner world is filled with empathy and a desire to make the world a better place. You’re unafraid to share your own struggles to help others feel less alone, and you inspire everyone around you to grow.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Decisive Commander",
+      "description": "You’re the Nate of strategic ambition—confident, decisive, and always focused on your goals. Your inner world is driven by logic and a desire to succeed, and you’re unafraid to take charge in any situation. You know what you want and aren’t afraid to go after it, even if it means making tough choices along the way.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

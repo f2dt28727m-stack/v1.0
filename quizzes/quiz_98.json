@@ -1,0 +1,349 @@
+{
+  "quizId": 98,
+  "title": "How Taylor Swift Are You?",
+  "category": "how",
+  "tags": [
+    "Taylor Swift",
+    "Celebrity Personality",
+    "MBTI",
+    "Pop Culture",
+    "Personality Test"
+  ],
+  "description": "Answer 12 questions to discover how closely you align with Taylor Swift's core traits!",
+  "questions": [
+    {
+      "text": "When you have a new idea, you most often...",
+      "options": [
+        {
+          "text": "Let it evolve organically, exploring related tangents without a set plan",
+          "score": "P"
+        },
+        {
+          "text": "Break it down into small, actionable steps to bring it to life right away",
+          "score": "J"
+        },
+        {
+          "text": "Call up a friend immediately to share every detail and get their reaction",
+          "score": "E"
+        },
+        {
+          "text": "Jot it down in a notebook and sit with it for a few days before acting on it",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on a past memory, you focus most on...",
+      "options": [
+        {
+          "text": "The broader emotions and lessons you took away from the moment",
+          "score": "N"
+        },
+        {
+          "text": "How the moment affected your relationships with the people involved",
+          "score": "F"
+        },
+        {
+          "text": "The specific sounds, smells, and physical sensations you experienced",
+          "score": "S"
+        },
+        {
+          "text": "The logical sequence of events and what you could have done differently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At a crowded party, you’d feel most comfortable...",
+      "options": [
+        {
+          "text": "Helping the host with last-minute tasks, ensuring everything runs smoothly",
+          "score": "S"
+        },
+        {
+          "text": "Circling the room, striking up conversations with different groups of people",
+          "score": "E"
+        },
+        {
+          "text": "Observing the room from a quiet corner, noting the dynamics between guests",
+          "score": "N"
+        },
+        {
+          "text": "Sticking to the small group you arrived with, having deep, focused talks",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you rely on...",
+      "options": [
+        {
+          "text": "Your gut feeling about what will make you feel most fulfilled",
+          "score": "F"
+        },
+        {
+          "text": "Facts and data to weigh the pros and cons objectively",
+          "score": "T"
+        },
+        {
+          "text": "Your past experiences to guide what feels familiar and safe",
+          "score": "S"
+        },
+        {
+          "text": "Advice from trusted friends and family who know you well",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy day indoors, you’d be happiest...",
+      "options": [
+        {
+          "text": "Following a detailed recipe to bake a complicated dessert from scratch",
+          "score": "J"
+        },
+        {
+          "text": "Writing a letter to someone you care about, pouring out your true feelings",
+          "score": "F"
+        },
+        {
+          "text": "Binging a new show you’ve been meaning to watch, with no agenda",
+          "score": "P"
+        },
+        {
+          "text": "Researching a niche topic you’re curious about, diving deep into articles and videos",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When someone disagrees with you, you tend to...",
+      "options": [
+        {
+          "text": "Ask probing questions to understand the root of their disagreement fully",
+          "score": "N"
+        },
+        {
+          "text": "Change the subject to avoid conflict and keep the peace",
+          "score": "S"
+        },
+        {
+          "text": "Listen closely to their perspective, looking for common ground to connect on",
+          "score": "F"
+        },
+        {
+          "text": "Present logical arguments to explain your point of view clearly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When starting a new project, you prefer to...",
+      "options": [
+        {
+          "text": "Work independently, refining your vision before sharing it with anyone",
+          "score": "I"
+        },
+        {
+          "text": "Jump right in, experimenting with different approaches as you go",
+          "score": "P"
+        },
+        {
+          "text": "Collaborate with others to brainstorm ideas and split up tasks",
+          "score": "E"
+        },
+        {
+          "text": "Create a step-by-step timeline and checklist to follow exactly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite way to express yourself is through...",
+      "options": [
+        {
+          "text": "Putting together practical, thoughtful gifts for friends and family",
+          "score": "S"
+        },
+        {
+          "text": "Coming up with clever metaphors to describe complex feelings",
+          "score": "N"
+        },
+        {
+          "text": "Sharing personal stories in conversations with people you trust",
+          "score": "E"
+        },
+        {
+          "text": "Creating art, music, or writing that captures your inner thoughts",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip, you’d prioritize...",
+      "options": [
+        {
+          "text": "Wandering aimlessly to discover hidden gems and unexpected moments",
+          "score": "P"
+        },
+        {
+          "text": "Visiting iconic landmarks and checking off items on a pre-made bucket list",
+          "score": "J"
+        },
+        {
+          "text": "Connecting with locals to learn about their culture and way of life",
+          "score": "F"
+        },
+        {
+          "text": "Researching the best routes, prices, and accommodations to maximize efficiency",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you feel stressed, you find relief in...",
+      "options": [
+        {
+          "text": "Spending time alone in a quiet space, reading or meditating",
+          "score": "I"
+        },
+        {
+          "text": "Calling a friend to vent and laugh off your worries",
+          "score": "E"
+        },
+        {
+          "text": "Writing down your thoughts and analyzing what’s causing the stress",
+          "score": "N"
+        },
+        {
+          "text": "Doing a physical activity like cleaning or hiking to clear your mind",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re drawn to friends who are...",
+      "options": [
+        {
+          "text": "Imaginative and spontaneous, always suggesting new adventures",
+          "score": "N"
+        },
+        {
+          "text": "Sharp and curious, always ready to debate new ideas",
+          "score": "T"
+        },
+        {
+          "text": "Warm and nurturing, always there to offer emotional support",
+          "score": "F"
+        },
+        {
+          "text": "Reliable and consistent, someone you can always count on",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you finish a big achievement, you’d most likely...",
+      "options": [
+        {
+          "text": "Treat yourself to a quiet, luxurious activity you’ve been wanting to do",
+          "score": "I"
+        },
+        {
+          "text": "Throw a party to celebrate with all your loved ones",
+          "score": "E"
+        },
+        {
+          "text": "Take notes on what you learned to improve for future projects",
+          "score": "J"
+        },
+        {
+          "text": "Share the news casually with a few close friends and move on to the next thing",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Empathetic Storyteller (INFP)",
+      "description": "You’re the introspective, feeling-driven soul just like Taylor at her core. You turn personal heartbreaks and joys into meaningful narratives, value authenticity over fame, and retreat to quiet spaces to recharge. Your loyalty to loved ones is unshakable, and you express yourself best through creative, heartfelt outlets that resonate deeply with others.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Charismatic Leader (ENFJ)",
+      "description": "You’re the warm, magnetic presence that draws people in, just like Taylor on stage. You thrive on connecting with others, using your empathy to lift those around you, and leading with passion and purpose. You’re a natural storyteller who can rally a crowd, and you always put the needs of your loved ones at the forefront of your decisions.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Visionary (INTJ)",
+      "description": "You’re the quiet, strategic thinker with a sharp mind, just like Taylor when crafting her career moves. You plan every step with precision, see the bigger picture others miss, and aren’t afraid to take calculated risks. You value independence and intellectual growth, using your logic to turn ambitious ideas into tangible, successful realities.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Detail-Oriented Caregiver (ISFJ)",
+      "description": "You’re the reliable, nurturing friend who remembers every small detail, just like Taylor with her fans. You show love through practical gestures, prioritize stability and tradition, and go out of your way to make sure everyone feels seen and cared for. You thrive in structured environments where you can use your organization skills to support others.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Witty Innovator (ENTP)",
+      "description": "You’re the quick-witted, curious trailblazer who loves to challenge the norm, just like Taylor when reinventing her sound. You thrive on debates and brainstorming, turn setbacks into creative opportunities, and have a knack for turning casual conversations into memorable moments. You’re always looking for the next big idea to explore.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Spontaneous Performer (ESFP)",
+      "description": "You’re the energetic, life-of-the-party who lives in the moment, just like Taylor during her electrifying concerts. You love being the center of attention, thrive on new experiences, and use your charm to make every day feel like an adventure. You’re unapologetically yourself, turning even the simplest moments into something fun and memorable.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Analytical Problem-Solver (ISTJ)",
+      "description": "You’re the dependable, logical thinker who gets things done, just like Taylor when managing her career behind the scenes. You value order and efficiency, stick to your commitments, and solve problems with practical, no-nonsense solutions. You’re the person others turn to in a crisis, as you always have a plan and stay calm under pressure.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Dreamy Idealist (INFJ)",
+      "description": "You’re the deep, intuitive soul with a strong sense of purpose, just like Taylor when advocating for what she believes in. You see the hidden meanings in everyday life, trust your gut instincts, and are driven by a desire to make the world a better place. You form deep, meaningful connections with others, valuing quality over quantity in relationships.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Organized Achiever (ESTJ)",
+      "description": "You’re the confident, results-driven leader who excels at structure, just like Taylor when planning her tours and projects. You set clear goals, hold yourself and others accountable, and use your practicality to turn big plans into successful outcomes. You value tradition and hard work, and you’re always looking for ways to improve systems and processes.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Creative Explorer (INTP)",
+      "description": "You’re the curious, imaginative thinker who loves to dive into niche interests, just like Taylor when researching new musical styles. You thrive on intellectual exploration, enjoy solving complex problems, and often get lost in your own thoughts. You’re independent and open-minded, always questioning the status quo to find new perspectives.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Warm Connector (ESFJ)",
+      "description": "You’re the friendly, outgoing host who makes everyone feel welcome, just like Taylor at her intimate fan events. You thrive on social interactions, remember every detail about your friends’ lives, and show love through thoughtful gestures and quality time. You value harmony and work hard to keep your relationships strong and positive.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Calm Adventurer (ISTP)",
+      "description": "You’re the laid-back, hands-on problem-solver who loves to explore new skills, just like Taylor when learning to play new instruments. You stay calm under pressure, enjoy working with your hands, and prefer to learn by doing. You’re independent and spontaneous, always ready to jump into a new challenge or adventure at a moment’s notice.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Passionate Campaigner (ENFP)",
+      "description": "You’re the enthusiastic, idealistic optimist who loves to inspire others, just like Taylor when sharing her personal story. You thrive on new ideas and experiences, wear your heart on your sleeve, and are driven by a desire to make a difference. You’re a natural storyteller who can turn even the smallest moments into something magical and motivating.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Logical Architect (ENTJ)",
+      "description": "You’re the bold, decisive leader who knows how to get things done, just like Taylor when building her business empire. You set high standards for yourself and others, use your strategic mind to overcome obstacles, and aren’t afraid to take charge. You value efficiency and results, always looking for ways to optimize and improve every aspect of your life.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Artistic Sensory (ISFP)",
+      "description": "You’re the gentle, creative soul who finds beauty in the small things, just like Taylor when writing about quiet moments. You express yourself through art, music, or fashion, value authenticity and freedom, and prefer to live in the present moment. You’re kind and reserved, forming deep connections with people who share your love for the arts and nature.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Spontaneous Realist (ESTP)",
+      "description": "You’re the energetic, practical risk-taker who loves to live in the moment, just like Taylor when surprising fans with impromptu performances. You thrive on action and adventure, solve problems quickly with practical solutions, and have a knack for making every day feel exciting. You’re unapologetically yourself, always ready to jump into the next big thing.",
+      "mbti": "ESTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 69,
+  "title": "How Bluey-esque Is Your Personality?",
+  "category": "how",
+  "tags": [
+    "Bluey",
+    "Personality Assessment",
+    "MBTI",
+    "Family-Centric",
+    "Playful Spirit"
+  ],
+  "description": "Answer 12 questions to discover how closely your personality aligns with the warm, playful, and heartfelt world of Bluey!",
+  "questions": [
+    {
+      "text": "When planning a weekend activity with your family, you would most likely…",
+      "options": [
+        {
+          "text": "Ask each family member what they’re craving to do, then pick the option that makes everyone smile",
+          "score": "F"
+        },
+        {
+          "text": "Kick off an impromptu backyard treasure hunt, yelling to invite the neighborhood kids to join in",
+          "score": "E"
+        },
+        {
+          "text": "List three practical options with time and cost breakdowns, then pick the most efficient one",
+          "score": "T"
+        },
+        {
+          "text": "Proceed with the half-finished block castle project from last week, following your original blueprint",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a friend cancels a playdate last minute, you react by…",
+      "options": [
+        {
+          "text": "Call them right away to check if they’re okay and offer help with whatever’s going on",
+          "score": "F"
+        },
+        {
+          "text": "Dive into your favorite solo hobby—like drawing or building with Lego—losing track of time in your own space",
+          "score": "I"
+        },
+        {
+          "text": "Text three other friends immediately to see who’s free to hang out instead",
+          "score": "E"
+        },
+        {
+          "text": "Use the extra time to organize your toy shelf, sorting items by color and type",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a messy board game night where rules get confused, you…",
+      "options": [
+        {
+          "text": "Make up a silly new rule that turns the chaos into a fun twist everyone loves",
+          "score": "P"
+        },
+        {
+          "text": "Grab the rulebook and walk everyone through the exact steps to get back on track",
+          "score": "T"
+        },
+        {
+          "text": "Notice who’s feeling frustrated and suggest a quick snack break to reset the mood",
+          "score": "F"
+        },
+        {
+          "text": "Scan the room to see how others are adapting, then follow their lead to keep the game going",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you find a lost puppy in the park, your first move is to…",
+      "options": [
+        {
+          "text": "Sit down softly, speak in a calm voice, and try to comfort the scared pup before anything else",
+          "score": "F"
+        },
+        {
+          "text": "Look for a tag or collar, then use your phone to search local lost pet posts immediately",
+          "score": "T"
+        },
+        {
+          "text": "Yell out to nearby park visitors to see if anyone recognizes the puppy",
+          "score": "E"
+        },
+        {
+          "text": "Imagine what the puppy might be thinking, then create a little shelter with leaves while waiting for help",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your teacher assigns a group project, you naturally take on the role of…",
+      "options": [
+        {
+          "text": "Brainstorming wild, creative ideas that no one else would think of to make the project stand out",
+          "score": "N"
+        },
+        {
+          "text": "Coordinating everyone’s schedules and making sure each task is done on deadline",
+          "score": "J"
+        },
+        {
+          "text": "Chatting with each group member to understand their strengths and assign tasks they’ll enjoy",
+          "score": "F"
+        },
+        {
+          "text": "Jumping in to do hands-on work like building or drawing to bring the project to life quickly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After a long day at school, you prefer to unwind by…",
+      "options": [
+        {
+          "text": "Inviting a friend over to play your favorite video game and laugh about the day’s silly moments",
+          "score": "E"
+        },
+        {
+          "text": "Reading a fantasy novel, getting lost in the imaginary world of the story",
+          "score": "N"
+        },
+        {
+          "text": "Sitting quietly with your pet, petting them while replaying small, happy moments from the day",
+          "score": "I"
+        },
+        {
+          "text": "Helping your parents cook dinner, following the recipe step by step to make it perfect",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you’re trying to explain a game to a little sibling, you…",
+      "options": [
+        {
+          "text": "Use silly voices and hand gestures to act out the rules instead of just talking about them",
+          "score": "E"
+        },
+        {
+          "text": "Break the rules down into simple, step-by-step instructions they can follow easily",
+          "score": "S"
+        },
+        {
+          "text": "Ask them what parts they find confusing, then adjust your explanation to fit their understanding",
+          "score": "F"
+        },
+        {
+          "text": "Create a quick drawing of the game’s setup to make the rules clearer",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you accidentally break your favorite toy, you…",
+      "options": [
+        {
+          "text": "Look up a DIY repair tutorial online, then gather supplies to fix it right away",
+          "score": "T"
+        },
+        {
+          "text": "Feel sad for a bit, then decide to turn the broken parts into a new, different toy",
+          "score": "P"
+        },
+        {
+          "text": "Tell your parents immediately, asking for their help to either fix it or replace it",
+          "score": "E"
+        },
+        {
+          "text": "Sit quietly and think about all the fun memories you had with the toy before moving on",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a surprise for a family member’s birthday, you…",
+      "options": [
+        {
+          "text": "Secretly ask everyone in the family what the person loves most, then plan something that combines all those things",
+          "score": "F"
+        },
+        {
+          "text": "Come up with a unique, out-of-the-box idea like a themed scavenger hunt around the neighborhood",
+          "score": "N"
+        },
+        {
+          "text": "Stick to a classic plan—baking their favorite cake and hanging up streamers exactly how they like it",
+          "score": "S"
+        },
+        {
+          "text": "Make a detailed checklist of tasks and assign each to a family member to ensure everything goes smoothly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck on a tricky math problem, you…",
+      "options": [
+        {
+          "text": "Draw a diagram or use physical objects like coins to visualize the problem and find a solution",
+          "score": "S"
+        },
+        {
+          "text": "Call a classmate to work through the problem together, bouncing ideas back and forth",
+          "score": "E"
+        },
+        {
+          "text": "Try multiple different approaches until you stumble on one that works, even if it’s not the “right” way",
+          "score": "P"
+        },
+        {
+          "text": "Break the problem down into smaller parts and solve each one logically step by step",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you see a kid sitting alone at recess, you…",
+      "options": [
+        {
+          "text": "Walk over and invite them to join your game, making sure they feel welcome right away",
+          "score": "E"
+        },
+        {
+          "text": "Sit down next to them and ask about their favorite hobbies to find common ground",
+          "score": "F"
+        },
+        {
+          "text": "Watch them for a few minutes to see if they want to be alone or might need a friend",
+          "score": "I"
+        },
+        {
+          "text": "Bring over a ball or a game and suggest playing something simple together",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have to choose between two after-school activities, you…",
+      "options": [
+        {
+          "text": "Pick the one you’ve never tried before, excited to explore a new skill or interest",
+          "score": "P"
+        },
+        {
+          "text": "Research both options thoroughly, looking at reviews and schedules to make the most logical choice",
+          "score": "T"
+        },
+        {
+          "text": "Ask your friends which one they’re joining so you can do the same activity together",
+          "score": "E"
+        },
+        {
+          "text": "Choose the one you’ve enjoyed in the past, knowing you’ll have a good time without surprises",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bandit-like ENTJ",
+      "description": "You’re the playful yet decisive leader of your crew, just like Bluey’s dad Bandit. You love crafting elaborate game rules, taking charge of family adventures, and balancing fun with practicality. Quick to solve problems with creative logic, your big heart shines through even when you’re calling the shots. You’re an ENTJ—confident, strategic, and always ready to lead the next big game.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Chilli-aligned INFJ",
+      "description": "You’re the quiet, empathetic backbone of your circle, mirroring Bluey’s mom Chilli. You notice small, meaningful moments—like a friend feeling left out or a sibling needing a hug—and act with gentle care. You hold deep, thoughtful ideas about making everyone feel included, and your calm presence grounds those around you. You’re an INFJ—intuitive, compassionate, and deeply attuned to others’ needs.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Bluey-esque ENFP",
+      "description": "You’re the spark of joy wherever you go, just like Bluey herself. You thrive on creating impromptu games, turning everyday moments like grocery runs into silly adventures, and making even the shyest friend feel like part of the fun. Your imagination knows no bounds, and you’re always ready to follow a new, whimsical idea. You’re an ENFP—optimistic, creative, and endlessly playful.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Bingo-style ISFP",
+      "description": "You’re the gentle, creative soul who finds beauty in small things, just like Bingo. You love expressing yourself through art or music, enjoy quiet afternoons with your favorite toy, and show care through small, kind gestures like drawing a picture for a friend. You go with the flow and cherish cozy, low-key moments. You’re an ISFP—artistic, gentle, and deeply in touch with your feelings.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Rusty-inspired ESTJ",
+      "description": "You’re the reliable, no-nonsense problem-solver, just like Rusty. You take pride in following rules, organizing group activities to run smoothly, and stepping up to help when things go wrong. You value hard work and fairness, and others know they can count on you to get the job done right. You’re an ESTJ—dependable, structured, and always ready to take charge when needed.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Muffin-like ESFP",
+      "description": "You’re the energetic, attention-loving performer of your group, just like Muffin. You thrive on being the center of fun, making silly faces to make people laugh, and turning any boring moment into a mini-show. You live in the present and love trying new, exciting things without overthinking. You’re an ESFP—outgoing, playful, and always the life of the party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Indigo-aligned INTP",
+      "description": "You’re the curious, analytical thinker who loves digging into big ideas, just like Indigo. You spend hours exploring topics that fascinate you, asking endless questions to understand how things work, and coming up with clever solutions to tricky problems. You prefer quiet time to reflect and value logic over chaos. You’re an INTP—introspective, innovative, and always chasing knowledge.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Coco-style ISFJ",
+      "description": "You’re the caring, detail-oriented helper who always looks out for others, just like Coco. You remember small things like your friend’s favorite snack, offer to help with chores without being asked, and make sure everyone feels comfortable in a new place. You’re loyal to your loved ones and go out of your way to make them happy. You’re an ISFJ—nurturing, responsible, and the heart of your community.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Snickers-inspired ENTP",
+      "description": "You’re the witty, clever prankster who loves challenging the norm, just like Snickers. You thrive on coming up with silly loopholes in game rules, debating fun ideas with your friends, and turning boring tasks into hilarious challenges. You’re quick with a joke and always ready to question the “way things are.” You’re an ENTP—playful, innovative, and never afraid to shake things up.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Dottie-like ISTJ",
+      "description": "You’re the steady, rule-abiding planner who values order, just like Dottie. You love making to-do lists, following routines that keep your day on track, and taking care of practical tasks that keep things running smoothly. You’re reliable and responsible, and others know they can trust you to follow through on your promises. You’re an ISTJ—organized, thorough, and always prepared.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Jack-aligned ESFJ",
+      "description": "You’re the warm, social butterfly who loves bringing people together, just like Jack. You plan fun group activities, remember everyone’s birthday, and make sure no one feels left out at parties. You thrive on making others happy and find joy in being surrounded by friends and family. You’re an ESFJ—sociable, caring, and the ultimate host or hostess.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Lucky-style INTJ",
+      "description": "You’re the strategic, forward-thinker who always has a plan, just like Lucky. You spend time thinking about long-term goals, coming up with efficient ways to reach them, and prefer working independently to focus on your ideas. You’re quiet but confident, and your creative problem-solving skills make you a valuable friend. You’re an INTJ—visionary, independent, and always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Mackenzie-like ENFJ",
+      "description": "You’re the charismatic, inspiring leader who lifts others up, just like Mackenzie. You have a way of making everyone feel special, encourage your friends to chase their dreams, and organize activities that bring out the best in people. You’re empathetic and intuitive, always knowing how to cheer someone up. You’re an ENFJ—compassionate, influential, and the glue that holds your group together.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Wendy-aligned ISTP",
+      "description": "You’re the hands-on, adventurous problem-solver who loves fixing things, just like Wendy. You enjoy taking apart toys to see how they work, building cool contraptions from scrap materials, and jumping in to help with any practical task. You’re quiet but confident, and you thrive on using your skills to solve real-world problems. You’re an ISTP—resourceful, practical, and always ready for a hands-on challenge.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Judo-style INFP",
+      "description": "You’re the dreamy, idealistic soul who values authenticity, just like Judo. You have a rich inner world full of stories and ideas, prefer quiet time to reflect on your feelings, and stand up for what you believe is right. You’re kind and loyal, and you connect deeply with friends who share your values. You’re an INFP—creative, introspective, and guided by your big heart.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Socks-inspired ESTP",
+      "description": "You’re the spontaneous, risk-taking thrill-seeker who loves living in the moment, just like Socks. You’re always ready to try a new trick, jump into a silly game without planning, and turn everyday moments into an adventure. You’re outgoing and fearless, and you never let boredom slow you down. You’re an ESTP—energetic, impulsive, and always looking for the next fun thing to do.",
+      "mbti": "ESTP"
+    }
+  ]
+}
