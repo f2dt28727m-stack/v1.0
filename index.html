@@ -1230,8 +1230,12 @@
             alert('toggle called, open=' + filterPanelOpen);
             filterPanelOpen = !filterPanelOpen;
             const panel = document.getElementById('filter-panel');
-            alert('panel=' + panel + ', class=' + panel.className);
-            panel.classList.toggle('show', filterPanelOpen);
+            alert('panel found=' + (panel !== null) + ', class=' + (panel ? panel.className : 'null'));
+            if (panel) {
+                alert('about to toggle show');
+                panel.classList.toggle('show', filterPanelOpen);
+                alert('toggled');
+            }
             document.querySelector('.filter-toggle').classList.toggle('active', filterPanelOpen);
         }
         
