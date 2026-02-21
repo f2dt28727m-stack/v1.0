@@ -1,0 +1,855 @@
+{
+  "quizId": 5,
+  "title": "Your Hidden My Little Pony Personality",
+  "category": "hidden",
+  "tags": [
+    "My Little Pony",
+    "MLP",
+    "Pony",
+    "Friendship",
+    "MBTI",
+    "Personality",
+    "Hidden"
+  ],
+  "description": "Answer 12 questions to discover your hidden My Little Pony personality!",
+  "questions": [
+    {
+      "text": "When no one is watching, you usually spend your time...",
+      "options": [
+        {
+          "text": "Daydreaming about big, hopeful ideas",
+          "score": "N"
+        },
+        {
+          "text": "Quietly finishing a small, useful task",
+          "score": "S"
+        },
+        {
+          "text": "Calling or messaging someone you care about",
+          "score": "E"
+        },
+        {
+          "text": "Enjoying peace and quiet by yourself",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your deepest fear is...",
+      "options": [
+        {
+          "text": "Hurting someone you love without meaning to",
+          "score": "F"
+        },
+        {
+          "text": "Being stuck in a messy, unplanned situation",
+          "score": "J"
+        },
+        {
+          "text": "Wasting time on something that doesn’t make sense",
+          "score": "T"
+        },
+        {
+          "text": "Feeling trapped by strict rules or schedules",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "People would be surprised to learn you...",
+      "options": [
+        {
+          "text": "Have a very wild, creative imagination",
+          "score": "N"
+        },
+        {
+          "text": "Are extremely organized inside",
+          "score": "J"
+        },
+        {
+          "text": "Prefer staying home over going out",
+          "score": "I"
+        },
+        {
+          "text": "Love big crowds and exciting events",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When making a choice quietly, you trust...",
+      "options": [
+        {
+          "text": "Facts and what makes logical sense",
+          "score": "T"
+        },
+        {
+          "text": "Your gut and how it feels inside",
+          "score": "F"
+        },
+        {
+          "text": "A clear plan you’ve thought through",
+          "score": "J"
+        },
+        {
+          "text": "Whatever feels natural in the moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your secret strength is...",
+      "options": [
+        {
+          "text": "Seeing what others miss about the future",
+          "score": "N"
+        },
+        {
+          "text": "Handling real-life problems calmly",
+          "score": "S"
+        },
+        {
+          "text": "Connecting with people deeply and quickly",
+          "score": "E"
+        },
+        {
+          "text": "Staying strong when you’re alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You feel most like yourself when...",
+      "options": [
+        {
+          "text": "You can be completely honest and fair",
+          "score": "T"
+        },
+        {
+          "text": "You’re kind without anyone noticing",
+          "score": "F"
+        },
+        {
+          "text": "Everything goes as you expected",
+          "score": "J"
+        },
+        {
+          "text": "Something unexpected and fun happens",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Deep down, you want others to see you as...",
+      "options": [
+        {
+          "text": "Creative and full of wonder",
+          "score": "N"
+        },
+        {
+          "text": "Reliable and easy to trust",
+          "score": "S"
+        },
+        {
+          "text": "Warm and easy to approach",
+          "score": "E"
+        },
+        {
+          "text": "Thoughtful and full of depth",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When stressed secretly, you...",
+      "options": [
+        {
+          "text": "Overthink every little detail",
+          "score": "J"
+        },
+        {
+          "text": "Avoid decisions until later",
+          "score": "P"
+        },
+        {
+          "text": "Push people away to protect them",
+          "score": "I"
+        },
+        {
+          "text": "Act fine even when you’re not",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your hidden view of friendship is...",
+      "options": [
+        {
+          "text": "It’s about quiet understanding, not noise",
+          "score": "I"
+        },
+        {
+          "text": "It’s about sharing joy and adventure",
+          "score": "E"
+        },
+        {
+          "text": "It’s about loyalty and real support",
+          "score": "S"
+        },
+        {
+          "text": "It’s about growing together over time",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You secretly wish you could...",
+      "options": [
+        {
+          "text": "Express your feelings more openly",
+          "score": "F"
+        },
+        {
+          "text": "Be more logical and less sensitive",
+          "score": "T"
+        },
+        {
+          "text": "Be more spontaneous and free",
+          "score": "P"
+        },
+        {
+          "text": "Be more structured and in control",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "The part of you no one sees is...",
+      "options": [
+        {
+          "text": "How much you daydream and imagine",
+          "score": "N"
+        },
+        {
+          "text": "How practical and careful you really are",
+          "score": "S"
+        },
+        {
+          "text": "How much you need alone time",
+          "score": "I"
+        },
+        {
+          "text": "How much you love being around people",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When solving a secret problem, you...",
+      "options": [
+        {
+          "text": "Think through it step by step",
+          "score": "J"
+        },
+        {
+          "text": "Try different things until it works",
+          "score": "P"
+        },
+        {
+          "text": "Focus on what’s fair and honest",
+          "score": "T"
+        },
+        {
+          "text": "Focus on what won’t hurt anyone",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Deep down, you believe the best people...",
+      "options": [
+        {
+          "text": "See the beauty in small things",
+          "score": "S"
+        },
+        {
+          "text": "Dream of a better world",
+          "score": "N"
+        },
+        {
+          "text": "Care deeply about others",
+          "score": "F"
+        },
+        {
+          "text": "Stay honest no matter what",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You hide that you...",
+      "options": [
+        {
+          "text": "Feel nervous in big groups",
+          "score": "I"
+        },
+        {
+          "text": "Feel bored when alone too long",
+          "score": "E"
+        },
+        {
+          "text": "Hate messy, unclear situations",
+          "score": "J"
+        },
+        {
+          "text": "Dislike strict plans and routines",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your quiet dream is...",
+      "options": [
+        {
+          "text": "Living a peaceful, simple life",
+          "score": "I"
+        },
+        {
+          "text": "Being loved and admired by many",
+          "score": "E"
+        },
+        {
+          "text": "Creating something meaningful",
+          "score": "N"
+        },
+        {
+          "text": "Building a steady, safe life",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you keep a secret, you...",
+      "options": [
+        {
+          "text": "Take it very seriously and never tell",
+          "score": "J"
+        },
+        {
+          "text": "Try to help quietly from the side",
+          "score": "P"
+        },
+        {
+          "text": "Feel honored someone trusted you",
+          "score": "F"
+        },
+        {
+          "text": "Understand why they kept it quiet",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "People don’t guess you’re...",
+      "options": [
+        {
+          "text": "Incredibly logical inside",
+          "score": "T"
+        },
+        {
+          "text": "Extremely emotional and caring",
+          "score": "F"
+        },
+        {
+          "text": "Very spontaneous and free",
+          "score": "P"
+        },
+        {
+          "text": "Super organized and planned",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your hidden way of relaxing is...",
+      "options": [
+        {
+          "text": "Doing something useful and calming",
+          "score": "S"
+        },
+        {
+          "text": "Losing yourself in imagination",
+          "score": "N"
+        },
+        {
+          "text": "Chatting with someone casually",
+          "score": "E"
+        },
+        {
+          "text": "Doing nothing in complete quiet",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Deep inside, you know you...",
+      "options": [
+        {
+          "text": "Need freedom to be yourself",
+          "score": "P"
+        },
+        {
+          "text": "Need structure to feel safe",
+          "score": "J"
+        },
+        {
+          "text": "Care more than you let show",
+          "score": "F"
+        },
+        {
+          "text": "Think more than you speak",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You secretly prefer...",
+      "options": [
+        {
+          "text": "Deep talks over small talk",
+          "score": "I"
+        },
+        {
+          "text": "Fun gatherings over quiet nights",
+          "score": "E"
+        },
+        {
+          "text": "Clear facts over vague ideas",
+          "score": "S"
+        },
+        {
+          "text": "Big ideas over small details",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your hidden reaction to change is...",
+      "options": [
+        {
+          "text": "Excited for something new",
+          "score": "P"
+        },
+        {
+          "text": "Anxious until it’s stable",
+          "score": "J"
+        },
+        {
+          "text": "Worried about others’ feelings",
+          "score": "F"
+        },
+        {
+          "text": "Curious about how it works",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The most real you comes out...",
+      "options": [
+        {
+          "text": "When you’re completely alone",
+          "score": "I"
+        },
+        {
+          "text": "With your closest people",
+          "score": "E"
+        },
+        {
+          "text": "When you’re creating something",
+          "score": "N"
+        },
+        {
+          "text": "When you’re fixing something",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You hide how much you...",
+      "options": [
+        {
+          "text": "Analyze every choice deeply",
+          "score": "T"
+        },
+        {
+          "text": "Feel every word people say",
+          "score": "F"
+        },
+        {
+          "text": "Love planning every detail",
+          "score": "J"
+        },
+        {
+          "text": "Resist being told what to do",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your secret view of the world is...",
+      "options": [
+        {
+          "text": "Full of hidden magic and potential",
+          "score": "N"
+        },
+        {
+          "text": "Best enjoyed in simple, real moments",
+          "score": "S"
+        },
+        {
+          "text": "Better when shared with others",
+          "score": "E"
+        },
+        {
+          "text": "Calmer when enjoyed quietly",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When no one’s judging, you act more...",
+      "options": [
+        {
+          "text": "Playful and unpredictable",
+          "score": "P"
+        },
+        {
+          "text": "Calm and responsible",
+          "score": "J"
+        },
+        {
+          "text": "Honest and straightforward",
+          "score": "T"
+        },
+        {
+          "text": "Soft and kind-hearted",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Deep down, you want to be known for...",
+      "options": [
+        {
+          "text": "Your big heart and kindness",
+          "score": "F"
+        },
+        {
+          "text": "Your clear mind and honesty",
+          "score": "T"
+        },
+        {
+          "text": "Your creativity and vision",
+          "score": "N"
+        },
+        {
+          "text": "Your steady, reliable nature",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You secretly struggle with...",
+      "options": [
+        {
+          "text": "Wanting to please everyone",
+          "score": "E"
+        },
+        {
+          "text": "Closing people out too easily",
+          "score": "I"
+        },
+        {
+          "text": "Taking things too personally",
+          "score": "F"
+        },
+        {
+          "text": "Ignoring your feelings too often",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your hidden sense of home is...",
+      "options": [
+        {
+          "text": "A place that’s tidy and safe",
+          "score": "J"
+        },
+        {
+          "text": "A place that’s cozy and free",
+          "score": "P"
+        },
+        {
+          "text": "A place full of people you love",
+          "score": "E"
+        },
+        {
+          "text": "A quiet place just for you",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You surprise others by being...",
+      "options": [
+        {
+          "text": "Much bolder than you look",
+          "score": "E"
+        },
+        {
+          "text": "Much gentler than you seem",
+          "score": "I"
+        },
+        {
+          "text": "Very practical and grounded",
+          "score": "S"
+        },
+        {
+          "text": "Incredibly idealistic deep down",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you care secretly, you...",
+      "options": [
+        {
+          "text": "Help quietly without being seen",
+          "score": "I"
+        },
+        {
+          "text": "Cheer them on from the side",
+          "score": "E"
+        },
+        {
+          "text": "Give honest, gentle advice",
+          "score": "T"
+        },
+        {
+          "text": "Love them without saying a word",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your hidden superpower is...",
+      "options": [
+        {
+          "text": "Seeing beauty in ordinary things",
+          "score": "S"
+        },
+        {
+          "text": "Imagining wonderful futures",
+          "score": "N"
+        },
+        {
+          "text": "Staying calm when others panic",
+          "score": "J"
+        },
+        {
+          "text": "Rolling with any surprise",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Deep inside, you...",
+      "options": [
+        {
+          "text": "Crave deep, real connections",
+          "score": "F"
+        },
+        {
+          "text": "Value truth over kindness",
+          "score": "T"
+        },
+        {
+          "text": "Need order to feel at peace",
+          "score": "J"
+        },
+        {
+          "text": "Need freedom to feel alive",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You hide that you’re...",
+      "options": [
+        {
+          "text": "A big dreamer with big plans",
+          "score": "N"
+        },
+        {
+          "text": "A realist who sees things clearly",
+          "score": "S"
+        },
+        {
+          "text": "Most happy around people",
+          "score": "E"
+        },
+        {
+          "text": "Most happy in your own world",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your quiet way of loving is...",
+      "options": [
+        {
+          "text": "Loyalty and steady support",
+          "score": "S"
+        },
+        {
+          "text": "Big hopes and gentle faith",
+          "score": "N"
+        },
+        {
+          "text": "Quiet presence and patience",
+          "score": "I"
+        },
+        {
+          "text": "Bright energy and enthusiasm",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "The most hidden part of your heart is...",
+      "options": [
+        {
+          "text": "How deeply you love and care",
+          "score": "F"
+        },
+        {
+          "text": "How clearly you understand things",
+          "score": "T"
+        },
+        {
+          "text": "How much you need stability",
+          "score": "J"
+        },
+        {
+          "text": "How much you need adventure",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At your core, you are...",
+      "options": [
+        {
+          "text": "A gentle, quiet soul",
+          "score": "I"
+        },
+        {
+          "text": "A bright, warm spirit",
+          "score": "E"
+        },
+        {
+          "text": "A creative dreamer",
+          "score": "N"
+        },
+        {
+          "text": "A steady, honest heart",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Hidden Twilight Sparkle",
+      "description": "You’re secretly the wise, curious leader who values growth and friendship. You have a deep mind, love learning, and care deeply about harmony. You’re an INFJ — thoughtful, insightful, and full of quiet magic.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Hidden Pinkie Pie",
+      "description": "Beneath the surface, you’re a joyful, playful spirit who lives to make others happy. You hide a big heart and endless energy. You’re an ESFP — warm, lively, and full of light.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Hidden Rainbow Dash",
+      "description": "You’re secretly bold, loyal, and ready for adventure. You hide a fierce love for your friends and a brave spirit. You’re an ESTP — confident, spontaneous, and true.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Hidden Rarity",
+      "description": "Deep down, you’re creative, generous, and full of beauty. You hide a soft heart and a love for making things special. You’re an ENFJ — charming, kind, and inspiring.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Hidden Fluttershy",
+      "description": "You’re secretly gentle, kind, and incredibly brave. You hide a huge heart and a quiet strength. You’re an ISFP — calm, creative, and full of compassion.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Hidden Applejack",
+      "description": "Beneath the surface, you’re honest, hardworking, and deeply loyal. You hide a steady, reliable soul. You’re an ISTJ — practical, kind, and true to your word.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Hidden Starlight Glimmer",
+      "description": "You’re secretly thoughtful, logical, and always growing. You hide a wise mind and a caring heart. You’re an INTP — curious, calm, and full of potential.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Hidden Spike",
+      "description": "Deep down, you’re loyal, helpful, and full of heart. You hide a quiet devotion to those you love. You’re an ISFJ — gentle, dependable, and kind.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Hidden Princess Celestia",
+      "description": "You’re secretly wise, kind, and full of grace. You hide a calm, guiding spirit. You’re an ENFJ — compassionate, visionary, and full of light.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Hidden Princess Luna",
+      "description": "Beneath the surface, you’re deep, creative, and connected to quiet magic. You hide a gentle soul and a big heart. You’re an INFP — imaginative, kind, and full of wonder.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Hidden Shining Armor",
+      "description": "You’re secretly brave, protective, and loyal to family. You hide a strong, steady heart. You’re an ESTJ — responsible, reliable, and kind.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Hidden Cadance",
+      "description": "Deep down, you’re loving, warm, and full of joy. You hide a bright spirit that spreads love. You’re an ESFJ — kind, social, and full of heart.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Hidden Discord",
+      "description": "You’re secretly clever, creative, and full of surprises. You hide a fun, unique spirit and a soft heart. You’re an ENTP — witty, imaginative, and one of a kind.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Hidden Trixie",
+      "description": "Beneath the surface, you’re confident, expressive, and full of spirit. You hide a big heart and a love to shine. You’re an ENFP — creative, bold, and full of life.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Hidden Zecora",
+      "description": "You’re secretly wise, calm, and full of quiet guidance. You hide a deep, thoughtful soul. You’re an INTJ — insightful, independent, and gentle.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Hidden Big Macintosh",
+      "description": "Deep down, you’re strong, steady, and kind without words. You hide a quiet, reliable heart. You’re an ISTP — calm, practical, and silently strong.",
+      "mbti": "ISTP"
+    }
+  ]
+}

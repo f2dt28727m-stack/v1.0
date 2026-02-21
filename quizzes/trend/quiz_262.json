@@ -1,0 +1,855 @@
+{
+  "quizId": 262,
+  "title": "What poetcore personality are you?",
+  "category": "aesthetic",
+  "tags": [
+    "Poetcore",
+    "Personality Quiz",
+    "Personality Test",
+    "Aesthetic Personality",
+    "Quiet Personality",
+    "Introvert Personality",
+    "Thoughtful"
+  ],
+  "description": "Answer 12 questions to discover your poetcore personality!",
+  "questions": [
+    {
+      "text": "How do you process strong emotions?",
+      "options": [
+        {
+          "text": "Write them down or turn them into something quiet",
+          "score": "W"
+        },
+        {
+          "text": "Walk alone and let thoughts settle slowly",
+          "score": "N"
+        },
+        {
+          "text": "Keep them inside but observe them deeply",
+          "score": "O"
+        },
+        {
+          "text": "Speak softly to someone you trust completely",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What feels like home to you?",
+      "options": [
+        {
+          "text": "A quiet room with books and soft light",
+          "score": "W"
+        },
+        {
+          "text": "Empty streets at dawn or dusk",
+          "score": "N"
+        },
+        {
+          "text": "Old meaningful objects and quiet routines",
+          "score": "O"
+        },
+        {
+          "text": "Calm conversations without pressure",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you see the world?",
+      "options": [
+        {
+          "text": "Full of small, unspoken meanings",
+          "score": "W"
+        },
+        {
+          "text": "As something to feel more than explain",
+          "score": "N"
+        },
+        {
+          "text": "Calm, layered, and full of details",
+          "score": "O"
+        },
+        {
+          "text": "Warm but best experienced slowly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you’re overwhelmed, you…",
+      "options": [
+        {
+          "text": "Escape into words or creativity",
+          "score": "W"
+        },
+        {
+          "text": "Disappear into quiet solitude",
+          "score": "N"
+        },
+        {
+          "text": "Stay calm and organize your thoughts",
+          "score": "O"
+        },
+        {
+          "text": "Lean into gentle comfort from one person",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite way to spend free time is…",
+      "options": [
+        {
+          "text": "Reading, writing, or creating quietly",
+          "score": "W"
+        },
+        {
+          "text": "Wandering without a destination",
+          "score": "N"
+        },
+        {
+          "text": "Enjoying slow, intentional moments",
+          "score": "O"
+        },
+        {
+          "text": "Resting in peaceful company",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What draws you most?",
+      "options": [
+        {
+          "text": "Language, rhythm, and expression",
+          "score": "W"
+        },
+        {
+          "text": "Atmosphere, mood, and silence",
+          "score": "N"
+        },
+        {
+          "text": "History, nostalgia, and subtlety",
+          "score": "O"
+        },
+        {
+          "text": "Gentle connection and understanding",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you make decisions?",
+      "options": [
+        {
+          "text": "Follow what feels honest and meaningful",
+          "score": "W"
+        },
+        {
+          "text": "Wait until your heart feels clear",
+          "score": "N"
+        },
+        {
+          "text": "Think quietly and choose carefully",
+          "score": "O"
+        },
+        {
+          "text": "Consider how it affects those you care for",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You feel most alive when…",
+      "options": [
+        {
+          "text": "You’re expressing something real inside you",
+          "score": "W"
+        },
+        {
+          "text": "You’re alone with your thoughts",
+          "score": "N"
+        },
+        {
+          "text": "Life feels slow and intentional",
+          "score": "O"
+        },
+        {
+          "text": "You connect deeply with one person",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you treat people you care about?",
+      "options": [
+        {
+          "text": "With quiet, loyal attention",
+          "score": "W"
+        },
+        {
+          "text": "With space and gentle understanding",
+          "score": "N"
+        },
+        {
+          "text": "With steady, reliable care",
+          "score": "O"
+        },
+        {
+          "text": "With soft, sincere warmth",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your relationship with time is…",
+      "options": [
+        {
+          "text": "You like to pause and absorb moments",
+          "score": "W"
+        },
+        {
+          "text": "You prefer to move slowly",
+          "score": "N"
+        },
+        {
+          "text": "You value routine and quiet rhythm",
+          "score": "O"
+        },
+        {
+          "text": "You cherish meaningful moments",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What do you value most in yourself?",
+      "options": [
+        {
+          "text": "Your ability to see beauty in small things",
+          "score": "W"
+        },
+        {
+          "text": "Your inner world and depth",
+          "score": "N"
+        },
+        {
+          "text": "Your calm and steady mind",
+          "score": "O"
+        },
+        {
+          "text": "Your kindness and empathy",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you recharge?",
+      "options": [
+        {
+          "text": "Alone time with words or art",
+          "score": "W"
+        },
+        {
+          "text": "Complete silence and solitude",
+          "score": "N"
+        },
+        {
+          "text": "Calm, predictable peace",
+          "score": "O"
+        },
+        {
+          "text": "Gentle, low-effort connection",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When someone doesn’t understand you…",
+      "options": [
+        {
+          "text": "You don’t push; you keep your truth",
+          "score": "W"
+        },
+        {
+          "text": "You withdraw gently",
+          "score": "N"
+        },
+        {
+          "text": "You stay calm and accept it",
+          "score": "O"
+        },
+        {
+          "text": "It hurts but you stay kind",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You find beauty in…",
+      "options": [
+        {
+          "text": "Words, stories, and expression",
+          "score": "W"
+        },
+        {
+          "text": "Silence, fog, and mood",
+          "score": "N"
+        },
+        {
+          "text": "Old things and quiet details",
+          "score": "O"
+        },
+        {
+          "text": "Gentle moments and softness",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle change?",
+      "options": [
+        {
+          "text": "You process it through reflection",
+          "score": "W"
+        },
+        {
+          "text": "You adapt slowly but deeply",
+          "score": "N"
+        },
+        {
+          "text": "You stay grounded in what stays",
+          "score": "O"
+        },
+        {
+          "text": "You lean on what feels safe",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your social style is…",
+      "options": [
+        {
+          "text": "Small, deep, meaningful talks",
+          "score": "W"
+        },
+        {
+          "text": "Quiet, low-key company",
+          "score": "N"
+        },
+        {
+          "text": "Few close, trusted people",
+          "score": "O"
+        },
+        {
+          "text": "Warm but not loud",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What feels fulfilling?",
+      "options": [
+        {
+          "text": "Creating something honest",
+          "score": "W"
+        },
+        {
+          "text": "Understanding your own mind",
+          "score": "N"
+        },
+        {
+          "text": "Living quietly with purpose",
+          "score": "O"
+        },
+        {
+          "text": "Loving and being loved gently",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re most yourself when…",
+      "options": [
+        {
+          "text": "No one is watching you",
+          "score": "W"
+        },
+        {
+          "text": "You’re alone or with one person",
+          "score": "N"
+        },
+        {
+          "text": "You’re in your own space",
+          "score": "O"
+        },
+        {
+          "text": "You don’t have to perform",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you see loneliness?",
+      "options": [
+        {
+          "text": "It’s a space for creation",
+          "score": "W"
+        },
+        {
+          "text": "It’s part of being deep",
+          "score": "N"
+        },
+        {
+          "text": "It’s peaceful if you let it",
+          "score": "O"
+        },
+        {
+          "text": "It’s a longing for real connection",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your strength is…",
+      "options": [
+        {
+          "text": "Your sensitivity and vision",
+          "score": "W"
+        },
+        {
+          "text": "Your depth and intuition",
+          "score": "N"
+        },
+        {
+          "text": "Your calm and resilience",
+          "score": "O"
+        },
+        {
+          "text": "Your kindness and loyalty",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you comfort others?",
+      "options": [
+        {
+          "text": "With quiet, thoughtful words",
+          "score": "W"
+        },
+        {
+          "text": "With presence, not advice",
+          "score": "N"
+        },
+        {
+          "text": "With steady, calm support",
+          "score": "O"
+        },
+        {
+          "text": "With soft, gentle warmth",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re attracted to people who…",
+      "options": [
+        {
+          "text": "Have something to say, not just show",
+          "score": "W"
+        },
+        {
+          "text": "Understand silence and depth",
+          "score": "N"
+        },
+        {
+          "text": "Are reliable and calm",
+          "score": "O"
+        },
+        {
+          "text": "Are gentle and sincere",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach the future?",
+      "options": [
+        {
+          "text": "With quiet hope and reflection",
+          "score": "W"
+        },
+        {
+          "text": "With curiosity but no rush",
+          "score": "N"
+        },
+        {
+          "text": "With calm planning",
+          "score": "O"
+        },
+        {
+          "text": "With an open, soft heart",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What annoys you most?",
+      "options": [
+        {
+          "text": "Superficiality and fake energy",
+          "score": "W"
+        },
+        {
+          "text": "Loudness and pressure",
+          "score": "N"
+        },
+        {
+          "text": "Chaos and unpredictability",
+          "score": "O"
+        },
+        {
+          "text": "Cruelty or carelessness",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your idea of joy is…",
+      "options": [
+        {
+          "text": "Quiet clarity and expression",
+          "score": "W"
+        },
+        {
+          "text": "Peace and inner calm",
+          "score": "N"
+        },
+        {
+          "text": "Stability and small joys",
+          "score": "O"
+        },
+        {
+          "text": "Gentle love and belonging",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you express care?",
+      "options": [
+        {
+          "text": "Through small, meaningful acts",
+          "score": "W"
+        },
+        {
+          "text": "Through patience and space",
+          "score": "N"
+        },
+        {
+          "text": "Through consistency",
+          "score": "O"
+        },
+        {
+          "text": "Through soft, genuine words",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You feel understood when…",
+      "options": [
+        {
+          "text": "Someone gets your subtle meanings",
+          "score": "W"
+        },
+        {
+          "text": "Someone likes you in your quietness",
+          "score": "N"
+        },
+        {
+          "text": "Someone respects your rhythm",
+          "score": "O"
+        },
+        {
+          "text": "Someone loves your softness",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What makes you feel powerful?",
+      "options": [
+        {
+          "text": "Mastery of your own voice",
+          "score": "W"
+        },
+        {
+          "text": "Control of your inner world",
+          "score": "N"
+        },
+        {
+          "text": "Calm under pressure",
+          "score": "O"
+        },
+        {
+          "text": "Loving bravely and softly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You cherish moments that are…",
+      "options": [
+        {
+          "text": "Wordless and meaningful",
+          "score": "W"
+        },
+        {
+          "text": "Slow and atmospheric",
+          "score": "N"
+        },
+        {
+          "text": "Calm and intentional",
+          "score": "O"
+        },
+        {
+          "text": "Warm and gentle",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you live authentically?",
+      "options": [
+        {
+          "text": "By staying true to what moves you",
+          "score": "W"
+        },
+        {
+          "text": "By honoring your need for quiet",
+          "score": "N"
+        },
+        {
+          "text": "By choosing depth over noise",
+          "score": "O"
+        },
+        {
+          "text": "By being kind and real",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your deepest desire is…",
+      "options": [
+        {
+          "text": "To be truly seen and understood",
+          "score": "W"
+        },
+        {
+          "text": "To live in peace and depth",
+          "score": "N"
+        },
+        {
+          "text": "To live slowly and meaningfully",
+          "score": "O"
+        },
+        {
+          "text": "To love and be loved gently",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle sadness?",
+      "options": [
+        {
+          "text": "Turn it into something beautiful",
+          "score": "W"
+        },
+        {
+          "text": "Sit with it until it softens",
+          "score": "N"
+        },
+        {
+          "text": "Keep going quietly",
+          "score": "O"
+        },
+        {
+          "text": "Let yourself feel it gently",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re special because you…",
+      "options": [
+        {
+          "text": "See what others miss",
+          "score": "W"
+        },
+        {
+          "text": "Feel what others ignore",
+          "score": "N"
+        },
+        {
+          "text": "Stay steady when others rush",
+          "score": "O"
+        },
+        {
+          "text": "Love deeply and quietly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you want to be remembered?",
+      "options": [
+        {
+          "text": "As someone who felt deeply and truly",
+          "score": "W"
+        },
+        {
+          "text": "As someone calm, deep, and real",
+          "score": "N"
+        },
+        {
+          "text": "As someone steady and thoughtful",
+          "score": "O"
+        },
+        {
+          "text": "As someone kind and gentle",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What makes life worth living?",
+      "options": [
+        {
+          "text": "Meaning, beauty, and expression",
+          "score": "W"
+        },
+        {
+          "text": "Quiet moments and inner peace",
+          "score": "N"
+        },
+        {
+          "text": "Stability and small joys",
+          "score": "O"
+        },
+        {
+          "text": "Love and gentle connection",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your poetcore superpower is…",
+      "options": [
+        {
+          "text": "Turning feeling into meaning",
+          "score": "W"
+        },
+        {
+          "text": "Holding space for silence and depth",
+          "score": "N"
+        },
+        {
+          "text": "Living thoughtfully in a loud world",
+          "score": "O"
+        },
+        {
+          "text": "Loving gently and bravely",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Wordsmith Poet",
+      "description": "You process life through language. You turn feelings into lines, moments into stories, and silence into meaning. You see beauty in unspoken thoughts and hidden messages.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Atmospheric Poet",
+      "description": "You live in mood and feeling. You’re drawn to fog, silence, dusk, and quiet spaces. Your depth comes not from words, but from how deeply you experience the world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Quiet Observer Poet",
+      "description": "You watch carefully and understand quietly. You notice details others miss, value calm rhythm, and find meaning in routine, history, and subtlety.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Gentle Heart Poet",
+      "description": "You write and feel with softness. Your poetry is love, empathy, and warmth. You connect deeply and care quietly—your strength is your kindness.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Melancholic Dreamer Poet",
+      "description": "You find beauty in soft sadness and quiet longing. You’re thoughtful, nostalgic, and deeply intuitive. You carry a gentle, poetic soul.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Minimalist Poet",
+      "description": "You believe less is more. You prefer quiet, clean emotion, short meaningful lines, and calm simplicity. Your power is restraint and clarity.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nostalgic Poet",
+      "description": "You love old things, faded memories, and soft history. You find poetry in the past, in gentle repetition, and in quiet moments that feel like home.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Empathetic Storyteller Poet",
+      "description": "You write for others. You feel their pain, their joy, their silence. Your poetry is a bridge between hearts.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Lyrical Thinker Poet",
+      "description": "You blend logic and feeling. You think deeply, question gently, and turn philosophy into poetry.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Soft Rebel Poet",
+      "description": "You’re quiet but unapologetically you. You don’t shout—you exist authentically, and that is your poetry.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Calm Soul Poet",
+      "description": "You bring peace to every room. Your poetry is steady, grounded, and warm. People feel safe when you speak.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Quiet Romantic Poet",
+      "description": "You love softly, deeply, and privately. Your poetry is about small, sacred moments of connection.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Atmospheric Writer Poet",
+      "description": "You don’t just write words—you create mood. Your presence is a poem, your silence is meaningful.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Deep Feelers Poet",
+      "description": "You feel everything so deeply it becomes art. You don’t choose sensitivity—it chooses you, and it makes you poetic.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Subtle Visionary Poet",
+      "description": "You see the world differently. You notice light, shadow, tone, and texture. Your poetry is quiet but visionary.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Pure Poetcore Soul",
+      "description": "You are the living idea of poetcore. You don’t just write poetry—you are poetry. Every breath, every step, every quiet moment is art.",
+      "mbti": "INFJ"
+    }
+  ]
+}

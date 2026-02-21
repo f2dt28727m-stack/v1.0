@@ -1,0 +1,855 @@
+{
+  "quizId": 261,
+  "title": "What’s your gummy aura personality?",
+  "category": "hidden",
+  "tags": [
+    "Gummy Aesthetic",
+    "Personality Quiz",
+    "Gummy Aura",
+    "Soft Vibe",
+    "Personality Test",
+    "Aesthetic Personality",
+    "Soft Personality"
+  ],
+  "description": "Answer 12 sweet questions to discover your gummy aura personality!",
+  "questions": [
+    {
+      "text": "How do you react when things don’t go as planned?",
+      "options": [
+        {
+          "text": "Stay soft and flexible, adapt gently",
+          "score": "S"
+        },
+        {
+          "text": "Take a breath and find joy in the mess",
+          "score": "J"
+        },
+        {
+          "text": "Calmly adjust and keep your mood sweet",
+          "score": "C"
+        },
+        {
+          "text": "Laugh it off and make it fun anyway",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What makes you feel most like yourself?",
+      "options": [
+        {
+          "text": "Being gentle with yourself and others",
+          "score": "S"
+        },
+        {
+          "text": "Sharing small sweet moments with loved ones",
+          "score": "J"
+        },
+        {
+          "text": "Having quiet time to recharge your energy",
+          "score": "C"
+        },
+        {
+          "text": "Bringing light and joy to everyone around",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you show kindness to others?",
+      "options": [
+        {
+          "text": "With quiet, consistent care",
+          "score": "S"
+        },
+        {
+          "text": "With small, sweet surprises",
+          "score": "J"
+        },
+        {
+          "text": "With calm, understanding listening",
+          "score": "C"
+        },
+        {
+          "text": "With bright, warm energy",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal way to relax is...",
+      "options": [
+        {
+          "text": "Doing something slow and gentle",
+          "score": "S"
+        },
+        {
+          "text": "Enjoying something sweet and simple",
+          "score": "J"
+        },
+        {
+          "text": "Being in a quiet, cozy space",
+          "score": "C"
+        },
+        {
+          "text": "Watching something fun and light",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle stress?",
+      "options": [
+        {
+          "text": "Be soft on yourself and take it step by step",
+          "score": "S"
+        },
+        {
+          "text": "Treat yourself to something small and sweet",
+          "score": "J"
+        },
+        {
+          "text": "Find a calm space to reset your mood",
+          "score": "C"
+        },
+        {
+          "text": "Distract yourself with something fun",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your approach to new friendships?",
+      "options": [
+        {
+          "text": "Warm and gentle, take time to connect",
+          "score": "S"
+        },
+        {
+          "text": "Sweet and open, share small joys",
+          "score": "J"
+        },
+        {
+          "text": "Calm and steady, build trust slowly",
+          "score": "C"
+        },
+        {
+          "text": "Bright and friendly, make them smile",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite kind of joy is...",
+      "options": [
+        {
+          "text": "Quiet, gentle moments of peace",
+          "score": "S"
+        },
+        {
+          "text": "Small, sweet moments of happiness",
+          "score": "J"
+        },
+        {
+          "text": "Calm, content moments of comfort",
+          "score": "C"
+        },
+        {
+          "text": "Big, bright moments of laughter",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you express your feelings?",
+      "options": [
+        {
+          "text": "Softly and sincerely, from the heart",
+          "score": "S"
+        },
+        {
+          "text": "Sweetly and thoughtfully, with care",
+          "score": "J"
+        },
+        {
+          "text": "Calmly and honestly, with clarity",
+          "score": "C"
+        },
+        {
+          "text": "Openly and joyfully, with energy",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your attitude toward life?",
+      "options": [
+        {
+          "text": "Be gentle, go with the flow",
+          "score": "S"
+        },
+        {
+          "text": "Find sweetness in the small things",
+          "score": "J"
+        },
+        {
+          "text": "Stay calm, focus on what matters",
+          "score": "C"
+        },
+        {
+          "text": "Keep it light, enjoy the ride",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you make decisions?",
+      "options": [
+        {
+          "text": "Gently weigh your options, trust your heart",
+          "score": "S"
+        },
+        {
+          "text": "Choose what feels sweet and right",
+          "score": "J"
+        },
+        {
+          "text": "Calmly consider what’s best for you",
+          "score": "C"
+        },
+        {
+          "text": "Pick what feels fun and exciting",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What do you value most in people?",
+      "options": [
+        {
+          "text": "Gentleness and kindness",
+          "score": "S"
+        },
+        {
+          "text": "Sweetness and thoughtfulness",
+          "score": "J"
+        },
+        {
+          "text": "Calmness and reliability",
+          "score": "C"
+        },
+        {
+          "text": "Joy and positivity",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you recharge your energy?",
+      "options": [
+        {
+          "text": "Quiet time alone with soft music",
+          "score": "S"
+        },
+        {
+          "text": "Small treats and cozy moments",
+          "score": "J"
+        },
+        {
+          "text": "Calm walks in nature",
+          "score": "C"
+        },
+        {
+          "text": "Fun time with favorite people",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your take on mistakes?",
+      "options": [
+        {
+          "text": "Be gentle, everyone makes them",
+          "score": "S"
+        },
+        {
+          "text": "Find the sweet lesson in them",
+          "score": "J"
+        },
+        {
+          "text": "Calmly fix what you can and move on",
+          "score": "C"
+        },
+        {
+          "text": "Laugh and turn it into a story",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "Your perfect day involves...",
+      "options": [
+        {
+          "text": "Gentle moments with no rush",
+          "score": "S"
+        },
+        {
+          "text": "Sweet little pleasures all day",
+          "score": "J"
+        },
+        {
+          "text": "Calm focus on things you love",
+          "score": "C"
+        },
+        {
+          "text": "Bright fun with people you care about",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you apologize to someone?",
+      "options": [
+        {
+          "text": "Softly and sincerely, with care",
+          "score": "S"
+        },
+        {
+          "text": "With a sweet gesture and honest words",
+          "score": "J"
+        },
+        {
+          "text": "Calmly and clearly, taking responsibility",
+          "score": "C"
+        },
+        {
+          "text": "Openly and warmly, making it right",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to connect?",
+      "options": [
+        {
+          "text": "Quiet conversations with deep care",
+          "score": "S"
+        },
+        {
+          "text": "Sharing sweet snacks and small talk",
+          "score": "J"
+        },
+        {
+          "text": "Calm walks with comfortable silence",
+          "score": "C"
+        },
+        {
+          "text": "Loud laughter and silly moments",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you celebrate small wins?",
+      "options": [
+        {
+          "text": "Gentle self-praise and quiet pride",
+          "score": "S"
+        },
+        {
+          "text": "A sweet little treat for yourself",
+          "score": "J"
+        },
+        {
+          "text": "Calm reflection on your progress",
+          "score": "C"
+        },
+        {
+          "text": "Sharing the joy with others",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your vibe in a group?",
+      "options": [
+        {
+          "text": "Soft and supportive, listening closely",
+          "score": "S"
+        },
+        {
+          "text": "Sweet and warm, making everyone feel welcome",
+          "score": "J"
+        },
+        {
+          "text": "Calm and steady, grounding the group",
+          "score": "C"
+        },
+        {
+          "text": "Bright and bubbly, keeping the mood light",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle criticism?",
+      "options": [
+        {
+          "text": "Take it gently, grow from it softly",
+          "score": "S"
+        },
+        {
+          "text": "Find the sweet spot of truth in it",
+          "score": "J"
+        },
+        {
+          "text": "Calmly evaluate it without taking it personally",
+          "score": "C"
+        },
+        {
+          "text": "Brush it off and focus on the positive",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your inner voice like?",
+      "options": [
+        {
+          "text": "Gentle and encouraging",
+          "score": "S"
+        },
+        {
+          "text": "Sweet and kind",
+          "score": "J"
+        },
+        {
+          "text": "Calm and rational",
+          "score": "C"
+        },
+        {
+          "text": "Playful and upbeat",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you make others feel welcome?",
+      "options": [
+        {
+          "text": "With gentle gestures and kind words",
+          "score": "S"
+        },
+        {
+          "text": "With sweet little touches and warmth",
+          "score": "J"
+        },
+        {
+          "text": "With calm presence and open listening",
+          "score": "C"
+        },
+        {
+          "text": "With bright smiles and fun energy",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your relationship with change?",
+      "options": [
+        {
+          "text": "Adapt gently, go at your own pace",
+          "score": "S"
+        },
+        {
+          "text": "Find sweet new things to love in it",
+          "score": "J"
+        },
+        {
+          "text": "Stay calm, focus on what’s constant",
+          "score": "C"
+        },
+        {
+          "text": "Embrace it with excitement and fun",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite kind of gift to give is...",
+      "options": [
+        {
+          "text": "Something gentle and meaningful",
+          "score": "S"
+        },
+        {
+          "text": "Something sweet and personal",
+          "score": "J"
+        },
+        {
+          "text": "Something calm and useful",
+          "score": "C"
+        },
+        {
+          "text": "Something bright and fun",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you start your day?",
+      "options": [
+        {
+          "text": "Slow and gentle, no rush",
+          "score": "S"
+        },
+        {
+          "text": "With a sweet little ritual",
+          "score": "J"
+        },
+        {
+          "text": "Calm and intentional, with purpose",
+          "score": "C"
+        },
+        {
+          "text": "Bright and energetic, ready for fun",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your take on self-care?",
+      "options": [
+        {
+          "text": "Being gentle with your mind and body",
+          "score": "S"
+        },
+        {
+          "text": "Treating yourself to small sweet joys",
+          "score": "J"
+        },
+        {
+          "text": "Creating calm spaces for yourself",
+          "score": "C"
+        },
+        {
+          "text": "Doing things that bring you joy",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you deal with loneliness?",
+      "options": [
+        {
+          "text": "Be gentle with yourself, embrace quiet",
+          "score": "S"
+        },
+        {
+          "text": "Indulge in sweet little comforts",
+          "score": "J"
+        },
+        {
+          "text": "Calmly connect with your thoughts",
+          "score": "C"
+        },
+        {
+          "text": "Reach out to someone for fun chat",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite kind of moment?",
+      "options": [
+        {
+          "text": "Gentle sunlight and soft breeze",
+          "score": "S"
+        },
+        {
+          "text": "Sweet treats with favorite people",
+          "score": "J"
+        },
+        {
+          "text": "Calm silence with a good book",
+          "score": "C"
+        },
+        {
+          "text": "Bright laughter with friends",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you inspire others?",
+      "options": [
+        {
+          "text": "With gentle strength and kindness",
+          "score": "S"
+        },
+        {
+          "text": "With sweet optimism and care",
+          "score": "J"
+        },
+        {
+          "text": "With calm wisdom and stability",
+          "score": "C"
+        },
+        {
+          "text": "With bright energy and joy",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your approach to goals?",
+      "options": [
+        {
+          "text": "Gentle progress, celebrate small steps",
+          "score": "S"
+        },
+        {
+          "text": "Sweet motivation, focus on joy in the journey",
+          "score": "J"
+        },
+        {
+          "text": "Calm consistency, steady effort",
+          "score": "C"
+        },
+        {
+          "text": "Fun momentum, keep it light and exciting",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you see the world?",
+      "options": [
+        {
+          "text": "Full of gentle beauty and kindness",
+          "score": "S"
+        },
+        {
+          "text": "Full of sweet little joys to find",
+          "score": "J"
+        },
+        {
+          "text": "Full of calm moments to appreciate",
+          "score": "C"
+        },
+        {
+          "text": "Full of bright opportunities to enjoy",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to wind down?",
+      "options": [
+        {
+          "text": "Soft music and gentle stretching",
+          "score": "S"
+        },
+        {
+          "text": "Sweet tea and a cozy blanket",
+          "score": "J"
+        },
+        {
+          "text": "Calm reading and quiet space",
+          "score": "C"
+        },
+        {
+          "text": "Fun show and favorite snack",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle excitement?",
+      "options": [
+        {
+          "text": "Soft joy, quiet happiness",
+          "score": "S"
+        },
+        {
+          "text": "Sweet anticipation, warm excitement",
+          "score": "J"
+        },
+        {
+          "text": "Calm enthusiasm, grounded joy",
+          "score": "C"
+        },
+        {
+          "text": "Bright energy, full celebration",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your core strength?",
+      "options": [
+        {
+          "text": "Gentleness and empathy",
+          "score": "S"
+        },
+        {
+          "text": "Sweetness and positivity",
+          "score": "J"
+        },
+        {
+          "text": "Calmness and resilience",
+          "score": "C"
+        },
+        {
+          "text": "Joy and adaptability",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you connect with nature?",
+      "options": [
+        {
+          "text": "Gentle walks, feeling the earth",
+          "score": "S"
+        },
+        {
+          "text": "Sweet moments, picking flowers or berries",
+          "score": "J"
+        },
+        {
+          "text": "Calm sitting, watching the world go by",
+          "score": "C"
+        },
+        {
+          "text": "Fun exploration, hiking and discovering",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite kind of music?",
+      "options": [
+        {
+          "text": "Soft, gentle melodies",
+          "score": "S"
+        },
+        {
+          "text": "Sweet, upbeat tunes",
+          "score": "J"
+        },
+        {
+          "text": "Calm, instrumental sounds",
+          "score": "C"
+        },
+        {
+          "text": "Bright, fun pop music",
+          "score": "B"
+        }
+      ]
+    },
+    {
+      "text": "How do you leave a lasting impression?",
+      "options": [
+        {
+          "text": "With gentle kindness people remember",
+          "score": "S"
+        },
+        {
+          "text": "With sweet gestures that warm hearts",
+          "score": "J"
+        },
+        {
+          "text": "With calm reliability people trust",
+          "score": "C"
+        },
+        {
+          "text": "With bright joy people miss",
+          "score": "B"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Strawberry Gummy Aura",
+      "description": "Your gummy aura is sweet, soft, and full of warmth. You’re gentle with others, kind to yourself, and find joy in the small, sweet moments of life. People feel calm and loved in your presence—you’re the kind of person who makes the world a little sweeter just by being in it.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Mango Gummy Aura",
+      "description": "Your gummy aura is bright, sweet, and full of sunshine. You bring warmth and joy to every room, find sweetness in even the ordinary days, and love sharing small pleasures with the people you care about. You’re optimistic, warm, and impossible not to love.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Blue Raspberry Gummy Aura",
+      "description": "Your gummy aura is calm, cool, and gently sweet. You’re steady, reliable, and bring a sense of peace to those around you. You take life at your own pace, stay grounded, and find comfort in the quiet moments that others might miss.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Watermelon Gummy Aura",
+      "description": "Your gummy aura is bright, bubbly, and full of fun. You’re playful, upbeat, and make every moment a little lighter. You adapt easily to change, find joy in laughter, and bring energy to any situation—you’re the life of the party in the sweetest way.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Lemon Gummy Aura",
+      "description": "Your gummy aura is soft, fresh, and gently bright. You’re thoughtful, sincere, and have a quiet positivity that lifts others up. You’re kind without trying, genuine in all you do, and bring a breath of fresh air to everyone you meet.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Grape Gummy Aura",
+      "description": "Your gummy aura is calm, deep, and sweetly comforting. You’re a good listener, deeply empathetic, and create safe spaces for others to be themselves. You value connection over chaos and make people feel truly seen and heard.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Peach Gummy Aura",
+      "description": "Your gummy aura is warm, sweet, and incredibly nurturing. You care deeply for the people you love, go out of your way to make them feel special, and find joy in taking care of others. You’re the definition of a heart full of sweetness.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Cherry Gummy Aura",
+      "description": "Your gummy aura is sweet, bold, and full of personality. You’re unapologetically yourself, have a gentle confidence, and bring a unique sweetness to everything you do. People remember your kind heart and your one-of-a-kind spirit.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Coconut Gummy Aura",
+      "description": "Your gummy aura is calm, sweet, and full of peace. You’re laid-back, easygoing, and find joy in simplicity. You don’t rush through life—instead, you savor each moment and help others slow down and appreciate the sweet things too.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Pineapple Gummy Aura",
+      "description": "Your gummy aura is bright, sweet, and full of adventure. You’re curious, optimistic, and find sweetness in new experiences. You embrace life with an open heart and encourage others to step outside their comfort zones in the kindest way.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Mixed Berry Gummy Aura",
+      "description": "Your gummy aura is a beautiful mix of sweet, calm, and bright. You adapt to any situation with grace, bring different kinds of sweetness to different people, and have a balanced energy that everyone appreciates. You’re versatile and wonderfully unique.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Lychee Gummy Aura",
+      "description": "Your gummy aura is soft, unique, and sweetly mysterious. You’re quiet but deeply interesting, have a gentle charm that draws people in, and reveal your sweetness to those who take the time to know you. You’re a rare and precious kind of sweet.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Orange Gummy Aura",
+      "description": "Your gummy aura is bright, warm, and sweetly energetic. You’re enthusiastic, positive, and bring a burst of sunshine to even the dullest days. You love life fully, laugh loudly, and make sure everyone around you feels the joy too.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Blackberry Gummy Aura",
+      "description": "Your gummy aura is deep, sweet, and full of strength. You’re resilient, kind, and have a quiet power that inspires others. You’ve faced challenges with grace and still choose to be sweet to the world—your strength is truly beautiful.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Raspberry Gummy Aura",
+      "description": "Your gummy aura is sweet, vibrant, and full of heart. You’re passionate about the things you love, kind to a fault, and wear your heart on your sleeve in the most beautiful way. You love deeply and make sure people know how much they mean to you.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Honey Gummy Aura",
+      "description": "Your gummy aura is warm, sweet, and timeless. You’re the kind of person who feels like home—comforting, reliable, and full of genuine sweetness. You don’t chase trends or attention; you just show up as your kind, wonderful self, and that’s more than enough.",
+      "mbti": "INTJ"
+    }
+  ]
+}
