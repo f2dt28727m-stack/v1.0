@@ -1,423 +1,486 @@
 {
   "quizId": 29,
-  "title": "What Is Your Hidden Personality Type?",
-  "category": "hidden",
-  "category_name": "Hidden / Secret",
+  "title": "What Does Your Soulmate's Personality Type?",
+  "category": "match",
+  "category_name": "Match / Soulmate",
   "language": "English",
-  "description": "Everyone has a public self and a hidden self. Discover what lies beneath your surface! Answer 12 questions to uncover your secret personality type.",
+  "description": "Discover what kind of personality your soulmate has! Answer 12 questions to find out the MBTI type of your perfect match.",
   "tags": [
-    "Hidden",
-    "Secret",
+    "Soulmate",
+    "Love",
+    "MBTI",
     "Personality",
-    "Inner Self",
-    "Psychology",
-    "隐藏",
-    "秘密",
-    "人格",
-    "内心"
+    "Relationship",
+    "灵魂伴侣",
+    "爱情",
+    "MBTI"
   ],
   "questions": [
     {
       "qId": 1,
-      "text": "When you're alone at night, you usually...",
+      "text": "How do you prefer to recharge after a long day?",
       "options": [
         {
-          "text": "Think about life, dreams, and deep questions",
+          "text": "Spending time with a large group of friends",
           "score": {
-            "dreamer": 3
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "Plan and organize things in your head",
+          "text": "Having a quiet evening alone or with one close person",
           "score": {
-            "strategist": 3
-          }
-        },
-        {
-          "text": "Watch shows or scroll through social media",
-          "score": {
-            "escapist": 3
-          }
-        },
-        {
-          "text": "Get creative - write, draw, or make something",
-          "score": {
-            "artist": 3
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 2,
-      "text": "What's your biggest fear that you rarely tell anyone?",
+      "text": "When making decisions, you primarily rely on...",
       "options": [
         {
-          "text": "Being alone and not mattering to anyone",
+          "text": "Logic and objective analysis",
           "score": {
-            "vulnerable": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "Failure and not reaching my potential",
+          "text": "Personal values and how it affects others",
           "score": {
-            "ambitious": 3
-          }
-        },
-        {
-          "text": "Losing control of things in my life",
-          "score": {
-            "strategist": 3
-          }
-        },
-        {
-          "text": "Not being understood or accepted",
-          "score": {
-            "dreamer": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 3,
-      "text": "If you could be invisible for a day, you would...",
+      "text": "In your daily life, you tend to be more...",
       "options": [
         {
-          "text": "Observe people you admire secretly",
+          "text": "Practical and focused on real-world details",
           "score": {
-            "observer": 3
+            "E": 0,
+            "I": 0,
+            "S": 1,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "Go anywhere without being judged",
+          "text": "Imaginative and focused on possibilities and ideas",
           "score": {
-            "free_spirit": 3
-          }
-        },
-        {
-          "text": "Discover secrets people are hiding",
-          "score": {
-            "curious": 3
-          }
-        },
-        {
-          "text": "Help others without them knowing",
-          "score": {
-            "guardian": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 4,
-      "text": "What do you secretly envy about others?",
+      "text": "How do you usually approach your schedule and commitments?",
       "options": [
         {
-          "text": "Their confidence and social skills",
+          "text": "I like to plan ahead and stick to my plans",
           "score": {
-            "social_butterfly": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
           }
         },
         {
-          "text": "Their creative abilities",
+          "text": "I prefer to stay flexible and keep my options open",
           "score": {
-            "artist": 3
-          }
-        },
-        {
-          "text": "Their discipline and productivity",
-          "score": {
-            "strategist": 3
-          }
-        },
-        {
-          "text": "Their ability to live in the moment",
-          "score": {
-            "free_spirit": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
           }
         }
       ]
     },
     {
       "qId": 5,
-      "text": "When nobody is watching, you...",
+      "text": "What type of conversation energizes you the most?",
       "options": [
         {
-          "text": "Talk to yourself or have imaginary conversations",
+          "text": "Discussing concrete facts and real-life events",
           "score": {
-            "dreamer": 3
+            "E": 0,
+            "I": 0,
+            "S": 1,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "Practice skills you want to improve",
+          "text": "Exploring abstract ideas and future possibilities",
           "score": {
-            "ambitious": 3
-          }
-        },
-        {
-          "text": "Do something silly or embarrassing that you'd never admit",
-          "score": {
-            "playful": 3
-          }
-        },
-        {
-          "text": "Feel free to be completely yourself",
-          "score": {
-            "authentic": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 6,
-      "text": "What fictional character do you relate to secretly?",
+      "text": "When facing a problem, you usually...",
       "options": [
         {
-          "text": "A misunderstood anti-hero with a dark past",
+          "text": "Take charge and act quickly",
           "score": {
-            "rebel": 3
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "A genius who sees the world differently",
+          "text": "Step back and think through options carefully",
           "score": {
-            "visionary": 3
-          }
-        },
-        {
-          "text": "A loyal protector with hidden strength",
-          "score": {
-            "guardian": 3
-          }
-        },
-        {
-          "text": "A wanderer seeking adventure and truth",
-          "score": {
-            "free_spirit": 3
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 7,
-      "text": "What's something you've never told anyone but think about often?",
+      "text": "In a relationship, what matters most to you?",
       "options": [
         {
-          "text": "A mistake you wish you could undo",
+          "text": "Deep emotional connection and understanding",
           "score": {
-            "vulnerable": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "A secret dream or ambition",
+          "text": "Shared goals and logical compatibility",
           "score": {
-            "dreamer": 3
-          }
-        },
-        {
-          "text": "Something you're scared to admit you want",
-          "score": {
-            "ambitious": 3
-          }
-        },
-        {
-          "text": "How different your life could have been",
-          "score": {
-            "curious": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 8,
-      "text": "If you could have one supernatural power, it would be...",
+      "text": "How do you handle conflicts in relationships?",
       "options": [
         {
-          "text": "Reading minds to truly understand people",
+          "text": "Address it head-on and discuss openly",
           "score": {
-            "observer": 3
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "Time manipulation to control your life",
+          "text": "Need time alone to process before discussing",
           "score": {
-            "strategist": 3
-          }
-        },
-        {
-          "text": "Invisibility to observe freely",
-          "score": {
-            "free_spirit": 3
-          }
-        },
-        {
-          "text": "Healing to help those you love",
-          "score": {
-            "guardian": 3
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 9,
-      "text": "What do you do when you're stressed in secret?",
+      "text": "What attracts you more in a potential partner?",
       "options": [
         {
-          "text": "Write in a journal or compose thoughts",
+          "text": "Their practicality and reliability",
           "score": {
-            "dreamer": 3
+            "E": 0,
+            "I": 0,
+            "S": 1,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "Make lists and create action plans",
+          "text": "Their creativity and unconventional thinking",
           "score": {
-            "strategist": 3
-          }
-        },
-        {
-          "text": "Eat comfort food or shop impulsively",
-          "score": {
-            "escapist": 3
-          }
-        },
-        {
-          "text": "Exercise vigorously to release energy",
-          "score": {
-            "ambitious": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 10,
-      "text": "What's your guilty pleasure that you'd never admit publicly?",
+      "text": "When making important life decisions, you...",
       "options": [
         {
-          "text": "Watching cheesy romantic movies alone",
+          "text": "Follow a structured plan with clear steps",
           "score": {
-            "romantic": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
           }
         },
         {
-          "text": "Playing video games for hours",
+          "text": "Go with the flow and adapt as things change",
           "score": {
-            "playful": 3
-          }
-        },
-        {
-          "text": "Reading fanfiction or romance novels",
-          "score": {
-            "dreamer": 3
-          }
-        },
-        {
-          "text": "Obsessively researching random topics",
-          "score": {
-            "curious": 3
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
           }
         }
       ]
     },
     {
       "qId": 11,
-      "text": "If your life was a movie, what genre would it secretly be?",
+      "text": "What kind of partner do you need to balance your energy?",
       "options": [
         {
-          "text": "A psychological thriller with plot twists",
+          "text": "Someone calm and grounding who balances my enthusiasm",
           "score": {
-            "mysterious": 3
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "An epic adventure with a hero's journey",
+          "text": "Someone energetic who matches my vibe",
           "score": {
-            "hero": 3
-          }
-        },
-        {
-          "text": "A coming-of-age drama with emotional depth",
-          "score": {
-            "vulnerable": 3
-          }
-        },
-        {
-          "text": "A complex political drama with intrigue",
-          "score": {
-            "strategist": 3
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     },
     {
       "qId": 12,
-      "text": "What is your deepest, most secret desire?",
+      "text": "How do you want to spend quality time with your partner?",
       "options": [
         {
-          "text": "To be completely understood by someone",
+          "text": "Going out, socializing, and meeting new people together",
           "score": {
-            "vulnerable": 3
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         },
         {
-          "text": "To achieve something extraordinary",
+          "text": "Quiet moments at home, deep conversations",
           "score": {
-            "ambitious": 3
-          }
-        },
-        {
-          "text": "To escape and start fresh somewhere new",
-          "score": {
-            "free_spirit": 3
-          }
-        },
-        {
-          "text": "To create something that lasts forever",
-          "score": {
-            "artist": 3
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
           }
         }
       ]
     }
   ],
-  "results": {
-    "dreamer": {
-      "title": "The Dreamer",
-      "description": "Beneath your practical exterior lies a world of imagination and deep thoughts. You're someone who dreams big and feels deeply. Your hidden self is romantic, introspective, and always wondering 'what if'. You hide your sensitive nature from the world, but it's the core of who you truly are.",
-      "emoji": "🌙"
+  "results": [
+    {
+      "title": "ENFJ - The Inspiring Leader",
+      "description": "Your soulmate is an ENFJ! They are charismatic, warm, and natural leaders who inspire others with their vision and passion. They love deeply and will encourage you to become the best version of yourself. In a relationship, they are devoted, expressive, and always there to support you emotionally.",
+      "mbti": "ENFJ"
     },
-    "strategist": {
-      "title": "The Strategist",
-      "description": "While others see you as laid-back, your hidden self is always planning and analyzing. You have a brilliant mind that works in the background, constantly optimizing and strategizing. Your controlled exterior hides a mastermind always three steps ahead.",
-      "emoji": "♟️"
+    {
+      "title": "ENFP - The Enthusiastic Adventurer",
+      "description": "Your soulmate is an ENFP! They are curious, energetic, and always seeking new experiences. They'll bring excitement and spontaneity into your life, while also providing deep emotional support. They value authenticity and will love you for who you truly are.",
+      "mbti": "ENFP"
     },
-    "artist": {
-      "title": "The Artist",
-      "description": "You hide a creative soul that yearns for self-expression. Behind your everyday persona lies a person who sees beauty in everything and feels things deeply. Your hidden self wants to create, to express, to make something meaningful that outlasts you.",
-      "emoji": "🎨"
+    {
+      "title": "ENTJ - The Bold Commander",
+      "description": "Your soulmate is an ENTJ! They are confident, strategic, and natural leaders who know what they want in life. They'll challenge you to grow and achieve your goals together. In relationships, they are loyal and protective, always working to build a better future.",
+      "mbti": "ENTJ"
     },
-    "free_spirit": {
-      "title": "The Free Spirit",
-      "description": "Your conformist exterior hides a wild, untamed spirit. You dream of adventure, freedom, and breaking rules. Your hidden self craves spontaneity and refuses to be tied down. The call of the unknown is irresistible to your true self.",
-      "emoji": "🦋"
+    {
+      "title": "ENTP - The Debater",
+      "description": "Your soulmate is an ENTP! They are clever, curious, and love intellectual debates. They'll keep you on your toes with their wit and ideas. They value independence and will give you space while still being deeply connected emotionally.",
+      "mbti": "ENTP"
     },
-    "guardian": {
-      "title": "The Guardian",
-      "description": "While you appear independent, your hidden self is deeply protective of those you love. You'd do anything for the people you care about. Your quiet exterior hides immense strength and loyalty. Your true self thrives on keeping others safe.",
-      "emoji": "🛡️"
+    {
+      "title": "ESFJ - The Consul",
+      "description": "Your soulmate is an ESFJ! They are warm, considerate, and always put others' needs before their own. They'll make you feel cherished and cared for with their thoughtful gestures. In relationships, they are loyal and committed partners who value harmony.",
+      "mbti": "ESFJ"
     },
-    "vulnerable": {
-      "title": "The Vulnerable Soul",
-      "description": "Behind your strong, resilient exterior lies a tender heart that fears getting hurt. You've built walls to protect yourself, but your hidden self desperately wants to be seen and accepted as you truly are. Your vulnerability is your greatest strength.",
-      "emoji": "💝"
+    {
+      "title": "ESFP - The Entertainer",
+      "description": "Your soulmate is an ESFP! They are energetic, fun-loving, and live in the moment. They'll bring joy and spontaneity into your life, making every day feel like an adventure. They are affectionate and love to shower their partners with love and attention.",
+      "mbti": "ESFP"
     },
-    "rebel": {
-      "title": "The Rebel",
-      "description": "Your conventional appearance hides a revolutionary spirit. Your hidden self questions everything and refuses to blindly follow. You have powerful opinions you keep to yourself, and a burning desire to challenge the status quo.",
-      "emoji": "🔥"
+    {
+      "title": "ESTJ - The Executive",
+      "description": "Your soulmate is an ESTJ! They are organized, responsible, and reliable partners you can count on. They'll provide stability and structure in your relationship while also being fiercely loyal. They believe in traditional values and committed partnerships.",
+      "mbti": "ESTJ"
     },
-    "observer": {
-      "title": "The Observer",
-      "description": "While you participate in life, your hidden self prefers to watch and learn. You notice everything others miss and understand people deeply. Your quiet exterior hides a brilliant analyst who sees through facades.",
-      "emoji": "👁️"
+    {
+      "title": "ESTP - The Entrepreneur",
+      "description": "Your soulmate is an ESTP! They are bold, practical, and love action. They'll encourage you to step out of your comfort zone and try new things. They are spontaneous and bring exciting energy to relationships, always keeping things fresh.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "INFJ - The Advocate",
+      "description": "Your soulmate is an INFJ! They are insightful, compassionate, and deeply intuitive. They understand you on a level others can't and will always support your dreams. In relationships, they are devoted partners who seek deep, meaningful connections.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "INFP - The Mediator",
+      "description": "Your soulmate is an INFP! They are gentle, idealistic, and deeply emotional. They'll love you with pure, unconditional acceptance and support your authentic self. They value harmony and will always try to understand your point of view.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "INTJ - The Architect",
+      "description": "Your soulmate is an INTJ! They are strategic, intelligent, and have a clear vision for the future. They'll challenge you intellectually and support your goals. In relationships, they are loyal and committed, though they may express love through actions more than words.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "INTP - The Logician",
+      "description": "Your soulmate is an INTP! They are curious, analytical, and love exploring ideas. They'll engage you in deep conversations and respect your intellectual independence. They may seem reserved but are deeply loyal to those they love.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "ISFJ - The Defender",
+      "description": "Your soulmate is an ISFJ! They are warm, reliable, and always there when you need them. They'll remember the little things that matter to you and show their love through acts of service. In relationships, they are devoted and sacrificial partners.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "ISFP - The Adventurer",
+      "description": "Your soulmate is an ISFP! They are gentle, artistic, and live life on their own terms. They'll bring beauty and creativity into your relationship and support you in pursuing your passions. They are affectionate and live in the moment.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "ISTJ - The Logistician",
+      "description": "Your soulmate is an ISTJ! They are responsible, dependable, and value tradition. They'll provide stability and loyalty in your relationship. They show love through consistency and reliability, always keeping their promises.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "ISTP - The Virtuoso",
+      "description": "Your soulmate is an ISTP! They are practical, hands-on, and love adventure. They'll teach you new things and be there for you when you need action, not words. They give their partners freedom while remaining committed.",
+      "mbti": "ISTP"
     }
-  }
+  ]
 }
