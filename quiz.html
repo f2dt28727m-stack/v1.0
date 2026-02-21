@@ -505,7 +505,7 @@ try {
     const data = await resp.json();
     const quizzes = data.quizzes || data;
     const randomQuiz = quizzes[Math.floor(Math.random() * quizzes.length)];
-    window.location.href = 'quiz-detail.html?id=' + randomQuiz.id;
+    window.location.href = 'quiz-detail.html?id=' + randomQuiz.quiz_id;
 } catch(e) {
     // Fallback to index page
     window.location.href = 'index.html';
