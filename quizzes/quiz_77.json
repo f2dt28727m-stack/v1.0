@@ -1,0 +1,197 @@
+{
+  "quizId": 77,
+  "title": "This or That: Your Ideal Lifestyle",
+  "category": "pick_one",
+  "category_name": "Pick One / Choose",
+  "language": "English",
+  "description": "Choose between two scenarios and discover what your ideal lifestyle truly looks like!",
+  "tags": [
+    "Lifestyle",
+    "Choice",
+    "Personality",
+    "This or That",
+    "趣味"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Pick your ideal morning:",
+      "options": [
+        {
+          "text": "Early bird - watching sunrise with coffee",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Night owl - sleeping in and working late",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Choose your dream home:",
+      "options": [
+        {
+          "text": "Cozy cottage in the countryside",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Modern apartment in the city",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Pick your perfect vacation:",
+      "options": [
+        {
+          "text": "Adventure - hiking and exploring",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Relaxation - lying on the beach",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Choose your favorite way to travel:",
+      "options": [
+        {
+          "text": "Planned and organized itinerary",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Spontaneous and flexible plans",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Pick your ideal weekend activity:",
+      "options": [
+        {
+          "text": "Socializing with a big group of friends",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Quiet time alone or with one close friend",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Choose your dream job quality:",
+      "options": [
+        {
+          "text": "High stress, high reward",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Low stress, steady pace",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Pick your favorite season:",
+      "options": [
+        {
+          "text": "Spring - new beginnings",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Autumn - cozy vibes",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Choose your ideal dinner:",
+      "options": [
+        {
+          "text": "Cooking a fancy meal at home",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Trying a new restaurant",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Pick your communication style:",
+      "options": [
+        {
+          "text": "Direct and straightforward",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Gentle and diplomatic",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Choose your ideal life philosophy:",
+      "options": [
+        {
+          "text": "Work hard, play hard",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Work to live, not live to work",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Pick your dream pet:",
+      "options": [
+        {
+          "text": "Energetic dog",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Independent cat",
+          "score": { "B": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Choose your ideal learning style:",
+      "options": [
+        {
+          "text": "Hands-on and practical",
+          "score": { "A": 1 }
+        },
+        {
+          "text": "Reading and theoretical",
+          "score": { "B": 1 }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "title": "The Adventurous Achiever",
+      "description": "You thrive on energy, action, and new experiences. Your ideal lifestyle is one of continuous growth and excitement. You're an early bird who loves planning, social connections, and isn't afraid of a challenge. Your perfect day involves meaningful work followed by quality time with friends.",
+      "image": "adventurous_achiever"
+    },
+    "B": {
+      "title": "The Peaceful Harmonizer",
+      "description": "You value peace, comfort, and authenticity. Your ideal lifestyle centers around balance and personal well-being. You're a night owl who appreciates spontaneity, intimate connections, and relaxation. Your perfect day involves flexible plans and cozy moments of reflection.",
+      "image": "peaceful_harmonizer"
+    }
+  }
+}
