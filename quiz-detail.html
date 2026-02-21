@@ -328,28 +328,31 @@ function renderQuizDetail() {
     const tags = quizData.tags || ['Disney', 'Princess', 'Personality', 'MBTI'];
     const emojis = getQuizEmojis(quizData.title);
     
-    // Generate consistent stats based on quiz ID
+    // Generate consistent stats based on quiz ID - ADD MORE RANDOMNESS
     const quizId = getQuizId() || '1';
     const hash = quizId.split('').reduce((a, b) => ((a << 5) - a + b.charCodeAt(0)) | 0, 0);
     const absHash = Math.abs(hash);
     
-    // Different ranges for different quiz types
-    const isTrending = quizData.tags?.some(t => ['trending', 'new', '2024', '2025', 'viral'].some(x => t.toLowerCase().includes(x)));
-    const isPopular = quizData.tags?.some(t => ['disney', 'harry potter', 'marvel', 'mbti', 'Taylor Swift'].some(x => t.toLowerCase().includes(x)));
+    // Use MORE characters from quiz ID for extra variance
+    const extraVar = (quizId.charCodeAt(0) * 7 + quizId.charCodeAt(1) * 13 + quizId.charCodeAt(quizId.length-1) * 17) % 100000;
+    
+    // Same detection as index.html
+    const isTrending = tags.some(t => ['trending', 'new', '2024', '2025', 'viral', 'gummy', 'aura', 'poetcore', 'vamp'].some(x => t.toLowerCase().includes(x)));
+    const isPopular = tags.some(t => ['disney', 'harry potter', 'marvel', 'mbti', 'taylor swift', 'blackpink', 'my little pony'].some(x => t.toLowerCase().includes(x)));
     
     let likes, tests, shares;
     if (isTrending) {
-        likes = 50000 + (absHash % 150000);  // 50K - 200K
-        tests = 1000000 + (absHash % 2000000); // 1M - 3M
-        shares = 10000 + (absHash % 90000);    // 10K - 100K
+        likes = 50000 + (absHash % 150000) + extraVar;  // 50K - 200K + extra
+        tests = 1000000 + (absHash % 2000000) + (extraVar * 10); // 1M - 3M + extra
+        shares = 10000 + (absHash % 90000) + (extraVar * 2);    // 10K - 100K + extra
     } else if (isPopular) {
-        likes = 10000 + (absHash % 40000);    // 10K - 50K
-        tests = 500000 + (absHash % 1000000); // 500K - 1.5M
-        shares = 5000 + (absHash % 45000);    // 5K - 50K
+        likes = 10000 + (absHash % 40000) + (extraVar / 2);    // 10K - 50K + extra
+        tests = 500000 + (absHash % 1000000) + (extraVar * 5); // 500K - 1.5M + extra
+        shares = 5000 + (absHash % 45000) + extraVar;          // 5K - 50K + extra
     } else {
-        likes = 1000 + (absHash % 9000);      // 1K - 10K
-        tests = 10000 + (absHash % 90000);   // 10K - 100K
-        shares = 100 + (absHash % 4900);      // 100 - 5K
+        likes = 1000 + (absHash % 9000) + (extraVar / 10);     // 1K - 10K + extra
+        tests = 10000 + (absHash % 90000) + extraVar;           // 10K - 100K + extra
+        shares = 100 + (absHash % 4900) + (extraVar / 20);     // 100 - 5K + extra
     }
     
     const q = {
