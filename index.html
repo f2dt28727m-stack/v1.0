@@ -912,7 +912,7 @@
             <div class="filter-bar">
                 <div class="sort-btn active" data-sort="hot" onclick="setSort('hot')">Hot</div>
                 <div class="sort-btn" data-sort="new" onclick="setSort('new')">New</div>
-                <div class="filter-toggle" onclick="alert('click!');toggleFilter()">Filter</div>
+                <div class="filter-toggle" onclick="toggleFilter()">Filter</div>
             </div>
             <div class="filter-panel" id="filter-panel">
                 <!-- Tags will be dynamically generated here -->
@@ -1227,8 +1227,11 @@
         }
         
         function toggleFilter() {
+            alert('toggle called, open=' + filterPanelOpen);
             filterPanelOpen = !filterPanelOpen;
-            document.getElementById('filter-panel').classList.toggle('show', filterPanelOpen);
+            const panel = document.getElementById('filter-panel');
+            alert('panel=' + panel + ', class=' + panel.className);
+            panel.classList.toggle('show', filterPanelOpen);
             document.querySelector('.filter-toggle').classList.toggle('active', filterPanelOpen);
         }
         
