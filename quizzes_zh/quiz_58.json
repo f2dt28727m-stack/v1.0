@@ -1,0 +1,158 @@
+{
+  "quiz_id": "quiz_58",
+  "title": "你有多直觉型？",
+  "category": "how_adjective",
+  "tags": ["性格测试", "直觉", "超能力", "第六感", "自我探索"],
+  "description": "探索你的直觉有多强！回答这12个问题，找出你的直觉能力等级。",
+  "result_title": "你的直觉等级是...",
+  "result_description": "根据你的答案，以下是你的直觉水平揭示的关于你的一切：",
+  "questions": [
+    {
+      "question_id": "q1",
+      "question": "当你第一次见到某人时，你最先注意到什么？",
+      "options": [
+        {"option_id": "a", "text": "他们的外貌和举止", "scores": {"intuitive": 1}},
+        {"option_id": "b", "text": "我感受到的微妙能量或气场", "scores": {"intuitive": 3}},
+        {"option_id": "c", "text": "我先观察，再形成印象", "scores": {"intuitive": 2}},
+        {"option_id": "d", "text": "我不太注意什么特别的", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q2",
+      "question": "你曾经有过强烈的直觉，最后证明是对的吗？",
+      "options": [
+        {"option_id": "a", "text": "经常如此 - 我的直觉很少出错", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时候，多数情况下是对的", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "偶尔，不太信任它", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "很少或从来没有", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q3",
+      "question": "当你走进一个房间，你经常在任何人说话之前就感觉到气氛吗？",
+      "options": [
+        {"option_id": "a", "text": "是的，我能立即感受到能量", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时，视情况而定", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "不太会，我需要更多背景信息", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "不会，我会根据看到和听到的来判断", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q4",
+      "question": "你经常在事情发生前做梦梦到吗？",
+      "options": [
+        {"option_id": "a", "text": "是的，相当频繁", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时候，可能几次", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "很少或从来没有", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "我不记得我的梦", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q5",
+      "question": "当你做重要决定时，你通常如何决定？",
+      "options": [
+        {"option_id": "a", "text": "我相信我的直觉，即使它没有逻辑意义", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "我权衡逻辑和直觉", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "我主要依赖逻辑和事实", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "我在做决定前仔细分析一切", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q6",
+      "question": "你能看出有人在骗你吗？",
+      "options": [
+        {"option_id": "a", "text": "是的，我通常能立即感觉到", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时候，但不是总是", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "很少，我通常后来才发现", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "不，我很信任别人", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q7",
+      "question": "你是否曾经对从未去过的地方有强烈的熟悉感？",
+      "options": [
+        {"option_id": "a", "text": "是的，一到那里就有这种感觉", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时候，某些地方感觉特别", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "不太会", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "没有，所有地方对我来说都是新的", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q8",
+      "question": "当你的电话响时，你经常在接听前知道是谁打来的吗？",
+      "options": [
+        {"option_id": "a", "text": "是的，一直都是！", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时候", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "很少", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "从来没有", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q9",
+      "question": "你多久会对未来有强烈的预感应验？",
+      "options": [
+        {"option_id": "a", "text": "频繁 - 它发生的次数超出你的想象", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "偶尔，可能偶尔一次", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "几乎没有", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "从来没有", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q10",
+      "question": "你是否经常不用说就能知道别人在想什么？",
+      "options": [
+        {"option_id": "a", "text": "是的，我经常能感受到他们的想法", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "有时候，特别是和我熟悉的人", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "很少", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "不会，我需要他们告诉我", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q11",
+      "question": "当你对某人感觉不好时，你会怎么做？",
+      "options": [
+        {"option_id": "a", "text": "我相信我的直觉，保持距离", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "我保持谨慎但给他们机会", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "我忽略它，给他们疑罪从无", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "我没有这种感觉", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q12",
+      "question": "你会如何描述你的内心声音？",
+      "options": [
+        {"option_id": "a", "text": "非常强烈清晰 - 它经常指引我", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "存在但有时不清晰", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "安静，我不常听到它", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "我没有那样的内心声音", "scores": {"intuitive": 0}}
+      ]
+    }
+  ],
+  "results": {
+    "highly_intuitive": {
+      "title": "高度直觉型（超能力级别）",
+      "description": "你极具直觉！你的直觉很少出错，你经常能在事情发生前就感知到一切。你能捕捉到微妙的能量，有强烈的预知能力。你身边的人可能觉得你具有超能力或第六感。相信你的直觉——它们是强大的天赋，可以指引你度过生活中的挑战。",
+      "emoji": "🔮"
+    },
+    "very_intuitive": {
+      "title": "非常直觉型",
+      "description": "你有很强的直觉能力。你通常能感知人们的真实意图，直觉也不错。虽然你可能不是严格意义上的超能力者，但你的直觉是宝贵的向导。多相信你的感觉可以让你在生活中做出更好的决定。",
+      "emoji": "✨"
+    },
+    "moderately_intuitive": {
+      "title": "中等直觉型",
+      "description": "你有中等程度的直觉。有时候你的直觉是对的，有时候不是。你在逻辑和直觉之间平衡，做决定前通常需要一些证据。你的直觉存在，但可以通过练习和正念进一步发展。",
+      "emoji": "🧭"
+    },
+    "slightly_intuitive": {
+      "title": "轻度直觉型",
+      "description": "你更依赖逻辑和实际思维而不是直觉。虽然你可能没有很强的超能力，但你以理性分析来弥补。你的决定经过深思熟虑，虽然你可能偶尔受益于倾听内心的声音。",
+      "emoji": "🧊"
+    },
+    "not_intuitive": {
+      "title": "逻辑导向型",
+      "description": "你是强烈的逻辑导向型，依赖事实和证据而不是直觉。你的决策是分析性和实践性的。虽然直觉不是你的强项，但你的理性方法是有价值的。你可能会发现探索正念练习来发展直觉很有趣。",
+      "emoji": "🧮"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "quiz_id": "quiz_66",
+  "title": "How Intuitive Are You?",
+  "category": "how_adjective",
+  "tags": ["Personality", "Intuition", "Psychic", "Gut Feeling", "Self Discovery"],
+  "description": "Discover how intuitive you really are! Answer these 12 questions to find out your intuitive ability level.",
+  "result_title": "Your Intuition Level Is...",
+  "result_description": "Based on your answers, here's what your intuition level reveals about you:",
+  "questions": [
+    {
+      "question_id": "q1",
+      "question": "When you meet someone for the first time, what do you notice first?",
+      "options": [
+        {"option_id": "a", "text": "Their physical appearance and demeanor", "scores": {"intuitive": 1}},
+        {"option_id": "b", "text": "A subtle energy or vibe I get from them", "scores": {"intuitive": 3}},
+        {"option_id": "c", "text": "I observe quietly before forming an impression", "scores": {"intuitive": 2}},
+        {"option_id": "d", "text": "I don't really notice anything specific", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q2",
+      "question": "Have you ever had a strong gut feeling about something that turned out to be true?",
+      "options": [
+        {"option_id": "a", "text": "All the time - my gut is rarely wrong", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes, more often than not", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Occasionally, but I don't trust it much", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "Rarely or never", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q3",
+      "question": "When you walk into a room, you often sense the mood before anyone speaks?",
+      "options": [
+        {"option_id": "a", "text": "Yes, I can feel the energy immediately", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes, it varies", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Not really, I need more context", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "No, I judge based on what I see and hear", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q4",
+      "question": "Do you often dream about things before they happen?",
+      "options": [
+        {"option_id": "a", "text": "Yes, quite frequently", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes, maybe a few times", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Rarely or never", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "I don't remember my dreams", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q5",
+      "question": "When making an important decision, how do you usually decide?",
+      "options": [
+        {"option_id": "a", "text": "I go with my gut feeling, even if it doesn't make logical sense", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "I weigh both logic and my gut instinct", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "I mostly rely on logic and facts", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "I analyze everything carefully before deciding", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q6",
+      "question": "Can you tell when someone is lying to you?",
+      "options": [
+        {"option_id": "a", "text": "Yes, I can usually sense it immediately", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes, but not always", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Rarely, I usually find out later", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "No, I'm pretty trusting", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q7",
+      "question": "Have you ever felt a strong connection to a place you've never been before?",
+      "options": [
+        {"option_id": "a", "text": "Yes, immediately upon arriving", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes, certain places feel special", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Not really", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "No, all places feel new to me", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q8",
+      "question": "When your phone rings, do you often know who it is before answering?",
+      "options": [
+        {"option_id": "a", "text": "Yes, all the time!", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Rarely", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "Never", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q9",
+      "question": "How often do you have strong premonitions about the future?",
+      "options": [
+        {"option_id": "a", "text": "Frequently - it happens more than you'd think", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Occasionally, maybe once in a while", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Almost never", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "Never", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q10",
+      "question": "Do you often pick up on what others are thinking without them saying anything?",
+      "options": [
+        {"option_id": "a", "text": "Yes, I can often sense their thoughts", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Sometimes, especially with people I know well", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Rarely", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "No, I need them to tell me", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q11",
+      "question": "When you have a bad feeling about someone, what do you do?",
+      "options": [
+        {"option_id": "a", "text": "I trust my instincts and keep my distance", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "I stay cautious but give them a chance", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "I ignore it and give them the benefit of the doubt", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "I don't have these feelings", "scores": {"intuitive": 0}}
+      ]
+    },
+    {
+      "question_id": "q12",
+      "question": "How would you describe your inner voice?",
+      "options": [
+        {"option_id": "a", "text": "Very strong and clear - it guides me often", "scores": {"intuitive": 3}},
+        {"option_id": "b", "text": "Present but sometimes unclear", "scores": {"intuitive": 2}},
+        {"option_id": "c", "text": "Quiet, I don't hear it much", "scores": {"intuitive": 1}},
+        {"option_id": "d", "text": "I don't have an inner voice like that", "scores": {"intuitive": 0}}
+      ]
+    }
+  ],
+  "results": {
+    "highly_intuitive": {
+      "title": "Highly Intuitive (Psychic Level)",
+      "description": "You are extremely intuitive! Your gut feelings are rarely wrong, and you often sense things before they happen. You pick up on subtle energies and have strong premonitions. People around you probably think you're psychic or have a 'sixth sense.' Trust your instincts - they're powerful gifts that can guide you through life's challenges.",
+      "emoji": "🔮"
+    },
+    "very_intuitive": {
+      "title": "Very Intuitive",
+      "description": "You have strong intuitive abilities. You're often able to sense people's true intentions and have good gut instincts. While you may not be psychic per se, your intuition is a valuable guide. Trusting your feelings more often could lead to better decisions in life.",
+      "emoji": "✨"
+    },
+    "moderately_intuitive": {
+      "title": "Moderately Intuitive",
+      "description": "You have average intuitive abilities. Sometimes your gut feelings are right, sometimes not. You balance logic with intuition and often need some evidence before making decisions. Your intuition is there but could be developed further with practice and mindfulness.",
+      "emoji": "🧭"
+    },
+    "slightly_intuitive": {
+      "title": "Slightly Intuitive",
+      "description": "You rely more on logic and practical thinking than gut feelings. While you may not have strong psychic abilities, you make up for it with rational analysis. Your decisions are well-thought-out, though you might benefit from occasionally tuning into your inner voice.",
+      "emoji": "🧊"
+    },
+    "not_intuitive": {
+      "title": "Logic-Focused",
+      "description": "You are strongly logic-focused and rely on facts and evidence rather than gut feelings. Your decision-making is analytical and practical. While intuition isn't your strong suit, your rational approach is valuable. You might find it interesting to explore mindfulness practices to develop your intuitive side.",
+      "emoji": "🧮"
+    }
+  }
+}
