@@ -1,0 +1,718 @@
+{
+  "quizId": 73,
+  "title": "Your Perfect Sunday Morning in 10 Years",
+  "title_zh": "10年后你的完美周日早晨",
+  "category": "future_destiny",
+  "category_name": "Future / Destiny",
+  "language": "English",
+  "description": "Imagine it's 10 years from now. What does your ideal Sunday morning look like? Discover what your future lifestyle reveals about your true self!",
+  "description_zh": "想象一下10年后的今天。你理想中的周日早晨是什么样的？看看你的未来生活方式揭示了真实的你什么！",
+  "tags": [
+    "Future",
+    "Lifestyle",
+    "Sunday",
+    "Vision",
+    "梦想",
+    "生活"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "It's Sunday morning in 10 years. What's the first thing you do when you wake up?",
+      "text_zh": "10年后某个周日早晨。醒来后你做的第一件事是什么？",
+      "options": [
+        {
+          "text": "Check my phone for any urgent messages from my team",
+          "text_zh": "查看手机是否有团队的紧急消息",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Snuggle in bed with my partner, enjoying lazy cuddles",
+          "text_zh": "和伴侣在床上依偎，享受慵懒的拥抱",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Jump out of bed, excited for today's outdoor adventure",
+          "text_zh": "跳下床，对今天的户外冒险感到兴奋",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Lay in bed, appreciating the peaceful silence",
+          "text_zh": "躺在床上，享受宁静的沉默",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your morning beverage of choice?",
+      "text_zh": "你早晨喜欢喝什么？",
+      "options": [
+        {
+          "text": "Strong espresso - I need the energy to tackle my goals",
+          "text_zh": "浓烈浓缩咖啡 - 我需要精力去实现目标",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Hot chocolate or warm milk with family",
+          "text_zh": "热巧克力或温牛奶，和家人一起",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Green smoothie - fuel for my morning run",
+          "text_zh": "绿色冰沙 - 为晨跑补充能量",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Herbal tea while reading a book",
+          "text_zh": "花草茶配上一本书",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Where are you spending this Sunday morning?",
+      "text_zh": "你会在哪里度过这个周日早晨？",
+      "options": [
+        {
+          "text": "My home office, working on my passion project",
+          "text_zh": "我的家庭办公室，处理我的 passion project",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "In the kitchen, cooking a big breakfast for the family",
+          "text_zh": "在厨房里，为家人做一顿丰盛的早餐",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "At the airport, heading to a new destination",
+          "text_zh": "在机场，前往一个新的目的地",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "In my garden, tending to my plants",
+          "text_zh": "在我的花园里，照顾我的植物",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Who is with you on this perfect Sunday morning?",
+      "text_zh": "在这个完美的周日早晨，谁和你在一起？",
+      "options": [
+        {
+          "text": "My business partners - we're having a brainstorming session",
+          "text_zh": "我的商业伙伴 - 我们在进行头脑风暴",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "My spouse and kids, enjoying quality family time",
+          "text_zh": "我的配偶和孩子，享受美好的家庭时光",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "My adventure crew - we're planning our next expedition",
+          "text_zh": "我的冒险团队 - 我们在计划下一次探险",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Just me - I cherish my solo peaceful time",
+          "text_zh": "只有我 - 我珍惜独自的宁静时光",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "What's playing in the background?",
+      "text_zh": "背景里播放着什么？",
+      "options": [
+        {
+          "text": "Business podcast or industry news",
+          "text_zh": "商业播客或行业新闻",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Kids laughing and playing, family chatter",
+          "text_zh": "孩子们的笑声和玩耍声，家庭聊天",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Upbeat travel music or nature sounds",
+          "text_zh": "充满活力的旅行音乐或自然声音",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Soft classical music or ambient sounds",
+          "text_zh": "轻柔的古典音乐或环境音",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "What's your Sunday morning outfit?",
+      "text_zh": "你的周日早晨穿什么？",
+      "options": [
+        {
+          "text": "Smart casual - I might run into important contacts",
+          "text_zh": "精致休闲 - 我可能会遇到重要联系人",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Comfy matching family pajamas",
+          "text_zh": "舒适的家庭装睡衣",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Athletic wear - ready for any physical activity",
+          "text_zh": "运动装 - 准备任何体力活动",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Cozy robe and slippers",
+          "text_zh": "舒适的浴袍和拖鞋",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What are you most looking forward to this Sunday?",
+      "text_zh": "这个周日你最期待什么？",
+      "options": [
+        {
+          "text": "Closing a deal or making progress on my business",
+          "text_zh": "完成一笔交易或在事业上取得进展",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Family brunch and board game afternoon",
+          "text_zh": "家庭早午餐和下午桌游时光",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Spontaneous day trip to somewhere new",
+          "text_zh": " spontanous 当天往返，去一个新地方",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Nothing specific - just enjoying the slow pace",
+          "text_zh": "没什么特别的 - 只是享受慢节奏",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How do you feel about the week ahead?",
+      "text_zh": "你对接下来的一周感觉如何？",
+      "options": [
+        {
+          "text": "Excited - I have big meetings and projects lined up",
+          "text_zh": "兴奋 - 我有大会议和项目排满了",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Content - My family needs me this week",
+          "text_zh": "满足 - 这周家人需要我",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Thrilled - I booked a weekend getaway",
+          "text_zh": "激动 - 我已经预订了周末小旅行",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Peaceful - Another calm, predictable week",
+          "text_zh": "平静 - 又是一个平静、可预测的一周",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "What's on your Sunday afternoon agenda?",
+      "text_zh": "你的周日午后计划是什么？",
+      "options": [
+        {
+          "text": "Networking event or professional development",
+          "text_zh": "社交活动或职业发展",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Taking the kids to their activities",
+          "text_zh": "送孩子们去活动",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Hiking, cycling, or some outdoor activity",
+          "text_zh": "徒步、骑行或一些户外活动",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Reading, meditating, or a hobby at home",
+          "text_zh": "阅读、冥想或在家做爱好",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you could describe your ideal life in one word, what would it be?",
+      "text_zh": "如果你用一个词来形容你的理想生活，那是什么？",
+      "options": [
+        {
+          "text": "Successful",
+          "text_zh": "成功",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Full",
+          "text_zh": "充实",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Adventurous",
+          "text_zh": "冒险",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Peaceful",
+          "text_zh": "平静",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "What does your home look like on this Sunday morning?",
+      "text_zh": "在这个周日早晨，你的家是什么样子的？",
+      "options": [
+        {
+          "text": "Modern office space with city views",
+          "text_zh": "带城市景观的现代办公室空间",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "A busy, loving home full of family photos and toys",
+          "text_zh": "一个忙碌、充满爱的家满是家庭照片和玩具",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "A minimalistic base - I'm rarely home anyway",
+          "text_zh": "一个简约的基地 - 反正我很少在家",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "A cozy sanctuary filled with books and plants",
+          "text_zh": "一个舒适的避风港，充满书籍和植物",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "What's your guilty pleasure this Sunday?",
+      "text_zh": "这个周日你的小确幸是什么？",
+      "options": [
+        {
+          "text": "Checking work emails one last time",
+          "text_zh": "最后一次查看工作邮件",
+          "score": {
+            "career": 3,
+            "family": 0,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Watching kids' cartoons with them",
+          "text_zh": "和孩子们一起看动画片",
+          "score": {
+            "career": 0,
+            "family": 3,
+            "adventure": 0,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Planning my next trip on travel apps",
+          "text_zh": "在旅行app上计划下一次旅行",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 3,
+            "peace": 0,
+            "creative": 0
+          }
+        },
+        {
+          "text": "Taking a long bath with a good book",
+          "text_zh": "泡个热水澡，读一本好书",
+          "score": {
+            "career": 0,
+            "family": 0,
+            "adventure": 0,
+            "peace": 3,
+            "creative": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "type": "career",
+      "title": "The Ambitious Achiever",
+      "title_zh": "雄心勃勃的成就者",
+      "description": "In 10 years, your perfect Sunday morning is one where you're making progress on your dreams. You're driven, ambitious, and find meaning in achievement. Your career isn't just work—it's your craft. You wake up thinking about the impact you'll make today. Even on Sundays, your mind is on the prize. You've built something meaningful, and you're proud of it. Your ideal Sunday includes checking in on your empire, because your business is your baby.",
+      "description_zh": "10年后，你理想的周日早晨是你正在为梦想取得进展的时候。你有动力、有雄心，在成就中找到意义。你的事业不仅仅是工作——它是你的手艺。你醒来想到的是今天会产生的影响。即使在周日，你的心也放在目标上。你已经建立了有意义的东西，你为此感到自豪。你理想的周日包括查看你的帝国，因为你的事业就是你的孩子。",
+      "traits": [
+        "Driven",
+        "Ambitious",
+        "Goal-oriented",
+        "Determined"
+      ],
+      "traits_zh": [
+        "有动力",
+        "有雄心",
+        "目标导向",
+        "坚定"
+      ],
+      "tip": "Remember to schedule rest—your ambition is a gift, but even achievers need to recharge!",
+      "tip_zh": "记得安排休息——你的雄心是一种礼物，但即使是成就者也需要充电！"
+    },
+    {
+      "type": "family",
+      "title": "The Devoted Family Leader",
+      "title_zh": "专注的家庭领袖",
+      "description": "Your perfect Sunday in 10 years is filled with love and chaos—the beautiful kind. You've built a family that fills your home with laughter and warmth. Your greatest achievement isn't in your career (though that's going well), but in the relationships you've nurtured. You wake up excited to make breakfast for the ones you love. Your Sunday is about presence, connection, and creating memories. You've learned that the richest moments in life are the simple ones spent with family.",
+      "description_zh": "10年后你完美的周日充满了爱和混乱——美好的那种。你建立的家庭让你的家充满笑声和温暖。你最大的成就不是在事业上（虽然也很顺利），而是在你培养的关系中。你醒来后兴奋地为所爱的人做早餐。你的周日是关于陪伴、联系和创造回忆的。你已经明白生命中最好的时光就是与家人在一起的简单时光。",
+      "traits": [
+        "Nurturing",
+        "Loyal",
+        "Present",
+        "Compassionate"
+      ],
+      "traits_zh": [
+        "培养型",
+        "忠诚",
+        "专注当下",
+        "富有同情心"
+      ],
+      "tip": "Your family is your foundation—continue showing up for them while also honoring your own needs!",
+      "tip_zh": "你的家庭是你的基础——继续为他们付出，同时也要尊重自己的需求！"
+    },
+    {
+      "type": "adventure",
+      "title": "The Eternal Explorer",
+      "title_zh": "永恒的探险家",
+      "description": "In 10 years, you're still chasing horizons. Your perfect Sunday morning involves planning your next adventure or recovering from the last one. You've never been the sit-still type, and you don't plan to start now. The world is too big, too full of wonders to explore. You've built a life that's flexible, spontaneous, and exciting. You wake up with anticipation for the unknown. Your home might be anywhere, or everywhere. You're not just living life—you're having an epic adventure.",
+      "description_zh": "10年后，你仍在追逐地平线。你完美的周日早晨包括计划下一次冒险或从上一次恢复。你从来不是那种坐得住的人，现在也不打算开始。世界太大，充满了值得探索的奇迹。你已经建立了灵活、自发、令人兴奋的生活。你醒来后对未知充满期待。你的家可能在任何地方，或者无处不在。你不只是在生活——你正在进行一场史诗般的冒险。",
+      "traits": [
+        "Bold",
+        "Curious",
+        "Spontaneous",
+        "Free-spirited"
+      ],
+      "traits_zh": [
+        "大胆",
+        "好奇",
+        " spontanous",
+        "自由奔放"
+      ],
+      "tip": "Adventure feeds your soul—just make sure you have roots to come home to!",
+      "tip_zh": "冒险滋养你的灵魂——只是要确保你有可以回归的根！"
+    },
+    {
+      "type": "peace",
+      "title": "The Zen Master",
+      "title_zh": "禅修大师",
+      "description": "In 10 years, you've found what many spend lifetimes searching for: inner peace. Your perfect Sunday morning is slow, intentional, and perfectly calibrated to your rhythm. You've learned that success doesn't have to mean chaos, and ambition doesn't require burnout. You wake up grateful, take your time, and savor every moment. Your home is your sanctuary. You've mastered the art of doing less but enjoying more. People look to you for calm in the storm.",
+      "description_zh": "10年后，你找到了许多人一生都在寻找的东西：内心平静。你完美的周日早晨是缓慢的、有意的、完全符合你的节奏的。你已经明白成功不一定意味着混乱，雄心也不需要倦怠。你醒来后心怀感激，慢慢来，品味每一刻。你的家是你的避风港。你已经掌握了少做多享的艺术。人们在风暴中向你寻求平静。",
+      "traits": [
+        "Calm",
+        "Grateful",
+        "Mindful",
+        "Balanced"
+      ],
+      "traits_zh": [
+        "平静",
+        "感恩",
+        "正念",
+        "平衡"
+      ],
+      "tip": "Your peace is your power—continue protecting your peace while inspiring others to find theirs!",
+      "tip_zh": "你的平静就是你的力量——继续保护你的平静，同时启发他人找到他们的平静！"
+    }
+  ]
+}
