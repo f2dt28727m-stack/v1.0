@@ -1,0 +1,805 @@
+{
+  "quizId": 76,
+  "title": "What Is Your Enneagram Wing Type?",
+  "category": "type",
+  "category_name": "What's Your Type?",
+  "language": "English",
+  "description": "Answer 12 insightful questions to discover your Enneagram wing type—the subtle influence that shapes your personality!",
+  "tags": [
+    "Enneagram",
+    "Personality",
+    "Wing Type",
+    "Psychology",
+    "MBTI"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When you make a decision, you usually...",
+      "options": [
+        {
+          "text": "Follow your internal values and principles",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Consider how it affects the people you care about",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Think about the outcome and what you can achieve",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Go with what feels right in the moment",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When someone needs help, you typically...",
+      "options": [
+        {
+          "text": "Jump in immediately and take charge",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Offer emotional support and listen",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Analyze the problem and find a logical solution",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Wait to see if they ask for help",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your ideal way to spend a weekend is...",
+      "options": [
+        {
+          "text": "Organizing your space and being productive",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Spending quality time with friends or family",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Pursuing a creative project or learning something new",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        },
+        {
+          "text": "Relaxing and doing nothing in particular",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When you're angry, you usually...",
+      "options": [
+        {
+          "text": "Express it openly and assertively",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        },
+        {
+          "text": "Hold it in until you can't anymore",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Withdraw and feel resentful",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Try to understand why you're angry",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your biggest fear is...",
+      "options": [
+        {
+          "text": "Being corrupt or doing something wrong",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Being unloved or unwanted",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Being worthless or unsuccessful",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Being abandoned or without identity",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When facing a crisis, you tend to...",
+      "options": [
+        {
+          "text": "Take charge and lead others through it",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Seek support from loved ones",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 1
+          }
+        },
+        {
+          "text": "Analyze the situation and find a solution",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Try to avoid it or hope it goes away",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What do you value most in yourself?",
+      "options": [
+        {
+          "text": "Your integrity and sense of right and wrong",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Your ability to care for others",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Your competence and achievements",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Your authenticity and depth",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When you're stressed, you usually...",
+      "options": [
+        {
+          "text": "Become more critical and perfectionistic",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Become clingy and seek reassurance",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Work harder to prove your worth",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Withdraw into your own world",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How do others typically see you?",
+      "options": [
+        {
+          "text": "Principled and reliable",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Warm and generous",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Ambitious and driven",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Independent and thoughtful",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When you want something, you usually...",
+      "options": [
+        {
+          "text": "Work hard and persist until you get it",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Connect with people who can help you",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Visualize the end goal and strategize",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 1,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Adapt and go with the flow",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 1
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your relationship with emotions is...",
+      "options": [
+        {
+          "text": "I try to keep them under control",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "I wear my heart on my sleeve",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "I use them as motivation",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "I prefer to observe them from a distance",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When you fail at something, you typically...",
+      "options": [
+        {
+          "text": "Feel guilty and try to do better",
+          "score": {
+            "E": 0,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 0,
+            "J": 1,
+            "P": 0
+          }
+        },
+        {
+          "text": "Feel hurt and seek comfort from others",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Double down and work harder",
+          "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 1,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        },
+        {
+          "text": "Withdraw and question your identity",
+          "score": {
+            "E": 0,
+            "I": 1,
+            "S": 0,
+            "N": 1,
+            "T": 0,
+            "F": 0,
+            "J": 0,
+            "P": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "1w9 - The Idealist",
+      "description": "You are a Type 1 with a 9 wing, making you The Idealist. You have a strong sense of right and wrong, but you're also calm, easygoing, and peacekeeping. You strive for perfection while maintaining an inner serenity. You're the moral compass who wants to improve the world without causing conflict.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "1w2 - The Advocate",
+      "description": "You are a Type 1 with a 2 wing, making you The Advocate. You have a strong moral compass combined with a desire to help others. You're principled and principled, driven to make the world better through both your ideals and your caring nature. You're the supportive reformer who leads with compassion.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "2w1 - The Servant",
+      "description": "You are a Type 2 with a 1 wing, making you The Servant. You're naturally helpful and caring, but you also have a strong sense of right and wrong. You want to help others but also maintain your values. You're the altruistic helper with a principled heart.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "2w3 - The Host",
+      "description": "You are a Type 2 with a 3 wing, making you The Host. You're warm, caring, and ambitious. You want to help others while also achieving success. You're the accomplished helper who knows how to get things done and make people feel valued.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "3w2 - The Charmer",
+      "description": "You are a Type 3 with a 2 wing, making you The Charmer. You're ambitious and image-conscious, but also genuinely caring and interpersonal. You want to succeed while building meaningful connections. You're the charismatic achiever who wins people over.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "3w4 - The Professional",
+      "description": "You are a Type 3 with a 4 wing, making you The Professional. You're ambitious and success-driven, but also introspective and creative. You want to stand out while achieving your goals. You're the distinctive achiever who values authenticity in success.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "4w3 - The Aristocrat",
+      "description": "You are a Type 4 with a 3 wing, making you The Aristocrat. You're introspective, emotional, and image-conscious. You want to be unique while also achieving recognition. You're the dramatic creative who knows how to present their vision.",
+      "mbti": "INFp"
+    },
+    {
+      "title": "4w5 - The Bohemian",
+      "description": "You are a Type 4 with a 5 wing, making you The Bohemian. You're introspective, emotional, and analytical. You want to understand the deeper truth while expressing your individuality. You're the depth-seeking creative who values knowledge and authenticity.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "5w4 - The Iconoclast",
+      "description": "You are a Type 5 with a 4 wing, making you The Iconoclast. You're analytical and introspective, with a touch of emotional depth. You want to understand the world while maintaining your unique identity. You're the eccentric thinker who bridges logic and emotion.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "5w6 - The Problem Solver",
+      "description": "You are a Type 5 with a 6 wing, making you The Problem Solver. You're analytical and logical, but also loyal and security-conscious. You want to understand the world while staying prepared. You're the reliable analyst who values competence and security.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "6w5 - The Guardian",
+      "description": "You are a Type 6 with a 5 wing, making you The Guardian. You're loyal and security-oriented, but also analytical and knowledge-seeking. You want to be prepared while understanding the underlying systems. You're the vigilant thinker who trusts competence.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "6w7 - The Buddy",
+      "description": "You are a Type 6 with a 7 wing, making you The Buddy. You're loyal and security-oriented, but also spontaneous and optimistic. You want to be prepared while enjoying life's adventures. You're the fun-loving loyalist who balances caution with joy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "7w6 - The Entertainer",
+      "description": "You are a Type 7 with a 6 wing, making you The Entertainer. You're spontaneous and optimistic, but also loyal and group-oriented. You want to have fun while having a safety net. You're the engaging adventurer who values connections.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "7w8 - The Realist",
+      "description": "You are a Type 7 with an 8 wing, making you The Realist. You're spontaneous and optimistic, but also assertive and decisive. You want to enjoy life while taking charge. You're the bold adventurer who combines fun with action.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "8w7 - The Maverick",
+      "description": "You are a Type 8 with a 7 wing, making you The Maverick. You're assertive and powerful, but also spontaneous and fun-loving. You want to be in control while enjoying life's adventures. You're the adventurous challenger who leads with energy.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "8w9 - The Bear",
+      "description": "You are a Type 8 with a 9 wing, making you The Bear. You're assertive and powerful, but also calm and peacekeeping. You want to be in control while maintaining harmony. You're the balanced challenger who commands respect gently.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "9w1 - The Dreamer",
+      "description": "You are a Type 9 with a 1 wing, making you The Dreamer. You're peaceful and easygoing, but also principled and idealistic. You want harmony while striving for improvement. You're the gentle idealist who wants a better world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "9w8 - The Mediator",
+      "description": "You are a Type 9 with an 8 wing, making you The Mediator. You're peaceful and easygoing, but also assertive and powerful. You want harmony while standing your ground. You're the strong peacemaker who balances calm with strength.",
+      "mbti": "ISFP"
+    }
+  ]
+}
