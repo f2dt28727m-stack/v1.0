@@ -1,0 +1,544 @@
+{
+  "quizId": 78,
+  "title": "Your Ideal Life in 2035: What's Your Destiny Scene?",
+  "category": "future_destiny",
+  "category_name": "Future / Destiny",
+  "language": "English",
+  "description": "Close your eyes and imagine it's 2035. Where are you? Who are you with? What does your life look like? Answer these 12 questions to discover your destiny scene in 2035!",
+  "tags": [
+    "Future",
+    "Destiny",
+    "Ideal Life",
+    "Lifestyle",
+    "Vision",
+    "Dreams"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "It's a typical Tuesday morning in 2035. Where are you waking up?",
+      "options": [
+        {
+          "text": "In a sleek apartment with floor-to-ceiling windows overlooking a city skyline",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "In a warm, inviting home filled with family photos and morning sunlight",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "In a peaceful cabin surrounded by forests or near the ocean",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "In a unique, art-filled space in a creative neighborhood",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your morning routine like in 2035?",
+      "options": [
+        {
+          "text": "Quick espresso, checking global news, heading to important meetings",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Making breakfast for the family, helping kids get ready for school",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Meditation, yoga, and a slow breakfast with fresh ingredients",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Working on your latest creative project, inspired by morning light",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "What does your work life look like in 2035?",
+      "options": [
+        {
+          "text": "Leading innovative projects, networking with global teams",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Balancing a fulfilling career with quality family time",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Running a sustainable business or working remotely from nature",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Pursuing your passion as a full-time creator or artist",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How do you spend your evenings in 2035?",
+      "options": [
+        {
+          "text": "Exploring new restaurants, attending social events, city nightlife",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Dinner with family, helping kids with homework, movie nights",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Stargazing, reading, or practicing mindfulness in nature",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Working on creative projects, brainstorming, artistic expression",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 0,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Who are the people around you in your 2035 life?",
+      "options": [
+        {
+          "text": "A network of ambitious friends, professional mentors, diverse connections",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 1,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "A loving partner, children, close-knit family, lifelong friends",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "A small community of like-minded people seeking simplicity",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "A tribe of fellow creatives, artists, and free spirits",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "What does your perfect weekend look like in 2035?",
+      "options": [
+        {
+          "text": "Attending a tech conference, exploring a new district, networking",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Family picnic, kids' activities, cozy home gatherings",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 3,
+            "nature_retreat": 2,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Hiking, gardening, disconnecting from technology, nature walks",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Visiting galleries, creating art, attending a creative workshop",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 0,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What technology plays a role in your 2035 life?",
+      "options": [
+        {
+          "text": "Cutting-edge AI assistants, smart city tech, wearable devices",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 2,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Smart home systems that make family life easier and safer",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Sustainable tech, solar panels, eco-tracking devices",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Digital art tools, VR creative suites, innovative software",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 0,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How do you travel in your 2035 life?",
+      "options": [
+        {
+          "text": "First-class flights, business trips to global cities",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Road trips with family, vacation homes, nostalgic journeys",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 3,
+            "nature_retreat": 2,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Slow travel, train journeys, eco-friendly expeditions",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Creative retreats, art pilgrimages, inspiration-seeking adventures",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "What's your relationship with money in 2035?",
+      "options": [
+        {
+          "text": "Investor mindset, building wealth, financial freedom",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 2,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Stable foundation, providing for family, financial security",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 3,
+            "nature_retreat": 2,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Minimalist approach, experiences over things, financial simplicity",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Investing in creative projects, passion over profit",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How do you stay healthy in 2035?",
+      "options": [
+        {
+          "text": "High-tech gym, biohacking, performance optimization",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 1,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Family activities, home cooking, balanced lifestyle",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 3,
+            "nature_retreat": 2,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Organic farming, natural wellness, holistic health",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Dance, yoga, creative movement, artistic expression",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 1,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "What gives you meaning in your 2035 life?",
+      "options": [
+        {
+          "text": "Making an impact, building something groundbreaking",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Raising a family, nurturing relationships, legacy",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 3,
+            "nature_retreat": 1,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Living in harmony with nature, sustainability, peace",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Creating art, inspiring others, self-expression",
+          "score": {
+            "urban_adventurer": 1,
+            "cozy_family": 0,
+            "nature_retreat": 1,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you could describe your 2035 life in one word, what would it be?",
+      "options": [
+        {
+          "text": "Electric - fast-paced, exciting, ambitious",
+          "score": {
+            "urban_adventurer": 3,
+            "cozy_family": 1,
+            "nature_retreat": 0,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Warm - loving, secure, fulfilling",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 3,
+            "nature_retreat": 2,
+            "creative_sanctuary": 1
+          }
+        },
+        {
+          "text": "Peaceful - calm, grounded, natural",
+          "score": {
+            "urban_adventurer": 0,
+            "cozy_family": 1,
+            "nature_retreat": 3,
+            "creative_sanctuary": 2
+          }
+        },
+        {
+          "text": "Inspired - creative, expressive, authentic",
+          "score": {
+            "urban_adventurer": 2,
+            "cozy_family": 0,
+            "nature_retreat": 0,
+            "creative_sanctuary": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "urban_adventurer": {
+      "title": "The Urban Adventurer",
+      "description": "In 2035, you're thriving in the heart of a dynamic city! Your life is filled with excitement, innovation, and endless possibilities. You're at the forefront of technology and culture, surrounded by ambitious people who inspire you. Your destiny scene is one of relentless progress and urban excitement. 🌆🚀",
+      "image": "urban"
+    },
+    "cozy_family": {
+      "title": "The Cozy Family Builder",
+      "description": "In 2035, you've created a warm, loving sanctuary with your family at the center. Your life is filled with meaningful connections, cherished moments, and the comfort of home. Your destiny scene is one of stability, love, and the simple joys of being surrounded by those who matter most. 🏡💕",
+      "image": "family"
+    },
+    "nature_retreat": {
+      "title": "The Nature Retreat Seeker",
+      "description": "In 2035, you've found peace by embracing nature and simplicity. Your life is grounded in sustainability, mindfulness, and harmony with the environment. Your destiny scene is one of tranquility, fresh air, and the gentle rhythm of natural living. 🌲🏔️",
+      "image": "nature"
+    },
+    "creative_sanctuary": {
+      "title": "The Creative Sanctuary",
+      "description": "In 2035, you've built a life around your creative passions. Your space is filled with art, inspiration, and the freedom to express yourself. Your destiny scene is one of artistic fulfillment, authentic self-expression, and a community of fellow creatives who appreciate beauty. 🎨✨",
+      "image": "creative"
+    }
+  }
+}
