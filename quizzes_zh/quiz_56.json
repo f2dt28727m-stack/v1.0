@@ -1,0 +1,405 @@
+{
+  "quizId": 56,
+  "title": "哪对浪漫喜剧情侣代表你们的恋爱风格？",
+  "category": "match",
+  "category_name": "配对型",
+  "language": "Chinese",
+  "description": "每段感情都有自己独特的氛围！回答12道题，看看是哪对经典浪漫喜剧情侣最代表你们的恋爱模式。",
+  "tags": [
+    "Rom-Com",
+    "浪漫喜剧",
+    "电影",
+    "情侣",
+    "恋爱",
+    "爱情电影",
+    "浪漫"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "你的理想约会之夜，伴侣会怎么形容？",
+      "options": [
+        {
+          "text": " spont又冒险 - 也许是一起在城市里迷路",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "温馨的晚餐，我们可以聊好几个小时",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "有趣又活跃 - 打迷你高尔夫、保龄球或音乐会",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "在家放松，叫外卖看部电影",
+          "score": {
+            "type": "the_notebook"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "你们作为一对的沟通风格是什么？",
+      "options": [
+        {
+          "text": "我们一直互相调侃和打趣",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "我们有深刻且有意义的对话，聊所有事情",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "我们更多用行动而不是言语来沟通",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "我们保持轻松有趣，避免沉重的话题",
+          "score": {
+            "type": "notting_hill"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "你们如何处理分歧？",
+      "options": [
+        {
+          "text": "我们大声争吵，但总是激烈地和好",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "我们一直聊到理解彼此为止",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "我们给彼此空间冷静下来后再回来",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "其中一方先道歉，然后我们继续前进",
+          "score": {
+            "type": "the_notebook"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "你们最常做的情侣活动是什么？",
+      "options": [
+        {
+          "text": "看电影，念我们最喜欢的台词",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "探索新餐厅和咖啡馆",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "玩游戏或做一些有竞争性的事情",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "长时间散步和深入交谈",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "你们如何公开表达爱意？",
+      "options": [
+        {
+          "text": "我们不怕秀恩爱 - 牵手、拥抱、快速亲吻",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "我们保持微妙 - 拍拍背，轻微的触碰",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "我们互相打趣，表现得像最好的朋友",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "我们通过私人时刻表达爱意",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "什么代表了你们的爱情故事？",
+      "options": [
+        {
+          "text": "从敌人到恋人 - 我们一开始互相看不顺眼",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "从朋友到恋人 - 我们先是朋友",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "阶级差异 - 我们来自不同的世界",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "第二次机会 - 分开后我们又重逢",
+          "score": {
+            "type": "the_notebook"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "朋友们会如何形容你们的关系？",
+      "options": [
+        {
+          "text": "总是在笑的一对",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "让我们对爱情抱有希望的一对",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "我们认识的最可爱的一对",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "我们会去找他们寻求建议的一对",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "作为一对，你们梦想的假期是什么？",
+      "options": [
+        {
+          "text": "浪漫的欧洲城市，如巴黎或威尼斯",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "山间温馨的小木屋",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "冒险之旅 - 徒步、探索、尝试新事物",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "没有具体目的地的公路旅行",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "你们如何保持感情的新鲜感？",
+      "options": [
+        {
+          "text": "惊喜和突然的约会",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "一起尝试新事物",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "重温我们最喜欢的回忆",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "关于我们感受的诚实对话",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "你们最喜欢彼此关系的什么？",
+      "options": [
+        {
+          "text": "激情和热烈",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "我感到的舒适和安全感",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "在一起是多么有趣和轻松",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "我们如何互补平衡",
+          "score": {
+            "type": "notting_hill"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你们如何处理感情中的"里程碑"？",
+      "options": [
+        {
+          "text": "我们对周年纪念日和特殊时刻会大有表示",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "我们庆祝但保持个人和有意义的方式",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "我们承认它们但不会看得太重",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "我们把它们当作反思我们旅程的机会",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "什么歌最能描述你们的关系？",
+      "options": [
+        {
+          "text": "史诗般的情歌",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "有趣、欢快的情歌",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "甜美的原声音乐",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "经受时间考验的经典情歌",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "诺亚和艾莉（《恋恋笔记本》）",
+      "description": "你们的关系以热烈的激情和深刻的情感联结为特征。像诺亚和艾莉一样，你们用全心去爱，相信超越一切的爱情——时间、环境和障碍。你们的爱情故事是人们写小说的那种。",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["ENFJ", "INFP", "ESFJ", "ISFP"]
+    },
+    {
+      "title": "哈利和莎莉（《当哈利遇到莎莉》）",
+      "description": "你们的关系建立在深厚的友谊和智力联结之上。像哈利和莎莉一样，你们从完全理解彼此的朋友开始，这个基础让你们浪漫的联结更加坚固。你们证明了男人和女人可以只是朋友...然后变成更多。",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["INFJ", "ENFP", "INTJ", "ENTP"]
+    },
+    {
+      "title": "威廉和安娜（《诺丁山》）",
+      "description": "你们的关系有着甜蜜、略带尴尬但完全迷人的特质。像威廉和安娜一样，你们互补彼此——普通人和非凡的人。你们的爱情是接受彼此的世界，在平凡中发现魔法。",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["ISFJ", "ESFJ", "ISTJ", "ESTJ"]
+    },
+    {
+      "title": "凯特和帕特里克（《十宗罪》）",
+      "description": "你们的关系充满调侃、机智和甜蜜的敌人变恋人的张力。像凯特和帕特里克一样，你们互相挑战，激发彼此只有对方才能看到的一面。你们的爱激烈、有点混乱，绝对令人难忘。",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["ENTP", "ESTP", "INTP", "ISTP"]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "quizId": 56,
+  "title": "Which Rom-Com Couple Matches Your Relationship Energy?",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "English",
+  "description": "Every relationship has its own unique vibe! Answer 12 questions to discover which iconic romantic comedy couple best represents your relationship dynamic.",
+  "tags": [
+    "Rom-Com",
+    "Romance",
+    "Movie",
+    "Couple",
+    "Relationship",
+    "爱情电影",
+    "情侣",
+    "浪漫喜剧"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How would your partner describe your ideal date night?",
+      "options": [
+        {
+          "text": "Something spontaneous and adventurous - maybe getting lost in the city together",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "A cozy dinner where we can talk for hours",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "Something fun and active - mini golf, bowling, or a concert",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "Just relaxing at home with takeout and a movie",
+          "score": {
+            "type": "the_notebook"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your communication style as a couple?",
+      "options": [
+        {
+          "text": "We banter constantly and tease each other",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "We have deep, meaningful conversations about everything",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "We communicate through actions more than words",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "We keep it light and fun, avoiding heavy topics",
+          "score": {
+            "type": "notting_hill"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How do you handle disagreements?",
+      "options": [
+        {
+          "text": "We argue loudly but always make up passionately",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "We talk it through until we understand each other",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "We give each other space and come back when calm",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "One of us apologizes first and we move on",
+          "score": {
+            "type": "the_notebook"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "What's your go-to couple activity?",
+      "options": [
+        {
+          "text": "Watching movies and quoting our favorite lines",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "Exploring new restaurants and cafes",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "Playing games or doing something competitive",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "Long walks and deep conversations",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "How do you show affection publicly?",
+      "options": [
+        {
+          "text": "We're not afraid to be affectionate - holding hands, hugs, quick kisses",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "We keep it subtle - a hand on the back, subtle touches",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "We tease each other and act like best friends",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "We express love through private moments",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "What represents your love story?",
+      "options": [
+        {
+          "text": "Enemies to lovers - we started off not liking each other",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "Friends to lovers - we were friends first",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "Class differences - we came from different worlds",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "Second chance - we reunited after being apart",
+          "score": {
+            "type": "the_notebook"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How would friends describe your relationship?",
+      "options": [
+        {
+          "text": "The couple that's always laughing",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "The couple that gives us hope about love",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "The most adorable couple we know",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "The couple we go to for advice",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "What's your dream vacation as a couple?",
+      "options": [
+        {
+          "text": "A romantic European city like Paris or Venice",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "A cozy cabin in the mountains",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "An adventure trip - hiking, exploring, trying new things",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "A road trip with no specific destination",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How do you keep the spark alive?",
+      "options": [
+        {
+          "text": "Surprises and spontaneous dates",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "Trying new things together",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "Reliving our favorite memories",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "Honest conversations about our feelings",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "What's your favorite thing about your relationship?",
+      "options": [
+        {
+          "text": "The excitement and passion",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "The comfort and safety I feel",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        },
+        {
+          "text": "How fun and easy it is to be together",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "How we balance each other out",
+          "score": {
+            "type": "notting_hill"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How do you handle the 'milestones' in your relationship?",
+      "options": [
+        {
+          "text": "We make big gestures for anniversaries and special moments",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "We celebrate but keep it personal and meaningful",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "We acknowledge them but don't make them too big of a deal",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "We use them as opportunities to reflect on our journey",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "What song best describes your relationship?",
+      "options": [
+        {
+          "text": "An epic, passionate ballad",
+          "score": {
+            "type": "the_notebook"
+          }
+        },
+        {
+          "text": "A fun, upbeat song about love",
+          "score": {
+            "type": "10_things_i_hate"
+          }
+        },
+        {
+          "text": "A sweet, acoustic love song",
+          "score": {
+            "type": "notting_hill"
+          }
+        },
+        {
+          "text": "A classic love song that stands the test of time",
+          "score": {
+            "type": "when_harry_met_sally"
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Noah & Allie from The Notebook",
+      "description": "Your relationship is defined by intense passion and deep emotional connection. Like Noah and Allie, you love with your whole heart and believe in love that transcends everything - time, circumstances, and obstacles. Your love story is the kind people write novels about.",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["ENFJ", "INFP", "ESFJ", "ISFP"]
+    },
+    {
+      "title": "Harry & Sally from When Harry Met Sally",
+      "description": "Your relationship is built on deep friendship and intellectual connection. Like Harry and Sally, you started as friends who understood each other completely, and that foundation made your romantic connection even stronger. You prove that men and women can be friends... and so much more.",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["INFJ", "ENFP", "INTJ", "ENTP"]
+    },
+    {
+      "title": "William & Anna from Notting Hill",
+      "description": "Your relationship has that sweet, slightly awkward but utterly charming quality. Like William and Anna, you balance each other out - the everyday person and the extraordinary one. Your love is about accepting each other's worlds and finding magic in the ordinary.",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["ISFJ", "ESFJ", "ISTJ", "ESTJ"]
+    },
+    {
+      "title": "Kat & Patrick from 10 Things I Hate About You",
+      "description": "Your relationship is full of banter, wit, and that delicious tension of enemies-to-lovers. Like Kat and Patrick, you challenge each other and bring out sides of each other no one else can. Your love is passionate, a bit chaotic, and absolutely unforgettable.",
+      "image": "https://pic.quizypop.com/2023/05/16/168s1684237687.png",
+      "mbtiTypes": ["ENTP", "ESTP", "INTP", "ISTP"]
+    }
+  ]
+}
