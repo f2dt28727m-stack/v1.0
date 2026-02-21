@@ -498,9 +498,18 @@ async function showR(){
 }
 
 
-function goRandom(){
-// Reload the current quiz with a new set of random questions
-window.location.href='quiz.html?id=' + getQuizId();
+async function goRandom(){
+// Fetch quiz list and go to a random quiz's detail page
+try {
+    const resp = await fetch('/api/quizzes');
+    const data = await resp.json();
+    const quizzes = data.quizzes || data;
+    const randomQuiz = quizzes[Math.floor(Math.random() * quizzes.length)];
+    window.location.href = 'quiz-detail.html?id=' + randomQuiz.id;
+} catch(e) {
+    // Fallback to index page
+    window.location.href = 'index.html';
+}
 }
 function shareR(){
 const t='I got '+document.querySelector('.result-name').textContent+'! Take quiz: '+window.location.href;
