@@ -1,0 +1,400 @@
+{
+  "quizId": 71,
+  "title": "How Neon Are You?",
+  "category": "degree",
+  "category_name": "How [Adjective] Are You?",
+  "language": "English",
+  "description": "Discover how much neon energy truly lives in your soul! Answer 12 questions to find out your neon intensity level.",
+  "tags": [
+    "Neon",
+    "Cyberpunk",
+    "Aesthetic",
+    "Personality",
+    "赛博朋克",
+    "潮流"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "It's 2 AM on a Friday night. Where are you?",
+      "options": [
+        {
+          "text": "At a rooftop party with fairy lights and LED strips",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Exploring a late-night arcade or neon-lit street",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "At home, but with moody ambient lighting",
+          "score": {
+            "neon_score": 2
+          }
+        },
+        {
+          "text": "Already asleep - early to bed, early to rise",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Pick your ideal late-night snack:",
+      "options": [
+        {
+          "text": "Glowing boba tea with neon-straw",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Instant noodles with LED ice cubes",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Green tea and mochi",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Herbal tea and cookies",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your phone's wallpaper is...",
+      "options": [
+        {
+          "text": "A neon cityscape at night",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Something with glow effects",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Aesthetic but minimal",
+          "score": {
+            "neon_score": 2
+          }
+        },
+        {
+          "text": "A photo of nature or family",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "If you could live in any fictional world, you'd choose:",
+      "options": [
+        {
+          "text": "Blade Runner's Los Angeles",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "The Matrix - virtual reality dimension",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Studio Ghibli's countryside",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Middle-earth - classic fantasy",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your ideal wardrobe includes:",
+      "options": [
+        {
+          "text": "Holographic jackets and LED sneakers",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Black with neon accents (laces, pins, patches)",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Pastel colors and soft fabrics",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Comfortable basics in neutral tones",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When you listen to music, it's usually:",
+      "options": [
+        {
+          "text": "Synthwave, retrowave, or cyberpunk beats",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Electronic, lo-fi, or ambient",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Indie folk or acoustic",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Classical or lo-fi study beats",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Your perfect date night:",
+      "options": [
+        {
+          "text": "Neon graffiti tour and midnight bowling",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Cyberpunk movie marathon with takeout",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Cozy cafe dinner",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Picnic in the park at sunset",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When coding or working, you prefer:",
+      "options": [
+        {
+          "text": "VS Code with neon theme (Dracula, Monokai)",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Dark mode with accent colors",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Light mode - easier on eyes",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Default system theme",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Your social media aesthetic is:",
+      "options": [
+        {
+          "text": "Glitch effects, vaporwave, neon overlays",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Dark with vibrant accents",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Minimal and clean",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "I don't really think about aesthetics",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Pick a fictional AI companion:",
+      "options": [
+        {
+          "text": "Samantha from Her (glowing presence)",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Gideon from The Dark Knight Returns",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "R2-D2 - classic robot vibes",
+          "score": {
+            "neon_score": 2
+          }
+        },
+        {
+          "text": "Baymax - soft and caring",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your dream car is:",
+      "options": [
+        {
+          "text": "A flying car with neon underglow",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Tesla with custom LED lighting",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "Vintage convertible",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Eco-friendly hybrid",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How do you feel about the color black?",
+      "options": [
+        {
+          "text": "It's the perfect canvas for neon to pop",
+          "score": {
+            "neon_score": 5
+          }
+        },
+        {
+          "text": "Love it - sleek and mysterious",
+          "score": {
+            "neon_score": 4
+          }
+        },
+        {
+          "text": "It's okay, but I prefer other colors",
+          "score": {
+            "neon_score": 1
+          }
+        },
+        {
+          "text": "Too dark for me - I need brightness!",
+          "score": {
+            "neon_score": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "0-15": {
+      "title": "Soft Glow",
+      "description": "You're more of a warm candlelight vibe. Your aesthetic leans towards cozy, natural, and soft. While you appreciate the occasional neon, your soul finds peace in calmer, warmer energies.",
+      "emoji": "🕯️"
+    },
+    "16-30": {
+      "title": "LED Accent",
+      "description": "You appreciate neon in small doses - like LED strip lights behind your desk. You've got a foot in both worlds: you enjoy cozy moments but also know how to embrace the glow when the occasion calls for it.",
+      "emoji": "💡"
+    },
+    "31-45": {
+      "title": "Neon Dreamer",
+      "description": "The neon bug has bitten you! You love incorporating glow elements into your life, whether it's your phone case, bedroom lighting, or playlist. You're the perfect blend of day-person and night-owl.",
+      "emoji": "🌃"
+    },
+    "46-60": {
+      "title": "Full Neon Soul",
+      "description": "NEON IS YOUR LANGUAGE AND YOU SPEAK IT FLUENTLY. Your entire aesthetic screams cyberpunk energy. You probably own multiple items with LED lights, and your Spotify is 80% synthwave. The night is your domain.",
+      "emoji": "⚡"
+    }
+  }
+}
