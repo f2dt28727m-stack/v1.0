@@ -327,13 +327,38 @@ function getQuizEmojis(title) {
 function renderQuizDetail() {
     const tags = quizData.tags || ['Disney', 'Princess', 'Personality', 'MBTI'];
     const emojis = getQuizEmojis(quizData.title);
+    
+    // Generate consistent stats based on quiz ID
+    const quizId = getQuizId() || '1';
+    const hash = quizId.split('').reduce((a, b) => ((a << 5) - a + b.charCodeAt(0)) | 0, 0);
+    const absHash = Math.abs(hash);
+    
+    // Different ranges for different quiz types
+    const isTrending = quizData.tags?.some(t => ['trending', 'new', '2024', '2025', 'viral'].some(x => t.toLowerCase().includes(x)));
+    const isPopular = quizData.tags?.some(t => ['disney', 'harry potter', 'marvel', 'mbti', 'Taylor Swift'].some(x => t.toLowerCase().includes(x)));
+    
+    let likes, tests, shares;
+    if (isTrending) {
+        likes = 50000 + (absHash % 150000);  // 50K - 200K
+        tests = 1000000 + (absHash % 2000000); // 1M - 3M
+        shares = 10000 + (absHash % 90000);    // 10K - 100K
+    } else if (isPopular) {
+        likes = 10000 + (absHash % 40000);    // 10K - 50K
+        tests = 500000 + (absHash % 1000000); // 500K - 1.5M
+        shares = 5000 + (absHash % 45000);    // 5K - 50K
+    } else {
+        likes = 1000 + (absHash % 9000);      // 1K - 10K
+        tests = 10000 + (absHash % 90000);   // 10K - 100K
+        shares = 100 + (absHash % 4900);      // 100 - 5K
+    }
+    
     const q = {
         t: quizData.title || 'Which Disney Princess Resonates With Your Personality?',
         i: emojis[0],
-        v: 1200000, // Views
-        l: 8500, // Likes
-        ts: 980000, // Tests
-        sh: 12000, // Shares
+        v: tests * 1.2,
+        l: likes,
+        ts: tests,
+        sh: shares,
         d: quizData.description || 'Discover which Disney Princess matches your personality based on MBTI traits! Answer 12 questions to find your royal counterpart.'
     };
 
