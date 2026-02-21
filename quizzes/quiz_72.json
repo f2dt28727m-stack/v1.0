@@ -1,0 +1,556 @@
+{
+  "quizId": 72,
+  "title": "What City Should You Actually Live In?",
+  "category": "destiny",
+  "category_name": "Future / Destiny",
+  "language": "English",
+  "description": "Every city has its own vibe and energy. Discover which city around the world matches your soul and could be your future home! Answer 12 questions to find your destiny city.",
+  "tags": [
+    "City",
+    "Travel",
+    "Destiny",
+    "Future",
+    "Lifestyle",
+    "Home",
+    "Moving",
+    "Adventure"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "What's your ideal morning routine?",
+      "options": [
+        {
+          "text": "Early sunrise jog followed by a healthy breakfast at a café",
+          "score": {
+            "tokyo": 3,
+            "berlin": 3
+          }
+        },
+        {
+          "text": "Slow start with coffee in bed, reading the news",
+          "score": {
+            "paris": 3,
+            "rome": 3
+          }
+        },
+        {
+          "text": "Quick coffee on the go, diving straight into work",
+          "score": {
+            "new_york": 3,
+            "hong_kong": 3
+          }
+        },
+        {
+          "text": "Sleep in late, brunch with friends",
+          "score": {
+            "los_angeles": 3,
+            "miami": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your dream job environment?",
+      "options": [
+        {
+          "text": "A bustling tech startup with ping-pong tables",
+          "score": {
+            "san_francisco": 3,
+            "shenzhen": 3
+          }
+        },
+        {
+          "text": "A cozy boutique agency with artistic clients",
+          "score": {
+            "amsterdam": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "A prestigious firm in a skyscraper",
+          "score": {
+            "new_york": 3,
+            "london": 3
+          }
+        },
+        {
+          "text": "Working remotely from anywhere with WiFi",
+          "score": {
+            "bali": 3,
+            "lisbon": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Which weather makes you feel most alive?",
+      "options": [
+        {
+          "text": "Four distinct seasons - love the change",
+          "score": {
+            "new_york": 3,
+            "berlin": 3
+          }
+        },
+        {
+          "text": "Endless sunshine and warmth",
+          "score": {
+            "los_angeles": 3,
+            "miami": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "Misty mornings and cozy rainy days",
+          "score": {
+            "london": 3,
+            "paris": 3,
+            "seattle": 3
+          }
+        },
+        {
+          "text": "Cherry blossoms in spring, crisp autumn air",
+          "score": {
+            "tokyo": 3,
+            "seoul": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "What's your ideal weekend activity?",
+      "options": [
+        {
+          "text": "Exploring hidden art galleries and vintage shops",
+          "score": {
+            "berlin": 3,
+            "paris": 3
+          }
+        },
+        {
+          "text": "Hiking, camping, and connecting with nature",
+          "score": {
+            "denver": 3,
+            "vancouver": 3
+          }
+        },
+        {
+          "text": "Networking events, rooftop bars, meeting new people",
+          "score": {
+            "new_york": 3,
+            "hong_kong": 3
+          }
+        },
+        {
+          "text": "Beach day, surfing, or laying by the pool",
+          "score": {
+            "los_angeles": 3,
+            "miami": 3,
+            "bali": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "What kind of food do you crave most?",
+      "options": [
+        {
+          "text": "Sushi, ramen, and innovative Asian fusion",
+          "score": {
+            "tokyo": 3,
+            "los_angeles": 3
+          }
+        },
+        {
+          "text": "Fresh pasta, wine, and long leisurely meals",
+          "score": {
+            "rome": 3,
+            "paris": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "Street food, tacos, and diverse international flavors",
+          "score": {
+            "new_york": 3,
+            "hong_kong": 3,
+            "mexico_city": 3
+          }
+        },
+        {
+          "text": "Healthy bowls, avocado toast, and cold-pressed juice",
+          "score": {
+            "san_francisco": 3,
+            "los_angeles": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How do you prefer to get around a city?",
+      "options": [
+        {
+          "text": "Walking everywhere - love to explore on foot",
+          "score": {
+            "paris": 3,
+            "tokyo": 3,
+            "amsterdam": 3
+          }
+        },
+        {
+          "text": "Subway and public transit - efficient and eco-friendly",
+          "score": {
+            "new_york": 3,
+            "london": 3,
+            "tokyo": 3
+          }
+        },
+        {
+          "text": "Car or ride-share - convenience is key",
+          "score": {
+            "los_angeles": 3,
+            "miami": 3
+          }
+        },
+        {
+          "text": "Bicycle - love the exercise and freedom",
+          "score": {
+            "amsterdam": 3,
+            "copenhagen": 3,
+            "berlin": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What's your ideal living space?",
+      "options": [
+        {
+          "text": "A sleek modern apartment with city views",
+          "score": {
+            "new_york": 3,
+            "hong_kong": 3,
+            "singapore": 3
+          }
+        },
+        {
+          "text": "A charming historic flat in a walkable neighborhood",
+          "score": {
+            "paris": 3,
+            "rome": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "A spacious house with a backyard",
+          "score": {
+            "denver": 3,
+            "vancouver": 3,
+            "austin": 3
+          }
+        },
+        {
+          "text": "A minimalist studio near transit and cafes",
+          "score": {
+            "tokyo": 3,
+            "berlin": 3,
+            "san_francisco": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Which value resonates most with you?",
+      "options": [
+        {
+          "text": "Innovation and pushing boundaries",
+          "score": {
+            "san_francisco": 3,
+            "shenzhen": 3,
+            "tel_aviv": 3
+          }
+        },
+        {
+          "text": "Quality of life and work-life balance",
+          "score": {
+            "copenhagen": 3,
+            "amsterdam": 3,
+            "vancouver": 3
+          }
+        },
+        {
+          "text": "Culture, history, and artistic expression",
+          "score": {
+            "rome": 3,
+            "paris": 3,
+            "florence": 3
+          }
+        },
+        {
+          "text": "Opportunity, ambition, and career growth",
+          "score": {
+            "new_york": 3,
+            "london": 3,
+            "hong_kong": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How do you handle stress?",
+      "options": [
+        {
+          "text": "Hit the gym or go for a run",
+          "score": {
+            "san_francisco": 3,
+            "berlin": 3
+          }
+        },
+        {
+          "text": "Talk it out with friends over drinks",
+          "score": {
+            "new_york": 3,
+            "los_angeles": 3
+          }
+        },
+        {
+          "text": "Find a quiet café and journal",
+          "score": {
+            "paris": 3,
+            "amsterdam": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "Meditate or practice mindfulness",
+          "score": {
+            "bali": 3,
+            "tokyo": 3,
+            "singapore": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "What excites you most about moving to a new city?",
+      "options": [
+        {
+          "text": "Career opportunities and networking",
+          "score": {
+            "new_york": 3,
+            "london": 3,
+            "hong_kong": 3
+          }
+        },
+        {
+          "text": "New experiences, food, and adventures",
+          "score": {
+            "tokyo": 3,
+            "barcelona": 3,
+            "los_angeles": 3
+          }
+        },
+        {
+          "text": "Finding my community and making lifelong friends",
+          "score": {
+            "san_francisco": 3,
+            "amsterdam": 3,
+            "berlin": 3
+          }
+        },
+        {
+          "text": "A fresh start and reinventing myself",
+          "score": {
+            "los_angeles": 3,
+            "miami": 3,
+            "austin": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Which lifestyle best describes your dream?",
+      "options": [
+        {
+          "text": "Fast-paced, ambitious, always on the go",
+          "score": {
+            "new_york": 3,
+            "hong_kong": 3,
+            "london": 3
+          }
+        },
+        {
+          "text": "Balanced, healthy, and socially vibrant",
+          "score": {
+            "los_angeles": 3,
+            "san_francisco": 3,
+            "copenhagen": 3
+          }
+        },
+        {
+          "text": "Cultured, romantic, and enjoy the finer things",
+          "score": {
+            "paris": 3,
+            "rome": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "Peaceful, creative, and close to nature",
+          "score": {
+            "bali": 3,
+            "amsterdam": 3,
+            "vancouver": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you could instantly master one skill in a new city, what would it be?",
+      "options": [
+        {
+          "text": "Speaking a new language fluently",
+          "score": {
+            "paris": 3,
+            "tokyo": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "Coding and building tech products",
+          "score": {
+            "san_francisco": 3,
+            "shenzhen": 3,
+            "berlin": 3
+          }
+        },
+        {
+          "text": "Cooking gourmet cuisine",
+          "score": {
+            "rome": 3,
+            "paris": 3,
+            "barcelona": 3
+          }
+        },
+        {
+          "text": "Surfing or a new sport",
+          "score": {
+            "los_angeles": 3,
+            "miami": 3,
+            "bali": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "tokyo": {
+      "title": "Tokyo, Japan",
+      "description": "Your soul craves the electric energy of Tokyo! You're someone who loves the blend of ultra-modern technology and ancient traditions. You thrive in a city where you can grab ramen at 2 AM, explore temples on the weekend, and never run out of new experiences. Your destiny lies in the streets of Shibuya and the hidden alleys of Golden Gai.",
+      "image": "tokyo",
+      "match_rate": "98%"
+    },
+    "new_york": {
+      "title": "New York City, USA",
+      "description": "The city that never sleeps calls your name! You're ambitious, driven, and love the buzz of opportunities. NYC is where dreams are made, and you're ready to conquer it. From rooftop bars to Broadway shows, your days will be filled with ambition and excitement.",
+      "image": "new_york",
+      "match_rate": "95%"
+    },
+    "los_angeles": {
+      "title": "Los Angeles, USA",
+      "description": "Sunshine and dreams await you in LA! You're someone who values flexibility, creativity, and a laid-back lifestyle. LA's diverse neighborhoods, amazing weather, and endless possibilities make it your perfect playground. Your destiny includes beach days and Hollywood dreams.",
+      "image": "los_angeles",
+      "match_rate": "93%"
+    },
+    "paris": {
+      "title": "Paris, France",
+      "description": "Paris is calling your romantic soul! You appreciate art, history, and the art of living well. Long brunches at cafés, wandering through museums, and evening walks along the Seine define your ideal life. Your destiny is written in the streets of Montmartre.",
+      "image": "paris",
+      "match_rate": "97%"
+    },
+    "london": {
+      "title": "London, UK",
+      "description": "The British capital suits your sophisticated taste! You love the blend of historic charm and modern innovation. From exploring ancient markets to catching the latest shows in the West End, London offers the perfect balance of culture and career opportunities.",
+      "image": "london",
+      "match_rate": "91%"
+    },
+    "berlin": {
+      "title": "Berlin, Germany",
+      "description": "Berlin's creative energy is exactly what you need! You're independent, artsy, and love a city with personality. The affordable living, incredible music scene, and diverse community make Berlin your perfect canvas for self-expression.",
+      "image": "berlin",
+      "match_rate": "94%"
+    },
+    "amsterdam": {
+      "title": "Amsterdam, Netherlands",
+      "description": "Your spirit aligns perfectly with Amsterdam's relaxed vibe! You value quality of life, cycling culture, and intellectual pursuits. The charming canals, world-class museums, and open-minded community make this your ideal home.",
+      "image": "amsterdam",
+      "match_rate": "96%"
+    },
+    "san_francisco": {
+      "title": "San Francisco, USA",
+      "description": "The Bay Area is your innovation hub! You're forward-thinking, tech-savvy, and dream of making an impact. With Silicon Valley at your doorstep and a vibrant startup culture, San Francisco is where your entrepreneurial spirit thrives.",
+      "image": "san_francisco",
+      "match_rate": "92%"
+    },
+    "barcelona": {
+      "title": "Barcelona, Spain",
+      "description": "Sun, art, and Mediterranean vibes define your ideal life! You love good food, beach days, and Gaudí architecture. Barcelona's vibrant culture, nightlife, and welcoming atmosphere make it your perfect Mediterranean home.",
+      "image": "barcelona",
+      "match_rate": "95%"
+    },
+    "hong_kong": {
+      "title": "Hong Kong",
+      "description": "Hong Kong's energy is unmatched! You're someone who thrives in a fast-paced, international environment. The fusion of Eastern and Western cultures, incredible food, and city that never sleeps makes Hong Kong your destiny.",
+      "image": "hong_kong",
+      "match_rate": "90%"
+    },
+    "rome": {
+      "title": "Rome, Italy",
+      "description": "La dolce vita awaits in Rome! You appreciate history, art, and the pleasure of slowing down. Long lunches, ancient ruins, and the warmth of Italian hospitality make Rome your eternal home.",
+      "image": "rome",
+      "match_rate": "94%"
+    },
+    "bali": {
+      "title": "Bali, Indonesia",
+      "description": "Your soul craves the tropical paradise of Bali! You value spirituality, nature, and a slower pace of life. From yoga retreats to rice terrace adventures, Bali is where you'll find your inner peace and creative inspiration.",
+      "image": "bali",
+      "match_rate": "93%"
+    },
+    "vancouver": {
+      "title": "Vancouver, Canada",
+      "description": "Nature meets urban sophistication in Vancouver! You want it all - career opportunities surrounded by mountains and ocean. The outdoor lifestyle, diverse food scene, and high quality of life make Vancouver your perfect Pacific Northwest home.",
+      "image": "vancouver",
+      "match_rate": "91%"
+    },
+    "miami": {
+      "title": "Miami, USA",
+      "description": "Miami's energy is electric! You're someone who loves sunshine, diversity, and nightlife. From Art Deco architecture to beach volleyball, Miami's vibrant culture and Latin flavor make it your perfect playground.",
+      "image": "miami",
+      "match_rate": "89%"
+    },
+    "singapore": {
+      "title": "Singapore",
+      "description": "Singapore is your futuristic oasis! You appreciate cleanliness, efficiency, and multicultural harmony. The incredible food scene, shopping, and safe environment make Singapore your perfect Asian base.",
+      "image": "singapore",
+      "match_rate": "88%"
+    },
+    "copenhagen": {
+      "title": "Copenhagen, Denmark",
+      "description": "Hygge and sustainability define your ideal life! You value work-life balance, cycling culture, and design. Copenhagen's cozy cafes, beautiful architecture, and happy residents make it your Scandinavian home.",
+      "image": "copenhagen",
+      "match_rate": "90%"
+    }
+  }
+}
