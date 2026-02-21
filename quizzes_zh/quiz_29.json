@@ -1,153 +1,422 @@
 {
-  "quiz_id": "quiz_29",
-  "title": "你的隐藏天才是什么？",
+  "quizId": 29,
+  "title": "你的隐藏人格是什么？",
   "category": "hidden",
-  "tags": ["性格", "隐藏才能", "智力", "独特", "自我发现"],
-  "description": "每个人都有独特的隐藏天才等待被发现！回答这12个问题，揭示你非凡的隐藏才能。",
-  "result_title": "你的隐藏天才是...",
-  "result_description": "你有一种非凡的隐藏才能，让你与众不同。以下是你的特别之处：",
+  "category_name": "隐藏属性型",
+  "language": "中文",
+  "description": "每个人都有公开的自己 和隐藏的自己。发现你表面之下的真实自我！回答12道题，揭开你秘密的人格类型。",
+  "tags": [
+    "隐藏",
+    "秘密",
+    "人格",
+    "内心",
+    "心理学",
+    "Hidden",
+    "Secret",
+    "Personality"
+  ],
   "questions": [
     {
-      "question_id": "q1",
-      "question": "当你遇到复杂的问题时，你的本能反应是什么？",
+      "qId": 1,
+      "text": "当深夜独自一人时，你通常会...",
       "options": [
-        {"option_id": "a", "text": "把它分解成更小、更容易处理的部分", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
-        {"option_id": "b", "text": "想象富有创意和非传统的解决方案", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
-        {"option_id": "c", "text": "思考它如何影响涉及的人", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 1}},
-        {"option_id": "d", "text": "寻找实际可行的解决方案", "scores": {"analytical": 1, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "思考人生、梦想和深刻的问题",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "在脑海中计划和整理事情",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "刷剧或浏览社交媒体",
+          "score": {
+            "escapist": 3
+          }
+        },
+        {
+          "text": "创作——写东西、画画或制作什么",
+          "score": {
+            "artist": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q2",
-      "question": "哪种活动让你忘记时间？",
+      "qId": 2,
+      "text": "你很少告诉别人的最大恐惧是什么？",
       "options": [
-        {"option_id": "a", "text": "分析数据或解决谜题", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "创作一些艺术性或想象力的东西", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "帮助别人解决他们的问题", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "用双手制作或修理东西", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "孤独一人，对任何人都无关紧要",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "失败，无法发挥潜力",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "失去对生活的掌控",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "不被理解和接受",
+          "score": {
+            "dreamer": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q3",
-      "question": "朋友们通常找你做什么？",
+      "qId": 3,
+      "text": "如果你可以隐身一天，你会...",
       "options": [
-        {"option_id": "a", "text": "逻辑分析和客观建议", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "新鲜的想法和灵感", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "倾诉和情感支持", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "实际帮助完成事情", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "偷偷观察你欣赏的人",
+          "score": {
+            "observer": 3
+          }
+        },
+        {
+          "text": "去任何地方而不被评判",
+          "score": {
+            "free_spirit": 3
+          }
+        },
+        {
+          "text": "发现人们隐藏的秘密",
+          "score": {
+            "curious": 3
+          }
+        },
+        {
+          "text": "暗中帮助别人",
+          "score": {
+            "guardian": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q4",
-      "question": "你学习新事物的最佳方式是什么？",
+      "qId": 4,
+      "text": "你偷偷羡慕别人的是什么？",
       "options": [
-        {"option_id": "a", "text": "通过阅读、研究和理解理论", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "通过动手实验和尝试新方法", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
-        {"option_id": "c", "text": "通过观察和学习他人的经验", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "通过直接动手，在做的过程中摸索", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "他们的自信和社交能力",
+          "score": {
+            "social_butterfly": 3
+          }
+        },
+        {
+          "text": "他们的创造力",
+          "score": {
+            "artist": 3
+          }
+        },
+        {
+          "text": "他们的自律和效率",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "他们活在当下的能力",
+          "score": {
+            "free_spirit": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q5",
-      "question": "当某些东西需要改进时，你的方法是什么？",
+      "qId": 5,
+      "text": "当没人的时候，你会...",
       "options": [
-        {"option_id": "a", "text": "找出根本原因并修复系统", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
-        {"option_id": "b", "text": "想出全新的方法来处理它", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "了解它如何影响人们并满足这些需求", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "高效有效地完成它", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "自言自语或进行想象中的对话",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "练习你想提高的技能",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "做些尴尬的事，永远不会承认",
+          "score": {
+            "playful": 3
+          }
+        },
+        {
+          "text": "感到自由，可以完全做自己",
+          "score": {
+            "authentic": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q6",
-      "question": "哪句话最能引起你的共鸣？",
+      "qId": 6,
+      "text": "你偷偷共鸣的虚构角色是？",
       "options": [
-        {"option_id": "a", "text": "信息就是力量", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "想象力比知识更重要", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "人生最大的荣耀不在于从不失败", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "行动胜于言辞", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "有着黑暗过去的反英雄",
+          "score": {
+            "rebel": 3
+          }
+        },
+        {
+          "text": "用不同角度看世界的天才",
+          "score": {
+            "visionary": 3
+          }
+        },
+        {
+          "text": "有着隐藏力量的忠诚守护者",
+          "score": {
+            "guardian": 3
+          }
+        },
+        {
+          "text": "寻求冒险和真相的流浪者",
+          "score": {
+            "free_spirit": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q7",
-      "question": "当你发现别人忽略的模式时，你注意到的是什么？",
+      "qId": 7,
+      "text": "你从未告诉任何人但经常想起的事是？",
       "options": [
-        {"option_id": "a", "text": "数据点之间的逻辑联系", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "非常规的可能性和机会", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "情感暗流和人际动态", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "实际应用和现实用途", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "一个希望能够挽回的错误",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "一个秘密的梦想或野心",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "害怕承认自己想要的东西",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "生活本可以有多不同",
+          "score": {
+            "curious": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q8",
-      "question": "什么样的挑战最让你兴奋？",
+      "qId": 8,
+      "text": "如果你可以有一种超能力，你会选择...",
       "options": [
-        {"option_id": "a", "text": "复杂的谜题或逻辑难题", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "创造从未存在过的东西", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "在别人的生活中产生积极的影响", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "建造一些有形有用的东西", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "读心术来真正理解他人",
+          "score": {
+            "observer": 3
+          }
+        },
+        {
+          "text": "时间操控来掌控生活",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "隐身来自由观察",
+          "score": {
+            "free_spirit": 3
+          }
+        },
+        {
+          "text": "治愈能力来帮助所爱的人",
+          "score": {
+            "guardian": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q9",
-      "question": "你更喜欢如何传达复杂的想法？",
+      "qId": 9,
+      "text": "当你偷偷压力大时，你会做什么？",
       "options": [
-        {"option_id": "a", "text": "清晰、逻辑的解释和数据", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "通过故事、隐喻和视觉表现", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "通过联系个人经历和感受", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "通过展示而非讲述 - 实际演示", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "写日记或整理思绪",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "列清单，制定行动计划",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "吃零食或冲动购物",
+          "score": {
+            "escapist": 3
+          }
+        },
+        {
+          "text": "剧烈运动来释放能量",
+          "score": {
+            "ambitious": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q10",
-      "question": "面对不确定性时，你依赖什么？",
+      "qId": 10,
+      "text": "你永远不会公开承认的罪恶快感是什么？",
       "options": [
-        {"option_id": "a", "text": "逻辑、推理和现有信息", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "直觉和创造性想象", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "信任人们和人际联系", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "过去的经验和以往有效的方法", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "独自看浪漫爱情片",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "连续玩几个小时游戏",
+          "score": {
+            "playful": 3
+          }
+        },
+        {
+          "text": "看同人小说或言情小说",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "强迫症式研究随机话题",
+          "score": {
+            "curious": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q11",
-      "question": "你一直自然而然擅长、几乎不需要练习的技能是什么？",
+      "qId": 11,
+      "text": "如果你的生活是一部电影，它会是什么类型？",
       "options": [
-        {"option_id": "a", "text": "理解复杂系统并发现缺陷", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "想出独特的想法和解决方案", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "理解别人的感受和需求", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "利用现有资源让任何东西都能工作", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "有剧情反转的心理惊悚片",
+          "score": {
+            "mysterious": 3
+          }
+        },
+        {
+          "text": "英雄之旅的史诗冒险片",
+          "score": {
+            "hero": 3
+          }
+        },
+        {
+          "text": "情感深刻的成长 drama",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "有阴谋的复杂政治剧",
+          "score": {
+            "strategist": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q12",
-      "question": "如果你能在一夜之间掌握任何技能，你会选择什么？",
+      "qId": 12,
+      "text": "你最深层、最秘密的愿望是什么？",
       "options": [
-        {"option_id": "a", "text": "瞬间解决任何问题的能力", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "创造任何我能想象的事物的能力", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "理解和治愈情感创伤的能力", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "从零开始建造任何东西的能力", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "被某个人完全理解",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "成就非凡的事业",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "逃离一切，在新地方重新开始",
+          "score": {
+            "free_spirit": 3
+          }
+        },
+        {
+          "text": "创造永恒的作品",
+          "score": {
+            "artist": 3
+          }
+        }
       ]
     }
   ],
   "results": {
-    "analytical": {
-      "title": "分析型天才",
-      "description": "你的隐藏天才在于你出色的分析能力。你有发现模式、解决复杂问题和理解系统运作的天赋。你的大脑就像一台精细调校的机器，可以处理大量信息并找到别人可能忽略的逻辑解决方案。这让你在需要批判性思维、研究和战略规划的领域中变得无价。",
-      "emoji": "🧠"
+    "dreamer": {
+      "title": "梦想家",
+      "description": "在你务实的表象之下，是一个充满想象力和深刻思考的世界。你是那个胸怀大志、感受深刻的人。你的隐藏人格是浪漫的、内省的，总是想着"如果会怎样"。你把敏感的内心隐藏起来，但那就是真正的你。",
+      "emoji": "🌙"
     },
-    "creative": {
-      "title": "创意型天才",
-      "description": "你的隐藏天才在于你非凡的创造力。你能在别人看到限制的地方看到可能性，你的想象力无边无际。你有一种独特的能力，能够跳出框框思考，提出创新的解决方案，改变人们看待世界的方式。你的创意愿景可以激励他人，为任何挑战带来新的视角。",
+    "strategist": {
+      "title": "策略家",
+      "description": "别人觉得你很轻松，但实际上你的隐藏人格一直在计划和分析。你有着在后台运转的聪明头脑，不断优化和策划。你冷静的外表下藏着的是一个总是领先三步的策划大师。",
+      "emoji": "♟️"
+    },
+    "artist": {
+      "title": "艺术家",
+      "description": "你隐藏着一个渴望自我表达的创作灵魂。在你平凡的外表下，是一个能看到一切美好、感受深刻的人。你的隐藏人格想要创作、表达，留下有意义的事物。",
       "emoji": "🎨"
     },
-    "empathetic": {
-      "title": "同理心型天才",
-      "description": "你的隐藏天才在于你深刻的情绪智力。你有理解他人感受并在深层人际层面上建立联系的非凡能力。你的同理心让你能够治愈、激励和团结人们，这是单纯的逻辑思维无法实现的。你有能力让其他人感到被看见、被理解和被倾听。",
+    "free_spirit": {
+      "title": "自由灵魂",
+      "description": "你墨守成规的外表下藏着一颗狂野不羁的心。你梦想着冒险、自由、打破规则。你的隐藏人格渴望 spontaneity（自发性），拒绝被束缚。未知对你的真我来说有着不可抗拒的吸引力。",
+      "emoji": "🦋"
+    },
+    "guardian": {
+      "title": "守护者",
+      "description": "虽然你看起来很独立，但你的隐藏人格深深守护着所爱的人。你愿意为在乎的人做任何事。你安静的外表下藏着巨大的力量和忠诚。你的真我在保护他人中茁壮成长。",
+      "emoji": "🛡️"
+    },
+    "vulnerable": {
+      "title": "脆弱的灵魂",
+      "description": "在你坚强、有韧性的外表下，是一颗害怕受伤的柔软的心。你建起了高墙来保护自己，但你隐藏的人格非常渴望被真实地看见和接受。你的脆弱是你最大的力量。",
       "emoji": "💝"
     },
-    "practical": {
-      "title": "实践型天才",
-      "description": "你的隐藏天才在于你出色的实践智慧。你有让事情高效、可靠、有效运转的天赋。当别人梦想和计划时，你已经在建设和交付。你能将想法转化为现实的能力是一种罕见而宝贵的才能。",
-      "emoji": "🔧"
+    "rebel": {
+      "title": "反叛者",
+      "description": "你传统的外表下藏着革命的精神。你的隐藏人格质疑一切，拒绝盲从。你有着不为人知的强烈欲望，想要挑战现状。",
+      "emoji": "🔥"
+    },
+    "observer": {
+      "title": "观察者",
+      "description": "虽然你参与生活，但你的隐藏人格更喜欢观察和学习。你注意到别人错过的一切，深刻理解他人。你安静的外表下藏着一个看穿一切的天才分析师。",
+      "emoji": "👁️"
     }
   }
 }

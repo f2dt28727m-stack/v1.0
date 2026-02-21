@@ -1,153 +1,423 @@
 {
-  "quiz_id": "quiz_29",
-  "title": "What's Your Hidden Genius?",
+  "quizId": 29,
+  "title": "What Is Your Hidden Personality Type?",
   "category": "hidden",
-  "tags": ["Personality", "Hidden Talent", "Intelligence", "Unique", "Self Discovery"],
-  "description": "Everyone has a unique hidden genius waiting to be discovered! Answer these 12 questions to reveal your extraordinary hidden talent.",
-  "result_title": "Your Hidden Genius Is...",
-  "result_description": "You have a remarkable hidden talent that sets you apart from the crowd. Here's what makes you special:",
+  "category_name": "Hidden / Secret",
+  "language": "English",
+  "description": "Everyone has a public self and a hidden self. Discover what lies beneath your surface! Answer 12 questions to uncover your secret personality type.",
+  "tags": [
+    "Hidden",
+    "Secret",
+    "Personality",
+    "Inner Self",
+    "Psychology",
+    "隐藏",
+    "秘密",
+    "人格",
+    "内心"
+  ],
   "questions": [
     {
-      "question_id": "q1",
-      "question": "When you encounter a complex problem, what is your first instinct?",
+      "qId": 1,
+      "text": "When you're alone at night, you usually...",
       "options": [
-        {"option_id": "a", "text": "Break it down into smaller, manageable parts", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
-        {"option_id": "b", "text": "Imagine creative and unconventional solutions", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
-        {"option_id": "c", "text": "Think about how it affects the people involved", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 1}},
-        {"option_id": "d", "text": "Look for practical, real-world solutions that work", "scores": {"analytical": 1, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Think about life, dreams, and deep questions",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "Plan and organize things in your head",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "Watch shows or scroll through social media",
+          "score": {
+            "escapist": 3
+          }
+        },
+        {
+          "text": "Get creative - write, draw, or make something",
+          "score": {
+            "artist": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q2",
-      "question": "Which activity makes you lose track of time?",
+      "qId": 2,
+      "text": "What's your biggest fear that you rarely tell anyone?",
       "options": [
-        {"option_id": "a", "text": "Analyzing data or solving puzzles", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Creating something artistic or imaginative", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "Helping someone work through their problems", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Building or fixing something with your hands", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Being alone and not mattering to anyone",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "Failure and not reaching my potential",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "Losing control of things in my life",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "Not being understood or accepted",
+          "score": {
+            "dreamer": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q3",
-      "question": "What do friends usually come to you for?",
+      "qId": 3,
+      "text": "If you could be invisible for a day, you would...",
       "options": [
-        {"option_id": "a", "text": "Logical analysis and objective advice", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Fresh ideas and inspiration", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "A listening ear and emotional support", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Practical help getting things done", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Observe people you admire secretly",
+          "score": {
+            "observer": 3
+          }
+        },
+        {
+          "text": "Go anywhere without being judged",
+          "score": {
+            "free_spirit": 3
+          }
+        },
+        {
+          "text": "Discover secrets people are hiding",
+          "score": {
+            "curious": 3
+          }
+        },
+        {
+          "text": "Help others without them knowing",
+          "score": {
+            "guardian": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q4",
-      "question": "How do you typically learn new things best?",
+      "qId": 4,
+      "text": "What do you secretly envy about others?",
       "options": [
-        {"option_id": "a", "text": "Through reading, research, and understanding the theory", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Through hands-on experimentation and trying new approaches", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
-        {"option_id": "c", "text": "By observing and learning from others' experiences", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "By jumping in and figuring it out as I go", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Their confidence and social skills",
+          "score": {
+            "social_butterfly": 3
+          }
+        },
+        {
+          "text": "Their creative abilities",
+          "score": {
+            "artist": 3
+          }
+        },
+        {
+          "text": "Their discipline and productivity",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "Their ability to live in the moment",
+          "score": {
+            "free_spirit": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q5",
-      "question": "What's your approach when something needs to be improved?",
+      "qId": 5,
+      "text": "When nobody is watching, you...",
       "options": [
-        {"option_id": "a", "text": "Identify the root cause and fix the system", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
-        {"option_id": "b", "text": "Think of a completely new way to approach it", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "Understand how it impacts people and address those needs", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Just get it done efficiently and effectively", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Talk to yourself or have imaginary conversations",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "Practice skills you want to improve",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "Do something silly or embarrassing that you'd never admit",
+          "score": {
+            "playful": 3
+          }
+        },
+        {
+          "text": "Feel free to be completely yourself",
+          "score": {
+            "authentic": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q6",
-      "question": "Which quote resonates with you most?",
+      "qId": 6,
+      "text": "What fictional character do you relate to secretly?",
       "options": [
-        {"option_id": "a", "text": "Information is power", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Imagination is more important than knowledge", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "The greatest glory in living lies not in never falling", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Actions speak louder than words", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "A misunderstood anti-hero with a dark past",
+          "score": {
+            "rebel": 3
+          }
+        },
+        {
+          "text": "A genius who sees the world differently",
+          "score": {
+            "visionary": 3
+          }
+        },
+        {
+          "text": "A loyal protector with hidden strength",
+          "score": {
+            "guardian": 3
+          }
+        },
+        {
+          "text": "A wanderer seeking adventure and truth",
+          "score": {
+            "free_spirit": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q7",
-      "question": "When you see a pattern others miss, what do you notice?",
+      "qId": 7,
+      "text": "What's something you've never told anyone but think about often?",
       "options": [
-        {"option_id": "a", "text": "Logical connections between data points", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Unconventional possibilities and opportunities", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "Emotional undercurrents and human dynamics", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Practical applications and real-world uses", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "A mistake you wish you could undo",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "A secret dream or ambition",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "Something you're scared to admit you want",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "How different your life could have been",
+          "score": {
+            "curious": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q8",
-      "question": "What type of challenge excites you the most?",
+      "qId": 8,
+      "text": "If you could have one supernatural power, it would be...",
       "options": [
-        {"option_id": "a", "text": "A complex puzzle or logical riddle", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Creating something that has never been done before", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "Making a positive difference in someone's life", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Building something tangible and useful", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Reading minds to truly understand people",
+          "score": {
+            "observer": 3
+          }
+        },
+        {
+          "text": "Time manipulation to control your life",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "Invisibility to observe freely",
+          "score": {
+            "free_spirit": 3
+          }
+        },
+        {
+          "text": "Healing to help those you love",
+          "score": {
+            "guardian": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q9",
-      "question": "How do you prefer to communicate complex ideas?",
+      "qId": 9,
+      "text": "What do you do when you're stressed in secret?",
       "options": [
-        {"option_id": "a", "text": "With clear, logical explanations and data", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Through stories, metaphors, and visual representations", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "By relating it to personal experiences and feelings", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "By showing, not telling - hands-on demonstration", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Write in a journal or compose thoughts",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "Make lists and create action plans",
+          "score": {
+            "strategist": 3
+          }
+        },
+        {
+          "text": "Eat comfort food or shop impulsively",
+          "score": {
+            "escapist": 3
+          }
+        },
+        {
+          "text": "Exercise vigorously to release energy",
+          "score": {
+            "ambitious": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q10",
-      "question": "When faced with uncertainty, you rely on...",
+      "qId": 10,
+      "text": "What's your guilty pleasure that you'd never admit publicly?",
       "options": [
-        {"option_id": "a", "text": "Logic, reasoning, and available information", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Intuition and creative visualization", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "Trust in people and human connections", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Past experience and what has worked before", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "Watching cheesy romantic movies alone",
+          "score": {
+            "romantic": 3
+          }
+        },
+        {
+          "text": "Playing video games for hours",
+          "score": {
+            "playful": 3
+          }
+        },
+        {
+          "text": "Reading fanfiction or romance novels",
+          "score": {
+            "dreamer": 3
+          }
+        },
+        {
+          "text": "Obsessively researching random topics",
+          "score": {
+            "curious": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q11",
-      "question": "What skill have you always been naturally good at without much practice?",
+      "qId": 11,
+      "text": "If your life was a movie, what genre would it secretly be?",
       "options": [
-        {"option_id": "a", "text": "Understanding complex systems and finding flaws", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "Coming up with unique ideas and solutions", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "Understanding how others feel and what they need", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "Making things work with whatever is available", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "A psychological thriller with plot twists",
+          "score": {
+            "mysterious": 3
+          }
+        },
+        {
+          "text": "An epic adventure with a hero's journey",
+          "score": {
+            "hero": 3
+          }
+        },
+        {
+          "text": "A coming-of-age drama with emotional depth",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "A complex political drama with intrigue",
+          "score": {
+            "strategist": 3
+          }
+        }
       ]
     },
     {
-      "question_id": "q12",
-      "question": "If you could master any skill overnight, what would it be?",
+      "qId": 12,
+      "text": "What is your deepest, most secret desire?",
       "options": [
-        {"option_id": "a", "text": "The ability to solve any problem instantly", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
-        {"option_id": "b", "text": "The ability to create anything I can imagine", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
-        {"option_id": "c", "text": "The ability to understand and heal emotional pain", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
-        {"option_id": "d", "text": "The ability to build anything from scratch", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+        {
+          "text": "To be completely understood by someone",
+          "score": {
+            "vulnerable": 3
+          }
+        },
+        {
+          "text": "To achieve something extraordinary",
+          "score": {
+            "ambitious": 3
+          }
+        },
+        {
+          "text": "To escape and start fresh somewhere new",
+          "score": {
+            "free_spirit": 3
+          }
+        },
+        {
+          "text": "To create something that lasts forever",
+          "score": {
+            "artist": 3
+          }
+        }
       ]
     }
   ],
   "results": {
-    "analytical": {
-      "title": "The Analytical Genius",
-      "description": "Your hidden genius lies in your exceptional analytical abilities. You have a natural talent for seeing patterns, solving complex problems, and understanding how systems work. Your mind is like a finely tuned machine that can process vast amounts of information and find logical solutions that others might miss. This makes you invaluable in fields that require critical thinking, research, and strategic planning.",
-      "emoji": "🧠"
+    "dreamer": {
+      "title": "The Dreamer",
+      "description": "Beneath your practical exterior lies a world of imagination and deep thoughts. You're someone who dreams big and feels deeply. Your hidden self is romantic, introspective, and always wondering 'what if'. You hide your sensitive nature from the world, but it's the core of who you truly are.",
+      "emoji": "🌙"
     },
-    "creative": {
-      "title": "The Creative Genius",
-      "description": "Your hidden genius is your extraordinary creativity. You see possibilities where others see limitations, and your imagination knows no bounds. You have a unique ability to think outside the box and come up with innovative solutions that transform how people view the world. Your creative vision can inspire others and bring fresh perspectives to any challenge.",
+    "strategist": {
+      "title": "The Strategist",
+      "description": "While others see you as laid-back, your hidden self is always planning and analyzing. You have a brilliant mind that works in the background, constantly optimizing and strategizing. Your controlled exterior hides a mastermind always three steps ahead.",
+      "emoji": "♟️"
+    },
+    "artist": {
+      "title": "The Artist",
+      "description": "You hide a creative soul that yearns for self-expression. Behind your everyday persona lies a person who sees beauty in everything and feels things deeply. Your hidden self wants to create, to express, to make something meaningful that outlasts you.",
       "emoji": "🎨"
     },
-    "empathetic": {
-      "title": "The Empathetic Genius",
-      "description": "Your hidden genius is your profound emotional intelligence. You have an remarkable ability to understand what others are feeling and connect on a deep human level. Your empathy allows you to heal, inspire, and bring people together in ways that logical thinking alone cannot achieve. You have the power to make others feel seen, heard, and understood.",
+    "free_spirit": {
+      "title": "The Free Spirit",
+      "description": "Your conformist exterior hides a wild, untamed spirit. You dream of adventure, freedom, and breaking rules. Your hidden self craves spontaneity and refuses to be tied down. The call of the unknown is irresistible to your true self.",
+      "emoji": "🦋"
+    },
+    "guardian": {
+      "title": "The Guardian",
+      "description": "While you appear independent, your hidden self is deeply protective of those you love. You'd do anything for the people you care about. Your quiet exterior hides immense strength and loyalty. Your true self thrives on keeping others safe.",
+      "emoji": "🛡️"
+    },
+    "vulnerable": {
+      "title": "The Vulnerable Soul",
+      "description": "Behind your strong, resilient exterior lies a tender heart that fears getting hurt. You've built walls to protect yourself, but your hidden self desperately wants to be seen and accepted as you truly are. Your vulnerability is your greatest strength.",
       "emoji": "💝"
     },
-    "practical": {
-      "title": "The Practical Genius",
-      "description": "Your hidden genius is your exceptional practical intelligence. You have a gift for making things work - efficiently, reliably, and effectively. While others dream and plan, you build and deliver. Your ability to get things done and solve real-world problems is a rare and valuable talent that transforms ideas into reality.",
-      "emoji": "🔧"
+    "rebel": {
+      "title": "The Rebel",
+      "description": "Your conventional appearance hides a revolutionary spirit. Your hidden self questions everything and refuses to blindly follow. You have powerful opinions you keep to yourself, and a burning desire to challenge the status quo.",
+      "emoji": "🔥"
+    },
+    "observer": {
+      "title": "The Observer",
+      "description": "While you participate in life, your hidden self prefers to watch and learn. You notice everything others miss and understand people deeply. Your quiet exterior hides a brilliant analyst who sees through facades.",
+      "emoji": "👁️"
     }
   }
 }

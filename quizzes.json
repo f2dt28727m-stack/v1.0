@@ -365,16 +365,20 @@
     },
     {
       "quiz_id": "quiz_29",
-      "title": "What's Your Hidden Genius?",
+      "title": "What Is Your Hidden Personality Type?",
       "category": "hidden",
       "tags": [
+        "Hidden",
+        "Secret",
         "Personality",
-        "Hidden Talent",
-        "Intelligence",
-        "Unique",
-        "Self Discovery"
+        "Inner Self",
+        "Psychology",
+        "隐藏",
+        "秘密",
+        "人格",
+        "内心"
       ],
-      "description": "Everyone has a unique hidden genius waiting to be discovered! Answer these 12 questions to reveal your extraordinary hidden talent."
+      "description": "Everyone has a public self and a hidden self. Discover what lies beneath your surface! Answer 12 questions to uncover your secret personality type."
     }
   ]
 }
