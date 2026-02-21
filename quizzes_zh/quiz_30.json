@@ -1,171 +1,602 @@
 {
   "quizId": 30,
-  "title": "二选一：真实的你是谁？",
-  "category": "pick_one",
-  "category_name": "Pick One / Choose 二选一",
+  "title": "你是哪种星灵?",
+  "category": "persona",
+  "category_name": "Which X Are You?",
   "language": "Chinese",
-  "description": "简单的选择揭示真实的自我。A 还是 B？15个终极抉择，发现最真实的你！",
+  "description": "发现与你性格相匹配的神话星灵吧！回答12个问题，看看你是神圣的天使、神秘的月灵，还是强大的龙族。",
   "tags": [
-    "性格",
-    "二选一",
-    "选择",
-    "自我发现",
-    "生活方式",
-    "趣味"
+    "神话",
+    "星灵",
+    "天使",
+    "精灵",
+    " personality",
+    "fantasy"
   ],
   "questions": [
     {
       "qId": 1,
-      "text": "咖啡还是茶？",
+      "text": "你更喜欢如何度过空闲时间?",
       "options": [
-        {"optionId": "A", "text": "咖啡 - 我需要提神充电", "score": {"adventurous": 3, "practical": 2}},
-        {"optionId": "B", "text": "茶 - 我更喜欢平静与舒适", "score": {"traditional": 2, "peaceful": 3}}
+        {
+          "text": "引导并帮助他人找到人生方向",
+          "score": {
+            "angel": 3,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1,
+            "unicorn": 2
+          }
+        },
+        {
+          "text": "在星空下安静地沉思",
+          "score": {
+            "moon": 3,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1,
+            "unicorn": 1
+          }
+        },
+        {
+          "text": "用坚定的决心守护我所珍视的一切",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 1
+          }
+        },
+        {
+          "text": "寻找新的冒险，从挑战中崛起",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "dragon": 1,
+            "moon": 1,
+            "angel": 1
+          }
+        }
       ]
     },
     {
       "qId": 2,
-      "text": "海滩还是山脉？",
+      "text": "你在生活中最看重什么?",
       "options": [
-        {"optionId": "A", "text": "海滩 - 阳光、沙滩和放松", "score": {"outgoing": 3, "relaxed": 2}},
-        {"optionId": "B", "text": "山脉 - 冒险与自然", "score": {"adventurous": 3, "independent": 2}}
+        {
+          "text": "纯洁、光明，给他人带来希望",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "智慧、内省和内心的平静",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "力量、财宝，保护属于我的一切",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "angel": 0,
+            "moon": 0,
+            "unicorn": 1
+          }
+        },
+        {
+          "text": "重生、转化和内在的力量",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        }
       ]
     },
     {
       "qId": 3,
-      "text": "早起鸟还是夜猫子？",
+      "text": "你如何处理冲突?",
       "options": [
-        {"optionId": "A", "text": "早起鸟 - 早起的鸟儿有虫吃", "score": {"productive": 3, "organized": 2}},
-        {"optionId": "B", "text": "夜猫子 - 夜晚世界更安静", "score": {"creative": 3, "spontaneous": 2}}
+        {
+          "text": "寻求和平解决方案，引导他人走向和谐",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 2,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "后退一步，从远处分析局势",
+          "score": {
+            "moon": 3,
+            "unicorn": 1,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "直面它，用我全部的力量",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "超越它，转化局势",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 4,
-      "text": "城市还是乡村？",
+      "text": "你理想的环境是什么?",
       "options": [
-        {"optionId": "A", "text": "城市 - 充满刺激和机遇", "score": {"ambitious": 3, "social": 2}},
-        {"optionId": "B", "text": "乡村 - 宁静与自然", "score": {"peaceful": 3, "traditional": 2}}
+        {
+          "text": "充满光明和云彩的天国领域",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "银色月光下的神秘森林",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "有宝藏洞穴的古老山脉",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "花朵永远绽放的 ethereal 花园",
+          "score": {
+            "unicorn": 3,
+            "phoenix": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 0
+          }
+        }
       ]
     },
     {
       "qId": 5,
-      "text": "夏天还是冬天？",
+      "text": "你的朋友会如何形容你?",
       "options": [
-        {"optionId": "A", "text": "夏天 - 漫长的白天和温暖", "score": {"outgoing": 2, "energetic": 3}},
-        {"optionId": "B", "text": "冬天 - 温馨的氛围和雪", "score": {"thoughtful": 2, "romantic": 3}}
+        {
+          "text": "有爱心、总是保护他人",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "神秘、深邃、善于思考",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "angel": 1,
+            "dragon": 0
+          }
+        },
+        {
+          "text": "勇敢、强大、忠诚",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 1
+          }
+        },
+        {
+          "text": "鼓舞人心、有韧性、充满希望",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 6,
-      "text": "书籍还是电影？",
+      "text": "你想要什么能力?",
       "options": [
-        {"optionId": "A", "text": "书籍 - 想象力自由飞翔", "score": {"creative": 3, "thoughtful": 2}},
-        {"optionId": "B", "text": "电影 - 视觉故事", "score": {"social": 2, "practical": 3}}
+        {
+          "text": "治愈能力和带来光明的能力",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "时间操控和情感影响力",
+          "score": {
+            "moon": 3,
+            "unicorn": 1,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "强大的身体力量和喷火能力",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 0,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "从灰烬中重生和控制火焰",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "dragon": 1,
+            "moon": 1,
+            "angel": 1
+          }
+        }
       ]
     },
     {
       "qId": 7,
-      "text": "冒险还是舒适区？",
+      "text": "你达成目标的 approach 是什么?",
       "options": [
-        {"optionId": "A", "text": "冒险 - 尝试新事物！", "score": {"adventurous": 3, "brave": 2}},
-        {"optionId": "B", "text": "舒适区 - 安全又熟悉", "score": {"cautious": 2, "stable": 3}}
+        {
+          "text": "以同情心、引导和激励他人",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "以耐心、策略和内在智慧",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "以压倒性的力量和决心",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "通过转变和从挫折中崛起",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 8,
-      "text": "甜还是咸？",
+      "text": "你最大的恐惧是什么?",
       "options": [
-        {"optionId": "A", "text": "甜 - 甜点是人间美味", "score": {"playful": 3, "romantic": 2}},
-        {"optionId": "B", "text": "咸 - 给我咸的和辣的", "score": {"practical": 2, "bold": 3}}
+        {
+          "text": "失去我的光明或无法帮助他人",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "在黑暗中失去自我",
+          "score": {
+            "moon": 3,
+            "unicorn": 1,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "变得无力或失去我的力量",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "失败后无法再次崛起",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 9,
-      "text": "外向还是内向？",
+      "text": "你在团队中扮演什么角色?",
       "options": [
-        {"optionId": "A", "text": "外向 - 从人际中获取能量", "score": {"outgoing": 3, "social": 2}},
-        {"optionId": "B", "text": "内向 - 我在独处中充电", "score": {"thoughtful": 3, "independent": 2}}
+        {
+          "text": "保护者和道德指南针",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "有智慧的顾问，能看到大局",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "angel": 1,
+            "dragon": 0
+          }
+        },
+        {
+          "text": "强大的领袖，冲锋在前",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "希望与重生的鼓舞象征",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 10,
-      "text": "计划还是随性？",
+      "text": "你如何看待道德?",
       "options": [
-        {"optionId": "A", "text": "计划 - 我喜欢有准备", "score": {"organized": 3, "practical": 2}},
-        {"optionId": "B", "text": "随性 - 活在当下！", "score": {"spontaneous": 3, "creative": 2}}
+        {
+          "text": "是非之间有明确的界限",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "取决于视角和背景",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "权力决定对错",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 0,
+            "moon": 1,
+            "angel": 0
+          }
+        },
+        {
+          "text": "关于转变和成长",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "angel": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 11,
-      "text": "狗还是猫？",
+      "text": "什么带给你内心的平静?",
       "options": [
-        {"optionId": "A", "text": "狗 - 忠诚活泼的伙伴", "score": {"loyal": 3, "outgoing": 2}},
-        {"optionId": "B", "text": "猫 - 独立又神秘", "score": {"independent": 3, "mysterious": 2}}
+        {
+          "text": "帮助他人，看到他们的笑容",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "在夜空下静心冥想",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "知道我的力量是无与伦比的",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "知道我能够克服任何障碍",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 12,
-      "text": "热水澡还是冷水澡？",
+      "text": "如果你可以拥有一只神话伙伴，它会是...",
       "options": [
-        {"optionId": "A", "text": "热水澡 - 极致放松", "score": {"romantic": 2, "relaxed": 3}},
-        {"optionId": "B", "text": "冷水澡 - 清醒又提神", "score": {"brave": 3, "energetic": 2}}
-      ]
-    },
-    {
-      "qId": 13,
-      "text": "发邮件还是打电话？",
-      "options": [
-        {"optionId": "A", "text": "邮件 - 我更喜欢文字沟通", "score": {"thoughtful": 3, "organized": 2}},
-        {"optionId": "B", "text": "电话 - 我们直接聊", "score": {"direct": 3, "social": 2}}
-      ]
-    },
-    {
-      "qId": 14,
-      "text": "独自旅行还是结伴旅行？",
-      "options": [
-        {"optionId": "A", "text": "独自旅行 - 自己的冒险", "score": {"independent": 3, "adventurous": 2}},
-        {"optionId": "B", "text": "结伴旅行 - 和朋友的回忆", "score": {"social": 3, "loyal": 2}}
-      ]
-    },
-    {
-      "qId": 15,
-      "text": "经典还是潮流？",
-      "options": [
-        {"optionId": "A", "text": "经典 - 永恒且可靠", "score": {"traditional": 3, "stable": 2}},
-        {"optionId": "B", "text": "潮流 - 永远走在前沿", "score": {"creative": 2, "bold": 3}}
+        {
+          "text": "一只光明的白鸽",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "一只智慧的老猫头鹰",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "angel": 1,
+            "dragon": 0
+          }
+        },
+        {
+          "text": "一只凶猛的狮鹫",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "一只发光的蝴蝶",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 0
+          }
+        }
       ]
     }
   ],
-  "results": {
-    "adventurous": {
-      "title": "冒险家",
-      "description": "你勇敢、好奇，总是准备迎接下一个挑战。生命是一场冒险，而你正在 fullest 地生活它！",
-      "emoji": "🏔️"
+  "results": [
+    {
+      "title": "神圣天使",
+      "description": "你是一颗纯洁心灵的天使，你的使命是为世界带来光明和希望。你的养育本能驱使我们保护和引导他人，始终努力做正确的事。你相信同情心的力量，总是伸出援手帮助需要帮助的人。",
+      "image": "https://pic.quizypop.com/2022/12/08/angel.png",
+      "mbtiTypes": ["ENFJ", "INFJ", "ISFJ", "ESFJ"]
     },
-    "peaceful": {
-      "title": "平静追求者",
-      "description": "你重视宁静与和谐。你理想的生活是平静与平衡。",
-      "emoji": "🧘"
+    {
+      "title": "神秘月灵",
+      "description": "你是一个深邃内省的月之精灵，在孤独中找到智慧。你神秘的本性吸引他人，他们常常寻求你的建议。你以独特的视角看待世界，理解生活中其他人可能错过的微妙复杂性。",
+      "image": "https://pic.quizypop.com/2022/12/08/moon.png",
+      "mbtiTypes": ["INTJ", "INFJ", "INFP", "INTP"]
     },
-    "social": {
-      "title": "社交达人",
-      "description": "你在关系中茁壮成长，喜欢与人在一起。你的能量来自人际关系！",
-      "emoji": "🦋"
+    {
+      "title": "远古巨龍",
+      "description": "你是一条强大的巨龙，以强大的力量和凶猛的忠诚赢得尊重。你以坚定不移的决心守护对你最重要的东西。虽然别人可能觉得你令人生畏，但那些赢得你信任的人将拥有一生的忠诚盟友。",
+      "image": "https://pic.quizypop.com/2022/12/08/dragon.png",
+      "mbtiTypes": ["ESTJ", "ENTJ", "ISTP", "ESTP"]
     },
-    "creative": {
-      "title": "创意灵魂",
-      "description": "想象力是你的超能力。你用独特、艺术的角度看待世界。",
-      "emoji": "🎨"
+    {
+      "title": "重生凤凰",
+      "description": "你是一只伟大的凤凰，内在的力量让你能从任何灰烬中崛起。你拥抱转变，将挑战视为成长的机会。你鼓舞人心的存在激励他人克服自己的困难，相信重生的力量。",
+      "image": "https://pic.quizypop.com/2022/12/08/phoenix.png",
+      "mbtiTypes": ["ENFP", "ENTP", "ENFJ", "ENTJ"]
     },
-    "traditional": {
-      "title": "传统主义者",
-      "description": "你欣赏经典，重视稳定。你的选择体现了智慧和可靠。",
-      "emoji": "📚"
-    },
-    "independent": {
-      "title": "独立灵魂",
-      "description": "你按自己的节奏行事。自立是你的代名词。",
-      "emoji": "🦅"
+    {
+      "title": "纯洁独角兽",
+      "description": "你是一只神奇的独角兽，代表纯洁、希望和温柔的力量。你为周围的人带来欢乐，相信世界的美好。你善良的心和乐观的视野成为他人的灯塔，激励他们相信奇迹。",
+      "image": "https://pic.quizypop.com/2022/12/08/unicorn.png",
+      "mbtiTypes": ["INFP", "ISFP", "ESFP", "ENFP"]
     }
-  },
-  "resultCalculation": "highest_score"
+  ]
 }

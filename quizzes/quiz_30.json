@@ -1,171 +1,605 @@
 {
   "quizId": 30,
-  "title": "This or That: Your True Self",
-  "category": "pick_one",
-  "category_name": "Pick One / Choose",
+  "title": "Which Celestial Being Are You?",
+  "category": "persona",
+  "category_name": "Which X Are You?",
   "language": "English",
-  "description": "Simple choices reveal who you really are. A or B? Discover your true self in 15 ultimate showdowns!",
+  "description": "Discover which mythical celestial being matches your personality! Answer 12 questions to find out if you're a divine angel, mysterious moon spirit, or powerful dragon.",
   "tags": [
+    "Mythology",
+    "Fantasy",
     "Personality",
-    "A or B",
-    "Choice",
-    "Self Discovery",
-    "Lifestyle",
-    "趣味"
+    "Celestial",
+    "Spirit",
+    "神话",
+    "星灵",
+    "天使",
+    "精灵"
   ],
   "questions": [
     {
       "qId": 1,
-      "text": "Coffee or Tea?",
+      "text": "How do you prefer to spend your free time?",
       "options": [
-        {"optionId": "A", "text": "Coffee - I need that energy boost", "score": {"adventurous": 3, "practical": 2}},
-        {"optionId": "B", "text": "Tea - I prefer calm and comfort", "score": {"traditional": 2, "peaceful": 3}}
+        {
+          "text": "Guiding and helping others find their path",
+          "score": {
+            "angel": 3,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1,
+            "unicorn": 2
+          }
+        },
+        {
+          "text": "Contemplating in quiet solitude under the stars",
+          "score": {
+            "moon": 3,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1,
+            "unicorn": 1
+          }
+        },
+        {
+          "text": "Guarding what I cherish with fierce determination",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 1
+          }
+        },
+        {
+          "text": "Seeking new adventures and rising from challenges",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "dragon": 1,
+            "moon": 1,
+            "angel": 1
+          }
+        }
       ]
     },
     {
       "qId": 2,
-      "text": "Beach or Mountains?",
+      "text": "What do you value most in life?",
       "options": [
-        {"optionId": "A", "text": "Beach - Sun, sand, and relaxation", "score": {"outgoing": 3, "relaxed": 2}},
-        {"optionId": "B", "text": "Mountains - Adventure and nature", "score": {"adventurous": 3, "independent": 2}}
+        {
+          "text": "Purity, light, and bringing hope to others",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Wisdom, introspection, and inner peace",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Power, treasure, and protecting what's mine",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "angel": 0,
+            "moon": 0,
+            "unicorn": 1
+          }
+        },
+        {
+          "text": "Rebirth, transformation, and inner strength",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        }
       ]
     },
     {
       "qId": 3,
-      "text": "Morning Person or Night Owl?",
+      "text": "How do you handle conflicts?",
       "options": [
-        {"optionId": "A", "text": "Morning Person - Early bird catches the worm", "score": {"productive": 3, "organized": 2}},
-        {"optionId": "B", "text": "Night Owl - The world is quieter at night", "score": {"creative": 3, "spontaneous": 2}}
+        {
+          "text": "I seek peaceful resolutions and guide others toward harmony",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 2,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "I step back and analyze the situation from a distance",
+          "score": {
+            "moon": 3,
+            "unicorn": 1,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "I face it head-on with all my strength",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "I rise above and transform the situation",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 4,
-      "text": "City or Countryside?",
+      "text": "What is your ideal environment?",
       "options": [
-        {"optionId": "A", "text": "City - Excitement and opportunities everywhere", "score": {"ambitious": 3, "social": 2}},
-        {"optionId": "B", "text": "Countryside - Peace and connection with nature", "score": {"peaceful": 3, "traditional": 2}}
+        {
+          "text": "Heavenly realms filled with light and clouds",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Mystical forests under a silver moonlight",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Ancient mountains with treasure caves",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "Ethereal gardens where flowers bloom eternally",
+          "score": {
+            "unicorn": 3,
+            "phoenix": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 0
+          }
+        }
       ]
     },
     {
       "qId": 5,
-      "text": "Summer or Winter?",
+      "text": "How would your friends describe you?",
       "options": [
-        {"optionId": "A", "text": "Summer - Long days and warmth", "score": {"outgoing": 2, "energetic": 3}},
-        {"optionId": "B", "text": "Winter - Cozy vibes and snow", "score": {"thoughtful": 2, "romantic": 3}}
+        {
+          "text": "Nurturing, protective, and always there for others",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Mysterious, wise, and deeply introspective",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "angel": 1,
+            "dragon": 0
+          }
+        },
+        {
+          "text": "Bold, powerful, and fiercely loyal",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 1
+          }
+        },
+        {
+          "text": "Inspiring, resilient, and full of hope",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 6,
-      "text": "Books or Movies?",
+      "text": "What powers would you want?",
       "options": [
-        {"optionId": "A", "text": "Books - Imagination runs wild", "score": {"creative": 3, "thoughtful": 2}},
-        {"optionId": "B", "text": "Movies - Visual storytelling", "score": {"social": 2, "practical": 3}}
+        {
+          "text": "Healing abilities and the power to bring light",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Time manipulation and emotional influence",
+          "score": {
+            "moon": 3,
+            "unicorn": 1,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "Immense physical strength and fire breathing",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 0,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "Rebirth from ashes and control over flames",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "dragon": 1,
+            "moon": 1,
+            "angel": 1
+          }
+        }
       ]
     },
     {
       "qId": 7,
-      "text": "Adventure or Comfort Zone?",
+      "text": "What's your approach to achieving goals?",
       "options": [
-        {"optionId": "A", "text": "Adventure - Try something new!", "score": {"adventurous": 3, "brave": 2}},
-        {"optionId": "B", "text": "Comfort Zone - Safe and familiar", "score": {"cautious": 2, "stable": 3}}
+        {
+          "text": "With compassion, guidance, and by inspiring others",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "With patience, strategy, and inner wisdom",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "With overwhelming force and determination",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "Through transformation and rising from setbacks",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 8,
-      "text": "Sweet or Savory?",
+      "text": "What is your greatest fear?",
       "options": [
-        {"optionId": "A", "text": "Sweet - Desserts are the best", "score": {"playful": 3, "romantic": 2}},
-        {"optionId": "B", "text": "Savory - Give me salty and spicy", "score": {"practical": 2, "bold": 3}}
+        {
+          "text": "Losing my light or being unable to help others",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Losing my sense of self in darkness",
+          "score": {
+            "moon": 3,
+            "unicorn": 1,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "Being powerless or losing my strength",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "Being unable to rise again after failure",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 9,
-      "text": "Extrovert or Introvert?",
+      "text": "What role do you play in a group?",
       "options": [
-        {"optionId": "A", "text": "Extrovert - I draw energy from people", "score": {"outgoing": 3, "social": 2}},
-        {"optionId": "B", "text": "Introvert - I recharge alone", "score": {"thoughtful": 3, "independent": 2}}
+        {
+          "text": "The protector and moral compass",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 1,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "The wise counselor who sees the big picture",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "angel": 1,
+            "dragon": 0
+          }
+        },
+        {
+          "text": "The powerful leader who charges forward",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "The inspiring symbol of hope and renewal",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 10,
-      "text": "Planned or Spontaneous?",
+      "text": "How do you view morality?",
       "options": [
-        {"optionId": "A", "text": "Planned - I love being prepared", "score": {"organized": 3, "practical": 2}},
-        {"optionId": "B", "text": "Spontaneous - Live in the moment!", "score": {"spontaneous": 3, "creative": 2}}
+        {
+          "text": "There's a clear line between good and evil",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "It depends on perspective and context",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "dragon": 1,
+            "angel": 1
+          }
+        },
+        {
+          "text": "Power defines what's right",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 0,
+            "moon": 1,
+            "angel": 0
+          }
+        },
+        {
+          "text": "It's about transformation and growth",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "angel": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 11,
-      "text": "Dog or Cat?",
+      "text": "What brings you inner peace?",
       "options": [
-        {"optionId": "A", "text": "Dog - Loyal and active companion", "score": {"loyal": 3, "outgoing": 2}},
-        {"optionId": "B", "text": "Cat - Independent and mysterious", "score": {"independent": 3, "mysterious": 2}}
+        {
+          "text": "Helping others and seeing their smiles",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Quiet meditation under the night sky",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "Knowing my力量 is unmatched",
+          "score": {
+            "dragon": 3,
+            "phoenix": 1,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "Knowing I can overcome any obstacle",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 1
+          }
+        }
       ]
     },
     {
       "qId": 12,
-      "text": "Hot Shower or Cold Shower?",
+      "text": "If you could have a mythical companion, it would be...",
       "options": [
-        {"optionId": "A", "text": "Hot Shower - Ultimate relaxation", "score": {"romantic": 2, "relaxed": 3}},
-        {"optionId": "B", "text": "Cold Shower - Wake up and energize", "score": {"brave": 3, "energetic": 2}}
-      ]
-    },
-    {
-      "qId": 13,
-      "text": "Email or Phone Call?",
-      "options": [
-        {"optionId": "A", "text": "Email - I prefer written communication", "score": {"thoughtful": 3, "organized": 2}},
-        {"optionId": "B", "text": "Phone Call - Let's talk it out", "score": {"direct": 3, "social": 2}}
-      ]
-    },
-    {
-      "qId": 14,
-      "text": "Solo Travel or Group Travel?",
-      "options": [
-        {"optionId": "A", "text": "Solo Travel - My own adventure", "score": {"independent": 3, "adventurous": 2}},
-        {"optionId": "B", "text": "Group Travel - Memories with friends", "score": {"social": 3, "loyal": 2}}
-      ]
-    },
-    {
-      "qId": 15,
-      "text": "Classic or Trendy?",
-      "options": [
-        {"optionId": "A", "text": "Classic - Timeless and reliable", "score": {"traditional": 3, "stable": 2}},
-        {"optionId": "B", "text": "Trendy - Always staying current", "score": {"creative": 2, "bold": 3}}
+        {
+          "text": "A luminous white dove",
+          "score": {
+            "angel": 3,
+            "unicorn": 2,
+            "moon": 1,
+            "dragon": 0,
+            "phoenix": 1
+          }
+        },
+        {
+          "text": "A wise old owl",
+          "score": {
+            "moon": 3,
+            "unicorn": 2,
+            "phoenix": 1,
+            "angel": 1,
+            "dragon": 0
+          }
+        },
+        {
+          "text": "A fierce griffin",
+          "score": {
+            "dragon": 3,
+            "phoenix": 2,
+            "unicorn": 1,
+            "moon": 0,
+            "angel": 0
+          }
+        },
+        {
+          "text": "A luminous butterfly",
+          "score": {
+            "phoenix": 3,
+            "unicorn": 2,
+            "angel": 1,
+            "moon": 1,
+            "dragon": 0
+          }
+        }
       ]
     }
   ],
-  "results": {
-    "adventurous": {
-      "title": "The Adventurer",
-      "description": "You're bold, curious, and always ready for the next challenge. Life is an adventure, and you're living it to the fullest!",
-      "emoji": "🏔️"
+  "results": [
+    {
+      "title": "Divine Angel",
+      "description": "You are a pure-hearted angel whose mission is to bring light and hope to the world. Your nurturing nature drives you to protect and guide others, always striving to do what's right. You believe in the power of compassion and are always there to lend a helping hand to those in need.",
+      "image": "https://pic.quizypop.com/2022/12/08/angel.png",
+      "mbtiTypes": ["ENFJ", "INFJ", "ISFJ", "ESFJ"]
     },
-    "peaceful": {
-      "title": "The Peace Seeker",
-      "description": "You value tranquility and harmony. Your ideal life is one of calm and balance.",
-      "emoji": "🧘"
+    {
+      "title": "Mysterious Moon Spirit",
+      "description": "You are a deep and introspective moon spirit who finds wisdom in solitude. Your mysterious nature draws others to you, and they often seek your counsel. You see the world through a unique lens, understanding the subtle complexities of life that others might miss.",
+      "image": "https://pic.quizypop.com/2022/12/08/moon.png",
+      "mbtiTypes": ["INTJ", "INFJ", "INFP", "INTP"]
     },
-    "social": {
-      "title": "The Social Butterfly",
-      "description": "You thrive on connection and love being around people. Your energy comes from relationships!",
-      "emoji": "🦋"
+    {
+      "title": "Ancient Dragon",
+      "description": "You are a powerful dragon who commands respect through your immense strength and fierce loyalty. You guard what matters most to you with unwavering determination. While others may see you as intimidating, those who earn your trust have a loyal ally for life.",
+      "image": "https://pic.quizypop.com/2022/12/08/dragon.png",
+      "mbtiTypes": ["ESTJ", "ENTJ", "ISTP", "ESTP"]
     },
-    "creative": {
-      "title": "The Creative Soul",
-      "description": "Imagination is your superpower. You see the world through a unique, artistic lens.",
-      "emoji": "🎨"
+    {
+      "title": "Reborn Phoenix",
+      "description": "You are a magnificent phoenix whose inner strength allows you to rise from any ashes. You embrace transformation and view challenges as opportunities for growth. Your inspiring presence motivates others to overcome their own struggles and believe in the power of renewal.",
+      "image": "https://pic.quizypop.com/2022/12/08/phoenix.png",
+      "mbtiTypes": ["ENFP", "ENTP", "ENFJ", "ENTJ"]
     },
-    "traditional": {
-      "title": "The Traditionalist",
-      "description": "You appreciate the classics and value stability. Your choices reflect wisdom and reliability.",
-      "emoji": "📚"
-    },
-    "independent": {
-      "title": "The Independent Spirit",
-      "description": "You march to the beat of your own drum. Self-reliance is your middle name.",
-      "emoji": "🦅"
+    {
+      "title": "Pure Unicorn",
+      "description": "You are a magical unicorn representing purity, hope, and gentle strength. You bring joy to those around you and believe in the goodness of the world. Your kind heart and optimistic outlook make you a beacon of light for others, and you inspire them to believe in miracles.",
+      "image": "https://pic.quizypop.com/2022/12/08/unicorn.png",
+      "mbtiTypes": ["INFP", "ISFP", "ESFP", "ENFP"]
     }
-  },
-  "resultCalculation": "highest_score"
+  ]
 }
