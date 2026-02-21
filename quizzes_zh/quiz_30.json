@@ -1,0 +1,349 @@
+{
+  "quizId": 30,
+  "title": "What Will Your NewJeans-Aligned Future Self Be Like?",
+  "category": "future",
+  "tags": [
+    "NewJeans",
+    "K-pop",
+    "Future Lifestyle",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover what your NewJeans-aligned future self will look like!",
+  "questions": [
+    {
+      "text": "When planning a weekend, you’re most drawn to...",
+      "options": [
+        {
+          "text": "A fan meetup where you can bond with other NewJeans enthusiasts over shared memes and merch",
+          "score": "E"
+        },
+        {
+          "text": "A whimsical picnic in a flower field, imagining you’re in one of their dreamy music videos",
+          "score": "N"
+        },
+        {
+          "text": "A cozy at-home marathon of the group’s behind-the-scenes content with a warm drink",
+          "score": "I"
+        },
+        {
+          "text": "A trip to a local vintage shop to hunt for Y2K pieces that match their iconic style",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your friend is upset after missing a NewJeans concert, you...",
+      "options": [
+        {
+          "text": "Stick to a pre-planned comfort routine you know always cheers them up",
+          "score": "J"
+        },
+        {
+          "text": "Help them plan a private viewing party with custom snacks to recreate the concert vibe",
+          "score": "T"
+        },
+        {
+          "text": "Lend them your concert recording and listen as they vent about their disappointment",
+          "score": "F"
+        },
+        {
+          "text": "Spontaneously take them to a nearby arcade to distract them with fun games",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When a NewJeans comeback is announced, you...",
+      "options": [
+        {
+          "text": "Dive deep into analyzing the teaser images for hidden clues about the concept",
+          "score": "N"
+        },
+        {
+          "text": "Create a detailed countdown schedule with specific times to stream, vote, and share content",
+          "score": "J"
+        },
+        {
+          "text": "Immediately text your group chat to coordinate a live reaction session with friends",
+          "score": "E"
+        },
+        {
+          "text": "Go with the flow, engaging with content whenever it pops up on your feed naturally",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When designing a NewJeans-themed playlist for a party, you prioritize...",
+      "options": [
+        {
+          "text": "Mixing their tracks with underrated Y2K bops that capture the same nostalgic vibe",
+          "score": "N"
+        },
+        {
+          "text": "Organizing the playlist by tempo to keep the party energy balanced from start to finish",
+          "score": "T"
+        },
+        {
+          "text": "Including their most chart-topping hits that you know everyone will sing along to",
+          "score": "S"
+        },
+        {
+          "text": "Asking your friends for their favorite NewJeans songs to ensure everyone feels included",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you have extra free time, you’re most likely to...",
+      "options": [
+        {
+          "text": "Join an online fan art contest to create a piece inspired by NewJeans’ latest concept",
+          "score": "N"
+        },
+        {
+          "text": "Sort and organize your growing collection of NewJeans photocards by era",
+          "score": "S"
+        },
+        {
+          "text": "Host a virtual watch party of their variety show appearances with fans from around the world",
+          "score": "E"
+        },
+        {
+          "text": "Spend the afternoon writing personal reflections about how their music impacts you",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When learning a NewJeans dance routine, you...",
+      "options": [
+        {
+          "text": "Focus on mastering the emotional expression behind the dance to match the group’s vibe",
+          "score": "F"
+        },
+        {
+          "text": "Break down the choreography into logical segments to understand the structure better",
+          "score": "T"
+        },
+        {
+          "text": "Freestyle parts of the routine to add your own unique flair while keeping the core moves",
+          "score": "P"
+        },
+        {
+          "text": "Follow step-by-step tutorials and practice each section repeatedly until it’s perfect",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a NewJeans-themed phone case, you pick the one that...",
+      "options": [
+        {
+          "text": "Is durable and has a pocket for your earbuds, combining style with functionality",
+          "score": "T"
+        },
+        {
+          "text": "Features a candid photo of the group from a recent fan meet, feeling like you’re close to them",
+          "score": "S"
+        },
+        {
+          "text": "Has a surreal, dreamy design that reflects the ethereal vibe of their slower tracks",
+          "score": "N"
+        },
+        {
+          "text": "You saw your favorite member using in an Instagram story, wanting to match their style",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a NewJeans fan event, you...",
+      "options": [
+        {
+          "text": "Wander freely, following whatever catches your eye and joining activities spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Arrive early to network with as many fans as possible and exchange contact info",
+          "score": "E"
+        },
+        {
+          "text": "Stay in a small corner with a close friend, enjoying the event without drawing attention",
+          "score": "I"
+        },
+        {
+          "text": "Plan every minute of your day at the event, from which booths to visit to when to eat",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on how NewJeans has influenced you, you think most about...",
+      "options": [
+        {
+          "text": "The abstract ideas of joy and nostalgia their music has taught you to embrace",
+          "score": "N"
+        },
+        {
+          "text": "The strong sense of community you’ve found through connecting with other fans",
+          "score": "F"
+        },
+        {
+          "text": "The practical ways their confidence has inspired you to try new fashion styles",
+          "score": "S"
+        },
+        {
+          "text": "The logical structure of their music production that makes their tracks so catchy",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When planning a NewJeans-themed birthday party for a friend, you...",
+      "options": [
+        {
+          "text": "Stick to a detailed checklist you made weeks in advance to ensure every detail is perfect",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneously decide to decorate with flower garlands and fairy lights at the last minute",
+          "score": "P"
+        },
+        {
+          "text": "Invite all their favorite people and focus on creating warm, memorable moments together",
+          "score": "E"
+        },
+        {
+          "text": "Design a party that feels like a private concert, with personalized playlists and photo booths",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When hearing a new NewJeans track for the first time, you...",
+      "options": [
+        {
+          "text": "Analyze the beat and production to figure out why it’s so catchy and addictive",
+          "score": "T"
+        },
+        {
+          "text": "Immediately text your group chat to share your first impressions and discuss the track",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the lyrics’ emotional meaning and how they resonate with your own life",
+          "score": "F"
+        },
+        {
+          "text": "Listen on repeat in silence, letting the music wash over you without overthinking",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal future day inspired by NewJeans would involve...",
+      "options": [
+        {
+          "text": "Taking a spontaneous road trip to a nearby beach, blaring their music the whole way",
+          "score": "P"
+        },
+        {
+          "text": "Writing a short story set in a world where you’re a member of the group on tour",
+          "score": "N"
+        },
+        {
+          "text": "Exploring a new vintage market to find unique Y2K pieces and documenting your finds",
+          "score": "S"
+        },
+        {
+          "text": "Hosting a brunch with friends where you bake NewJeans-themed cookies and share stories",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Inclusive Community Builder (ENFJ)",
+      "description": "You’re destined to be the heart of your local NewJeans fandom, organizing charity streams and inclusive fan meetups that bring people together. Your future days are filled with uplifting others, sharing your love for the group through heartfelt posts, and creating safe spaces where fans can connect deeply. You’ll turn your passion into purpose, making a positive impact that echoes NewJeans’ warm, welcoming energy.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Whimsical Dream Weaver (ENFP)",
+      "description": "Your future self will turn everyday moments into NewJeans-inspired fairy tales, from spontaneous picnics in flower fields to impromptu dance parties in your living room. You’ll be known for your creative fan art and imaginative fan fiction that captures the group’s ethereal vibe, inspiring others to embrace their own playful, dreamy side. Your life will be a vibrant celebration of joy and nostalgia.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Strategic Visionary (ENTJ)",
+      "description": "You’ll turn your love for NewJeans into a well-oiled machine, launching a successful fan account with data-driven content strategies that boost the group’s visibility. Your future days are filled with analyzing chart trends, organizing large-scale fan projects, and turning big ideas into actionable plans. You’ll lead fandom initiatives with confidence, making a tangible impact on the group’s success.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Bold Innovator (ENTP)",
+      "description": "Your future self will revolutionize the NewJeans fandom with quirky, unexpected projects—from interactive fan games to viral challenges that reimagine the group’s music videos. You’ll thrive on debating new theories about the group’s concepts and pushing boundaries with creative collaborations. Your life will be a constant adventure, full of witty banter and groundbreaking ideas that keep the fandom excited.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Nurturing Supporter (ESFJ)",
+      "description": "You’ll be the go-to fan for anyone needing comfort or advice, whether it’s helping a friend recover from missing a concert or sending handmade NewJeans-themed gifts to fellow fans. Your future days are filled with warm, cozy gatherings where you bake group-inspired snacks and share behind-the-scenes stories. You’ll embody NewJeans’ gentle energy, making everyone feel seen and loved.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Vibrant Entertainer (ESFP)",
+      "description": "Your future self will be the life of every NewJeans fan event, organizing impromptu dance battles and karaoke sessions that get everyone on their feet. You’ll document your adventures with fun, colorful vlogs that showcase your love for the group, inspiring others to live in the moment. Your life will be a nonstop celebration of NewJeans’ upbeat, infectious energy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Reliable Organizer (ESTJ)",
+      "description": "You’ll be the backbone of the NewJeans fandom, managing fan projects with precise schedules and clear guidelines that ensure everything runs smoothly. Your future days are filled with coordinating group orders for merch, organizing watch parties with strict timelines, and ensuring every fan has access to the latest updates. You’ll turn chaos into order, making the fandom a well-functioning community.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Adventurer (ESTP)",
+      "description": "Your future self will chase every NewJeans-related opportunity, from last-minute road trips to see them on tour to impromptu visits to their favorite cafes in Seoul. You’ll thrive on the thrill of the moment, capturing every adventure with candid photos and lively stories. Your life will be a series of exciting detours, all fueled by your unapologetic love for the group.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Intuitive Storyteller (INFJ)",
+      "description": "Your future self will create deep, meaningful content that explores the emotional core of NewJeans’ music, writing essays that connect their lyrics to universal themes of growth and nostalgia. You’ll be a quiet force in the fandom, inspiring others to reflect on their own journeys through the group’s art. Your life will be a mix of solitude and deep connections, centered around introspection and creativity.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Gentle Dreamer (INFP)",
+      "description": "Your future self will live a slow, intentional life inspired by NewJeans’ softer tracks, spending days reading poetry in sunlit rooms and creating delicate fan art that captures the group’s quiet beauty. You’ll form deep, one-on-one connections with fellow fans who share your love for the group’s more introspective side. Your life will be a peaceful retreat, filled with warmth and gentle joy.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Analytical Strategist (INTJ)",
+      "description": "You’ll dive deep into the psychology of NewJeans’ success, writing detailed analyses of their brand strategy and music production that gain traction in fan circles. Your future days are filled with researching industry trends and developing long-term plans to support the group’s career. You’ll be a respected voice in the fandom, known for your sharp insights and logical approach.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Theorist (INTP)",
+      "description": "Your future self will spend hours unraveling hidden meanings in NewJeans’ music videos and lyrics, developing complex theories that spark lively debates in fandom forums. You’ll be a quiet innovator, creating fan-made tools to analyze the group’s music and share your findings with others. Your life will be a constant quest for knowledge, driven by your fascination with every detail of the group’s art.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Devoted Caregiver (ISFJ)",
+      "description": "You’ll be the fan who remembers every member’s birthday, sends handwritten letters to the group, and creates care packages for fans going through tough times. Your future days are filled with small, thoughtful acts that honor NewJeans’ kind spirit, from volunteering at charity events in their name to helping new fans navigate the fandom. You’ll be a source of comfort and stability for everyone around you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Creative Soul (ISFP)",
+      "description": "Your future self will express your love for NewJeans through tactile art—knitting member-themed scarves, painting murals inspired by their music videos, and designing custom merch that blends their style with your own. You’ll live a quiet, artistic life, finding joy in the process of creating rather than the spotlight. Your work will resonate with fans who appreciate the beauty of small, meaningful details.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Steadfast Loyalist (ISTJ)",
+      "description": "You’ll be the fan who has supported NewJeans since their debut, meticulously tracking every era with organized scrapbooks and detailed notes. Your future days are filled with consistent, quiet support—streaming their music daily, voting in every poll, and sharing factual updates with the fandom. You’ll be a reliable presence, embodying the group’s dedication and commitment to their craft.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-on Creator (ISTP)",
+      "description": "Your future self will build custom NewJeans-themed gadgets—from light-up phone cases that sync with their music to DIY concert props that stand out at events. You’ll thrive on troubleshooting and innovating, sharing tutorials that help other fans create their own unique merch. Your life will be a mix of practicality and creativity, centered around turning your love for the group into tangible, useful things.",
+      "mbti": "ISTP"
+    }
+  ]
+}

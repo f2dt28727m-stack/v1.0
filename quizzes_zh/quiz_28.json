@@ -1,0 +1,349 @@
+{
+  "quizId": 28,
+  "title": "What NewJeans-Inspired Personality Type Are You?",
+  "category": "whatwould",
+  "tags": [
+    "NewJeans",
+    "K-pop",
+    "Personality",
+    "MBTI",
+    "What Would You Do"
+  ],
+  "description": "Answer 12 questions to discover your NewJeans-inspired personality type!",
+  "questions": [
+    {
+      "text": "NewJeans invites you to join their pre-show backstage prep. You would...",
+      "options": [
+        {
+          "text": "Quietly help organize stage props, nodding along to conversations occasionally",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm impromptu dance moves to add to their opening routine",
+          "score": "N"
+        },
+        {
+          "text": "Strike up lively chats with every member, sharing your favorite concert moments",
+          "score": "E"
+        },
+        {
+          "text": "First map out small, specific tasks to keep the prep running smoothly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A fan gives you a handwritten letter for the group. You decide to...",
+      "options": [
+        {
+          "text": "Analyze the letter’s key points to create a structured response that covers all their notes",
+          "score": "T"
+        },
+        {
+          "text": "Sit down and draft a warm, personal reply together with the members",
+          "score": "F"
+        },
+        {
+          "text": "Let the members take turns reading it aloud and react in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Tuck it into a memory box immediately to preserve every detail",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "The group needs to pick a new concept for a mini-album. You suggest...",
+      "options": [
+        {
+          "text": "A nostalgic 90s vibe inspired by classic teen movies you’ve rewatched",
+          "score": "S"
+        },
+        {
+          "text": "A whimsical, otherworldly theme where members are cosmic wanderers",
+          "score": "N"
+        },
+        {
+          "text": "Poll fans online to see which style they’ve been asking for most",
+          "score": "E"
+        },
+        {
+          "text": "Keep it low-key, focusing on intimate storytelling through acoustic tracks",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re stuck with the group in a delayed practice session. You...",
+      "options": [
+        {
+          "text": "Crack jokes and lead a quick group game to lift everyone’s mood",
+          "score": "F"
+        },
+        {
+          "text": "Propose a time-efficient schedule to finish the remaining routines faster",
+          "score": "T"
+        },
+        {
+          "text": "Go with the flow, adjusting your pace to match the group’s energy shifts",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the original plan, marking down which parts need extra focus later",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "NewJeans asks for your opinion on a new choreography. You say...",
+      "options": [
+        {
+          "text": "“I think adding a small, playful hand gesture here would make it feel more relatable”",
+          "score": "F"
+        },
+        {
+          "text": "“Let’s break down each move to see which ones slow down the overall rhythm”",
+          "score": "T"
+        },
+        {
+          "text": "“What if we flip the order of the chorus steps to create a surprise twist?”",
+          "score": "N"
+        },
+        {
+          "text": "“This step reminds me of a similar routine we did last month—let’s keep that consistency”",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a group dinner after a show. You choose to...",
+      "options": [
+        {
+          "text": "Sit next to the quietest member and ask them about their favorite meal",
+          "score": "I"
+        },
+        {
+          "text": "Move around the table, chatting with everyone about the night’s highlights",
+          "score": "E"
+        },
+        {
+          "text": "Order a dish you’ve tried before, knowing it’ll be satisfying after a long day",
+          "score": "S"
+        },
+        {
+          "text": "Pick a new, exotic dish none of you have tried, just for the fun of it",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The group has to resolve a last-minute schedule conflict. You...",
+      "options": [
+        {
+          "text": "Offer to adjust your own plans to make the new schedule work for everyone",
+          "score": "F"
+        },
+        {
+          "text": "List out all possible solutions and pick the one with the least disruption",
+          "score": "T"
+        },
+        {
+          "text": "Wait to see how others react before suggesting your own idea",
+          "score": "P"
+        },
+        {
+          "text": "Immediately draft a revised timeline and share it with the team",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a lost notebook full of the group’s song lyrics. You...",
+      "options": [
+        {
+          "text": "Flip through it to visualize the stories behind each unfinished verse",
+          "score": "N"
+        },
+        {
+          "text": "Put it in a safe place and leave a note for the owner to pick it up",
+          "score": "S"
+        },
+        {
+          "text": "Find the member who wrote it and ask them about their inspiration",
+          "score": "E"
+        },
+        {
+          "text": "Leave it exactly where you found it, not wanting to intrude on their privacy",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The group wants to film a casual vlog. You suggest...",
+      "options": [
+        {
+          "text": "Do a spontaneous “day in the life” clip, capturing unplanned moments",
+          "score": "P"
+        },
+        {
+          "text": "Follow a clear script with pre-planned segments to keep it organized",
+          "score": "J"
+        },
+        {
+          "text": "Interview each member about their most cherished fan memory",
+          "score": "F"
+        },
+        {
+          "text": "Film a tutorial of your favorite dance move with step-by-step instructions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re helping the group pick outfits for a photoshoot. You go for...",
+      "options": [
+        {
+          "text": "Pieces that have small, meaningful details like a hand-embroidered patch",
+          "score": "S"
+        },
+        {
+          "text": "Bold, unconventional combinations that stand out from typical K-pop looks",
+          "score": "N"
+        },
+        {
+          "text": "Outfits that match the group’s overall vibe to create a cohesive aesthetic",
+          "score": "F"
+        },
+        {
+          "text": "Clothes that are comfortable and easy to move in for different poses",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The group is nervous before a big performance. You...",
+      "options": [
+        {
+          "text": "Gather everyone in a circle for a quick, encouraging pep talk",
+          "score": "E"
+        },
+        {
+          "text": "Squeeze each member’s hand gently, offering a quiet, supportive smile",
+          "score": "I"
+        },
+        {
+          "text": "Run through the key performance cues one last time to build confidence",
+          "score": "J"
+        },
+        {
+          "text": "Tell a silly story to distract them from the pressure of the moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to contribute a verse to a new NewJeans song. You write about...",
+      "options": [
+        {
+          "text": "The quiet joy of walking home alone, listening to your favorite playlist",
+          "score": "I"
+        },
+        {
+          "text": "The excitement of meeting friends at a busy, colorful street market",
+          "score": "E"
+        },
+        {
+          "text": "The feeling of nostalgia for a childhood summer spent at the beach",
+          "score": "S"
+        },
+        {
+          "text": "A fictional world where everyone communicates through dance and music",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bunny Spark ENFP",
+      "description": "You’re the bubbly, imaginative soul who brings joy to every room—just like NewJeans’ infectious energy. You thrive on connecting with others through shared passions, love brainstorming creative ideas, and follow your heart even when it leads to unexpected adventures. You’re open-minded, playful, and always ready to embrace new experiences with a smile.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Quiet Dreamer INFJ",
+      "description": "You’re the thoughtful, introspective type who sees the deeper meaning in every moment. Like NewJeans’ subtle, heartfelt lyrics, you value genuine connections, often offering quiet support to those around you. You have a rich inner world filled with vivid ideas, and you prefer to act with purpose rather than impulsivity.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Denim Organizer ESTJ",
+      "description": "You’re the reliable, structured leader who keeps everything running smoothly. Like NewJeans’ polished performances, you thrive on order and clear plans, always stepping up to take charge when things get chaotic. You value tradition and practicality, and your calm demeanor makes you the go-to person for solving problems efficiently.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Wanderer’s Spirit INTP",
+      "description": "You’re the curious, analytical thinker who loves diving into complex ideas. Like NewJeans’ experimental sounds, you’re always questioning the status quo, exploring new concepts, and finding unique ways to approach challenges. You prefer to work independently, letting your imagination and logic guide your decisions.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Sunny Connector ESFJ",
+      "description": "You’re the warm, nurturing friend who makes everyone feel welcome. Like NewJeans’ relatable charm, you thrive on making others happy, often putting their needs before your own. You’re great at remembering small details about people and using that to build strong, lasting relationships with those around you.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Nostalgic Storyteller ISFJ",
+      "description": "You’re the gentle, detail-oriented type who cherishes meaningful moments. Like NewJeans’ retro-inspired tracks, you value tradition and comfort, often going out of your way to care for others. You have a sharp memory for small, special events, and you love sharing stories that bring people closer together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Bold Innovator ENTJ",
+      "description": "You’re the confident, strategic leader who isn’t afraid to take risks. Like NewJeans’ groundbreaking concepts, you have a clear vision for the future, and you’re skilled at motivating others to work toward a common goal. You make decisions quickly, using logic and ambition to turn ideas into reality.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Soft Observer ISFP",
+      "description": "You’re the quiet, creative soul who expresses themselves through actions rather than words. Like NewJeans’ graceful choreography, you have a natural sense of beauty and harmony, often finding joy in simple, everyday moments. You prefer to stay in the background, letting your unique talents speak for themselves.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Adventure Seeker ESFP",
+      "description": "You’re the energetic, spontaneous performer who lives for the moment. Like NewJeans’ lively stage presence, you thrive in social settings, loving to entertain others with your humor and charm. You’re always ready to try something new, whether it’s a new dance move or a spontaneous road trip with friends.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Visionary Planner INTJ",
+      "description": "You’re the focused, forward-thinking strategist who sees the bigger picture. Like NewJeans’ cohesive album narratives, you have a knack for creating detailed plans to achieve long-term goals. You’re independent and self-assured, trusting your intuition and logic to guide you through even the most complex situations.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Logical Problem-Solver ISTJ",
+      "description": "You’re the dependable, practical type who gets things done right the first time. Like NewJeans’ consistent work ethic, you value responsibility and structure, always following through on your commitments. You’re great at organizing tasks and solving real-world problems, making you a trusted member of any team.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Playful Explorer ENTP",
+      "description": "You’re the witty, curious innovator who loves a good debate. Like NewJeans’ unexpected musical twists, you’re always challenging conventional ideas, brainstorming clever solutions, and keeping conversations lively. You thrive on intellectual stimulation, never shying away from a chance to learn something new.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Empathetic Listener INFP",
+      "description": "You’re the idealistic, compassionate type who deeply cares about others’ feelings. Like NewJeans’ emotional ballads, you have a strong sense of personal values, often standing up for what you believe in. You’re a great listener, offering gentle support and understanding to those who need it most.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Grounding Realist ISTP",
+      "description": "You’re the calm, hands-on problem-solver who stays cool under pressure. Like NewJeans’ smooth, precise choreography, you excel at working with your hands, fixing things, and adapting to unexpected changes. You prefer to learn by doing, using your practical skills to navigate any situation that comes your way.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Social Architect ENFJ",
+      "description": "You’re the charismatic, inspiring leader who brings people together. Like NewJeans’ unified group dynamic, you have a natural ability to understand others’ strengths and motivate them to reach their full potential. You’re passionate about making a positive impact, using your empathy and vision to create meaningful connections.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Free-Spirited Chameleon ESTP",
+      "description": "You’re the adaptable, action-oriented risk-taker who lives for excitement. Like NewJeans’ versatile style, you’re great at thinking on your feet, adjusting to new environments, and turning any situation into a fun adventure. You thrive on spontaneity, always ready to dive into whatever life throws your way.",
+      "mbti": "ESTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 9,
+  "title": "What Taylor Swift-Inspired Personality Type Are You?",
+  "category": "which",
+  "tags": [
+    "Taylor Swift",
+    "MBTI",
+    "Personality",
+    "Pop Culture",
+    "Music"
+  ],
+  "description": "Answer 12 questions to discover your Taylor Swift-inspired personality type!",
+  "questions": [
+    {
+      "text": "When you hear a new Taylor Swift song, your first reaction is to...",
+      "options": [
+        {
+          "text": "Listen on repeat alone, dissecting the lyrics to uncover hidden meanings",
+          "score": "I"
+        },
+        {
+          "text": "Sing every lyric at the top of your lungs with anyone who’ll join you",
+          "score": "E"
+        },
+        {
+          "text": "Imagine a whole movie scene that the song would perfectly soundtrack",
+          "score": "N"
+        },
+        {
+          "text": "Look up the behind-the-scenes story about how the song was written",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you were helping Taylor plan a surprise fan event, you’d focus on...",
+      "options": [
+        {
+          "text": "Figuring out the most efficient way to get as many fans into the venue as possible",
+          "score": "T"
+        },
+        {
+          "text": "Making sure every fan gets a personalized handwritten note from her",
+          "score": "F"
+        },
+        {
+          "text": "Brainstorming a quirky, interactive game that fans will talk about for years",
+          "score": "P"
+        },
+        {
+          "text": "Creating a tight schedule to ensure the event runs smoothly on time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is heartbroken over a breakup, you...",
+      "options": [
+        {
+          "text": "Bring over their favorite snacks and stay up all night listening to them vent",
+          "score": "F"
+        },
+        {
+          "text": "Help them list out all the reasons the relationship wasn’t a good fit logically",
+          "score": "T"
+        },
+        {
+          "text": "Suggest a spontaneous road trip to a nearby town to take their mind off things",
+          "score": "P"
+        },
+        {
+          "text": "Plan a structured self-care day with yoga, a movie, and a home-cooked meal",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to enjoy a Taylor Swift album release?",
+      "options": [
+        {
+          "text": "Attend a midnight release party with hundreds of other fans to react together",
+          "score": "E"
+        },
+        {
+          "text": "Wait until morning, make coffee, and listen to the album in order alone with headphones",
+          "score": "I"
+        },
+        {
+          "text": "Research the album’s themes and collaborators before pressing play to set expectations",
+          "score": "S"
+        },
+        {
+          "text": "Let the music wash over you without reading any pre-release reviews or theories",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you could co-write a song with Taylor, you’d pitch a story about...",
+      "options": [
+        {
+          "text": "A small-town childhood friend who stayed loyal through every high school drama",
+          "score": "S"
+        },
+        {
+          "text": "A fictional character who travels through time to fix past regrets",
+          "score": "N"
+        },
+        {
+          "text": "The joy of reconnecting with an old flame at a hometown festival",
+          "score": "F"
+        },
+        {
+          "text": "The satisfaction of outsmarting a rival in the music industry",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip to see Taylor’s tour, you...",
+      "options": [
+        {
+          "text": "Book tickets, hotels, and transportation months in advance with a detailed itinerary",
+          "score": "J"
+        },
+        {
+          "text": "Wait until the last minute to decide, then book whatever’s available and go with the flow",
+          "score": "P"
+        },
+        {
+          "text": "Invite a large group of friends and coordinate matching outfits for the show",
+          "score": "E"
+        },
+        {
+          "text": "Go alone so you can focus fully on the performance without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when someone disagrees with your opinion on Taylor’s best album?",
+      "options": [
+        {
+          "text": "Ask them to explain their favorite tracks and listen with an open mind",
+          "score": "F"
+        },
+        {
+          "text": "Present a list of sales numbers and critical acclaim to back up your stance",
+          "score": "T"
+        },
+        {
+          "text": "Change the subject to avoid getting into an argument",
+          "score": "I"
+        },
+        {
+          "text": "Debate passionately, bringing up specific lyrics and era contexts to make your case",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "If you found a lost Taylor Swift concert ticket, you’d...",
+      "options": [
+        {
+          "text": "Post it on local community boards with a detailed description to find the owner",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all the ways you could surprise a random fan by giving it to them",
+          "score": "N"
+        },
+        {
+          "text": "Turn it in to the venue’s lost and found immediately following their official process",
+          "score": "J"
+        },
+        {
+          "text": "Ask nearby people if it’s theirs, then if no one claims it, give it to the first excited fan you see",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite Taylor Swift lyrics are the ones that...",
+      "options": [
+        {
+          "text": "Describe specific, relatable moments like dancing in a parking lot or folding laundry",
+          "score": "S"
+        },
+        {
+          "text": "Use metaphor and imagery to explore big ideas like love and growth",
+          "score": "N"
+        },
+        {
+          "text": "Make you feel seen and understood in your most vulnerable moments",
+          "score": "F"
+        },
+        {
+          "text": "Deliver sharp, witty comebacks to those who underestimated the narrator",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When organizing your Taylor Swift merchandise collection, you...",
+      "options": [
+        {
+          "text": "Arrange it by era, with each item labeled and displayed in a curated shelf",
+          "score": "J"
+        },
+        {
+          "text": "Pile it all in a cozy bin, grabbing whatever feels right to wear that day",
+          "score": "P"
+        },
+        {
+          "text": "Host a merchandise swap with friends to trade pieces you no longer wear",
+          "score": "E"
+        },
+        {
+          "text": "Keep it in a closet, only taking out items on special occasions or when you’re feeling nostalgic",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you could ask Taylor one question backstage, you’d ask...",
+      "options": [
+        {
+          "text": "What’s the most unexpected real-life moment that inspired a song lyric?",
+          "score": "S"
+        },
+        {
+          "text": "How do you stay true to your creative vision when facing industry pressure?",
+          "score": "N"
+        },
+        {
+          "text": "What’s the kindest thing a fan has ever done for you that stuck with you?",
+          "score": "F"
+        },
+        {
+          "text": "What’s your process for deciding which songs make the final tracklist of an album?",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling down, you turn to Taylor’s music to...",
+      "options": [
+        {
+          "text": "Blast upbeat tracks and dance around your room to boost your mood",
+          "score": "E"
+        },
+        {
+          "text": "Listen to soft, melancholic songs and journal your feelings alongside the lyrics",
+          "score": "I"
+        },
+        {
+          "text": "Follow a guided playlist of her most empowering tracks to create a self-care routine",
+          "score": "J"
+        },
+        {
+          "text": "Shuffle her entire discography and let whatever song comes next guide your emotions",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The 'Love Story' Idealist (ENFJ)",
+      "description": "You’re the warm, charismatic friend who turns every gathering into a memorable moment, just like Taylor’s 'Love Story' era—romantic, empathetic, and always rooting for the underdog. You listen deeply, lift others up, and have a knack for making people feel seen. Your ENFJ spirit thrives on connecting with others and creating meaningful bonds that last a lifetime.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The 'Shake It Off' Dreamer (ENFP)",
+      "description": "You’re the free-spirited optimist who refuses to let criticism bring you down, channeling Taylor’s 'Shake It Off' energy. You’re full of wild ideas, love exploring new hobbies, and see the world through a creative lens. You thrive on spontaneity, make friends everywhere you go, and believe that every day holds the potential for an adventure worth singing about.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The 'Reputation' Strategist (ENTJ)",
+      "description": "You’re the bold, decisive leader who turns setbacks into comebacks, just like Taylor’s 'Reputation' era. You’re strategic, goal-oriented, and unafraid to take charge when others hesitate. You value efficiency, cut through the noise to get results, and have a sharp wit that keeps everyone on their toes. Your ENTJ spirit doesn’t just follow the rules—it rewrites them.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The 'Blank Space' Innovator (ENTP)",
+      "description": "You’re the witty, curious trailblazer who loves challenging the status quo, channeling Taylor’s 'Blank Space' charm. You’re always brainstorming new ideas, debating different perspectives, and turning mundane moments into playful experiments. You thrive on intellectual stimulation, hate being boxed in, and have a knack for turning even the most awkward situations into something fun.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The 'Fearless' Caregiver (ESFJ)",
+      "description": "You’re the loyal, nurturing friend who shows up for everyone, just like Taylor’s 'Fearless' era. You remember every birthday, bring soup when someone’s sick, and go out of your way to make sure everyone feels included. You value tradition, love hosting gatherings, and find joy in taking care of the people you hold dear. Your ESFJ spirit is the backbone of any group.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The 'WANEGBT' Entertainer (ESFP)",
+      "description": "You’re the life of the party, bringing energy and laughter wherever you go, just like Taylor’s 'We Are Never Ever Getting Back Together' vibe. You love being in the spotlight, trying new activities, and making every moment feel like a celebration. You’re spontaneous, down-to-earth, and have a talent for making even the shyest people join in on the fun.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The 'Mean' Organizer (ESTJ)",
+      "description": "You’re the reliable, no-nonsense planner who keeps everything running smoothly, channeling Taylor’s 'Mean' edge. You value structure, follow through on your commitments, and have a keen eye for details others miss. You’re straightforward, practical, and believe that hard work and discipline are the keys to success. Your ESTJ spirit makes you the go-to person when things need to get done right.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The 'Bad Blood' Trailblazer (ESTP)",
+      "description": "You’re the bold, action-oriented adventurer who lives in the moment, just like Taylor’s 'Bad Blood' era. You love taking risks, trying new things, and aren’t afraid to speak your mind. You’re practical, resourceful, and have a talent for thinking on your feet when faced with challenges. Your ESTP spirit thrives on excitement and hates sitting still for too long.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The 'All Too Well' Introspector (INFJ)",
+      "description": "You’re the deep, intuitive soul who finds meaning in every moment, just like Taylor’s 'All Too Well' masterpiece. You’re empathetic, reflective, and have a knack for understanding people’s unspoken feelings. You value authenticity, prefer quiet moments over crowds, and hold onto heartfelt memories like precious treasures. Your INFJ spirit is a quiet force of compassion.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The 'Cardigan' Romantic (INFP)",
+      "description": "You’re the dreamy, idealistic soul who sees beauty in the mundane, channeling Taylor’s 'Cardigan' warmth. You’re deeply empathetic, value creativity, and often get lost in daydreams inspired by music and poetry. You avoid conflict when possible, stay true to your values, and let your intuition guide you through life’s twists and turns. Your INFP spirit is gentle yet unshakable.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The 'LWYMMD' Visionary (INTJ)",
+      "description": "You’re the strategic, independent thinker who plans for the long term, just like Taylor’s 'Look What You Made Me Do' era. You’re focused on your goals, value logic over emotion, and have a talent for seeing patterns others miss. You’re self-reliant, prefer to work alone, and aren’t afraid to reinvent yourself when needed. Your INTJ spirit is always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The 'Exile' Thinker (INTP)",
+      "description": "You’re the curious, analytical soul who loves exploring complex ideas, channeling Taylor’s 'Exile' introspection. You’re always asking 'why,' enjoy deep dives into niche topics, and have a sharp, dry wit. You value intellectual freedom, prefer quiet reflection over small talk, and find joy in solving puzzles and unraveling mysteries. Your INTP spirit is a constant seeker of truth.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The 'Teardrops' Nurturer (ISFJ)",
+      "description": "You’re the quiet, caring soul who shows love through actions, just like Taylor’s 'Teardrops on My Guitar' vulnerability. You remember every small detail about the people you love, go out of your way to help others, and find joy in making others comfortable. You value tradition, prefer stability over change, and are the first to show up when someone needs support.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The 'Wildest Dreams' Artist (ISFP)",
+      "description": "You’re the creative, gentle soul who expresses themselves through art and beauty, just like Taylor’s 'Wildest Dreams' era. You’re in tune with your surroundings, value authenticity, and prefer to show your feelings rather than talk about them. You love nature, enjoy hands-on activities, and find joy in creating something that feels uniquely yours. Your ISFP spirit is a quiet creator of beauty.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The 'Long Live' Guardian (ISTJ)",
+      "description": "You’re the reliable, loyal soul who stands by the people they love, just like Taylor’s 'Long Live' tribute. You value honesty, follow through on your promises, and have a strong sense of duty. You’re practical, organized, and find joy in keeping things running smoothly for your loved ones. Your ISTJ spirit is the rock that everyone can count on in times of need.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The 'Willow' Maverick (ISTP)",
+      "description": "You’re the calm, resourceful soul who solves problems with ease, channeling Taylor’s 'Willow' adaptability. You’re practical, hands-on, and prefer to learn by doing rather than reading. You value independence, hate being told what to do, and have a talent for fixing things others think are broken. Your ISTP spirit is a quiet problem-solver who thrives on challenges.",
+      "mbti": "ISTP"
+    }
+  ]
+}

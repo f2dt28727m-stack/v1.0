@@ -1,0 +1,349 @@
+{
+  "quizId": 25,
+  "title": "Which NewJeans Member Is Your Perfect Soulmate?",
+  "category": "which",
+  "tags": [
+    "NewJeans",
+    "K-pop",
+    "Soulmate",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover which NewJeans member is your perfect soulmate!",
+  "questions": [
+    {
+      "text": "When you have a free afternoon with no plans, you most likely...",
+      "options": [
+        {
+          "text": "Tackle the small tasks you’ve been putting off, like organizing your desk or trying a new recipe",
+          "score": "S"
+        },
+        {
+          "text": "Doodle in a sketchbook or daydream about planning a future trip to a far-off place",
+          "score": "N"
+        },
+        {
+          "text": "Head to a bustling flea market, striking up conversations with vendors and fellow shoppers",
+          "score": "E"
+        },
+        {
+          "text": "Curl up with a new book or your favorite show, enjoying the quiet of being alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset, you respond by...",
+      "options": [
+        {
+          "text": "Help them brainstorm practical solutions to fix the problem causing their distress",
+          "score": "T"
+        },
+        {
+          "text": "Listen closely and validate their feelings, sharing similar personal stories to make them feel understood",
+          "score": "F"
+        },
+        {
+          "text": "Suggest a fun distraction like a movie night or walk to take their mind off things",
+          "score": "N"
+        },
+        {
+          "text": "Bring them their favorite snack or a small gift, letting your actions show you care",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip, you focus on...",
+      "options": [
+        {
+          "text": "Keeping plans flexible, leaving room to explore unexpected spots that catch your eye",
+          "score": "P"
+        },
+        {
+          "text": "Booking all accommodations and activities weeks in advance, following a detailed itinerary",
+          "score": "J"
+        },
+        {
+          "text": "Imagining all the unique memories and stories you’ll bring back from the adventure",
+          "score": "N"
+        },
+        {
+          "text": "Researching local food spots and hidden landmarks to experience the city like a local",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you receive a new project at work/school, you...",
+      "options": [
+        {
+          "text": "Take time to work through the project alone, mapping out your steps before starting",
+          "score": "I"
+        },
+        {
+          "text": "Jump right in, brainstorming creative approaches and collaborating with others early on",
+          "score": "E"
+        },
+        {
+          "text": "Let the project evolve as you go, adapting your ideas based on new insights",
+          "score": "P"
+        },
+        {
+          "text": "Break the project into small, manageable tasks to complete one at a time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a movie to watch, you prefer...",
+      "options": [
+        {
+          "text": "A clever mystery or sci-fi film that challenges you to solve puzzles or think critically",
+          "score": "T"
+        },
+        {
+          "text": "A lighthearted comedy or classic that you know will make you laugh reliably",
+          "score": "S"
+        },
+        {
+          "text": "A heartfelt drama that makes you reflect on relationships and emotions",
+          "score": "F"
+        },
+        {
+          "text": "A surreal fantasy or experimental film that takes you to a completely new world",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When meeting someone new, you notice...",
+      "options": [
+        {
+          "text": "The details of their outfit or the way they arrange their belongings",
+          "score": "S"
+        },
+        {
+          "text": "The way they talk about their dreams and the ideas that excite them",
+          "score": "N"
+        },
+        {
+          "text": "Their interests and goals, asking questions to learn about their long-term plans",
+          "score": "T"
+        },
+        {
+          "text": "Their body language and subtle facial expressions, picking up on unspoken moods",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you have a conflict with someone, you...",
+      "options": [
+        {
+          "text": "Avoid confrontation initially, hoping the issue resolves itself with time",
+          "score": "I"
+        },
+        {
+          "text": "Focus on facts and logic to find a solution that works for both parties",
+          "score": "T"
+        },
+        {
+          "text": "Bring in a mutual friend to mediate, using their perspective to smooth things over",
+          "score": "E"
+        },
+        {
+          "text": "Express your feelings openly, prioritizing understanding each other over winning",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling stressed, you unwind by...",
+      "options": [
+        {
+          "text": "Calling up a friend to vent and go out for dinner",
+          "score": "E"
+        },
+        {
+          "text": "Doing something spontaneous like dancing to loud music or baking random treats",
+          "score": "P"
+        },
+        {
+          "text": "Spending time alone doing a calming activity like gardening or journaling",
+          "score": "I"
+        },
+        {
+          "text": "Following a guided meditation or yoga routine to reset your mind",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When buying a gift for someone, you...",
+      "options": [
+        {
+          "text": "Create a custom gift like a photo album or handwritten letter filled with personal memories",
+          "score": "N"
+        },
+        {
+          "text": "Select a high-quality, timeless item that they’ll use for years to come",
+          "score": "T"
+        },
+        {
+          "text": "Pick something they’ve mentioned needing or wanting, based on their practical needs",
+          "score": "S"
+        },
+        {
+          "text": "Choose a gift that aligns with their hobbies or interests to show you pay attention",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you’re in a group setting, you...",
+      "options": [
+        {
+          "text": "Bring up random, quirky topics to spark interesting and unexpected discussions",
+          "score": "P"
+        },
+        {
+          "text": "Sit back and listen, only sharing your thoughts when asked directly",
+          "score": "I"
+        },
+        {
+          "text": "Take charge of organizing the conversation, making sure everyone gets a chance to speak",
+          "score": "E"
+        },
+        {
+          "text": "Stick to topics everyone is familiar with to keep the conversation comfortable",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you learn something new, you prefer...",
+      "options": [
+        {
+          "text": "Learning in a structured class with clear deadlines and progress goals",
+          "score": "J"
+        },
+        {
+          "text": "Hands-on practice, learning by doing rather than reading instructions",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting with different methods at your own pace, no strict rules",
+          "score": "P"
+        },
+        {
+          "text": "Watching tutorials or reading articles to understand the theory behind it first",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you think about the future, you feel most excited about...",
+      "options": [
+        {
+          "text": "Making meaningful connections with people from all different backgrounds",
+          "score": "F"
+        },
+        {
+          "text": "Building a stable life with close friends and family, creating consistent routines",
+          "score": "S"
+        },
+        {
+          "text": "Achieving your career or personal goals through hard work and strategy",
+          "score": "T"
+        },
+        {
+          "text": "Pursuing your wildest dreams, even if they take you to unexpected places",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Your Soulmate: Minji (ISTJ)",
+      "description": "Minji is the grounded, reliable backbone of NewJeans. Like her, you value stability and thoughtfulness, preferring to show care through consistent actions rather than grand gestures. You’re attentive to small details, always ready to support loved ones quietly. As an ISTJ, you and Minji would bond over shared routines and the comfort of knowing you can always count on each other.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Your Soulmate: Danielle (ISFJ)",
+      "description": "Danielle is the warm, nurturing heart of NewJeans. You both find joy in taking care of others, remembering small preferences and going out of your way to make people feel loved. You thrive in cozy, intimate settings and prioritize keeping your relationships strong. As an ISFJ, you and Danielle would create countless gentle, cherished memories together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Your Soulmate: Haerin (INFJ)",
+      "description": "Haerin is the quiet, introspective dreamer of NewJeans. You both have a deep inner world, valuing meaningful conversations and emotional depth over superficial interactions. You’re drawn to art and nature, finding peace in quiet moments of reflection. As an INFJ, you and Haerin would connect instantly over shared passions and silent understanding.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Your Soulmate: Hanni (INTJ)",
+      "description": "Hanni is the clever, strategic thinker of NewJeans. You both approach life with a sharp, analytical mind, preferring to plan ahead and solve problems with creativity. You value independence and intellectual growth, always eager to learn new things. As an INTJ, you and Hanni would challenge each other to reach new heights, bonding over your shared drive to innovate.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Your Soulmate: Hyein (ISTP)",
+      "description": "Hyein is the adventurous, hands-on spirit of NewJeans. You both love to learn by doing, jumping into new activities and fixing things as you go. You’re calm under pressure, able to think on your feet when faced with unexpected challenges. As an ISTP, you and Hyein would thrive on spontaneous adventures, from trying new sports to building something together from scratch.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Your Soulmate: Haerin (ISFP)",
+      "description": "Haerin is the artistic, gentle soul of NewJeans. You both express yourselves through creative pursuits, whether it’s drawing, singing, or simply appreciating the beauty in everyday life. You value authenticity and freedom, preferring to live in the moment rather than stress about the future. As an ISFP, you and Haerin would find joy in quiet, creative afternoons and exploring nature’s hidden gems.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Your Soulmate: Danielle (INFP)",
+      "description": "Danielle is the idealistic, compassionate dreamer of NewJeans. You both have a strong sense of personal values, standing up for what you believe in and caring deeply about making the world a better place. You’re drawn to stories and art that touch your heart, finding comfort in your inner world. As an INFP, you and Danielle would bond over shared dreams and the desire to spread kindness.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Your Soulmate: Hanni (INTP)",
+      "description": "Hanni is the curious, philosophical thinker of NewJeans. You both love to explore new ideas and question the world around you, often getting lost in deep thoughts about science, art, or life’s big questions. You value intellectual freedom and humor, enjoying debates that challenge your perspectives. As an INTP, you and Hanni would spend hours discussing everything from space to pop culture with endless curiosity.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Your Soulmate: Minji (ESTJ)",
+      "description": "Minji is the organized, take-charge leader of NewJeans. You both excel at planning and managing tasks, making sure everything runs smoothly for your loved ones. You value honesty and responsibility, always following through on your promises. As an ESTJ, you and Minji would create a stable, supportive environment, working together to achieve your goals and take care of your community.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Your Soulmate: Danielle (ESFJ)",
+      "description": "Danielle is the outgoing, nurturing social butterfly of NewJeans. You both thrive in group settings, making sure everyone feels welcome and included. You find joy in hosting gatherings and taking care of others’ needs, often putting people before yourself. As an ESFJ, you and Danielle would throw amazing parties and build a tight-knit community of loved ones around you.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Your Soulmate: Hanni (ENFJ)",
+      "description": "Hanni is the inspiring, charismatic leader of NewJeans. You both have a gift for connecting with people, motivating others to reach their full potential. You value empathy and understanding, able to see the best in everyone. As an ENFJ, you and Hanni would work together to inspire positive change, whether it’s through music, art, or supporting your friends’ dreams.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Your Soulmate: Minji (ENTJ)",
+      "description": "Minji is the confident, strategic leader of NewJeans. You both have a clear vision for the future and the drive to make it happen. You’re decisive and assertive, not afraid to take charge when needed. As an ENTJ, you and Minji would push each other to achieve great things, whether it’s leading a project or chasing personal goals, with mutual respect and ambition.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Your Soulmate: Hyein (ESTP)",
+      "description": "Hyein is the energetic, spontaneous daredevil of NewJeans. You both love to live in the moment, seeking out excitement and new experiences wherever you go. You’re charismatic and quick-witted, able to make friends with anyone in seconds. As an ESTP, you and Hyein would have endless fun trying new sports, exploring new cities, and making every day an adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Your Soulmate: Hyein (ESFP)",
+      "description": "Hyein is the playful, outgoing entertainer of NewJeans. You both love to make people laugh, using your charm and energy to light up any room. You thrive in social settings and enjoy being the center of attention, whether it’s dancing, singing, or telling jokes. As an ESFP, you and Hyein would turn every ordinary day into a celebration, filled with laughter and joy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Your Soulmate: Danielle (ENFP)",
+      "description": "Danielle is the enthusiastic, imaginative optimist of NewJeans. You both see the world through rose-colored glasses, always looking for the good in every situation. You love to inspire others with your ideas and are always ready for a new adventure. As an ENFP, you and Danielle would dream up wild plans, from road trips to starting a creative project, and make them a reality together.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Your Soulmate: Hanni (ENTP)",
+      "description": "Hanni is the clever, playful debater of NewJeans. You both love a good challenge, whether it’s a friendly argument or solving a tricky problem. You’re quick-thinking and creative, always coming up with new ideas to keep things interesting. As an ENTP, you and Hanni would spend hours brainstorming fun projects, pranking friends, and exploring the world with your curious minds.",
+      "mbti": "ENTP"
+    }
+  ]
+}

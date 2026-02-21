@@ -1,0 +1,348 @@
+{
+  "quizId": 37,
+  "title": "What Bluey Character Type Are You?",
+  "category": "which",
+  "tags": [
+    "Bluey",
+    "Cartoon",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your Bluey-inspired personality type!",
+  "questions": [
+    {
+      "text": "When planning a weekend activity with your loved ones, you would most likely...",
+      "options": [
+        {
+          "text": "Pick a familiar picnic spot you’ve visited dozens of times, packing all your go-to snacks",
+          "score": "S"
+        },
+        {
+          "text": "Organize a big backyard obstacle course where everyone can join in and cheer each other on",
+          "score": "E"
+        },
+        {
+          "text": "Suggest a quiet afternoon of reading or building a blanket fort with one close friend",
+          "score": "I"
+        },
+        {
+          "text": "Come up with a wild imaginary quest, like searching for a mythical 'rainbow bone' in the neighborhood",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you make a mistake during a game, your first reaction is to...",
+      "options": [
+        {
+          "text": "Laugh it off and turn the mistake into a silly new rule for the game",
+          "score": "P"
+        },
+        {
+          "text": "Apologize immediately and check if anyone feels hurt or upset by what happened",
+          "score": "F"
+        },
+        {
+          "text": "Figure out exactly what went wrong and adjust your strategy to avoid it next time",
+          "score": "T"
+        },
+        {
+          "text": "Insist on starting over from the beginning to follow the original rules perfectly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When a friend shares big news with you, you...",
+      "options": [
+        {
+          "text": "Help them list out practical steps to handle whatever comes next",
+          "score": "T"
+        },
+        {
+          "text": "Celebrate loudly, maybe even throw an impromptu party to mark the occasion",
+          "score": "E"
+        },
+        {
+          "text": "Listen closely and ask detailed questions about how they’re feeling",
+          "score": "F"
+        },
+        {
+          "text": "Nod along quietly, taking time to process the news before responding",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you have to finish a task before bedtime, you...",
+      "options": [
+        {
+          "text": "Follow a strict checklist you made earlier, checking off each step one by one",
+          "score": "J"
+        },
+        {
+          "text": "Wing it, doing parts as you go and seeing where the creative flow takes you",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the most important parts first to make sure it gets done well",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm a new way to do it that’s more fun and exciting than the usual method",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you found a mysterious box in the park, you would...",
+      "options": [
+        {
+          "text": "Ask a park ranger to help you return it to its rightful owner immediately",
+          "score": "F"
+        },
+        {
+          "text": "Bring it home and examine every detail to figure out what’s inside and where it came from",
+          "score": "S"
+        },
+        {
+          "text": "Gather your friends to make up stories about who it belongs to and what’s inside",
+          "score": "N"
+        },
+        {
+          "text": "Decide it’s probably trash and dispose of it properly to keep the park clean",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling bored at home, you...",
+      "options": [
+        {
+          "text": "Spend the afternoon rearranging your toy collection into a new, organized display",
+          "score": "J"
+        },
+        {
+          "text": "Curl up with a favorite book or draw pictures in your sketchbook alone",
+          "score": "I"
+        },
+        {
+          "text": "Call up several friends to come over and play a rowdy game of keep-away",
+          "score": "E"
+        },
+        {
+          "text": "Create a new imaginary world with your stuffed animals and act out an adventure",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When playing a team game, you take on the role of...",
+      "options": [
+        {
+          "text": "The one who sticks to the tried-and-true plays that you know will work",
+          "score": "S"
+        },
+        {
+          "text": "The one who comes up with weird, unexpected plays that catch everyone off guard",
+          "score": "N"
+        },
+        {
+          "text": "The one who makes sure everyone knows their job and stays on track with the plan",
+          "score": "J"
+        },
+        {
+          "text": "The one who cheers on teammates and makes sure no one feels left out",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When your favorite toy breaks, you...",
+      "options": [
+        {
+          "text": "Turn it into a completely new toy, like using the broken parts to build a robot",
+          "score": "N"
+        },
+        {
+          "text": "Try to fix it using whatever supplies you have around the house",
+          "score": "T"
+        },
+        {
+          "text": "Cry and seek comfort from a parent or close friend",
+          "score": "F"
+        },
+        {
+          "text": "Replace it with a new one that has all the same features you loved",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a surprise for someone, you...",
+      "options": [
+        {
+          "text": "Plan every minute of the surprise down to the last detail to make it perfect",
+          "score": "J"
+        },
+        {
+          "text": "Invite all their friends to a big party with their favorite cake and games",
+          "score": "E"
+        },
+        {
+          "text": "Go with the flow, adjusting the surprise based on how they’re feeling in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Make a handwritten card and a small, thoughtful gift just for them alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you have to choose between two activities, you...",
+      "options": [
+        {
+          "text": "Choose the one you know you’ll enjoy because you’ve done it many times",
+          "score": "S"
+        },
+        {
+          "text": "Pick the one you’ve never tried before to see what it’s like",
+          "score": "N"
+        },
+        {
+          "text": "Choose the one that lets you have quiet time to yourself or with one person",
+          "score": "I"
+        },
+        {
+          "text": "Pick the one that lets you spend time with as many people as possible",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you disagree with a friend about a game rule, you...",
+      "options": [
+        {
+          "text": "Compromise by making a new rule that works for both of you",
+          "score": "F"
+        },
+        {
+          "text": "Insist on following the exact rules as written to keep things fair",
+          "score": "J"
+        },
+        {
+          "text": "Let them win to keep the game going and avoid a fight",
+          "score": "P"
+        },
+        {
+          "text": "Argue your point using the official rulebook to prove you’re right",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you think about the future, you most often imagine...",
+      "options": [
+        {
+          "text": "Quiet days spent doing your favorite activities, like reading or gardening",
+          "score": "I"
+        },
+        {
+          "text": "A stable routine where you know exactly what to expect each day",
+          "score": "S"
+        },
+        {
+          "text": "Hanging out with lots of friends and having big, exciting adventures every day",
+          "score": "E"
+        },
+        {
+          "text": "A life full of new inventions and creative projects no one has ever done before",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Bandit Adventurer",
+      "description": "You’re the life of every gathering, turning ordinary afternoons into wild, imaginary quests just like Bandit. You thrive on making others laugh, embrace chaos as part of the fun, and always see the magic in small moments. Friends love your creativity and warmth, and you never run out of new ideas to explore.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Chilli Caregiver",
+      "description": "Like Chilli, you’re the heart of your friend group—always looking out for others and making sure everyone feels included. You organize fun activities that bring people together, listen closely when someone needs to talk, and have a knack for turning tough moments into learning opportunities. Your kindness makes you everyone’s go-to confidant.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Bluey Strategist",
+      "description": "You’re a natural leader, just like Bluey when she’s planning a game. You love coming up with clever strategies, setting clear goals, and motivating others to follow along. You’re quick to solve problems and never shy away from taking charge, but you always make sure everyone has fun while achieving the group’s objectives.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Bingo Innovator",
+      "description": "Bingo’s playful curiosity is your middle name! You love questioning the status quo, coming up with weird and wonderful game variations, and debating ideas with friends. You’re always one step ahead with a new trick or twist, and your friends admire how you turn even the most boring tasks into something exciting and unexpected.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Lila Party Planner",
+      "description": "You live for the moment, just like Lila! You love throwing big, energetic parties, trying new foods, and dancing around the backyard with everyone. You’re always ready to jump into a new game or adventure, and your infectious energy makes every day feel like a celebration. Friends know they can count on you to make any occasion memorable.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Nana Nurturer",
+      "description": "Like Nana, you’re the one who remembers everyone’s favorite snacks, helps with scraped knees, and makes sure everyone feels at home. You thrive on taking care of others, following beloved traditions, and creating warm, cozy moments for your loved ones. Your thoughtfulness and reliability make you the glue that holds your group together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Uncle Rad Organizer",
+      "description": "Uncle Rad’s no-nonsense approach is your style! You love following rules, organizing games with clear plans, and making sure everything runs smoothly. You’re practical, dependable, and always have a backup plan ready. Friends know they can trust you to keep things on track and make sure everyone plays fairly.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Muffin Daredevil",
+      "description": "You’re bold, adventurous, and always ready for a challenge—just like Muffin! You love trying risky stunts, exploring new places, and pushing the boundaries of what’s possible. You’re quick to think on your feet, and your fearless attitude makes you the first to jump into any new game or adventure that comes your way.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Indy Dreamer",
+      "description": "Indy’s quiet imagination is your superpower! You love spending time alone with your books, drawing pictures of imaginary worlds, and writing stories about magical creatures. You’re deeply kind and empathetic, and you often notice small details others miss. Friends admire your creativity and the way you see the world through a unique, gentle lens.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Franny Wise Guide",
+      "description": "Like Franny, you’re a wise, thoughtful friend who always knows the right thing to say. You spend time listening to others’ problems and offering quiet, meaningful advice. You have a deep understanding of people’s feelings, and you often know what someone needs before they even ask. Your calm presence makes others feel safe and supported.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Mackenzie Mastermind",
+      "description": "Mackenzie’s clever planning is your specialty! You love thinking ahead, coming up with complex strategies, and solving tricky problems. You’re independent, focused, and always have a long-term goal in mind. Friends admire your intelligence and the way you can turn even the most chaotic situation into a well-organized plan.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Rusty Problem-Solver",
+      "description": "Rusty’s curious mind is just like yours! You love taking things apart to see how they work, asking endless questions, and debating ideas with your closest friends. You’re independent, analytical, and always looking for new ways to solve problems. Your friends count on you to come up with clever solutions when things get tough.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Coco Creative",
+      "description": "Coco’s artistic spirit flows through you! You love spending time painting, drawing, or making crafts with your hands. You’re quiet, gentle, and find joy in the small, beautiful moments of life. Friends love your unique perspective and the way you turn ordinary objects into works of art that make everyone smile.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Honey Helper",
+      "description": "Like Honey, you’re the one who always offers a helping hand. You love cooking for your friends, tidying up the playroom, and making sure everyone has everything they need. You’re reliable, kind, and thrive on taking care of others. Your friends know they can always count on you to be there when they need you most.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Jax Rule-Follower",
+      "description": "Jax’s careful, methodical approach is your go-to! You love following established rules, sticking to routines, and making sure everything is done correctly. You’re practical, dependable, and always keep your promises. Friends admire your responsibility and the way you make sure games are played fairly and safely for everyone.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Jack Tinkerer",
+      "description": "Jack’s hands-on skills are your superpower! You love building things, fixing broken toys, and figuring out how machines work. You’re quiet, independent, and always ready to tackle a new project. Friends know they can come to you when they need something fixed, and you love the challenge of solving practical problems with ingenuity.",
+      "mbti": "ISTP"
+    }
+  ]
+}

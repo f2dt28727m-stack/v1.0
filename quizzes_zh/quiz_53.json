@@ -1,0 +1,349 @@
+{
+  "quizId": 53,
+  "title": "Which League of Legends Champion Matches Your True Personality?",
+  "category": "which",
+  "tags": [
+    "League of Legends",
+    "LOL Champions",
+    "Personality",
+    "MBTI",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover which League of Legends champion matches your true personality!",
+  "questions": [
+    {
+      "text": "Your team is trailing in a ranked match. What do you do first?",
+      "options": [
+        {
+          "text": "Hunker down in your lane, focusing on last-hitting minions to build up your core items",
+          "score": "S"
+        },
+        {
+          "text": "Open voice chat to rally your team, pointing out small wins to boost morale",
+          "score": "E"
+        },
+        {
+          "text": "Map out a risky plan to steal the enemy’s Baron Nashor, catching them off guard",
+          "score": "N"
+        },
+        {
+          "text": "Type concise, detailed tips to your laner about countering their opponent’s playstyle",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When drafting champions for a team game, you prioritize...",
+      "options": [
+        {
+          "text": "Waiting until the last second to adapt your pick based on the enemy’s final choices",
+          "score": "P"
+        },
+        {
+          "text": "Picking a champion that synergizes perfectly with your team’s existing composition",
+          "score": "F"
+        },
+        {
+          "text": "Locking in a champion you’ve practiced extensively to ensure consistent performance",
+          "score": "J"
+        },
+        {
+          "text": "Choosing a champion with a high win rate in the current meta",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You encounter an unexpected gank from the enemy jungler. How do you react?",
+      "options": [
+        {
+          "text": "Follow your pre-planned escape route to the nearest tower or jungle brush",
+          "score": "J"
+        },
+        {
+          "text": "Trust your instincts to dodge skill shots and escape to safety",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the enemy’s movement patterns to predict their next moves and outplay them",
+          "score": "I"
+        },
+        {
+          "text": "Call for your jungler’s help while engaging the enemy to buy time for your team",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "After a tough loss, you reflect on the game by...",
+      "options": [
+        {
+          "text": "Discussing what went wrong with your friends to gain different perspectives",
+          "score": "F"
+        },
+        {
+          "text": "Watching a replay to identify specific mistakes you made in team fights",
+          "score": "S"
+        },
+        {
+          "text": "Creating a detailed list of areas you need to improve to climb the ranks",
+          "score": "T"
+        },
+        {
+          "text": "Brainstorming new strategies or champion combos to try in your next game",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your teammate keeps making reckless plays that cost the team objectives. You respond by...",
+      "options": [
+        {
+          "text": "Insisting the team follows a strict playbook to minimize future errors",
+          "score": "J"
+        },
+        {
+          "text": "Sending a supportive message asking if they’re okay, then suggesting small adjustments",
+          "score": "F"
+        },
+        {
+          "text": "Adjusting your own playstyle to cover their mistakes and keep the game alive",
+          "score": "P"
+        },
+        {
+          "text": "Stating the cold truth about how their plays are hurting the team’s chances",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You have extra gold to spend in the shop mid-game. You choose...",
+      "options": [
+        {
+          "text": "An item you know works well with your champion’s kit, based on past experience",
+          "score": "I"
+        },
+        {
+          "text": "An experimental item combination that could catch enemies off guard",
+          "score": "N"
+        },
+        {
+          "text": "An item that boosts your team’s overall utility, helping your allies perform better",
+          "score": "E"
+        },
+        {
+          "text": "An item that gives you immediate survivability to stay in team fights longer",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re playing a support role. What’s your main focus during laning phase?",
+      "options": [
+        {
+          "text": "Reading your ADC’s playstyle and adapting your actions to their rhythm",
+          "score": "F"
+        },
+        {
+          "text": "Executing precise skill shots to poke the enemy lane and force them back",
+          "score": "T"
+        },
+        {
+          "text": "Constantly roaming the map to help other lanes secure kills or vision",
+          "score": "E"
+        },
+        {
+          "text": "Staying close to your ADC, carefully warding key areas and healing them when needed",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When preparing for a major tournament, you...",
+      "options": [
+        {
+          "text": "Develop your own unique playstyle that no opponent has seen before",
+          "score": "N"
+        },
+        {
+          "text": "Stick to a strict daily practice schedule, focusing on mastering one champion at a time",
+          "score": "J"
+        },
+        {
+          "text": "Study professional players’ replays to copy their successful strategies",
+          "score": "S"
+        },
+        {
+          "text": "Practice a variety of champions and playstyles to be ready for any scenario",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re faced with a choice between saving a teammate or securing a crucial objective. You...",
+      "options": [
+        {
+          "text": "Secure the objective, knowing it’s the best decision for the team’s long-term victory",
+          "score": "T"
+        },
+        {
+          "text": "Prioritize saving your teammate, valuing their trust over the objective",
+          "score": "F"
+        },
+        {
+          "text": "Follow your pre-determined game plan, which prioritizes objectives over rescues",
+          "score": "J"
+        },
+        {
+          "text": "Quickly assess the situation to see if you can do both, adapting on the fly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find yourself in a long, drawn-out team fight. What’s your approach?",
+      "options": [
+        {
+          "text": "Take advantage of chaos to find unexpected openings to take out the enemy carry",
+          "score": "N"
+        },
+        {
+          "text": "Shout callouts to your team, coordinating their movements to focus fire on targets",
+          "score": "E"
+        },
+        {
+          "text": "Stay back and pick off enemies from afar, avoiding unnecessary risks",
+          "score": "I"
+        },
+        {
+          "text": "Stick to your assigned role, executing your part of the team’s strategy flawlessly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re trying to learn a new, complex champion. You start by...",
+      "options": [
+        {
+          "text": "Jumping into a practice tool to experiment with ability combinations and mechanics",
+          "score": "N"
+        },
+        {
+          "text": "Asking more experienced players for tips and tricks on how to play the champion",
+          "score": "E"
+        },
+        {
+          "text": "Watching a tutorial that breaks down every ability and optimal combo step by step",
+          "score": "S"
+        },
+        {
+          "text": "Spending time reading the champion’s lore to understand their motivations and playstyle vibe",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your team wins a decisive team fight and can push for the enemy nexus. You...",
+      "options": [
+        {
+          "text": "Remain focused, scanning the map for any remaining enemies that could ruin the push",
+          "score": "T"
+        },
+        {
+          "text": "Celebrate with your team in voice chat, hyping up the win together",
+          "score": "F"
+        },
+        {
+          "text": "Take a detour to grab the enemy’s remaining objectives to ensure future safety",
+          "score": "P"
+        },
+        {
+          "text": "Rush straight for the nexus, focusing on destroying it as quickly as possible",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Shaco, the Demon Jester",
+      "description": "You’re Shaco, the Demon Jester! Like this chaotic trickster, you’re a quick-witted innovator who thrives on surprising others. You think outside the box, turn every situation into a game of strategy and mischief, and never let predictability hold you back. Your ENTP spirit makes you a master of adapting to chaos, keeping opponents guessing at every turn.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Zed, the Master of Shadows",
+      "description": "You’re Zed, the Master of Shadows! A strategic visionary with a ruthless drive for perfection, you plan every move in advance, using deception and precision to outmaneuver your foes. Like Zed, you value results over sentiment, trust your own judgment above all else, and never hesitate to eliminate obstacles that stand in your way. Your INTJ mind is always ten steps ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Viktor, the Machine Herald",
+      "description": "You’re Viktor, the Machine Herald! A curious, analytical visionary, you dive deep into the mechanics of every game, always seeking to optimize and innovate. Like this brilliant inventor, you prioritize logic over emotion, prefer to work independently on complex strategies, and believe progress justifies bold, unorthodox choices. Your INTP mind turns ideas into reality one calculated step at a time.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Darius, the Hand of Noxus",
+      "description": "You’re Darius, the Hand of Noxus! A natural leader with an unyielding will to win, you command respect through your decisive actions and unwavering confidence. Like Darius, you take charge in team fights, set clear goals for your team, and crush any opposition that dares challenge your authority. Your ENTJ spirit turns underdog teams into unstoppable forces.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Karma, the Enlightened One",
+      "description": "You’re Karma, the Enlightened One! A wise, empathetic leader who sees the bigger picture, you guide your team with compassion while staying focused on long-term victory. Like Karma, you balance logic and emotion, offer support to struggling teammates, and use your insight to turn conflicts into opportunities for growth. Your INFJ spirit is the heart of any successful team.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Sona, Maven of the Strings",
+      "description": "You’re Sona, Maven of the Strings! A charismatic, nurturing leader who brings people together, you use your influence to boost morale and coordinate your team’s efforts. Like Sona, you thrive in collaborative settings, listen to your teammates’ needs, and turn individual strengths into a cohesive, winning strategy. Your ENFJ spirit makes every team member feel valued and motivated.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Lulu, the Fae Sorceress",
+      "description": "You’re Lulu, the Fae Sorceress! A whimsical, idealistic dreamer who sees the magic in every play, you bring creativity and joy to every game. Like Lulu, you prioritize your allies’ well-being, use unexpected tactics to outplay enemies, and never lose sight of the fun in competition. Your INFP spirit turns even the toughest losses into memorable adventures.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Gnar, the Missing Link",
+      "description": "You’re Gnar, the Missing Link! A playful, energetic force of nature, you bring chaos and excitement to every match, switching between silly and fierce in an instant. Like Gnar, you adapt quickly to new situations, love experimenting with wild strategies, and keep your team laughing even during tense moments. Your ENFP spirit makes every game feel fresh and unpredictable.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Garen, the Might of Demacia",
+      "description": "You’re Garen, the Might of Demacia! A loyal, disciplined leader who values order and tradition, you lead by example, sticking to proven strategies and protecting your teammates at all costs. Like Garen, you prioritize reliability over flashiness, follow rules to maintain team harmony, and never back down from a fight for what’s right. Your ESTJ spirit is the backbone of any stable team.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Jarvan IV, the Exemplar of Demacia",
+      "description": "You’re Jarvan IV, the Exemplar of Demacia! A responsible, detail-oriented strategist who values duty above all else, you plan every objective with precision and execute it flawlessly. Like Jarvan, you follow through on your commitments, keep your team focused on the goal, and use your knowledge of the game to anticipate enemy moves. Your ISTJ spirit ensures no detail is overlooked.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Soraka, the Starchild",
+      "description": "You’re Soraka, the Starchild! A warm, caring teammate who puts others first, you dedicate yourself to keeping your team healthy and motivated. Like Soraka, you go out of your way to support struggling allies, celebrate small wins together, and create a positive atmosphere even in the toughest matches. Your ESFJ spirit makes every team feel like a family.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Nami, the Tidecaller",
+      "description": "You’re Nami, the Tidecaller! A gentle, dependable supporter who stays behind the scenes, you use your skills to protect your team and guide them to victory. Like Nami, you pay close attention to your teammates’ needs, anticipate their struggles before they happen, and use your intuition to turn the tides of battle. Your ISFJ spirit is the quiet hero every team needs.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Draven, the Glorious Executioner",
+      "description": "You’re Draven, the Glorious Executioner! A bold, adventurous risk-taker who lives for the spotlight, you thrive in high-pressure situations, showing off your skills with flair. Like Draven, you love making bold plays to impress others, adapt quickly to changing circumstances, and turn every match into a performance. Your ESTP spirit keeps the game exciting and unpredictable.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Ekko, the Boy Who Shattered Time",
+      "description": "You’re Ekko, the Boy Who Shattered Time! A calm, resourceful problem-solver who thinks on his feet, you use your mechanical skill and quick thinking to outplay enemies. Like Ekko, you prefer to work independently, use your environment to your advantage, and never panic when things go wrong. Your ISTP spirit turns every crisis into an opportunity to shine.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Gragas, the Rabble Rouser",
+      "description": "You’re Gragas, the Rabble Rouser! A fun-loving, energetic teammate who lives in the moment, you bring laughter and chaos to every game, making sure everyone has a good time. Like Gragas, you love making bold, impulsive plays, celebrate every win with enthusiasm, and turn even the most serious matches into parties. Your ESFP spirit is the life of the team.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Fiora, the Grand Duelist",
+      "description": "You’re Fiora, the Grand Duelist! A quiet, skilled perfectionist who values personal honor and mastery, you focus on refining your own skills and competing with integrity. Like Fiora, you prefer one-on-one challenges, take pride in your precise execution, and never compromise your principles for a quick win. Your ISFP spirit is a testament to the power of dedication and skill.",
+      "mbti": "ISFP"
+    }
+  ]
+}

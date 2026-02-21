@@ -1,0 +1,349 @@
+{
+  "quizId": 44,
+  "title": "Which Stardew Valley Farmer Archetype Are You?",
+  "category": "which",
+  "tags": [
+    "Stardew Valley",
+    "Farmer Archetype",
+    "MBTI",
+    "Personality",
+    "Rural Life"
+  ],
+  "description": "Answer 12 questions to discover your Stardew Valley farmer archetype!",
+  "questions": [
+    {
+      "text": "Your farm’s first rainy day arrives—how do you spend it?",
+      "options": [
+        {
+          "text": "Check over all your tools for wear and tear, then sharpen your hoe and repair your watering can",
+          "score": "S"
+        },
+        {
+          "text": "Head into town and sit at the saloon with Sandy and Sebastian, listening to their stories about old Pelican Town",
+          "score": "E"
+        },
+        {
+          "text": "Sit by the window and sketch a blueprint for your farm’s future, including a greenhouse and a small fairy garden",
+          "score": "N"
+        },
+        {
+          "text": "Stay in your cabin, organize your seed collection, and write in your journal about your first week on the farm",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A stranger arrives at the bus stop asking for directions to the mines—what do you do?",
+      "options": [
+        {
+          "text": "Draw a quick, clear map with marked landmarks and caution signs for dangerous caves",
+          "score": "T"
+        },
+        {
+          "text": "Invite them to your farm for a glass of apple cider first, then walk with them to the mines to make sure they’re safe",
+          "score": "F"
+        },
+        {
+          "text": "Tell them to ask Emily in town—she knows the area better than you do—and get back to tending your chickens",
+          "score": "P"
+        },
+        {
+          "text": "Walk them through every turn step-by-step, repeating key directions to ensure they don’t get lost",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "The annual Flower Dance is this weekend—what’s your approach?",
+      "options": [
+        {
+          "text": "Practice your dance moves every evening this week to make sure you don’t step on your partner’s feet",
+          "score": "J"
+        },
+        {
+          "text": "Pick a random flower from your garden and plan to ask the first friendly face you see at the dance",
+          "score": "P"
+        },
+        {
+          "text": "Spend hours researching the symbolic meanings of each flower in the valley to pick the perfect one for your partner",
+          "score": "N"
+        },
+        {
+          "text": "Bring extra flower crowns to share with anyone who shows up without one, making sure no one feels left out",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious golden scroll hidden under a tree stump—what do you do?",
+      "options": [
+        {
+          "text": "Take it to the library and ask Maru to help you decode the ancient symbols",
+          "score": "S"
+        },
+        {
+          "text": "Hide it in your safe and wait to see if any strange events unfold before acting",
+          "score": "I"
+        },
+        {
+          "text": "Gather a group of villagers to investigate the scroll’s origin together, hosting a meeting at your farm",
+          "score": "E"
+        },
+        {
+          "text": "Use the symbols to create a story about the valley’s lost civilization, sharing it with the kids at the general store",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your crops are suddenly attacked by a swarm of crows—how do you respond?",
+      "options": [
+        {
+          "text": "Rush to build temporary scarecrows using materials you have on hand, prioritizing your most valuable crops",
+          "score": "T"
+        },
+        {
+          "text": "Feel heartbroken for the damaged plants and spend the rest of the day talking to them to ‘apologize’ for not protecting them",
+          "score": "F"
+        },
+        {
+          "text": "Call over Shane and Abigail to help you chase the crows away, turning it into a silly competition",
+          "score": "E"
+        },
+        {
+          "text": "Sit down and write down a detailed plan to install permanent netting over all your crop beds by next week",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You have extra gold to spend—what’s your first purchase?",
+      "options": [
+        {
+          "text": "Buy a new set of rare seeds from the traveling cart, even though you’re not sure what they’ll grow",
+          "score": "P"
+        },
+        {
+          "text": "Invest in a high-quality fertilizer machine to boost your crop yields long-term",
+          "score": "S"
+        },
+        {
+          "text": "Purchase a fancy new chicken coop decoration to make your farm feel more welcoming",
+          "score": "F"
+        },
+        {
+          "text": "Save it in case of emergencies, like sudden tool repairs or crop failures",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "It’s the middle of winter—how do you pass the time?",
+      "options": [
+        {
+          "text": "Host a weekly game night at your cabin for all the villagers, making hot cocoa and baking cookies",
+          "score": "E"
+        },
+        {
+          "text": "Spend every day in the mines, exploring new levels and collecting rare ores to sell in spring",
+          "score": "S"
+        },
+        {
+          "text": "Work on a novel about a farmer who discovers magic in the valley, sharing chapters with Leah when you’re done",
+          "score": "N"
+        },
+        {
+          "text": "Stay in your cabin and knit scarves for all your animals, keeping them warm during the cold snaps",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A neighbor asks you to help them rebuild their broken fence—what do you do?",
+      "options": [
+        {
+          "text": "Agree immediately and plan out the most efficient way to finish the job in one afternoon",
+          "score": "J"
+        },
+        {
+          "text": "Tell them you’ll help whenever you have free time, fitting it in between your own farm tasks",
+          "score": "P"
+        },
+        {
+          "text": "Bring over homemade soup to share while you work, asking them about their family and life in the valley",
+          "score": "F"
+        },
+        {
+          "text": "Bring your best tools and show them a few tricks to make the fence more durable for future winters",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a lost baby goat wandering near the mountain—what’s your first move?",
+      "options": [
+        {
+          "text": "Take it to your farm and care for it until you can find its owner, posting flyers around town",
+          "score": "S"
+        },
+        {
+          "text": "Sit with the goat and calm it down, talking softly to it until it stops shaking",
+          "score": "F"
+        },
+        {
+          "text": "Ask every villager you see if they recognize the goat, organizing a small search party to find its home",
+          "score": "E"
+        },
+        {
+          "text": "Follow the goat’s tracks up the mountain, guessing it came from a hidden farm you’ve never explored before",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The traveling cart arrives with a strange, glowing artifact—how do you react?",
+      "options": [
+        {
+          "text": "Buy it immediately, eager to experiment with its mysterious powers around your farm",
+          "score": "P"
+        },
+        {
+          "text": "Ask the cart vendor every detail about where it came from and what it does before deciding to buy",
+          "score": "T"
+        },
+        {
+          "text": "Put it on your mantelpiece as a conversation starter, showing it off to every visitor to your farm",
+          "score": "E"
+        },
+        {
+          "text": "Refuse to buy it, worried it might bring bad luck to your crops and animals",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to plan the town’s annual harvest festival—what’s your focus?",
+      "options": [
+        {
+          "text": "Create a detailed schedule of events, ensuring every activity starts and ends on time",
+          "score": "J"
+        },
+        {
+          "text": "Design unique, interactive games that let villagers of all ages participate and have fun",
+          "score": "N"
+        },
+        {
+          "text": "Coordinate with local bakers to provide plenty of treats, making sure no one leaves hungry",
+          "score": "S"
+        },
+        {
+          "text": "Invite nearby towns to join the festival, turning it into a big, lively celebration for everyone",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "After a long day on the farm, how do you unwind?",
+      "options": [
+        {
+          "text": "Sit on your porch and watch the sunset, reflecting on your day’s accomplishments",
+          "score": "I"
+        },
+        {
+          "text": "Head to the saloon and play pool with Sam and Alex, laughing about their latest pranks",
+          "score": "E"
+        },
+        {
+          "text": "Read a book about advanced farming techniques to improve your crops next season",
+          "score": "S"
+        },
+        {
+          "text": "Write poetry about the stars above the valley, imagining what lies beyond the mountains",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Steady Crop Keeper",
+      "description": "You’re the backbone of Pelican Town’s agricultural community. Every morning, you tend to your crops with unwavering routine, keep meticulous records of harvest dates, and always have extra produce to share with neighbors in need. You value tradition and reliability, turning your farm into a model of efficiency. Your MBTI type is ISTJ—practical, organized, and deeply committed to your roots.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Homesteader",
+      "description": "Your farm is a warm haven for both animals and villagers. You remember every neighbor’s birthday, bake pies for sick friends, and spend hours grooming your chickens and cows. You prioritize care over productivity, making sure every living thing on your farm feels loved. Your MBTI type is ISFJ—kindhearted, dependable, and always putting others first.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Wise Valley Seer",
+      "description": "You see the magic in every corner of Pelican Town, from the hidden sprites in the secret forest to the old stories behind the abandoned mansion. You offer quiet advice to struggling villagers, and your farm is filled with plants that hold special, symbolic meaning. Your MBTI type is INFJ—intuitive, compassionate, and deeply connected to the valley’s spiritual side.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Farm Architect",
+      "description": "You turned your overgrown farm into a masterpiece of planning and innovation. You use crop rotation to maximize yields, design automated irrigation systems, and invest in rare crops that bring in the highest profit. You’re always thinking steps ahead, turning every challenge into an opportunity to improve. Your MBTI type is INTJ—analytical, visionary, and driven to excel.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Resourceful Handyman Farmer",
+      "description": "You fix broken tools with scrap metal, turn leftover wood into useful furniture, and can build a scarecrow in minutes. You thrive on solving practical problems, and your farm is filled with clever DIY projects that save you time and gold. Your MBTI type is ISTP—adaptable, practical, and a natural at working with your hands.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Gentle Forager Artist",
+      "description": "You prefer wild berries over planted crops, spending your days wandering the secret forest and collecting flowers to press in your journal. Your farm is a messy, beautiful garden of native plants, and you sell handcrafted wreaths and herbal teas at the town market. Your MBTI type is ISFP—creative, gentle, and deeply in tune with nature.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dreamy Cottage Farmer",
+      "description": "Your farm is straight out of a fairy tale, with a cozy cottage covered in ivy, a small pond full of lily pads, and a garden of moonflowers that bloom at night. You write stories about the valley’s creatures and share them with the town’s children, always holding onto hope for a more magical world. Your MBTI type is INFP—idealistic, imaginative, and full of quiet wonder.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Experimental Farmer",
+      "description": "You spend your days testing weird crop combinations, cross-breeding flowers to create new colors, and studying the stars to predict weather patterns. You’re always asking ‘why?’ and ‘what if?’, turning your farm into a laboratory of agricultural innovation. Your MBTI type is INTP—intellectual, curious, and obsessed with uncovering the valley’s secrets.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Community-Oriented Farmer",
+      "description": "You organize the town’s harvest festival every year, lead volunteer efforts to repair the community center, and always speak up at town meetings to advocate for farmers’ needs. Your farm is a gathering place for villagers, and you take pride in being the one everyone turns to for help. Your MBTI type is ESTJ—assertive, responsible, and a natural leader.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Festive Host Farmer",
+      "description": "Your farm is the site of weekly potlucks, holiday parties, and summer barbecues. You remember every villager’s favorite food, decorate your farm with seasonal decorations, and go out of your way to make sure no one feels left out. Your MBTI type is ESFJ—sociable, warm, and the heart of Pelican Town’s social scene.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspiring Farm Mentor",
+      "description": "You teach young villagers how to grow their own gardens, share your farming knowledge with new arrivals, and encourage everyone to follow their dreams. Your farm is a place of growth—both for crops and for people—and you’re always pushing others to reach their full potential. Your MBTI type is ENFJ—charismatic, empathetic, and a natural motivator.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Ambitious Agrarian Tycoon",
+      "description": "You turned your small farm into a sprawling empire, selling crops to cities outside the valley, owning multiple barns and coops, and even opening a small general store in town. You set big goals and work tirelessly to achieve them, inspiring awe and respect from everyone in Pelican Town. Your MBTI type is ENTJ—confident, strategic, and driven to succeed.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Adventurous Rancher",
+      "description": "You spend your days riding your horse through the mountains, exploring the desert, and mining for rare ores. Your farm is home to exotic animals like ostriches and goats, and you love taking risks—like betting on the luau or entering your prized cow in the county fair. Your MBTI type is ESTP—energetic, bold, and always seeking new thrills.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Joyful Festival Farmer",
+      "description": "You’re the first to dance at the Flower Dance, the loudest cheerer at the egg hunt, and the one who brings confetti to every town event. Your farm is filled with bright, colorful flowers and playful animals, and you never miss a chance to laugh and have fun. Your MBTI type is ESFP—spontaneous, outgoing, and the life of every party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Dreamy Forager",
+      "description": "You wander the valley looking for hidden treasures—rare mushrooms, ancient artifacts, and secret paths. You share your finds with friends, tell stories about the valley’s magic, and always have a new idea for a farm project (like building a treehouse or a fairy garden). Your MBTI type is ENFP—creative, enthusiastic, and full of whimsy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Innovative Trickster Farmer",
+      "description": "You invent new farming gadgets (like a self-watering planter made from old buckets), prank villagers with fake golden eggs, and always find a loophole to get what you want. Your farm is a chaos of brilliant ideas, and you love challenging the status quo to make Pelican Town more interesting. Your MBTI type is ENTP—witty, innovative, and never afraid to shake things up.",
+      "mbti": "ENTP"
+    }
+  ]
+}

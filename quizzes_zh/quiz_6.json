@@ -1,0 +1,349 @@
+{
+  "quizId": 6,
+  "title": "What Would You Do in Olivia Rodrigo’s Defining Moments?",
+  "category": "whatwould",
+  "tags": [
+    "Olivia Rodrigo",
+    "What Would You Do",
+    "Personality Test",
+    "MBTI",
+    "Pop Culture"
+  ],
+  "description": "Answer 12 questions to discover what you’d do in relatable, high-stakes moments inspired by Olivia Rodrigo—and uncover your hidden personality tendencies along the way.",
+  "questions": [
+    {
+      "text": "You’re in the studio stuck on a song chorus. You...",
+      "options": [
+        {
+          "text": "Lock yourself in a quiet corner with your notebook, scribbling raw lines until the right melody hits you",
+          "score": "I"
+        },
+        {
+          "text": "Call up three close friends to bounce ideas off, laughing through messy drafts until something clicks",
+          "score": "E"
+        },
+        {
+          "text": "Pull up your favorite lyric references and map out a structure that fits your usual flow",
+          "score": "S"
+        },
+        {
+          "text": "Ditch your original plan entirely and experiment with a genre you’ve never tried before",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A tabloid runs a false story about you after your track goes viral. You...",
+      "options": [
+        {
+          "text": "Release a concise, factual statement correcting the misinformation without extra emotion",
+          "score": "T"
+        },
+        {
+          "text": "Post a heartfelt note addressing the hurt, focusing on how it made you feel and setting boundaries",
+          "score": "F"
+        },
+        {
+          "text": "Ignore it at first, letting the story fade on its own while you focus on your next project",
+          "score": "P"
+        },
+        {
+          "text": "Work with your team to schedule a press interview to clear things up systematically",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re opening for a huge artist, but your mic cuts out mid-performance. You...",
+      "options": [
+        {
+          "text": "Quickly gesture to the backup mic on the floor, keeping your focus on finishing the verse smoothly",
+          "score": "S"
+        },
+        {
+          "text": "Ad-lib a funny joke about the mishap, getting the crowd to cheer along before the tech team fixes it",
+          "score": "E"
+        },
+        {
+          "text": "Improvise a new verse that references the technical glitch, turning it into a memorable moment",
+          "score": "N"
+        },
+        {
+          "text": "Pause for a beat to steady yourself, then continue singing acapella to connect with the audience more deeply",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A fan sends you a handwritten letter saying your music helped them through a tough time. You...",
+      "options": [
+        {
+          "text": "Take a photo of the letter and post it to your story, thanking all your fans for their support",
+          "score": "E"
+        },
+        {
+          "text": "Set aside time to write a personalized reply, sharing how their message impacted you too",
+          "score": "F"
+        },
+        {
+          "text": "Invite the fan to your next local show, surprising them with a backstage meet-and-greet",
+          "score": "N"
+        },
+        {
+          "text": "File the letter in a keepsake box to revisit whenever you need a boost of motivation",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You have to choose between headlining a small intimate venue or a large stadium show. You...",
+      "options": [
+        {
+          "text": "Opt for the small venue to connect one-on-one with fans, valuing deep interactions over size",
+          "score": "I"
+        },
+        {
+          "text": "Pick the stadium to reach as many fans as possible, loving the energy of a massive crowd",
+          "score": "E"
+        },
+        {
+          "text": "Analyze the financial and career benefits of each option before making a decision",
+          "score": "T"
+        },
+        {
+          "text": "Go with whichever feels more exciting in the moment, trusting your gut to lead you right",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your best friend wants you to feature on their new song, but it clashes with your album deadline. You...",
+      "options": [
+        {
+          "text": "Suggest a last-minute remote recording session that fits both of your busy schedules",
+          "score": "P"
+        },
+        {
+          "text": "Rearrange your schedule to make time for both, working late nights to meet every commitment",
+          "score": "J"
+        },
+        {
+          "text": "Explain the deadline conflict clearly, offering to collaborate on a different track later instead",
+          "score": "T"
+        },
+        {
+          "text": "Cancel part of your album work to help your friend, prioritizing their happiness over your timeline",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re brainstorming themes for your next album. You lean toward ideas that are...",
+      "options": [
+        {
+          "text": "Rooted in your own real-life experiences, like a breakup you’re still processing",
+          "score": "S"
+        },
+        {
+          "text": "Fictional but emotionally resonant, like a story of a vampire who falls in love with a human",
+          "score": "N"
+        },
+        {
+          "text": "Exploring the pressure of fame, analyzing how it changes relationships and self-perception",
+          "score": "T"
+        },
+        {
+          "text": "Focused on the chaos of growing up, capturing the messy, relatable moments of being a young adult",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You find out your ex is dating someone new right before your tour starts. You...",
+      "options": [
+        {
+          "text": "Hang out with your tour crew every night, laughing and telling stories to keep your mind off it",
+          "score": "E"
+        },
+        {
+          "text": "Distract yourself with tour preparations, making sure every detail of the shows is perfect to stay busy",
+          "score": "J"
+        },
+        {
+          "text": "Spend an hour alone journaling your feelings, then put it aside to focus on your fans",
+          "score": "I"
+        },
+        {
+          "text": "Talk to your tour manager about adding a new, angry track to the setlist to release your frustration",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A record label executive suggests changing your album’s lead single to something more radio-friendly. You...",
+      "options": [
+        {
+          "text": "Push back gently but firmly, explaining why the original single feels true to your artistic vision",
+          "score": "T"
+        },
+        {
+          "text": "Agree to test both versions with a small group of fans, then go with the one they prefer",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a middle ground—rewriting a few lyrics to make it more accessible while keeping the core message",
+          "score": "P"
+        },
+        {
+          "text": "Argue passionately about keeping your original track, refusing to compromise on your creativity",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You have a free day during your tour stop in a new city. You...",
+      "options": [
+        {
+          "text": "Plan a packed itinerary of activities, making sure you don’t miss any must-see locations",
+          "score": "J"
+        },
+        {
+          "text": "Invite your tour mates to check out the city’s biggest landmarks and popular spots",
+          "score": "E"
+        },
+        {
+          "text": "Wander aimlessly through the streets, letting your curiosity lead you wherever you end up",
+          "score": "P"
+        },
+        {
+          "text": "Research local hidden gems, like a vintage bookstore or small café, to explore on your own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re writing a diss track about someone who hurt you. You decide to...",
+      "options": [
+        {
+          "text": "Use metaphors and vivid imagery to convey your anger without naming names directly",
+          "score": "N"
+        },
+        {
+          "text": "Perform a rough draft for your friends, asking for their input to make the track as impactful as possible",
+          "score": "E"
+        },
+        {
+          "text": "Keep the lyrics private, choosing to process your feelings instead of sharing them publicly",
+          "score": "I"
+        },
+        {
+          "text": "Focus on specific, factual details of what happened to make the lyrics feel grounded and real",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your album wins a major award. The host asks you to give an acceptance speech. You...",
+      "options": [
+        {
+          "text": "Speak off the cuff, sharing a funny story about recording the album that no one has heard before",
+          "score": "P"
+        },
+        {
+          "text": "Thank your team, family, and fans in a structured, heartfelt way, sticking to a short outline you prepared",
+          "score": "J"
+        },
+        {
+          "text": "Highlight the hard work and strategy that went into making the album a success",
+          "score": "T"
+        },
+        {
+          "text": "Focus on the broader message of your music, talking about how art can heal and connect people",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Raw Balladeer",
+      "description": "Like Olivia’s most vulnerable tracks, you’re driven by unfiltered emotion and authenticity. You turn heartbreak and joy into lyrical masterpieces, prioritizing your inner truth over trends. You retreat to process feelings, then share them with the world to connect with others who feel the same. As an INFP, you’re idealistic, creative, and deeply empathetic, making your art resonate on a profound level.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Chaos Creator",
+      "description": "You’re the life of any room, just like Olivia when she’s on stage. You thrive on spontaneity and love turning mishaps into memorable moments. You bounce between creative ideas easily, inviting others to join your vision. As an ENFP, you’re enthusiastic, imaginative, and deeply caring—your music is a celebration of life’s messy, beautiful chaos, drawing fans in with your infectious energy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Mystic Lyricist",
+      "description": "You see the hidden meanings in every moment, just like Olivia in “Vampire.” You craft songs that explore the depths of human connection, using metaphors to convey complex emotions. You prefer quiet, meaningful interactions over large crowds. As an INFJ, you’re intuitive, compassionate, and purpose-driven, creating art that makes listeners reflect on their own lives.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Fan Advocate",
+      "description": "You prioritize your fans above all else, just like Olivia who often shows love to her supporters. You use your platform to lift others up, turning your fame into a force for good. You thrive on connecting with people, whether through meet-and-greets or heartfelt social posts. As an ENFJ, you’re charismatic, empathetic, and influential, making you a beloved figure in your community.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Songwriter",
+      "description": "You approach every project with precision, just like Olivia planning her album rollouts. You map out every detail of your music from lyrics to marketing, using logic to turn your vision into reality. You don’t let emotions cloud your decisions, instead focusing on long-term success. As an INTJ, you’re analytical, independent, and innovative, creating art that’s both meaningful and commercially impactful.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Bold Performer",
+      "description": "You’re a natural leader, commanding the stage just like Olivia during her high-energy shows. You take charge of every aspect of your career, from writing songs to negotiating deals. You’re unafraid to speak your mind and fight for your artistic vision. As an ENTJ, you’re confident, strategic, and determined, turning every challenge into an opportunity to succeed.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Quirky Innovator",
+      "description": "You love experimenting with new sounds and genres, just like Olivia when she blends pop with punk. You’re always questioning the status quo, looking for ways to make your music unique. You prefer to work alone, diving deep into research to perfect your craft. As an INTP, you’re curious, logical, and creative, pushing the boundaries of what pop music can be.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Witty Wordsmith",
+      "description": "You’re known for your clever lyrics and quick humor, just like Olivia in her sassy tracks. You thrive on debating ideas and challenging others to think differently. You turn every conversation into a source of inspiration for your music. As an ENTP, you’re playful, intelligent, and innovative, creating art that’s both funny and thought-provoking.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Intimate Performer",
+      "description": "You shine in small, intimate settings, just like Olivia in her acoustic shows. You focus on the sensory details of music—how a melody feels, how a lyric sounds. You prefer to express yourself through actions rather than words. As an ISFP, you’re gentle, artistic, and grounded, creating music that feels like a warm hug for your listeners.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Pop Punk Rebel",
+      "description": "You live for the moment, thriving on the energy of a live crowd just like Olivia in “good 4 u.” You love performing high-tempo tracks that get everyone dancing. You’re always up for a fun adventure, whether it’s impromptu jam sessions or late-night food runs with friends. As an ESFP, you’re outgoing, spontaneous, and energetic, making every show an unforgettable experience.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Loyal Collaborator",
+      "description": "You’re the rock for your friends and team, just like Olivia who values her close relationships. You prioritize others’ needs before your own, often going out of your way to help. You’re meticulous in your work, making sure every detail of your music is perfect. As an ISFJ, you’re reliable, caring, and dedicated, creating art that feels like a tribute to the people you love.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Community Builder",
+      "description": "You love bringing people together, just like Olivia when she hosts fan events. You use your music to create a sense of belonging, writing songs about shared experiences. You’re always there to support your friends and fans, making them feel seen and heard. As an ESFJ, you’re warm, outgoing, and compassionate—your concerts feel like a big, joyful family reunion.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Disciplined Creator",
+      "description": "You stick to your plan, just like Olivia when she meets tight album deadlines. You value structure and consistency in your work, making sure every lyric and melody is polished to perfection. You don’t let distractions derail you, focusing on the task at hand. As an ISTJ, you’re responsible, practical, and detail-oriented, creating music that’s reliable and deeply crafted.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Professional Performer",
+      "description": "You’re a master of organization, running your career like a well-oiled machine just like Olivia’s team. You make decisions based on facts and data, ensuring every choice benefits your long-term goals. You’re no-nonsense but fair, earning respect from everyone you work with. As an ESTJ, you’re efficient, confident, and responsible, turning your artistic vision into a successful career.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Tech-Savvy Troubleshooter",
+      "description": "You’re a problem-solver at heart, just like Olivia when she fixes a broken guitar mid-show. You love tinkering with new gear and sounds, finding innovative ways to improve your music. You prefer to let your work speak for itself, avoiding unnecessary attention. As an ISTP, you’re calm, practical, and creative, turning technical challenges into opportunities to grow.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Impulsive Showstopper",
+      "description": "You thrive on adrenaline, just like Olivia when she pulls off a surprise stage dive. You love taking risks, whether it’s trying a new genre or ad-libbing a verse mid-performance. You’re quick on your feet, turning mishaps into unforgettable moments. As an ESTP, you’re bold, spontaneous, and charismatic—your live shows are always full of unexpected excitement.",
+      "mbti": "ESTP"
+    }
+  ]
+}

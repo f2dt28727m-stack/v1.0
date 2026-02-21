@@ -1,0 +1,349 @@
+{
+  "quizId": 49,
+  "title": "What’s Your Fortnite Playstyle Personality?",
+  "category": "whatwould",
+  "tags": [
+    "Fortnite",
+    "MBTI",
+    "Personality",
+    "Gaming",
+    "Playstyle"
+  ],
+  "description": "Answer 12 immersive Fortnite scenarios to uncover your hidden personality traits through your in-game choices!",
+  "questions": [
+    {
+      "text": "You’ve just landed on a remote Fortnite island with no weapons. You immediately...",
+      "options": [
+        {
+          "text": "Climb to the highest hilltop to map out the entire area and plan your long-term strategy",
+          "score": "N"
+        },
+        {
+          "text": "Hide in a dense bush, scanning the area silently for nearby loot before making a move",
+          "score": "I"
+        },
+        {
+          "text": "Run toward the nearest group of players to team up and scavenge together",
+          "score": "E"
+        },
+        {
+          "text": "Head straight for the closest building to collect armor and basic weapons first",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your teammate gets knocked down in the middle of a firefight. You...",
+      "options": [
+        {
+          "text": "Adapt on the fly, using a smoke grenade to obscure the area before making your move",
+          "score": "P"
+        },
+        {
+          "text": "Dive into cover to revive them immediately, even if it means taking damage yourself",
+          "score": "F"
+        },
+        {
+          "text": "Follow your pre-planned backup strategy, calling for another teammate to cover while you revive",
+          "score": "J"
+        },
+        {
+          "text": "Focus on eliminating the enemy first, knowing reviving is useless until the threat is gone",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The storm is closing in fast, and you’re far from the safe zone. You...",
+      "options": [
+        {
+          "text": "Take a scenic route through wooded areas, looting small chests you pass to boost your gear",
+          "score": "P"
+        },
+        {
+          "text": "Stick to paved roads and sprint nonstop, prioritizing speed over any extra loot",
+          "score": "J"
+        },
+        {
+          "text": "Yell for your squad to regroup and move together, making sure no one gets left behind",
+          "score": "E"
+        },
+        {
+          "text": "Veer off alone into the trees, using your knowledge of the map to find a hidden shortcut",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a legendary sniper rifle but no ammo for it. You...",
+      "options": [
+        {
+          "text": "Trudge straight to the nearest ammo cache marked on your map, determined to make the rifle usable",
+          "score": "S"
+        },
+        {
+          "text": "Trade it with a teammate in exchange for ammo for your current weapon, valuing collaboration over rare gear",
+          "score": "F"
+        },
+        {
+          "text": "Keep it and brainstorm creative ways to use it as a distraction or melee weapon",
+          "score": "N"
+        },
+        {
+          "text": "Drop it immediately, knowing it’s useless without ammo and will slow down your movement",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "An unexpected enemy ambushes you from behind. You...",
+      "options": [
+        {
+          "text": "Freeze for a split second before reacting with whatever moves feel most natural in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Use a pre-practiced building sequence to create a quick cover and counterattack",
+          "score": "J"
+        },
+        {
+          "text": "Scream for your teammates to come help you, trusting them to turn the tide of the fight",
+          "score": "E"
+        },
+        {
+          "text": "Crouch and roll into nearby cover, analyzing the enemy’s position before striking back",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re in the final circle with three other players left. You...",
+      "options": [
+        {
+          "text": "Build an elaborate fortress with multiple layers, creating a defensive stronghold to wait out your opponents",
+          "score": "J"
+        },
+        {
+          "text": "Wander through the circle casually, adapting your strategy based on every sound and movement you detect",
+          "score": "P"
+        },
+        {
+          "text": "Think through every possible outcome of each potential move, calculating the odds of success for each tactic",
+          "score": "T"
+        },
+        {
+          "text": "Listen closely to your opponent’s footsteps, using your intuition to guess their next move",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your squad is debating whether to attack a enemy base or lay low. You...",
+      "options": [
+        {
+          "text": "Argue for attacking immediately, excited by the chance to show off your combat skills to the team",
+          "score": "E"
+        },
+        {
+          "text": "Stay quiet, weighing the pros and cons silently before sharing your well-thought-out opinion",
+          "score": "I"
+        },
+        {
+          "text": "Point out the number of guards, ammo caches, and exit routes you’ve observed, focusing on concrete details",
+          "score": "S"
+        },
+        {
+          "text": "Propose a clever distraction plan that uses the environment to catch the enemies off guard",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You accidentally trigger a trap that alerts nearby enemies. You...",
+      "options": [
+        {
+          "text": "Apologize profusely to your squad, feeling guilty for putting them in danger",
+          "score": "F"
+        },
+        {
+          "text": "Quickly come up with a new plan to turn the trap into a bait for the incoming enemies",
+          "score": "T"
+        },
+        {
+          "text": "Run in the opposite direction, trusting your instincts to lead you to safety",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your original route but double your guard, adjusting your pace to stay on schedule",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a hidden bunker full of rare loot but it’s guarded by a tough AI boss. You...",
+      "options": [
+        {
+          "text": "Call your squad over to form a coordinated attack, assigning each member a specific role to take down the boss",
+          "score": "E"
+        },
+        {
+          "text": "Study the boss’s patterns alone for several minutes before attempting a solo takedown",
+          "score": "I"
+        },
+        {
+          "text": "Charge in immediately, using your fast reflexes to dodge attacks and grab the loot",
+          "score": "S"
+        },
+        {
+          "text": "Use the surrounding terrain to set up traps and lure the boss into a vulnerable position",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your squad decides to split up to cover more ground. You...",
+      "options": [
+        {
+          "text": "Check in with your teammates every minute, feeling uneasy about being separated for too long",
+          "score": "F"
+        },
+        {
+          "text": "Focus on completing your assigned task efficiently, knowing communication can wait until you’re done",
+          "score": "T"
+        },
+        {
+          "text": "Follow the exact path agreed upon, marking loot locations on the map as you go",
+          "score": "S"
+        },
+        {
+          "text": "Explore side paths and hidden areas, curious to find unexpected loot that could help the team",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You win a hard-fought battle and collect all the enemy’s loot. You...",
+      "options": [
+        {
+          "text": "Do a victory dance in front of the enemy’s body, eager to show off your win to your squad",
+          "score": "E"
+        },
+        {
+          "text": "Quietly loot the body and move on, not wanting to draw attention to your position",
+          "score": "I"
+        },
+        {
+          "text": "Organize the loot into your inventory by usefulness, discarding items you’ll never need",
+          "score": "J"
+        },
+        {
+          "text": "Keep every item, even if it seems useless, in case you find a creative use for it later",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "The game ends with your squad taking second place. You...",
+      "options": [
+        {
+          "text": "Console your teammates, reminding them that the fun of playing together matters more than winning",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the final fight step by step, pointing out what went wrong to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Suggest jumping straight into another game immediately, eager to put your new lessons into practice",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about alternative strategies you could have used to secure the win, brainstorming for your next match",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Charismatic Leader (ENFJ)",
+      "description": "You’re the heart of any Fortnite squad, always checking in on teammates and coordinating plays to keep everyone safe. You prioritize group success over personal glory, using your empathy to anticipate allies’ needs and your natural charm to rally the team. In fights, you lead with strategy that protects others first, turning chaotic battles into organized wins. Your ENFJ spirit makes you the most reliable teammate on the island.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Innovator (ENTP)",
+      "description": "You’re the wildcard of Fortnite matches, always brainstorming chaotic, creative strategies that catch enemies off guard. You thrive on debates with your squad, challenging traditional playstyles and inventing new ways to use the map and items. Winning is fun, but outsmarting your opponents with a clever trick is what really drives you. Your ENTP mind turns every match into a thrilling experiment.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Planner (ESTJ)",
+      "description": "You’re the backbone of your squad, mapping out every move in advance and sticking to the plan with unwavering focus. You value efficiency above all else, prioritizing loot, position, and timing to maximize your chances of winning. You expect teammates to follow your clear instructions, and you’re quick to correct any deviations that could put the team at risk. Your ESTJ discipline turns disorganized squads into well-oiled machines.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Adaptable Explorer (ESFP)",
+      "description": "You live for the thrill of Fortnite’s chaos, diving headfirst into every fight and adapting to the moment with reckless abandon. You love showing off flashy builds and crazy plays, making every match feel like an adventure. You prioritize having fun over winning, but your quick reflexes and natural charm often lead your squad to victory anyway. Your ESFP energy turns every game into a memorable party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Intuitive Visionary (INFJ)",
+      "description": "You’re the quiet strategist of your squad, spending most matches observing the map and predicting enemy movements before they happen. You trust your gut above all else, often making calls that seem risky but pay off in the end. You care deeply about your teammates’ well-being, even if you don’t always say it out loud. Your INFJ intuition turns you into a hidden weapon that can turn the tide of any match.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Logical Analyst (INTJ)",
+      "description": "You approach Fortnite like a chess game, calculating every move several steps ahead and minimizing risks at all costs. You rarely join squads, preferring to play alone where you can execute your perfect strategies without interference. You value efficiency over flash, using precise builds and calculated shots to take down enemies without wasting resources. Your INTJ focus turns every match into a masterclass in strategy.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Dependable Worker (ISTJ)",
+      "description": "You’re the most reliable teammate in Fortnite, always showing up with the right gear, following the plan, and covering your squad’s backs. You focus on the basics: collecting armor, ammo, and healing items to ensure your team is prepared for any fight. You don’t need flashy plays to win—you just need consistency and hard work. Your ISTJ dependability makes you the cornerstone of any successful squad.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Curious Adventurer (ISFP)",
+      "description": "You play Fortnite for the joy of exploration, spending most matches wandering the map to find hidden secrets and beautiful spots. You avoid fights whenever possible, preferring to build cozy forts or collect rare cosmetic items. When you do have to fight, you use your creativity to come up with unexpected tactics. Your ISFP spirit turns every match into a peaceful journey through the island’s wonders.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The People Person (ESFJ)",
+      "description": "You’re the social glue of your Fortnite squad, always making sure everyone feels included and having a good time. You love hosting squad nights and inviting new players to join, turning every match into a chance to make friends. You prioritize teamwork over personal achievements, cheering on your teammates even when you’re not in the spotlight. Your ESFJ warmth makes every game feel like a gathering with close friends.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Bold Debater (ENTJ)",
+      "description": "You’re the dominant leader of your Fortnite squad, making quick, decisive calls that lead your team to victory. You have zero patience for indecision, and you’re not afraid to take risks if it means gaining an advantage. You love outsmarting your opponents with clever strategies, and you take pride in turning disorganized squads into unbeatable forces. Your ENTJ confidence makes you a natural-born champion.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Dreamer (INFP)",
+      "description": "You play Fortnite with a poetic eye, seeing beauty in the map’s landscapes and creativity in every build. You often build elaborate structures just for fun, turning empty fields into castles or treehouses. You avoid fights unless you have to, preferring to explore and create. When you do fight, you use your imagination to come up with unique tactics that no one else would think of. Your INFP spirit turns every match into a work of art.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Quick Thinker (INTP)",
+      "description": "You’re the resident genius of your squad, always coming up with creative solutions to unexpected problems. You love experimenting with new build techniques and item combinations, turning useless items into powerful tools. You don’t care much about winning—you care about solving the puzzle of each match. Your INTP curiosity turns every game into a fascinating experiment in strategy and creativity.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Energetic Team Player (ESTP)",
+      "description": "You’re the life of the Fortnite party, always jumping into fights first and encouraging your squad to join you. You thrive on adrenaline, making split-second decisions that turn losing fights into wins. You love showing off your skills with flashy plays and quick kills, and you’re always ready to laugh off mistakes. Your ESTP energy turns every match into a high-octane thrill ride.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Calm Observer (ISFJ)",
+      "description": "You’re the quiet caregiver of your squad, always watching out for teammates and healing them before yourself. You’re a master at staying under the radar, using your knowledge of the map to find hidden loot and safe spots. You avoid unnecessary fights, preferring to protect your squad and help them reach the end of the match. Your ISFJ kindness makes you the most beloved teammate on the island.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Spontaneous Free Spirit (ENFP)",
+      "description": "You play Fortnite like a kid in a playground, following your whims and turning every match into a new adventure. You love trying crazy ideas—like building a rollercoaster across the map or using a launchpad to fly into the storm. You make friends with random players mid-match and turn squads into chaotic but fun groups. Your ENFP joy turns every game into a delightful surprise.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Precise Perfectionist (ISTP)",
+      "description": "You’re the silent assassin of Fortnite, using your precise aim and quick reflexes to take down enemies without being seen. You prefer to play alone, focusing on honing your skills and mastering every weapon in the game. You value precision over flash, using minimal movements and calculated shots to eliminate opponents with ease. Your ISTP skill turns every match into a display of pure technical mastery.",
+      "mbti": "ISTP"
+    }
+  ]
+}

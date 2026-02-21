@@ -1,0 +1,349 @@
+{
+  "quizId": 67,
+  "title": "What’s Your Future Taylor Swift-Inspired Life Path?",
+  "category": "future",
+  "tags": [
+    "Taylor Swift",
+    "Future Life",
+    "MBTI",
+    "Personality",
+    "Life Direction"
+  ],
+  "description": "Answer 12 questions to discover your future life path inspired by Taylor Swift’s iconic journey and authentic traits!",
+  "questions": [
+    {
+      "text": "When you hear about a new Taylor Swift album drop, you immediately...",
+      "options": [
+        {
+          "text": "Put on noise-canceling headphones and listen alone, taking notes on your favorite lyrics",
+          "score": "I"
+        },
+        {
+          "text": "Imagine how each song could inspire a new creative project, like a short story or painting",
+          "score": "N"
+        },
+        {
+          "text": "Text all your friends to plan a midnight listening party at a local café",
+          "score": "E"
+        },
+        {
+          "text": "Create a track-by-track playlist and organize a re-listen schedule for the week",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you had the chance to collaborate on a Taylor Swift-themed project, you’d choose to...",
+      "options": [
+        {
+          "text": "Analyze Taylor’s career data to identify trends that contributed to her long-term success",
+          "score": "T"
+        },
+        {
+          "text": "Experiment with unexpected mediums, like combining Taylor’s lyrics with street art installations",
+          "score": "P"
+        },
+        {
+          "text": "Help a group of fans share their personal stories about how Taylor’s music helped them heal",
+          "score": "F"
+        },
+        {
+          "text": "Manage the project timeline, ensuring every task is completed on schedule",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on a past challenge, you find yourself focusing most on...",
+      "options": [
+        {
+          "text": "The conversations you had with others that supported you through the hard time",
+          "score": "E"
+        },
+        {
+          "text": "The specific actions you took to overcome it and what you learned from each step",
+          "score": "S"
+        },
+        {
+          "text": "The quiet moments of self-reflection that helped you gain clarity",
+          "score": "I"
+        },
+        {
+          "text": "How this experience connects to a larger pattern or purpose in your life story",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re planning a day off inspired by Taylor’s eras. You’d rather...",
+      "options": [
+        {
+          "text": "Wander through a bookstore or park, letting your curiosity lead you to new discoveries",
+          "score": "P"
+        },
+        {
+          "text": "Spend the day volunteering at a shelter, channeling Taylor’s focus on kindness",
+          "score": "F"
+        },
+        {
+          "text": "Follow a strict schedule: 2 hours of folklore-themed hiking, 1 hour of red-era baking, 3 hours of reputation movie night",
+          "score": "J"
+        },
+        {
+          "text": "Research the business strategies behind Taylor’s re-recordings to apply to your own goals",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a deep cut Taylor song you love, you...",
+      "options": [
+        {
+          "text": "Add it to your private playlist and listen to it on repeat during your daily commute",
+          "score": "I"
+        },
+        {
+          "text": "Write a poem or short story that captures the emotional core of the song",
+          "score": "N"
+        },
+        {
+          "text": "Look up the behind-the-scenes story of how the song was written and recorded",
+          "score": "S"
+        },
+        {
+          "text": "Make a TikTok video explaining why it’s underrated and tag all your Taylor fan friends",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "If you had to give a speech about Taylor’s impact, you’d center it on...",
+      "options": [
+        {
+          "text": "Her ability to adapt to industry changes while maintaining creative control",
+          "score": "T"
+        },
+        {
+          "text": "A series of unexpected anecdotes that show her growth beyond the spotlight",
+          "score": "P"
+        },
+        {
+          "text": "The way her lyrics validate complex emotions and make people feel seen",
+          "score": "F"
+        },
+        {
+          "text": "A structured timeline of her career milestones and key achievements",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a sudden change in your plans, you react by...",
+      "options": [
+        {
+          "text": "See it as an opportunity to try something completely outside your usual routine",
+          "score": "N"
+        },
+        {
+          "text": "Invite a friend to explore a new café you’ve been meaning to try instead",
+          "score": "E"
+        },
+        {
+          "text": "Quickly adjust your to-do list to prioritize the most important remaining tasks",
+          "score": "S"
+        },
+        {
+          "text": "Use the extra time to read a book or work on a personal hobby you’ve neglected",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re choosing a gift for a fellow Taylor fan. You’d pick...",
+      "options": [
+        {
+          "text": "A custom-made organizer for their Taylor vinyl collection, designed for easy access",
+          "score": "T"
+        },
+        {
+          "text": "A handwritten letter pairing their favorite Taylor lyrics with personal memories you share",
+          "score": "F"
+        },
+        {
+          "text": "A gift card to a local record store, letting them choose any Taylor album or related item they want",
+          "score": "P"
+        },
+        {
+          "text": "A pre-planned Taylor-themed gift box with a specific era’s merchandise, snacks, and activities",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you listen to Taylor’s ‘Fearless’ era, you’re most reminded of...",
+      "options": [
+        {
+          "text": "The quiet courage of standing up for yourself in a small, personal moment",
+          "score": "I"
+        },
+        {
+          "text": "The feeling of endless possibility and dreaming about all your future adventures",
+          "score": "N"
+        },
+        {
+          "text": "The excitement of your first high school dance and singing along with friends",
+          "score": "E"
+        },
+        {
+          "text": "The specific details of a road trip you took with your best friend that summer",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you could ask Taylor one question, you’d ask...",
+      "options": [
+        {
+          "text": "What’s the wildest, unplanned idea you’ve ever had that almost made it into an album",
+          "score": "P"
+        },
+        {
+          "text": "How you stay connected to your most vulnerable self even with all the fame and attention",
+          "score": "F"
+        },
+        {
+          "text": "How you balance your creative projects with your personal life and self-care routine",
+          "score": "J"
+        },
+        {
+          "text": "What’s the biggest lesson you’ve learned about negotiating creative rights in the music industry",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with creating a Taylor-inspired study space. You’d focus on...",
+      "options": [
+        {
+          "text": "Designing a cozy, private nook with fairy lights and your favorite Taylor book for focused work",
+          "score": "I"
+        },
+        {
+          "text": "Decorating with artwork that represents the themes of growth and transformation from Taylor’s eras",
+          "score": "N"
+        },
+        {
+          "text": "Organizing your notes and supplies by subject, using Taylor-era color coding for clarity",
+          "score": "S"
+        },
+        {
+          "text": "Setting up a space where you can study with friends, playing Taylor’s lo-fi covers in the background",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you think about your own future, you feel most excited about...",
+      "options": [
+        {
+          "text": "Achieving a specific, long-term goal you’ve been working toward for years",
+          "score": "T"
+        },
+        {
+          "text": "Embracing all the unexpected twists and turns that will shape your unique journey",
+          "score": "P"
+        },
+        {
+          "text": "Building deep, meaningful relationships that will support you through all life’s ups and downs",
+          "score": "F"
+        },
+        {
+          "text": "Creating a structured life plan that balances your personal and professional aspirations",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Reputation Strategist",
+      "description": "Your future is defined by intentionality and resilience, just like Taylor’s Reputation era. You’ll build a career rooted in strategic planning and unwavering integrity, turning challenges into opportunities to reinforce your personal brand. You’ll prioritize stability for your loved ones, creating structured yet warm spaces where everyone feels supported, and your ability to lead with clarity will make you a trusted figure in your community.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Fearless Trailblazer",
+      "description": "Like Taylor’s Fearless era, your future is full of bold, spontaneous adventures. You’ll thrive in high-energy environments, seizing every chance to learn and grow through hands-on experiences. You’ll become a go-to person for solving unexpected problems, using your quick wit and practical skills to navigate any situation. Your life will be a series of exciting chapters, each filled with new connections and unforgettable moments.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Lover Connector",
+      "description": "Your future will center on nurturing deep, meaningful relationships, echoing Taylor’s Lover era. You’ll create a life where love and kindness are at the forefront, organizing gatherings that bring people together and supporting your friends and family through every milestone. You’ll find purpose in helping others feel seen and valued, and your warm, empathetic nature will make you the heart of any community you’re part of.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The 1988 Entertainer",
+      "description": "Channeling Taylor’s vibrant 1988 era, your future is a celebration of joy and connection. You’ll shine in social settings, using your infectious energy to create memorable experiences for everyone around you. Whether it’s planning a surprise party or impromptu road trip, you’ll turn ordinary moments into something special. Your ability to live in the moment will attract others to you, making your life a constant source of fun and inspiration.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Folklore Archivist",
+      "description": "Your future is rooted in quiet purpose and attention to detail, like Taylor’s Folklore era. You’ll build a life of intentionality, preserving the stories and traditions that matter most to you. You’ll excel in roles that require precision and reliability, using your practical skills to create lasting, meaningful work. Your private, thoughtful nature will let you deepen your connection to the world around you, finding beauty in the small, consistent moments.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Evermore Innovator",
+      "description": "Echoing Taylor’s introspective Evermore era, your future is defined by quiet curiosity and hands-on creativity. You’ll thrive in environments where you can tinker and experiment, turning ideas into tangible solutions. You’ll value your independence, carving out a life that lets you explore your passions on your own terms. Your ability to adapt to any situation will make you a problem-solving genius, and you’ll find fulfillment in the process of creation itself.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Speak Up Caregiver",
+      "description": "Like Taylor’s Speak Now era, your future is driven by loyalty and compassion. You’ll dedicate yourself to caring for others, whether it’s supporting your family through tough times or advocating for causes close to your heart. You’ll create a warm, nurturing home where everyone feels safe, and your ability to remember the small details will make your loved ones feel cherished. Your quiet strength will inspire those around you to be their best selves.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Red Storyteller",
+      "description": "Channeling Taylor’s emotionally rich Red era, your future is a tapestry of vivid experiences and heartfelt connections. You’ll express yourself through creative pursuits, whether it’s writing, painting, or music, using your art to capture the complexity of human emotion. You’ll value authenticity above all else, building relationships with people who share your love for the beautiful, messy moments of life. Your journey will be filled with deep, meaningful experiences that shape your unique voice.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Midnights Visionary",
+      "description": "Your future is marked by ambition and strategic thinking, like Taylor’s Midnights era. You’ll lead with confidence, turning bold ideas into reality through careful planning and execution. You’ll climb the ranks in your field, using your analytical skills to innovate and drive change. You’ll surround yourself with like-minded individuals, creating a network of collaborators who share your vision for the future. Your determination will make you a force to be reckoned with in any industry.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The 1988 Innovator",
+      "description": "Echoing Taylor’s clever 1988 era, your future is full of creative ideas and playful debate. You’ll thrive in environments where you can brainstorm and challenge the status quo, using your quick thinking to come up with innovative solutions. You’ll never shy away from a good argument, and your ability to see multiple perspectives will make you a valuable contributor to any team. Your life will be a series of intellectual adventures, each one pushing you to grow and learn.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Lover Leader",
+      "description": "Like Taylor’s Lover era, your future is defined by empathy and vision. You’ll inspire others to reach their full potential, using your natural leadership skills to create positive change in the world. You’ll build a career focused on helping others, whether it’s through mentoring, advocacy, or community organizing. Your ability to connect with people on a deep level will make you a beloved leader, and you’ll leave a lasting impact on everyone you meet.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Speak Now Dreamer",
+      "description": "Channeling Taylor’s whimsical Speak Now era, your future is a journey of self-discovery and bold expression. You’ll chase your dreams with unbridled passion, whether it’s starting a creative project or traveling to a far-off land. You’ll surround yourself with people who share your enthusiasm for life, creating a community of dreamers and doers. Your ability to see the beauty in everything will make your future a series of magical, unforgettable moments.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Evermore Architect",
+      "description": "Your future is built on long-term vision and intellectual curiosity, like Taylor’s Evermore era. You’ll design a life that aligns with your deeply held values, using your strategic thinking to achieve your most ambitious goals. You’ll excel in fields that require complex problem-solving, and you’ll value your independence, creating space to explore your ideas without distraction. Your quiet confidence will make you a respected figure in your field, and your work will leave a lasting legacy.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Folklore Philosopher",
+      "description": "Echoing Taylor’s introspective Folklore era, your future is a journey of intellectual exploration and quiet growth. You’ll spend your days diving into complex ideas, whether it’s through research, writing, or philosophical debate. You’ll value your privacy, creating a peaceful space where you can think deeply and create work that reflects your unique perspective. Your ability to see patterns and connections that others miss will make you a brilliant thinker, and your ideas will inspire those around you.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Midnights Empath",
+      "description": "Like Taylor’s reflective Midnights era, your future is defined by deep emotional insight and purpose. You’ll use your intuitive understanding of others to create meaningful change, whether it’s through counseling, writing, or advocacy. You’ll build a life that balances your need for quiet reflection with your desire to help others, and your ability to see the hidden potential in people will make you a trusted confidant. Your journey will be one of self-discovery and profound connection.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Red Idealist",
+      "description": "Channeling Taylor’s emotionally charged Red era, your future is a quest for authenticity and purpose. You’ll dedicate yourself to living in alignment with your values, even when it’s difficult. You’ll express yourself through creative pursuits, using your art to share your unique perspective on the world. You’ll build deep, meaningful relationships with people who share your passion for justice and beauty, and your quiet strength will inspire others to live more authentically.",
+      "mbti": "INFP"
+    }
+  ]
+}

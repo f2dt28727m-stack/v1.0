@@ -1,0 +1,349 @@
+{
+  "quizId": 46,
+  "title": "What’s Your Fortnite Playstyle Personality?",
+  "category": "which",
+  "tags": [
+    "Fortnite",
+    "Gaming",
+    "Playstyle",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your Fortnite playstyle personality!",
+  "questions": [
+    {
+      "text": "When the battle bus approaches the island, you...",
+      "options": [
+        {
+          "text": "Glide to a unique, unexplored area to uncover hidden secrets",
+          "score": "N"
+        },
+        {
+          "text": "Scream out your drop zone to rally teammates and coordinate landing",
+          "score": "E"
+        },
+        {
+          "text": "Pick a quiet, remote spot to loot alone without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Head straight for a known high-loot location with guaranteed gear",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you find a rare, untested item in a chest, you...",
+      "options": [
+        {
+          "text": "Test it immediately in a safe area to learn its exact uses",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all the creative ways to use it in future fights",
+          "score": "N"
+        },
+        {
+          "text": "Gift it to a teammate who you think needs it more",
+          "score": "F"
+        },
+        {
+          "text": "Keep it for yourself, knowing it could turn the tide of a battle",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When a teammate gets knocked down in the middle of a fight, you...",
+      "options": [
+        {
+          "text": "Pivot immediately to shield them and pull them up before continuing the fight",
+          "score": "F"
+        },
+        {
+          "text": "Finish off the attacking enemy first to eliminate the threat before reviving",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your pre-planned retreat strategy and meet up to revive later",
+          "score": "J"
+        },
+        {
+          "text": "Adapt your approach on the fly, using nearby cover to create a rescue window",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "During a lull between fights, you...",
+      "options": [
+        {
+          "text": "Chat with your squad about their day or favorite in-game moments",
+          "score": "E"
+        },
+        {
+          "text": "Scout the surrounding area silently to map out potential enemy positions",
+          "score": "I"
+        },
+        {
+          "text": "Set up traps and fortifications to prepare for incoming attacks",
+          "score": "J"
+        },
+        {
+          "text": "Wander around exploring nearby buildings just to see what you can find",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When choosing weapons for a fight, you...",
+      "options": [
+        {
+          "text": "Go with tried-and-true weapons you know you can use flawlessly",
+          "score": "S"
+        },
+        {
+          "text": "Experiment with a new combination to see if it gives you an edge",
+          "score": "N"
+        },
+        {
+          "text": "Pick weapons that let you support your squad from a distance",
+          "score": "F"
+        },
+        {
+          "text": "Select weapons that maximize your damage output to finish fights fast",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When the storm starts closing in, you...",
+      "options": [
+        {
+          "text": "Follow a precise path to the safe zone marked on your map",
+          "score": "J"
+        },
+        {
+          "text": "Take a scenic route, looting any unopened chests along the way",
+          "score": "P"
+        },
+        {
+          "text": "Call out your location to teammates and move as a group",
+          "score": "E"
+        },
+        {
+          "text": "Sneak to the safe zone alone to avoid drawing enemy attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you encounter an unexpected enemy ambush, you...",
+      "options": [
+        {
+          "text": "React with a gut instinct to protect your teammates first",
+          "score": "F"
+        },
+        {
+          "text": "Quickly analyze the situation to find the enemy’s weak spot",
+          "score": "T"
+        },
+        {
+          "text": "Use your surroundings to improvise a counterattack",
+          "score": "N"
+        },
+        {
+          "text": "Stick to your training and use the most effective escape tactic",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After looting a building, you...",
+      "options": [
+        {
+          "text": "Organize your inventory neatly to access items quickly in a fight",
+          "score": "J"
+        },
+        {
+          "text": "Leave your inventory as is, trusting you’ll find what you need when you need it",
+          "score": "P"
+        },
+        {
+          "text": "Share any extra ammo or healing items with your squad",
+          "score": "E"
+        },
+        {
+          "text": "Hoard rare items for yourself in case you need them later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you win a Victory Royale, you...",
+      "options": [
+        {
+          "text": "Spam emojis and celebrate loudly with your squad in voice chat",
+          "score": "E"
+        },
+        {
+          "text": "Give a quiet nod to yourself and immediately queue up for another game",
+          "score": "I"
+        },
+        {
+          "text": "Reflect on what strategies worked best to improve your next playthrough",
+          "score": "T"
+        },
+        {
+          "text": "Focus on congratulating your teammates for their contributions",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new secret area on the map, you...",
+      "options": [
+        {
+          "text": "Document the location and share it with your squad right away",
+          "score": "S"
+        },
+        {
+          "text": "Wonder what other hidden areas might exist across the island",
+          "score": "N"
+        },
+        {
+          "text": "Plan to return there every game to collect exclusive loot",
+          "score": "J"
+        },
+        {
+          "text": "Explore it randomly whenever you feel like deviating from your route",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When your squad disagrees on a strategy, you...",
+      "options": [
+        {
+          "text": "Listen to everyone’s input and find a compromise that makes everyone happy",
+          "score": "F"
+        },
+        {
+          "text": "Present logical reasons why your strategy is the most effective",
+          "score": "T"
+        },
+        {
+          "text": "Go along with the group to keep the mood positive and avoid conflict",
+          "score": "E"
+        },
+        {
+          "text": "Suggest splitting up to try both strategies separately",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you’re low on health and no healing items left, you...",
+      "options": [
+        {
+          "text": "Hide in a bush and wait for the storm to pass, hoping no one finds you",
+          "score": "P"
+        },
+        {
+          "text": "Set up a trap and ambush the next enemy who comes near to steal their healing items",
+          "score": "J"
+        },
+        {
+          "text": "Charge at the nearest enemy to take them down even if it means going down with them",
+          "score": "N"
+        },
+        {
+          "text": "Retreat to a known safe location where you might find forgotten healing items",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Rallying Commander",
+      "description": "You’re the heart of your squad, always looking out for teammates and rallying everyone to victory. You prioritize keeping the team connected, celebrate small wins, and adjust your playstyle to lift others up. In the final circle, you coordinate strategies that let everyone shine, turning chaotic fights into team triumphs. Your empathetic leadership makes you the most trusted teammate on the island.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Wild Innovator",
+      "description": "You’re the creative chaos of your squad, always coming up with wild, unorthodox strategies that catch enemies off guard. You love exploring new areas, experimenting with weird weapon combinations, and inspiring your teammates to think outside the box. Even when things go wrong, you turn it into an adventure, making every game feel fresh and exciting.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Tactical Warlord",
+      "description": "You’re the strategic mastermind of your squad, always thinking three steps ahead of the enemy. You map out every move, assign roles to teammates based on their strengths, and never let emotions cloud your judgment. In the final circle, you execute flawless plans that crush opponents, turning every match into a calculated victory. Your decisive leadership leads your team to consistent wins.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Trickster Strategist",
+      "description": "You’re the unpredictable trickster of your squad, using mind games and clever traps to outsmart enemies. You love debating strategies with teammates, challenging their assumptions, and turning unexpected situations into advantages. Whether you’re fake-looting to lure enemies or using a glitch to gain the upper hand, you keep every game full of surprises and fun.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Squad Caretaker",
+      "description": "You’re the nurturing backbone of your squad, always making sure everyone has enough ammo, healing items, and support. You check in on teammates, revive them before looting, and celebrate every small win together. In fights, you stay close to your squad, providing cover fire and healing when needed. Your selfless care makes every teammate feel safe and valued.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Party Playmaker",
+      "description": "You’re the energetic life of the party, turning every game into a fun adventure. You love looting flashy items, doing emotes mid-fight to taunt enemies, and keeping the mood light with jokes. Even if you lose, you laugh it off and queue up for another round immediately. Your contagious positivity makes every match feel like a celebration, no matter the outcome.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Logistics Leader",
+      "description": "You’re the organized backbone of your squad, always keeping track of loot, storm timings, and enemy positions. You create clear plans, enforce roles, and make sure everyone sticks to the strategy. In fights, you use tried-and-true tactics that never fail, and you prioritize practical gear over flashy items. Your reliable organization ensures your squad is always prepared for anything.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Action Maverick",
+      "description": "You’re the fearless action junkie of your squad, always rushing into fights head-first. You trust your gut instincts, adapt to situations on the fly, and love the thrill of close-quarters combat. You prefer looting fast and getting into fights immediately, rather than waiting around. Your boldness often catches enemies off guard, leading to quick, exciting wins.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Hidden Mentor",
+      "description": "You’re the quiet mentor of your squad, always observing the battlefield and giving subtle advice that turns the tide of fights. You understand your teammates’ strengths and weaknesses, guiding them to make better decisions without taking over. In the final circle, you use your intuition to predict enemy moves, leading your squad to victory with calm, calculated steps. Your wisdom is the secret weapon of your team.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Dreamy Explorer",
+      "description": "You’re the curious explorer of your squad, always drawn to hidden corners of the map and secret areas. You love uncovering hidden loot, collecting unique items, and taking in the island’s scenery. Even in fights, you prefer to avoid conflict if possible, using stealth and creativity to survive. Your gentle nature and vivid imagination make every game feel like a magical journey.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Mastermind Planner",
+      "description": "You’re the quiet mastermind of your squad, always planning every move in detail before executing. You analyze the map, predict storm paths, and design strategies that minimize risk and maximize reward. You prefer long-range weapons and stealth tactics, avoiding unnecessary fights. Your meticulous planning ensures your squad always has the upper hand, even against the toughest opponents.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Curious Tactician",
+      "description": "You’re the curious tactician of your squad, always experimenting with new strategies and analyzing every fight to learn from it. You love figuring out the mechanics of new items, testing glitchy tactics, and debating optimal playstyles with teammates. Even if you lose, you see it as a learning opportunity, not a failure. Your inquisitive mind makes you a constant source of new ideas.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Steady Guardian",
+      "description": "You’re the steady guardian of your squad, always watching over teammates and protecting them from harm. You stay close to the group, provide cover fire, and revive fallen teammates before anyone else. You prioritize practical gear like shields and healing items, ensuring everyone is prepared for fights. Your reliable presence makes your squad feel safe and supported in every match.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Artistic Survivor",
+      "description": "You’re the artistic survivor of your squad, using the environment to your advantage in creative ways. You love building unique structures, using natural cover to hide from enemies, and collecting aesthetically pleasing items. You prefer to avoid direct fights, using stealth and creativity to survive until the final circle. Your gentle approach makes every game feel like a peaceful adventure, even in the chaos.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Reliable Strategist",
+      "description": "You’re the reliable strategist of your squad, always sticking to proven tactics and practical plans. You loot efficiently, prioritize essential gear, and never take unnecessary risks. In fights, you use precise, calculated moves that minimize mistakes and maximize success. Your consistent, no-nonsense approach ensures your squad always has a solid chance of winning every match.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Silent Mechanic",
+      "description": "You’re the silent mechanic of your squad, always fixing up structures, modifying weapons, and using tools to gain an edge. You prefer to play alone or in small groups, using stealth and precision to take down enemies. You love experimenting with building mechanics, finding new ways to create cover or traps. Your quiet ingenuity makes you a deadly opponent and a valuable teammate.",
+      "mbti": "ISTP"
+    }
+  ]
+}

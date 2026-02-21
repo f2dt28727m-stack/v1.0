@@ -1,0 +1,349 @@
+{
+  "quizId": 1,
+  "title": "What’s Your Stardew Valley Farmer Type?",
+  "category": "type",
+  "tags": [
+    "Stardew Valley",
+    "Farmer",
+    "MBTI",
+    "Personality",
+    "Farming"
+  ],
+  "description": "Answer 12 questions to discover your Stardew Valley farmer type!",
+  "questions": [
+    {
+      "text": "When the town holds a Harvest Festival, you will...",
+      "options": [
+        {
+          "text": "Spend the week preparing your plumpest crops to enter the contest, checking each one for perfection",
+          "score": "S"
+        },
+        {
+          "text": "Initiate organizing the bonfire party, greeting every villager and making sure no one feels left out",
+          "score": "E"
+        },
+        {
+          "text": "Bring a basket of blueberries but sit in a quiet corner, watching everyone celebrate from afar",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm how to incorporate festival decor into your farm’s layout, imagining a colorful seasonal display",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find a strange old box buried in your farm’s field, you will...",
+      "options": [
+        {
+          "text": "Wipe off the dust gently, wondering about the box’s previous owner and their story in the valley",
+          "score": "F"
+        },
+        {
+          "text": "Note its location in your notebook, planning to come back with proper tools to open it next weekend",
+          "score": "J"
+        },
+        {
+          "text": "Put down your watering can immediately and experiment with different ways to pry it open right away",
+          "score": "P"
+        },
+        {
+          "text": "Examine the lock’s structure carefully, using a nearby screwdriver to pick it efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your crops suddenly get blight, you will...",
+      "options": [
+        {
+          "text": "Run to Pierre’s shop to ask for a special pesticide, chatting with him about recent market trends on the way",
+          "score": "E"
+        },
+        {
+          "text": "Look up remedies in your old farm journal, preferring to solve the problem without bothering others",
+          "score": "I"
+        },
+        {
+          "text": "Try mixing natural fertilizers and herbal infusions to save the crops, testing out your own recipe",
+          "score": "N"
+        },
+        {
+          "text": "Follow the step-by-step guide in your farming manual, spraying the recommended chemical promptly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You encounter an injured slime deep in the mines, you will...",
+      "options": [
+        {
+          "text": "Take out hay from your backpack to feed it, then slowly guide it toward the mine entrance",
+          "score": "F"
+        },
+        {
+          "text": "Write down the slime’s location in your notebook, planning to bring extra food to check on it later",
+          "score": "J"
+        },
+        {
+          "text": "Stop to observe its movements, curious about why it’s alone and how it got hurt",
+          "score": "P"
+        },
+        {
+          "text": "Use your pickaxe to dispatch it quickly, preventing it from attacking future explorers",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The blacksmith asks for help organizing his tools, you will...",
+      "options": [
+        {
+          "text": "Silently sort tools by category, keeping your focus on finishing the task efficiently",
+          "score": "I"
+        },
+        {
+          "text": "Chat with the blacksmith about his new sword designs while arranging the tools, laughing at his stories",
+          "score": "E"
+        },
+        {
+          "text": "Design a custom tool rack with labeled slots to make his work easier in the future",
+          "score": "N"
+        },
+        {
+          "text": "Arrange tools by usage frequency, placing the most often used ones within easy reach",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You earn an unexpected bag of gold, you will...",
+      "options": [
+        {
+          "text": "Buy a batch of new toys and books for the town’s orphanage, dropping them off anonymously",
+          "score": "F"
+        },
+        {
+          "text": "Save it up to purchase the most expensive gifts for every villager during the Winter Star festival",
+          "score": "J"
+        },
+        {
+          "text": "Buy a mix of weird and rare seeds, excited to see what unusual crops they’ll grow into",
+          "score": "P"
+        },
+        {
+          "text": "Invest in automatic sprinklers to cut down on daily watering time and boost crop yield",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "It rains all day and you can’t tend to crops, you will...",
+      "options": [
+        {
+          "text": "Visit the saloon to chat with Gus, listening to his tales about the valley’s early days",
+          "score": "E"
+        },
+        {
+          "text": "Sort through your seed storage, discarding expired ones and organizing the rest by planting season",
+          "score": "S"
+        },
+        {
+          "text": "Write a short story about a magical farm adventure, casting yourself as the brave protagonist",
+          "score": "N"
+        },
+        {
+          "text": "Draw sketches of your farm’s future expansion plans, mapping out new barns and crop fields",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "An elderly villager needs help fixing their broken fence, you will...",
+      "options": [
+        {
+          "text": "Calculate the required materials and time first, then schedule a specific afternoon to help",
+          "score": "T"
+        },
+        {
+          "text": "Drop everything immediately to help them, even if it delays your own farm chores",
+          "score": "F"
+        },
+        {
+          "text": "Show up whenever you have free time that day, working on the fence between snack breaks",
+          "score": "P"
+        },
+        {
+          "text": "Add fence repair to your weekly to-do list, making sure it’s completed before the weekend",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You discover a wild wooded area on your farm, you will...",
+      "options": [
+        {
+          "text": "Invite the local kids to explore the woods with you, turning it into a fun scavenger hunt",
+          "score": "E"
+        },
+        {
+          "text": "Keep the woods intact, using it as a quiet spot to collect herbs and watch wildlife",
+          "score": "I"
+        },
+        {
+          "text": "Clear out the underbrush and plant fruit trees, maximizing the area’s agricultural value",
+          "score": "S"
+        },
+        {
+          "text": "Build a small treehouse in the center, using it as a hideout for stargazing and daydreaming",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The town hosts a fishing competition, you will...",
+      "options": [
+        {
+          "text": "Wake up at 5 AM to claim the best fishing spot, focusing intently on reeling in the biggest catch",
+          "score": "J"
+        },
+        {
+          "text": "Teach a nearby kid how to cast their line, cheering them on even if you don’t win the contest",
+          "score": "F"
+        },
+        {
+          "text": "Research the lake’s fish species and water temperature beforehand, choosing the most effective bait",
+          "score": "T"
+        },
+        {
+          "text": "Sit on a warm rock by the water, catching whatever swims by while enjoying the sunshine",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You want to name your farm, you will...",
+      "options": [
+        {
+          "text": "Call it \"Harvest Hollow Farm\"—a straightforward name that reflects your farm’s core purpose",
+          "score": "S"
+        },
+        {
+          "text": "Name it \"Starfall Creek Farm\" after the way stars reflect on your farm’s small stream",
+          "score": "N"
+        },
+        {
+          "text": "Choose \"Gatherwood Farm\" because you love hosting villager potlucks and bonfires there",
+          "score": "E"
+        },
+        {
+          "text": "Settle on \"Quiet Nook Farm\"—a calm name that matches your love for peaceful solitude",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Winter comes and there’s no farm work, you will...",
+      "options": [
+        {
+          "text": "Create a detailed monthly plan for next year’s crops, including planting dates and fertilizer schedules",
+          "score": "J"
+        },
+        {
+          "text": "Wander around the town every day, uncovering hidden spots like the old abandoned cabin in the woods",
+          "score": "P"
+        },
+        {
+          "text": "Visit the clinic daily to bring homemade soup to sick villagers, sitting with them to keep company",
+          "score": "F"
+        },
+        {
+          "text": "Design a modified plow attachment to make spring tilling faster and more efficient",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Efficient Farm Steward",
+      "description": "You’re Stardew Valley’s most reliable farm manager, sticking to strict daily routines to keep your crops and animals thriving. You volunteer to help the town organize annual events, ensuring everything runs smoothly. As an ESTJ, you value responsibility and order, turning your farm into a model of productivity and making the town feel more stable and secure.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Warm Community Organizer",
+      "description": "Your farm is the heart of Stardew Valley’s social scene—you host weekly potlucks and help new villagers settle in. You remember every villager’s birthday and favorite gifts, going out of your way to make everyone feel loved. As an ESFJ, you prioritize connection and kindness, using your farm as a place to bring people together and foster lasting friendships.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Steadfast Cottage Keeper",
+      "description": "You run your farm with quiet dedication, tending to each crop and animal with careful attention. You spend your evenings fixing broken tools or preserving harvests, preferring practical tasks over noisy gatherings. As an ISTJ, you’re the backbone of the valley—reliable, hardworking, and always ready to lend a hand when someone needs your practical skills.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Nurturing Homesteader",
+      "description": "Your farm is a haven for both plants and people. You grow extra vegetables to give to struggling villagers and nurse injured animals back to health. You spend hours listening to the town’s elders share their stories, valuing every moment of connection. As an ISFJ, you’re the valley’s unsung hero, using your gentle nature to make everyone feel cared for and supported.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Strategic Visionary",
+      "description": "You don’t just run a farm—you build an empire. You invest in advanced irrigation systems and crop rotation strategies, planning years ahead to maximize profits. You advocate for the town’s development, pushing for new shops and infrastructure. As an ENTJ, you’re a natural leader, using your strategic mind to turn both your farm and the valley into thriving, forward-thinking communities.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Inspirational Mentor",
+      "description": "You see potential in everyone, from the shy kid who visits your farm to the new farmer just starting out. You host workshops on sustainable farming and encourage villagers to pursue their dreams. As an ENFJ, you’re the valley’s guiding light—charismatic, empathetic, and always ready to inspire others to grow, both personally and professionally.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Mysterious Farm Architect",
+      "description": "Your farm is a masterpiece of hidden tunnels, vertical gardens, and solar-powered tools. You work alone most days, lost in plans for innovative farm designs. You rarely attend town events, but your ideas—like a community compost program—often shape the valley’s future. As an INTJ, you’re a quiet innovator, using your sharp mind to redefine what a farm can be.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Dreamy Haven Creator",
+      "description": "Your farm feels like a storybook setting, with fairy lights strung between trees and a small greenhouse filled with exotic flowers. You write poetry about the valley’s beauty and host quiet tea parties for close friends. As an INFJ, you’re the valley’s dreamer—introspective, creative, and dedicated to making the world a more beautiful and meaningful place.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Adventurous Farm Hand",
+      "description": "You’re always looking for the next thrill—whether it’s exploring the deepest mines or testing out risky new crop varieties. You organize impromptu campfires and dare your friends to fish in the mysterious witch’s swamp. As an ESTP, you’re the valley’s wild card—spontaneous, bold, and always ready to turn a mundane day into an exciting adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Joyful Festival Planner",
+      "description": "Your farm is a constant celebration—you host pumpkin carving contests in fall and snowball fights in winter. You’re the first to dance at the Flower Dance and always have a bag of candy to share with kids. As an ESFP, you’re the valley’s sunshine—outgoing, fun-loving, and dedicated to spreading joy wherever you go.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Resourceful Survivalist",
+      "description": "You thrive on self-sufficiency—you make your own tools, grow your own food, and can fix almost anything with a few scraps. You spend your weekends exploring the wilderness, foraging for herbs and hunting for treasure. As an ISTP, you’re the valley’s problem solver—calm, practical, and always ready to tackle any challenge that comes your way.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Artistic Nature Lover",
+      "description": "Your farm is a canvas—you paint murals on your barn walls, grow rainbow-colored crop patterns, and sell handmade crafts at the town market. You spend hours sitting by the river, sketching the sunset or watching butterflies. As an ISFP, you’re the valley’s artist—gentle, creative, and deeply connected to the beauty of the natural world.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Innovative Idea Generator",
+      "description": "You’re always coming up with crazy, brilliant ideas—like a farm-to-table restaurant or a mobile library for the valley. You debate philosophy with the wizard and experiment with cross-breeding crops to create new varieties. As an ENTP, you’re the valley’s provocateur—curious, witty, and always pushing the boundaries of what’s possible.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Enthusiastic Explorer",
+      "description": "Your farm is just a base for your adventures—you spend most days traveling to the desert or the island, discovering new plants and meeting new people. You bring back exotic seeds and stories to share with the villagers, inspiring them to explore beyond the valley’s borders. As an ENFP, you’re the valley’s adventurer—optimistic, curious, and always chasing the next big dream.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Curious Farm Scientist",
+      "description": "You treat your farm like a lab—you test different soil compositions, study crop genetics, and keep detailed logs of every harvest. You spend evenings reading about agricultural science and debating theories with the town’s scholar. As an INTP, you’re the valley’s thinker—analytical, imaginative, and always eager to unlock the secrets of nature.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Tender Dreamer",
+      "description": "Your farm is a place of quiet magic—you grow moonflowers that bloom at night and keep a journal of your thoughts and feelings. You write letters to your pen pal in Zuzu City and spend weekends stargazing on your roof. As an INFP, you’re the valley’s poet—idealistic, introspective, and dedicated to living a life true to your deepest values.",
+      "mbti": "INFP"
+    }
+  ]
+}

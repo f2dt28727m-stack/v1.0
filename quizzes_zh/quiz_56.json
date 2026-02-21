@@ -1,0 +1,349 @@
+{
+  "quizId": 56,
+  "title": "What's Your Hidden League of Legends Trait?",
+  "category": "hidden",
+  "tags": [
+    "League of Legends",
+    "LOL",
+    "MBTI",
+    "Hidden Trait",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your hidden League of Legends trait!",
+  "questions": [
+    {
+      "text": "Your team is stuck in a losing lane. What do you do?",
+      "options": [
+        {
+          "text": "Brainstorm a risky split-push strategy to catch the enemy off guard",
+          "score": "N"
+        },
+        {
+          "text": "Jump on voice chat to rally everyone, pointing out small wins to boost morale",
+          "score": "E"
+        },
+        {
+          "text": "Analyze the minion wave and enemy cooldowns to find the safest way to stay in lane",
+          "score": "S"
+        },
+        {
+          "text": "Mute all chat, focus on farming and waiting for a perfect gank opportunity alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Teammates argue nonstop after a failed teamfight. How do you react?",
+      "options": [
+        {
+          "text": "Quickly mark the nearest objective and type, \"Let's take this dragon instead—focus on wins, not fights\"",
+          "score": "T"
+        },
+        {
+          "text": "Type, \"It's okay, mistakes happen! Let's reset and try again together\"",
+          "score": "F"
+        },
+        {
+          "text": "Start wandering the map to clear hidden vision wards and gather enemy intel",
+          "score": "P"
+        },
+        {
+          "text": "Pull up the scoreboard to track enemy item levels and plan your next buy",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You discover a broken combo with a冷门英雄. What's your first move?",
+      "options": [
+        {
+          "text": "Share the combo in your friend group and ask them to test it with you in a custom game",
+          "score": "E"
+        },
+        {
+          "text": "Spend an hour in the practice tool refining the timing until it’s flawless",
+          "score": "I"
+        },
+        {
+          "text": "Calculate the combo’s damage output against different armor levels to optimize runes",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm how to adapt the combo for teamfights, split-pushes, and objective contests",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A teammate suddenly mid-game. What do you prioritize?",
+      "options": [
+        {
+          "text": "Formulate a strict defense plan: stay in tower range, farm safely, and never overextend",
+          "score": "J"
+        },
+        {
+          "text": "Try a wild split-push or jungle invade to create chaos and catch enemies off guard",
+          "score": "P"
+        },
+        {
+          "text": "Type encouraging messages to the remaining three teammates to keep their spirits up",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the enemy’s playstyle to find weaknesses you can exploit with your reduced team size",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You want to master a new complex champion. How do you start?",
+      "options": [
+        {
+          "text": "Join a draft pick game with friends and ask them to guide you as you play",
+          "score": "E"
+        },
+        {
+          "text": "Watch pro player VODs to mimic their movement and decision-making",
+          "score": "S"
+        },
+        {
+          "text": "Experiment with different rune sets and item builds to find what feels most fun",
+          "score": "P"
+        },
+        {
+          "text": "Map out the champion’s ability synergies and how they fit into various team comps",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You just won a massive teamfight. What do you do next?",
+      "options": [
+        {
+          "text": "Stop to emote at the enemy’s corpses and laugh with your teammates in voice chat",
+          "score": "F"
+        },
+        {
+          "text": "Immediately ping the nearest inhibitor and start pushing without hesitation",
+          "score": "T"
+        },
+        {
+          "text": "Check the enemy’s respawn timers to calculate how much you can take before they return",
+          "score": "J"
+        },
+        {
+          "text": "Wander into the enemy jungle to steal their buffs and explore hidden paths",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You get repeatedly ganked by the enemy jungler. What’s your response?",
+      "options": [
+        {
+          "text": "Call your jungler over multiple times and ask for help warding the river",
+          "score": "E"
+        },
+        {
+          "text": "Stay back in tower range, last-hit minions safely, and wait for the ganks to stop",
+          "score": "I"
+        },
+        {
+          "text": "Change your summoner spells to teleport so you can quickly return to lane after deaths",
+          "score": "S"
+        },
+        {
+          "text": "Start roaming to gank other lanes and take pressure off your own",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your team is forced to pick last in champion select. What do you choose?",
+      "options": [
+        {
+          "text": "Pick a champion that counters the enemy’s carry, even if you’re not great at them",
+          "score": "T"
+        },
+        {
+          "text": "Pick a champion that fits your team’s comp and supports your teammates’ picks",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your main champion—you know you can play it well no matter the comp",
+          "score": "J"
+        },
+        {
+          "text": "Randomly pick a champion you’ve never played before to spice things up",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re preparing for a competitive tournament. What’s your focus?",
+      "options": [
+        {
+          "text": "Host team scrimmages every night to practice communication and teamwork",
+          "score": "E"
+        },
+        {
+          "text": "Spend hours alone practicing your mechanics and fine-tuning your rune pages",
+          "score": "I"
+        },
+        {
+          "text": "Research every opponent’s past games to learn their preferred strategies and bans",
+          "score": "S"
+        },
+        {
+          "text": "Create multiple backup plans for every possible scenario, from early-game ganks to late-game teamfights",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your feed multiple times in the early game. How do you bounce back?",
+      "options": [
+        {
+          "text": "Ask your teammates for advice on how to play safer and catch up in gold",
+          "score": "F"
+        },
+        {
+          "text": "Focus on farming minions and objectives to build up your items without fighting",
+          "score": "T"
+        },
+        {
+          "text": "Follow a strict farming schedule to ensure you hit your item spikes at the right time",
+          "score": "J"
+        },
+        {
+          "text": "Try a risky play like stealing the enemy’s red buff to get a quick gold boost",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a secret bug that gives your hero an edge. What do you do?",
+      "options": [
+        {
+          "text": "Post a clip of the bug on social media to share with the wider community",
+          "score": "E"
+        },
+        {
+          "text": "Report the bug to Riot Games immediately and stop using it",
+          "score": "I"
+        },
+        {
+          "text": "Test the bug in multiple scenarios to see if it’s consistent and useful in ranked games",
+          "score": "S"
+        },
+        {
+          "text": "Imagine how the bug could be used to create entirely new strategies before it’s fixed",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You win a hard-fought ranked game. What’s your post-game ritual?",
+      "options": [
+        {
+          "text": "Add the enemy carry as a friend and compliment their skill in chat",
+          "score": "F"
+        },
+        {
+          "text": "Analyze your replay to identify mistakes and areas to improve for next time",
+          "score": "T"
+        },
+        {
+          "text": "Plan your next game’s champion pick and rune page before logging off",
+          "score": "J"
+        },
+        {
+          "text": "Start a custom game and mess around with silly builds just for fun",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Shadow Strategist",
+      "description": "You’re the hidden mastermind of the rift, always planning three steps ahead of the enemy. While others focus on flashy plays, you’re mapping split-push routes, predicting cooldowns, and orchestrating silent objective takeovers. Your quiet intensity hides an unmatched strategic vision—you don’t need to lead the charge; you just pull the strings that lead your team to victory without anyone noticing your hand.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Unorthodox Innovator",
+      "description": "Your hidden trait is a relentless curiosity for off-meta plays and experimental strategies. You pick support Yasuo or jungle Soraka not to troll, but to uncover new ways to break the meta. You don’t care about what’s “optimal”—you care about what’s interesting. Your unexpected moves catch even seasoned enemies off guard, turning losses into chaotic, memorable wins.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Compassionate Anchor",
+      "description": "Beneath your calm exterior lies a hidden gift for keeping your team together. When morale plummets after a lost fight, you’re the one typing gentle encouragement or jumping on voice to defuse tension. You prioritize your teammates’ mental state just as much as objectives, and your quiet support is the glue that holds even the most disorganized teams together through tough matches.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Empathetic Explorer",
+      "description": "Your hidden trait is a knack for understanding your teammates’ playstyles and adapting to them. You’re the one who switches from aggressive to defensive when you sense a teammate is struggling, or tries a new role to fill a gap. You thrive on building connections through shared wins, and your ability to read the room—both in-game and in voice chat—makes you a beloved teammate.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Charismatic Commander",
+      "description": "You’re the hidden leader of every team you join, even if you don’t call yourself one. Your booming voice rallies teammates during teamfights, your quick decisions turn losses around, and your confidence makes everyone feel like victory is inevitable. You don’t just play the game—you command the rift, turning casual players into a coordinated force that dominates every match.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Playful Visionary",
+      "description": "Your hidden trait is a boundless imagination for wild, unorthodox plays. You’re the one who suggests a five-man teleport gank from the fountain or a team-wide stealth push through the jungle. You turn every game into an adventure, and while some of your ideas fail spectacularly, others create legendary moments that your teammates will talk about for weeks. You play to have fun—and win in style.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Inspirational Mentor",
+      "description": "Beneath your competitive streak lies a hidden talent for lifting others up. When a new player struggles with their mechanics, you’re the one pausing to explain minion wave management or ward placement. You see potential in everyone, and your patience and guidance turn inexperienced teammates into confident players. You don’t just win games—you build better players along the way.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Joyful Connector",
+      "description": "Your hidden trait is an ability to turn every match into a social event. You crack jokes in chat, celebrate every small win, and even compliment the enemy on a good play. You don’t care about your rank as much as the connections you make—whether it’s bonding with a random teammate over a shared love for meme champions or laughing at a silly mistake that leads to a chaotic win.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Meticulous Technician",
+      "description": "You’re the hidden perfectionist of the rift, obsessed with mastering every tiny detail. You know every champion’s cooldowns by heart, calculate minion wave timings down to the second, and optimize your rune pages for every possible matchup. You don’t need flashy plays—you win through consistency, precision, and an unshakable focus on executing the basics flawlessly every single game.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Steady Survivor",
+      "description": "Your hidden trait is an unbreakable resilience in the face of adversity. When your team is down 20 kills and the enemy is at your nexus, you’re still there, farming minions, warding, and waiting for the perfect gank opportunity. You never give up, and your quiet persistence often leads to unexpected comebacks. Your teammates learn to trust you because they know you’ll always be there, no matter how bad things get.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Bold Tactician",
+      "description": "You’re the hidden risk-taker of the rift, always ready to dive into a teamfight or take a solo objective when no one else will. You trust your gut to read enemy movements, and your quick reflexes allow you to pull off plays that seem impossible. You thrive under pressure, and your ability to turn a split-second decision into a team win makes you an invaluable asset in any competitive match.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Loyal Guardian",
+      "description": "Your hidden trait is an unwavering loyalty to your teammates. You’re the one who stays in lane to protect your ADC even when it means missing out on a dragon, or who takes a skill shot meant for a teammate. You prioritize their safety over your own KDA, and your selfless acts of support often turn close matches into wins. Your teammates know they can always count on you to have their back.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Adaptive Trickster",
+      "description": "You’re the hidden wildcard of the rift, always ready to switch up your playstyle on a dime. One game you’re a hyper-aggressive jungler diving towers, the next you’re a passive support warding every inch of the map. You thrive on unpredictability, and your ability to adapt to any situation makes you impossible to counter. You don’t follow rules—you make up your own as you go.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Gentle Observer",
+      "description": "Beneath your quiet demeanor lies a hidden gift for reading the enemy’s every move. You notice when the mid laner stops warding, when the jungler’s path changes, or when the ADC is low on mana. You don’t need to talk much—you just act, pinging objectives or warning teammates of incoming ganks. Your attention to detail makes you a silent force that keeps your team one step ahead of the enemy.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dynamic Showstopper",
+      "description": "Your hidden trait is an ability to turn every play into a performance. You’re the one executing flashy pentakills, landing perfect skill shots from across the map, or making a risky backdoor play that wins the game. You thrive on the spotlight, and your confidence and charisma make every match feel like a grand spectacle. You don’t just win games—you put on a show.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Warmhearted Enthusiast",
+      "description": "You’re the hidden spark that makes every match fun, no matter the outcome. You cheer for every teammate’s good plays, laugh at your own mistakes, and even compliment the enemy on a well-executed gank. Your infectious positivity turns toxic matches into friendly banter, and your love for the game shines through in every move. You play not to rank up, but to spread joy across the rift.",
+      "mbti": "ESFP"
+    }
+  ]
+}

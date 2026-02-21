@@ -1,0 +1,349 @@
+{
+  "quizId": 4,
+  "title": "What’s Your Olivia Rodrigo Core Personality Type?",
+  "category": "type",
+  "tags": [
+    "Olivia Rodrigo",
+    "Personality Test",
+    "MBTI",
+    "Pop Culture",
+    "Music-Inspired"
+  ],
+  "description": "Answer 12 questions to discover your Olivia Rodrigo-inspired personality type!",
+  "questions": [
+    {
+      "text": "When you first hear a new Olivia Rodrigo song, you immediately...",
+      "options": [
+        {
+          "text": "Imagining what it would be like to write a duet with her after the show",
+          "score": "N"
+        },
+        {
+          "text": "Screaming every lyric with the crowd, feeding off the collective energy",
+          "score": "E"
+        },
+        {
+          "text": "Spotting details like her guitar pick design or the background dancers’ choreography nuances",
+          "score": "S"
+        },
+        {
+          "text": "Standing in a quiet corner, soaking up the live vocals and stage lighting without distraction",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your friend is upset about a breakup and wants to listen to Olivia’s songs with you. You...",
+      "options": [
+        {
+          "text": "Let them flip through your Olivia playlist, pausing on whatever feels right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Hold their hand and sing along to the saddest verses, validating every tear",
+          "score": "F"
+        },
+        {
+          "text": "Pick songs that shift from heartbreak to empowerment, pointing out how they’ll grow from this",
+          "score": "T"
+        },
+        {
+          "text": "Create a curated playlist that starts with grief and builds to self-love, step by step",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you attend an Olivia Rodrigo concert, you most look forward to...",
+      "options": [
+        {
+          "text": "Spotting details like her guitar pick design or the background dancers’ choreography nuances",
+          "score": "S"
+        },
+        {
+          "text": "Imagining what it would be like to write a duet with her after the show",
+          "score": "N"
+        },
+        {
+          "text": "Screaming every lyric with the crowd, feeding off the collective energy",
+          "score": "E"
+        },
+        {
+          "text": "Standing in a quiet corner, soaking up the live vocals and stage lighting without distraction",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re decorating your bedroom with Olivia-themed items. You choose to...",
+      "options": [
+        {
+          "text": "Paint a mural inspired by the metaphorical lyrics in ‘vampire’",
+          "score": "N"
+        },
+        {
+          "text": "Scatter random Olivia-themed stickers and polaroids wherever they feel fun",
+          "score": "P"
+        },
+        {
+          "text": "Hang a poster of her exact concert setlist from the night you saw her live",
+          "score": "S"
+        },
+        {
+          "text": "Organize your vinyl collection of her albums in chronological release order",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When someone asks you why you love Olivia’s music, you say...",
+      "options": [
+        {
+          "text": "Her songs make me feel like someone finally understands my messy teenage emotions",
+          "score": "F"
+        },
+        {
+          "text": "I admire how she turns personal experiences into universally relatable songwriting structures",
+          "score": "T"
+        },
+        {
+          "text": "Her lyrics help me process my own feelings when I don’t have the words to say them",
+          "score": "I"
+        },
+        {
+          "text": "Her music gives me something to bond over with all my friends at school",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You find a unreleased demo of an Olivia song online. You...",
+      "options": [
+        {
+          "text": "Listen to it on repeat while doing other tasks, not overthinking its context",
+          "score": "P"
+        },
+        {
+          "text": "Save it to a labeled folder and note the date you found it for future reference",
+          "score": "J"
+        },
+        {
+          "text": "Write a fanfiction story about the story behind the unreleased track",
+          "score": "N"
+        },
+        {
+          "text": "Compare it to her official releases to spot differences in vocal tone and production",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you’re having a bad day, you turn to Olivia’s music to...",
+      "options": [
+        {
+          "text": "Call your best friend and sing ‘brutal’ together to laugh off the bad day",
+          "score": "E"
+        },
+        {
+          "text": "Cry along to ‘drivers license’ to let all your feelings out fully",
+          "score": "F"
+        },
+        {
+          "text": "Blast ‘good 4 u’ to channel your frustration into productive energy",
+          "score": "T"
+        },
+        {
+          "text": "Put on ‘vampire’ and journal about the parts that resonate with your mood",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to create a Olivia-inspired playlist for a party. You...",
+      "options": [
+        {
+          "text": "Mix in deep cuts with hidden lyrical layers to surprise true fans",
+          "score": "N"
+        },
+        {
+          "text": "Structure the playlist to build from mellow to high-energy to match the party’s flow",
+          "score": "J"
+        },
+        {
+          "text": "Include her most chart-topping hits that everyone knows the words to",
+          "score": "S"
+        },
+        {
+          "text": "Pick songs randomly based on how you feel in the moment, no specific order",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you think about Olivia’s songwriting process, you’re most curious about...",
+      "options": [
+        {
+          "text": "The specific real-life moments that inspired each of her songs",
+          "score": "S"
+        },
+        {
+          "text": "How she comes up with the metaphorical storylines in her lyrics",
+          "score": "N"
+        },
+        {
+          "text": "How she manages to be vulnerable while sharing her emotions with millions",
+          "score": "F"
+        },
+        {
+          "text": "How she collaborates with producers to refine her sound",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re wearing an Olivia-themed outfit to school. You...",
+      "options": [
+        {
+          "text": "Plan the outfit a week in advance to match the color scheme of her latest album",
+          "score": "J"
+        },
+        {
+          "text": "Throw it together that morning, mixing random Olivia merch with whatever’s in your closet",
+          "score": "P"
+        },
+        {
+          "text": "Wear it quietly, enjoying the small thrill of knowing its meaning to you",
+          "score": "I"
+        },
+        {
+          "text": "Strike up conversations with anyone who compliments your outfit",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you debate Olivia’s best song with friends, you...",
+      "options": [
+        {
+          "text": "Explain how the song made you feel and why it’s meaningful to your life",
+          "score": "F"
+        },
+        {
+          "text": "Argue using streaming numbers and critical acclaim to back up your choice",
+          "score": "T"
+        },
+        {
+          "text": "Talk about how the song’s themes resonate with universal youth experiences",
+          "score": "N"
+        },
+        {
+          "text": "Point out specific vocal runs and production details that make it stand out",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re writing a letter to Olivia. You focus on...",
+      "options": [
+        {
+          "text": "Imagining a future where you collaborate on a song together",
+          "score": "N"
+        },
+        {
+          "text": "Listing all the specific lyrics that have stuck with you over time",
+          "score": "S"
+        },
+        {
+          "text": "Sharing a quiet, personal moment her music helped you get through",
+          "score": "I"
+        },
+        {
+          "text": "Describing the fun memories you’ve had with friends listening to her songs",
+          "score": "E"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Vampire Dreamer",
+      "description": "You’re the quiet romantic who latches onto Olivia’s most vulnerable lyrics, seeing pieces of your own unspoken feelings in every line. Like the metaphorical heart of ‘vampire,’ you feel deeply, often retreating to journal or daydream about the stories behind her songs. You’re an INFP—idealistic, empathetic, and fiercely loyal to your inner world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Good 4 U Optimist",
+      "description": "You’re the bubbly friend who turns Olivia’s breakup anthems into joyous sing-alongs, finding empowerment in every fiery lyric. Like ‘good 4 u,’ you channel frustration into fun, always eager to share your latest Olivia theory with anyone who’ll listen. You’re an ENFP—enthusiastic, creative, and the life of any music-themed hangout.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Drivers License Sage",
+      "description": "You see the hidden layers in every Olivia song, connecting her personal stories to universal truths about heartbreak and growth. Like ‘drivers license,’ you understand the quiet grief of lost connections, often acting as a sounding board for friends who need to unpack their feelings. You’re an INFJ—insightful, compassionate, and a deep thinker.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Brutal Advocate",
+      "description": "You use Olivia’s music as a tool to lift others up, turning ‘brutal’ into a rallying cry for self-acceptance. You love hosting Olivia-themed movie nights where everyone can share their favorite lyrics, and you always know which song to play to cheer a friend up. You’re an ENFJ—charismatic, nurturing, and a natural leader among your peers.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Vampire Strategist",
+      "description": "You analyze Olivia’s discography like a master plan, studying her production choices and release strategies to understand her artistic vision. You’re not just here for the lyrics—you’re fascinated by how she builds her brand and connects with millions. You’re an INTJ—strategic, independent, and always thinking three steps ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Good 4 U Trailblazer",
+      "description": "You take Olivia’s ‘unapologetically yourself’ energy and turn it into action, using her music to fuel your goals. You’re the one who organizes fan projects or plans concert trips with military precision, always pushing your friends to chase their dreams. You’re an ENTJ—confident, decisive, and a natural born leader.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Drivers License Philosopher",
+      "description": "You spend hours debating the philosophical themes in Olivia’s songs, questioning how her lyrics reflect modern youth culture. You’re the friend who’ll randomly text a deep dive into the metaphor of ‘vampire,’ always curious to unpack every nuance. You’re an INTP—analytical, curious, and a lover of intellectual debates.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Brutal Provocateur",
+      "description": "You’re the class clown who turns Olivia’s serious songs into hilarious skits, always coming up with wild fan theories that make everyone laugh. You thrive on debates about her best album, using quick wit to defend your take. You’re an ENTP—playful, clever, and never afraid to challenge the status quo.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Olivia’s Acoustic Soul",
+      "description": "You connect with Olivia’s raw, acoustic side, cherishing the stripped-back versions of her songs that highlight her vocal talent. You love playing her covers on guitar or painting while listening to her music, using art to express your own feelings. You’re an ISFP—artistic, gentle, and deeply in tune with sensory experiences.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Concert Crowd Favorite",
+      "description": "You’re the one screaming every lyric at Olivia’s concert, dancing like no one’s watching and making friends with the stranger next to you. You live for the moment, turning every Olivia listen into a celebration. You’re an ESFP—spontaneous, outgoing, and the life of any live music event.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Olivia’s Loyal Supporter",
+      "description": "You remember every detail of Olivia’s career milestones, from her first Disney role to her latest Grammy win. You’re the friend who makes custom Olivia-themed gifts for birthdays, always being the first to defend her online. You’re an ISFJ—dedicated, reliable, and fiercely loyal to the people (and artists) you love.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Olivia Playlist Curator",
+      "description": "You create personalized Olivia playlists for every occasion, knowing exactly which song fits a friend’s breakup, graduation, or lazy Sunday. You love hosting listening parties where everyone can share their favorite memories tied to her music. You’re an ESFJ—warm, thoughtful, and the glue that holds your friend group together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Olivia’s Official Archivist",
+      "description": "You have a perfectly organized collection of Olivia’s merch, vinyls, and concert tickets, labeled and sorted by date. You know every fact about her discography, from release dates to production credits. You’re an ISTJ—responsible, detail-oriented, and a stickler for accuracy when it comes to your favorite artist.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Olivia’s Event Planner",
+      "description": "You’re the one who organizes the perfect Olivia-themed party, from the decor to the playlist, ensuring everything runs smoothly. You love setting up fan clubs or local meetups, keeping everyone on schedule. You’re an ESTJ—practical, organized, and a natural at making sure things get done right.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Olivia’s Tech Guru",
+      "description": "You’re the friend who fixes everyone’s Olivia vinyl players, creates custom phone themes based on her albums, and finds rare unreleased demos online. You love taking apart the production of her songs to see how they’re made. You’re an ISTP—hands-on, logical, and a problem-solver at heart.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Olivia’s Spontaneous Adventurer",
+      "description": "You’re the one who buys last-minute concert tickets, drives cross-country to see Olivia live, and turns a casual listen into a road trip with friends. You love the high-energy of her performances, always looking for the next fun experience tied to her music. You’re an ESTP—bold, spontaneous, and always ready for an adventure.",
+      "mbti": "ESTP"
+    }
+  ]
+}

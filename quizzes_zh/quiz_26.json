@@ -1,0 +1,349 @@
+{
+  "quizId": 26,
+  "title": "Which NewJeans-Inspired Personality Are You?",
+  "category": "which",
+  "tags": [
+    "NewJeans",
+    "K-Pop",
+    "MBTI",
+    "Personality",
+    "Korean Music"
+  ],
+  "description": "Answer 12 questions to discover which NewJeans-inspired personality type you are!",
+  "questions": [
+    {
+      "text": "When your favorite song comes on in public, you...",
+      "options": [
+        {
+          "text": "Hum quietly to yourself, swaying slightly as you keep walking",
+          "score": "I"
+        },
+        {
+          "text": "Grab the nearest person and start dancing like no one’s watching",
+          "score": "E"
+        },
+        {
+          "text": "Focus on memorizing the new choreography moves you just noticed",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about making a creative dance reel to it later",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a free afternoon with no plans. You’d rather...",
+      "options": [
+        {
+          "text": "Spend it rearranging your desk with cute stationery and fairy lights",
+          "score": "J"
+        },
+        {
+          "text": "Wander around the city, stopping at whatever catches your eye",
+          "score": "P"
+        },
+        {
+          "text": "Call your best friend and listen to them vent about their week",
+          "score": "F"
+        },
+        {
+          "text": "Work on solving a tricky puzzle you’ve been stuck on for days",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When choosing an outfit for a casual day out, you tend to...",
+      "options": [
+        {
+          "text": "Pick pieces that remind you of your favorite 2000s music videos",
+          "score": "N"
+        },
+        {
+          "text": "Go with the comfortable hoodie you’ve worn a hundred times before",
+          "score": "S"
+        },
+        {
+          "text": "Ask your friends for their opinion before finalizing your look",
+          "score": "E"
+        },
+        {
+          "text": "Stay in your room and put together an outfit no one else would wear",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If your group project hits a roadblock, you’d...",
+      "options": [
+        {
+          "text": "Propose a step-by-step plan to get back on track",
+          "score": "J"
+        },
+        {
+          "text": "Brainstorm wild, out-of-the-box solutions with the team",
+          "score": "P"
+        },
+        {
+          "text": "Check in with each teammate to make sure they’re feeling okay",
+          "score": "F"
+        },
+        {
+          "text": "Analyze what went wrong and fix the core issue quickly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new artist you love, you...",
+      "options": [
+        {
+          "text": "Blast their songs at full volume and tell everyone you know about them",
+          "score": "E"
+        },
+        {
+          "text": "Curate a private playlist just for yourself and listen to it alone",
+          "score": "I"
+        },
+        {
+          "text": "Research their entire discography and memorize all the lyrics",
+          "score": "S"
+        },
+        {
+          "text": "Imagine collaborating with them on a unique music style",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to two events on the same night. You’d...",
+      "options": [
+        {
+          "text": "Pick the one you RSVP’d to first and stick to your original plan",
+          "score": "J"
+        },
+        {
+          "text": "Flip a coin and go to whichever one feels more fun in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Ask if you can split your time between both to see everyone",
+          "score": "F"
+        },
+        {
+          "text": "Choose the event with the most interesting activities, regardless of who’s there",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling stressed, you find relief in...",
+      "options": [
+        {
+          "text": "Taking a long walk and noticing the small details in your surroundings",
+          "score": "S"
+        },
+        {
+          "text": "Writing down creative stories or doodling in a sketchbook",
+          "score": "N"
+        },
+        {
+          "text": "Hanging out with a big group of friends to distract yourself",
+          "score": "E"
+        },
+        {
+          "text": "Cuddling up with a blanket and watching your favorite comfort show alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you had to plan a surprise for your best friend, you’d...",
+      "options": [
+        {
+          "text": "Organize a surprise party with all their loved ones",
+          "score": "F"
+        },
+        {
+          "text": "Create a custom scrapbook filled with your favorite memories together",
+          "score": "S"
+        },
+        {
+          "text": "Plan a spontaneous road trip to a place they’ve always wanted to visit",
+          "score": "P"
+        },
+        {
+          "text": "Book them a session with that expert coach they’ve been wanting to see",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a class discussion, you’re most likely to...",
+      "options": [
+        {
+          "text": "Speak up first and share your bold, creative ideas",
+          "score": "E"
+        },
+        {
+          "text": "Listen carefully to everyone else before adding your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "Reference specific facts and examples to support your point",
+          "score": "S"
+        },
+        {
+          "text": "Connect different ideas to form a unique perspective",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When packing for a trip, you usually...",
+      "options": [
+        {
+          "text": "Make a detailed checklist and pack everything you might need days in advance",
+          "score": "J"
+        },
+        {
+          "text": "Throw a few essentials in a bag at the last minute and see what happens",
+          "score": "P"
+        },
+        {
+          "text": "Pack items that will help you stay connected to your friends back home",
+          "score": "F"
+        },
+        {
+          "text": "Bring a portable charger and all the tech gadgets you might need",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find yourself loving a new trend. You’d...",
+      "options": [
+        {
+          "text": "Try it out immediately and post about it on your social media",
+          "score": "E"
+        },
+        {
+          "text": "Enjoy it privately without telling anyone you’re into it",
+          "score": "I"
+        },
+        {
+          "text": "Learn the history behind the trend and share it with your close friends",
+          "score": "S"
+        },
+        {
+          "text": "Put your own unique twist on the trend to make it your own",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When resolving a fight with a friend, you’d rather...",
+      "options": [
+        {
+          "text": "Talk it out face-to-face and make sure they feel heard",
+          "score": "F"
+        },
+        {
+          "text": "Send a thoughtful, well-structured text explaining your point of view",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your original plan and avoid discussing it until later",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow and let the conversation naturally work itself out",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bright Bubblegum ENFP",
+      "description": "Your energy mirrors NewJeans’ playful, retro charm—you’re the life of any casual hangout, always ready to suggest a spontaneous dance party or a trip to a vintage record store. You daydream constantly about creative projects and love making everyone around you feel seen. Your infectious optimism and bold ideas make you unforgettable, just like the group’s catchy hooks.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Quiet Daydreamer INFP",
+      "description": "You’re the soft, introspective soul aligned with NewJeans’ dreamy B-sides. You’d rather spend your weekends reading webtoons alone or creating secret art projects than attending loud parties. You feel deeply connected to the group’s nostalgic lyrics and often find yourself reflecting on how they resonate with your own quiet world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Vibrant Party Starter ESFP",
+      "description": "You embody NewJeans’ upbeat, Y2K-inspired energy—you’re always the first to start a dance circle in the hallway or suggest an impromptu picnic with all your classmates. You live in the moment, prioritizing fun and laughter over overplanning, and your love for retro fashion matches the group’s iconic style perfectly.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Cozy Homebody ISFP",
+      "description": "You’re the warm, laid-back type who loves NewJeans’ cozy, relatable vibe. You’d rather curl up with a blanket and rewatch their music videos than go out, and you often find yourself drawn to their soft, melodic tracks. You express your love for the group through small, personal gestures, like decorating your desk with their photocards.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Strategic Trendsetter ENTJ",
+      "description": "You’re the bold, decisive leader aligned with NewJeans’ confident, boundary-pushing style. You’re always one step ahead of the latest trends, often curating your own unique takes on Y2K fashion. You admire the group’s strategic rise to fame and apply that same level of focus to your own goals, whether it’s a school project or a personal hobby.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Introspective Strategist INTJ",
+      "description": "You’re the thoughtful, forward-thinking type who appreciates NewJeans’ clever artistic direction. You analyze every detail of their music videos from camera angles to lyrical themes, and you often find yourself predicting their next big move. You prefer quiet nights spent brainstorming your own creative projects over noisy social events.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Energetic Collaborator ESTJ",
+      "description": "You’re the reliable, outgoing leader who loves NewJeans’ cohesive group dynamic. You excel at organizing group projects and hangouts, always making sure everyone has a role to play. You admire the group’s disciplined approach to their craft and apply that same level of structure to your own life, balancing fun with responsibility seamlessly.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Steady Traditionalist ISTJ",
+      "description": "You’re the grounded, loyal type who connects with NewJeans’ nostalgic, relatable themes. You stick to your favorite go-to outfits and comfort shows, and you often find yourself revisiting the group’s first few tracks when you need a pick-me-up. You value consistency and reliability in both your friends and your favorite artists.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Warm Connector ENFJ",
+      "description": "You’re the empathetic, charismatic type who loves NewJeans’ ability to bring people together through their music. You’re always the first to check in on your friends, and you often use the group’s lyrics to help someone feel better. You admire their inclusive vibe and strive to create that same sense of community wherever you go.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Caring Listener INFJ",
+      "description": "You’re the deep, intuitive soul who resonates with NewJeans’ heartfelt lyrics. You often find yourself reflecting on the emotional layers of their music, and you use that same level of empathy to support your friends. You prefer small, meaningful conversations over large gatherings, and you value quality over quantity in all aspects of life.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Social Butterfly ESFJ",
+      "description": "You’re the friendly, outgoing type who lives for NewJeans’ cheerful, community-focused energy. You’re always planning group hangouts and birthday parties, and you often use their music as the soundtrack to your gatherings. You admire their ability to make everyone feel welcome, and you strive to do the same in your own social circle.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Gentle Supporter ISFJ",
+      "description": "You’re the kind, nurturing type who loves NewJeans’ soft, comforting vibe. You’re always there to help your friends with their homework or listen to them vent, and you often find yourself playing their calming tracks when you need to relax. You value loyalty and kindness above all else, just like the group’s genuine on-screen presence.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Curious Innovator ENTP",
+      "description": "You’re the clever, curious type who admires NewJeans’ innovative approach to K-pop. You love experimenting with new ideas and putting your own unique twist on trends, just like the group blends Y2K nostalgia with modern sounds. You’re always brainstorming new projects and love debating different perspectives with your close friends.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Quiet Innovator INTP",
+      "description": "You’re the introspective, analytical type who loves NewJeans’ creative musical choices. You spend hours dissecting their production techniques and lyrical wordplay, and you often find yourself coming up with your own unique remixes of their tracks. You prefer solo activities over group hangouts, and you value intellectual curiosity above all else.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Practical Adventurer ESTP",
+      "description": "You’re the bold, hands-on type who loves NewJeans’ upbeat, action-packed music videos. You’re always ready to try a new activity, whether it’s learning a new dance move or exploring a hidden neighborhood. You live in the moment and prefer to solve problems as they come, just like the group’s spontaneous, fun-loving energy.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Calm Observer ISTP",
+      "description": "You’re the laid-back, observant type who connects with NewJeans’ cool, effortless style. You prefer to watch from the sidelines before joining in, and you often notice small details that others miss. You love experimenting with new hobbies, like skateboarding or photography, and you admire the group’s ability to look cool without trying too hard.",
+      "mbti": "ISTP"
+    }
+  ]
+}

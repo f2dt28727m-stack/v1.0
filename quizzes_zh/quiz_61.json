@@ -1,0 +1,349 @@
+{
+  "quizId": 61,
+  "title": "Which Taylor Swift-Inspired Personality Type Are You?",
+  "category": "which",
+  "tags": [
+    "Taylor Swift",
+    "Personality",
+    "MBTI",
+    "Pop Culture",
+    "Music"
+  ],
+  "description": "Answer 12 questions to discover which Taylor Swift-inspired personality type aligns with your true self!",
+  "questions": [
+    {
+      "text": "When you’re feeling overwhelmed, you find the most comfort in...",
+      "options": [
+        {
+          "text": "Making a detailed to-do list, checking off each task one by one to regain a sense of control",
+          "score": "J"
+        },
+        {
+          "text": "Doodling or sketching whatever comes to mind, letting your hands move without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "Calling your closest friend and venting about every little detail of what’s stressing you out",
+          "score": "E"
+        },
+        {
+          "text": "Taking a long walk in nature, letting the quiet surroundings help you process your feelings slowly",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you had to write a song about a memory, you’d focus on...",
+      "options": [
+        {
+          "text": "Evokes a vague, dreamy feeling that makes you imagine endless possibilities",
+          "score": "N"
+        },
+        {
+          "text": "How that moment changed the way you saw yourself and your place in the world",
+          "score": "F"
+        },
+        {
+          "text": "The sequence of events that led up to that moment, piecing together every cause and effect",
+          "score": "T"
+        },
+        {
+          "text": "Has lyrics that tell a specific, relatable story you can picture in your mind",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "At a party, you’re most likely to be found...",
+      "options": [
+        {
+          "text": "Staying in a small corner with one or two trusted people, having a deep, meaningful chat",
+          "score": "I"
+        },
+        {
+          "text": "Helping the host with refilling snacks or adjusting the music to keep everyone comfortable",
+          "score": "S"
+        },
+        {
+          "text": "Watching the room from a distance, making up little stories about the people you see",
+          "score": "N"
+        },
+        {
+          "text": "Moving between groups, striking up conversations with people you’ve just met",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you rely on...",
+      "options": [
+        {
+          "text": "Researching all the facts and weighing the pros and cons logically",
+          "score": "T"
+        },
+        {
+          "text": "Taking time to sit alone and reflect on how the decision will shape your future path",
+          "score": "I"
+        },
+        {
+          "text": "What your gut feeling tells you about what feels right for your heart",
+          "score": "F"
+        },
+        {
+          "text": "Asking for advice from people you trust who have been in similar situations",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You love a song most when it...",
+      "options": [
+        {
+          "text": "Evokes a vague, dreamy feeling that makes you imagine endless possibilities",
+          "score": "N"
+        },
+        {
+          "text": "Makes you want to jump up and dance with everyone around you",
+          "score": "E"
+        },
+        {
+          "text": "Makes you pause and sit quietly, absorbing every word and melody deeply",
+          "score": "I"
+        },
+        {
+          "text": "Has lyrics that tell a specific, relatable story you can picture in your mind",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip, you prefer to...",
+      "options": [
+        {
+          "text": "Book the first flight you find and leave the rest unplanned, ready to go wherever the day takes you",
+          "score": "P"
+        },
+        {
+          "text": "Look up all the historical facts about the destination to understand its background fully",
+          "score": "T"
+        },
+        {
+          "text": "Book every detail in advance—flights, hotels, and a daily itinerary with exact times",
+          "score": "J"
+        },
+        {
+          "text": "Ask friends for recommendations on the best local spots to eat and explore",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When someone disagrees with you, you respond by...",
+      "options": [
+        {
+          "text": "Presenting your own facts and reasoning to explain why you think you’re right",
+          "score": "T"
+        },
+        {
+          "text": "Changing the subject to something lighter to avoid a tense argument",
+          "score": "S"
+        },
+        {
+          "text": "Asking follow-up questions to dive deeper into their point of view",
+          "score": "N"
+        },
+        {
+          "text": "Listening carefully to their perspective, trying to understand where they’re coming from",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy day, you’d rather...",
+      "options": [
+        {
+          "text": "Spend the day reading a book and writing in your journal by the fireplace",
+          "score": "I"
+        },
+        {
+          "text": "Do a messy art project with whatever supplies you have, not worrying about the end result",
+          "score": "P"
+        },
+        {
+          "text": "Invite a few friends over for a movie marathon and hot cocoa bar",
+          "score": "E"
+        },
+        {
+          "text": "Bake a batch of your favorite cookies, following the recipe exactly to get perfect results",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You feel most proud when you...",
+      "options": [
+        {
+          "text": "Create something tangible, like a painting or a piece of furniture, that you can see and touch",
+          "score": "S"
+        },
+        {
+          "text": "Help a friend through a tough time, knowing you made a difference in their day",
+          "score": "F"
+        },
+        {
+          "text": "Finish a complex project that required careful planning and attention to detail",
+          "score": "T"
+        },
+        {
+          "text": "Try something completely new and step outside of your comfort zone",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you meet someone new, you’re first drawn to...",
+      "options": [
+        {
+          "text": "The stories they tell about their travels and life experiences",
+          "score": "N"
+        },
+        {
+          "text": "The small, thoughtful details they notice about you and your space",
+          "score": "S"
+        },
+        {
+          "text": "The way they listen intently when you talk, showing genuine care",
+          "score": "I"
+        },
+        {
+          "text": "Their energy and how easily you can laugh and joke together",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal work environment would be...",
+      "options": [
+        {
+          "text": "A structured setting with clear deadlines and step-by-step guidelines",
+          "score": "J"
+        },
+        {
+          "text": "A busy office with lots of team meetings and collaborative projects",
+          "score": "E"
+        },
+        {
+          "text": "An open, flexible space where you can switch between tasks and explore new ideas freely",
+          "score": "P"
+        },
+        {
+          "text": "A quiet, private space where you can focus on your tasks without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you look back on your childhood, you most remember...",
+      "options": [
+        {
+          "text": "The quiet afternoons you spent reading alone in your treehouse, lost in a book",
+          "score": "I"
+        },
+        {
+          "text": "The feeling of being free to imagine you were a princess or a superhero, living in a fantasy world",
+          "score": "N"
+        },
+        {
+          "text": "The times you organized neighborhood games and played with all the kids on the block",
+          "score": "E"
+        },
+        {
+          "text": "Specific moments like building a fort with your siblings or picking strawberries with your grandma",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Fearless Trailblazer",
+      "description": "You’re the Fearless Trailblazer—warm, charismatic, and always lifting others up. Like Taylor’s Fearless era, you turn vulnerability into courage, lead with empathy, and aren’t afraid to speak your truth for what you believe in. You thrive on connecting with others and turning shared experiences into lasting bonds.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Reputation Strategist",
+      "description": "You’re the Reputation Strategist—bold, decisive, and always one step ahead. Like Taylor’s Reputation era, you turn challenges into opportunities, think strategically about every move, and aren’t afraid to set boundaries to protect what matters most. You lead with confidence and inspire others to follow your vision.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Lover Dreamer",
+      "description": "You’re the Lover Dreamer—optimistic, creative, and full of whimsy. Like Taylor’s Lover era, you see the beauty in every moment, believe in the power of love in all its forms, and love to express your feelings through art, words, or music. You’re always looking for the next adventure to share with those you care about.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "1989 Innovator",
+      "description": "You’re the 1989 Innovator—witty, curious, and unafraid to break the mold. Like Taylor’s 1989 era, you embrace change with open arms, love to challenge the status quo, and turn everyday moments into something exciting and unexpected. You thrive on brainstorming new ideas and debating different perspectives.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Speak Up Caregiver",
+      "description": "You’re the Speak Up Caregiver—nurturing, reliable, and always looking out for others. Like Taylor’s Speak Now era, you value loyalty above all else, aren’t afraid to stand up for your friends, and find joy in making others feel seen and loved. You’re the heart of any group, making sure everyone feels included.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Red Organizer",
+      "description": "You’re the Red Organizer—practical, responsible, and always in control. Like Taylor’s Red era, you balance passion with logic, make sure every detail is taken care of, and aren’t afraid to roll up your sleeves to get things done. You’re the one everyone turns to when they need help planning or fixing a problem.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Shake It Off Entertainer",
+      "description": "You’re the Shake It Off Entertainer—vibrant, spontaneous, and always the life of the party. Like Taylor’s Shake It Off vibe, you don’t let criticism get to you, love to make people laugh and dance, and find joy in the simple, fun moments of life. You’re always ready to try something new and make memories with others.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Folklore Storyteller",
+      "description": "You’re the Folklore Storyteller—grounded, adventurous, and full of unexpected wisdom. Like Taylor’s Folklore era, you find beauty in the quiet, unassuming moments, love to share stories from your life experiences, and aren’t afraid to take risks to explore new paths. You’re practical yet curious, always ready to dive into a new challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Evermore Mystic",
+      "description": "You’re the Evermore Mystic—introspective, intuitive, and full of deep wisdom. Like Taylor’s Evermore era, you find solace in quiet moments, have a knack for understanding people’s hidden emotions, and love to explore the deeper meanings behind life’s experiences. You’re a trusted confidant, always listening with empathy and offering thoughtful advice.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Midnights Strategist",
+      "description": "You’re the Midnights Strategist—thoughtful, analytical, and always planning ahead. Like Taylor’s Midnights era, you thrive in the quiet hours, love to dive into complex ideas and problems, and aren’t afraid to challenge the way things are. You have a clear vision for your future and work steadily to make it a reality.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Taylor’s Daydreamer",
+      "description": "You’re the Taylor’s Daydreamer—idealistic, creative, and full of quiet passion. Like Taylor’s more introspective tracks, you find joy in writing, reading, and exploring your inner world. You believe in the power of kindness and love to change the world, and you’re always looking for ways to express your unique perspective.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Reputation Thinker",
+      "description": "You’re the Reputation Thinker—curious, logical, and always questioning everything. Like Taylor’s Reputation era’s more reflective moments, you love to dive into deep, complex topics, analyze every angle of a problem, and aren’t afraid to stand alone if it means staying true to your beliefs. You’re a lifelong learner, always seeking new knowledge.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Fearless Nurturer",
+      "description": "You’re the Fearless Nurturer—kind, reliable, and always putting others first. Like Taylor’s Fearless era’s heartfelt tracks, you find joy in taking care of the people you love, remember every small detail about their lives, and aren’t afraid to show your vulnerability to those you trust. You’re the rock that everyone can count on.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "1989 Planner",
+      "description": "You’re the 1989 Planner—practical, organized, and always focused on the details. Like Taylor’s 1989 era’s polished vibe, you value structure and consistency, make sure every task is done correctly, and aren’t afraid to work hard to achieve your goals. You’re the one everyone turns to when they need a reliable, efficient helper.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Lover Artist",
+      "description": "You’re the Lover Artist—soulful, creative, and full of quiet beauty. Like Taylor’s Lover era’s tender tracks, you express yourself through art, music, or nature, find joy in the small, intimate moments of life, and aren’t afraid to show your true self to those you care about. You’re a free spirit who values authenticity above all else.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Red Maverick",
+      "description": "You’re the Red Maverick—calm, practical, and always ready for a challenge. Like Taylor’s Red era’s bold, unapologetic tracks, you love to solve problems with your hands, aren’t afraid to take risks, and find joy in exploring new skills and hobbies. You’re a quiet leader, leading by example rather than words.",
+      "mbti": "ISTP"
+    }
+  ]
+}

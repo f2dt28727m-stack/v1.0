@@ -1,0 +1,349 @@
+{
+  "quizId": 20,
+  "title": "How Sabrina Carpenter-Coded Are You?",
+  "category": "how",
+  "tags": [
+    "Sabrina Carpenter",
+    "Celebrity Personality",
+    "Pop Culture Quiz",
+    "MBTI Alignment",
+    "Vibe Check"
+  ],
+  "description": "Answer 12 questions to discover how closely your inner world matches Sabrina Carpenter’s signature energy!",
+  "questions": [
+    {
+      "text": "When you’re at a casual gathering, you most often find yourself:",
+      "options": [
+        {
+          "text": "Brainstorming a silly impromptu skit to perform with the group",
+          "score": "N"
+        },
+        {
+          "text": "Sticking to your small group of friends, sharing quiet inside jokes",
+          "score": "I"
+        },
+        {
+          "text": "Checking in on everyone’s comfort, making sure no one feels left out",
+          "score": "F"
+        },
+        {
+          "text": "Organizing a quick game of trivia to get everyone engaged",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you had a free afternoon, you’d rather:",
+      "options": [
+        {
+          "text": "Visit a local bookstore and get lost in a memoir about someone’s wild life",
+          "score": "S"
+        },
+        {
+          "text": "Spend hours drafting a song or poem about your latest feeling",
+          "score": "N"
+        },
+        {
+          "text": "Call up a friend and explore a new coffee shop you’ve never tried",
+          "score": "E"
+        },
+        {
+          "text": "Stay home and rearrange your desk setup for better productivity",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you receive constructive feedback, you react by:",
+      "options": [
+        {
+          "text": "Immediately thinking of specific changes you can make to improve",
+          "score": "T"
+        },
+        {
+          "text": "Taking a moment to process how the feedback makes you feel before responding",
+          "score": "F"
+        },
+        {
+          "text": "Asking follow-up questions to understand every detail clearly",
+          "score": "S"
+        },
+        {
+          "text": "Wondering how this feedback could inspire a completely new approach",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip with friends, you focus on:",
+      "options": [
+        {
+          "text": "Leaving most of the schedule open to see where the day takes you",
+          "score": "P"
+        },
+        {
+          "text": "Researching the best local spots and mapping out a precise itinerary",
+          "score": "J"
+        },
+        {
+          "text": "Making sure everyone’s favorite activities are included in the plans",
+          "score": "F"
+        },
+        {
+          "text": "Inviting a few more people to join for an unexpected adventure",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling overwhelmed, you cope by:",
+      "options": [
+        {
+          "text": "Dancing alone to your favorite upbeat playlist to release tension",
+          "score": "E"
+        },
+        {
+          "text": "Writing down all your thoughts in a journal to sort through them",
+          "score": "I"
+        },
+        {
+          "text": "Doing a quick, practical task like folding laundry to ground yourself",
+          "score": "S"
+        },
+        {
+          "text": "Imagining yourself in a peaceful, fictional world you’ve created",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you had to give a speech, you’d:",
+      "options": [
+        {
+          "text": "Wing it, relying on your natural charm to connect with the audience",
+          "score": "P"
+        },
+        {
+          "text": "Write a detailed script and practice it multiple times to perfect every line",
+          "score": "J"
+        },
+        {
+          "text": "Tailor your words to resonate with the audience’s emotions and experiences",
+          "score": "F"
+        },
+        {
+          "text": "Focus on sharing clear, factual points to get your message across effectively",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new song you love, you:",
+      "options": [
+        {
+          "text": "Listen to it on repeat for hours, analyzing every lyric and melody choice",
+          "score": "I"
+        },
+        {
+          "text": "Text all your friends to tell them about it and demand they listen immediately",
+          "score": "E"
+        },
+        {
+          "text": "Look up the artist’s backstory to understand the context behind the track",
+          "score": "S"
+        },
+        {
+          "text": "Create a whole mood board inspired by the song’s vibes in your head",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When solving a problem with friends, you tend to:",
+      "options": [
+        {
+          "text": "Suggest out-of-the-box solutions no one else has thought of yet",
+          "score": "N"
+        },
+        {
+          "text": "Focus on what has worked in similar situations before to find a fix",
+          "score": "S"
+        },
+        {
+          "text": "Prioritize keeping everyone’s feelings intact while finding a resolution",
+          "score": "F"
+        },
+        {
+          "text": "Logic through all possible outcomes to pick the most efficient solution",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy day, you prefer to:",
+      "options": [
+        {
+          "text": "Bake a batch of cookies and invite neighbors over to share them",
+          "score": "E"
+        },
+        {
+          "text": "Curate a cozy movie marathon with your favorite nostalgic films",
+          "score": "S"
+        },
+        {
+          "text": "Write a short story inspired by the sound of the rain tapping the window",
+          "score": "N"
+        },
+        {
+          "text": "Spend the afternoon organizing your closet by color and style",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When meeting someone new, you’re most drawn to:",
+      "options": [
+        {
+          "text": "Their ability to tell wild, vivid stories about their travels",
+          "score": "E"
+        },
+        {
+          "text": "Their quiet thoughtfulness and attention to small details",
+          "score": "I"
+        },
+        {
+          "text": "Their willingness to dive deep into meaningful conversations about life",
+          "score": "F"
+        },
+        {
+          "text": "Their knack for solving random puzzles or riddles quickly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When planning a birthday party for a friend, you:",
+      "options": [
+        {
+          "text": "Keep things loose, with no strict schedule so everyone can enjoy themselves",
+          "score": "P"
+        },
+        {
+          "text": "Plan every minute down to the cake cutting time and playlist order",
+          "score": "J"
+        },
+        {
+          "text": "Ask their closest friends to share personal memories to include in a tribute",
+          "score": "F"
+        },
+        {
+          "text": "Pick a theme based on their favorite fictional world and go all out with decorations",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you reflect on your day, you most often think about:",
+      "options": [
+        {
+          "text": "The fun, spontaneous moments you didn’t plan for",
+          "score": "P"
+        },
+        {
+          "text": "The specific tasks you accomplished and what you need to do tomorrow",
+          "score": "J"
+        },
+        {
+          "text": "How your actions might have made others feel throughout the day",
+          "score": "F"
+        },
+        {
+          "text": "The new facts or information you learned from a conversation or activity",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Chaotic Creative Trailblazer",
+      "description": "You’re the Sabrina Carpenter of spontaneous genius—always cooking up wild, unfiltered ideas that leave everyone stunned. Like Sabrina’s bold lyricism, you thrive on pushing boundaries, turning awkward moments into punchlines, and leading your friends into unplanned adventures. Your ENTP energy matches her fearless, innovative spirit, making you a natural at owning every room you enter.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Emotional Storyteller",
+      "description": "You channel Sabrina’s vulnerable yet vibrant energy—you feel deeply, and you aren’t afraid to turn those feelings into something beautiful. Like her raw ballads, you connect with others through shared experiences, always rooting for the underdog and seeing the magic in everyday moments. Your ENFP heart aligns with her ability to make listeners feel seen, one honest story at a time.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Unapologetic Leader",
+      "description": "You’ve got Sabrina’s take-charge confidence—you know what you want, and you’re not afraid to go after it. Like her strategic career moves and sharp stage presence, you excel at organizing chaos, rallying others around a goal, and staying true to your vision no matter what. Your ENTJ drive matches her relentless ambition, making you a force to be reckoned with in any space.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Warm-Hearted Catalyst",
+      "description": "You embody Sabrina’s caring, charismatic side—you’re the friend who remembers everyone’s favorite snack, the one who turns tense moments into hugs and laughter. Like her ability to connect with fans on a personal level, you thrive on lifting others up, using your empathy to create safe spaces for vulnerability. Your ENFJ spirit mirrors her kind yet confident vibe perfectly.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Spontaneous Showstopper",
+      "description": "You’re the Sabrina of impromptu performances—you live for the spotlight, turning mundane moments into mini concerts or comedy bits. Like her playful stage antics and upbeat pop tracks, you love living in the moment, taking risks, and making every day feel like an adventure. Your ESTP energy matches her fun-loving, unfiltered charm, ensuring you never have a boring day.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Reliable Rock",
+      "description": "You channel Sabrina’s grounded, hardworking energy—you’re the one everyone can count on to get things done, no excuses. Like her consistent work ethic and polished public image, you value structure, responsibility, and loyalty above all else. Your ESTJ pragmatism aligns with her ability to balance fun and focus, making you a steady presence in any group.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Vibe Curator",
+      "description": "You’ve got Sabrina’s infectious, joyful energy—you’re the life of every party, always bringing good music, great snacks, and a positive attitude. Like her upbeat hits and lively social media presence, you thrive on making others happy, turning even the most ordinary days into celebrations. Your ESFP spirit matches her ability to spread joy wherever she goes.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Nurturing Connector",
+      "description": "You embody Sabrina’s kind, attentive side—you’re the friend who checks in when someone’s quiet, the one who plans thoughtful surprises for loved ones. Like her genuine interactions with fans and focus on community, you prioritize making everyone feel valued and included. Your ESFJ warmth mirrors her compassionate, approachable vibe exactly.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Quiet Innovator",
+      "description": "You channel Sabrina’s introspective, creative energy—you spend hours diving into niche interests, coming up with clever ideas no one else would think of. Like her clever wordplay and hidden depths in lyrics, you’re a thinker at heart, preferring to observe before acting, but when you do speak up, your insights are unforgettable. Your INTP mind aligns with her subtle genius.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Dreamy Idealist",
+      "description": "You’re the Sabrina of soft, poetic moments—you see the world through a lens of beauty, always holding onto your core values and beliefs. Like her intimate, emotional tracks, you connect with others through quiet vulnerability, often expressing your feelings through art or writing. Your INFP soul matches her ability to turn inner thoughts into something universally relatable.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Strategic Visionary",
+      "description": "You’ve got Sabrina’s sharp, forward-thinking energy—you plan ahead, see the big picture, and aren’t afraid to go against the grain to achieve your goals. Like her intentional career choices and layered storytelling, you value intelligence and independence, preferring to work alone on projects that align with your long-term vision. Your INTJ drive mirrors her calculated yet creative spirit.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Empathetic Sage",
+      "description": "You embody Sabrina’s deep, intuitive side—you have a knack for understanding others’ unspoken feelings, often acting as a confidant for your closest friends. Like her ability to write lyrics that feel like they were pulled from your own diary, you’re a natural at reading between the lines, using your empathy to guide those around you. Your INFJ wisdom aligns with her introspective charm.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Calm Problem-Solver",
+      "description": "You channel Sabrina’s cool, collected energy—you stay under pressure, always finding a way to fix things when chaos strikes. Like her ability to handle unexpected stage mishaps with grace, you’re a doer at heart, preferring to take action over overthinking. Your ISTP pragmatism matches her laid-back yet capable vibe, making you the go-to person when things go wrong.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Steadfast Traditionalist",
+      "description": "You’ve got Sabrina’s reliable, loyal energy—you value tradition, consistency, and keeping your promises. Like her commitment to her craft and fans over the years, you’re someone others can always depend on, showing up no matter what. Your ISTJ dedication aligns with her grounded, genuine spirit, making you a pillar of strength in your community.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Gentle Artist",
+      "description": "You embody Sabrina’s soft, creative energy—you express yourself through art, music, or quiet acts of kindness, letting your actions speak louder than words. Like her acoustic performances and intimate covers, you thrive in quiet, cozy spaces, finding joy in small, beautiful moments. Your ISFP soul matches her ability to create warmth and beauty wherever she goes.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Devoted Caregiver",
+      "description": "You channel Sabrina’s nurturing, selfless energy—you put others’ needs before your own, always going the extra mile to make someone’s day better. Like her focus on supporting her friends and fans, you’re a listener first, offering comfort and practical help when it’s needed most. Your ISFJ kindness aligns with her compassionate, reliable vibe perfectly.",
+      "mbti": "ISFJ"
+    }
+  ]
+}

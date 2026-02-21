@@ -1,0 +1,349 @@
+{
+  "quizId": 10,
+  "title": "Which Euphoria Character Is Your Perfect Soulmate?",
+  "category": "match",
+  "tags": [
+    "Euphoria",
+    "TV Show",
+    "Soulmate",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover which Euphoria character is your perfect soulmate!",
+  "questions": [
+    {
+      "text": "When you’re at a chaotic party, you...",
+      "options": [
+        {
+          "text": "Find a quiet corner with one or two close friends and stay there all night",
+          "score": "I"
+        },
+        {
+          "text": "Wander around, striking up conversations with anyone who seems interesting",
+          "score": "E"
+        },
+        {
+          "text": "Spend time observing the dynamics of the room, making up stories about strangers",
+          "score": "N"
+        },
+        {
+          "text": "Stick to checking in on people you know to make sure they’re okay",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you’re upset about something, you prefer to...",
+      "options": [
+        {
+          "text": "Analyze the situation logically to figure out how to fix it",
+          "score": "T"
+        },
+        {
+          "text": "Write down your feelings in a journal to process them alone",
+          "score": "F"
+        },
+        {
+          "text": "Reach out to a friend and vent about every little detail",
+          "score": "E"
+        },
+        {
+          "text": "Distract yourself with a familiar show or activity to take your mind off it",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you have a free weekend, you’re most likely to...",
+      "options": [
+        {
+          "text": "Plan a structured day with specific activities you’ve been meaning to do",
+          "score": "J"
+        },
+        {
+          "text": "See where the day takes you, going with whatever feels fun in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Research a new hobby or topic you’re curious about and dive deep into it",
+          "score": "N"
+        },
+        {
+          "text": "Invite friends over for a casual gathering with games and snacks",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you...",
+      "options": [
+        {
+          "text": "Trust your gut instinct about how it will make you feel",
+          "score": "F"
+        },
+        {
+          "text": "Weigh the pros and cons of each choice carefully",
+          "score": "T"
+        },
+        {
+          "text": "Ask for advice from people you trust before deciding",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all the possible outcomes and pick the most exciting one",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You feel most energized when you...",
+      "options": [
+        {
+          "text": "Spend time alone, recharging with a book or quiet hobby",
+          "score": "I"
+        },
+        {
+          "text": "Host a dinner party and connect with a group of loved ones",
+          "score": "E"
+        },
+        {
+          "text": "Work on a hands-on project that lets you create something tangible",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm new ideas or daydream about future adventures",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When someone asks for your help, you...",
+      "options": [
+        {
+          "text": "Jump in immediately to solve their problem step by step",
+          "score": "T"
+        },
+        {
+          "text": "First listen to their feelings and validate how they’re doing",
+          "score": "F"
+        },
+        {
+          "text": "Offer to do exactly what they ask without adding extra steps",
+          "score": "J"
+        },
+        {
+          "text": "Adapt your help based on what you notice they really need",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a group project, you tend to...",
+      "options": [
+        {
+          "text": "Take charge of organizing tasks and making sure deadlines are met",
+          "score": "J"
+        },
+        {
+          "text": "Come up with creative, out-of-the-box ideas to make the project stand out",
+          "score": "N"
+        },
+        {
+          "text": "Handle the practical, day-to-day tasks that keep the project on track",
+          "score": "S"
+        },
+        {
+          "text": "Focus on keeping the group morale high and resolving conflicts",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You prefer to communicate with others by...",
+      "options": [
+        {
+          "text": "Sending long, thoughtful texts that dive into how you’re feeling",
+          "score": "I"
+        },
+        {
+          "text": "Talking face-to-face so you can read their body language and tone",
+          "score": "S"
+        },
+        {
+          "text": "Having lively, spontaneous conversations that bounce from topic to topic",
+          "score": "E"
+        },
+        {
+          "text": "Exchanging creative notes or art that expresses your thoughts indirectly",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re bored, you...",
+      "options": [
+        {
+          "text": "Try a new recipe or rearrange your space to make it more functional",
+          "score": "S"
+        },
+        {
+          "text": "Write a short story or sketch a scene from your imagination",
+          "score": "N"
+        },
+        {
+          "text": "Call a friend and suggest doing something random, like exploring a new neighborhood",
+          "score": "P"
+        },
+        {
+          "text": "Make a list of small tasks to complete to feel productive",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You value most in a relationship...",
+      "options": [
+        {
+          "text": "Reliability and knowing the other person will follow through on their word",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneity and the ability to go with the flow together",
+          "score": "P"
+        },
+        {
+          "text": "Honesty and the willingness to be vulnerable with each other",
+          "score": "F"
+        },
+        {
+          "text": "Intellectual curiosity and the ability to have deep, engaging debates",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you disagree with someone, you...",
+      "options": [
+        {
+          "text": "Focus on finding a middle ground that works for both of you",
+          "score": "F"
+        },
+        {
+          "text": "Present facts and logic to explain your perspective clearly",
+          "score": "T"
+        },
+        {
+          "text": "Listen carefully to their point of view before sharing yours",
+          "score": "I"
+        },
+        {
+          "text": "Voice your opinion openly and encourage them to do the same",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You remember best the details of...",
+      "options": [
+        {
+          "text": "How people made you feel during a conversation",
+          "score": "F"
+        },
+        {
+          "text": "The exact words someone said or specific facts they shared",
+          "score": "S"
+        },
+        {
+          "text": "The overall vibe or theme of an experience, not small specifics",
+          "score": "N"
+        },
+        {
+          "text": "The order of events that happened during a busy day",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Your Soulmate is Rue Bennett (ENFP)",
+      "description": "Rue’s chaotic yet deeply empathetic spirit aligns with your free-spirited, emotionally attuned nature. You both crave genuine connections, even when life feels overwhelming. You’ll bond over late-night talks about your wildest dreams and quiet moments of understanding when words aren’t needed.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Your Soulmate is Jules Vaughn (INFJ)",
+      "description": "Jules’ introspective, creative soul mirrors your thoughtful, idealistic side. You both value deep, meaningful conversations over surface-level small talk. You’ll connect through shared love of self-expression, whether it’s art, fashion, or pouring your hearts out in vulnerable exchanges.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Your Soulmate is Nate Jacobs (ESTJ)",
+      "description": "Nate’s structured, goal-driven mindset matches your organized, results-oriented approach. You both thrive when there’s a clear plan, and you respect each other’s dedication to getting things done. You’ll build a stable, reliable bond focused on shared ambitions and mutual respect.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Your Soulmate is Maddy Perez (ESFP)",
+      "description": "Maddy’s bold, lively energy complements your outgoing, fun-loving personality. You both live in the moment, embracing every opportunity to have a good time. You’ll light up any room together, bonding over shared love of excitement, fashion, and unapologetically being yourselves.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Your Soulmate is Cassie Howard (ISFP)",
+      "description": "Cassie’s gentle, sensitive heart aligns with your compassionate, artistic nature. You both value harmony and hate conflict, prioritizing the feelings of those you love. You’ll connect through quiet, intimate moments, like sharing favorite songs or creating something beautiful side by side.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Your Soulmate is Lexi Howard (INTP)",
+      "description": "Lexi’s curious, analytical mind matches your introspective, logical side. You both love diving into new ideas and exploring complex topics, often getting lost in thought for hours. You’ll bond over debating books, movies, and life’s big questions, finding joy in each other’s unique perspectives.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Your Soulmate is Kat Hernandez (ENTJ)",
+      "description": "Kat’s fierce, determined spirit mirrors your confident, strategic personality. You both know what you want and aren’t afraid to go after it. You’ll respect each other’s independence, pushing one another to grow while celebrating every win, big or small, along the way.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Your Soulmate is Fezco (ISFJ)",
+      "description": "Fezco’s loyal, protective nature aligns with your caring, reliable side. You both put the people you love first, always ready to lend a hand or a listening ear. You’ll build a steady, trust-based bond, finding comfort in knowing you can always count on each other no matter what.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Your Soulmate is Ashtray (ISTP)",
+      "description": "Ashtray’s calm, practical mindset matches your grounded, hands-on personality. You both prefer action over words, solving problems quietly and efficiently. You’ll connect through shared love of straightforwardness, respecting each other’s need for space while being there when it matters most.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Your Soulmate is McKay (ESTP)",
+      "description": "McKay’s athletic, outgoing energy complements your adventurous, spontaneous side. You both love staying active and trying new things, from sports to weekend getaways. You’ll bond over friendly competition and exploring new places, making every day feel like an exciting adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Your Soulmate is Ethan Daley (ENFJ)",
+      "description": "Ethan’s warm, supportive spirit mirrors your empathetic, people-focused personality. You both thrive on lifting others up, always ready to encourage and inspire those around you. You’ll connect through shared love of storytelling and making people feel seen, creating a bond built on kindness.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Your Soulmate is Leslie Bennett (ESFJ)",
+      "description": "Leslie’s nurturing, dedicated nature aligns with your caring, responsible side. You both prioritize taking care of your loved ones, going above and beyond to ensure their happiness. You’ll build a loving, stable bond, finding joy in small, everyday moments spent together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Your Soulmate is Cal Jacobs (ISTJ)",
+      "description": "Cal’s structured, traditional mindset matches your organized, detail-oriented approach. You both value stability and follow through on your commitments, respecting rules and routines. You’ll connect through shared focus on responsibility, building a reliable bond rooted in mutual trust.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Your Soulmate is Gia Bennett (INFP)",
+      "description": "Gia’s quiet, creative soul mirrors your introspective, idealistic side. You both have a deep love for the arts and a strong sense of justice, often feeling things deeply. You’ll bond over shared passions and quiet moments of understanding, supporting each other’s growth and self-expression.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Your Soulmate is Cassie’s Mom (Suze Howard) (ESFJ)",
+      "description": "Suze’s warm, generous spirit aligns with your caring, community-focused personality. You both love bringing people together, whether it’s for a family dinner or a casual gathering. You’ll connect through shared love of nurturing others, creating a bond built on laughter and heartfelt support.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Your Soulmate is Elliot (ENTP)",
+      "description": "Elliot’s witty, curious energy matches your playful, intellectual side. You both love challenging norms and having lively debates, never shying away from controversial topics. You’ll bond over shared love of humor and adventure, turning every day into an exciting, unpredictable journey.",
+      "mbti": "ENTP"
+    }
+  ]
+}

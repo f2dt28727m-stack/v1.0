@@ -1,0 +1,349 @@
+{
+  "quizId": 8,
+  "title": "What’s Your Olivia Rodrigo-Inspired Future Creative Life Path?",
+  "category": "future",
+  "tags": [
+    "Olivia Rodrigo",
+    "Future Creative Path",
+    "MBTI",
+    "Personality Test",
+    "Creative Journey"
+  ],
+  "description": "Answer 12 questions to discover your Olivia Rodrigo-inspired future creative life path!",
+  "questions": [
+    {
+      "text": "When you have a sudden burst of creative inspiration, you first...",
+      "options": [
+        {
+          "text": "Daydream about how your idea could evolve into a multi-format project like a song + short film",
+          "score": "N"
+        },
+        {
+          "text": "Call a few close friends to bounce ideas off and brainstorm collaborative angles",
+          "score": "E"
+        },
+        {
+          "text": "Grab your notebook and write down every raw, unfiltered thought before it fades",
+          "score": "I"
+        },
+        {
+          "text": "Research similar works to identify gaps you can fill with your unique twist",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you were asked to create a song about heartbreak, you would...",
+      "options": [
+        {
+          "text": "Emphasize the quiet sadness and vulnerability of feeling overlooked by someone you loved",
+          "score": "F"
+        },
+        {
+          "text": "Focus on the logical breakdown of why the relationship failed and what you learned",
+          "score": "T"
+        },
+        {
+          "text": "Draw from specific, vivid memories like a rainy drive home after a fight",
+          "score": "S"
+        },
+        {
+          "text": "Explore universal themes of loss through a fictional character’s emotional arc",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a small creative project, you prioritize...",
+      "options": [
+        {
+          "text": "Sticking to a clear timeline with defined milestones to ensure on-completion success",
+          "score": "J"
+        },
+        {
+          "text": "Leaving space to adapt and pivot as new ideas emerge during the process",
+          "score": "P"
+        },
+        {
+          "text": "Inviting other creators to contribute their perspectives to make it richer",
+          "score": "E"
+        },
+        {
+          "text": "Working independently to maintain full control over every creative detail",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you respond when someone criticizes your creative work?",
+      "options": [
+        {
+          "text": "Ask detailed questions to understand their feedback and use it to refine your work",
+          "score": "T"
+        },
+        {
+          "text": "Take a moment to process the hurt before deciding whether to adjust anything",
+          "score": "F"
+        },
+        {
+          "text": "Brush it off and stay true to your original vision, trusting your instincts",
+          "score": "N"
+        },
+        {
+          "text": "Compare their feedback to industry standards to see if it’s worth incorporating",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "On a free weekend, you’re most likely to...",
+      "options": [
+        {
+          "text": "Attend a local open mic night to perform your latest work and connect with other artists",
+          "score": "E"
+        },
+        {
+          "text": "Spend hours rearranging your home studio to optimize your creative flow",
+          "score": "J"
+        },
+        {
+          "text": "Wander through city streets or a forest, letting sights and sounds spark new ideas",
+          "score": "P"
+        },
+        {
+          "text": "Stay in and rewatch your favorite music documentaries to study production techniques",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When writing lyrics, you tend to focus on...",
+      "options": [
+        {
+          "text": "Abstract metaphors that capture complex emotions in unexpected ways",
+          "score": "N"
+        },
+        {
+          "text": "Specific, tangible moments that anyone can instantly relate to, like a cracked phone screen",
+          "score": "S"
+        },
+        {
+          "text": "The structure of the song, ensuring each verse builds logically to the chorus",
+          "score": "T"
+        },
+        {
+          "text": "The emotional core of the story, making sure every line feels raw and honest",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "If you had the chance to collaborate with a big-name artist, you would...",
+      "options": [
+        {
+          "text": "Prepare a detailed plan of what you want to create to guide the session",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, letting the conversation and energy of the room shape the work",
+          "score": "P"
+        },
+        {
+          "text": "Lead the direction of the project, sharing your bold vision for the final product",
+          "score": "E"
+        },
+        {
+          "text": "Listen closely to their input while gently advocating for your creative preferences",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach overcoming a creative block?",
+      "options": [
+        {
+          "text": "Talk to other creators about their struggles and get tips for breaking through",
+          "score": "E"
+        },
+        {
+          "text": "Take a break to do a mundane task like folding laundry, letting your mind wander freely",
+          "score": "I"
+        },
+        {
+          "text": "Follow a step-by-step creative exercise to jumpstart your thinking",
+          "score": "S"
+        },
+        {
+          "text": "Try a completely new art form, like painting or poetry, to shift your perspective",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When sharing your work online, you care most about...",
+      "options": [
+        {
+          "text": "Engaging with comments and building a community around your creative voice",
+          "score": "F"
+        },
+        {
+          "text": "Getting constructive feedback to improve the technical quality of your work",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to a consistent posting schedule to grow your audience steadily",
+          "score": "J"
+        },
+        {
+          "text": "Posting whenever you feel inspired, even if it breaks your usual routine",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If you were to write a song about success, you would focus on...",
+      "options": [
+        {
+          "text": "The tangible rewards like sold-out shows and chart positions that come with it",
+          "score": "S"
+        },
+        {
+          "text": "The intangible growth like self-confidence and resilience gained along the way",
+          "score": "N"
+        },
+        {
+          "text": "The impact your success has on inspiring other aspiring creators to chase their dreams",
+          "score": "F"
+        },
+        {
+          "text": "The strategic decisions and hard work that led to achieving your goals",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When organizing your creative space, you prefer...",
+      "options": [
+        {
+          "text": "A flexible setup where you can rearrange tools based on the project you’re working on",
+          "score": "P"
+        },
+        {
+          "text": "A neatly organized space with every item in its designated spot",
+          "score": "J"
+        },
+        {
+          "text": "A space filled with photos, tickets, and mementos that spark personal memories",
+          "score": "F"
+        },
+        {
+          "text": "A minimal space with only the essential tools needed to create efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When imagining your future career peak, you picture...",
+      "options": [
+        {
+          "text": "Performing in front of a massive crowd, feeding off their energy and excitement",
+          "score": "E"
+        },
+        {
+          "text": "Winning a prestigious award for your most personal and vulnerable work",
+          "score": "I"
+        },
+        {
+          "text": "Building a sustainable creative business that supports other emerging artists",
+          "score": "S"
+        },
+        {
+          "text": "Creating a body of work that redefines the genre and influences future creators",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Chart-Topping Visionary",
+      "description": "Like Olivia when she crafted ‘vampire’ with unapologetic ambition, you’re a future leader in creative industries. You turn bold visions into actionable plans, rally others around your goals, and aren’t afraid to take risks to dominate your field. Your future holds sold-out shows, industry awards, and defining the next wave of emotional pop. You’re an ENTJ—strategic, charismatic, and driven to leave a legacy.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Collaborative Hitmaker",
+      "description": "Just like Olivia’s dynamic collabs, your future thrives on teamwork. You excel at connecting with other creators, blending diverse ideas to craft chart-topping tracks that resonate globally. You’ll build a network of industry peers, host creative workshops, and turn every collaboration into a viral sensation. You’re an ENFJ—empathetic, influential, and dedicated to lifting others up while achieving success together.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Witty Songwriter",
+      "description": "Channeling Olivia’s sharp, relatable lyricism, your future is filled with clever, tongue-in-cheek tracks that go viral overnight. You turn everyday moments like coffee runs and text arguments into catchy anthems. You’ll tour small, intimate venues, gain a loyal Gen Z fanbase, and be known for your ability to make listeners laugh and cry in the same verse. You’re an ENTP—curious, playful, and a master of unexpected wordplay.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heartfelt Storyteller",
+      "description": "Like Olivia’s ‘drivers license’ which laid bare her soul, your future is defined by deeply personal, soul-stirring art. You’ll write from the depths of your inner world, creating work that resonates with anyone who’s felt unseen. Your career will be small but impactful, with a loyal fanbase that sees themselves in every lyric. You’re an ENFP—idealistic, empathetic, and committed to authentic self-expression.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Disciplined Producer",
+      "description": "Drawing from Olivia’s meticulous approach to production, your future is all about precision and craft. You’ll run a top-tier studio, mentor emerging artists, and create polished, radio-ready tracks that dominate the charts. You’re known for your strict work ethic and attention to detail, ensuring every note and lyric is perfect before release. You’re an ESTJ—organized, reliable, and a master of turning chaos into order.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Community Curator",
+      "description": "Just like Olivia’s connection with her fans, your future is centered on building a tight-knit creative community. You’ll host local open mics, launch a podcast for independent artists, and create safe spaces for creators to share their work. You thrive on bringing people together, and your impact will be felt in the countless artists you support and inspire. You’re an ESFJ—warm, nurturing, and dedicated to fostering connection.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Adaptive Performer",
+      "description": "Channeling Olivia’s electrifying live shows, your future is filled with spontaneous, high-energy performances. You thrive on stage, adapting your setlist to match the crowd’s energy and creating unforgettable moments every night. You’ll tour nonstop, gain a reputation for your dynamic stage presence, and be loved by fans for your ability to turn any venue into a party. You’re an ESTP—bold, practical, and a natural entertainer.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Relatable Chronicler",
+      "description": "Like Olivia’s ability to capture teen angst in every track, your future is about turning everyday experiences into universal anthems. You’ll write about first crushes, friend fights, and growing up, making listeners feel like you’re singing directly to them. You’ll gain a massive, loyal fanbase of young people who see their lives reflected in your music. You’re an ESFP—outgoing, empathetic, and a master of capturing the joy of the present moment.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Introspective Balladeer",
+      "description": "Drawing from Olivia’s quiet, vulnerable tracks like ‘vampire’’s bridge, your future is defined by deeply personal, introspective music. You’ll write from a place of raw honesty, exploring themes of heartbreak, self-doubt, and growth. You’ll perform in small, intimate venues, gaining a cult following of listeners who connect with your unfiltered authenticity. You’re an INFP—sensitive, idealistic, and committed to staying true to your voice.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Visionary Lyricist",
+      "description": "Channeling Olivia’s poetic storytelling, your future is filled with complex, metaphor-rich tracks that challenge listeners to think deeply. You’ll create concept albums that tell intricate stories, earning critical acclaim and a dedicated fanbase of music lovers who dissect every lyric. You’re known for your unique perspective and ability to turn abstract ideas into powerful songs. You’re an INFJ—insightful, creative, and a master of emotional depth.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Analytical Songsmith",
+      "description": "Like Olivia’s careful approach to song structure, your future is about crafting technically perfect, layered music. You’ll spend hours refining chord progressions and lyrics, ensuring every part of the song serves a purpose. You’ll work as a ghostwriter for top artists, gain a reputation for your precision, and be sought after for your ability to turn rough ideas into polished hits. You’re an INTJ—strategic, independent, and a master of long-term planning.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Innovator",
+      "description": "Drawing from Olivia’s willingness to experiment with genres, your future is about pushing creative boundaries. You’ll blend pop with indie, folk, and electronic sounds, creating a unique style that sets you apart. You’ll release experimental tracks, collaborate with underground artists, and be known for your fearless approach to creativity. You’re an INTP—curious, logical, and a master of connecting unexpected ideas.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Crafted Storyteller",
+      "description": "Like Olivia’s ability to turn personal stories into relatable tracks, your future is about creating narrative-driven music that feels like a movie. You’ll write songs with clear beginning, middle, and end, making listeners feel like they’re living the story with you. You’ll tour small theaters, gain a reputation for your immersive live shows, and be loved for your ability to make every lyric feel like a scene from a film. You’re an ISFJ—practical, empathetic, and a master of detail-oriented storytelling.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Quiet Influencer",
+      "description": "Channeling Olivia’s understated impact on young creators, your future is about inspiring others through quiet consistency. You’ll release music on your own terms, build a loyal fanbase through social media, and mentor emerging artists behind the scenes. You’re known for your humility and authenticity, and your impact will be felt in the countless creators you encourage to pursue their dreams. You’re an ISTJ—reliable, responsible, and a master of steady, sustainable growth.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Spontaneous Creator",
+      "description": "Like Olivia’s ability to write a hit song in a day, your future is filled with spontaneous, unfiltered creativity. You’ll write tracks on the go, record demos in your car, and release music quickly to capture the raw emotion of the moment. You’ll gain a reputation for your unpredictability and be loved by fans for your ability to make music that feels fresh and exciting. You’re an ISFP—independent, creative, and a master of living in the moment.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Technical Virtuoso",
+      "description": "Drawing from Olivia’s focus on production quality, your future is about mastering the technical side of music creation. You’ll become a top-tier producer, known for your ability to create crisp, dynamic tracks that sound perfect on any speaker. You’ll work with major labels, teach production workshops, and be sought after for your expertise in mixing and mastering. You’re an ISTP—practical, logical, and a master of hands-on problem-solving.",
+      "mbti": "ISTP"
+    }
+  ]
+}
