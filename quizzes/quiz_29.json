@@ -1,5 +1,5 @@
 {
-  "quizId": 6,
+  "quizId": 29,
   "title": "Which BLACKPINK Member Are You?",
   "category": "type",
   "tags": [
@@ -102,11 +102,11 @@
       "text": "You feel most confident when...",
       "options": [
         {
-          "text": "You’re performing or showing your skills",
+          "text": "You're performing or showing your skills",
           "score": "E"
         },
         {
-          "text": "You’re alone doing what you love",
+          "text": "You're alone doing what you love",
           "score": "I"
         },
         {
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "text": "You’re naturally good at...",
+      "text": "You're naturally good at...",
       "options": [
         {
           "text": "Entertaining people around you",
@@ -312,19 +312,19 @@
       "text": "You feel stressed when...",
       "options": [
         {
-          "text": "There’s too much chaos",
+          "text": "There's too much chaos",
           "score": "J"
         },
         {
-          "text": "You’re stuck in a routine",
+          "text": "You're stuck in a routine",
           "score": "P"
         },
         {
-          "text":You hurt someone without meaning to",
+          "text": "You hurt'someone without meaning to",
           "score": "F"
         },
         {
-          "text":Things don’t make sense",
+          "text": "Things don't make sense",
           "score": "T"
         }
       ]
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "text": "When you’re tired, you...",
+      "text": "When you're tired, you...",
       "options": [
         {
           "text": "Still keep a smile for others",
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "text": "You’re most proud of your...",
+      "text": "You're most proud of your...",
       "options": [
         {
           "text": "Skills and talent",
@@ -480,19 +480,19 @@
       "text": "You feel most like yourself when...",
       "options": [
         {
-          "text": "You’re dressed nicely",
+          "text": "You're dressed nicely",
           "score": "S"
         },
         {
-          "text": "You’re being creative",
+          "text": "You're being creative",
           "score": "N"
         },
         {
-          "text": "You’re honest and open",
+          "text": "You're honest and open",
           "score": "F"
         },
         {
-          "text": "You’re calm and focused",
+          "text": "You're calm and focused",
           "score": "T"
         }
       ]
@@ -551,7 +551,7 @@
           "score": "I"
         },
         {
-          "text": "Make sure it’s useful",
+          "text": "Make sure it's useful",
           "score": "S"
         },
         {
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "text": "When you’re happy, you...",
+      "text": "When you're happy, you...",
       "options": [
         {
           "text": "Show it openly",
@@ -698,11 +698,11 @@
           "score": "P"
         },
         {
-          "text": "You’re with people you trust",
+          "text": "You're with people you trust",
           "score": "F"
         },
         {
-          "text": "You know what’s going on",
+          "text": "You know what's going on",
           "score": "T"
         }
       ]
@@ -774,82 +774,82 @@
   "results": [
     {
       "title": "You are Jisoo",
-      "description": "You’re elegant, calm, loyal, and wise. You have a quiet confidence, a warm heart, and a fun hidden side. You’re steady, reliable, and loved by everyone.",
+      "description": "You're elegant, calm, loyal, and wise. You have a quiet confidence, a warm heart, and a fun hidden side. You're steady, reliable, and loved by everyone.",
       "mbti": "ISTJ"
     },
     {
       "title": "You are Jennie",
-      "description": "You’re charismatic, chic, and multi-talented. You have a cool exterior but a soft, caring inside. You’re bold, stylish, and naturally stand out.",
+      "description": "You're charismatic, chic, and multi-talented. You have a cool exterior but a soft, caring inside. You're bold, stylish, and naturally stand out.",
       "mbti": "ESTJ"
     },
     {
       "title": "You are Rosé",
-      "description": "You’re sweet, emotional, creative, and deeply kind. You have a beautiful soul, follow your heart, and care deeply about the people you love.",
+      "description": "You're sweet, emotional, creative, and deeply kind. You have a beautiful soul, follow your heart, and care deeply about the people you love.",
       "mbti": "ISFJ"
     },
     {
       "title": "You are Lisa",
-      "description": "You’re energetic, fun, talented, and free-spirited. You’re confident, unique, and bring joy everywhere you go. You’re bold and unapologetically you.",
+      "description": "You're energetic, fun, talented, and free-spirited. You're confident, unique, and bring joy everywhere you go. You're bold and unapologetically you.",
       "mbti": "ESFP"
     },
     {
       "title": "You are a mix of Jisoo & Jennie",
-      "description": "You have the elegance of Jisoo and the charisma of Jennie. You’re balanced, confident, and naturally leadership.",
+      "description": "You have the elegance of Jisoo and the charisma of Jennie. You're balanced, confident, and naturally leadership.",
       "mbti": "ISTP"
     },
     {
       "title": "You are a mix of Jisoo & Rosé",
-      "description": "You’re calm, kind, gentle, and deeply loyal. You have a warm heart and a peaceful vibe that makes people feel safe.",
+      "description": "You're calm, kind, gentle, and deeply loyal. You have a warm heart and a peaceful vibe that makes people feel safe.",
       "mbti": "ISFP"
     },
     {
       "title": "You are a mix of Jisoo & Lisa",
-      "description": "You’re chill but fun, quiet but confident. You have a great sense of humor and a cool, easygoing personality.",
+      "description": "You're chill but fun, quiet but confident. You have a great sense of humor and a cool, easygoing personality.",
       "mbti": "ESFJ"
     },
     {
       "title": "You are a mix of Jennie & Rosé",
-      "description": "You’re stylish and sensitive, chic and sweet. You have a strong presence but a very soft, caring heart.",
+      "description": "You're stylish and sensitive, chic and sweet. You have a strong presence but a very soft, caring heart.",
       "mbti": "ENFJ"
     },
     {
       "title": "You are a mix of Jennie & Lisa",
-      "description": "You’re bold, confident, energetic, and unforgettable. You have stage presence and love expressing yourself freely.",
+      "description": "You're bold, confident, energetic, and unforgettable. You have stage presence and love expressing yourself freely.",
       "mbti": "ENTP"
     },
     {
       "title": "You are a mix of Rosé & Lisa",
-      "description": "You’re creative, fun, emotional, and free. You follow your heart, love deeply, and live life with passion.",
+      "description": "You're creative, fun, emotional, and free. You follow your heart, love deeply, and live life with passion.",
       "mbti": "ENFP"
     },
     {
-      "title": "You have Jisoo’s energy",
-      "description": "You’re the calm, reliable, and wise friend everyone needs. You keep things steady and make people feel at home.",
+      "title": "You have Jisoo's energy",
+      "description": "You're the calm, reliable, and wise friend everyone needs. You keep things steady and make people feel at home.",
       "mbti": "INFJ"
     },
     {
-      "title": "You have Jennie’s energy",
-      "description": "You’re a natural star with style and attitude. You’re strong, smart, and know how to take care of yourself and others.",
+      "title": "You have Jennie's energy",
+      "description": "You're a natural star with style and attitude. You're strong, smart, and know how to take care of yourself and others.",
       "mbti": "INTJ"
     },
     {
-      "title": "You have Rosé’s energy",
-      "description": "You’re a soft soul with a big heart. You feel deeply, love deeply, and see beauty in small things.",
+      "title": "You have Rosé's energy",
+      "description": "You're a soft soul with a big heart. You feel deeply, love deeply, and see beauty in small things.",
       "mbti": "INFP"
     },
     {
-      "title": "You have Lisa’s energy",
-      "description": "You’re a ball of sunshine with amazing energy. You make life fun, exciting, and full of joy.",
+      "title": "You have Lisa's energy",
+      "description": "You're a ball of sunshine with amazing energy. You make life fun, exciting, and full of joy.",
       "mbti": "ESFJ"
     },
     {
-      "title": "You’re a BLACKPINK all-rounder",
+      "title": "You're a BLACKPINK all-rounder",
       "description": "You have a little bit of every member: the elegance of Jisoo, the charisma of Jennie, the heart of Rosé, and the energy of Lisa.",
       "mbti": "ENFJ"
     },
     {
-      "title": "You’re your own BLACKPINK type",
-      "description": "You’re unique, special, and one of a kind. You don’t need to be anyone else — you’re perfect just as you are.",
+      "title": "You're your own BLACKPINK type",
+      "description": "You're unique, special, and one of a kind. You don't need to be anyone else — you're perfect just as you are.",
       "mbti": "INTP"
     }
   ]

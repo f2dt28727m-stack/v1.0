@@ -1,0 +1,856 @@
+{
+  "quizId": 6,
+  "title": "Which BLACKPINK Member Are You?",
+  "category": "type",
+  "tags": [
+    "Blackpink",
+    "Kpop",
+    "Personality",
+    "Quiz",
+    "Jennie",
+    "Lisa",
+    "Jisoo",
+    "Rosé"
+  ],
+  "description": "Answer 12 questions to find out which BLACKPINK member you are!",
+  "questions": [
+    {
+      "text": "How do you usually act in a big group?",
+      "options": [
+        {
+          "text": "Stay chill but notice everything",
+          "score": "I"
+        },
+        {
+          "text": "Lead the vibe and keep it fun",
+          "score": "E"
+        },
+        {
+          "text": "Focus on looking polished and calm",
+          "score": "S"
+        },
+        {
+          "text": "Express your mood freely",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a quick decision, you trust...",
+      "options": [
+        {
+          "text": "Your heart and feelings",
+          "score": "F"
+        },
+        {
+          "text": "Logic and what makes sense",
+          "score": "T"
+        },
+        {
+          "text": "A clear plan you already have",
+          "score": "J"
+        },
+        {
+          "text": "Whatever feels right in the moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your fashion style is mostly...",
+      "options": [
+        {
+          "text": "Trendy and eye-catching",
+          "score": "E"
+        },
+        {
+          "text": "Elegant and timeless",
+          "score": "I"
+        },
+        {
+          "text": "Unique and creative",
+          "score": "N"
+        },
+        {
+          "text": "Simple and comfortable",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When someone upsets you, you...",
+      "options": [
+        {
+          "text": "Stay calm and handle it maturely",
+          "score": "J"
+        },
+        {
+          "text": "Let it go and move on fast",
+          "score": "P"
+        },
+        {
+          "text": "Be honest but gentle",
+          "score": "F"
+        },
+        {
+          "text": "Speak up clearly and directly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You feel most confident when...",
+      "options": [
+        {
+          "text": "You're performing or showing your skills",
+          "score": "E"
+        },
+        {
+          "text": "You're alone doing what you love",
+          "score": "I"
+        },
+        {
+          "text": "Everything is well organized",
+          "score": "J"
+        },
+        {
+          "text": "You can be free and creative",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your friends would describe you as...",
+      "options": [
+        {
+          "text": "Cool and charismatic",
+          "score": "S"
+        },
+        {
+          "text": "Sweet and emotional",
+          "score": "F"
+        },
+        {
+          "text": "Smart and straightforward",
+          "score": "T"
+        },
+        {
+          "text": "Dreamy and sensitive",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to spend your day off?",
+      "options": [
+        {
+          "text": "Go out and enjoy life",
+          "score": "E"
+        },
+        {
+          "text": "Rest quietly at home",
+          "score": "I"
+        },
+        {
+          "text": "Be productive and get things done",
+          "score": "J"
+        },
+        {
+          "text": "Do whatever you feel like",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When working on a goal, you...",
+      "options": [
+        {
+          "text": "Plan step by step and stick to it",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow and adapt",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the details and quality",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the big picture",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're naturally good at...",
+      "options": [
+        {
+          "text": "Entertaining people around you",
+          "score": "E"
+        },
+        {
+          "text": "Listening and understanding others",
+          "score": "I"
+        },
+        {
+          "text": "Staying calm under pressure",
+          "score": "T"
+        },
+        {
+          "text": "Expressing your true feelings",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal vacation is...",
+      "options": [
+        {
+          "text": "Exciting and full of new experiences",
+          "score": "E"
+        },
+        {
+          "text": "Peaceful and relaxing",
+          "score": "I"
+        },
+        {
+          "text": "Well planned and perfect",
+          "score": "J"
+        },
+        {
+          "text": "Free and spontaneous",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When taking a photo, you...",
+      "options": [
+        {
+          "text": "Pose naturally and confidently",
+          "score": "S"
+        },
+        {
+          "text": "Go for unique and artistic shots",
+          "score": "N"
+        },
+        {
+          "text": "Smile warmly and softly",
+          "score": "F"
+        },
+        {
+          "text": "Keep it cool and chic",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You hate it when things are...",
+      "options": [
+        {
+          "text": "Messy and unplanned",
+          "score": "J"
+        },
+        {
+          "text": "Too strict and boring",
+          "score": "P"
+        },
+        {
+          "text": "Fake or not genuine",
+          "score": "F"
+        },
+        {
+          "text": "Illogical and confusing",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you...",
+      "options": [
+        {
+          "text": "Take charge and lead",
+          "score": "E"
+        },
+        {
+          "text": "Support quietly and do your part",
+          "score": "I"
+        },
+        {
+          "text": "Make sure everything is done well",
+          "score": "S"
+        },
+        {
+          "text": "Bring creative ideas",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your way of showing love is...",
+      "options": [
+        {
+          "text": "Being playful and fun",
+          "score": "E"
+        },
+        {
+          "text": "Being gentle and loyal",
+          "score": "I"
+        },
+        {
+          "text": "Being honest and reliable",
+          "score": "T"
+        },
+        {
+          "text": "Being sweet and affectionate",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You feel stressed when...",
+      "options": [
+        {
+          "text": "There's too much chaos",
+          "score": "J"
+        },
+        {
+          "text": "You're stuck in a routine",
+          "score": "P"
+        },
+        {
+          "text": "You hurt'someone without meaning to",
+          "score": "F"
+        },
+        {
+          "text": "Things don't make sense",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite type of music is...",
+      "options": [
+        {
+          "text": "Powerful and energetic",
+          "score": "E"
+        },
+        {
+          "text": "Soft and emotional",
+          "score": "I"
+        },
+        {
+          "text": "Catchy and stylish",
+          "score": "S"
+        },
+        {
+          "text": "Deep and meaningful",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you're tired, you...",
+      "options": [
+        {
+          "text": "Still keep a smile for others",
+          "score": "E"
+        },
+        {
+          "text": "Quietly recharge by yourself",
+          "score": "I"
+        },
+        {
+          "text": "Stick to your routine anyway",
+          "score": "J"
+        },
+        {
+          "text": "Take a break without guilt",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You're most proud of your...",
+      "options": [
+        {
+          "text": "Skills and talent",
+          "score": "S"
+        },
+        {
+          "text": "Creativity and vision",
+          "score": "N"
+        },
+        {
+          "text": "Kindness and heart",
+          "score": "F"
+        },
+        {
+          "text": "Strength and mindset",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you deal with change?",
+      "options": [
+        {
+          "text": "Get excited for new beginnings",
+          "score": "E"
+        },
+        {
+          "text": "Take time to adjust slowly",
+          "score": "I"
+        },
+        {
+          "text": "Plan and prepare carefully",
+          "score": "J"
+        },
+        {
+          "text": "Roll with it easily",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You value people who are...",
+      "options": [
+        {
+          "text": "Fun and energetic",
+          "score": "E"
+        },
+        {
+          "text": "Calm and loyal",
+          "score": "I"
+        },
+        {
+          "text": "Honest and real",
+          "score": "T"
+        },
+        {
+          "text": "Kind and sensitive",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your perfect night is...",
+      "options": [
+        {
+          "text": "Going out with friends",
+          "score": "E"
+        },
+        {
+          "text": "A quiet night in",
+          "score": "I"
+        },
+        {
+          "text": "Doing something you love",
+          "score": "S"
+        },
+        {
+          "text": "Dreaming and creating",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you have a problem, you...",
+      "options": [
+        {
+          "text": "Talk it out with someone",
+          "score": "E"
+        },
+        {
+          "text": "Think it through alone",
+          "score": "I"
+        },
+        {
+          "text": "Solve it step by step",
+          "score": "J"
+        },
+        {
+          "text": "Wait and see how it goes",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You feel most like yourself when...",
+      "options": [
+        {
+          "text": "You're dressed nicely",
+          "score": "S"
+        },
+        {
+          "text": "You're being creative",
+          "score": "N"
+        },
+        {
+          "text": "You're honest and open",
+          "score": "F"
+        },
+        {
+          "text": "You're calm and focused",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your biggest strength is...",
+      "options": [
+        {
+          "text": "Confidence",
+          "score": "E"
+        },
+        {
+          "text": "Patience",
+          "score": "I"
+        },
+        {
+          "text": "Determination",
+          "score": "J"
+        },
+        {
+          "text": "Openness",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You prefer feedback that is...",
+      "options": [
+        {
+          "text": "Direct and honest",
+          "score": "T"
+        },
+        {
+          "text": "Gentle and kind",
+          "score": "F"
+        },
+        {
+          "text": "Specific and useful",
+          "score": "S"
+        },
+        {
+          "text": "Encouraging and hopeful",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a gift, you...",
+      "options": [
+        {
+          "text": "Pick something fun and trendy",
+          "score": "E"
+        },
+        {
+          "text": "Pick something thoughtful",
+          "score": "I"
+        },
+        {
+          "text": "Make sure it's useful",
+          "score": "S"
+        },
+        {
+          "text": "Pick something meaningful",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You get annoyed by people who...",
+      "options": [
+        {
+          "text": "Are too loud or messy",
+          "score": "J"
+        },
+        {
+          "text": "Are too controlling",
+          "score": "P"
+        },
+        {
+          "text": "Are fake or insincere",
+          "score": "F"
+        },
+        {
+          "text": "Are illogical or lazy",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your life motto is close to...",
+      "options": [
+        {
+          "text": "Stay true to yourself",
+          "score": "E"
+        },
+        {
+          "text": "Stay kind and calm",
+          "score": "I"
+        },
+        {
+          "text": "Work hard, stay humble",
+          "score": "S"
+        },
+        {
+          "text": "Follow your heart",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "In social media, you are...",
+      "options": [
+        {
+          "text": "Active and fun",
+          "score": "E"
+        },
+        {
+          "text": "Private and careful",
+          "score": "I"
+        },
+        {
+          "text": "Stylish and clean",
+          "score": "S"
+        },
+        {
+          "text": "Artistic and personal",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you're happy, you...",
+      "options": [
+        {
+          "text": "Show it openly",
+          "score": "E"
+        },
+        {
+          "text": "Feel it quietly",
+          "score": "I"
+        },
+        {
+          "text": "Stay calm but happy",
+          "score": "T"
+        },
+        {
+          "text": "Get really emotional",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You learn best by...",
+      "options": [
+        {
+          "text": "Doing and practicing",
+          "score": "S"
+        },
+        {
+          "text": "Imagining and creating",
+          "score": "N"
+        },
+        {
+          "text": "Following a clear plan",
+          "score": "J"
+        },
+        {
+          "text": "Going at your own pace",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your deepest wish is...",
+      "options": [
+        {
+          "text": "To be successful and loved",
+          "score": "E"
+        },
+        {
+          "text": "To have peace and happiness",
+          "score": "I"
+        },
+        {
+          "text": "To grow and improve always",
+          "score": "T"
+        },
+        {
+          "text": "To love and be loved deeply",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You feel safe when...",
+      "options": [
+        {
+          "text": "Things are organized",
+          "score": "J"
+        },
+        {
+          "text": "Things are free and easy",
+          "score": "P"
+        },
+        {
+          "text": "You're with people you trust",
+          "score": "F"
+        },
+        {
+          "text": "You know what's going on",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your energy comes from...",
+      "options": [
+        {
+          "text": "Being around people",
+          "score": "E"
+        },
+        {
+          "text": "Being alone with yourself",
+          "score": "I"
+        },
+        {
+          "text": "Achieving small goals",
+          "score": "S"
+        },
+        {
+          "text": "Dreaming big dreams",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "At the end of the day, you just want...",
+      "options": [
+        {
+          "text": "To be happy and free",
+          "score": "P"
+        },
+        {
+          "text": "To be steady and secure",
+          "score": "J"
+        },
+        {
+          "text": "To be real and honest",
+          "score": "T"
+        },
+        {
+          "text": "To be loved and understood",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your true color is...",
+      "options": [
+        {
+          "text": "Bold and bright",
+          "score": "E"
+        },
+        {
+          "text": "Soft and warm",
+          "score": "I"
+        },
+        {
+          "text": "Unique and you",
+          "score": "N"
+        },
+        {
+          "text": "Classic and cool",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "You are Jisoo",
+      "description": "You're elegant, calm, loyal, and wise. You have a quiet confidence, a warm heart, and a fun hidden side. You're steady, reliable, and loved by everyone.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "You are Jennie",
+      "description": "You're charismatic, chic, and multi-talented. You have a cool exterior but a soft, caring inside. You're bold, stylish, and naturally stand out.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "You are Rosé",
+      "description": "You're sweet, emotional, creative, and deeply kind. You have a beautiful soul, follow your heart, and care deeply about the people you love.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "You are Lisa",
+      "description": "You're energetic, fun, talented, and free-spirited. You're confident, unique, and bring joy everywhere you go. You're bold and unapologetically you.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "You are a mix of Jisoo & Jennie",
+      "description": "You have the elegance of Jisoo and the charisma of Jennie. You're balanced, confident, and naturally leadership.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "You are a mix of Jisoo & Rosé",
+      "description": "You're calm, kind, gentle, and deeply loyal. You have a warm heart and a peaceful vibe that makes people feel safe.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "You are a mix of Jisoo & Lisa",
+      "description": "You're chill but fun, quiet but confident. You have a great sense of humor and a cool, easygoing personality.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "You are a mix of Jennie & Rosé",
+      "description": "You're stylish and sensitive, chic and sweet. You have a strong presence but a very soft, caring heart.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "You are a mix of Jennie & Lisa",
+      "description": "You're bold, confident, energetic, and unforgettable. You have stage presence and love expressing yourself freely.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "You are a mix of Rosé & Lisa",
+      "description": "You're creative, fun, emotional, and free. You follow your heart, love deeply, and live life with passion.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "You have Jisoo's energy",
+      "description": "You're the calm, reliable, and wise friend everyone needs. You keep things steady and make people feel at home.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "You have Jennie's energy",
+      "description": "You're a natural star with style and attitude. You're strong, smart, and know how to take care of yourself and others.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "You have Rosé's energy",
+      "description": "You're a soft soul with a big heart. You feel deeply, love deeply, and see beauty in small things.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "You have Lisa's energy",
+      "description": "You're a ball of sunshine with amazing energy. You make life fun, exciting, and full of joy.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "You're a BLACKPINK all-rounder",
+      "description": "You have a little bit of every member: the elegance of Jisoo, the charisma of Jennie, the heart of Rosé, and the energy of Lisa.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "You're your own BLACKPINK type",
+      "description": "You're unique, special, and one of a kind. You don't need to be anyone else — you're perfect just as you are.",
+      "mbti": "INTP"
+    }
+  ]
+}
