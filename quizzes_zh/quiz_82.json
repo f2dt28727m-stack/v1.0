@@ -1,33 +1,31 @@
 {
-  "quizId": 31,
-  "title": "Your Life Philosophy: Pick One Edition",
+  "quizId": 82,
+  "title": "你的生活哲学：二选一终极测试",
   "category": "pick_one",
-  "category_name": "Pick One / Choose",
-  "language": "English",
-  "description": "Life is full of choices! Answer 15 pick-one questions to discover your core life philosophy and what truly defines you.",
+  "category_name": "二选一",
+  "language": "Chinese",
+  "description": "生活充满选择！回答15道二选一问题，发现你的核心生活哲学和真正的自我。",
   "tags": [
-    "Personality",
-    "Philosophy",
-    "Lifestyle",
-    "Choice",
-    "Life",
-    "人生",
+    "人格",
     "哲学",
-    "选择"
+    "生活方式",
+    "选择",
+    "人生",
+    "性格"
   ],
   "questions": [
     {
       "qId": 1,
-      "text": "Pick one: A relaxing beach vacation or an adventurous mountain trek?",
+      "text": "二选一：放松的海滩度假还是刺激的山间徒步？",
       "options": [
         {
-          "text": "Relaxing beach vacation",
+          "text": "放松的海滩度假",
           "score": {
             "beach": 1
           }
         },
         {
-          "text": "Adventurous mountain trek",
+          "text": "刺激的山间徒步",
           "score": {
             "mountain": 1
           }
@@ -36,16 +34,16 @@
     },
     {
       "qId": 2,
-      "text": "Pick one: Having unlimited money or unlimited time?",
+      "text": "二选一：拥有无限金钱还是无限时间？",
       "options": [
         {
-          "text": "Unlimited money",
+          "text": "无限金钱",
           "score": {
             "money": 1
           }
         },
         {
-          "text": "Unlimited time",
+          "text": "无限时间",
           "score": {
             "time": 1
           }
@@ -54,16 +52,16 @@
     },
     {
       "qId": 3,
-      "text": "Pick one: Living in a busy city or a quiet countryside?",
+      "text": "二选一：生活在繁忙的都市还是宁静的乡村？",
       "options": [
         {
-          "text": "Busy city",
+          "text": "繁忙的都市",
           "score": {
             "city": 1
           }
         },
         {
-          "text": "Quiet countryside",
+          "text": "宁静的乡村",
           "score": {
             "countryside": 1
           }
@@ -72,16 +70,16 @@
     },
     {
       "qId": 4,
-      "text": "Pick one: Being famous or being invisible?",
+      "text": "二选一：成名还是隐形？",
       "options": [
         {
-          "text": "Being famous",
+          "text": "成名",
           "score": {
             "famous": 1
           }
         },
         {
-          "text": "Being invisible",
+          "text": "隐形",
           "score": {
             "invisible": 1
           }
@@ -90,16 +88,16 @@
     },
     {
       "qId": 5,
-      "text": "Pick one: Knowing everything or feeling everything?",
+      "text": "二选一：知晓一切还是感受一切？",
       "options": [
         {
-          "text": "Knowing everything",
+          "text": "知晓一切",
           "score": {
             "intellect": 1
           }
         },
         {
-          "text": "Feeling everything",
+          "text": "感受一切",
           "score": {
             "emotion": 1
           }
@@ -108,16 +106,16 @@
     },
     {
       "qId": 6,
-      "text": "Pick one: Having a rewind button or a fast-forward button for your life?",
+      "text": "二选一：人生有后退键还是快进键？",
       "options": [
         {
-          "text": "Rewind button",
+          "text": "后退键",
           "score": {
             "past": 1
           }
         },
         {
-          "text": "Fast-forward button",
+          "text": "快进键",
           "score": {
             "future": 1
           }
@@ -126,16 +124,16 @@
     },
     {
       "qId": 7,
-      "text": "Pick one: Being the smartest person or the happiest person?",
+      "text": "二选一：成为最聪明的人还是最快乐的人？",
       "options": [
         {
-          "text": "Smartest person",
+          "text": "最聪明的人",
           "score": {
             "smart": 1
           }
         },
         {
-          "text": "Happiest person",
+          "text": "最快乐的人",
           "score": {
             "happy": 1
           }
@@ -144,16 +142,16 @@
     },
     {
       "qId": 8,
-      "text": "Pick one: Saving the world or finding true love?",
+      "text": "二选一：拯救世界还是找到真爱？",
       "options": [
         {
-          "text": "Saving the world",
+          "text": "拯救世界",
           "score": {
             "hero": 1
           }
         },
         {
-          "text": "Finding true love",
+          "text": "找到真爱",
           "score": {
             "love": 1
           }
@@ -162,16 +160,16 @@
     },
     {
       "qId": 9,
-      "text": "Pick one: Always telling the truth or always being kind?",
+      "text": "二选一：永远说真话还是永远善良？",
       "options": [
         {
-          "text": "Always telling the truth",
+          "text": "永远说真话",
           "score": {
             "truth": 1
           }
         },
         {
-          "text": "Always being kind",
+          "text": "永远善良",
           "score": {
             "kindness": 1
           }
@@ -180,16 +178,16 @@
     },
     {
       "qId": 10,
-      "text": "Pick one: Living 100 years in the past or 100 years in the future?",
+      "text": "二选一：活在100年前还是100年后？",
       "options": [
         {
-          "text": "100 years in the past",
+          "text": "100年前",
           "score": {
             "past": 1
           }
         },
         {
-          "text": "100 years in the future",
+          "text": "100年后",
           "score": {
             "future": 1
           }
@@ -198,16 +196,16 @@
     },
     {
       "qId": 11,
-      "text": "Pick one: Having no phone or no car for a year?",
+      "text": "二选一：一年没手机还是没车？",
       "options": [
         {
-          "text": "No phone",
+          "text": "没手机",
           "score": {
             "nophone": 1
           }
         },
         {
-          "text": "No car",
+          "text": "没车",
           "score": {
             "nocar": 1
           }
@@ -216,16 +214,16 @@
     },
     {
       "qId": 12,
-      "text": "Pick one: Being able to fly or being invisible?",
+      "text": "二选一：会飞还是隐身？",
       "options": [
         {
-          "text": "Being able to fly",
+          "text": "会飞",
           "score": {
             "fly": 1
           }
         },
         {
-          "text": "Being invisible",
+          "text": "隐身",
           "score": {
             "invisible": 1
           }
@@ -234,16 +232,16 @@
     },
     {
       "qId": 13,
-      "text": "Pick one: Dinner at a fancy restaurant or cooking together at home?",
+      "text": "二选一：高级餐厅晚餐还是在家一起做饭？",
       "options": [
         {
-          "text": "Fancy restaurant",
+          "text": "高级餐厅晚餐",
           "score": {
             "fancy": 1
           }
         },
         {
-          "text": "Cooking at home",
+          "text": "在家一起做饭",
           "score": {
             "home": 1
           }
@@ -252,16 +250,16 @@
     },
     {
       "qId": 14,
-      "text": "Pick one: Always being late or always waiting for others?",
+      "text": "二选一：总是迟到还是总是等别人？",
       "options": [
         {
-          "text": "Always being late",
+          "text": "总是迟到",
           "score": {
             "late": 1
           }
         },
         {
-          "text": "Waiting for others",
+          "text": "总是等别人",
           "score": {
             "waiting": 1
           }
@@ -270,16 +268,16 @@
     },
     {
       "qId": 15,
-      "text": "Pick one: Having a perfect memory or having no pain?",
+      "text": "二选一：完美记忆还是没有痛苦？",
       "options": [
         {
-          "text": "Perfect memory",
+          "text": "完美记忆",
           "score": {
             "memory": 1
           }
         },
         {
-          "text": "No pain",
+          "text": "没有痛苦",
           "score": {
             "nopain": 1
           }
@@ -289,8 +287,8 @@
   ],
   "results": [
     {
-      "title": "The Adventurous Freedom Seeker",
-      "description": "You crave freedom and new experiences! Mountains, adventures, and the open road call your name. You believe life is meant to be lived fully, and you're not afraid to take risks. Your philosophy: Adventure awaits!",
+      "title": "冒险自由追求者",
+      "description": "你渴望自由和新体验！山脉、冒险和开放的道路在呼唤你。你相信生活应该充分绽放，不惧风险。你的哲学：冒险就在前方！",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
@@ -311,8 +309,8 @@
       ]
     },
     {
-      "title": "The Peaceful Harmony Lover",
-      "description": "You value peace, tranquility, and inner calm. The beach, countryside, and gentle moments bring you joy. You believe happiness comes from within and from meaningful connections. Your philosophy: Inner peace is true wealth.",
+      "title": "宁静和谐爱好者",
+      "description": "你重视平静、内心的宁静。海滩、乡村和温柔的时光带给你快乐。你相信幸福来自内心和有意义的连接。你的哲学：内心平静是真正的财富。",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
@@ -333,8 +331,8 @@
       ]
     },
     {
-      "title": "The Ambitious Achiever",
-      "description": "You're driven by success, recognition, and making an impact! The city life, fame, and achievements fuel your fire. You believe in pushing boundaries and leaving your mark on the world. Your philosophy: Dream big, achieve bigger.",
+      "title": "雄心勃勃的成就者",
+      "description": "你被成功、认可和影响力所驱动！都市生活、名誉和成就激励着你。你相信突破界限，在世界上留下你的印记。你的哲学：梦想大，成就更大。",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
@@ -360,8 +358,8 @@
       ]
     },
     {
-      "title": "The Deep Thinker",
-      "description": "You ponder life's biggest questions and seek understanding above all. Knowledge, truth, and wisdom are your guiding stars. You believe the mind is the greatest asset. Your philosophy: Understand the world, understand yourself.",
+      "title": "深度思考者",
+      "description": "你思考人生最大的问题，追求理解高于一切。知识、真理和智慧是你的北极星。你相信心智是最大的财富。你的哲学：理解世界，理解自己。",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
@@ -382,8 +380,8 @@
       ]
     },
     {
-      "title": "The Passionate Soul",
-      "description": "You lead with your heart! Love, emotion, and deep connections define your worldview. You believe feelings make life meaningful and that vulnerability is strength. Your philosophy: Love deeply, live passionately.",
+      "title": "热情的的灵魂",
+      "description": "你用心主导！爱情、情感和深度连接定义你的世界观。你相信感受让生命有意义，脆弱是力量。你的哲学：深爱，热烈地活。",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
@@ -404,8 +402,8 @@
       ]
     },
     {
-      "title": "The Compassionate Guardian",
-      "description": "Kindness and compassion are your superpowers! You believe in making the world a better place and helping others. Your philosophy: Be the kindness you want to see in the world.",
+      "title": "富有同情心的守护者",
+      "description": "善良和同情是你的超能力！你相信让世界变得更美好，帮助他人。你的哲学：做你想在世界上看到的善良。",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
@@ -426,8 +424,8 @@
       ]
     },
     {
-      "title": "The Balanced Realist",
-      "description": "You walk the middle path! You appreciate both adventure and rest, city and nature, work and play. You believe in balance and living in the moment. Your philosophy: Life is about finding harmony.",
+      "title": "平衡的现实主义者",
+      "description": "你走中间路线！欣赏冒险与休息、都市与自然、工作与玩耍的平衡。你相信平衡和活在当下。你的哲学：生活在于找到和谐。",
       "image": "https://pic.quizypop.com/2022/12/08/167s1701064481.png",
       "conditions": [
         {
