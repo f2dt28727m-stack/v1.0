@@ -1,0 +1,302 @@
+{
+  "quizId": 57,
+  "title": "Which Dream Destination Is Your Soulmate?",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "English",
+  "description": "Just like finding your perfect romantic match, every traveler has a dream destination that's their soulmate. Answer these questions to discover which place in the world calls to your spirit!",
+  "tags": ["Travel", "Destination", "Soulmate", "Adventure", "Vacation", "Wanderlust", "旅行", "灵魂伴侣"],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "What's your ideal way to start a perfect morning?",
+      "options": [
+        {
+          "text": "Watching the sunrise from a mountain peak",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 1, "desert": 2}
+        },
+        {
+          "text": "Slowly waking up with coffee at a cozy café",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 2, "desert": 0}
+        },
+        {
+          "text": "Walking barefoot on warm sand while waves crash",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Stepping onto a balcony with fresh country air",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Which activity makes you feel most alive?",
+      "options": [
+        {
+          "text": "Hiking through ancient trails and discovering hidden gems",
+          "score": {"mountain": 3, "beach": 0, "city": 1, "countryside": 1, "desert": 2}
+        },
+        {
+          "text": "Getting lost in bustling markets and street food scenes",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Snorkeling in crystal clear waters",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Stargazing in vast silence under the open sky",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 2, "desert": 3}
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "What kind of accommodation do you dream about?",
+      "options": [
+        {
+          "text": "A cozy cabin surrounded by pine trees",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "A boutique hotel in the heart of downtown",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 0, "desert": 0}
+        },
+        {
+          "text": "A beachfront bungalow with hammocks",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "A traditional farmhouse with a vegetable garden",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "If you could learn one skill on vacation, what would it be?",
+      "options": [
+        {
+          "text": "Rock climbing or mountaineering",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Cooking authentic local cuisine",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 2, "desert": 0}
+        },
+        {
+          "text": "Scuba diving or surfing",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Horseback riding or farming",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 3, "desert": 0}
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "What's your perfect dinner scene?",
+      "options": [
+        {
+          "text": "A campfire meal with mountain views",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 1, "desert": 1}
+        },
+        {
+          "text": "Rooftop restaurant with city skyline",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 0, "desert": 0}
+        },
+        {
+          "text": "Fresh seafood by the ocean",
+          "score": {"mountain": 0, "beach": 3, "city": 1, "countryside": 0, "desert": 0}
+        },
+        {
+          "text": "Home-cooked meal at a family farm",
+          "score": {"mountain": 0, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Which weather do you prefer?",
+      "options": [
+        {
+          "text": "Crisp, cool mountain air",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "The energy of a vibrant city in any weather",
+          "score": {"mountain": 0, "beach": 0, "city": 3, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Warm sunshine and gentle sea breeze",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Four distinct seasons changing beautifully",
+          "score": {"mountain": 1, "beach": 0, "city": 1, "countryside": 3, "desert": 0}
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "What excites you most about travel?",
+      "options": [
+        {
+          "text": "Conquering challenges and reaching new heights",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 0, "desert": 2}
+        },
+        {
+          "text": "Experiencing different cultures and histories",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 1, "desert": 1}
+        },
+        {
+          "text": "Relaxing and recharging by the water",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Connecting with nature and simple living",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Pick your ideal souvenir:",
+      "options": [
+        {
+          "text": "A geode or crystal from mountain caves",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Handcrafted artwork from local artisans",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Seashells and coral from the beach",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Organic jam or honey from farm visits",
+          "score": {"mountain": 0, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How do you want to feel on vacation?",
+      "options": [
+        {
+          "text": "Awed and humbled by nature's grandeur",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 1, "desert": 1}
+        },
+        {
+          "text": "Inspired by urban energy and creativity",
+          "score": {"mountain": 0, "beach": 0, "city": 3, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "Peaceful and completely relaxed",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 2, "desert": 0}
+        },
+        {
+          "text": "Grounded and reconnected with basics",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "What's your travel deal-breaker?",
+      "options": [
+        {
+          "text": "No nature or outdoor activities",
+          "score": {"mountain": 3, "beach": 1, "city": 0, "countryside": 1, "desert": 1}
+        },
+        {
+          "text": "No good food or cultural experiences",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Crowded tourist hotspots",
+          "score": {"mountain": 1, "beach": 2, "city": 1, "countryside": 2, "desert": 1}
+        },
+        {
+          "text": "No peace and quiet",
+          "score": {"mountain": 1, "beach": 0, "city": 1, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your friends would describe your travel style as:",
+      "options": [
+        {
+          "text": "Adventurous and fearless explorer",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 0, "desert": 2}
+        },
+        {
+          "text": "Cultural connoisseur and urban planner",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Beach bum and relaxation expert",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "Slow traveler and mindful observer",
+          "score": {"mountain": 1, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you could live in any place for a year, where?",
+      "options": [
+        {
+          "text": "A Swiss chalet in the Alps",
+          "score": {"mountain": 3, "beach": 0, "city": 0, "countryside": 1, "desert": 0}
+        },
+        {
+          "text": "A stylish apartment in Tokyo or Paris",
+          "score": {"mountain": 0, "beach": 1, "city": 3, "countryside": 0, "desert": 0}
+        },
+        {
+          "text": "A beach house in Bali or Maldives",
+          "score": {"mountain": 0, "beach": 3, "city": 0, "countryside": 0, "desert": 1}
+        },
+        {
+          "text": "A cottage in the English countryside or Tuscany",
+          "score": {"mountain": 0, "beach": 0, "city": 0, "countryside": 3, "desert": 1}
+        }
+      ]
+    }
+  ],
+  "results": {
+    "mountain": {
+      "title": "The Majestic Mountain",
+      "description": "Your soulmate destination is the mountains! Like the ancient peaks that have stood for millennia, you value depth, perspective, and personal growth. You're the type of traveler who finds peace in solitude and feels most alive when challenging yourself physically. The mountains call to your adventurous spirit - you don't just want to see the world, you want to conquer it, one summit at a time. Your ideal vacation involves hiking trails, breathing in crisp fresh air, and watching sunrise paint the peaks in gold. You're not looking for relaxation - you're looking for transformation.",
+      "destinations": ["Swiss Alps", "Patagonia", "Nepal/Himalayas", "Rocky Mountains", "Scottish Highlands", "Norwegian Fjords"]
+    },
+    "beach": {
+      "title": "The Tropical Paradise",
+      "description": "Your soulmate destination is the beach! The ocean calls to your free spirit - you believe that the best things in life are warm sand between your toes, the sound of waves, and endless blue horizons. You're a relaxed traveler who values peace and rejuvenation over rushing from one attraction to another. For you, vacation means disconnecting from the world and reconnecting with yourself. Whether it's swimming in turquoise waters, enjoying fresh seafood, or simply reading by the shore, you know that sometimes the best destination is one where time slows down and happiness comes in simple waves.",
+      "destinations": ["Maldives", "Bora Bora", "Bali", "Santorini", "Fiji", "Costa Rica"]
+    },
+    "city": {
+      "title": "The Urban Explorer",
+      "description": "Your soulmate destination is a vibrant city! You're the type of traveler who thrives on energy, culture, and the endless possibilities that urban landscapes offer. Museums, street food, nightlife, architecture, public transit - cities are your playground. You don't vacation to escape life; you vacation to dive into it headfirst. You're curious about how people live in different parts of the world, and cities give you the most concentrated dose of human experience. Your ideal trip involves getting 'lost' in foreign neighborhoods, finding the best local coffee, and soaking up the cultural scene until your feet hurt.",
+      "destinations": ["Tokyo", "Paris", "New York", "Barcelona", "Seoul", "Berlin"]
+    },
+    "countryside": {
+      "title": "The Rural Retreat",
+      "description": "Your soulmate destination is the countryside! You seek authenticity, tranquility, and connection - both with nature and with local communities. While others rush to see famous landmarks, you prefer to wander through rolling hills, visit family farms, and learn traditional crafts. You understand that the best travel experiences come from slowing down and savoring each moment. Your ideal vacation might involve staying at a farmhouse, picking fresh produce, and having long conversations with locals over home-cooked meals. You're not escaping life - you're embracing a different way of living, even if just for a while.",
+      "destinations": ["Tuscany", "English Cotswolds", "Provence", "Japanese Countryside", "New Zealand", "Irish Countryside"]
+    },
+    "desert": {
+      "title": "The Desert Wanderer",
+      "description": "Your soulmate destination is the desert! There's something about vast, ancient landscapes that speaks to your soul. You appreciate the stark beauty of sand dunes stretching to the horizon, the incredible silence, and the incredible night skies free from light pollution. You're an introspective traveler who finds meaning in challenging conditions. The desert demands your attention and rewards it with profound moments of awe. You're not looking for comfort - you're looking for perspective. Whether it's riding camels in Morocco, stargazing in Atacama, or camping under desert skies, you feel most alive when surrounded by the raw, elemental power of nature.",
+      "destinations": ["Sahara Desert", "Wadi Rum", "Mongolia", "Namib Desert", "Arizona Desert", "Dubai Desert"]
+    }
+  }
+}
