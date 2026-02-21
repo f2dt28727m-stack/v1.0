@@ -1,0 +1,364 @@
+{
+  "quizId": 82,
+  "title": "Which Cosmic Entity Are You?",
+  "category": "which",
+  "category_name": "Which X Are You",
+  "language": "English",
+  "description": "The universe is vast and full of mysterious beings. From ancient gods to cosmic anomalies, which celestial power resonates with your soul? Answer 12 questions to discover your cosmic identity!",
+  "tags": [
+    "Cosmic",
+    "Space",
+    "Mythology",
+    "Personality",
+    "MBTI",
+    "Universe"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When you face a major challenge, what's your first instinct?",
+      "options": [
+        {
+          "text": "Analyze it logically and find the most efficient solution",
+          "score": { "E": 0, "I": 0, "S": 0, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Trust your intuition and follow your gut feeling",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 0 }
+        },
+        {
+          "text": "Gather your allies and face it together as a team",
+          "score": { "E": 1, "I": 0, "S": 1, "N": 0, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Wait and observe before taking any action",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your relationship with time?",
+      "options": [
+        {
+          "text": "I plan everything meticulously and value punctuality",
+          "score": { "E": 0, "I": 0, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "I live in the moment and embrace spontaneity",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "I think about the future and plan for what's coming",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "I reflect on the past to understand the present",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 0, "F": 1, "J": 0, "P": 0 }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How do others typically perceive you?",
+      "options": [
+        {
+          "text": "The reliable one they can always count on",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "The mysterious and unpredictable one",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 0, "J": 0, "P": 1 }
+        },
+        {
+          "text": "The charismatic leader who inspires others",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 1, "P": 0 }
+        },
+        {
+          "text": "The creative visionary with wild ideas",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "What draws you to power?",
+      "options": [
+        {
+          "text": "The ability to protect those I care about",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 0, "F": 1, "J": 1, "P": 0 }
+        },
+        {
+          "text": "The freedom to do things my own way",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 1, "F": 0, "J": 0, "P": 1 }
+        },
+        {
+          "text": "The wisdom to understand deep truths",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "The influence to make lasting change",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Which element resonates with your essence?",
+      "options": [
+        {
+          "text": "Fire - passionate, transformative, and fierce",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Water - flowing, adaptive, and deep",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 0 }
+        },
+        {
+          "text": "Earth - grounded, stable, and enduring",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Air - free-spirited, intellectual, and swift",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 1, "F": 0, "J": 0, "P": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "What's your biggest fear?",
+      "options": [
+        {
+          "text": "Being powerless or helpless",
+          "score": { "E": 1, "I": 0, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Losing my identity or purpose",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 0 }
+        },
+        {
+          "text": "Being misunderstood or alone",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Chaos and the unknown",
+          "score": { "E": 0, "I": 0, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "If you could possess one supernatural ability, what would it be?",
+      "options": [
+        {
+          "text": "Time manipulation - control past, present, and future",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Mind reading - understand everyone's true thoughts",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Omniscience - know everything in the universe",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 0, "P": 0 }
+        },
+        {
+          "text": "Reality warping - shape the world as you see fit",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 1, "P": 0 }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How do you handle conflict?",
+      "options": [
+        {
+          "text": "Face it head-on with confidence",
+          "score": { "E": 1, "I": 0, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Step back and let emotions settle first",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 0 }
+        },
+        {
+          "text": "Find a creative compromise that satisfies everyone",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Analyze the situation and address the root cause",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "What role do you play in a group?",
+      "options": [
+        {
+          "text": "The leader who takes charge",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "The mediator who keeps harmony",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 0, "F": 1, "J": 1, "P": 0 }
+        },
+        {
+          "text": "The innovator who sparks new ideas",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "The observer who sees what others miss",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 0, "P": 0 }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "What motivates you most?",
+      "options": [
+        {
+          "text": "Achievement and recognition",
+          "score": { "E": 1, "I": 0, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Connection and belonging",
+          "score": { "E": 1, "I": 0, "S": 1, "N": 0, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Knowledge and understanding",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Creation and expression",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "If you were a force of nature, which would you be?",
+      "options": [
+        {
+          "text": "A thunderstorm - powerful and dramatic",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "The ocean - deep and ever-changing",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 0 }
+        },
+        {
+          "text": "A mountain - unshakeable and timeless",
+          "score": { "E": 0, "I": 1, "S": 1, "N": 0, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "A wind - free and unstoppable",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 1, "F": 0, "J": 0, "P": 1 }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "What do you value most in life?",
+      "options": [
+        {
+          "text": "Power and influence",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Love and connection",
+          "score": { "E": 1, "I": 0, "S": 1, "N": 0, "T": 0, "F": 1, "J": 0, "P": 1 }
+        },
+        {
+          "text": "Wisdom and truth",
+          "score": { "E": 0, "I": 1, "S": 0, "N": 1, "T": 1, "F": 0, "J": 1, "P": 0 }
+        },
+        {
+          "text": "Freedom and adventure",
+          "score": { "E": 1, "I": 0, "S": 0, "N": 1, "T": 0, "F": 1, "J": 0, "P": 1 }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "ISTJ": {
+      "title": "The Ancient Titan",
+      "description": "Like the mighty Titans of Greek mythology, you embody stability, discipline, and enduring strength. You stand firm against the tides of change, your presence a bedrock for all who rely on you. Your power lies in your unwavering commitment and your ability to build legacies that withstand the test of time.",
+      "image": "titan"
+    },
+    "ISFJ": {
+      "title": "The Guardian Spirit",
+      "description": "You are the protective spirit that watches over others from the shadows. Like a celestial guardian, your power is not in grand displays but in quiet devotion. You sacrifice yourself for those you love, creating shields of love that even the darkest forces cannot penetrate.",
+      "image": "guardian"
+    },
+    "INFJ": {
+      "title": "The Oracle",
+      "description": "You are the cosmic oracle, blessed with visions of possible futures. Your power lies in your deep intuition and ability to see beyond the veil of reality. Like the ancient seers, you understand truths that others cannot comprehend, and you use this wisdom to guide humanity toward its destiny.",
+      "image": "oracle"
+    },
+    "INTJ": {
+      "title": "The Architect of Realities",
+      "description": "You are the cosmic architect who designs the very fabric of existence. Like a master builder of universes, you see patterns where others see chaos. Your power lies in your ability to conceive grand systems and bring them into being through sheer intellectual force.",
+      "image": "architect"
+    },
+    "ISTP": {
+      "title": "The Void Walker",
+      "description": "You navigate the spaces between realities, a wanderer of the cosmic void. Like a phantom through the universe, you observe, adapt, and strike with perfect precision. Your power is in your adaptability and your ability to exist in any situation without being bound by it.",
+      "image": "voidwalker"
+    },
+    "ISFP": {
+      "title": "The Dream Weaver",
+      "description": "You are the cosmic dreamweaver, spinning the ethereal threads that create the realm of dreams. Your power lies in your ability to touch hearts and inspire souls. Like the mythical weavers of fate, you create beauty that moves the universe to tears.",
+      "image": "dreamweaver"
+    },
+    "INFP": {
+      "title": "The Phoenix",
+      "description": "You are the eternal phoenix, rising from the ashes of your own destruction. Your power lies in your ability to transform pain into beauty, darkness into light. Like the legendary firebird, your very existence is a testament to the regenerative power of the soul.",
+      "image": "phoenix"
+    },
+    "INTP": {
+      "title": "The Cosmic Philosopher",
+      "description": "You are the eternal thinker of the universe, seeking to understand the fundamental truths of existence. Like a cosmic sage, your mind traverses dimensions of thought that others cannot even imagine. Your power lies in your ideas - they shape realities.",
+      "image": "philosopher"
+    },
+    "ESTP": {
+      "title": "The Chaos Agent",
+      "description": "You are the agent of cosmic chaos, the force that disrupts stagnation and creates opportunity. Like a supernova, you bring dramatic change and new beginnings. Your power lies in your ability to adapt, act, and ignite excitement wherever you go.",
+      "image": "chaos"
+    },
+    "ESFP": {
+      "title": "The Star Dancer",
+      "description": "You are the celestial dancer who brings light to the darkest corners of the universe. Like a shooting star, you bring joy, wonder, and ephemeral beauty to all who witness your passage. Your power lies in your ability to make every moment feel like a celebration.",
+      "image": "stardancer"
+    },
+    "ENFP": {
+      "title": "The Cosmic Muse",
+      "description": "You are the muse that inspires entire civilizations to reach for the stars. Like a nebula of creative energy, you spark imagination and innovation in all who encounter you. Your power lies in your ability to see possibilities where others see impossibilities.",
+      "image": "muse"
+    },
+    "ENTP": {
+      "title": "The Trickster God",
+      "description": "You are the cosmic trickster, the divine disruptor who challenges the status quo. Like the trickster gods of every mythology, you use wit and cunning to tear down false structures and create new possibilities. Your power lies in your ideas and your ability to see through illusions.",
+      "image": "trickster"
+    },
+    "ESTJ": {
+      "title": "The Warlord",
+      "description": "You are the cosmic warlord, a force of order in a chaotic universe. Like the great generals of legend, you organize, lead, and conquer. Your power lies in your ability to make things happen, to turn visions into reality through sheer determination and strategic thinking.",
+      "image": "warlord"
+    },
+    "ESFJ": {
+      "title": "The Mother Goddess",
+      "description": "You are the nurturing goddess who embodies creation and care. Like the great mother deities of every culture, your power comes from your ability to give life, nurture growth, and maintain harmony. You are the warmth that sustains the universe.",
+      "image": "goddess"
+    },
+    "ENFJ": {
+      "title": "The Light Bringer",
+      "description": "You are the cosmic light bringer, illuminating paths for others to follow. Like a guiding star, you inspire, motivate, and transform those around you. Your power lies in your ability to see the potential in others and help them become their best selves.",
+      "image": "lightbringer"
+    },
+    "ENTJ": {
+      "title": "The Dark Lord",
+      "description": "You are the dark lord of cosmic power, commanding respect through sheer presence and will. Like the great rulers of myth, you do not seek power for its own sake but to reshape the universe according to your vision. Your power lies in your ability to lead and your unwavering determination.",
+      "image": "darklord"
+    }
+  }
+}
