@@ -9,8 +9,8 @@
         "Princess",
         "Personality",
         "MBTI",
-        "16\u578b\u4eba\u683c",
-        "\u8da3\u5473"
+        "16型人格",
+        "趣味"
       ],
       "description": "Discover which Disney Princess matches your personality based on MBTI traits! Answer 12 questions to find your royal counterpart."
     },
@@ -25,7 +25,7 @@
         "Work",
         "Success"
       ],
-      "description": "Answer 12 insightful questions to discover your career personality type\u2014unlock your professional potential!"
+      "description": "Answer 12 insightful questions to discover your career personality type—unlock your professional potential!"
     },
     {
       "quiz_id": "quiz_11",
@@ -38,7 +38,7 @@
         "Adventure",
         "Wanderlust"
       ],
-      "description": "Answer 12 wanderlust-filled questions to discover your travel personality type\u2014unlock your perfect vacation style!"
+      "description": "Answer 12 wanderlust-filled questions to discover your travel personality type—unlock your perfect vacation style!"
     },
     {
       "quiz_id": "quiz_12",
@@ -51,7 +51,7 @@
         "Cooking",
         "Eating"
       ],
-      "description": "Answer 12 delicious questions to discover your food personality type\u2014unlock your culinary identity!"
+      "description": "Answer 12 delicious questions to discover your food personality type—unlock your culinary identity!"
     },
     {
       "quiz_id": "quiz_13",
@@ -64,7 +64,7 @@
         "Personality",
         "Comics"
       ],
-      "description": "Answer 12 heroic questions to discover which iconic superhero sidekick matches your personality\u2014time to save the day!"
+      "description": "Answer 12 heroic questions to discover which iconic superhero sidekick matches your personality—time to save the day!"
     },
     {
       "quiz_id": "quiz_14",
@@ -77,7 +77,7 @@
         "Personality",
         "Fantasy"
       ],
-      "description": "Answer 12 mystical questions to discover which iconic mythological creature matches your personality\u2014enter the realm of legends!"
+      "description": "Answer 12 mystical questions to discover which iconic mythological creature matches your personality—enter the realm of legends!"
     },
     {
       "quiz_id": "quiz_15",
@@ -90,7 +90,7 @@
         "Personality",
         "Legacy"
       ],
-      "description": "Answer 12 timeless questions to discover which iconic historical figure matches your personality\u2014walk in the footsteps of legends!"
+      "description": "Answer 12 timeless questions to discover which iconic historical figure matches your personality—walk in the footsteps of legends!"
     },
     {
       "quiz_id": "quiz_16",
@@ -103,7 +103,7 @@
         "MBTI",
         "Personality"
       ],
-      "description": "Answer 12 enchanting questions to discover which magical creature matches your personality\u2014enter a world of wonder and magic!"
+      "description": "Answer 12 enchanting questions to discover which magical creature matches your personality—enter a world of wonder and magic!"
     },
     {
       "quiz_id": "quiz_17",
@@ -116,7 +116,7 @@
         "Sound",
         "Rhythm"
       ],
-      "description": "Answer 12 melodic questions to discover your music personality type\u2014unlock your soundtrack to life!"
+      "description": "Answer 12 melodic questions to discover your music personality type—unlock your soundtrack to life!"
     },
     {
       "quiz_id": "quiz_18",
@@ -129,7 +129,7 @@
         "Personality",
         "Fantasy"
       ],
-      "description": "Answer 12 magical questions to discover which Disney princess matches your MBTI personality type\u2014live your fairy tale!"
+      "description": "Answer 12 magical questions to discover which Disney princess matches your MBTI personality type—live your fairy tale!"
     },
     {
       "quiz_id": "quiz_19",
@@ -142,7 +142,7 @@
         "Sci-Fi",
         "Galaxy"
       ],
-      "description": "Answer 12 intergalactic questions to discover which Star Wars character matches your MBTI personality type\u2014may the force be with you!"
+      "description": "Answer 12 intergalactic questions to discover which Star Wars character matches your MBTI personality type—may the force be with you!"
     },
     {
       "quiz_id": "quiz_2",
@@ -167,7 +167,7 @@
         "Personality",
         "Magic"
       ],
-      "description": "Answer 12 magical questions to discover which Hogwarts house matches your MBTI personality type\u2014welcome to the wizarding world!"
+      "description": "Answer 12 magical questions to discover which Hogwarts house matches your MBTI personality type—welcome to the wizarding world!"
     },
     {
       "quiz_id": "quiz_21",
@@ -180,7 +180,7 @@
         "Work",
         "Success"
       ],
-      "description": "Answer 12 insightful questions to discover which career path perfectly matches your MBTI personality type\u2014find your professional purpose!"
+      "description": "Answer 12 insightful questions to discover which career path perfectly matches your MBTI personality type—find your professional purpose!"
     },
     {
       "quiz_id": "quiz_22",
@@ -193,7 +193,7 @@
         "Personality",
         "Emotions"
       ],
-      "description": "Answer 12 heartfelt questions to discover which love language perfectly matches your MBTI personality type\u2014speak the language of love!"
+      "description": "Answer 12 heartfelt questions to discover which love language perfectly matches your MBTI personality type—speak the language of love!"
     },
     {
       "quiz_id": "quiz_23",
@@ -206,7 +206,7 @@
         "Personality",
         "Wanderlust"
       ],
-      "description": "Answer 12 wanderlust-filled questions to discover which travel style perfectly matches your MBTI personality type\u2014find your perfect journey!"
+      "description": "Answer 12 wanderlust-filled questions to discover which travel style perfectly matches your MBTI personality type—find your perfect journey!"
     },
     {
       "quiz_id": "quiz_24",
@@ -219,7 +219,7 @@
         "Nature",
         "Symbolism"
       ],
-      "description": "Answer 12 soulful questions to discover which animal spirit perfectly matches your MBTI personality type\u2014connect with your wild side!"
+      "description": "Answer 12 soulful questions to discover which animal spirit perfectly matches your MBTI personality type—connect with your wild side!"
     },
     {
       "quiz_id": "quiz_3",
@@ -245,7 +245,7 @@
         "Personality",
         "Dark Side"
       ],
-      "description": "Answer 12 questions to uncover which iconic Disney villain matches your personality\u2014embrace your dark side!"
+      "description": "Answer 12 questions to uncover which iconic Disney villain matches your personality—embrace your dark side!"
     },
     {
       "quiz_id": "quiz_5",
@@ -258,7 +258,7 @@
         "Personality",
         "Otaku"
       ],
-      "description": "Answer 12 questions to discover which iconic anime character matches your personality\u2014otaku approved!"
+      "description": "Answer 12 questions to discover which iconic anime character matches your personality—otaku approved!"
     },
     {
       "quiz_id": "quiz_6",
@@ -271,7 +271,7 @@
         "Personality",
         "Hogwarts"
       ],
-      "description": "Answer 12 magical questions to discover which Harry Potter character matches your personality\u2014wand at the ready!"
+      "description": "Answer 12 magical questions to discover which Harry Potter character matches your personality—wand at the ready!"
     },
     {
       "quiz_id": "quiz_7",
@@ -284,7 +284,7 @@
         "Horoscope",
         "Star Sign"
       ],
-      "description": "Answer 12 cosmic questions to discover which iconic zodiac sign character matches your personality\u2014stars align for you!"
+      "description": "Answer 12 cosmic questions to discover which iconic zodiac sign character matches your personality—stars align for you!"
     },
     {
       "quiz_id": "quiz_8",
@@ -297,7 +297,7 @@
         "Personality",
         "Fairy Tale"
       ],
-      "description": "Answer 12 magical questions to discover which iconic Disney Princess matches your personality\u2014once upon a time for you!"
+      "description": "Answer 12 magical questions to discover which iconic Disney Princess matches your personality—once upon a time for you!"
     },
     {
       "quiz_id": "quiz_9",
@@ -310,7 +310,7 @@
         "Personality",
         "Love"
       ],
-      "description": "Answer 12 heartfelt questions to discover your love language personality type\u2014unlock how you give and receive love!"
+      "description": "Answer 12 heartfelt questions to discover your love language personality type—unlock how you give and receive love!"
     },
     {
       "quiz_id": "quiz_harry_potter1",
@@ -379,6 +379,19 @@
         "内心"
       ],
       "description": "Everyone has a public self and a hidden self. Discover what lies beneath your surface! Answer 12 questions to uncover your secret personality type."
+    },
+    {
+      "quiz_id": "quiz_67",
+      "title": "Which Music Genre Is Your Soulmate?",
+      "category": "match",
+      "tags": [
+        "Music",
+        "Soulmate",
+        "Personality",
+        "Match",
+        "Genre"
+      ],
+      "description": "Music speaks to the soul. Discover which music genre truly resonates with your inner self!"
     }
   ]
 }

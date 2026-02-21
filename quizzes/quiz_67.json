@@ -1,0 +1,470 @@
+{
+  "quizId": 67,
+  "title": "Which Music Genre Is Your Soulmate?",
+  "category": "match",
+  "category_name": "Match / Soulmate",
+  "language": "English",
+  "description": "Music speaks to the soul. Discover which music genre truly resonates with your inner self! Answer 12 questions to find your perfect melodic match.",
+  "tags": [
+    "Music",
+    "Soulmate",
+    "Personality",
+    "Match",
+    "Genre",
+    "Music Genre",
+    "Sound",
+    "Rhythm"
+  ],
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How do you usually feel when listening to music?",
+      "options": [
+        {
+          "text": "I feel emotions deeply and get lost in the lyrics",
+          "score": {
+            "indie": 3,
+            "singer_songwriter": 3
+          }
+        },
+        {
+          "text": "I want to move my body and feel the beat",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "I think about life and contemplate the meaning",
+          "score": {
+            "rock": 3,
+            "folk": 3
+          }
+        },
+        {
+          "text": "I feel energized and want to conquer the world",
+          "score": {
+            "hip_hop": 3,
+            "edm": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "What's your ideal Friday night?",
+      "options": [
+        {
+          "text": "A cozy night in with headphones and a journal",
+          "score": {
+            "indie": 3,
+            "lofi": 3
+          }
+        },
+        {
+          "text": "Dancing at a club with friends until dawn",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "A live concert with thousands of other fans",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Writing lyrics or making beats in my room",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Which vibe best describes your personality?",
+      "options": [
+        {
+          "text": "Dreamy, introspective, and creative",
+          "score": {
+            "indie": 3,
+            "dream_pop": 3
+          }
+        },
+        {
+          "text": "Energetic, fun, and always the life of the party",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "Intense, passionate, and deeply emotional",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Smooth, laid-back, and effortlessly cool",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "What do you look for in a song?",
+      "options": [
+        {
+          "text": "Meaningful lyrics that tell a story",
+          "score": {
+            "singer_songwriter": 3,
+            "folk": 3
+          }
+        },
+        {
+          "text": "Catchy melodies I can't stop humming",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "Powerful instrumentals and raw energy",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Smooth flows and clever wordplay",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "If your life was a movie, what would be its soundtrack?",
+      "options": [
+        {
+          "text": "Acoustic ballads under twinkling lights",
+          "score": {
+            "indie": 3,
+            "folk": 3
+          }
+        },
+        {
+          "text": "Upbeat anthems for triumphant moments",
+          "score": {
+            "pop": 3,
+            "edm": 3
+          }
+        },
+        {
+          "text": "Epic guitar solos and dramatic crescendos",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Smooth grooves with chill vibes",
+          "score": {
+            "rnb": 3,
+            "lofi": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "What's your favorite way to discover new music?",
+      "options": [
+        {
+          "text": "Stumbling upon hidden gems on indie playlists",
+          "score": {
+            "indie": 3,
+            "alternative": 3
+          }
+        },
+        {
+          "text": "Following popular charts and trending songs",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "Exploring classic albums and legendary bands",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Getting recommendations from friends or algorithms",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Which lyric style speaks to you?",
+      "options": [
+        {
+          "text": "Poetic, abstract, and open to interpretation",
+          "score": {
+            "indie": 3,
+            "dream_pop": 3
+          }
+        },
+        {
+          "text": "Fun, catchy, and easy to sing along",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "Raw, honest, and emotionally charged",
+          "score": {
+            "rock": 3,
+            "punk": 3
+          }
+        },
+        {
+          "text": "Clever, flowy, and rhythmically intricate",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Where do you feel most at peace?",
+      "options": [
+        {
+          "text": "A quiet café with ambient music playing",
+          "score": {
+            "lofi": 3,
+            "indie": 3
+          }
+        },
+        {
+          "text": "A bustling party with thumping bass",
+          "score": {
+            "dance": 3,
+            "edm": 3
+          }
+        },
+        {
+          "text": "A concert arena feeling the crowd's energy",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Late night drives with the windows down",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "What's your relationship with music?",
+      "options": [
+        {
+          "text": "It's my therapy and emotional outlet",
+          "score": {
+            "singer_songwriter": 3,
+            "indie": 3
+          }
+        },
+        {
+          "text": "It's my energy boost and party fuel",
+          "score": {
+            "pop": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "It's my identity and tribe",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "It's my background soundtrack to life",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you could attend any music festival, which would it be?",
+      "options": [
+        {
+          "text": "An intimate indie folk festival in the woods",
+          "score": {
+            "folk": 3,
+            "indie": 3
+          }
+        },
+        {
+          "text": "A massive EDM festival with laser shows",
+          "score": {
+            "edm": 3,
+            "dance": 3
+          }
+        },
+        {
+          "text": "A rock/metal festival with mosh pits",
+          "score": {
+            "metal": 3,
+            "rock": 3
+          }
+        },
+        {
+          "text": "A hip-hop/R&B festival with all the stars",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "What instrument draws you in the most?",
+      "options": [
+        {
+          "text": "Acoustic guitar - simple and authentic",
+          "score": {
+            "folk": 3,
+            "singer_songwriter": 3
+          }
+        },
+        {
+          "text": "Synthesizer - modern and electronic",
+          "score": {
+            "pop": 3,
+            "edm": 3
+          }
+        },
+        {
+          "text": "Electric guitar - powerful and edgy",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Drums - the rhythm that moves you",
+          "score": {
+            "hip_hop": 3,
+            "rnb": 3
+          }
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How do you want to feel after listening to music?",
+      "options": [
+        {
+          "text": "Understood and emotionally cathartic",
+          "score": {
+            "indie": 3,
+            "singer_songwriter": 3
+          }
+        },
+        {
+          "text": "Energized and ready to take on the world",
+          "score": {
+            "pop": 3,
+            "edm": 3
+          }
+        },
+        {
+          "text": "Intense and alive with adrenaline",
+          "score": {
+            "rock": 3,
+            "metal": 3
+          }
+        },
+        {
+          "text": "Relaxed and in a chill groove",
+          "score": {
+            "rnb": 3,
+            "lofi": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "indie": {
+      "title": "Indie",
+      "description": "You're a soul that resonates with indie music! You appreciate uniqueness, authenticity, and artistic expression. Your music taste is as individual as you are - you love discovering hidden gems and supporting emerging artists. Your indie soul craves meaning beyond the mainstream.",
+      "emoji": "🎸"
+    },
+    "pop": {
+      "title": "Pop",
+      "description": "Pop music is your soulmate! You're someone who loves catchy melodies and relatable lyrics. You bring joy and energy to everyone around you. Your pop soul knows how to find the fun in life and spread positivity. You're the life of the party!",
+      "emoji": "🎤"
+    },
+    "rock": {
+      "title": "Rock",
+      "description": "Rock music speaks to your rebellious spirit! You're passionate, intense, and never afraid to speak your mind. Your rock soul lives for live concerts and powerful guitar riffs. You feel things deeply and express yourself boldly.",
+      "emoji": "🤘"
+    },
+    "hip_hop": {
+      "title": "Hip-Hop",
+      "description": "Hip-hop is your musical match! You appreciate lyricism, flow, and rhythm. Your hip-hop soul is clever, creative, and always staying fresh. You see the world through a unique lens and know how to make your voice heard.",
+      "emoji": "🎧"
+    },
+    "rnb": {
+      "title": "R&B",
+      "description": "R&B is the soundtrack of your soul! You're smooth, romantic, and deeply emotional. Your R&B soul appreciates smooth vocals and groovy beats. You know how to set the mood and enjoy life's smoother moments.",
+      "emoji": "🎵"
+    },
+    "edm": {
+      "title": "EDM",
+      "description": "EDM lights up your soul! You're someone who lives for the drop and thrives on electronic energy. Your EDM soul is all about escaping reality and losing yourself in the music. You need that beat to feel alive!",
+      "emoji": "🎹"
+    },
+    "folk": {
+      "title": "Folk",
+      "description": "Folk music matches your grounded spirit! You appreciate storytelling, acoustic simplicity, and timeless wisdom. Your folk soul finds beauty in simplicity and connects with traditions. You're wise beyond your years.",
+      "emoji": "🪕"
+    },
+    "lofi": {
+      "title": "Lo-Fi",
+      "description": "Lo-fi is your chill companion! You appreciate the warm, imperfect sounds that feel like a cozy blanket. Your lo-fi soul finds peace in slow moments and understands the beauty of relaxation. You're the definition of vibes.",
+      "emoji": "☕"
+    }
+  }
+}
