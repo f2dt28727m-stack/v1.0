@@ -1,125 +1,153 @@
 {
-  "id": "quiz_29",
-  "type": "match",
-  "title": "哪种虚构角色是你的灵魂伴侣？",
-  "description": "根据你的性格和偏好，发现哪个虚构角色是你理想的浪漫伴侣。",
+  "quiz_id": "quiz_29",
+  "title": "你的隐藏天才是什么？",
+  "category": "hidden",
+  "tags": ["性格", "隐藏才能", "智力", "独特", "自我发现"],
+  "description": "每个人都有独特的隐藏天才等待被发现！回答这12个问题，揭示你非凡的隐藏才能。",
+  "result_title": "你的隐藏天才是...",
+  "result_description": "你有一种非凡的隐藏才能，让你与众不同。以下是你的特别之处：",
   "questions": [
     {
-      "id": "q1",
-      "text": "你理想中的浪漫约会是什么？",
+      "question_id": "q1",
+      "question": "当你遇到复杂的问题时，你的本能反应是什么？",
       "options": [
-        {"text": "在星空下享用安静的晚餐", "scores": {"romantic_hero": 3, "adventure_partner": 1}},
-        {"text": "一起去异国他乡旅行探险", "scores": {"adventure_partner": 3, "soulmate_artist": 1}},
-        {"text": "一起在家看电影吃爆米花", "scores": {"soulmate_artist": 3, "protective_hero": 1}},
-        {"text": "一场差点被抓的刺激冒险", "scores": {"bad_boy": 3, "adventure_partner": 1}}
+        {"option_id": "a", "text": "把它分解成更小、更容易处理的部分", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
+        {"option_id": "b", "text": "想象富有创意和非传统的解决方案", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
+        {"option_id": "c", "text": "思考它如何影响涉及的人", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 1}},
+        {"option_id": "d", "text": "寻找实际可行的解决方案", "scores": {"analytical": 1, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q2",
-      "text": "你如何表达爱意？",
+      "question_id": "q2",
+      "question": "哪种活动让你忘记时间？",
       "options": [
-        {"text": "通过浪漫的举动和保护的承诺", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "通过深入交流和理解", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "通过冲动和惊喜", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "通过日常的细心关怀", "scores": {"sweet_nerd": 3, "protective_hero": 1}}
+        {"option_id": "a", "text": "分析数据或解决谜题", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "创作一些艺术性或想象力的东西", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "帮助别人解决他们的问题", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "用双手制作或修理东西", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q3",
-      "text": "什么最吸引你？",
+      "question_id": "q3",
+      "question": "朋友们通常找你做什么？",
       "options": [
-        {"text": "强大而有保护欲的气质", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "创造力和情感的深度", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "危险感和刺激感", "scores": {"bad_boy": 3, "adventure_partner": 1}},
-        {"text": "才智和机智的谈吐", "scores": {"intellectual": 3, "sweet_nerd": 1}}
+        {"option_id": "a", "text": "逻辑分析和客观建议", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "新鲜的想法和灵感", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "倾诉和情感支持", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "实际帮助完成事情", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q4",
-      "text": "你在感情中最大的恐惧是什么？",
+      "question_id": "q4",
+      "question": "你学习新事物的最佳方式是什么？",
       "options": [
-        {"text": "被背叛或抛弃", "scores": {"romantic_hero": 2, "protective_hero": 2}},
-        {"text": "情感上感到疏离", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "生活无聊且可预测", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "不被理解或欣赏", "scores": {"sweet_nerd": 2, "intellectual": 2}}
+        {"option_id": "a", "text": "通过阅读、研究和理解理论", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "通过动手实验和尝试新方法", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
+        {"option_id": "c", "text": "通过观察和学习他人的经验", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "通过直接动手，在做的过程中摸索", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q5",
-      "text": "如果你的伴侣需要你，你会怎么做？",
+      "question_id": "q5",
+      "question": "当某些东西需要改进时，你的方法是什么？",
       "options": [
-        {"text": "放下一切立刻赶到他们身边", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "为他们写一封真挚的信或一首歌", "scores": {"soulmate_artist": 3}},
-        {"text": "计划一场史诗般的冒险", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "研究解决方案并实际帮助他们", "scores": {"sweet_nerd": 3, "intellectual": 1}}
+        {"option_id": "a", "text": "找出根本原因并修复系统", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
+        {"option_id": "b", "text": "想出全新的方法来处理它", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "了解它如何影响人们并满足这些需求", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "高效有效地完成它", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q6",
-      "text": "你的沟通风格是什么？",
+      "question_id": "q6",
+      "question": "哪句话最能引起你的共鸣？",
       "options": [
-        {"text": "直接诚实，有时有点直率", "scores": {"protective_hero": 2, "bad_boy": 2}},
-        {"text": "诗意且情感丰富", "scores": {"soulmate_artist": 3}},
-        {"text": "俏皮的调侃和幽默", "scores": {"adventure_partner": 2, "sweet_nerd": 2}},
-        {"text": "深思熟虑且分析性强", "scores": {"intellectual": 3, "sweet_nerd": 1}}
+        {"option_id": "a", "text": "信息就是力量", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "想象力比知识更重要", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "人生最大的荣耀不在于从不失败", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "行动胜于言辞", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q7",
-      "text": "你在伴侣身上最看重什么？",
+      "question_id": "q7",
+      "question": "当你发现别人忽略的模式时，你注意到的是什么？",
       "options": [
-        {"text": "忠诚和奉献", "scores": {"romantic_hero": 3, "protective_hero": 1}},
-        {"text": "激情和情感连接", "scores": {"soulmate_artist": 3, "bad_boy": 1}},
-        {"text": "冒险精神和 spontaneity", "scores": {"adventure_partner": 3}},
-        {"text": "理解和接纳", "scores": {"intellectual": 2, "sweet_nerd": 2}}
+        {"option_id": "a", "text": "数据点之间的逻辑联系", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "非常规的可能性和机会", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "情感暗流和人际动态", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "实际应用和现实用途", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q8",
-      "text": "你如何处理冲突？",
+      "question_id": "q8",
+      "question": "什么样的挑战最让你兴奋？",
       "options": [
-        {"text": "变得过度保护或占有欲强", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "退一步私下处理情绪", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "先道歉但提议一场冒险", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "理性地分析问题", "scores": {"intellectual": 3, "sweet_nerd": 1}}
+        {"option_id": "a", "text": "复杂的谜题或逻辑难题", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "创造从未存在过的东西", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "在别人的生活中产生积极的影响", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "建造一些有形有用的东西", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q9",
+      "question": "你更喜欢如何传达复杂的想法？",
+      "options": [
+        {"option_id": "a", "text": "清晰、逻辑的解释和数据", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "通过故事、隐喻和视觉表现", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "通过联系个人经历和感受", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "通过展示而非讲述 - 实际演示", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q10",
+      "question": "面对不确定性时，你依赖什么？",
+      "options": [
+        {"option_id": "a", "text": "逻辑、推理和现有信息", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "直觉和创造性想象", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "信任人们和人际联系", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "过去的经验和以往有效的方法", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q11",
+      "question": "你一直自然而然擅长、几乎不需要练习的技能是什么？",
+      "options": [
+        {"option_id": "a", "text": "理解复杂系统并发现缺陷", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "想出独特的想法和解决方案", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "理解别人的感受和需求", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "利用现有资源让任何东西都能工作", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q12",
+      "question": "如果你能在一夜之间掌握任何技能，你会选择什么？",
+      "options": [
+        {"option_id": "a", "text": "瞬间解决任何问题的能力", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "创造任何我能想象的事物的能力", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "理解和治愈情感创伤的能力", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "从零开始建造任何东西的能力", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     }
   ],
   "results": {
-    "romantic_hero": {
-      "title": "浪漫英雄",
-      "description": "你的理想伴侣是经典的浪漫英雄——想想达西先生、白马王子或杰米·弗雷泽。他们忠诚、浪漫，坚信经得起时间考验的伟大爱情。",
-      "examples": ["达西先生（《傲慢与偏见》）", "埃里克王子（《小美人鱼》）", "杰米·弗雷泽（《外乡人》）"]
+    "analytical": {
+      "title": "分析型天才",
+      "description": "你的隐藏天才在于你出色的分析能力。你有发现模式、解决复杂问题和理解系统运作的天赋。你的大脑就像一台精细调校的机器，可以处理大量信息并找到别人可能忽略的逻辑解决方案。这让你在需要批判性思维、研究和战略规划的领域中变得无价。",
+      "emoji": "🧠"
     },
-    "protective_hero": {
-      "title": "保护型英雄",
-      "description": "你需要的是一个永远把你放在首位的伴侣。你的匹配对象是美国队长或冉阿让——坚强、可靠，随时愿意保护你。",
-      "examples": ["美国队长（漫威）", "冉阿让（《悲惨世界》）", "雷神（漫威）"]
+    "creative": {
+      "title": "创意型天才",
+      "description": "你的隐藏天才在于你非凡的创造力。你能在别人看到限制的地方看到可能性，你的想象力无边无际。你有一种独特的能力，能够跳出框框思考，提出创新的解决方案，改变人们看待世界的方式。你的创意愿景可以激励他人，为任何挑战带来新的视角。",
+      "emoji": "🎨"
     },
-    "soulmate_artist": {
-      "title": "灵魂艺术家",
-      "description": "你渴望深层的情感连接。你的另一半是富有创造力的灵魂，如杰克·道森、克里斯蒂安·格雷或《吸血鬼日记》的Damon——强烈、热情，且浪漫得让人心碎。",
-      "examples": ["杰克·道森（《泰坦尼克号》）", "克里斯蒂安·格雷（《五十度灰》）", "达蒙·萨瓦特（《吸血鬼日记》）"]
+    "empathetic": {
+      "title": "同理心型天才",
+      "description": "你的隐藏天才在于你深刻的情绪智力。你有理解他人感受并在深层人际层面上建立联系的非凡能力。你的同理心让你能够治愈、激励和团结人们，这是单纯的逻辑思维无法实现的。你有能力让其他人感到被看见、被理解和被倾听。",
+      "emoji": "💝"
     },
-    "adventure_partner": {
-      "title": "冒险伙伴",
-      "description": "和你在一起，生活永远不会无聊。你的伴侣是热爱刺激的人——如杰克·斯帕罗、汉·索罗或德米特里—— spontaneous、勇敢，永远准备迎接下一次冒险。",
-      "examples": ["杰克·斯帕罗（《加勒比海盗》）", "汉·索罗（《星球大战》）", "德米特里（《最后的歌》）"]
-    },
-    "bad_boy": {
-      "title": "内心柔软的坏男孩",
-      "description": "你喜欢驯服野马的刺激感。你的伴侣有点坏坏的——如德拉科·格雷，或野兽——在坚强的外表下其实柔软。",
-      "examples": ["德拉科·马尔福（《哈利·波特》）", "克里斯蒂安·格雷（《五十度灰》）", "野兽（《美女与野兽》）"]
-    },
-    "intellectual": {
-      "title": "智识相当的伴侣",
-      "description": "你需要能与你思想匹配的人。你的另一半是聪明的灵魂，如奇异博士、夏洛克或爱德华·卡伦——聪明、优雅、永远令人着迷。",
-      "examples": ["奇异博士（漫威）", "夏洛克·福尔摩斯", "爱德华·卡伦（《暮光之城》）"]
-    },
-    "sweet_nerd": {
-      "title": "甜心书呆子",
-      "description": "你的理想伴侣是可爱又呆萌的类型。想想罗恩·韦斯利、泰德·莫斯比或皮特——可爱、忠诚，总能让你笑逐颜开。",
-      "examples": ["罗恩·韦斯利（《哈利·波特》）", "泰德·莫斯比（《老爸老妈的浪漫史》）", "皮特（《最后的歌》）"]
+    "practical": {
+      "title": "实践型天才",
+      "description": "你的隐藏天才在于你出色的实践智慧。你有让事情高效、可靠、有效运转的天赋。当别人梦想和计划时，你已经在建设和交付。你能将想法转化为现实的能力是一种罕见而宝贵的才能。",
+      "emoji": "🔧"
     }
   }
 }

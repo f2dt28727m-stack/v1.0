@@ -1,125 +1,153 @@
 {
-  "id": "quiz_29",
-  "type": "match",
-  "title": "Which Fictional Soulmate Is Your Perfect Match?",
-  "description": "Discover which fictional character would be your ideal romantic partner based on your personality and preferences.",
+  "quiz_id": "quiz_29",
+  "title": "What's Your Hidden Genius?",
+  "category": "hidden",
+  "tags": ["Personality", "Hidden Talent", "Intelligence", "Unique", "Self Discovery"],
+  "description": "Everyone has a unique hidden genius waiting to be discovered! Answer these 12 questions to reveal your extraordinary hidden talent.",
+  "result_title": "Your Hidden Genius Is...",
+  "result_description": "You have a remarkable hidden talent that sets you apart from the crowd. Here's what makes you special:",
   "questions": [
     {
-      "id": "q1",
-      "text": "What's your ideal romantic date?",
+      "question_id": "q1",
+      "question": "When you encounter a complex problem, what is your first instinct?",
       "options": [
-        {"text": "A quiet dinner under the stars", "scores": {"romantic_hero": 3, "adventure_partner": 1}},
-        {"text": "Traveling to an exotic location together", "scores": {"adventure_partner": 3, "soulmate_artist": 1}},
-        {"text": "Cozy movie night with homemade popcorn", "scores": {"soulmate_artist": 3, "protective_hero": 1}},
-        {"text": "An unexpected adventure where we nearly get caught", "scores": {"bad_boy": 3, "adventure_partner": 1}}
+        {"option_id": "a", "text": "Break it down into smaller, manageable parts", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
+        {"option_id": "b", "text": "Imagine creative and unconventional solutions", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
+        {"option_id": "c", "text": "Think about how it affects the people involved", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 1}},
+        {"option_id": "d", "text": "Look for practical, real-world solutions that work", "scores": {"analytical": 1, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q2",
-      "text": "How do you show love?",
+      "question_id": "q2",
+      "question": "Which activity makes you lose track of time?",
       "options": [
-        {"text": "Through grand gestures and protection", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "Through deep conversations and understanding", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "Through spontaneity and excitement", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "Through small daily acts of care", "scores": {"sweet_nerd": 3, "protective_hero": 1}}
+        {"option_id": "a", "text": "Analyzing data or solving puzzles", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Creating something artistic or imaginative", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "Helping someone work through their problems", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Building or fixing something with your hands", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q3",
-      "text": "What attracts you most in a person?",
+      "question_id": "q3",
+      "question": "What do friends usually come to you for?",
       "options": [
-        {"text": "A strong, protective presence", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "Creativity and emotional depth", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "A sense of danger and excitement", "scores": {"bad_boy": 3, "adventure_partner": 1}},
-        {"text": "Intelligence and witty conversation", "scores": {"intellectual": 3, "sweet_nerd": 1}}
+        {"option_id": "a", "text": "Logical analysis and objective advice", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Fresh ideas and inspiration", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "A listening ear and emotional support", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Practical help getting things done", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q4",
-      "text": "What's your biggest fear in a relationship?",
+      "question_id": "q4",
+      "question": "How do you typically learn new things best?",
       "options": [
-        {"text": "Being betrayed or abandoned", "scores": {"romantic_hero": 2, "protective_hero": 2}},
-        {"text": "Feeling emotionally disconnected", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "Living a boring, predictable life", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "Not being understood or appreciated", "scores": {"sweet_nerd": 2, "intellectual": 2}}
+        {"option_id": "a", "text": "Through reading, research, and understanding the theory", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Through hands-on experimentation and trying new approaches", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 1}},
+        {"option_id": "c", "text": "By observing and learning from others' experiences", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "By jumping in and figuring it out as I go", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q5",
-      "text": "If your partner needed you, you would...",
+      "question_id": "q5",
+      "question": "What's your approach when something needs to be improved?",
       "options": [
-        {"text": "Drop everything and rush to their side", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "Write them a heartfelt letter or song", "scores": {"soulmate_artist": 3}},
-        {"text": "Plan an epic escape or adventure together", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "Research solutions and help them practically", "scores": {"sweet_nerd": 3, "intellectual": 1}}
+        {"option_id": "a", "text": "Identify the root cause and fix the system", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 1}},
+        {"option_id": "b", "text": "Think of a completely new way to approach it", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "Understand how it impacts people and address those needs", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Just get it done efficiently and effectively", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q6",
-      "text": "What's your communication style?",
+      "question_id": "q6",
+      "question": "Which quote resonates with you most?",
       "options": [
-        {"text": "Direct and honest, sometimes blunt", "scores": {"protective_hero": 2, "bad_boy": 2}},
-        {"text": "Poetic and emotionally expressive", "scores": {"soulmate_artist": 3}},
-        {"text": "Playful teasing and humor", "scores": {"adventure_partner": 2, "sweet_nerd": 2}},
-        {"text": "Thoughtful and analytical", "scores": {"intellectual": 3, "sweet_nerd": 1}}
+        {"option_id": "a", "text": "Information is power", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Imagination is more important than knowledge", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "The greatest glory in living lies not in never falling", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Actions speak louder than words", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q7",
-      "text": "What do you value most in a partner?",
+      "question_id": "q7",
+      "question": "When you see a pattern others miss, what do you notice?",
       "options": [
-        {"text": "Loyalty and devotion", "scores": {"romantic_hero": 3, "protective_hero": 1}},
-        {"text": "Passion and emotional connection", "scores": {"soulmate_artist": 3, "bad_boy": 1}},
-        {"text": "Adventure and spontaneity", "scores": {"adventure_partner": 3}},
-        {"text": "Understanding and acceptance", "scores": {"intellectual": 2, "sweet_nerd": 2}}
+        {"option_id": "a", "text": "Logical connections between data points", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Unconventional possibilities and opportunities", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "Emotional undercurrents and human dynamics", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Practical applications and real-world uses", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     },
     {
-      "id": "q8",
-      "text": "How do you handle conflict?",
+      "question_id": "q8",
+      "question": "What type of challenge excites you the most?",
       "options": [
-        {"text": "Become overly protective or possessive", "scores": {"protective_hero": 3, "romantic_hero": 1}},
-        {"text": "Withdraw and process emotions privately", "scores": {"soulmate_artist": 3, "intellectual": 1}},
-        {"text": "Say sorry first but suggest an adventure", "scores": {"adventure_partner": 3, "bad_boy": 1}},
-        {"text": "Analyze the problem logically", "scores": {"intellectual": 3, "sweet_nerd": 1}}
+        {"option_id": "a", "text": "A complex puzzle or logical riddle", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Creating something that has never been done before", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "Making a positive difference in someone's life", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Building something tangible and useful", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q9",
+      "question": "How do you prefer to communicate complex ideas?",
+      "options": [
+        {"option_id": "a", "text": "With clear, logical explanations and data", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Through stories, metaphors, and visual representations", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "By relating it to personal experiences and feelings", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "By showing, not telling - hands-on demonstration", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q10",
+      "question": "When faced with uncertainty, you rely on...",
+      "options": [
+        {"option_id": "a", "text": "Logic, reasoning, and available information", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Intuition and creative visualization", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "Trust in people and human connections", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Past experience and what has worked before", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q11",
+      "question": "What skill have you always been naturally good at without much practice?",
+      "options": [
+        {"option_id": "a", "text": "Understanding complex systems and finding flaws", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "Coming up with unique ideas and solutions", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "Understanding how others feel and what they need", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "Making things work with whatever is available", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
+      ]
+    },
+    {
+      "question_id": "q12",
+      "question": "If you could master any skill overnight, what would it be?",
+      "options": [
+        {"option_id": "a", "text": "The ability to solve any problem instantly", "scores": {"analytical": 3, "creative": 0, "empathetic": 0, "practical": 0}},
+        {"option_id": "b", "text": "The ability to create anything I can imagine", "scores": {"analytical": 0, "creative": 3, "empathetic": 0, "practical": 0}},
+        {"option_id": "c", "text": "The ability to understand and heal emotional pain", "scores": {"analytical": 0, "creative": 0, "empathetic": 3, "practical": 0}},
+        {"option_id": "d", "text": "The ability to build anything from scratch", "scores": {"analytical": 0, "creative": 0, "empathetic": 0, "practical": 3}}
       ]
     }
   ],
   "results": {
-    "romantic_hero": {
-      "title": "The Romantic Hero",
-      "description": "Your perfect match is a classic romantic hero - think Mr. Darcy, Prince Charming, or Jamie Fraser. They're devoted, protective, and believe in grand love that stands the test of time.",
-      "examples": ["Mr. Darcy (Pride & Prejudice)", "Prince Eric (The Little Mermaid)", "Jamie Fraser (Outlander)"]
+    "analytical": {
+      "title": "The Analytical Genius",
+      "description": "Your hidden genius lies in your exceptional analytical abilities. You have a natural talent for seeing patterns, solving complex problems, and understanding how systems work. Your mind is like a finely tuned machine that can process vast amounts of information and find logical solutions that others might miss. This makes you invaluable in fields that require critical thinking, research, and strategic planning.",
+      "emoji": "🧠"
     },
-    "protective_hero": {
-      "title": "The Protective Hero",
-      "description": "You need a partner who will always put your safety first. Your match is someone like Captain America or Jean Valjean - strong, reliable, and willing to protect you at all costs.",
-      "examples": ["Captain America (Marvel)", "Jean Valjean (Les Misérables)", "Thor (Marvel)"]
+    "creative": {
+      "title": "The Creative Genius",
+      "description": "Your hidden genius is your extraordinary creativity. You see possibilities where others see limitations, and your imagination knows no bounds. You have a unique ability to think outside the box and come up with innovative solutions that transform how people view the world. Your creative vision can inspire others and bring fresh perspectives to any challenge.",
+      "emoji": "🎨"
     },
-    "soulmate_artist": {
-      "title": "The Soulmate Artist",
-      "description": "You crave deep emotional connection. Your match is a creative soul like Jack Dawson, Christian Grey, or Day 6 from 'The Vampire Diaries' - intense, passionate, and devastatingly romantic.",
-      "examples": ["Jack Dawson (Titanic)", "Christian Grey (Fifty Shades)", "Damon Salvatore (The Vampire Diaries)"]
+    "empathetic": {
+      "title": "The Empathetic Genius",
+      "description": "Your hidden genius is your profound emotional intelligence. You have an remarkable ability to understand what others are feeling and connect on a deep human level. Your empathy allows you to heal, inspire, and bring people together in ways that logical thinking alone cannot achieve. You have the power to make others feel seen, heard, and understood.",
+      "emoji": "💝"
     },
-    "adventure_partner": {
-      "title": "The Adventure Partner",
-      "description": "Life with you is never boring. Your match is someone who lives for excitement - like Jack Sparrow, Han Solo, or Dmitri - spontaneous, daring, and always up for the next thrill.",
-      "examples": ["Jack Sparrow (Pirates of the Caribbean)", "Han Solo (Star Wars)", "Dmitri (The Last Song)"]
-    },
-    "bad_boy": {
-      "title": "The Bad Boy with a Heart",
-      "description": "You love the thrill of taming a wild heart. Your match has an edge - like Draco Malfoy, Mr. Grey, or Beast - secretly soft beneath the tough exterior.",
-      "examples": ["Draco Malfoy (Harry Potter)", "Christian Grey (Fifty Shades)", "Beast (Beauty and the Beast)"]
-    },
-    "intellectual": {
-      "title": "The Intellectual Equal",
-      "description": "You need someone who can match your mind. Your match is a brilliant soul like Dr. Strange, Sherlock, or Edward Cullen - smart, sophisticated, and forever intriguing.",
-      "examples": ["Dr. Strange (Marvel)", "Sherlock Holmes", "Edward Cullen (Twilight)"]
-    },
-    "sweet_nerd": {
-      "title": "The Sweet Nerd",
-      "description": "Your perfect match is adorably awkward and genuinely kind. Think Ron Weasley, Ted Mosby, or Pete L. - lovable, loyal, and always putting a smile on your face.",
-      "examples": ["Ron Weasley (Harry Potter)", "Ted Mosby (How I Met Your Mother)", "Pete L. (The Last Song)"]
+    "practical": {
+      "title": "The Practical Genius",
+      "description": "Your hidden genius is your exceptional practical intelligence. You have a gift for making things work - efficiently, reliably, and effectively. While others dream and plan, you build and deliver. Your ability to get things done and solve real-world problems is a rare and valuable talent that transforms ideas into reality.",
+      "emoji": "🔧"
     }
   }
 }

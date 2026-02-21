@@ -328,22 +328,53 @@
       "quiz_id": "quiz_25",
       "title": "Which Taylor Swift Era Matches Your Personality?",
       "category": "which_x",
-      "tags": ["Taylor Swift", "Music", "Personality", "MBTI", "Eras"],
+      "tags": [
+        "Taylor Swift",
+        "Music",
+        "Personality",
+        "MBTI",
+        "Eras"
+      ],
       "description": "Discover which Taylor Swift era matches your personality based on MBTI traits!"
     },
     {
       "quiz_id": "quiz_26",
       "title": "What's Your ChatGPT Personality Type?",
       "category": "which_x",
-      "tags": ["ChatGPT", "AI", "Personality", "MBTI", "Tech"],
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "Personality",
+        "MBTI",
+        "Tech"
+      ],
       "description": "Discover your ChatGPT personality type based on how you interact with AI!"
     },
     {
       "quiz_id": "quiz_27",
       "title": "Which SZA Song Matches Your Personality?",
       "category": "which_x",
-      "tags": ["SZA", "Music", "Personality", "MBTI", "R&B"],
+      "tags": [
+        "SZA",
+        "Music",
+        "Personality",
+        "MBTI",
+        "R&B"
+      ],
       "description": "Discover which SZA song matches your personality based on MBTI traits!"
+    },
+    {
+      "quiz_id": "quiz_29",
+      "title": "What's Your Hidden Genius?",
+      "category": "hidden",
+      "tags": [
+        "Personality",
+        "Hidden Talent",
+        "Intelligence",
+        "Unique",
+        "Self Discovery"
+      ],
+      "description": "Everyone has a unique hidden genius waiting to be discovered! Answer these 12 questions to reveal your extraordinary hidden talent."
     }
   ]
 }
