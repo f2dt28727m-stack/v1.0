@@ -1,134 +1,138 @@
 {
-  "quizId": 32,
-  "title": "你的灾难生存风格是什么？",
-  "type": "scenario",
-  "category": "scenario",
-  "category_name": "What Would You Do?",
-  "language": "zh",
-  "description": "发现你在紧急情况和灾难中的真实应对方式",
-  "resultTitle": "你的生存风格",
+  "title": "你的秘密代号是什么？",
+  "title_en": "What's Your Secret Codename?",
+  "description": "发现宇宙为你分配的隐藏身份。",
+  "description_en": "Discover the classified identity that the universe has assigned you.",
+  "type": "hidden",
+  "category": "secret",
   "questions": [
     {
-      "id": 1,
-      "text": "僵尸末日现在开始爆发。你的第一个动作是什么？",
+      "text": "凌晨3点，你收到一条紧急消息。你的第一反应是？",
+      "text_en": "It's 3 AM and you receive an urgent message. What's your first reaction?",
       "options": [
-        { "id": "a", "text": "召集朋友，找到安全地点", "scores": {"leader": 3, "survivor": 1, "hero": 1, "diplomat": 0} },
-        { "id": "b", "text": "去最近的超市储备物资", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "尽力拯救最多的人", "scores": {"leader": 1, "survivor": 0, "hero": 3, "diplomat": 0} },
-        { "id": "d", "text": "打电话给家人，确认大家都安全", "scores": {"leader": 0, "survivor": 1, "hero": 0, "diplomat": 3} }
+        {"text": "立即行动 - 使命在召唤", "text_en": "Jump into action immediately - duty calls", "score": {"A": 3}},
+        {"text": "冷静评估情况，制定应对方案", "text_en": "Assess the situation calmly and plan your response", "score": {"B": 3}},
+        {"text": "质疑这是谁发的，是不是陷阱", "text_en": "Question who's behind this and if it's a trap", "score": {"C": 3}},
+        {"text": "忽略它 - 没什么值得熬夜的", "text_en": "Ignore it - nothing is worth losing sleep over", "score": {"D": 3}}
       ]
     },
     {
-      "id": 2,
-      "text": "你被困在着火的建筑里，还有三个陌生人。你怎么做？",
+      "text": "你发现最好的朋友对你隐瞒了一个重大秘密。你会如何处理？",
+      "text_en": "You discover your best friend has been keeping a major secret from you. How do you handle it?",
       "options": [
-        { "id": "a", "text": "掌控局面，组织疏散计划", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
-        { "id": "b", "text": "寻找最快的自救方法", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "先帮助最脆弱的人", "scores": {"leader": 0, "survivor": 0, "hero": 3, "diplomat": 1} },
-        { "id": "d", "text": "努力让大家保持冷静，一起行动", "scores": {"leader": 1, "survivor": 0, "hero": 0, "diplomat": 3} }
+        {"text": "直接对质 - 透明度是必须的", "text_en": "Confront them directly - transparency is essential", "score": {"A": 2, "C": 1}},
+        {"text": "等待观察 - 他们准备好了就会说", "text_en": "Wait and observe - they'll reveal it when ready", "score": {"B": 3}},
+        {"text": "以此作为筹码 - 秘密就是力量", "text_en": "Use it as leverage - secrets are power", "score": {"C": 3}},
+        {"text": "接受它 - 每个人都有隐私权", "text_en": "Accept it - everyone deserves privacy", "score": {"D": 3}}
       ]
     },
     {
-      "id": 3,
-      "text": "一颗流星正朝地球飞来。你还有24小时。你的计划是什么？",
+      "text": "间谍电影最吸引你的是什么？",
+      "text_en": "What appeals to you most about spy movies?",
       "options": [
-        { "id": "a", "text": "组织全球应急响应团队", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
-        { "id": "b", "text": "储备物资，找到最佳避难所", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "和爱的人在一起，创造最后的回忆", "scores": {"leader": 0, "survivor": 1, "hero": 1, "diplomat": 2} },
-        { "id": "d", "text": "传播希望，尝试团结人们", "scores": {"leader": 1, "survivor": 0, "hero": 2, "diplomat": 2} }
+        {"text": "动作场面和黑科技道具", "text_en": "The action sequences and gadgets", "score": {"A": 3}},
+        {"text": "心理博弈", "text_en": "The psychological mind games", "score": {"B": 2, "C": 1}},
+        {"text": "神秘的卧底特工", "text_en": "The mysterious double agents", "score": {"C": 3}},
+        {"text": "低调行事的刺激感", "text_en": "The thrill of staying under the radar", "score": {"D": 3}}
       ]
     },
     {
-      "id": 4,
-      "text": "你在森林里迷路了，没有手机信号。天快黑了，你...",
+      "text": "如果你必须为秘密任务选择一件武器，你会选什么？",
+      "text_en": "If you had to choose a weapon for a secret mission, what would it be?",
       "options": [
-        { "id": "a", "text": "爬到高处看星星找方向", "scores": {"leader": 1, "survivor": 2, "hero": 1, "diplomat": 0} },
-        { "id": "b", "text": "搭建庇护所，生火度过夜晚", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "大声呼救，希望有人听到", "scores": {"leader": 0, "survivor": 1, "hero": 2, "diplomat": 1} },
-        { "id": "d", "text": "待在原地，让搜救队能找到你", "scores": {"leader": 1, "survivor": 1, "hero": 0, "diplomat": 2} }
+        {"text": "快速安静 - 带消音器的手枪", "text_en": "Quick and quiet - a silenced pistol", "score": {"A": 2, "C": 1}},
+        {"text": "不留痕迹的东西", "text_en": "Something that leaves no trace", "score": {"B": 3}},
+        {"text": "言语是我的武器 - 操控", "text_en": "Words are my weapon - manipulation", "score": {"C": 3}},
+        {"text": "科技 - 入侵一切", "text_en": "Technology - hack everything", "score": {"D": 3}}
       ]
     },
     {
-      "id": 5,
-      "text": "发生大地震时你正在上班。你的 immediate 反应是什么？",
+      "text": "你理想的周末是怎么度过的？",
+      "text_en": "What's your ideal way to spend a weekend?",
       "options": [
-        { "id": "a", "text": "帮助同事有序疏散", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
-        { "id": "b", "text": "躲在坚固的家具下，观察情况", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "冲回去救行动不便的人", "scores": {"leader": 0, "survivor": 0, "hero": 3, "diplomat": 0} },
-        { "id": "d", "text": "先检查大家的情绪状态", "scores": {"leader": 0, "survivor": 0, "hero": 0, "diplomat": 3} }
+        {"text": "冒险！刺激肾上腺素的", "text_en": "Adventure! Something adrenaline-pumping", "score": {"A": 3}},
+        {"text": "深入做一个个人项目", "text_en": "Deep work on a personal project", "score": {"B": 3}},
+        {"text": "社交和收集情报", "text_en": "Networking and gathering intelligence", "score": {"C": 3}},
+        {"text": "完全失联地放松", "text_en": "Relaxing completely off the grid", "score": {"D": 3}}
       ]
     },
     {
-      "id": 6,
-      "text": "你的车在危险的街区抛锚了，晚上。你...",
+      "text": "在团队项目中，你扮演什么角色？",
+      "text_en": "In a group project, what's your role?",
       "options": [
-        { "id": "a", "text": "打电话求救，但保持警惕", "scores": {"leader": 1, "survivor": 2, "hero": 0, "diplomat": 1} },
-        { "id": "b", "text": "走到最近的有灯的公共场所", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "搭陌生人的便车（紧急情况）", "scores": {"leader": 0, "survivor": 1, "hero": 2, "diplomat": 1} },
-        { "id": "d", "text": "发消息给某人，让对方保持通话", "scores": {"leader": 1, "survivor": 1, "hero": 0, "diplomat": 2} }
+        {"text": "掌控全局的领导者", "text_en": "The leader who takes charge", "score": {"A": 3}},
+        {"text": "制定全盘计划的策略师", "text_en": "The strategist who plans everything", "score": {"B": 3}},
+        {"text": "收集情报的内线", "text_en": "The insider who gathers intel", "score": {"C": 2, "D": 1}},
+        {"text": "带来意外解决方案的奇兵", "text_en": "The wildcard who brings unexpected solutions", "score": {"D": 2, "A": 1}}
       ]
     },
     {
-      "id": 7,
-      "text": "一种致命病毒正在传播。政府宣布封城。你...",
+      "text": "你如何对付威胁你的人？",
+      "text_en": "How do you handle someone who threatens you?",
       "options": [
-        { "id": "a", "text": "为你的社区创建支持网络", "scores": {"leader": 3, "survivor": 0, "hero": 1, "diplomat": 1} },
-        { "id": "b", "text": "储备必需品，准备长期蛰伏", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "去医院做志愿者，帮助一线工作者", "scores": {"leader": 1, "survivor": 0, "hero": 3, "diplomat": 0} },
-        { "id": "d", "text": "问候年迈的邻居，主动帮他们买东西", "scores": {"leader": 0, "survivor": 1, "hero": 1, "diplomat": 2} }
+        {"text": "正面刚", "text_en": "Face them head-on", "score": {"A": 3}},
+        {"text": "在暗处智取", "text_en": "Outsmart them from the shadows", "score": {"B": 3}},
+        {"text": "找他们的弱点并利用", "text_en": "Find their weakness and use it", "score": {"C": 3}},
+        {"text": "消失 - 让 自己无法触及", "text_en": "Disappear - make yourself untouchable", "score": {"D": 3}}
       ]
     },
     {
-      "id": 8,
-      "text": "你的飞机遇到严重颠簸。飞行员宣布紧急情况。你...",
+      "text": "你对信任的看法是什么？",
+      "text_en": "What's your philosophy on trust?",
       "options": [
-        { "id": "a", "text": "保持冷静，记住紧急程序", "scores": {"leader": 1, "survivor": 2, "hero": 0, "diplomat": 1} },
-        { "id": "b", "text": "先专注给自己系好氧气面罩", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "帮助旁边看起来很惊慌的人", "scores": {"leader": 0, "survivor": 0, "hero": 3, "diplomat": 0} },
-        { "id": "d", "text": "握住邻座的手，一起祈祷", "scores": {"leader": 0, "survivor": 1, "hero": 0, "diplomat": 3} }
+        {"text": "信任是通过行动赢得的", "text_en": "Trust is earned through action", "score": {"A": 2, "B": 1}},
+        {"text": "信任但要验证", "text_en": "Trust but verify", "score": {"B": 3}},
+        {"text": "不完全信任任何人", "text_en": "Trust no one completely", "score": {"C": 3}},
+        {"text": "信任是直觉性的 - 我看人很准", "text_en": "Trust is intuitive - I read people", "score": {"D": 2, "B": 1}}
       ]
     },
     {
-      "id": 9,
-      "text": "你醒来发现公寓正在进水。水涨得很快。你...",
+      "text": "如果你能瞬间掌握一项技能，你会选什么？",
+      "text_en": "If you could master any skill instantly, what would it be?",
       "options": [
-        { "id": "a", "text": "关闭电源，尝试抢救财物", "scores": {"leader": 2, "survivor": 1, "hero": 1, "diplomat": 0} },
-        { "id": "b", "text": "抓住必需品，立即转移到高处", "scores": {"leader": 0, "survivor": 3, "hero": 0, "diplomat": 1} },
-        { "id": "c", "text": "检查邻居是否需要帮助撤离", "scores": {"leader": 1, "survivor": 0, "hero": 3, "diplomat": 0} },
-        { "id": "d", "text": "打电话给所有人寻求帮助和最新情况", "scores": {"leader": 0, "survivor": 1, "hero": 0, "diplomat": 3} }
+        {"text": "掌握任何格斗术", "text_en": "Mastering any combat style", "score": {"A": 3}},
+        {"text": "读懂和预测人类行为", "text_en": "Reading and predicting human behavior", "score": {"B": 3}},
+        {"text": "完美的欺骗和说服", "text_en": "Perfect deception and persuasion", "score": {"C": 3}},
+        {"text": "隐形和潜行", "text_en": "Invisibility and stealth", "score": {"D": 3}}
       ]
     },
     {
-      "id": 10,
-      "text": "在海里游泳时鲨鱼袭击了你。你的反应是什么？",
+      "text": "面对混乱时你的反应是什么？",
+      "text_en": "What's your reaction to chaos?",
       "options": [
-        { "id": "a", "text": "保持冷静，慢慢游回岸边", "scores": {"leader": 1, "survivor": 2, "hero": 0, "diplomat": 1} },
-        { "id": "b", "text": "如果它靠近就激烈反击", "scores": {"leader": 0, "survivor": 2, "hero": 2, "diplomat": 0} },
-        { "id": "c", "text": "向附近的游泳者大声呼救", "scores": {"leader": 0, "survivor": 1, "hero": 2, "diplomat": 1} },
-        { "id": "d", "text": "让自己尽可能变小并保持静止", "scores": {"leader": 1, "survivor": 1, "hero": 0, "diplomat": 2} }
+        {"text": "我在混乱中如鱼得水 - 尽管来", "text_en": "I thrive in it - bring it on", "score": {"A": 3}},
+        {"text": "我在混乱中找到秩序", "text_en": "I find order within the chaos", "score": {"B": 3}},
+        {"text": "我利用混乱为己所用", "text_en": "I use the chaos to my advantage", "score": {"C": 3}},
+        {"text": "我退后一步，让它自然平息", "text_en": "I step back and let it pass", "score": {"D": 3}}
       ]
     }
   ],
   "results": {
-    "leader": {
-      "title": "危机领导者",
-      "description": "你在紧急情况中发光发热！当别人恐慌时，你掌控局面，组织人们求生。你的天然领导力在关键时刻显现。你是别人在混乱中寻求方向的人。",
-      "emoji": "🦅"
+    "A": {
+      "title": "凤凰",
+      "title_en": "PHOENIX",
+      "description": "你是那种在暗处行动、但以炽烈冲击出击的特工。你的代号反映了你从任何困境中崛起的能力，以及在每次任务中带来炽烈决心的特质。你不只是完成任务 - 你让它们成为传奇。",
+      "description_en": "You're the operative who operates in the shadows but strikes with blazing impact. Your codename reflects your ability to rise from any situation and bring fiery determination to every mission. You don't just complete missions - you make them legendary."
     },
-    "survivor": {
-      "title": "务实的生存者",
-      "description": "你是生存机器！处于危机模式时，你专注于实际解决方案和自我保护。你保持冷静，思路清晰，知道该怎么做。你对任何挑战都做好准备。",
-      "emoji": "🦊"
+    "B": {
+      "title": "守望者",
+      "title_en": "VIGILANT",
+      "description": "你是那种能看到别人忽略的模式的大师策略师。你的代号反映了你不变的警觉和精密规划的方法。在你的世界里，没有什么是偶然发生的。你总是有B、C、D计划。",
+      "description_en": "You're the master strategist who sees patterns others miss. Your codename reflects your unwavering watchfulness and calculated approach. You're the one who always has a plan B, C, and D. In your world, nothing happens by accident."
     },
-    "hero": {
-      "title": "勇敢的英雄",
-      "description": "危险让你变得英勇！灾难发生时，你的本能是帮助他人，即使有个人风险。你有强烈的责任感，无法袖手旁观看着他人受苦。你是在危险中冲向前方的人。",
-      "emoji": "🦁"
+    "C": {
+      "title": "幽灵",
+      "title_en": "WRAITH",
+      "description": "你是终极渗透者 - 无形、无法追踪、致命高效。你的代号反映了你穿梭于各种圈子而不留痕迹的能力。人们只知道你来过，因为你留下的是结果。",
+      "description_en": "You're the ultimate infiltrator - invisible, untraceable, and deadly efficient. Your codename reflects your ability to move through worlds without leaving a trace. People know you've been there only by the results you leave behind."
     },
-    "diplomat": {
-      "title": "富有同理心的外交官",
-      "description": "在紧急情况下，你优先考虑人而不是任务。你的优势是情商——你让别人保持冷静、保持联系、得到照顾。当别人行动时，你维系情感。你是将团体凝聚在一起的核心。",
-      "emoji": "🐻"
+    "D": {
+      "title": "幽影",
+      "title_en": "GHOST",
+      "description": "你是游离于系统之外的幽灵。你的代号反映了你的哲学 - 永远不在别人期望的地方出现。你独自行动，随意消失，留下未解之谜。这个世界只有在你愿意时才看得到你。",
+      "description_en": "You're the phantom who exists outside the system. Your codename reflects your philosophy of never being where you're expected to be. You work alone, vanish at will, and leave questions unanswered. The world sees you only if you want it to."
     }
-  }
+  },
+  "scoring": "highest_score",
+  "version": 1
 }
