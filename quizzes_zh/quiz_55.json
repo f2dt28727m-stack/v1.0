@@ -1,0 +1,169 @@
+{
+  "quizId": 55,
+  "title": "你的隐藏人格是什么？",
+  "type": "hidden",
+  "category": "hidden_secret",
+  "category_name": "隐藏属性型",
+  "language": "Chinese",
+  "description": "每个人都有不为人知的一面。回答这12道题，发现你隐藏在表面之下的真实自我！",
+  "tags": [
+    "性格",
+    "隐藏",
+    "自我探索",
+    "心理",
+    "深度",
+    "人格",
+    "Personality",
+    "Secret",
+    "Psychology"
+  ],
+  "resultTitle": "你的隐藏人格",
+  "results": {
+    "rebel": {
+      "title": "隐藏的叛逆者",
+      "description": "在你冷静的外表下，藏着一颗渴望自由的狂野灵魂。你表面遵守规则，内心却梦想着打破界限、按自己的方式生活。你的隐藏人格渴望冒险、 spontaneity（随性）和挑战期望。"
+    },
+    "dreamer": {
+      "title": "隐藏的梦想家",
+      "description": "别人看你务实接地气，但你的内心世界是一个充满幻想和宏伟愿景的奇妙领域。你隐藏着一个创造性的能量库，想象着无限可能。你的隐藏人格在空中建造城堡，而大家都以为你只关注现实。"
+    },
+    "warrior": {
+      "title": "沉默的战士",
+      "description": "人们觉得你温柔甚至被动，但你体内藏着一只凶猛的野兽。当关键时刻到来，你隐藏的人格可以非常勇敢和无畏。你只是在等待合适的时机释放内心的力量。"
+    },
+    "sage": {
+      "title": "安静的智者",
+      "description": "在你日常人格的背后，藏着一个看穿幻象的深度思考者。你观察得多说得少，你的隐藏人格拥有别人常常忽略的智慧。你隐藏的深度包含着大多数人还没问出口的问题的答案。"
+    },
+    "lover": {
+      "title": "隐藏的浪漫主义者",
+      "description": "你可能看起来沉着独立，但你的隐藏人格是一个渴望深度连接的痴心浪漫者。在冷酷的外表下跳动着一颗渴望灵魂深处亲密和有意义纽带的心。你隐藏的脆弱其实是你最大的优点。"
+    },
+    "joker": {
+      "title": "隐藏的逗比",
+      "description": "虽然你可能看起来严肃甚至阴沉，你的隐藏人格其实超级有趣。你有一种邪恶的幽默感，只在特殊时刻展现。你隐藏的活泼一面喜欢用你意想不到的机智和魅力给人惊喜。"
+    }
+  },
+  "questions": [
+    {
+      "qId": 1,
+      "text": "当你独自一人没人注意时，你通常会...",
+      "options": [
+        {"optionId": "A", "text": "做白日梦，幻想冒险和逃离", "score": {"rebel": 2, "dreamer": 3}},
+        {"optionId": "B", "text": "深入思考人生和意义", "score": {"sage": 3, "warrior": 1}},
+        {"optionId": "C", "text": "看有趣的东西，自己傻笑", "score": {"joker": 3, "lover": 1}},
+        {"optionId": "D", "text": "想象浪漫的场景和联系", "score": {"lover": 3, "dreamer": 2}}
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "如果你能偷偷做一件没有后果的事，那会是...",
+      "options": [
+        {"optionId": "A", "text": "独自去一个异国他乡旅行", "score": {"rebel": 3, "warrior": 1}},
+        {"optionId": "B", "text": "坦白一些你从未告诉别人的事", "score": {"lover": 3, "sage": 1}},
+        {"optionId": "C", "text": "给某人搞一个恶作剧", "score": {"joker": 3, "rebel": 1}},
+        {"optionId": "D", "text": "在小屋里写东西或创作一个月", "score": {"dreamer": 3, "sage": 2}}
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "哪句话最能引起你的共鸣？",
+      "options": [
+        {"optionId": "A", "text": "我没有特别的天赋，我只是极度好奇。（爱因斯坦）", "score": {"dreamer": 3, "sage": 2}},
+        {"optionId": "B", "text": "成就伟大事业的唯一途径是热爱你所做的事。", "score": {"lover": 2, "warrior": 1}},
+        {"optionId": "C", "text": "我至少从这次实验中学到了这一点：如果一个人坚定地朝着梦想的方向前进，努力过他想过的生活，他会在平凡的日子里遇到意想不到的成功。（梭罗）", "score": {"rebel": 3, "dreamer": 2}},
+        {"optionId": "D", "text": "我不迷信，但我有点迷信。（Michael Scott）", "score": {"joker": 3}}
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "当有人深深惹怒你时，你通常会...",
+      "options": [
+        {"optionId": "A", "text": "外表冷静，但暗中策划报复", "score": {"warrior": 3, "sage": 1}},
+        {"optionId": "B", "text": "公开表达然后翻篇", "score": {"rebel": 2, "warrior": 2}},
+        {"optionId": "C", "text": "把对方拉黑，一走了之", "score": {"sage": 3, "joker": 1}},
+        {"optionId": "D", "text": "感到受伤但用幽默掩盖", "score": {"lover": 2, "joker": 2}}
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "当你有完全自由时，理想的周末是...",
+      "options": [
+        {"optionId": "A", "text": "说走就走的公路旅行，没有目的地", "score": {"rebel": 3, "warrior": 1}},
+        {"optionId": "B", "text": "蜷缩着看书或看让你感动的电影", "score": {"dreamer": 3, "lover": 2}},
+        {"optionId": "C", "text": "和好朋友深入交谈", "score": {"lover": 3, "sage": 1}},
+        {"optionId": "D", "text": "计划一些有创意的事或学新东西", "score": {"sage": 2, "dreamer": 2}}
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "你最羡慕别人的是什么？",
+      "options": [
+        {"optionId": "A", "text": "他们做真实自己的勇气", "score": {"rebel": 3, "dreamer": 1}},
+        {"optionId": "B", "text": "他们逗人发笑的能力", "score": {"joker": 3, "lover": 1}},
+        {"optionId": "C", "text": "他们的情感深度和脆弱", "score": {"lover": 3, "sage": 1}},
+        {"optionId": "D", "text": "他们的思路清晰和智慧", "score": {"sage": 3, "warrior": 1}}
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "你小时候偷偷想成为...",
+      "options": [
+        {"optionId": "A", "text": "拯救世界的超级英雄", "score": {"warrior": 3, "rebel": 1}},
+        {"optionId": "B", "text": "巫师或神奇生物", "score": {"dreamer": 3, "lover": 1}},
+        {"optionId": "C", "text": "让大家都笑的喜剧演员", "score": {"joker": 3}},
+        {"optionId": "D", "text": "智慧的导师或神秘的长者", "score": {"sage": 3, "dreamer": 1}}
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "哪种音乐类型匹配你隐藏的心情？",
+      "options": [
+        {"optionId": "A", "text": "摇滚、朋克或反叛歌曲", "score": {"rebel": 3, "warrior": 2}},
+        {"optionId": "B", "text": "独立民谣或梦幻流行", "score": {"dreamer": 3, "lover": 2}},
+        {"optionId": "C", "text": "爵士、蓝调或富有哲理的歌词", "score": {"sage": 3}},
+        {"optionId": "D", "text": "喜剧播客或单口喜剧", "score": {"joker": 3}}
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "当你睡不着的时候，你会做什么？",
+      "options": [
+        {"optionId": "A", "text": "计划未来的冒险或幻想不同的生活", "score": {"dreamer": 3, "rebel": 1}},
+        {"optionId": "B", "text": "回放对话并分析", "score": {"sage": 3, "lover": 1}},
+        {"optionId": "C", "text": "刷有趣的内容或回忆有趣的事", "score": {"joker": 3}},
+        {"optionId": "D", "text": "思考人际关系和想要的生活", "score": {"lover": 3, "warrior": 1}}
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "如果你的朋友要描述你隐藏的一面，他们会说你...",
+      "options": [
+        {"optionId": "A", "text": "比表面上看到的要强势得多", "score": {"warrior": 3, "rebel": 1}},
+        {"optionId": "B", "text": "比想象中更奇怪更可爱", "score": {"dreamer": 3, "joker": 1}},
+        {"optionId": "C", "text": "比表现出来的更深情更敏感", "score": {"lover": 3, "sage": 1}},
+        {"optionId": "D", "text": "比任何人都更聪明更善于观察", "score": {"sage": 3}}
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "你很少承认的最大恐惧是什么？",
+      "options": [
+        {"optionId": "A", "text": "过一种平淡无奇的冒险生活", "score": {"rebel": 3, "dreamer": 1}},
+        {"optionId": "B", "text": "永远不被真正理解", "score": {"lover": 3, "sage": 1}},
+        {"optionId": "C", "text": "看起来很傻或被嘲笑", "score": {"joker": 2, "warrior": 1}},
+        {"optionId": "D", "text": "浪费潜力或想不通一些问题", "score": {"sage": 3, "warrior": 1}}
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "选择一个直击你灵魂的图片：",
+      "options": [
+        {"optionId": "A", "text": "一只孤独的狼站在山崖上", "score": {"rebel": 3, "warrior": 2}},
+        {"optionId": "B", "text": "充满灰尘书籍和烛光的古老图书馆", "score": {"sage": 3, "dreamer": 1}},
+        {"optionId": "C", "text": "两个人一起尽情大笑", "score": {"joker": 2, "lover": 3}},
+        {"optionId": "D", "text": "彩虹天空下的一片花田", "score": {"dreamer": 3, "lover": 2}}
+      ]
+    }
+  ]
+}
