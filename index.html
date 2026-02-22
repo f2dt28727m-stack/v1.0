@@ -1080,7 +1080,6 @@
                 html += `
                 <div class="category-section">
                     <div class="category-header">
-                        <span class="category-icon">${categoryData.icon}</span>
                         <span class="category-title">${category}</span>
                     </div>
                     <div class="category-tags" id="tags-${category.replace(/\s+/g, '-')}">
@@ -1090,7 +1089,7 @@
                 visibleTags.forEach(tag => {
                     html += `
                         <div class="filter-tag" data-tag="${tag.tag_id}" onclick="toggleTag('${tag.tag_id}')">
-                            ${tag.icon} ${tag.text}
+                            ${tag.text}
                         </div>
                     `;
                 });
@@ -1101,7 +1100,7 @@
                     hiddenTags.forEach(tag => {
                         html += `
                             <div class="filter-tag hidden" data-tag="${tag.tag_id}" onclick="toggleTag('${tag.tag_id}')">
-                                ${tag.icon} ${tag.text}
+                                ${tag.text}
                             </div>
                         `;
                     });
@@ -1315,7 +1314,6 @@
                 html += `
                 <div class="category-section">
                     <div class="category-header">
-                        <span class="category-icon">${categoryData.icon}</span>
                         <span class="category-title">${category}</span>
                     </div>
                     <div class="category-tags">
@@ -1325,7 +1323,7 @@
                 categoryData.tags.forEach(tag => {
                     html += `
                         <div class="filter-tag" data-tag="${tag.tag_id}" onclick="toggleWelcomeTag('${tag.tag_id}')">
-                            ${tag.icon} ${tag.text}
+                            ${tag.text}
                         </div>
                     `;
                 });
