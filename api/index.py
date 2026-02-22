@@ -146,8 +146,6 @@ def app(environ, start_response):
             return [response.encode('utf-8')]
         
         questions = quiz.get('questions', [])
-        if len(questions) > 12:
-            questions = random.sample(questions, 12)
         
         for i, q in enumerate(questions):
             q['temp_id'] = f'q{i+1}'
