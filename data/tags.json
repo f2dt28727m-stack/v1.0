@@ -198,5 +198,63 @@
       "养生",
       "Healthy"
     ]
+  },
+  "Gaming": {
+    "Fortnite": [
+      "Fortnite",
+      "fortnite",
+      "堡垒之夜"
+    ],
+    "Roblox": [
+      "Roblox",
+      "roblox",
+      "罗布乐思"
+    ],
+    "Minecraft": [
+      "Minecraft",
+      "minecraft",
+      "我的世界"
+    ],
+    "Genshin Impact": [
+      "Genshin Impact",
+      "genshin impact",
+      "原神",
+      "原"
+    ],
+    "League of Legends": [
+      "League of Legends",
+      "league of legends",
+      "LOL",
+      "英雄联盟",
+      "LoL"
+    ],
+    "Stardew Valley": [
+      "Stardew Valley",
+      "stardew valley",
+      "星露谷物语",
+      "星露谷"
+    ],
+    "Brawl Stars": [
+      "Brawl Stars",
+      "brawl stars",
+      "荒野乱斗"
+    ],
+    "Honkai Star Rail": [
+      "Honkai Star Rail",
+      "honkai star rail",
+      "崩坏：星穹铁道",
+      "崩坏星铁",
+      "星穹铁道"
+    ],
+    "Gaming": [
+      "Gaming",
+      "gaming",
+      "游戏"
+    ],
+    "Playstyle": [
+      "Playstyle",
+      "playstyle",
+      "玩法风格"
+    ]
   }
 }
