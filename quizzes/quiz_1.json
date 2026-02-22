@@ -2301,5 +2301,10 @@
     "dimensionCalculation": "Sum scores for each dimension (E/I, S/N, T/F, J/P), higher score determines the type",
     "tiebreakerRule": "If tied, prioritize the dimension that aligns with Disney princess core traits",
     "percentageDisplay": "Show percentage of each dimension (e.g., E: 35% | I: 65%) below the main result"
-  }
+  },
+  "emoji": [
+    "👸",
+    "🏰",
+    "💫"
+  ]
 }

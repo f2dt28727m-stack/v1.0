@@ -328,7 +328,8 @@ function getQuizEmojis(title) {
 
 function renderQuizDetail() {
     const tags = quizData.tags || ['Disney', 'Princess', 'Personality', 'MBTI'];
-    const emojis = getQuizEmojis(quizData.title);
+    // Use emoji from quiz data, fallback to getQuizEmojis
+    const emojis = quizData.emoji || getQuizEmojis(quizData.title);
     
     // Generate consistent stats based on quiz ID - SAME AS INDEX PAGE
     const quizId = getQuizId() || '1';

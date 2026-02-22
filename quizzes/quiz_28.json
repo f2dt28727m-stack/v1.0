@@ -383,7 +383,12 @@
       "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
       "minScore": 30,
       "maxScore": 36,
-      "mbtiTypes": ["ENFJ", "ESFJ", "INFP", "ISFP"]
+      "mbtiTypes": [
+        "ENFJ",
+        "ESFJ",
+        "INFP",
+        "ISFP"
+      ]
     },
     {
       "title": "The Sweet Dreamer",
@@ -391,7 +396,12 @@
       "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
       "minScore": 20,
       "maxScore": 29,
-      "mbtiTypes": ["INFJ", "ENFP", "ESFP", "ISFJ"]
+      "mbtiTypes": [
+        "INFJ",
+        "ENFP",
+        "ESFP",
+        "ISFJ"
+      ]
     },
     {
       "title": "The Practical Romantic",
@@ -399,7 +409,12 @@
       "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
       "minScore": 10,
       "maxScore": 19,
-      "mbtiTypes": ["ISTJ", "ESTJ", "INTJ", "ENTJ"]
+      "mbtiTypes": [
+        "ISTJ",
+        "ESTJ",
+        "INTJ",
+        "ENTJ"
+      ]
     },
     {
       "title": "The Logical Lover",
@@ -407,7 +422,17 @@
       "image": "https://pic.quizy pop.com/2022/12/08/167s1701064481.png",
       "minScore": 0,
       "maxScore": 9,
-      "mbtiTypes": ["ISTP", "ESTP", "INTP", "ENTP"]
+      "mbtiTypes": [
+        "ISTP",
+        "ESTP",
+        "INTP",
+        "ENTP"
+      ]
     }
+  ],
+  "emoji": [
+    "🧠",
+    "💭",
+    "🔍"
   ]
 }
