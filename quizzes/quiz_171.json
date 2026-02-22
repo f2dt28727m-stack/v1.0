@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your Harry Potter soulmate!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "⚡",
+    "🧙",
+    "🦉"
+  ]
 }

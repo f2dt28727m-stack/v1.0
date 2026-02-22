@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover which Harry Potter character matches your personality!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "⚡",
+    "🧙",
+    "🦉"
+  ]
 }

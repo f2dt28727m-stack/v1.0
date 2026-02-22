@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your hidden travel personality trait!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "✈️",
+    "🗺️",
+    "🧭"
+  ]
 }

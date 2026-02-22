@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your Food Personality Type!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "🍕",
+    "🍳",
+    "🍽️"
+  ]
 }

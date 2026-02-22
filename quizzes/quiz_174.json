@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your hidden Harry Potter trait!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "⚡",
+    "🧙",
+    "🦉"
+  ]
 }

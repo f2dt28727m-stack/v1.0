@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your travel style!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "✈️",
+    "🗺️",
+    "🧭"
+  ]
 }

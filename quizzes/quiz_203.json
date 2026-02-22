@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your Love Language type!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "❤️",
+    "💕",
+    "💌"
+  ]
 }

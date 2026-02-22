@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 epic questions to discover which Marvel superhero you are destined to be!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "🦸",
+    "💥",
+    "🛡️"
+  ]
 }

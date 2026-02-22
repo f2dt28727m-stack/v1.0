@@ -13,5 +13,10 @@
   ],
   "description": "Answer 12 questions to discover your Disney Character Type!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "👸",
+    "🏰",
+    "✨"
+  ]
 }

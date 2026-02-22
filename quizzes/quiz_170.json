@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover which BLACKPINK vibe matches yours!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "🎤",
+    "💃",
+    "✨"
+  ]
 }

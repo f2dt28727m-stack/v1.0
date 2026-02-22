@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your hidden trait inspired by BLACKPINK!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "🎤",
+    "💃",
+    "✨"
+  ]
 }

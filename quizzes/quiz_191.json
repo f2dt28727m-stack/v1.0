@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover how heroic you are in the Marvel universe!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "🦸",
+    "💥",
+    "🛡️"
+  ]
 }

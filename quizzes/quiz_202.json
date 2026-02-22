@@ -15,5 +15,10 @@
   ],
   "description": "Answer 12 questions to discover your hidden food personality trait!",
   "questions": [],
-  "results": []
+  "results": [],
+  "emoji": [
+    "🍕",
+    "🍳",
+    "🍽️"
+  ]
 }
