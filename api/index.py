@@ -105,7 +105,8 @@ def app(environ, start_response):
             'title': quiz.get('title', 'Untitled'),
             'category': quiz.get('category', 'General'),
             'tags': quiz.get('tags', []),
-            'description': quiz.get('description', '')
+            'description': quiz.get('description', ''),
+            'emoji': quiz.get('emoji', ['❓', '✨', '🎯'])
         })
         start_response('200 OK', list(headers.items()) + [('Content-Type', 'application/json')])
         return [response.encode('utf-8')]
