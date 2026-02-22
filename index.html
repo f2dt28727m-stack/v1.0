@@ -431,6 +431,9 @@
     display: flex;
 }
 .category-section {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
     margin-bottom: 6px;
 }
 .category-header {
@@ -438,7 +441,7 @@
     align-items: center;
     gap: 4px;
     margin-right: 8px;
-    vertical-align: middle;
+    flex-shrink: 0;
 }
 .category-icon {
     font-size: 12px;
@@ -452,7 +455,6 @@
     display: inline-flex;
     flex-wrap: wrap;
     gap: 3px;
-    vertical-align: middle;
 }
 .filter-tag {
             padding: 4px 8px;
