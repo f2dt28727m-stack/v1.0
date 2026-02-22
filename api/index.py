@@ -152,37 +152,41 @@ def app(environ, start_response):
             # Define dimension pairs: (dim_a, dim_b)
             dims = [('E', 'I'), ('S', 'N'), ('T', 'F'), ('J', 'P')]
             
-            selected = []
-            used = set()
-            
-            for da, db in dims:
-                dim_qs = []
-                for i, q in enumerate(questions):
-                    if i in used:
-                        continue
-                    # Check if this question tests this dimension
-                    for opt in q.get('options', []):
-                        s = opt.get('score', {})
-                        if s.get(da, 0) > 0 or s.get(db, 0) > 0:
-                            dim_qs.append(i)
-                            break
+            try:
+                selected = []
+                used = set()
                 
-                random.shuffle(dim_qs)
-                for idx in dim_qs[:3]:
-                    if idx not in used:
-                        selected.append(questions[idx])
-                        used.add(idx)
-            
-            # Fill remaining slots
-            if len(selected) < 12:
-                for i, q in enumerate(questions):
-                    if i not in used:
-                        selected.append(q)
-                        used.add(i)
-                        if len(selected) >= 12:
-                            break
-            
-            questions = selected[:12]
+                for da, db in dims:
+                    dim_qs = []
+                    for i, q in enumerate(questions):
+                        if i in used:
+                            continue
+                        # Check if this question tests this dimension
+                        for opt in q.get('options', []):
+                            s = opt.get('score', {})
+                            if s.get(da, 0) > 0 or s.get(db, 0) > 0:
+                                dim_qs.append(i)
+                                break
+                    
+                    random.shuffle(dim_qs)
+                    for idx in dim_qs[:3]:
+                        if idx not in used:
+                            selected.append(questions[idx])
+                            used.add(idx)
+                
+                # Fill remaining slots
+                if len(selected) < 12:
+                    for i, q in enumerate(questions):
+                        if i not in used:
+                            selected.append(q)
+                            used.add(i)
+                            if len(selected) >= 12:
+                                break
+                
+                questions = selected[:12]
+            except Exception as e:
+                # Fallback to simple random
+                questions = random.sample(quiz.get('questions', []), 12)
         
         for i, q in enumerate(questions):
             q['temp_id'] = f'q{i+1}'
