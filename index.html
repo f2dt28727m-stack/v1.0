@@ -1459,30 +1459,51 @@
             // Clear existing categories first
             Object.keys(tagCategories).forEach(key => delete tagCategories[key]);
             
-            const categories = {};
+            // User-controlled category mapping
+            const categoryMapping = {
+                "Popular": { icon: "🔥", tags: [] },
+                "Music": { icon: "🎵", tags: [] },
+                "Movies & TV": { icon: "📺", tags: [] },
+                "Personality": { icon: "✨", tags: [] },
+                "Lifestyle": { icon: "🌟", tags: [] }
+            };
+            
+            const valueToCategory = {
+                "MBTI": "Popular", "Travel": "Popular", "Genshin Impact": "Popular", "Taylor Swift": "Popular",
+                "Olivia Rodrigo": "Music", "NewJeans": "Music", "Sabrina Carpenter": "Music", "K-pop": "Music", "BTS": "Music",
+                "Harry Potter": "Movies & TV", "Marvel": "Movies & TV", "Disney": "Movies & TV", 
+                "Euphoria": "Movies & TV", "Bluey": "Movies & TV", "Netflix": "Movies & TV",
+                "Princess": "Movies & TV", "My Little Pony": "Movies & TV",
+                "Hidden Trait": "Personality", "Aesthetic Personality": "Personality", 
+                "Soulmate Match": "Personality", "Future Life": "Personality", "Love Language": "Personality",
+                "Adventure": "Lifestyle", "Relationships": "Lifestyle", "Fantasy": "Lifestyle",
+                "Friendship": "Lifestyle", "Career": "Lifestyle", "Food": "Lifestyle",
+                "Fashion": "Lifestyle", "Health": "Lifestyle"
+            };
             
             // Build from API data (KEY -> Value structure)
             for (const [category, values] of Object.entries(tagsData)) {
-                categories[category] = {
-                    icon: getCategoryIcon(category),
-                    tags: []
-                };
-                
                 for (const [value, subvalues] of Object.entries(values)) {
-                    if (tagCounts[value]) {
-                        categories[category].tags.push({
-                            tag_id: value.toLowerCase().replace(/\s+/g, '_'),
-                            text: value,
-                            count: tagCounts[value]
-                        });
+                    const targetCat = valueToCategory[value] || category;
+                    if (categoryMapping[targetCat] && tagCounts[value]) {
+                        // Avoid duplicates
+                        if (!categoryMapping[targetCat].tags.some(t => t.text === value)) {
+                            categoryMapping[targetCat].tags.push({
+                                tag_id: value.toLowerCase().replace(/\s+/g, '_'),
+                                text: value,
+                                count: tagCounts[value]
+                            });
+                        }
                     }
                 }
-                
-                categories[category].tags.sort((a, b) => b.count - a.count);
-                categories[category].tags = categories[category].tags.slice(0, 10);
             }
             
-            Object.assign(tagCategories, categories);
+            // Sort by count
+            for (const cat of Object.values(categoryMapping)) {
+                cat.tags.sort((a, b) => b.count - a.count);
+            }
+            
+            Object.assign(tagCategories, categoryMapping);
         }
         
         function getCategoryIcon(category) {
