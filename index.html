@@ -1399,6 +1399,9 @@
                 });
             });
             
+            // Clear existing categories and rebuild
+            Object.keys(tagCategories).forEach(key => delete tagCategories[key]);
+            
             // Group by first letter or create categories
             const categories = {
                 "Popular": { icon: "🔥", tags: [] },
@@ -1447,6 +1450,9 @@
                     tagCounts[tag] = (tagCounts[tag] || 0) + 1;
                 });
             });
+            
+            // Clear existing categories first
+            Object.keys(tagCategories).forEach(key => delete tagCategories[key]);
             
             const categories = {};
             
