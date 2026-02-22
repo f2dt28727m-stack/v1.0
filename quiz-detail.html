@@ -271,7 +271,7 @@ async function loadQuizData() {
             throw new Error('Failed to load quiz data');
         }
         quizData = await response.json();
-        console.log('Quiz data received:', quizData);
+        console.log('Quiz data received:', quizData.title);
         renderQuizDetail();
     } catch (error) {
         console.error('Error loading quiz data:', error);
