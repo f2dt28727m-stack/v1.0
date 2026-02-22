@@ -1250,13 +1250,13 @@
         
         function createCard(t) {
             const count = (t.hot_count / 10000).toFixed(1);
-            const emojis = t.emoji ? t.emoji.join(' ') : '✨';
+            const emoji = t.emoji ? t.emoji[0] : '✨';
             return `<div class="card" onclick="goQuiz('${t.test_id}')">
                 <div class="card-content">
                     <div class="card-title">${t.title}</div>
                     <div class="card-meta">${count}W tests</div>
                 </div>
-                <div class="card-icon">${emojis}</div>
+                <div class="card-icon">${emoji}</div>
             </div>`;
         }
         
