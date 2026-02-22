@@ -263,7 +263,9 @@ async function loadQuizData() {
     try {
         const quizId = getQuizId();
         console.log('Loading quiz:', quizId);
-        const response = await fetch(`/api/quizzes/${quizId}`);
+        
+        // Try to load from static /quizzes/ folder
+        const response = await fetch('/quizzes/' + quizId + '.json');
         console.log('Response status:', response.status);
         if (!response.ok) {
             throw new Error('Failed to load quiz data');
