@@ -1,758 +1,1669 @@
 {
   "quizzes": [
     {
-      "id": "harry-potter-soulmate",
+      "id": "quiz_1",
       "quizNo": 1,
-      "categoryId": "match",
-      "categoryName": "Match/Soulmate",
-      "title": "Which Harry Potter Character Is Your Soulmate?",
-      "icon": "⚡",
-      "userTags": [
-        "Harry Potter",
-        "Soulmate",
-        "Love",
-        "Personality Match"
-      ],
-      "hasQuestions": true
-    },
-    {
-      "id": "marvel-cp",
-      "quizNo": 2,
-      "categoryId": "match",
-      "categoryName": "Match/Soulmate",
-      "title": "Who Is Your Perfect Marvel CP?",
-      "icon": "🕷️",
-      "userTags": [
-        "Marvel",
-        "Perfect CP",
-        "Soulmate",
-        "Superhero"
-      ],
-      "hasQuestions": true
-    },
-    {
-      "id": "workplace-partner",
-      "quizNo": 3,
-      "categoryId": "match",
-      "categoryName": "Match/Soulmate",
-      "title": "Find Your Perfect Workplace Partner",
-      "icon": "💼",
-      "userTags": [
-        "Workplace Partner",
-        "Colleague",
-        "Team",
-        "Personality Match"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "pop-culture-friend",
-      "quizNo": 4,
-      "categoryId": "match",
-      "categoryName": "Match/Soulmate",
-      "title": "Who Is Your Ideal Best Friend in Pop Culture?",
-      "icon": "🎬",
-      "userTags": [
-        "Best Friend",
-        "Pop Culture",
-        "Friendship",
-        "Personality Match"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "kdrama-soulmate",
-      "quizNo": 5,
-      "categoryId": "match",
-      "categoryName": "Match/Soulmate",
-      "title": "Which K-Drama Character Is Your Soulmate?",
-      "icon": "🎬",
-      "userTags": [
-        "K-Drama",
-        "Soulmate",
-        "Love",
-        "Korean Pop Culture"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "zodiac-match",
-      "quizNo": 6,
-      "categoryId": "match",
-      "categoryName": "Match/Soulmate",
-      "title": "Zodiac Match: Which Sign Is Your Perfect Match?",
-      "icon": "♈",
-      "userTags": [
-        "Zodiac",
-        "Perfect Match",
-        "Love",
-        "Astrology"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "disney-character",
-      "quizNo": 7,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
-      "title": "Which Disney Character Are You? (2024 Edition)",
+      "title": "Which Disney Princess Resonates With Your Personality?",
       "icon": "🏰",
       "userTags": [
         "Disney",
-        "Character",
+        "Princess",
         "Personality",
-        "Fun Quiz"
+        "MBTI",
+        "16型人格"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "taylor-swift",
-      "quizNo": 8,
-      "categoryId": "which_x",
-      "categoryName": "Which X Are You?",
-      "title": "Which Taylor Swift Era Character Are You?",
-      "icon": "🎤",
+      "id": "quiz_2",
+      "quizNo": 2,
+      "categoryId": "match",
+      "categoryName": "Match/Soulmate",
+      "title": "Which Harry Potter Character Matches Your Personality?",
+      "icon": "⚡",
       "userTags": [
-        "Taylor Swift",
-        "Era",
-        "Personality",
-        "Pop Music"
+        "Harry Potter",
+        "Wizarding World",
+        "MBTI",
+        "Personality"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "workplace-personality",
-      "quizNo": 9,
+      "id": "quiz_3",
+      "quizNo": 3,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
-      "title": "Which Workplace Personality Are You? (Team Role Quiz)",
-      "icon": "💼",
-      "userTags": [
-        "Workplace",
-        "Team Role",
-        "Personality",
-        "Career"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "marvel-superhero",
-      "quizNo": 10,
-      "categoryId": "which_x",
-      "categoryName": "Which X Are You?",
-      "title": "Which Marvel Superhero Are You? (Complete Edition)",
+      "title": "Which Marvel Superhero Matches Your Personality?",
       "icon": "🦸",
       "userTags": [
         "Marvel",
         "Superhero",
-        "Personality",
-        "Action"
+        "MCU",
+        "MBTI",
+        "Personality"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "anime-character",
-      "quizNo": 11,
+      "id": "quiz_4",
+      "quizNo": 4,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
-      "title": "Which Anime Character Are You? (Top 50 Shows)",
+      "title": "Which Disney Villain Are You?",
+      "icon": "🏰",
+      "userTags": [
+        "Disney",
+        "Villain",
+        "MBTI",
+        "Personality",
+        "Dark Side"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_5",
+      "quizNo": 5,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Anime Character Are You?",
       "icon": "🎌",
       "userTags": [
         "Anime",
         "Character",
-        "Otaku",
-        "Personality"
+        "MBTI",
+        "Personality",
+        "Otaku"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "zodiac-personality",
-      "quizNo": 12,
+      "id": "quiz_6",
+      "quizNo": 6,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
-      "title": "Which Zodiac Personality Are You? (Astrology Quiz)",
-      "icon": "♉",
+      "title": "Which Harry Potter Character Are You?",
+      "icon": "⚡",
+      "userTags": [
+        "Harry Potter",
+        "Wizarding World",
+        "MBTI",
+        "Personality",
+        "Hogwarts"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_7",
+      "quizNo": 7,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Zodiac Sign Character Are You?",
+      "icon": "📝",
       "userTags": [
         "Zodiac",
         "Astrology",
         "Personality",
-        "Fun"
+        "Horoscope",
+        "Star Sign"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "high-school",
+      "id": "quiz_8",
+      "quizNo": 8,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Disney Princess Are You?",
+      "icon": "🏰",
+      "userTags": [
+        "Disney",
+        "Princess",
+        "MBTI",
+        "Personality",
+        "Fairy Tale"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_9",
+      "quizNo": 9,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What's Your Love Language Personality Type?",
+      "icon": "📝",
+      "userTags": [
+        "Love Language",
+        "Relationships",
+        "MBTI",
+        "Personality",
+        "Love"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_10",
+      "quizNo": 10,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What's Your Career Personality Type?",
+      "icon": "📝",
+      "userTags": [
+        "Career",
+        "Personality",
+        "MBTI",
+        "Work",
+        "Success"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_11",
+      "quizNo": 11,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What's Your Travel Personality Type?",
+      "icon": "📝",
+      "userTags": [
+        "Travel",
+        "Personality",
+        "MBTI",
+        "Adventure",
+        "Wanderlust"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_12",
+      "quizNo": 12,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What's Your Food Personality Type?",
+      "icon": "📝",
+      "userTags": [
+        "Food",
+        "Personality",
+        "MBTI",
+        "Cooking",
+        "Eating"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_13",
       "quizNo": 13,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
-      "title": "Which High School Stereotype Are You?",
-      "icon": "🎒",
+      "title": "Which Superhero Sidekick Are You?",
+      "icon": "📝",
       "userTags": [
-        "High School",
-        "Stereotype",
-        "Teen",
-        "Personality"
+        "Superhero",
+        "Sidekick",
+        "MBTI",
+        "Personality",
+        "Comics"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "aesthetic-style",
+      "id": "quiz_14",
       "quizNo": 14,
-      "categoryId": "your_type",
-      "categoryName": "What's Your Type?",
-      "title": "What's Your Aesthetic Style? (2024 Trends)",
-      "icon": "🎨",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Mythological Creature Are You?",
+      "icon": "📝",
       "userTags": [
-        "Aesthetic",
-        "Style",
-        "Fashion",
-        "Trendy"
+        "Mythology",
+        "Creature",
+        "MBTI",
+        "Personality",
+        "Fantasy"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "social-style",
+      "id": "quiz_15",
       "quizNo": 15,
-      "categoryId": "your_type",
-      "categoryName": "What's Your Type?",
-      "title": "What's Your Social Style? (Introvert vs Extrovert)",
-      "icon": "👥",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Historical Figure Are You?",
+      "icon": "📝",
       "userTags": [
-        "Social Style",
-        "Introvert",
-        "Extrovert",
-        "Personality"
+        "History",
+        "Historical Figure",
+        "MBTI",
+        "Personality",
+        "Legacy"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "love-language",
+      "id": "quiz_16",
       "quizNo": 16,
-      "categoryId": "your_type",
-      "categoryName": "What's Your Type?",
-      "title": "What's Your Love Language Type?",
-      "icon": "💕",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Magical Creature Are You?",
+      "icon": "📝",
       "userTags": [
-        "Love Language",
-        "Love",
-        "Relationship",
+        "Magic",
+        "Creature",
+        "Fantasy",
+        "MBTI",
         "Personality"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "work-style",
+      "id": "quiz_17",
       "quizNo": 17,
-      "categoryId": "your_type",
-      "categoryName": "What's Your Type?",
-      "title": "What's Your Work Style? (Remote vs Office)",
-      "icon": "🏠",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What's Your Music Personality Type?",
+      "icon": "📝",
       "userTags": [
-        "Work Style",
-        "Remote Work",
-        "Office",
-        "Productivity"
+        "Music",
+        "Personality",
+        "MBTI",
+        "Sound",
+        "Rhythm"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "communication-style",
+      "id": "quiz_18",
       "quizNo": 18,
-      "categoryId": "your_type",
-      "categoryName": "What's Your Type?",
-      "title": "What's Your Communication Style?",
-      "icon": "💬",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Disney Princess Are You (MBTI Edition)?",
+      "icon": "🏰",
       "userTags": [
-        "Communication Style",
-        "Talkative",
-        "Direct",
-        "Personality"
+        "Disney",
+        "Princess",
+        "MBTI",
+        "Personality",
+        "Fantasy"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "spending-style",
+      "id": "quiz_19",
       "quizNo": 19,
-      "categoryId": "your_type",
-      "categoryName": "What's Your Type?",
-      "title": "What's Your Spending Style? (Saver vs Spender)",
-      "icon": "💰",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Star Wars Character Are You (MBTI)?",
+      "icon": "📝",
       "userTags": [
-        "Spending Style",
-        "Saver",
-        "Spender",
-        "Finance"
+        "Star Wars",
+        "MBTI",
+        "Personality",
+        "Sci-Fi",
+        "Galaxy"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "how-brave",
+      "id": "quiz_20",
       "quizNo": 20,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Brave Are You? (0-100 Score)",
-      "icon": "🦁",
-      "userTags": [
-        "Brave",
-        "Score Test",
-        "Personality",
-        "Fun"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "how-kind",
-      "quizNo": 21,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Kind Are You? (Surprisingly Accurate)",
-      "icon": "💖",
-      "userTags": [
-        "Kind",
-        "Empathy",
-        "Personality",
-        "Score Test"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "how-logical",
-      "quizNo": 22,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Logical Are You? (Logical vs Emotional)",
-      "icon": "🧠",
-      "userTags": [
-        "Logical",
-        "Emotional",
-        "Personality",
-        "Score Test"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "how-patient",
-      "quizNo": 23,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Patient Are You? (Score Your Patience)",
-      "icon": "🧘",
-      "userTags": [
-        "Patient",
-        "Discipline",
-        "Personality",
-        "Score Test"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "how-creative",
-      "quizNo": 24,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Creative Are You? (Natural Creative?)",
-      "icon": "💡",
-      "userTags": [
-        "Creative",
-        "Talent",
-        "Personality",
-        "Score Test"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "how-empathetic",
-      "quizNo": 25,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Empathetic Are You? (Test Your Empathy)",
-      "icon": "🤝",
-      "userTags": [
-        "Empathetic",
-        "Kind",
-        "Personality",
-        "Score Test"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "how-decisive",
-      "quizNo": 26,
-      "categoryId": "adjective_level",
-      "categoryName": "How [Adjective] Are You?",
-      "title": "How Decisive Are You? (Indecisive Test)",
-      "icon": "🎯",
-      "userTags": [
-        "Decisive",
-        "Choice",
-        "Personality",
-        "Score Test"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "hidden-superpower",
-      "quizNo": 27,
-      "categoryId": "hidden",
-      "categoryName": "Hidden / Secret",
-      "title": "Unlock Your Hidden Superpower (Surprisingly Accurate)",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Harry Potter House Matches Your MBTI?",
       "icon": "⚡",
       "userTags": [
-        "Hidden Superpower",
-        "Talent",
-        "Fun",
-        "Mystery"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "hidden-personality",
-      "quizNo": 28,
-      "categoryId": "hidden",
-      "categoryName": "Hidden / Secret",
-      "title": "Discover Your Hidden Personality (You Never Knew)",
-      "icon": "🎭",
-      "userTags": [
-        "Hidden Personality",
+        "Harry Potter",
+        "Hogwarts",
+        "MBTI",
         "Personality",
-        "Mystery",
-        "Self-Discovery"
+        "Magic"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "hidden-talent",
-      "quizNo": 29,
-      "categoryId": "hidden",
-      "categoryName": "Hidden / Secret",
-      "title": "Find Your Hidden Talent (You're Born With)",
-      "icon": "🌟",
+      "id": "quiz_21",
+      "quizNo": 21,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Career Path Matches Your MBTI?",
+      "icon": "📝",
       "userTags": [
-        "Hidden Talent",
-        "Talent",
-        "Advantage",
-        "Self-Discovery"
+        "Career",
+        "MBTI",
+        "Personality",
+        "Work",
+        "Success"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "hidden-desire",
+      "id": "quiz_22",
+      "quizNo": 22,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Love Language Matches Your MBTI?",
+      "icon": "📝",
+      "userTags": [
+        "Love Language",
+        "MBTI",
+        "Relationships",
+        "Personality",
+        "Emotions"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_23",
+      "quizNo": 23,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Travel Style Matches Your MBTI?",
+      "icon": "📝",
+      "userTags": [
+        "Travel",
+        "MBTI",
+        "Adventure",
+        "Personality",
+        "Wanderlust"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_24",
+      "quizNo": 24,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Animal Spirit Matches Your MBTI?",
+      "icon": "📝",
+      "userTags": [
+        "Spirit Animal",
+        "MBTI",
+        "Personality",
+        "Nature",
+        "Symbolism"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_25",
+      "quizNo": 25,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Taylor Swift Era Matches Your Personality?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "Music",
+        "Personality",
+        "MBTI",
+        "Eras Tour"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_26",
+      "quizNo": 26,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What's Your ChatGPT Personality Type?",
+      "icon": "📝",
+      "userTags": [
+        "ChatGPT",
+        "AI",
+        "Personality",
+        "MBTI",
+        "Tech"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_27",
+      "quizNo": 27,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which SZA Song Matches Your Personality?",
+      "icon": "📝",
+      "userTags": [
+        "SZA",
+        "Music",
+        "Personality",
+        "MBTI",
+        "R&B"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_28",
+      "quizNo": 28,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Romantic Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Romance",
+        "Love",
+        "Personality",
+        "Relationship",
+        "浪漫"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_29",
+      "quizNo": 29,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which BLACKPINK Member Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Blackpink",
+        "Kpop",
+        "Personality",
+        "Quiz",
+        "Jennie"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_30",
       "quizNo": 30,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
-      "title": "What's Your Hidden Desire? (Deep Down)",
-      "icon": "🔥",
+      "title": "What’s your gummy aura personality?",
+      "icon": "📝",
       "userTags": [
-        "Hidden Desire",
-        "Inner Self",
-        "Mystery",
-        "Self-Discovery"
+        "Gummy Aesthetic",
+        "Personality Quiz",
+        "Gummy Aura",
+        "Soft Vibe",
+        "Personality Test"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "hidden-flaw",
+      "id": "quiz_31",
       "quizNo": 31,
-      "categoryId": "hidden",
-      "categoryName": "Hidden / Secret",
-      "title": "Unlock Your Hidden Flaw (Fix It To Be Better)",
-      "icon": "💔",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What poetcore personality are you?",
+      "icon": "📝",
       "userTags": [
-        "Hidden Flaw",
-        "Self-Improvement",
-        "Personality",
-        "Mystery"
+        "Poetcore",
+        "Personality Quiz",
+        "Personality Test",
+        "Aesthetic Personality",
+        "Quiet Personality"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "hidden-charm",
+      "id": "quiz_32",
       "quizNo": 32,
-      "categoryId": "hidden",
-      "categoryName": "Hidden / Secret",
-      "title": "What's Your Hidden Charm? (Attraction Code)",
-      "icon": "✨",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What vamp romantic personality are you?",
+      "icon": "📝",
       "userTags": [
-        "Hidden Charm",
-        "Attraction",
-        "Charm",
-        "Mystery"
+        "Vamp Romantic",
+        "Personality Quiz",
+        "Personality Test",
+        "Aesthetic Personality",
+        "Mysterious"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "deeply-hidden",
+      "id": "quiz_33",
       "quizNo": 33,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which My Little Pony Character Matches Your Personality?",
+      "icon": "📝",
+      "userTags": [
+        "My Little Pony",
+        "MLP",
+        "Pony",
+        "Friendship",
+        "MBTI"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_34",
+      "quizNo": 34,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do In My Little Pony World?",
+      "icon": "📝",
+      "userTags": [
+        "My Little Pony",
+        "MLP",
+        "Pony",
+        "Friendship",
+        "MBTI"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_35",
+      "quizNo": 35,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
-      "title": "Discover Your Deeply Hidden Personality",
-      "icon": "🔮",
+      "title": "Your Hidden My Little Pony Personality",
+      "icon": "📝",
       "userTags": [
-        "Hidden Personality",
-        "Inner Self",
-        "Self-Discovery",
-        "Mystery"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "apocalypse",
-      "quizNo": 34,
-      "categoryId": "scenario",
-      "categoryName": "What Would You Do?",
-      "title": "Apocalypse Scenario: How Long Would You Survive?",
-      "icon": "🧟",
-      "userTags": [
-        "Apocalypse",
-        "Scenario Choice",
-        "Survival",
-        "Fun"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "workplace-crisis",
-      "quizNo": 35,
-      "categoryId": "scenario",
-      "categoryName": "What Would You Do?",
-      "title": "Workplace Crisis: How Would You Resolve It?",
-      "icon": "📊",
-      "userTags": [
-        "Workplace Crisis",
-        "Scenario Choice",
-        "Workplace",
-        "Adaptability"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "relationship-conflict",
-      "quizNo": 36,
-      "categoryId": "scenario",
-      "categoryName": "What Would You Do?",
-      "title": "Relationship Conflict: How Would You Handle It?",
-      "icon": "💑",
-      "userTags": [
-        "Relationship Conflict",
-        "Scenario Choice",
-        "Love",
-        "Compatibility"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "friend-in-need",
-      "quizNo": 37,
-      "categoryId": "scenario",
-      "categoryName": "What Would You Do?",
-      "title": "Friend In Need: Are You A Reliable Teammate?",
-      "icon": "🤝",
-      "userTags": [
-        "Friend In Need",
-        "Scenario Choice",
+        "My Little Pony",
+        "MLP",
+        "Pony",
         "Friendship",
-        "Reliable"
+        "MBTI"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "sudden-wealth",
-      "quizNo": 38,
-      "categoryId": "scenario",
-      "categoryName": "What Would You Do?",
-      "title": "Sudden Wealth: How Would You Spend The Money?",
-      "icon": "💎",
+      "id": "quiz_36",
+      "quizNo": 36,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Stardew Valley Farmer Type?",
+      "icon": "📝",
       "userTags": [
-        "Sudden Wealth",
-        "Scenario Choice",
-        "Spending",
-        "Finance"
+        "Stardew Valley",
+        "Farmer",
+        "MBTI",
+        "Personality",
+        "Farming"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "desert-island",
+      "id": "quiz_37",
+      "quizNo": 37,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Olivia Rodrigo Vibe Matches Your Inner Self?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "Soulmate Match",
+        "MBTI",
+        "Personality",
+        "Music Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_38",
+      "quizNo": 38,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Olivia Rodrigo-Inspired Personality Archetype Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "MBTI",
+        "Personality",
+        "Pop Culture",
+        "Music Archetype"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_39",
       "quizNo": 39,
-      "categoryId": "scenario",
-      "categoryName": "What Would You Do?",
-      "title": "Desert Island Survival: How Long Can You Last?",
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Olivia Rodrigo Core Personality Type?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "Personality Test",
+        "MBTI",
+        "Pop Culture",
+        "Music-Inspired"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_40",
+      "quizNo": 40,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What’s your hidden Olivia Rodrigo-inspired inner trait?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "Hidden Trait",
+        "MBTI",
+        "Personality",
+        "Inner Self"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_41",
+      "quizNo": 41,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do in Olivia Rodrigo’s Defining Moments?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "What Would You Do",
+        "Personality Test",
+        "MBTI",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_42",
+      "quizNo": 42,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Olivia Rodrigo-Aligned Personality Type Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "MBTI",
+        "Personality",
+        "Pop Music",
+        "Character Trait"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_43",
+      "quizNo": 43,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What’s Your Olivia Rodrigo-Inspired Future Creative Life Path?",
+      "icon": "📝",
+      "userTags": [
+        "Olivia Rodrigo",
+        "Future Creative Path",
+        "MBTI",
+        "Personality Test",
+        "Creative Journey"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_44",
+      "quizNo": 44,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Taylor Swift-Inspired Personality Type Are You?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "MBTI",
+        "Personality",
+        "Pop Culture",
+        "Music"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_45",
+      "quizNo": 45,
+      "categoryId": "match",
+      "categoryName": "Match/Soulmate",
+      "title": "Which Euphoria Character Is Your Perfect Soulmate?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "TV Show",
+        "Soulmate",
+        "MBTI",
+        "Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_46",
+      "quizNo": 46,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Euphoria Character Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "TV Drama",
+        "Personality Test",
+        "MBTI",
+        "Character Alignment"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_47",
+      "quizNo": 47,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Euphoria Aesthetic Personality?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "MBTI",
+        "Personality Test",
+        "Aesthetic Personality",
+        "HBO Drama"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_48",
+      "quizNo": 48,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Euphoria-Resonant Is Your Inner World?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "Personality",
+        "MBTI",
+        "Inner Identity",
+        "Emotional Exploration"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_49",
+      "quizNo": 49,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What Hidden Euphoria Core Trait Lurks Beneath Your Surface?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "Hidden Traits",
+        "Personality Test",
+        "Self-Discovery",
+        "MBTI"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_50",
+      "quizNo": 50,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do in Euphoria’s Most Raw Moments?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "Personality Test",
+        "MBTI",
+        "What Would You Do",
+        "Drama Series"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_51",
+      "quizNo": 51,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Euphoria Aesthetic Type Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "TV Series",
+        "Personality Test",
+        "MBTI",
+        "Inner Aesthetic"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_52",
+      "quizNo": 52,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What’s Your Future Euphoria-Inspired Life Path?",
+      "icon": "📝",
+      "userTags": [
+        "Euphoria",
+        "TV Show",
+        "MBTI",
+        "Future Life",
+        "Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_53",
+      "quizNo": 53,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Sabrina Carpenter Archetype Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "Celebrity Archetype",
+        "MBTI",
+        "Personality Test",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_54",
+      "quizNo": 54,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Sabrina Carpenter-Aligned Personality Type Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "Personality Test",
+        "MBTI",
+        "Pop Music",
+        "Music Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_55",
+      "quizNo": 55,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Sabrina Carpenter-Coded Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "Celebrity Personality",
+        "Pop Culture Quiz",
+        "MBTI Alignment",
+        "Vibe Check"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_56",
+      "quizNo": 56,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What’s Your Sabrina Carpenter Hidden Personality?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "Hidden Personality",
+        "MBTI",
+        "Personality Test",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_57",
+      "quizNo": 57,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do in Sabrina Carpenter-Inspired Scenarios?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "What Would You Do",
+        "Personality Test",
+        "MBTI",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_58",
+      "quizNo": 58,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Sabrina Carpenter-Inspired Aesthetic Personality Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "Aesthetic Personality",
+        "Personality Quiz",
+        "Pop Culture",
+        "Lifestyle"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_59",
+      "quizNo": 59,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What’s Your Future Sabrina Carpenter-Inspired Life Path?",
+      "icon": "📝",
+      "userTags": [
+        "Sabrina Carpenter",
+        "Future Life Path",
+        "Lifestyle",
+        "Personality",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_60",
+      "quizNo": 60,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which NewJeans Member Is Your Perfect Soulmate?",
+      "icon": "📝",
+      "userTags": [
+        "NewJeans",
+        "K-pop",
+        "Soulmate",
+        "Personality",
+        "MBTI"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_61",
+      "quizNo": 61,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which NewJeans-Inspired Personality Are You?",
+      "icon": "📝",
+      "userTags": [
+        "NewJeans",
+        "K-Pop",
+        "MBTI",
+        "Personality",
+        "Korean Music"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_62",
+      "quizNo": 62,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What NewJeans-Infused Personality Type Are You?",
+      "icon": "📝",
+      "userTags": [
+        "NewJeans",
+        "K-Pop",
+        "Personality",
+        "MBTI",
+        "Korean Music"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_63",
+      "quizNo": 63,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What NewJeans-Inspired Personality Type Are You?",
+      "icon": "📝",
+      "userTags": [
+        "NewJeans",
+        "K-pop",
+        "Personality",
+        "MBTI",
+        "What Would You Do"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_64",
+      "quizNo": 64,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your NewJeans-Inspired Aesthetic Personality?",
+      "icon": "📝",
+      "userTags": [
+        "NewJeans",
+        "Aesthetic Personality",
+        "K-Pop",
+        "MBTI",
+        "Inner Traits"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_65",
+      "quizNo": 65,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What Will Your NewJeans-Aligned Future Self Be Like?",
+      "icon": "📝",
+      "userTags": [
+        "NewJeans",
+        "K-pop",
+        "Future Lifestyle",
+        "MBTI",
+        "Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_66",
+      "quizNo": 66,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Bluey Character Is Your Perfect Soulmate?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Animated Series",
+        "Soulmate Match",
+        "MBTI",
+        "Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_67",
+      "quizNo": 67,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Bluey Character Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Cartoon",
+        "Animated Series",
+        "MBTI",
+        "Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_68",
+      "quizNo": 68,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Bluey Adventure Personality?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Cartoon",
+        "Personality",
+        "MBTI",
+        "Family Adventure"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_69",
+      "quizNo": 69,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Bluey-esque Is Your Personality?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Personality Assessment",
+        "MBTI",
+        "Family-Centric",
+        "Playful Spirit"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_70",
+      "quizNo": 70,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What’s Your Hidden Bluey Trait?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Hidden Traits",
+        "Personality",
+        "MBTI",
+        "Character Insight"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_71",
+      "quizNo": 71,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do in Bluey's World?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "MBTI",
+        "Personality",
+        "What Would You Do",
+        "Family Adventures"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_72",
+      "quizNo": 72,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Bluey Character Type Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Cartoon",
+        "Personality",
+        "MBTI"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_73",
+      "quizNo": 73,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What Will Your Future Bluey-Inspired Life Look Like?",
+      "icon": "📝",
+      "userTags": [
+        "Bluey",
+        "Future Lifestyle",
+        "Family-centric",
+        "Personality",
+        "MBTI"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_74",
+      "quizNo": 74,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Stardew Valley Villager Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Villager",
+        "MBTI",
+        "Personality",
+        "Farm Life"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_75",
+      "quizNo": 75,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Stardew Valley Farmer Type?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Farmer",
+        "MBTI",
+        "Personality",
+        "Farming"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_76",
+      "quizNo": 76,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Stardew Valley-Aligned Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Farm Life",
+        "Personality",
+        "MBTI",
+        "Lifestyle"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_77",
+      "quizNo": 77,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What’s Your Hidden Stardew Valley Trait?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Hidden Trait",
+        "MBTI",
+        "Personality",
+        "Indie Game"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_78",
+      "quizNo": 78,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do in Stardew Valley?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Farming Simulation",
+        "MBTI",
+        "Personality",
+        "Life Choices"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_79",
+      "quizNo": 79,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Stardew Valley Farmer Archetype Are You?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Farmer Archetype",
+        "MBTI",
+        "Personality",
+        "Rural Life"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_80",
+      "quizNo": 80,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What Will Your Future Stardew Valley Life Be?",
+      "icon": "📝",
+      "userTags": [
+        "Stardew Valley",
+        "Future Life",
+        "MBTI",
+        "Personality",
+        "Farming Simulation"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_81",
+      "quizNo": 81,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Fortnite Playstyle Personality?",
       "icon": "🏝️",
       "userTags": [
-        "Desert Island Survival",
-        "Scenario Choice",
-        "Survival",
-        "Adaptability"
+        "Fortnite",
+        "Gaming",
+        "Playstyle",
+        "MBTI",
+        "Personality"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "pick-food",
-      "quizNo": 40,
-      "categoryId": "pick_one",
-      "categoryName": "Pick One / Choose",
-      "title": "Pick Food To Test Personality: Your True Self Is In Taste",
-      "icon": "🍕",
+      "id": "quiz_82",
+      "quizNo": 82,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Fortnite-Aligned Is Your Personality?",
+      "icon": "🏝️",
       "userTags": [
-        "Pick One",
-        "Food",
-        "Personality",
-        "Fun"
+        "Fortnite",
+        "Gaming Personality",
+        "MBTI",
+        "Playstyle Test",
+        "Inner Traits"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "pick-travel",
-      "quizNo": 41,
-      "categoryId": "pick_one",
-      "categoryName": "Pick One / Choose",
-      "title": "Pick Travel Destination: What Kind Of Travel Suits You?",
-      "icon": "✈️",
+      "id": "quiz_83",
+      "quizNo": 83,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What’s Your Hidden Fortnite Gaming Trait?",
+      "icon": "🏝️",
       "userTags": [
-        "Pick One",
-        "Travel",
-        "Personality",
-        "Aesthetic"
+        "Fortnite",
+        "Gaming Personality",
+        "Hidden Trait",
+        "MBTI",
+        "Gaming Strategy"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "pick-gift",
-      "quizNo": 42,
-      "categoryId": "pick_one",
-      "categoryName": "Pick One / Choose",
-      "title": "Pick Gift To Test Personality: Are You Good At Giving Gifts?",
-      "icon": "🎁",
+      "id": "quiz_84",
+      "quizNo": 84,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your Fortnite Playstyle Personality?",
+      "icon": "🏝️",
       "userTags": [
-        "Pick One",
-        "Gift",
+        "Fortnite",
+        "MBTI",
         "Personality",
-        "Empathy"
+        "Gaming",
+        "Playstyle"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "pick-outfit",
-      "quizNo": 43,
-      "categoryId": "pick_one",
-      "categoryName": "Pick One / Choose",
-      "title": "Pick Outfit To Test Personality: Your Outfit Reveals You",
-      "icon": "👗",
+      "id": "quiz_85",
+      "quizNo": 85,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Fortnite Playstyle Personality Are You?",
+      "icon": "🏝️",
       "userTags": [
-        "Pick One",
-        "Outfit",
-        "Personality",
-        "Fashion"
+        "Fortnite",
+        "Gaming Personality",
+        "Playstyle",
+        "MBTI",
+        "Video Games"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "pick-rest",
-      "quizNo": 44,
-      "categoryId": "pick_one",
-      "categoryName": "Pick One / Choose",
-      "title": "Pick Rest Method: Are You A Workaholic Or A Hermit?",
-      "icon": "🛋️",
-      "userTags": [
-        "Pick One",
-        "Rest",
-        "Personality",
-        "Introvert"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "pick-social",
-      "quizNo": 45,
-      "categoryId": "pick_one",
-      "categoryName": "Pick One / Choose",
-      "title": "Pick Social Scene: Do You Prefer 热闹 Or Solitude?",
-      "icon": "🎉",
-      "userTags": [
-        "Pick One",
-        "Social Scene",
-        "Personality",
-        "Solitude"
-      ],
-      "hasQuestions": false
-    },
-    {
-      "id": "future-career",
-      "quizNo": 46,
+      "id": "quiz_86",
+      "quizNo": 86,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
-      "title": "Test Your Future Career Path",
-      "icon": "📈",
+      "title": "What’s Your Future Fortnite Battle Destiny?",
+      "icon": "🏝️",
       "userTags": [
-        "Future Career",
-        "Destiny",
-        "Workplace",
-        "Planning"
+        "Fortnite",
+        "Battle Royale",
+        "Future Destiny",
+        "MBTI",
+        "Personality"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "future-partner",
-      "quizNo": 47,
-      "categoryId": "future",
-      "categoryName": "Future / Destiny",
-      "title": "Future Partner Test: What Kind Of Person Will You Meet?",
-      "icon": "💘",
+      "id": "quiz_87",
+      "quizNo": 87,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which League of Legends Champion Is Your Ideal Soulmate?",
+      "icon": "📝",
       "userTags": [
-        "Future Partner",
-        "Destiny",
-        "Love",
-        "Matching"
+        "League of Legends",
+        "LOL",
+        "Soulmate",
+        "Champion Match",
+        "MBTI"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "future-fortune",
-      "quizNo": 48,
-      "categoryId": "future",
-      "categoryName": "Future / Destiny",
-      "title": "Test Your Future Financial Fortune",
-      "icon": "💰",
+      "id": "quiz_88",
+      "quizNo": 88,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which League of Legends Champion Matches Your True Personality?",
+      "icon": "📝",
       "userTags": [
-        "Financial Fortune",
-        "Destiny",
-        "Finance",
-        "Future"
+        "League of Legends",
+        "LOL Champions",
+        "Personality",
+        "MBTI",
+        "Gaming"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "future-life",
-      "quizNo": 49,
+      "id": "quiz_89",
+      "quizNo": 89,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your LOL Playstyle Personality?",
+      "icon": "📝",
+      "userTags": [
+        "LOL",
+        "League of Legends",
+        "Gaming Personality",
+        "MBTI",
+        "Playstyle"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_90",
+      "quizNo": 90,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Deeply Does Your Personality Align with League of Legends?",
+      "icon": "📝",
+      "userTags": [
+        "League of Legends",
+        "LOL",
+        "Personality",
+        "MBTI",
+        "Gaming"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_91",
+      "quizNo": 91,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What's Your Hidden League of Legends Trait?",
+      "icon": "📝",
+      "userTags": [
+        "League of Legends",
+        "LOL",
+        "MBTI",
+        "Hidden Trait",
+        "Personality"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_92",
+      "quizNo": 92,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Would You Do in League of Legends’ High-Stakes Moments?",
+      "icon": "📝",
+      "userTags": [
+        "League of Legends",
+        "LoL",
+        "Gaming Personality",
+        "MBTI",
+        "In-Game Decision Making"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_93",
+      "quizNo": 93,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s Your LOL Inner Playstyle Personality?",
+      "icon": "📝",
+      "userTags": [
+        "LOL",
+        "League of Legends",
+        "MBTI",
+        "Personality",
+        "Gaming"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_94",
+      "quizNo": 94,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
-      "title": "Future Life Test: What Kind Of Life Will You Have?",
-      "icon": "🌅",
+      "title": "What’s your future League of Legends competitive destiny?",
+      "icon": "📝",
       "userTags": [
+        "League of Legends",
+        "LOL",
+        "Gaming",
+        "MBTI",
+        "Future Destiny"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_95",
+      "quizNo": 95,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Taylor Swift-Inspired Soulmate Is Your Perfect Match?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "Soulmate",
+        "Personality Match",
+        "MBTI",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_96",
+      "quizNo": 96,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "Which Taylor Swift-Inspired Personality Type Are You?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "Personality",
+        "MBTI",
+        "Pop Culture",
+        "Music"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_97",
+      "quizNo": 97,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Taylor Swift-Inspired Personality Type Are You?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "MBTI",
+        "Personality",
+        "Pop Culture",
+        "Music"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_98",
+      "quizNo": 98,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "How Taylor Swift Are You?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "Celebrity Personality",
+        "MBTI",
+        "Pop Culture",
+        "Personality Test"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_99",
+      "quizNo": 99,
+      "categoryId": "hidden",
+      "categoryName": "Hidden / Secret",
+      "title": "What’s Your Hidden Taylor Swift-Inspired Personality Trait?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "Hidden Traits",
+        "Personality Test",
+        "MBTI",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_100",
+      "quizNo": 100,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Taylor Swift-Aligned Reaction Style Matches Your Inner Tendencies?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
+        "MBTI",
+        "Personality",
+        "What Would You Do",
+        "Pop Culture"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_101",
+      "quizNo": 101,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What’s your Wilderkind Personality?",
+      "icon": "📝",
+      "userTags": [
+        "Wilderkind",
+        "Aesthetic",
+        "MBTI",
+        "Personality",
+        "Inner Traits"
+      ],
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_102",
+      "quizNo": 102,
+      "categoryId": "future",
+      "categoryName": "Future / Destiny",
+      "title": "What’s Your Future Taylor Swift-Inspired Life Path?",
+      "icon": "🎤",
+      "userTags": [
+        "Taylor Swift",
         "Future Life",
-        "Destiny",
-        "Life",
-        "Happiness"
+        "MBTI",
+        "Personality",
+        "Life Direction"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
     },
     {
-      "id": "future-stage",
-      "quizNo": 50,
-      "categoryId": "future",
-      "categoryName": "Future / Destiny",
-      "title": "Test What Will Happen In The Next Stage Of Your Life",
-      "icon": "🔮",
+      "id": "quiz_103",
+      "quizNo": 103,
+      "categoryId": "which_x",
+      "categoryName": "Which X Are You?",
+      "title": "What Fortnite Playstyle Personality Are You?",
+      "icon": "🏝️",
       "userTags": [
-        "Life Stage",
-        "Destiny",
-        "Future",
-        "Growth"
+        "Fortnite",
+        "Gaming Personality",
+        "Playstyle",
+        "MBTI",
+        "Video Games"
       ],
-      "hasQuestions": false
+      "hasQuestions": true
+    },
+    {
+      "id": "quiz_harry_potter1",
+      "quizNo": 104,
+      "categoryId": "match",
+      "categoryName": "Match/Soulmate",
+      "title": "Which Harry Potter Character Matches Your Personality?",
+      "icon": "⚡",
+      "userTags": [
+        "Harry Potter",
+        "Wizarding World",
+        "MBTI",
+        "Personality"
+      ],
+      "hasQuestions": true
     },
     {
       "id": "which-roblox-character-is-your-perfect-match",
-      "quizNo": 51,
+      "quizNo": 105,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Roblox Character Is Your Perfect Match?",
@@ -767,7 +1678,7 @@
     },
     {
       "id": "which-roblox-player-archetype-are-you",
-      "quizNo": 52,
+      "quizNo": 106,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Roblox Player Archetype Are You?",
@@ -783,7 +1694,7 @@
     },
     {
       "id": "what-roblox-playstyle-type-are-you",
-      "quizNo": 53,
+      "quizNo": 107,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Roblox Playstyle Type Are You?",
@@ -799,7 +1710,7 @@
     },
     {
       "id": "how-robloxobsessed-are-you",
-      "quizNo": 54,
+      "quizNo": 108,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Roblox-Obsessed Are You?",
@@ -815,7 +1726,7 @@
     },
     {
       "id": "whats-your-hidden-roblox-personality-type",
-      "quizNo": 55,
+      "quizNo": 109,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
       "title": "What’s your hidden Roblox personality type?",
@@ -831,7 +1742,7 @@
     },
     {
       "id": "what-roblox-adventure-type-are-you",
-      "quizNo": 56,
+      "quizNo": 110,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Roblox Adventure Type Are You?",
@@ -847,7 +1758,7 @@
     },
     {
       "id": "what-roblox-playstyle-type-are-you-1",
-      "quizNo": 57,
+      "quizNo": 111,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Roblox Playstyle Type Are You?",
@@ -863,7 +1774,7 @@
     },
     {
       "id": "whats-your-future-roblox-adventure-type",
-      "quizNo": 58,
+      "quizNo": 112,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What’s Your Future Roblox Adventure Type?",
@@ -879,7 +1790,7 @@
     },
     {
       "id": "which-minecraft-companion-is-your-ideal-soulmate",
-      "quizNo": 59,
+      "quizNo": 113,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Minecraft Companion Is Your Ideal Soulmate?",
@@ -895,7 +1806,7 @@
     },
     {
       "id": "what-minecraft-player-type-are-you",
-      "quizNo": 60,
+      "quizNo": 114,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Minecraft Player Type Are You?",
@@ -911,7 +1822,7 @@
     },
     {
       "id": "how-minecraftaligned-are-you",
-      "quizNo": 61,
+      "quizNo": 115,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Minecraft-Aligned Are You?",
@@ -927,7 +1838,7 @@
     },
     {
       "id": "whats-your-hidden-minecraft-inner-personality-type",
-      "quizNo": 62,
+      "quizNo": 116,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
       "title": "What’s Your Hidden Minecraft Inner Personality Type?",
@@ -943,7 +1854,7 @@
     },
     {
       "id": "what-minecraft-playstyle-type-are-you",
-      "quizNo": 63,
+      "quizNo": 117,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Minecraft Playstyle Type Are You?",
@@ -959,7 +1870,7 @@
     },
     {
       "id": "what-minecraft-playstyle-type-are-you-1",
-      "quizNo": 64,
+      "quizNo": 118,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Minecraft Playstyle Type Are You?",
@@ -975,7 +1886,7 @@
     },
     {
       "id": "whats-your-future-minecraft-life-path",
-      "quizNo": 65,
+      "quizNo": 119,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What’s Your Future Minecraft Life Path?",
@@ -991,7 +1902,7 @@
     },
     {
       "id": "which-fortnite-character-is-your-perfect-soulmate-",
-      "quizNo": 66,
+      "quizNo": 120,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Fortnite Character Is Your Perfect Soulmate Match?",
@@ -1007,7 +1918,7 @@
     },
     {
       "id": "which-fortnite-character-matches-your-personality",
-      "quizNo": 67,
+      "quizNo": 121,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Fortnite Character Matches Your Personality?",
@@ -1023,7 +1934,7 @@
     },
     {
       "id": "what-fortnite-type-are-you",
-      "quizNo": 68,
+      "quizNo": 122,
       "categoryId": "your_type",
       "categoryName": "What's Your Type?",
       "title": "What Fortnite Type Are You?",
@@ -1039,7 +1950,7 @@
     },
     {
       "id": "how-much-do-you-embody-fortnites-core-vibes",
-      "quizNo": 69,
+      "quizNo": 123,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Much Do You Embody Fortnite's Core Vibes?",
@@ -1055,7 +1966,7 @@
     },
     {
       "id": "whats-your-hidden-fortnite-trait-type",
-      "quizNo": 70,
+      "quizNo": 124,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
       "title": "What’s your Hidden Fortnite Trait Type?",
@@ -1071,7 +1982,7 @@
     },
     {
       "id": "what-would-you-do-in-fortnite-uncover-your-hidden-",
-      "quizNo": 71,
+      "quizNo": 125,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Would You Do in Fortnite? Uncover Your Hidden Gaming Personality?",
@@ -1087,7 +1998,7 @@
     },
     {
       "id": "what-fortnite-playstyle-type-are-you",
-      "quizNo": 72,
+      "quizNo": 126,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Fortnite Playstyle Type Are You?",
@@ -1103,7 +2014,7 @@
     },
     {
       "id": "whats-your-future-fortnite-battle-role",
-      "quizNo": 73,
+      "quizNo": 127,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What’s Your Future Fortnite Battle Role?",
@@ -1119,11 +2030,11 @@
     },
     {
       "id": "which-brawl-stars-brawler-is-your-ideal-battle-par",
-      "quizNo": 74,
+      "quizNo": 128,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Brawl Stars Brawler Is Your Ideal Battle Partner?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Battle Partner",
@@ -1135,11 +2046,11 @@
     },
     {
       "id": "which-brawl-stars-brawler-matches-your-personality",
-      "quizNo": 75,
+      "quizNo": 129,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Brawl Stars Brawler Matches Your Personality?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Brawler",
@@ -1151,11 +2062,11 @@
     },
     {
       "id": "what-brawl-stars-type-are-you",
-      "quizNo": 76,
+      "quizNo": 130,
       "categoryId": "your_type",
       "categoryName": "What's Your Type?",
       "title": "What Brawl Stars Type Are You?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Mobile Game",
@@ -1167,11 +2078,11 @@
     },
     {
       "id": "how-brawl-stars-obsessed-are-you",
-      "quizNo": 77,
+      "quizNo": 131,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Brawl Stars Obsessed Are You?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Gaming Personality",
@@ -1183,11 +2094,11 @@
     },
     {
       "id": "whats-your-hidden-brawl-stars-trait",
-      "quizNo": 78,
+      "quizNo": 132,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
       "title": "What’s your hidden Brawl Stars trait?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Hidden Trait",
@@ -1199,11 +2110,11 @@
     },
     {
       "id": "what-would-you-do-in-brawl-stars-uncover-your-hidd",
-      "quizNo": 79,
+      "quizNo": 133,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Would You Do in Brawl Stars? Uncover Your Hidden Playstyle",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Playstyle",
@@ -1215,11 +2126,11 @@
     },
     {
       "id": "which-brawl-stars-brawler-matches-your-personality-1",
-      "quizNo": 80,
+      "quizNo": 134,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Brawl Stars Brawler Matches Your Personality?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Brawler",
@@ -1231,11 +2142,11 @@
     },
     {
       "id": "what-brawl-stars-battle-role-will-you-dominate-in-",
-      "quizNo": 81,
+      "quizNo": 135,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What Brawl Stars Battle Role Will You Dominate in the Future?",
-      "icon": "🥊",
+      "icon": "📝",
       "userTags": [
         "Brawl Stars",
         "Future Battle Role",
@@ -1246,11 +2157,11 @@
     },
     {
       "id": "which-genshin-impact-character-is-your-perfect-sou",
-      "quizNo": 82,
+      "quizNo": 136,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Genshin Impact Character Is Your Perfect Soulmate?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Soulmate",
@@ -1262,11 +2173,11 @@
     },
     {
       "id": "what-genshin-impact-character-type-are-you",
-      "quizNo": 83,
+      "quizNo": 137,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Genshin Impact Character Type Are You?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Genshin Character",
@@ -1278,11 +2189,11 @@
     },
     {
       "id": "what-genshin-impact-personality-type-are-you",
-      "quizNo": 84,
+      "quizNo": 138,
       "categoryId": "your_type",
       "categoryName": "What's Your Type?",
       "title": "What Genshin Impact Personality Type Are You?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Personality Type",
@@ -1294,11 +2205,11 @@
     },
     {
       "id": "how-well-do-you-match-genshin-impacts-core-vibes",
-      "quizNo": 85,
+      "quizNo": 139,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Well Do You Match Genshin Impact's Core Vibes?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Personality",
@@ -1310,11 +2221,11 @@
     },
     {
       "id": "what-genshin-impact-decisionmaking-type-are-you",
-      "quizNo": 86,
+      "quizNo": 140,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Genshin Impact Decision-Making Type Are You?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Teyvat",
@@ -1326,11 +2237,11 @@
     },
     {
       "id": "what-genshin-impact-adventure-type-are-you",
-      "quizNo": 87,
+      "quizNo": 141,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Genshin Impact Adventure Type Are You?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Adventure",
@@ -1342,11 +2253,11 @@
     },
     {
       "id": "what-genshin-impact-future-quest-are-you-destined-",
-      "quizNo": 88,
+      "quizNo": 142,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What Genshin Impact Future Quest Are You Destined For?",
-      "icon": "⚔️",
+      "icon": "📝",
       "userTags": [
         "Genshin Impact",
         "Future Quest",
@@ -1358,7 +2269,7 @@
     },
     {
       "id": "which-honkai-star-rail-character-is-your-perfect-s",
-      "quizNo": 89,
+      "quizNo": 143,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Honkai: Star Rail Character Is Your Perfect Soulmate?",
@@ -1374,7 +2285,7 @@
     },
     {
       "id": "which-honkai-star-rail-character-are-you",
-      "quizNo": 90,
+      "quizNo": 144,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Honkai: Star Rail Character Are You?",
@@ -1390,7 +2301,7 @@
     },
     {
       "id": "what-honkai-star-rail-wanderer-type-are-you",
-      "quizNo": 91,
+      "quizNo": 145,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Honkai: Star Rail Wanderer Type Are You?",
@@ -1406,7 +2317,7 @@
     },
     {
       "id": "how-strong-is-your-honkai-star-rail-trailblazer-sp",
-      "quizNo": 92,
+      "quizNo": 146,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Strong Is Your Honkai: Star Rail Trailblazer Spirit?",
@@ -1422,7 +2333,7 @@
     },
     {
       "id": "what-hidden-honkai-star-rail-trait-type-are-you",
-      "quizNo": 93,
+      "quizNo": 147,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
       "title": "What Hidden Honkai: Star Rail Trait Type Are You?",
@@ -1438,7 +2349,7 @@
     },
     {
       "id": "what-would-you-do-in-honkai-star-rails-critical-mo",
-      "quizNo": 94,
+      "quizNo": 148,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Would You Do in Honkai: Star Rail's Critical Moments?",
@@ -1453,7 +2364,7 @@
     },
     {
       "id": "what-honkai-star-rail-aesthetic-type-are-you",
-      "quizNo": 95,
+      "quizNo": 149,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Honkai: Star Rail Aesthetic Type Are You?",
@@ -1469,7 +2380,7 @@
     },
     {
       "id": "what-will-your-honkai-star-rail-future-adventure-h",
-      "quizNo": 96,
+      "quizNo": 150,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What Will Your Honkai: Star Rail Future Adventure Hold?",
@@ -1485,7 +2396,7 @@
     },
     {
       "id": "what-valorant-agent-type-are-you",
-      "quizNo": 97,
+      "quizNo": 151,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Valorant Agent Type Are You?",
@@ -1501,7 +2412,7 @@
     },
     {
       "id": "how-ice-spice-are-you",
-      "quizNo": 98,
+      "quizNo": 152,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Ice Spice Are You?",
@@ -1517,7 +2428,7 @@
     },
     {
       "id": "how-dua-lipaesque-are-you",
-      "quizNo": 99,
+      "quizNo": 153,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Dua Lipa-Esque Are You?",
@@ -1533,7 +2444,7 @@
     },
     {
       "id": "which-dua-lipa-vibe-do-you-have",
-      "quizNo": 100,
+      "quizNo": 154,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Dua Lipa Vibe Do You Have?",
@@ -1549,7 +2460,7 @@
     },
     {
       "id": "how-billie-eilishcoded-are-you",
-      "quizNo": 101,
+      "quizNo": 155,
       "categoryId": "adjective_level",
       "categoryName": "How [Adjective] Are You?",
       "title": "How Billie Eilish-Coded Are You?",
@@ -1565,7 +2476,7 @@
     },
     {
       "id": "whats-your-hidden-billie-eilishaligned-trait",
-      "quizNo": 102,
+      "quizNo": 156,
       "categoryId": "hidden",
       "categoryName": "Hidden / Secret",
       "title": "What’s Your Hidden Billie Eilish-Aligned Trait?",
@@ -1580,7 +2491,7 @@
     },
     {
       "id": "what-lana-del-rey-type-are-you",
-      "quizNo": 103,
+      "quizNo": 157,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Lana Del Rey Type Are You?",
@@ -1596,7 +2507,7 @@
     },
     {
       "id": "what-wednesday-aesthetic-personality-type-are-you",
-      "quizNo": 104,
+      "quizNo": 158,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "What Wednesday Aesthetic Personality Type Are You?",
@@ -1612,7 +2523,7 @@
     },
     {
       "id": "what-wednesday-aesthetic-personality-type-are-you-1",
-      "quizNo": 105,
+      "quizNo": 159,
       "categoryId": "your_type",
       "categoryName": "What's Your Type?",
       "title": "What Wednesday Aesthetic Personality Type Are You?",
@@ -1628,11 +2539,11 @@
     },
     {
       "id": "which-yellowjackets-character-type-are-you",
-      "quizNo": 106,
+      "quizNo": 160,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Yellowjackets Character Type Are You?",
-      "icon": "🏕️",
+      "icon": "📝",
       "userTags": [
         "Yellowjackets",
         "TV Drama",
@@ -1644,11 +2555,11 @@
     },
     {
       "id": "what-would-you-do-in-the-yellowjackets-wilderness",
-      "quizNo": 107,
+      "quizNo": 161,
       "categoryId": "scenario",
       "categoryName": "What Would You Do?",
       "title": "What Would You Do in the Yellowjackets Wilderness?",
-      "icon": "🏕️",
+      "icon": "📝",
       "userTags": [
         "Yellowjackets",
         "Wilderness Survival",
@@ -1660,11 +2571,11 @@
     },
     {
       "id": "whats-your-yellowjacketsinspired-future-survival-d",
-      "quizNo": 108,
+      "quizNo": 162,
       "categoryId": "future",
       "categoryName": "Future / Destiny",
       "title": "What’s Your Yellowjackets-Inspired Future Survival Destiny?",
-      "icon": "🏕️",
+      "icon": "📝",
       "userTags": [
         "Yellowjackets",
         "Survival",
@@ -1676,11 +2587,11 @@
     },
     {
       "id": "which-stranger-things-character-are-you",
-      "quizNo": 109,
+      "quizNo": 163,
       "categoryId": "which_x",
       "categoryName": "Which X Are You?",
       "title": "Which Stranger Things Character Are You?",
-      "icon": "🕷️",
+      "icon": "📝",
       "userTags": [
         "Stranger Things",
         "TV Show",
