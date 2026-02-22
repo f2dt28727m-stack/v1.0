@@ -993,15 +993,8 @@
                     const isTrending = tags.some(t => ['trending', 'new ', '2024', '2025', 'viral', 'gummy', 'aura', 'poetcore', 'vamp', 'newest'].some(x => t.toLowerCase().includes(x)));
                     const isPopular = tags.some(t => ['disney', 'harry potter', 'marvel', 'mbti', 'taylor swift', 'blackpink', 'my little pony'].some(x => t.toLowerCase().includes(x)));
                     
-                    // Generate stats
-                    let likes;
-                    if (isTrending) {
-                        likes = 1000000 + (absHash % 2000000) + (quizId.charCodeAt(quizId.length-1) * 50000);
-                    } else if (isPopular) {
-                        likes = 500000 + (absHash % 1000000) + (quizId.charCodeAt(quizId.length-1) * 30000);
-                    } else {
-                        likes = 10000 + (absHash % 90000) + (quizId.charCodeAt(quizId.length-1) * 5000);
-                    }
+                    // Get likes from quiz data
+                    let likes = quiz.likes || 0;
                     
                     return {
                         test_id: quizId,
@@ -1048,13 +1041,13 @@
                 title: 'Which Disney Princess Resonates With Your Personality?',
                 category_id: 'match',
                 tags: ['Disney', 'Princess', 'Personality', 'MBTI'],
-                hot_count: 1200000
+                hot_count: 50000
             }, {
                 test_id: 'harry-potter-quiz',
                 title: 'Which Harry Potter Character Matches Your Personality?',
                 category_id: 'harry_potter',
                 tags: ['Harry Potter', 'Wizarding World', 'MBTI', 'Personality'],
-                hot_count: 900000
+                hot_count: 45000
             }];
             init();
         }
