@@ -1,2142 +1,943 @@
 {
-  "normalized_tags": {
+  "Music": {
+    "Taylor Swift": [
+      "Taylor Swift",
+      "taylor swift",
+      "TS",
+      "霉霉"
+    ],
+    "Olivia Rodrigo": [
+      "Olivia Rodrigo",
+      "olivia rodrigo",
+      "Olivia"
+    ],
+    "NewJeans": [
+      "NewJeans",
+      "Newjeans",
+      "newjeans",
+      "鲸鱼"
+    ],
+    "Sabrina Carpenter": [
+      "Sabrina Carpenter",
+      "sabrina carpenter",
+      "Sabrina"
+    ],
+    "K-pop": [
+      "K-pop",
+      "K-Pop",
+      "kpop",
+      "韩流",
+      "Korean Music"
+    ],
+    "BTS": [
+      "BTS",
+      "bts",
+      "防弹少年团"
+    ],
+    "Ed Sheeran": [
+      "Ed Sheeran",
+      "ed sheeran",
+      "黄老板"
+    ],
+    "Drake": [
+      "Drake",
+      "drake",
+      "公鸭"
+    ],
+    "Ariana Grande": [
+      "Ariana Grande",
+      "ariana grande",
+      "A妹"
+    ],
+    "Dua Lipa": [
+      "Dua Lipa",
+      "dua lipa",
+      "啪姐"
+    ],
+    "Billie Eilish": [
+      "Billie Eilish",
+      "billie eilish",
+      "碧梨"
+    ],
+    "Harry Styles": [
+      "Harry Styles",
+      "harry styles",
+      "哈里·斯泰尔斯"
+    ],
+    "SZA": [
+      "SZA",
+      "sza"
+    ]
+  },
+  "Gaming": {
+    "Fortnite": [
+      "Fortnite",
+      "fortnite",
+      "堡垒之夜"
+    ],
+    "Roblox": [
+      "Roblox",
+      "roblox",
+      "罗布乐思"
+    ],
+    "Minecraft": [
+      "Minecraft",
+      "minecraft",
+      "我的世界"
+    ],
+    "Genshin Impact": [
+      "Genshin Impact",
+      "genshin impact",
+      "原神",
+      "原"
+    ],
+    "League of Legends": [
+      "League of Legends",
+      "league of legends",
+      "LOL",
+      "英雄联盟",
+      "LoL"
+    ],
+    "Stardew Valley": [
+      "Stardew Valley",
+      "stardew valley",
+      "星露谷物语",
+      "星露谷"
+    ],
+    "Brawl Stars": [
+      "Brawl Stars",
+      "brawl stars",
+      "荒野乱斗"
+    ],
+    "Honkai Star Rail": [
+      "Honkai: Star Rail",
+      "honkai star rail",
+      "崩坏：星穹铁道",
+      "崩坏星铁",
+      "星穹铁道"
+    ],
+    "Video Game": [
+      "Video Game",
+      "video game",
+      "Video Games",
+      "Games",
+      "游戏"
+    ],
+    "Playstyle": [
+      "Playstyle",
+      "playstyle",
+      "玩法风格"
+    ],
+    "Battle Royale": [
+      "Battle Royale",
+      "battle royale",
+      "大逃杀"
+    ],
+    "Mobile Game": [
+      "Mobile Game",
+      "mobile game",
+      "手游",
+      "手机游戏"
+    ],
+    "Virtual World": [
+      "Virtual World",
+      "virtual world",
+      "虚拟世界"
+    ],
+    "Farming": [
+      "Farming",
+      "farming",
+      "农场",
+      "Farm Life",
+      "Farm Simulation",
+      "农场生活",
+      "农场模拟"
+    ],
+    "Adventure": [
+      "Adventure",
+      "adventure",
+      "冒险",
+      "Future Adventure"
+    ]
+  },
+  "Movies & TV": {
+    "Harry Potter": [
+      "Harry Potter",
+      "harry potter",
+      "Wizarding World",
+      "Hogwarts",
+      "霍格沃茨",
+      "哈利波特"
+    ],
+    "Marvel": [
+      "Marvel",
+      "marvel",
+      "MCU",
+      "漫威",
+      "Superhero",
+      "超级英雄"
+    ],
+    "Disney": [
+      "Disney",
+      "disney",
+      "迪士尼",
+      "Disney Princess",
+      "公主"
+    ],
+    "Euphoria": [
+      "Euphoria",
+      "euphoria",
+      "亢奋"
+    ],
+    "Bluey": [
+      "Bluey",
+      "bluey",
+      "布鲁伊"
+    ],
+    "Movie": [
+      "Movie",
+      "movie",
+      "Movies & TV",
+      "电影",
+      "影视"
+    ],
+    "TV Show": [
+      "TV Show",
+      "tv show",
+      "电视剧",
+      "综艺",
+      "TV Drama"
+    ],
+    "Animated Series": [
+      "Animated Series",
+      "animated series",
+      "动画系列",
+      "Cartoon",
+      "卡通",
+      "动画片"
+    ],
+    "Netflix": [
+      "Netflix",
+      "netflix",
+      "网飞"
+    ],
+    "Star Wars": [
+      "Star Wars",
+      "star wars",
+      "星球大战"
+    ],
+    "Wednesday": [
+      "Wednesday",
+      "wednesday",
+      "星期三",
+      "Addams Family",
+      "亚当斯一家"
+    ],
+    "Yellowjackets": [
+      "Yellowjackets",
+      "yellowjackets",
+      "黄夹克"
+    ]
+  },
+  "Personality": {
     "MBTI": [
       "MBTI",
-      "16型人格",
       "mbti",
-      "Mbti"
+      "Mbti",
+      "16型人格"
     ],
     "Personality": [
       "Personality",
+      "personality",
       "Personality Test",
       "Personality Quiz",
       "人格",
       "性格"
     ],
-    "Gaming": [
-      "Gaming",
-      "Gaming Personality",
-      "Games",
-      "游戏"
+    "Hidden Trait": [
+      "Hidden Trait",
+      "hidden trait",
+      "Hidden Traits",
+      "隐藏特质",
+      "Inner Traits",
+      "Inner Self"
     ],
-    "Disney": [
-      "Disney",
-      "迪士尼",
-      "Disney Princess"
-    ],
-    "Harry Potter": [
-      "Harry Potter",
-      "哈利波特",
-      "Wizarding World"
-    ],
-    "Marvel": [
-      "Marvel",
-      "漫威",
-      "MCU",
-      "Superhero"
-    ],
-    "Taylor Swift": [
-      "Taylor Swift",
-      "霉霉",
-      "泰勒·斯威夫特"
-    ],
-    "Music": [
-      "Music",
-      "音乐",
-      "歌手",
-      "歌手相关"
-    ],
-    "Anime": [
-      "Anime",
-      "动漫",
-      "日本动漫"
-    ],
-    "Fortnite": [
-      "Fortnite",
-      "堡垒之夜"
-    ],
-    "Roblox": [
-      "Roblox",
-      "罗布乐思"
-    ],
-    "Minecraft": [
-      "Minecraft",
-      "我的世界"
-    ],
-    "Genshin Impact": [
-      "Genshin Impact",
-      "原神"
-    ],
-    "League of Legends": [
-      "League of Legends",
-      "LOL",
-      "英雄联盟"
-    ],
-    "Stardew Valley": [
-      "Stardew Valley",
-      "星露谷物语"
-    ],
-    "Brawl Stars": [
-      "Brawl Stars",
-      "荒野乱斗"
-    ],
-    "Honkai: Star Rail": [
-      "Honkai: Star Rail",
-      "崩坏：星穹铁道"
-    ],
-    "Pop Culture": [
-      "Pop Culture",
-      "流行文化",
-      "热门"
-    ],
-    "Lifestyle": [
-      "Lifestyle",
-      "生活方式",
-      "生活"
-    ],
-    "Aesthetic": [
+    "Aesthetic Personality": [
+      "Aesthetic Personality",
+      "aesthetic personality",
+      "审美人格",
       "Aesthetic",
       "审美",
-      "美学"
+      "Aura",
+      "气场",
+      "氛围感"
     ],
-    "Soulmate": [
+    "Soulmate Match": [
+      "Soulmate Match",
+      "soulmate match",
       "Soulmate",
       "灵魂伴侣",
       "匹配",
-      "配对"
+      "配对",
+      "灵魂伴侣匹配"
     ],
+    "Future Life": [
+      "Future Life",
+      "future life",
+      "未来人生",
+      "Future Destiny",
+      "Future Lifestyle",
+      "未来生活方式"
+    ],
+    "Character Match": [
+      "Character Match",
+      "character match",
+      "Character",
+      "角色匹配",
+      "Character Quiz",
+      "角色测试"
+    ],
+    "What Would You Do": [
+      "What Would You Do",
+      "what would you do",
+      "你会怎么做"
+    ],
+    "Love Language": [
+      "Love Language",
+      "love language",
+      "爱情语言"
+    ],
+    "Career": [
+      "Career",
+      "career",
+      "职业",
+      "工作",
+      "事业",
+      "Work"
+    ],
+    "Relationships": [
+      "Relationships",
+      "relationships",
+      "人际关系",
+      "关系",
+      "Relationship"
+    ]
+  },
+  "Pop Culture": {
+    "Pop Culture": [
+      "Pop Culture",
+      "pop culture",
+      "流行文化",
+      "热门",
+      "Trending",
+      "Trending",
+      "Viral",
+      "viral",
+      "病毒式",
+      "爆火"
+    ],
+    "Celebrity": [
+      "Celebrity",
+      "celebrity",
+      "名人",
+      "明星",
+      "偶像",
+      "Celebrity Personality"
+    ],
+    "K-Drama": [
+      "K-Drama",
+      "k-drama",
+      "韩剧"
+    ],
+    "Otaku": [
+      "Otaku",
+      "otaku",
+      "宅",
+      "御宅族"
+    ],
+    "Anime": [
+      "Anime",
+      "anime",
+      "动漫",
+      "日本动漫",
+      "Anime Quiz",
+      "Anime Character"
+    ],
+    "Comics": [
+      "Comics",
+      "comics",
+      "漫画"
+    ],
+    "Mythology": [
+      "Mythology",
+      "mythology",
+      "神话"
+    ],
+    "Fairy Tale": [
+      "Fairy Tale",
+      "fairy tale",
+      "童话"
+    ]
+  },
+  "Lifestyle": {
+    "Lifestyle": [
+      "Lifestyle",
+      "lifestyle",
+      "生活方式",
+      "生活"
+    ],
+    "Fashion": [
+      "Fashion",
+      "fashion",
+      "时尚",
+      "穿搭"
+    ],
+    "Food": [
+      "Food",
+      "food",
+      "美食",
+      "食物",
+      "Eating",
+      "吃",
+      "饮食"
+    ],
+    "Travel": [
+      "Travel",
+      "travel",
+      "旅行",
+      "旅游",
+      "Wanderlust",
+      "wanderlust",
+      "旅行欲"
+    ],
+    "Health": [
+      "Health",
+      "health",
+      "健康",
+      "养生",
+      "Healthy"
+    ],
+    "Beauty": [
+      "Beauty",
+      "beauty",
+      "美妆",
+      "化妆"
+    ],
+    "Cooking": [
+      "Cooking",
+      "cooking",
+      "烹饪",
+      "做饭"
+    ],
+    "Fitness": [
+      "Fitness",
+      "fitness",
+      "Workout",
+      "健身",
+      "锻炼",
+      "Yoga",
+      "瑜伽"
+    ],
+    "Self Care": [
+      "Self Care",
+      "self care",
+      "Self Love",
+      "自爱",
+      "Mindfulness",
+      "正念"
+    ],
+    "Mental Health": [
+      "Mental Health",
+      "mental health",
+      "心理健康",
+      "Emotions",
+      "情绪",
+      "Anxiety",
+      "焦虑"
+    ]
+  },
+  "Horror & Mystery": {
+    "Horror": [
+      "Horror",
+      "horror",
+      "恐怖",
+      "惊悚"
+    ],
+    "Thriller": [
+      "Thriller",
+      "thriller",
+      "悬疑"
+    ],
+    "Mystery": [
+      "Mystery",
+      "mystery",
+      "谜",
+      "Secret",
+      "秘密"
+    ],
+    "Magic": [
+      "Magic",
+      "magic",
+      "魔法",
+      "魔力"
+    ],
+    "Dream": [
+      "Dream",
+      "dream",
+      "梦境",
+      "梦想"
+    ]
+  },
+  "Zodiac & Astrology": {
+    "Zodiac": [
+      "Zodiac",
+      "zodiac",
+      "星座",
+      "星象"
+    ],
+    "Astrology": [
+      "Astrology",
+      "astrology",
+      "占星"
+    ],
+    "Horoscope": [
+      "Horoscope",
+      "horoscope",
+      "星座运势"
+    ],
+    "Star Sign": [
+      "Star Sign",
+      "star sign",
+      "星象"
+    ],
+    "Chinese Zodiac": [
+      "Chinese Zodiac",
+      "chinese zodiac",
+      "生肖"
+    ]
+  },
+  "Nature & Places": {
+    "Nature": [
+      "Nature",
+      "nature",
+      "自然",
+      "动物"
+    ],
+    "Ocean": [
+      "Ocean",
+      "ocean",
+      "海洋"
+    ],
+    "Mountain": [
+      "Mountain",
+      "mountain",
+      "山"
+    ],
+    "Forest": [
+      "Forest",
+      "forest",
+      "森林"
+    ],
+    "Beach": [
+      "Beach",
+      "beach",
+      "海滩",
+      "沙滩"
+    ],
+    "City": [
+      "City",
+      "city",
+      "城市"
+    ],
+    "Country": [
+      "Country",
+      "country",
+      "乡村"
+    ]
+  },
+  "Food & Drink": {
+    "Coffee": [
+      "Coffee",
+      "coffee",
+      "咖啡"
+    ],
+    "Tea": [
+      "Tea",
+      "tea",
+      "茶"
+    ],
+    "Pizza": [
+      "Pizza",
+      "pizza",
+      "披萨"
+    ],
+    "Sushi": [
+      "Sushi",
+      "sushi",
+      "寿司"
+    ],
+    "Burger": [
+      "Burger",
+      "burger",
+      "汉堡"
+    ],
+    "Ice Cream": [
+      "Ice Cream",
+      "ice cream",
+      "冰淇淋"
+    ],
+    "Cake": [
+      "Cake",
+      "cake",
+      "蛋糕"
+    ],
+    "Chocolate": [
+      "Chocolate",
+      "chocolate",
+      "巧克力"
+    ],
+    "Vegan": [
+      "Vegan",
+      "vegan",
+      "素食"
+    ]
+  },
+  "Music General": {
+    "Music": [
+      "Music",
+      "music",
+      "音乐",
+      "歌手",
+      "歌手相关",
+      "Music Personality",
+      "音乐人格",
+      "Music Archetype",
+      "音乐原型",
+      "Pop Music",
+      "流行音乐"
+    ]
+  },
+  "Entertainment": {
+    "Romance": [
+      "Romance",
+      "romance",
+      "浪漫",
+      "爱情",
+      "言情"
+    ],
+    "Comedy": [
+      "Comedy",
+      "comedy",
+      "喜剧",
+      "搞笑"
+    ],
+    "Fantasy": [
+      "Fantasy",
+      "fantasy",
+      "奇幻",
+      "魔幻"
+    ],
+    "Sci-Fi": [
+      "Sci-Fi",
+      "sci-fi",
+      "科幻"
+    ],
+    "Action": [
+      "Action",
+      "action",
+      "动作"
+    ],
+    "Drama": [
+      "Drama",
+      "drama",
+      "剧情"
+    ],
+    "Documentary": [
+      "Documentary",
+      "documentary",
+      "纪录片"
+    ],
+    "Reality Show": [
+      "Reality Show",
+      "reality show",
+      "真人秀"
+    ]
+  },
+  "Fantasy & Mythical": {
+    "Vampire": [
+      "Vampire",
+      "vampire",
+      "吸血鬼"
+    ],
+    "Werewolf": [
+      "Werewolf",
+      "werewolf",
+      "狼人"
+    ],
+    "Zombie": [
+      "Zombie",
+      "zombie",
+      "僵尸"
+    ],
+    "Witch": [
+      "Witch",
+      "witch",
+      "女巫"
+    ],
+    "Wizard": [
+      "Wizard",
+      "wizard",
+      "巫师"
+    ],
+    "Dragon": [
+      "Dragon",
+      "dragon",
+      "龙"
+    ],
+    "Unicorn": [
+      "Unicorn",
+      "unicorn",
+      "独角兽"
+    ],
+    "Mermaid": [
+      "Mermaid",
+      "mermaid",
+      "美人鱼"
+    ],
+    "Ghost": [
+      "Ghost",
+      "ghost",
+      "鬼",
+      "幽灵"
+    ],
+    "Angel": [
+      "Angel",
+      "angel",
+      "天使"
+    ],
+    "Demon": [
+      "Demon",
+      "demon",
+      "恶魔"
+    ],
+    "Fairy": [
+      "Fairy",
+      "fairy",
+      "精灵"
+    ],
+    "Alien": [
+      "Alien",
+      "alien",
+      "外星人"
+    ],
+    "Robot": [
+      "Robot",
+      "robot",
+      "机器人",
+      "AI",
+      "人工智能"
+    ],
+    "Spirit Animal": [
+      "Spirit Animal",
+      "spirit animal",
+      "精神动物"
+    ]
+  },
+  "Personality Traits": {
+    "Introvert": [
+      "Introvert",
+      "introvert",
+      "内向"
+    ],
+    "Extrovert": [
+      "Extrovert",
+      "extrovert",
+      "外向"
+    ],
+    "Creative": [
+      "Creative",
+      "creative",
+      "创意"
+    ],
+    "Artistic": [
+      "Artistic",
+      "artistic",
+      "艺术"
+    ],
+    "Optimist": [
+      "Optimist",
+      "optimist",
+      "乐观"
+    ],
+    "Pessimist": [
+      "Pessimist",
+      "pessimist",
+      "悲观"
+    ],
+    "Dreamer": [
+      "Dreamer",
+      "dreamer",
+      "梦想家"
+    ],
+    "Leader": [
+      "Leader",
+      "leader",
+      "领导"
+    ],
+    "Gamer": [
+      "Gamer",
+      "gamer",
+      "玩家"
+    ],
+    "Foodie": [
+      "Foodie",
+      "foodie",
+      "吃货"
+    ],
+    "Traveller": [
+      "Traveller",
+      "traveller",
+      "旅行者"
+    ]
+  },
+  "Seasons & Holidays": {
+    "Christmas": [
+      "Christmas",
+      "christmas",
+      "圣诞节",
+      "圣诞"
+    ],
+    "Halloween": [
+      "Halloween",
+      "halloween",
+      "万圣节"
+    ],
+    "Valentine": [
+      "Valentine",
+      "valentine",
+      "情人节",
+      "七夕"
+    ],
+    "Chinese New Year": [
+      "Chinese New Year",
+      "chinese new year",
+      "春节",
+      "新年"
+    ],
+    "Easter": [
+      "Easter",
+      "easter",
+      "复活节"
+    ],
+    "Thanksgiving": [
+      "Thanksgiving",
+      "thanksgiving",
+      "感恩节"
+    ],
+    "Summer": [
+      "Summer",
+      "summer",
+      "夏天",
+      "暑期"
+    ],
+    "Winter": [
+      "Winter",
+      "winter",
+      "冬天",
+      "冬季"
+    ],
+    "Spring": [
+      "Spring",
+      "spring",
+      "春天",
+      "春季"
+    ],
+    "Fall": [
+      "Fall",
+      "fall",
+      "秋天",
+      "秋季"
+    ]
+  },
+  "Relationships": {
     "Love": [
       "Love",
+      "love",
       "爱情",
       "恋爱",
       "情感"
     ],
     "Friendship": [
       "Friendship",
+      "friendship",
       "友情",
-      "朋友"
-    ],
-    "Career": [
-      "Career",
-      "职业",
-      "工作",
-      "事业"
-    ],
-    "Food": [
-      "Food",
-      "美食",
-      "食物"
-    ],
-    "Travel": [
-      "Travel",
-      "旅行",
-      "旅游"
-    ],
-    "Fashion": [
-      "Fashion",
-      "时尚",
-      "穿搭"
-    ],
-    "Beauty": [
-      "Beauty",
-      "美妆",
-      "化妆"
-    ],
-    "Health": [
-      "Health",
-      "健康",
-      "养生"
-    ],
-    "Education": [
-      "Education",
-      "教育",
-      "学习"
-    ],
-    "Movie": [
-      "Movie",
-      "电影",
-      "Movies & TV",
-      "影视"
-    ],
-    "TV Show": [
-      "TV Show",
-      "电视剧",
-      "综艺"
-    ],
-    "Celebrity": [
-      "Celebrity",
-      "名人",
-      "明星",
-      "偶像"
-    ],
-    "Sports": [
-      "Sports",
-      "运动",
-      "体育"
-    ],
-    "Nature": [
-      "Nature",
-      "自然",
-      "动物"
-    ],
-    "Horror": [
-      "Horror",
-      "恐怖",
-      "惊悚"
-    ],
-    "Comedy": [
-      "Comedy",
-      "喜剧",
-      "搞笑"
-    ],
-    "Romance": [
-      "Romance",
-      "浪漫",
-      "爱情片",
-      "言情",
-      "爱情"
-    ],
-    "Fantasy": [
-      "Fantasy",
-      "奇幻",
-      "魔幻"
-    ],
-    "Sci-Fi": [
-      "Sci-Fi",
-      "科幻",
-      "科幻片"
-    ],
-    "Quiz": [
-      "Quiz",
-      "测试",
-      "问答",
-      "心理测试"
-    ],
-    "Playstyle": [
-      "Playstyle",
-      "Video Games",
-      "Game"
-    ],
-    "Adventure": [
-      "Adventure",
-      "冒险"
-    ],
-    "What Would You Do": [
-      "What Would You Do",
-      "你会怎么做"
-    ],
-    "Euphoria": [
-      "Euphoria",
-      "亢奋"
-    ],
-    "Bluey": [
-      "Bluey",
-      "布鲁伊"
-    ],
-    "Aesthetic Personality": [
-      "Aesthetic Personality",
-      "审美人格"
-    ],
-    "Olivia Rodrigo": [
-      "Olivia Rodrigo",
-      "奥利维亚·罗德里戈"
-    ],
-    "Hidden Trait": [
-      "Hidden Trait",
-      "Hidden Traits",
-      "隐藏特质",
-      "Inner Traits"
-    ],
-    "Sabrina Carpenter": [
-      "Sabrina Carpenter",
-      "萨布丽娜·卡彭特"
-    ],
-    "NewJeans": [
-      "NewJeans",
-      "Newjeans",
-      "鲸鱼"
-    ],
-    "My Little Pony": [
-      "My Little Pony",
-      "MLP",
-      "小马宝莉",
-      "Pony"
-    ],
-    "Soulmate Match": [
-      "Soulmate Match",
-      "Soulmate",
-      "灵魂伴侣匹配"
-    ],
-    "Future Life": [
-      "Future Life",
-      "未来人生",
-      "Future Destiny"
-    ],
-    "Celebrity Personality": [
-      "Celebrity Personality",
-      "名人人格"
-    ],
-    "K-pop": [
-      "K-pop",
-      "K-Pop",
-      "韩流"
-    ],
-    "Cartoon": [
-      "Cartoon",
-      "卡通",
-      "动画片"
-    ],
-    "Character Match": [
-      "Character Match",
-      "角色匹配",
-      "Character"
-    ],
-    "Hogwarts": [
-      "Hogwarts",
-      "霍格沃茨"
-    ],
-    "Love Language": [
-      "Love Language",
-      "爱情语言"
-    ],
-    "Trending": [
-      "Trending",
-      "热门",
-      "Trending"
-    ],
-    "Viral": [
-      "Viral",
-      "病毒式",
-      "爆火"
-    ],
-    "Aura": [
-      "Aura",
-      "气场"
-    ],
-    "Poetcore": [
-      "Poetcore",
-      "诗人核"
-    ],
-    "Traitor": [
-      "Traitor",
-      "卧底",
-      "背叛者"
-    ],
-    "Thriller": [
-      "Thriller",
-      "惊悚",
-      "悬疑"
-    ],
-    "Dream": [
-      "Dream",
-      "梦境",
-      "梦想"
-    ],
-    "Zodiac": [
-      "Zodiac",
-      "星座",
-      "星象"
-    ],
-    "Astrology": [
-      "Astrology",
-      "占星"
-    ],
-    "Puppy": [
-      "Puppy",
-      "狗狗",
-      "宠物"
-    ],
-    "Kitty": [
-      "Kitty",
-      "猫咪"
-    ],
-    "Anime Quiz": [
-      "Anime Quiz",
-      "动漫测试"
-    ],
-    "K-Drama": [
-      "K-Drama",
-      "韩剧"
-    ],
-    "BTS": [
-      "BTS",
-      "防弹少年团"
-    ],
-    "Ed Sheeran": [
-      "Ed Sheeran",
-      "黄老板"
-    ],
-    "Drake": [
-      "Drake",
-      "公鸭"
-    ],
-    "Selena Gomez": [
-      "Selena Gomez",
-      "赛琳娜·戈麦斯"
-    ],
-    "Ariana Grande": [
-      "Ariana Grande",
-      "A妹"
-    ],
-    "Dua Lipa": [
-      "Dua Lipa",
-      "啪姐"
-    ],
-    " Billie Eilish": [
-      "Billie Eilish",
-      "碧梨"
-    ],
-    "Harry Styles": [
-      "Harry Styles",
-      "哈里·斯泰尔斯"
-    ],
-    "Zodiac Sign": [
-      "Zodiac Sign",
-      "星座"
-    ],
-    "Chinese Zodiac": [
-      "Chinese Zodiac",
-      "生肖"
-    ],
-    "Chinese New Year": [
-      "Chinese New Year",
-      "春节",
-      "新年"
-    ],
-    "Valentine": [
-      "Valentine",
-      "情人节",
-      "七夕"
-    ],
-    "Christmas": [
-      "Christmas",
-      "圣诞节",
-      "圣诞"
-    ],
-    "Halloween": [
-      "Halloween",
-      "万圣节"
-    ],
-    "Easter": [
-      "Easter",
-      "复活节"
-    ],
-    "Thanksgiving": [
-      "Thanksgiving",
-      "感恩节"
-    ],
-    "New Year": [
-      "New Year",
-      "新年"
-    ],
-    "Summer": [
-      "Summer",
-      "夏天",
-      "暑期"
-    ],
-    "Winter": [
-      "Winter",
-      "冬天",
-      "冬季"
-    ],
-    "Spring": [
-      "Spring",
-      "春天",
-      "春季"
-    ],
-    "Fall": [
-      "Fall",
-      "秋天",
-      "秋季"
-    ],
-    "Ocean": [
-      "Ocean",
-      "海洋"
-    ],
-    "Mountain": [
-      "Mountain",
-      "山"
-    ],
-    "Forest": [
-      "Forest",
-      "森林"
-    ],
-    "Desert": [
-      "Desert",
-      "沙漠"
-    ],
-    "City": [
-      "City",
-      "城市"
-    ],
-    "Country": [
-      "Country",
-      "乡村"
-    ],
-    "Beach": [
-      "Beach",
-      "海滩",
-      "沙滩"
-    ],
-    "Coffee": [
-      "Coffee",
-      "咖啡"
-    ],
-    "Tea": [
-      "Tea",
-      "茶"
-    ],
-    "Pizza": [
-      "Pizza",
-      "披萨"
-    ],
-    "Sushi": [
-      "Sushi",
-      "寿司"
-    ],
-    "Burger": [
-      "Burger",
-      "汉堡"
-    ],
-    "Ice Cream": [
-      "Ice Cream",
-      "冰淇淋"
-    ],
-    "Cake": [
-      "Cake",
-      "蛋糕"
-    ],
-    "Chocolate": [
-      "Chocolate",
-      "巧克力"
-    ],
-    "Cookie": [
-      "Cookie",
-      "饼干"
-    ],
-    "Salad": [
-      "Salad",
-      "沙拉"
-    ],
-    "Vegan": [
-      "Vegan",
-      "素食"
-    ],
-    "Keto": [
-      "Keto",
-      "生酮"
-    ],
-    "Paleo": [
-      "Paleo",
-      "原始人饮食"
-    ],
-    "Mediterranean": [
-      "Mediterranean",
-      "地中海"
-    ],
-    "Japanese Food": [
-      "Japanese Food",
-      "日料",
-      "日本料理"
-    ],
-    "Chinese Food": [
-      "Chinese Food",
-      "中餐",
-      "中菜"
-    ],
-    "Italian Food": [
-      "Italian Food",
-      "意大利菜"
-    ],
-    "Mexican Food": [
-      "Mexican Food",
-      "墨西哥菜"
-    ],
-    "Indian Food": [
-      "Indian Food",
-      "印度菜"
-    ],
-    "Fast Food": [
-      "Fast Food",
-      "快餐"
-    ],
-    "Healthy": [
-      "Healthy",
-      "健康"
-    ],
-    "Workout": [
-      "Workout",
-      "健身",
-      "锻炼"
-    ],
-    "Yoga": [
-      "Yoga",
-      "瑜伽"
-    ],
-    "Meditation": [
-      "Meditation",
-      "冥想"
-    ],
-    "Sleep": [
-      "Sleep",
-      "睡眠"
-    ],
-    "Mindfulness": [
-      "Mindfulness",
-      "正念"
-    ],
-    "Self Care": [
-      "Self Care",
-      "自我关怀"
-    ],
-    "Self Love": [
-      "Self Love",
-      "自爱"
-    ],
-    "Confidence": [
-      "Confidence",
-      "自信"
-    ],
-    "Self Esteem": [
-      "Self Esteem",
-      "自尊"
-    ],
-    "Emotions": [
-      "Emotions",
-      "情绪"
-    ],
-    "Mental Health": [
-      "Mental Health",
-      "心理健康"
-    ],
-    "Anxiety": [
-      "Anxiety",
-      "焦虑"
-    ],
-    "Depression": [
-      "Depression",
-      "抑郁"
-    ],
-    "Stress": [
-      "Stress",
-      "压力"
-    ],
-    "Energy": [
-      "Energy",
-      "能量"
-    ],
-    "Vibe": [
-      "Vibe",
-      "氛围"
-    ],
-    "Vibes": [
-      "Vibes",
-      "感觉"
-    ],
-    "Mood": [
-      "Mood",
-      "心情"
-    ],
-    "Humor": [
-      "Humor",
-      "幽默",
-      "笑话"
-    ],
-    "Witty": [
-      "Witty",
-      "俏皮"
-    ],
-    "Sassy": [
-      "Sassy",
-      "时尚"
-    ],
-    "Chill": [
-      "Chill",
-      "悠闲"
-    ],
-    "Introvert": [
-      "Introvert",
-      "内向"
-    ],
-    "Extrovert": [
-      "Extrovert",
-      "外向"
-    ],
-    "Ambivert": [
-      "Ambivert",
-      "中性"
-    ],
-    "Creative": [
-      "Creative",
-      "创意"
-    ],
-    "Artistic": [
-      "Artistic",
-      "艺术"
-    ],
-    "Musical": [
-      "Musical",
-      "音乐"
-    ],
-    "Athletic": [
-      "Athletic",
-      "运动"
-    ],
-    "Bookworm": [
-      "Bookworm",
-      "书虫"
-    ],
-    "Nerd": [
-      "Nerd",
-      "书呆子"
-    ],
-    "Geek": [
-      "Geek",
-      "极客"
-    ],
-    "Gamer": [
-      "Gamer",
-      "玩家"
-    ],
-    "Foodie": [
-      "Foodie",
-      "吃货"
-    ],
-    "Traveller": [
-      "Traveller",
-      "旅行者"
-    ],
-    "Photographer": [
-      "Photographer",
-      "摄影师"
-    ],
-    "Fashionista": [
-      "Fashionista",
-      "时尚达人"
-    ],
-    "Beauty Guru": [
-      "Beauty Guru",
-      "美妆博主"
-    ],
-    "Influencer": [
-      "Influencer",
-      "网红"
-    ],
-    "Content Creator": [
-      "Content Creator",
-      "内容创作者"
-    ],
-    "Youtuber": [
-      "Youtuber",
-      "油管博主"
-    ],
-    "Streamer": [
-      "Streamer",
-      "主播"
-    ],
-    "Blogger": [
-      "Blogger",
-      "博主"
-    ],
-    "Vlogger": [
-      "Vlogger",
-      "视频博主"
-    ],
-    "Entrepreneur": [
-      "Entrepreneur",
-      "企业家"
-    ],
-    "Leader": [
-      "Leader",
-      "领导"
-    ],
-    "Team Player": [
-      "Team Player",
-      "团队玩家"
-    ],
-    "Independent": [
-      "Independent",
-      "独立"
-    ],
-    "Dependent": [
-      "Dependent",
-      "依赖"
-    ],
-    "Competitive": [
-      "Competitive",
-      "竞争"
-    ],
-    "Cooperative": [
-      "Cooperative",
-      "合作"
-    ],
-    "Adventurous": [
-      "Adventurous",
-      "冒险"
-    ],
-    "Cautious": [
-      "Cautious",
-      "谨慎"
-    ],
-    "Spontaneous": [
-      "Spontaneous",
-      "冲动"
-    ],
-    "Planned": [
-      "Planned",
-      "计划"
-    ],
-    "Flexible": [
-      "Flexible",
-      "灵活"
-    ],
-    "Structured": [
-      "Structured",
-      "结构化"
-    ],
-    "Organized": [
-      "Organized",
-      "有条理"
-    ],
-    "Messy": [
-      "Messy",
-      "混乱"
-    ],
-    "Clean": [
-      "Clean",
-      "干净"
-    ],
-    "Minimalist": [
-      "Minimalist",
-      "极简"
-    ],
-    "Maximalist": [
-      "Maximalist",
-      "繁复"
-    ],
-    "Traditional": [
-      "Traditional",
-      "传统"
-    ],
-    "Modern": [
-      "Modern",
-      "现代"
-    ],
-    "Classic": [
-      "Classic",
-      "经典"
-    ],
-    "Vintage": [
-      "Vintage",
-      "复古"
-    ],
-    "Trendy": [
-      "Trendy",
-      "潮流"
-    ],
-    "Bohemian": [
-      "Bohemian",
-      "波西米亚"
-    ],
-    "Preppy": [
-      "Preppy",
-      "学院"
-    ],
-    "Casual": [
-      "Casual",
-      "休闲"
-    ],
-    "Formal": [
-      "Formal",
-      "正式"
-    ],
-    "Streetwear": [
-      "Streetwear",
-      "街头"
-    ],
-    "Luxury": [
-      "Luxury",
-      "奢侈"
-    ],
-    "Budget": [
-      "Budget",
-      "便宜"
-    ],
-    "Eco Friendly": [
-      "Eco Friendly",
-      "环保"
-    ],
-    "Sustainable": [
-      "Sustainable",
-      "可持续"
-    ],
-    "Organic": [
-      "Organic",
-      "有机"
-    ],
-    "Natural": [
-      "Natural",
-      "天然"
-    ],
-    "Synthetic": [
-      "Synthetic",
-      "合成"
-    ],
-    "Tech Savvy": [
-      "Tech Savvy",
-      "科技"
-    ],
-    "Digital": [
-      "Digital",
-      "数字"
-    ],
-    "Traditionalist": [
-      "Traditionalist",
-      "传统派"
-    ],
-    "Innovator": [
-      "Innovator",
-      "创新者"
-    ],
-    "Early Adopter": [
-      "Early Adopter",
-      "先行者"
-    ],
-    "Laggard": [
-      "Laggard",
-      "落后者"
-    ],
-    "Optimist": [
-      "Optimist",
-      "乐观"
-    ],
-    "Pessimist": [
-      "Pessimist",
-      "悲观"
-    ],
-    "Realist": [
-      "Realist",
-      "现实"
-    ],
-    "Idealist": [
-      "Idealist",
-      "理想"
-    ],
-    "Pragmatist": [
-      "Pragmatist",
-      "务实"
-    ],
-    "Romantic": [
-      "Romantic",
-      "浪漫"
-    ],
-    "Cynic": [
-      "Cynic",
-      "愤世嫉俗"
-    ],
-    "Skeptic": [
-      "Skeptic",
-      "怀疑"
-    ],
-    "Believer": [
-      "Believer",
-      "相信"
-    ],
-    "Dreamer": [
-      "Dreamer",
-      "梦想家"
-    ],
-    "Doer": [
-      "Doer",
-      "实干家"
-    ],
-    "Thinker": [
-      "Thinker",
-      "思考者"
-    ],
-    "Feeler": [
-      "Feeler",
-      "感受者"
-    ],
-    "Instinctual": [
-      "Instinctual",
-      "本能"
-    ],
-    "Intuitive": [
-      "Intuitive",
-      "直觉"
-    ],
-    "Rational": [
-      "Rational",
-      "理性"
-    ],
-    "Emotional": [
-      "Emotional",
-      "情绪化"
-    ],
-    "Logical": [
-      "Logical",
-      "逻辑"
-    ],
-    "Practical": [
-      "Practical",
-      "实际"
-    ],
-    "Abstract": [
-      "Abstract",
-      "抽象"
-    ],
-    "Concrete": [
-      "Concrete",
-      "具体"
-    ],
-    "Theoretical": [
-      "Theoretical",
-      "理论"
-    ],
-    "Experimental": [
-      "Experimental",
-      "实验"
-    ],
-    "Alternative": [
-      "Alternative",
-      "另类"
-    ],
-    "Mainstream": [
-      "Mainstream",
-      "主流"
-    ],
-    "Unique": [
-      "Unique",
-      "独特"
-    ],
-    "Common": [
-      "Common",
-      "常见"
-    ],
-    "Rare": [
-      "Rare",
-      "稀有"
-    ],
-    "Popular": [
-      "Popular",
-      "流行"
-    ],
-    "Niche": [
-      "Niche",
-      "小众"
-    ],
-    "Basic": [
-      "Basic",
-      "基本"
-    ],
-    "Premium": [
-      "Premium",
-      "高端"
-    ],
-    "Expensive": [
-      "Expensive",
-      "昂贵"
-    ],
-    "Free": [
-      "Free",
-      "免费"
-    ],
-    "Paid": [
-      "Paid",
-      "付费"
-    ],
-    "Online": [
-      "Online",
-      "线上"
-    ],
-    "Offline": [
-      "Offline",
-      "线下"
-    ],
-    "Virtual": [
-      "Virtual",
-      "虚拟"
-    ],
-    "Physical": [
-      "Physical",
-      "实体"
-    ],
-    "Remote": [
-      "Remote",
-      "远程"
-    ],
-    "Local": [
-      "Local",
-      "本地"
-    ],
-    "Global": [
-      "Global",
-      "全球"
-    ],
-    "National": [
-      "National",
-      "国家"
-    ],
-    "Regional": [
-      "Regional",
-      "地区"
-    ],
-    "Urban": [
-      "Urban",
-      "城市"
-    ],
-    "Rural": [
-      "Rural",
-      "农村"
-    ],
-    "Suburban": [
-      "Suburban",
-      "郊区"
-    ],
-    "Coastal": [
-      "Coastal",
-      "沿海"
-    ],
-    "Inland": [
-      "Inland",
-      "内陆"
-    ],
-    "Island": [
-      "Island",
-      "岛屿"
-    ],
-    "Mountainous": [
-      "Mountainous",
-      "山地"
-    ],
-    "Flat": [
-      "Flat",
-      "平坦"
-    ],
-    "Hilly": [
-      "Hilly",
-      "丘陵"
-    ],
-    "Tropical": [
-      "Tropical",
-      "热带"
-    ],
-    "Temperate": [
-      "Temperate",
-      "温带"
-    ],
-    "Cold": [
-      "Cold",
-      "寒冷"
-    ],
-    "Hot": [
-      "Hot",
-      "炎热"
-    ],
-    "Warm": [
-      "Warm",
-      "温暖"
-    ],
-    "Cool": [
-      "Cool",
-      "凉爽"
-    ],
-    "Humid": [
-      "Humid",
-      "潮湿"
-    ],
-    "Dry": [
-      "Dry",
-      "干燥"
-    ],
-    "Windy": [
-      "Windy",
-      "多风"
-    ],
-    "Calm": [
-      "Calm",
-      "平静"
-    ],
-    "Stormy": [
-      "Stormy",
-      "风暴"
-    ],
-    "Sunny": [
-      "Sunny",
-      "晴天"
-    ],
-    "Cloudy": [
-      "Cloudy",
-      "多云"
-    ],
-    "Rainy": [
-      "Rainy",
-      "雨天"
-    ],
-    "Snowy": [
-      "Snowy",
-      "雪天"
-    ],
-    "Foggy": [
-      "Foggy",
-      "雾天"
-    ],
-    "Clear": [
-      "Clear",
-      "清晰"
-    ],
-    "Partly Cloudy": [
-      "Partly Cloudy",
-      "局部多云"
-    ],
-    "Overcast": [
-      "Overcast",
-      "阴天"
-    ],
-    "Storm": [
-      "Storm",
-      "暴风雨"
-    ],
-    "Thunder": [
-      "Thunder",
-      "雷声"
-    ],
-    "Lightning": [
-      "Lightning",
-      "闪电"
-    ],
-    "Tornado": [
-      "Tornado",
-      "龙卷风"
-    ],
-    "Hurricane": [
-      "Hurricane",
-      "飓风"
-    ],
-    "Typhoon": [
-      "Typhoon",
-      "台风"
-    ],
-    "Flood": [
-      "Flood",
-      "洪水"
-    ],
-    "Drought": [
-      "Drought",
-      "干旱"
-    ],
-    "Heatwave": [
-      "Heatwave",
-      "热浪"
-    ],
-    "Cold Wave": [
-      "Cold Wave",
-      "寒潮"
-    ],
-    "Earthquake": [
-      "Earthquake",
-      "地震"
-    ],
-    "Volcano": [
-      "Volcano",
-      "火山"
-    ],
-    "Tsunami": [
-      "Tsunami",
-      "海啸"
-    ],
-    "Wildfire": [
-      "Wildfire",
-      "野火"
-    ],
-    "Landslide": [
-      "Landslide",
-      "山体滑坡"
-    ],
-    "Avalanche": [
-      "Avalanche",
-      "雪崩"
-    ],
-    "Eruption": [
-      "Eruption",
-      "喷发"
-    ],
-    "Princess": [
-      "Princess",
-      "公主"
-    ],
-    "TV Drama": [
-      "TV Drama",
-      "电视剧"
-    ],
-    "Animated Series": [
-      "Animated Series",
-      "动画系列"
-    ],
-    "Relationships": [
-      "Relationships",
-      "人际关系",
-      "关系"
-    ],
-    "Work": [
-      "Work",
-      "工作",
-      "职场"
-    ],
-    "Success": [
-      "Success",
-      "成功",
-      "成就"
-    ],
-    "Wanderlust": [
-      "Wanderlust",
-      "旅行欲",
-      "流浪"
-    ],
-    "Creature": [
-      "Creature",
-      "生物",
-      " creatures"
-    ],
-    "Magic": [
-      "Magic",
-      "魔法",
-      "魔力"
-    ],
-    "Farmer": [
-      "Farmer",
-      "农民",
-      "农夫"
-    ],
-    "Farming": [
-      "Farming",
-      "农场",
-      " Farming"
-    ],
-    "Music Personality": [
-      "Music Personality",
-      "音乐人格"
-    ],
-    "Music Archetype": [
-      "Music Archetype",
-      "音乐原型"
-    ],
-    "Inner Self": [
-      "Inner Self",
-      "内在自我"
-    ],
-    "Pop Music": [
-      "Pop Music",
-      "流行音乐"
-    ],
-    "Character Trait": [
-      "Character Trait",
-      "角色特质"
-    ],
-    "Korean Music": [
-      "Korean Music",
-      "韩国音乐",
-      "韩流音乐"
-    ],
-    "Future Lifestyle": [
-      "Future Lifestyle",
-      "未来生活方式"
-    ],
-    "Farm Life": [
-      "Farm Life",
-      "农场生活"
-    ],
-    "Farming Simulation": [
-      "Farming Simulation",
-      "农场模拟"
-    ],
-    "Battle Royale": [
-      "Battle Royale",
-      "大逃杀"
-    ],
-    "Virtual World": [
-      "Virtual World",
-      "虚拟世界"
-    ],
-    "Future Adventure": [
-      "Future Adventure",
-      "未来冒险"
-    ],
-    "Video Game": [
-      "Video Game",
-      "电子游戏"
-    ],
-    "Trailblazer": [
-      "Trailblazer",
-      "开拓者"
-    ],
-    "Yellowjackets": [
-      "Yellowjackets",
-      "黄夹克"
-    ],
-    "Mystery": [
-      "Mystery",
-      "悬疑",
-      "谜"
-    ],
-    "Drama": [
-      "Drama",
-      "剧情"
-    ],
-    "Action": [
-      "Action",
-      "动作"
-    ],
-    "Documentary": [
-      "Documentary",
-      "纪录片"
-    ],
-    "Reality Show": [
-      "Reality Show",
-      "真人秀"
-    ],
-    "Game Show": [
-      "Game Show",
-      "游戏节目"
-    ],
-    "Talk Show": [
-      "Talk Show",
-      "脱口秀"
-    ],
-    "Cooking Show": [
-      "Cooking Show",
-      "烹饪节目"
-    ],
-    "Travel Show": [
-      "Travel Show",
-      "旅行节目"
-    ],
-    "Fashion Show": [
-      "Fashion Show",
-      "时装秀"
-    ],
-    "Music Show": [
-      "Music Show",
-      "音乐节目"
-    ],
-    "Competition": [
-      "Competition",
-      "竞赛"
-    ],
-    "Tournament": [
-      "Tournament",
-      "锦标赛"
-    ],
-    "Champion": [
-      "Champion",
-      "冠军"
-    ],
-    "Winner": [
-      "Winner",
-      "获胜者"
-    ],
-    "Loser": [
-      "Loser",
-      "失败者"
-    ],
-    "Player": [
-      "Player",
-      "玩家"
-    ],
-    "Team": [
-      "Team",
-      "团队"
-    ],
-    "Solo": [
-      "Solo",
-      "单人"
-    ],
-    "Duo": [
-      "Duo",
-      "双人"
-    ],
-    "Squad": [
-      "Squad",
-      "小队"
-    ],
-    "Guild": [
-      "Guild",
-      "公会"
-    ],
-    "Clan": [
-      "Clan",
-      "氏族"
-    ],
-    "Alliance": [
-      "Alliance",
-      "联盟"
-    ],
-    "Empire": [
-      "Empire",
-      "帝国"
-    ],
-    "Kingdom": [
-      "Kingdom",
-      "王国"
-    ],
-    "Nation": [
-      "Nation",
-      "国家"
-    ],
-    "World": [
-      "World",
-      "世界"
-    ],
-    "Universe": [
-      "Universe",
-      "宇宙"
-    ],
-    "Galaxy": [
-      "Galaxy",
-      "银河"
-    ],
-    "Planet": [
-      "Planet",
-      "行星"
-    ],
-    "Star": [
-      "Star",
-      "星星"
-    ],
-    "Moon": [
-      "Moon",
-      "月球"
-    ],
-    "Sun": [
-      "Sun",
-      "太阳"
-    ],
-    "Sky": [
-      "Sky",
-      "天空"
-    ],
-    "Earth": [
-      "Earth",
-      "地球"
-    ],
-    "Mars": [
-      "Mars",
-      "火星"
-    ],
-    "Venus": [
-      "Venus",
-      "金星"
-    ],
-    "Jupiter": [
-      "Jupiter",
-      "木星"
-    ],
-    "Saturn": [
-      "Saturn",
-      "土星"
-    ],
-    "Neptune": [
-      "Neptune",
-      "海王星"
-    ],
-    "Uranus": [
-      "Uranus",
-      "天王星"
-    ],
-    "Pluto": [
-      "Pluto",
-      "冥王星"
-    ],
-    "Mercury": [
-      "Mercury",
-      "水星"
-    ],
-    "Space": [
-      "Space",
-      "太空"
-    ],
-    "Alien": [
-      "Alien",
-      "外星人"
-    ],
-    "Robot": [
-      "Robot",
-      "机器人"
-    ],
-    "AI": [
-      "AI",
-      "人工智能"
-    ],
-    "Cyborg": [
-      "Cyborg",
-      "赛博人"
-    ],
-    "Android": [
-      "Android",
-      "安卓机器人"
-    ],
-    "Ghost": [
-      "Ghost",
-      "鬼",
-      "幽灵"
-    ],
-    "Spirit": [
-      "Spirit",
-      "精神",
-      "灵魂"
-    ],
-    "Demon": [
-      "Demon",
-      "恶魔"
-    ],
-    "Angel": [
-      "Angel",
-      "天使"
-    ],
-    "Vampire": [
-      "Vampire",
-      "吸血鬼"
-    ],
-    "Werewolf": [
-      "Werewolf",
-      "狼人"
-    ],
-    "Zombie": [
-      "Zombie",
-      "僵尸"
-    ],
-    "Witch": [
-      "Witch",
-      "女巫"
-    ],
-    "Wizard": [
-      "Wizard",
-      "巫师"
-    ],
-    "Fairy": [
-      "Fairy",
-      " fairy",
-      "精灵"
-    ],
-    "Mermaid": [
-      "Mermaid",
-      "美人鱼"
-    ],
-    "Unicorn": [
-      "Unicorn",
-      "独角兽"
-    ],
-    "Dragon": [
-      "Dragon",
-      "龙"
-    ],
-    "Phoenix": [
-      "Phoenix",
-      "凤凰"
-    ],
-    "Griffin": [
-      "Griffin",
-      "狮鹫"
-    ],
-    "Pegasus": [
-      "Pegasus",
-      "天马"
-    ],
-    "Centaur": [
-      "Centaur",
-      "半人马"
-    ],
-    "Minotaur": [
-      "Minotaur",
-      "弥诺陶洛斯"
-    ],
-    "Satyr": [
-      "Satyr",
-      "萨提尔"
-    ],
-    "Nymph": [
-      "Nymph",
-      "仙女"
-    ],
-    "Elf": [
-      "Elf",
-      "精灵"
-    ],
-    "Dwarf": [
-      "Dwarf",
-      "矮人"
-    ],
-    "Orc": [
-      "Orc",
-      "兽人"
-    ],
-    "Troll": [
-      "Troll",
-      "巨魔"
-    ],
-    "Ogre": [
-      "Ogre",
-      "食人魔"
-    ],
-    "Giant": [
-      "Giant",
-      "巨人"
-    ],
-    "Goblin": [
-      "Goblin",
-      "妖精"
-    ],
-    "Imp": [
-      "Imp",
-      "小恶魔"
-    ],
-    "Pixie": [
-      "Pixie",
-      "小精灵"
-    ],
-    "Sprite": [
-      "Sprite",
-      "妖精"
-    ],
-    "Banshee": [
-      "Banshee",
-      "女妖"
-    ],
-    "Chimera": [
-      "Chimera",
-      "奇美拉"
-    ],
-    "Hydra": [
-      "Hydra",
-      "九头蛇"
-    ],
-    "Cyclops": [
-      "Cyclops",
-      "独眼巨人"
-    ],
-    "Character Quiz": [
-      "Character Quiz",
-      "角色测试"
-    ],
-    "Brawler": [
-      "Brawler",
-      "格斗"
-    ],
-    "Mobile Game": [
-      "Mobile Game",
-      "手游",
-      "手机游戏"
-    ],
-    "Personality Type": [
-      "Personality Type",
-      "人格类型"
-    ],
-    "Wednesday": [
-      "Wednesday",
-      "星期三",
-      "周三"
-    ],
-    "Addams Family": [
-      "Addams Family",
-      "亚当斯一家"
-    ],
-    "Survival": [
-      "Survival",
-      "生存"
-    ],
-    "Villain": [
-      "Villain",
-      "反派",
-      "坏人"
-    ],
-    "Dark Side": [
-      "Dark Side",
-      "黑暗面"
-    ],
-    "Otaku": [
-      "Otaku",
-      "宅",
-      "御宅族"
-    ],
-    "Horoscope": [
-      "Horoscope",
-      "星座运势"
-    ],
-    "Star Sign": [
-      "Star Sign",
-      "星象"
-    ],
-    "Fairy Tale": [
-      "Fairy Tale",
-      "童话"
-    ],
-    "Cooking": [
-      "Cooking",
-      "烹饪",
-      "做饭"
-    ],
-    "Eating": [
-      "Eating",
-      "吃",
-      "饮食"
-    ],
-    "Sidekick": [
-      "Sidekick",
-      "配角",
-      "助手"
-    ],
-    "Comics": [
-      "Comics",
-      "漫画"
-    ],
-    "Mythology": [
-      "Mythology",
-      "神话"
-    ],
-    "History": [
-      "History",
-      "历史"
-    ],
-    "Historical Figure": [
-      "Historical Figure",
-      "历史人物"
-    ],
-    "Legacy": [
-      "Legacy",
-      "遗产",
-      "传承"
-    ],
-    "Sound": [
-      "Sound",
-      "声音"
-    ],
-    "Rhythm": [
-      "Rhythm",
-      "节奏"
-    ],
-    "Star Wars": [
-      "Star Wars",
-      "星球大战"
-    ],
-    "Spirit Animal": [
-      "Spirit Animal",
-      "精神动物"
-    ],
-    "Symbolism": [
-      "Symbolism",
-      "象征"
-    ],
-    "Eras Tour": [
-      "Eras Tour",
-      "时代巡演"
-    ],
-    "ChatGPT": [
-      "ChatGPT",
-      "GPT"
-    ],
-    "Tech": [
-      "Tech",
-      "科技",
-      "技术"
-    ],
-    "SZA": [
-      "SZA"
-    ],
-    "Netflix": [
-      "Netflix",
-      "网飞"
-    ],
-    "Anime Character": [
-      "Anime Character",
-      "动漫角色"
-    ],
-    "Fictional Character": [
-      "Fictional Character",
-      "虚构角色"
-    ],
-    "Hero": [
-      "Hero",
-      "英雄"
-    ],
-    "Protagonist": [
-      "Protagonist",
-      "主角"
-    ],
-    "Antagonist": [
-      "Antagonist",
-      "对手"
-    ],
-    "Friends": [
-      "Friends",
-      "朋友"
+      "朋友",
+      "Friends"
     ],
     "Family": [
       "Family",
+      "family",
       "家人",
       "家庭"
     ],
     "Kids": [
       "Kids",
+      "kids",
       "孩子",
       "儿童"
     ],
     "Teen": [
       "Teen",
+      "teen",
       "青少年"
     ],
     "Adult": [
       "Adult",
+      "adult",
       "成人"
-    ],
-    "Elderly": [
-      "Elderly",
-      "老人",
-      "老年人"
-    ],
-    "Gender": [
-      "Gender",
-      "性别"
-    ],
-    "Male": [
-      "Male",
-      "男",
-      "男性"
-    ],
-    "Female": [
-      "Female",
-      "女",
-      "女性"
-    ],
-    "Non-Binary": [
-      "Non-Binary",
-      "非二元"
-    ],
-    "Straight": [
-      "Straight",
-      "异性恋"
-    ],
-    "Gay": [
-      "Gay",
-      "同性恋"
-    ],
-    "Lesbian": [
-      "Lesbian",
-      "女同"
-    ],
-    "Bisexual": [
-      "Bisexual",
-      "双性恋"
-    ],
-    "Pansexual": [
-      "Pansexual",
-      "泛性恋"
-    ],
-    "Asexual": [
-      "Asexual",
-      "无性恋"
-    ],
-    "Queer": [
-      "Queer",
-      "酷儿"
-    ],
-    "LGBTQ": [
-      "LGBTQ",
-      "LGBT"
-    ],
-    "Relationship": [
-      "Relationship",
-      "恋情"
-    ],
-    "Dating": [
-      "Dating",
-      "约会"
-    ],
-    "Marriage": [
-      "Marriage",
-      "婚姻"
-    ],
-    "Wedding": [
-      "Wedding",
-      "婚礼"
-    ],
-    "Divorce": [
-      "Divorce",
-      "离婚"
-    ],
-    "Breakup": [
-      "Breakup",
-      "分手"
-    ],
-    "Ex": [
-      "Ex",
-      "前任"
-    ],
-    "Crush": [
-      "Crush",
-      "暗恋"
-    ],
-    "Date": [
-      "Date",
-      "日期"
-    ],
-    "Hookup": [
-      "Hookup",
-      "一夜情"
-    ],
-    "Fling": [
-      "Fling",
-      "短暂恋情"
-    ],
-    "Affair": [
-      "Affair",
-      "婚外情"
-    ],
-    "Secret": [
-      "Secret",
-      "秘密"
-    ],
-    "Puzzle": [
-      "Puzzle",
-      "谜题"
-    ],
-    "Riddle": [
-      "Riddle",
-      "谜语"
-    ],
-    "Enigma": [
-      "Enigma",
-      "神秘"
-    ],
-    "Clue": [
-      "Clue",
-      "线索"
-    ],
-    "Code": [
-      "Code",
-      "密码"
-    ],
-    "Cipher": [
-      "Cipher",
-      "暗号"
-    ],
-    "Brain Teaser": [
-      "Brain Teaser",
-      "脑筋急转弯"
-    ],
-    "IQ Test": [
-      "IQ Test",
-      "智商测试"
-    ],
-    "EQ Test": [
-      "EQ Test",
-      "情商测试"
-    ],
-    "Aptitude Test": [
-      "Aptitude Test",
-      "能力倾向测试"
-    ],
-    "Career Test": [
-      "Career Test",
-      "职业测试"
-    ],
-    "Job Test": [
-      "Job Test",
-      "工作测试"
-    ],
-    "Work Test": [
-      "Work Test"
-    ],
-    "School Test": [
-      "School Test",
-      "学校测试"
-    ],
-    "College Test": [
-      "College Test",
-      "大学测试"
-    ],
-    "University Test": [
-      "University Test"
-    ],
-    "High School Test": [
-      "High School Test",
-      "高中测试"
-    ],
-    "Middle School Test": [
-      "Middle School Test",
-      "初中测试"
-    ],
-    "Elementary Test": [
-      "Elementary Test",
-      "小学测试"
-    ],
-    "Kindergarten Test": [
-      "Kindergarten Test",
-      "幼儿园测试"
-    ],
-    "Baby Test": [
-      "Baby Test",
-      "宝宝测试"
-    ],
-    "Toddler Test": [
-      "Toddler Test",
-      "幼儿测试"
-    ],
-    "Preschool Test": [
-      "Preschool Test",
-      "学前测试"
     ]
   },
-  "categories": {
-    "Popular": [
-      "MBTI",
-      "Personality",
-      "Pop Culture",
-      "Quiz"
+  "Other": {
+    "Quiz": [
+      "Quiz",
+      "quiz",
+      "测试",
+      "问答",
+      "心理测试"
     ],
-    "Gaming": [
-      "Gaming",
-      "Fortnite",
-      "Roblox",
-      "Minecraft",
-      "Genshin Impact",
-      "League of Legends",
-      "Stardew Valley",
-      "Brawl Stars",
-      "Honkai: Star Rail"
+    "Sports": [
+      "Sports",
+      "sports",
+      "运动",
+      "体育"
     ],
-    "Music": [
-      "Music",
-      "Taylor Swift",
-      "Olivia Rodrigo",
-      "NewJeans",
-      "Sabrina Carpenter",
-      "Blackpink"
+    "Tech": [
+      "Tech",
+      "tech",
+      "科技",
+      "技术"
     ],
-    "Movies & TV": [
-      "Movie",
-      "TV Show",
-      "Harry Potter",
-      "Marvel",
-      "Disney",
-      "Euphoria",
-      "Bluey"
+    "Success": [
+      "Success",
+      "success",
+      "成功",
+      "成就"
     ],
-    "Personality": [
-      "Personality",
-      "Aesthetic",
-      "Soulmate",
-      "Hidden Trait",
-      "Hidden Traits"
+    "Education": [
+      "Education",
+      "education",
+      "教育",
+      "学习"
     ],
-    "Lifestyle": [
-      "Lifestyle",
-      "Career",
-      "Food",
-      "Travel",
-      "Fashion",
-      "Beauty",
-      "Health"
+    "History": [
+      "History",
+      "history",
+      "历史"
+    ],
+    "Survival": [
+      "Survival",
+      "survival",
+      "生存"
     ]
   }
 }

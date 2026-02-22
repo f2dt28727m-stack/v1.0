@@ -62,8 +62,7 @@
       "tags": [
         "Harry Potter",
         "MBTI",
-        "Personality",
-        "Hogwarts"
+        "Personality"
       ]
     },
     {
@@ -110,7 +109,6 @@
         "Career",
         "Personality",
         "MBTI",
-        "Work",
         "Success"
       ]
     },
@@ -122,8 +120,7 @@
         "Travel",
         "Personality",
         "MBTI",
-        "Adventure",
-        "Wanderlust"
+        "Adventure"
       ]
     },
     {
@@ -134,8 +131,7 @@
         "Food",
         "Personality",
         "MBTI",
-        "Cooking",
-        "Eating"
+        "Cooking"
       ]
     },
     {
@@ -228,7 +224,6 @@
       "category": "which_x",
       "tags": [
         "Harry Potter",
-        "Hogwarts",
         "MBTI",
         "Personality",
         "Magic"
@@ -242,7 +237,6 @@
         "Career",
         "MBTI",
         "Personality",
-        "Work",
         "Success"
       ]
     },
@@ -255,7 +249,7 @@
         "MBTI",
         "Relationships",
         "Personality",
-        "Emotions"
+        "Mental Health"
       ]
     },
     {
@@ -266,8 +260,7 @@
         "Travel",
         "MBTI",
         "Adventure",
-        "Personality",
-        "Wanderlust"
+        "Personality"
       ]
     },
     {
@@ -300,7 +293,7 @@
       "category": "which_x",
       "tags": [
         "ChatGPT",
-        "AI",
+        "Robot",
         "Personality",
         "MBTI",
         "Tech"
@@ -326,7 +319,7 @@
         "Romance",
         "Love",
         "Personality",
-        "Relationship",
+        "Relationships",
         "Romantic"
       ]
     },
@@ -336,7 +329,7 @@
       "category": "which_x",
       "tags": [
         "Blackpink",
-        "Kpop",
+        "K-pop",
         "Personality",
         "Quiz",
         "Jennie"
@@ -426,7 +419,7 @@
         "Soulmate Match",
         "MBTI",
         "Personality",
-        "Music Personality"
+        "Music"
       ]
     },
     {
@@ -438,7 +431,7 @@
         "MBTI",
         "Personality",
         "Pop Culture",
-        "Music Archetype"
+        "Music"
       ]
     },
     {
@@ -461,8 +454,7 @@
         "Olivia Rodrigo",
         "Hidden Trait",
         "MBTI",
-        "Personality",
-        "Inner Self"
+        "Personality"
       ]
     },
     {
@@ -485,7 +477,7 @@
         "Olivia Rodrigo",
         "MBTI",
         "Personality",
-        "Pop Music",
+        "Music",
         "Character Trait"
       ]
     },
@@ -531,7 +523,7 @@
       "category": "which_x",
       "tags": [
         "Euphoria",
-        "TV Drama",
+        "TV Show",
         "Personality",
         "MBTI",
         "Character Alignment"
@@ -629,8 +621,7 @@
         "Sabrina Carpenter",
         "Personality",
         "MBTI",
-        "Pop Music",
-        "Music Personality"
+        "Music"
       ]
     },
     {
@@ -639,7 +630,7 @@
       "category": "which_x",
       "tags": [
         "Sabrina Carpenter",
-        "Celebrity Personality",
+        "Celebrity",
         "Pop Culture Quiz",
         "MBTI Alignment",
         "Vibe Check"
@@ -713,8 +704,7 @@
         "NewJeans",
         "K-pop",
         "MBTI",
-        "Personality",
-        "Korean Music"
+        "Personality"
       ]
     },
     {
@@ -725,8 +715,7 @@
         "NewJeans",
         "K-pop",
         "Personality",
-        "MBTI",
-        "Korean Music"
+        "MBTI"
       ]
     },
     {
@@ -760,7 +749,7 @@
       "tags": [
         "NewJeans",
         "K-pop",
-        "Future Lifestyle",
+        "Future Life",
         "MBTI",
         "Personality"
       ]
@@ -783,7 +772,6 @@
       "category": "which_x",
       "tags": [
         "Bluey",
-        "Cartoon",
         "Animated Series",
         "MBTI",
         "Personality"
@@ -795,7 +783,7 @@
       "category": "which_x",
       "tags": [
         "Bluey",
-        "Cartoon",
+        "Animated Series",
         "Personality",
         "MBTI",
         "Family Adventure"
@@ -843,7 +831,7 @@
       "category": "which_x",
       "tags": [
         "Bluey",
-        "Cartoon",
+        "Animated Series",
         "Personality",
         "MBTI"
       ]
@@ -854,7 +842,7 @@
       "category": "future",
       "tags": [
         "Bluey",
-        "Future Lifestyle",
+        "Future Life",
         "Family-centric",
         "Personality",
         "MBTI"
@@ -869,7 +857,7 @@
         "Villager",
         "MBTI",
         "Personality",
-        "Farm Life"
+        "Farming"
       ]
     },
     {
@@ -890,7 +878,7 @@
       "category": "which_x",
       "tags": [
         "Stardew Valley",
-        "Farm Life",
+        "Farming",
         "Personality",
         "MBTI",
         "Lifestyle"
@@ -1146,7 +1134,7 @@
       "category": "which_x",
       "tags": [
         "Taylor Swift",
-        "Celebrity Personality",
+        "Celebrity",
         "MBTI",
         "Pop Culture",
         "Personality"
@@ -1182,7 +1170,7 @@
       "category": "which_x",
       "tags": [
         "Wilderkind",
-        "Aesthetic",
+        "Aesthetic Personality",
         "MBTI",
         "Personality",
         "Hidden Trait"
@@ -1359,8 +1347,7 @@
         "Minecraft",
         "Hidden Trait",
         "Personality",
-        "Gaming",
-        "Inner Self"
+        "Gaming"
       ]
     },
     {
@@ -1393,7 +1380,7 @@
       "category": "future",
       "tags": [
         "Minecraft",
-        "Future Adventure",
+        "Adventure",
         "MBTI",
         "Personality",
         "Gaming"
@@ -1420,7 +1407,7 @@
         "Video Game",
         "Personality",
         "MBTI",
-        "Character Quiz"
+        "Character Match"
       ]
     },
     {
@@ -1679,7 +1666,7 @@
       "title": "Which Honkai: Star Rail Character Is Your Perfect Soulmate?",
       "category": "which_x",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "Soulmate Match",
         "Character Match",
         "MBTI",
@@ -1691,11 +1678,11 @@
       "title": "Which Honkai: Star Rail Character Are You?",
       "category": "which_x",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "Anime Game",
         "Personality",
         "MBTI",
-        "Character Quiz"
+        "Character Match"
       ]
     },
     {
@@ -1703,7 +1690,7 @@
       "title": "What Honkai: Star Rail Wanderer Type Are You?",
       "category": "which_x",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "Trailblazer",
         "MBTI",
         "Personality",
@@ -1715,7 +1702,7 @@
       "title": "How Strong Is Your Honkai: Star Rail Trailblazer Spirit?",
       "category": "adjective_level",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "Trailblazer",
         "Personality",
         "Gacha Game",
@@ -1727,7 +1714,7 @@
       "title": "What Hidden Honkai: Star Rail Trait Type Are You?",
       "category": "hidden",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "Hidden Trait",
         "MBTI",
         "Personality",
@@ -1739,7 +1726,7 @@
       "title": "What Would You Do in Honkai: Star Rail's Critical Moments?",
       "category": "scenario",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "Crisis Response",
         "Personality",
         "Trailblazer"
@@ -1750,10 +1737,10 @@
       "title": "What Honkai: Star Rail Aesthetic Type Are You?",
       "category": "which_x",
       "tags": [
-        "Honkai: Star Rail",
+        "Honkai Star Rail",
         "MBTI",
         "Personality",
-        "Aesthetic",
+        "Aesthetic Personality",
         "Gaming"
       ]
     },
@@ -1762,8 +1749,8 @@
       "title": "What Will Your Honkai: Star Rail Future Adventure Hold?",
       "category": "future",
       "tags": [
-        "Honkai: Star Rail",
-        "Future Adventure",
+        "Honkai Star Rail",
+        "Adventure",
         "MBTI",
         "Space Fantasy",
         "Personality"
@@ -1799,7 +1786,7 @@
       "category": "adjective_level",
       "tags": [
         "Dua Lipa",
-        "Celebrity Personality",
+        "Celebrity",
         "Pop Culture",
         "Lifestyle Traits",
         "Personality"
@@ -1849,7 +1836,7 @@
         "Personality",
         "MBTI",
         "Pop Culture",
-        "Music Archetype"
+        "Music"
       ]
     },
     {
@@ -1858,7 +1845,6 @@
       "category": "which_x",
       "tags": [
         "Wednesday",
-        "Addams Family",
         "Aesthetic Personality",
         "MBTI",
         "Personality"
@@ -1870,7 +1856,6 @@
       "category": "your_type",
       "tags": [
         "Wednesday",
-        "Addams Family",
         "Aesthetic Personality",
         "MBTI",
         "Personality"
@@ -1882,7 +1867,7 @@
       "category": "which_x",
       "tags": [
         "Yellowjackets",
-        "TV Drama",
+        "TV Show",
         "Personality Type",
         "MBTI",
         "Survival"
