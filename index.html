@@ -1164,7 +1164,7 @@
         
         function renderHome() {
             // Hot - sorted by hot_count
-            const hot = [...testList].sort((a,b) => b.hot_count - a.hot_count).slice(0, 6);
+            const hot = [...testList].sort((a,b) => b.hot_count - a.hot_count).slice(0, 12);
             document.getElementById('hot-list').innerHTML = hot.map(t => createCard(t)).join('');
             
             // Recommend - based on user interests
@@ -1177,10 +1177,10 @@
                     const aMatches = countMatches(a.tags, userInterests);
                     const bMatches = countMatches(b.tags, userInterests);
                     return bMatches - aMatches;
-                }).slice(0, 10);
+                }).slice(0, 12);
             } else {
                 // Fallback to random if no interests selected
-                recommended = [...testList].sort(() => 0.5 - Math.random()).slice(0, 10);
+                recommended = [...testList].sort(() => 0.5 - Math.random()).slice(0, 12);
             }
             
             document.getElementById('recommend-list').innerHTML = recommended.map(t => createCard(t)).join('');
@@ -1456,7 +1456,7 @@
             // Sort by count and limit
             for (const cat of Object.values(categories)) {
                 cat.tags.sort((a, b) => b.count - a.count);
-                cat.tags = cat.tags.slice(0, 10);
+                cat.tags = cat.tags.slice(0, 12);
             }
             
             // Assign to global
