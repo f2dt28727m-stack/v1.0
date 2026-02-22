@@ -969,6 +969,7 @@
                     const tags = quiz.tags || quiz.userTags || [];
                     
                     const hash = quizId.split('').reduce((a, b) => ((a << 5) - a + b.charCodeAt(0)) | 0, 0);
+                    const absHash = Math.abs(hash);
                     
                     // Check tags for different ranges
                     const isTrending = tags.some(t => ['trending', 'new ', '2024', '2025', 'viral', 'gummy', 'aura', 'poetcore', 'vamp', 'newest'].some(x => t.toLowerCase().includes(x)));
