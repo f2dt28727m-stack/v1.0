@@ -147,6 +147,50 @@ def app(environ, start_response):
         
         questions = quiz.get('questions', [])
         
+        # If more than 12 questions, select balanced 12 (3 for each MBTI dimension)
+        if len(questions) > 12:
+            # Define dimension pairs
+            dim_pairs = [
+                ('E', 'I', 'extrovert_introvert'),
+                ('S', 'N', 'sensing_intuition'),
+                ('T', 'F', 'thinking_feeling'),
+                ('J', 'P', 'judging_perceiving')
+            ]
+            
+            selected = []
+            used_indices = set()
+            
+            for dim_a, dim_b, _ in dim_pairs:
+                # Find questions that have scores for this dimension
+                dim_questions = []
+                for i, q in enumerate(questions):
+                    if i in used_indices:
+                        continue
+                    for opt in q.get('options', []):
+                        score = opt.get('score', {})
+                        if score.get(dim_a, 0) > 0 or score.get(dim_b, 0) > 0:
+                            dim_questions.append(i)
+                            break
+                
+                # Take up to 3 unique questions for this dimension
+                import random
+                random.shuffle(dim_questions)
+                for idx in dim_questions[:3]:
+                    if idx not in used_indices:
+                        selected.append(questions[idx])
+                        used_indices.add(idx)
+            
+            # If still not enough, fill with remaining questions
+            if len(selected) < 12:
+                for i, q in enumerate(questions):
+                    if i not in used_indices:
+                        selected.append(q)
+                        used_indices.add(i)
+                        if len(selected) >= 12:
+                            break
+            
+            questions = selected[:12]
+        
         for i, q in enumerate(questions):
             q['temp_id'] = f'q{i+1}'
         
