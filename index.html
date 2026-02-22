@@ -958,7 +958,7 @@
     <div class="search-bar" id="search-bar">
         <div class="search-header">
             <div class="search-back" onclick="closeSearch()">←</div>
-            <input type="text" class="search-input" placeholder="Search tests..." id="search-input" oninput="doSearch(this.value)">
+            <input type="text" class="search-input" placeholder="Search quizzes..." id="search-input" oninput="doSearch(this.value)">
         </div>
         <div class="search-results" id="search-results"></div>
     </div>
@@ -994,13 +994,13 @@
                     const isPopular = tags.some(t => ['disney', 'harry potter', 'marvel', 'mbti', 'taylor swift', 'blackpink', 'my little pony'].some(x => t.toLowerCase().includes(x)));
                     
                     // Generate stats
-                    let tests;
+                    let likes;
                     if (isTrending) {
-                        tests = 1000000 + (absHash % 2000000) + (quizId.charCodeAt(quizId.length-1) * 50000);
+                        likes = 1000000 + (absHash % 2000000) + (quizId.charCodeAt(quizId.length-1) * 50000);
                     } else if (isPopular) {
-                        tests = 500000 + (absHash % 1000000) + (quizId.charCodeAt(quizId.length-1) * 30000);
+                        likes = 500000 + (absHash % 1000000) + (quizId.charCodeAt(quizId.length-1) * 30000);
                     } else {
-                        tests = 10000 + (absHash % 90000) + (quizId.charCodeAt(quizId.length-1) * 5000);
+                        likes = 10000 + (absHash % 90000) + (quizId.charCodeAt(quizId.length-1) * 5000);
                     }
                     
                     return {
@@ -1009,7 +1009,7 @@
                         category_id: category,
                         tags: tags,
                         emoji: quiz.emoji || ['✨', '🌟', '💫'],
-                        hot_count: tests
+                        hot_count: likes
                     };
                 });
                 
@@ -1265,7 +1265,7 @@
                 <div class="card-icon">${emoji}</div>
                 <div class="card-content">
                     <div class="card-title">${t.title}</div>
-                    <div class="card-meta">${count}W tests</div>
+                    <div class="card-meta">${count}W likes</div>
                 </div>
             </div>`;
         }
