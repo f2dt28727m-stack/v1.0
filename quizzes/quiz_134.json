@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Brawl Stars Brawler Matches Your Personality?",
+  "category": "which",
+  "tags": [
+    "Brawl Stars",
+    "Brawler",
+    "Personality",
+    "MBTI",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover which Brawl Stars brawler matches your true personality!",
+  "questions": [
+    {
+      "text": "Before a ranked match, you’re most likely to...",
+      "options": [
+        {
+          "text": "Stick to your go-to brawler that you know works perfectly on this map",
+          "score": "S"
+        },
+        {
+          "text": "Rally your team in chat, assigning roles and hyping everyone up",
+          "score": "E"
+        },
+        {
+          "text": "Test out a new brawler build you’ve been brainstorming all week",
+          "score": "N"
+        },
+        {
+          "text": "Quietly review your brawler’s stats and map layouts without messaging",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When your team is pinned down by an enemy turret, you...",
+      "options": [
+        {
+          "text": "Stay back and heal your injured teammates while waiting for the turret to run out of ammo",
+          "score": "F"
+        },
+        {
+          "text": "Charge straight at the turret, taking hits to destroy it so your team can advance",
+          "score": "T"
+        },
+        {
+          "text": "Follow your team’s lead, doing exactly what your teammates are doing to coordinate the attack",
+          "score": "S"
+        },
+        {
+          "text": "Quickly scan the area for hidden paths to flank and take out the turret from behind",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with capturing a gem in Gem Grab. You’ll...",
+      "options": [
+        {
+          "text": "Be the first to rush the gem mine, grabbing as many gems as possible before anyone else",
+          "score": "E"
+        },
+        {
+          "text": "Wander around the map, looking for opportunities to steal gems from unsuspecting enemies",
+          "score": "P"
+        },
+        {
+          "text": "Hang back and collect stray gems, only moving in when the area is clear",
+          "score": "I"
+        },
+        {
+          "text": "Set up a defensive perimeter around your team’s gem carrier to protect them at all costs",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you unlock a new brawler, your first move is to...",
+      "options": [
+        {
+          "text": "Jump into a casual match and experiment with different playstyles to see what clicks",
+          "score": "N"
+        },
+        {
+          "text": "Spend time in the training mode to master every attack and ability alone",
+          "score": "I"
+        },
+        {
+          "text": "Watch a pro player’s guide to learn the optimal strategies and combos",
+          "score": "S"
+        },
+        {
+          "text": "Ask your gaming friends for tips on how to best use the new brawler",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "During a sudden death round, you prioritize...",
+      "options": [
+        {
+          "text": "Trusting your gut instinct to make split-second decisions that feel right",
+          "score": "F"
+        },
+        {
+          "text": "Sticking to a strict plan you’ve practiced for this exact scenario",
+          "score": "J"
+        },
+        {
+          "text": "Keeping your calm, focusing on making precise, calculated moves",
+          "score": "T"
+        },
+        {
+          "text": "Adapting to every change in the match, going with the flow of the battle",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite game mode is one where you can...",
+      "options": [
+        {
+          "text": "Use precise, technical skills to outplay opponents, like Bounty",
+          "score": "S"
+        },
+        {
+          "text": "Play independently, focusing on your own goals without relying on others, like Solo Showdown",
+          "score": "I"
+        },
+        {
+          "text": "Come up with creative strategies to outsmart the entire enemy team, like Hot Zone",
+          "score": "N"
+        },
+        {
+          "text": "Work closely with teammates to achieve a shared objective, like Siege or Brawl Ball",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you lose a close match, you...",
+      "options": [
+        {
+          "text": "Take a short break to reset your focus before starting your next match",
+          "score": "J"
+        },
+        {
+          "text": "Analyze every mistake you made, taking notes to improve for next time",
+          "score": "T"
+        },
+        {
+          "text": "Reach out to your team to debrief and figure out how you can all play better together",
+          "score": "F"
+        },
+        {
+          "text": "Jump straight into another match to shake off the loss and get back in the zone",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You choose a brawler based on...",
+      "options": [
+        {
+          "text": "Their unique playstyle and the creative ways you can use their abilities",
+          "score": "N"
+        },
+        {
+          "text": "How well they can support and protect your teammates during matches",
+          "score": "F"
+        },
+        {
+          "text": "Their high win rates and effectiveness in climbing the ranked ladder",
+          "score": "T"
+        },
+        {
+          "text": "Their ability to fit into multiple team compositions and map types",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When an enemy ambushes you, you...",
+      "options": [
+        {
+          "text": "Quickly retreat to safety without drawing attention to yourself",
+          "score": "I"
+        },
+        {
+          "text": "Use your brawler’s signature ability to escape and set up a trap for the enemy",
+          "score": "P"
+        },
+        {
+          "text": "Follow your pre-planned escape route that you memorized before the match",
+          "score": "J"
+        },
+        {
+          "text": "Call for help from your teammates and coordinate a counter-attack",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You love playing Brawl Stars because it lets you...",
+      "options": [
+        {
+          "text": "Master complex mechanics and become a top player in the leaderboards",
+          "score": "S"
+        },
+        {
+          "text": "Connect with friends and make new gaming buddies from around the world",
+          "score": "E"
+        },
+        {
+          "text": "Enjoy quiet, focused matches where you can test your personal skills",
+          "score": "I"
+        },
+        {
+          "text": "Experiment with wild, unorthodox strategies that surprise everyone",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your team suggests a risky strategy, you...",
+      "options": [
+        {
+          "text": "Trust your team’s judgment and support them no matter what",
+          "score": "F"
+        },
+        {
+          "text": "Argue against it, preferring a safe, proven strategy you know will work",
+          "score": "J"
+        },
+        {
+          "text": "Go along with it, excited to see if this wild plan will work",
+          "score": "P"
+        },
+        {
+          "text": "Weigh the pros and cons logically before deciding whether to join in",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After winning a major tournament, you...",
+      "options": [
+        {
+          "text": "Spend the evening reviewing the match highlights to perfect your skills further",
+          "score": "I"
+        },
+        {
+          "text": "Analyze your performance to identify small tweaks that will make you even better next time",
+          "score": "T"
+        },
+        {
+          "text": "Host a celebration stream with your team, sharing the victory with your fans",
+          "score": "E"
+        },
+        {
+          "text": "Give credit to your teammates for their hard work and support throughout the tournament",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Colt",
+      "description": "You’re the reliable, disciplined marksman of the arena—just like Colt. You stick to proven strategies, always stay focused on the objective, and never let your team down. Your ISTJ nature makes you a rock-solid teammate, using your precise shots to control the map and secure victories. You value consistency and hard work, climbing the ranks steadily with your trusted revolvers.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Pam",
+      "description": "You’re the nurturing, supportive healer of the team—just like Pam. Your top priority is keeping your teammates safe and healthy, using your turret and healing mist to turn the tide of any battle. Your ISFJ heart makes you the backbone of every team, always putting others’ needs before your own and ensuring everyone feels valued. You thrive in roles where you can care for others.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Mortis",
+      "description": "You’re the mysterious, intuitive warrior—just like Mortis. You prefer to work alone, using your stealth and agility to sneak behind enemy lines and strike when no one expects it. Your INFJ mind sees patterns others miss, allowing you to anticipate opponents’ moves and outmaneuver them with ease. You’re a deep thinker who values strategy over brute force.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Edgar",
+      "description": "You’re the strategic, ambitious brawler—just like Edgar. You plan every move in advance, using your super ability to leap into enemy territory and take out high-value targets. Your INTJ nature makes you a master of control, always staying one step ahead of your opponents and turning chaos into order. You value efficiency and results, never wasting a single attack.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Bull",
+      "description": "You’re the bold, hands-on brawler—just like Bull. You charge into battle headfirst, using your shotgun and super to clear out enemies in close quarters. Your ISTP instincts make you a quick thinker, adapting to unexpected situations with ease and turning them to your advantage. You love getting into the thick of the action, relying on your reflexes to come out on top.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Nita",
+      "description": "You’re the wild, intuitive brawler—just like Nita. You connect with nature, working alongside your trusty bear to protect your team and dominate the map. Your ISFP heart makes you a free spirit, preferring to play by your own rules rather than following strict strategies. You trust your gut, using your bear’s strength to surprise opponents and secure victories.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Willow",
+      "description": "You’re the creative, empathetic brawler—just like Willow. You use your fire abilities to control the map, creating barriers that protect your teammates and trap your enemies. Your INFP nature makes you a dreamer, always coming up with unique ways to use your abilities to help others. You value kindness and creativity, using your powers to support those around you.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Carl",
+      "description": "You’re the curious, analytical brawler—just like Carl. You use your spinning saw to wear down enemies and control the map, always looking for ways to optimize your playstyle. Your INTP mind loves to experiment, testing out new strategies and brawler builds to see what works best. You value knowledge and innovation, always seeking to improve your skills through trial and error.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Shelly",
+      "description": "You’re the energetic, fearless brawler—just like Shelly. You charge into battle first, using your shotgun to clear out enemies and take control of key points. Your ESTP nature makes you a natural leader, inspiring your team to follow your lead and take risks. You love the thrill of the fight, always looking for the next big challenge to conquer.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Penny",
+      "description": "You’re the fun-loving, outgoing brawler—just like Penny. You use your cannon to create chaos on the map, laughing as you blow up enemies and objectives. Your ESFP spirit makes you the life of the party, keeping your team entertained and hyped up during every match. You value enjoyment and spontaneity, playing the game to have fun and make memories.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Leon",
+      "description": "You’re the playful, innovative brawler—just like Leon. You use your invisibility to sneak around the map, pulling off surprise attacks that leave enemies confused. Your ENFP nature makes you a creative thinker, always coming up with new ways to use your abilities to outsmart opponents. You love to surprise people, turning even the most hopeless matches into exciting comebacks.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Dynamike",
+      "description": "You’re the chaotic, innovative trickster of the arena—just like Dynamike. You thrive on unexpected plays, using your explosives to catch opponents off guard and shake up the meta. Outgoing and quick-witted, you love experimenting with wild strategies that no one else would dare try. Your ENTP energy keeps the game exciting, turning even the most mundane matches into thrilling adventures.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Jessie",
+      "description": "You’re the organized, strategic brawler—just like Jessie. You use your turret to control key points on the map, setting up defensive positions that are almost impossible to break. Your ESTJ nature makes you a natural leader, assigning roles to your teammates and ensuring everyone stays on task. You value structure and efficiency, climbing the ranks steadily with your reliable turret and laser.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Mr. P",
+      "description": "You’re the caring, supportive brawler—just like Mr. P. You use your robot to protect your teammates and control the map, always putting your team’s needs before your own. Your ESFJ heart makes you a dedicated teammate, going out of your way to help others and ensure everyone feels included. You value harmony and cooperation, using your robot to create a safe space for your team to thrive.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Rosa",
+      "description": "You’re the passionate, protective brawler—just like Rosa. You use your super ability to create a thorny barrier, shielding your teammates from enemy attacks and securing objectives. Your ENFJ nature makes you a charismatic leader, inspiring your team to fight harder and never give up. You value teamwork and loyalty, always standing by your teammates no matter what challenges you face.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Surge",
+      "description": "You’re the ambitious, dominant brawler—just like Surge. You use your super ability to bounce around the map, taking out enemies and upgrading your powers as you go. Your ENTJ nature makes you a strategic genius, always planning several steps ahead and turning the tide of battle with your powerful attacks. You value success and leadership, climbing the ranks to become the top player in the arena.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

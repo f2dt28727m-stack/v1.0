@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What’s Your Hidden Minecraft Inner Personality Type?",
+  "category": "hidden",
+  "tags": [
+    "Minecraft",
+    "Hidden Trait",
+    "Personality",
+    "Gaming",
+    "Inner Self"
+  ],
+  "description": "Answer 12 questions to discover your hidden Minecraft-based personality traits!",
+  "questions": [
+    {
+      "text": "You’ve just spawned in a new Minecraft world. What’s your first move?",
+      "options": [
+        {
+          "text": "Climb the nearest mountain to map out the entire surrounding landscape and spot distant biomes",
+          "score": "N"
+        },
+        {
+          "text": "Head straight to the nearest village to chat with villagers and trade for early resources",
+          "score": "E"
+        },
+        {
+          "text": "Gather nearby wood and stone to craft basic tools and a temporary shelter",
+          "score": "S"
+        },
+        {
+          "text": "Seek out a hidden cave to set up a quiet base before venturing further",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A creeper is approaching your newly built base. What do you do?",
+      "options": [
+        {
+          "text": "Prioritize saving your favorite decorative blocks before trying to fight it off",
+          "score": "F"
+        },
+        {
+          "text": "Calculate its explosion radius and move to a safe distance before attacking with a bow",
+          "score": "T"
+        },
+        {
+          "text": "Stay calm and follow your pre-planned escape route back to the portal",
+          "score": "J"
+        },
+        {
+          "text": "Adapt to the chaos, using nearby blocks to create a makeshift barrier on the fly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your friend invites you to join their multiplayer server for a big building project. You...",
+      "options": [
+        {
+          "text": "Ask to work on a small, independent section of the project away from the main group",
+          "score": "I"
+        },
+        {
+          "text": "Spend hours brainstorming wild, creative design concepts to suggest to the group",
+          "score": "N"
+        },
+        {
+          "text": "Offer to handle the structural foundation and resource gathering to keep the project on track",
+          "score": "S"
+        },
+        {
+          "text": "Jump in immediately and start collaborating with everyone to share ideas in real-time",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious dungeon entrance deep underground. You...",
+      "options": [
+        {
+          "text": "Rush in to explore every room without a plan, curious to see what’s inside",
+          "score": "P"
+        },
+        {
+          "text": "Light up every corner carefully, checking for traps and documenting chest locations",
+          "score": "J"
+        },
+        {
+          "text": "Grab your best gear and charge in, eager to defeat the monsters and claim loot",
+          "score": "E"
+        },
+        {
+          "text": "Sit outside for a minute, imagining what secrets the dungeon might hold before entering",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a new base, you focus most on...",
+      "options": [
+        {
+          "text": "The practical layout, with separate rooms for storage, crafting, and sleeping",
+          "score": "S"
+        },
+        {
+          "text": "How it fits into the natural landscape, with organic shapes that blend into the environment",
+          "score": "F"
+        },
+        {
+          "text": "Its defensive capabilities, with thick walls and escape routes for emergencies",
+          "score": "T"
+        },
+        {
+          "text": "The grand vision, with towers and secret passages that tell a story",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re running low on diamonds while mining. You...",
+      "options": [
+        {
+          "text": "Keep digging in the same vein, confident you’ll find more diamonds soon",
+          "score": "N"
+        },
+        {
+          "text": "Return to your base alone to smelt the ore you already have and restock supplies",
+          "score": "I"
+        },
+        {
+          "text": "Switch to digging coal and iron instead, ensuring you have enough resources for basic needs",
+          "score": "S"
+        },
+        {
+          "text": "Call out to your mining partner to share their extra diamonds or help you search",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "A storm starts while you’re exploring the Nether. You...",
+      "options": [
+        {
+          "text": "Analyze the storm’s pattern to find a safe spot to wait it out efficiently",
+          "score": "T"
+        },
+        {
+          "text": "Worry about losing your collected nether quartz and rush back quickly",
+          "score": "F"
+        },
+        {
+          "text": "Adapt to the chaos, using the fire from ghasts to light your way and explore new areas",
+          "score": "P"
+        },
+        {
+          "text": "Stay calm and follow your pre-planned escape route back to the portal",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to lead a group quest to find the End City. You...",
+      "options": [
+        {
+          "text": "Spend time researching the End’s layout alone before sharing a detailed plan",
+          "score": "I"
+        },
+        {
+          "text": "Delegate tasks based on each member’s strengths and create a strict timeline",
+          "score": "J"
+        },
+        {
+          "text": "Let the group decide the path together, going with the flow as you explore",
+          "score": "P"
+        },
+        {
+          "text": "Encourage everyone to share their ideas for the quest and build excitement",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you find a rare enchanted book, you...",
+      "options": [
+        {
+          "text": "Compare its stats to other books you have to pick the most practical use",
+          "score": "T"
+        },
+        {
+          "text": "Save it for a future project you’ve been envisioning, like a powerful sword for dragon fights",
+          "score": "N"
+        },
+        {
+          "text": "Use it on your most used tool to make daily tasks easier",
+          "score": "S"
+        },
+        {
+          "text": "Trade it with a friend who needs it more than you do to strengthen your bond",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re building a farm. You...",
+      "options": [
+        {
+          "text": "Invite friends to help plant and harvest, turning it into a social activity",
+          "score": "E"
+        },
+        {
+          "text": "Create a fully automated redstone farm that runs on its own without maintenance",
+          "score": "J"
+        },
+        {
+          "text": "Plant a variety of crops randomly, enjoying the chaos of a wild garden",
+          "score": "P"
+        },
+        {
+          "text": "Tend to the farm alone, savoring the quiet time to think and relax",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a wandering trader in the woods. You...",
+      "options": [
+        {
+          "text": "Feel sorry for them being out in the cold and give them extra emeralds",
+          "score": "F"
+        },
+        {
+          "text": "Check their inventory carefully to see if any items will help with your current build",
+          "score": "S"
+        },
+        {
+          "text": "Stop to chat with them for a while, asking about their travels and rare items",
+          "score": "E"
+        },
+        {
+          "text": "Quickly buy the items you need and leave, focused on your current quest",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After spending hours on a big build, you...",
+      "options": [
+        {
+          "text": "Double-check every block to make sure there are no mistakes or gaps",
+          "score": "S"
+        },
+        {
+          "text": "Start planning the next phase of the build, already imagining the expansion",
+          "score": "N"
+        },
+        {
+          "text": "Invite all your friends over to show off your work and get their feedback",
+          "score": "E"
+        },
+        {
+          "text": "Take screenshots of every detail and add them to a private album for your own enjoyment",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Steadfast Resource Guardian",
+      "description": "You’re the quiet backbone of any Minecraft community. You meticulously stockpile resources, plan every base layout with precision, and always have a backup plan for emergencies. Friends rely on you to keep the server running smoothly, whether it’s repairing tools or securing supplies. Your hidden trait is your unshakable dependability—an ISTJ through and through, turning chaos into order one block at a time.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Nurturing Base Builder",
+      "description": "You create warm, inviting bases that feel like home for everyone. You remember every friend’s favorite block, leave surprise gifts in their chests, and always offer help with building or farming. Your hidden trait is your gentle generosity—an ISFJ who turns Minecraft worlds into safe, welcoming spaces where everyone feels seen and supported.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Mystic Storyteller",
+      "description": "You build bases with hidden passages, secret rooms, and lore that unfolds with every block. You see Minecraft as a canvas for storytelling, creating worlds that feel alive with history and mystery. Friends are drawn to your creative vision, and you often spend hours crafting narratives for your builds. Your hidden trait is your deep, imaginative spirit—an INFJ weaving magic into every pixel.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Strategic Visionary",
+      "description": "You’re the mastermind behind grand Minecraft projects. You map out entire continents, design automated redstone systems that run like clockwork, and plan for every possible scenario. You prefer working alone to bring your complex visions to life, and your builds often leave others in awe of your foresight. Your hidden trait is your relentless ambition—an INTJ turning ideas into reality with precision.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Adventurous Tinkerer",
+      "description": "You thrive on experimenting with redstone contraptions and exploring dangerous biomes. You love taking apart existing builds to see how they work, then creating something entirely new. Friends call you when they need help fixing a broken machine or navigating a tricky dungeon. Your hidden trait is your hands-on ingenuity—an ISTP turning chaos into creativity with every tool you pick up.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Organic Nature Weaver",
+      "description": "You build bases that blend seamlessly into the natural world, using mossy stone, vines, and flowers to create serene, peaceful spaces. You prefer exploring quiet forests and beaches over busy servers, and you often spend hours tending to gardens and taming animals. Your hidden trait is your deep connection to nature—an ISFP finding beauty in every corner of the Minecraft world.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Dreamy Explorer",
+      "description": "You’re constantly seeking out hidden biomes, ancient ruins, and quiet corners of the Minecraft world. You keep a journal of your adventures, and you often build small, whimsical bases in remote locations. Friends admire your ability to find joy in the little things, like a rare flower or a glowing cave. Your hidden trait is your boundless curiosity—an INFP chasing wonder in every pixel.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Curious Puzzle Solver",
+      "description": "You spend hours figuring out complex redstone puzzles, experimenting with new mechanics, and finding glitches to turn into features. You don’t care about building grand bases—you care about how things work. Friends come to you with questions about game mechanics, and you love sharing your discoveries. Your hidden trait is your insatiable curiosity—an INTP unraveling the mysteries of Minecraft one code line at a time.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Diligent Server Manager",
+      "description": "You’re the leader who keeps Minecraft servers running smoothly. You set clear rules, organize group projects, and ensure everyone has equal access to resources. You’re always the first to help with repairs or defend the server from griefers, and friends respect your no-nonsense approach. Your hidden trait is your strong sense of responsibility—an ESTJ turning chaotic servers into well-oiled machines.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Social Heart of the Server",
+      "description": "You’re the one who plans group events, organizes building contests, and makes sure everyone feels included. You remember every friend’s birthday and host parties to celebrate. Your base is the central hub of the server, always filled with laughter and activity. Your hidden trait is your warm, outgoing spirit—an ESFJ turning Minecraft into a community of friends.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Inspirational Builder Leader",
+      "description": "You inspire friends to join your grand building projects, turning small ideas into massive, collaborative creations. You listen to everyone’s input and find ways to incorporate their vision into the final build. You’re a natural leader, encouraging others to push their creative boundaries and believe in themselves. Your hidden trait is your empowering energy—an ENFJ leading with heart and vision.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Ambitious Project Director",
+      "description": "You’re the one who proposes building a castle in the sky or an underwater city, then leads the team to make it happen. You set tight deadlines, delegate tasks efficiently, and don’t let anything stand in your way. Your builds are grand, impressive, and always on time. Friends admire your drive and determination—an ENTJ turning big dreams into even bigger realities in Minecraft.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Daring Risk-Taker",
+      "description": "You’re the first to jump into the Nether without armor, explore the End without a plan, or try a dangerous redstone experiment. You thrive on adrenaline and love the thrill of the unknown. Friends follow you into adventure, even when they’re scared, because they know you’ll find a way out. Your hidden trait is your fearless spirit—an ESTP turning every Minecraft session into an exciting adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Playful Creator",
+      "description": "You build colorful, whimsical bases with rainbows, neon signs, and silly contraptions. You love hosting mini-games and pranking friends (in a friendly way) with hidden TNT traps. Your Minecraft sessions are always filled with laughter, and you’re the one who keeps the mood light. Your hidden trait is your joyful spontaneity—an ESFP turning every pixel into a source of fun.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Imaginative Adventurer",
+      "description": "You’re always coming up with new adventure ideas—trekking to the Far Lands, building a pirate ship, or starting a Minecraft band. You love sharing your ideas with friends and getting them excited to join in. Your builds are creative, unique, and full of surprises. Friends are drawn to your infectious energy—an ENFP turning Minecraft into a world of endless possibilities.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Clever Trickster",
+      "description": "You spend hours creating elaborate pranks, like hidden portals that lead to the Nether or redstone traps that drop friends into slime pits. You love debating game mechanics with friends and coming up with ways to bend the rules. Your builds are clever, unexpected, and always leave others guessing. Your hidden trait is your quick-witted creativity—an ENTP turning Minecraft into a playground of innovation.",
+      "mbti": "ENTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Fortnite Character Is Your Perfect Soulmate Match?",
+  "category": "which",
+  "tags": [
+    "Fortnite",
+    "Soulmate Match",
+    "MBTI",
+    "Personality",
+    "Video Games"
+  ],
+  "description": "Answer 12 questions to discover which Fortnite character is your ideal soulmate match, based on your inner traits and instinctual choices!",
+  "questions": [
+    {
+      "text": "When you land on the Fortnite island, your first move is to...",
+      "options": [
+        {
+          "text": "Stick to a familiar landing zone you know has reliable loot and solid cover",
+          "score": "S"
+        },
+        {
+          "text": "Rush to the nearest populated area to team up with random players and take quick fights",
+          "score": "E"
+        },
+        {
+          "text": "Explore an unmarked area you’ve never visited before to discover hidden chests or easter eggs",
+          "score": "N"
+        },
+        {
+          "text": "Head to a quiet, remote spot to loot slowly and gather resources without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "During a storm circle collapse, you prioritize...",
+      "options": [
+        {
+          "text": "Comforting a teammate who’s panicking about their low health",
+          "score": "F"
+        },
+        {
+          "text": "Calculating the shortest path to the safe zone while avoiding enemy sightlines",
+          "score": "T"
+        },
+        {
+          "text": "Adapting your plan on the fly as the circle shifts unexpectedly",
+          "score": "P"
+        },
+        {
+          "text": "Following a pre-planned route you mapped out earlier to stay ahead",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you find a rare weapon and your teammate has none, you...",
+      "options": [
+        {
+          "text": "Trade it for multiple common weapons so both of you have backup",
+          "score": "S"
+        },
+        {
+          "text": "Use it to create a diversion so your teammate can loot another area safely",
+          "score": "N"
+        },
+        {
+          "text": "Give it to them immediately, knowing teamwork leads to victory",
+          "score": "F"
+        },
+        {
+          "text": "Keep it for yourself, as it gives you a better chance to carry the team",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a tight enemy ambush, you react by...",
+      "options": [
+        {
+          "text": "Stick to your pre-trained escape plan and retreat to a predetermined safe spot",
+          "score": "J"
+        },
+        {
+          "text": "Charge head-on to take the fight to the enemies before they can prepare",
+          "score": "E"
+        },
+        {
+          "text": "Improvise a new strategy using nearby environmental objects like launch pads or traps",
+          "score": "P"
+        },
+        {
+          "text": "Hide and wait patiently for the enemies to move on before making a move",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You prefer to spend your in-game V-Bucks on...",
+      "options": [
+        {
+          "text": "Unique skins and emotes that let you express your personal style",
+          "score": "N"
+        },
+        {
+          "text": "Gift cards to send skins to your friends and strengthen your squad bonds",
+          "score": "E"
+        },
+        {
+          "text": "Practical items like extra inventory slots or resource packs that give you an edge",
+          "score": "S"
+        },
+        {
+          "text": "Quietly saving them up for a limited-time item you’ve been eyeing for months",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a squad strategy before a match, you...",
+      "options": [
+        {
+          "text": "Propose a logical plan based on recent meta changes and enemy patterns",
+          "score": "T"
+        },
+        {
+          "text": "Listen carefully to everyone’s ideas and compromise to make everyone happy",
+          "score": "F"
+        },
+        {
+          "text": "Suggest exploring new tactics no one has tried before to catch enemies off guard",
+          "score": "N"
+        },
+        {
+          "text": "Stick to a tried-and-true strategy that has worked for your squad in the past",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you’re the last one alive in your squad, you...",
+      "options": [
+        {
+          "text": "Hide and wait patiently for the enemies to move on before making a move",
+          "score": "I"
+        },
+        {
+          "text": "Take risks and push for a clutch victory to honor your teammates’ efforts",
+          "score": "E"
+        },
+        {
+          "text": "Rely on your intuition to sense where the enemies are and make your move",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the enemy’s positions and use their weaknesses to outsmart them",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You enjoy Fortnite most when you’re able to...",
+      "options": [
+        {
+          "text": "Mess around with creative mode to build weird and wonderful structures",
+          "score": "P"
+        },
+        {
+          "text": "Play solo and focus on improving your own skills without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Complete structured challenges and climb the ranked leaderboards",
+          "score": "J"
+        },
+        {
+          "text": "Team up with friends and chat about your day while playing casual matches",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When looting a building, you prioritize...",
+      "options": [
+        {
+          "text": "Looking for hidden tunnels or secret rooms that might have rare loot",
+          "score": "N"
+        },
+        {
+          "text": "Gathering materials like wood and stone to build cover later",
+          "score": "S"
+        },
+        {
+          "text": "Collecting healing items to make sure you and your teammates stay healthy",
+          "score": "F"
+        },
+        {
+          "text": "Grabbing any weapon you can find to be ready for an unexpected fight",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "If a teammate makes a mistake that costs you the match, you...",
+      "options": [
+        {
+          "text": "Take a short break to reflect on what went wrong before playing again",
+          "score": "J"
+        },
+        {
+          "text": "Move on quickly and start a new match without dwelling on the loss",
+          "score": "P"
+        },
+        {
+          "text": "Tell them what they did wrong and explain how to avoid it next time",
+          "score": "T"
+        },
+        {
+          "text": "Reassure them it’s okay and suggest playing another match to bounce back",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re most drawn to Fortnite events that involve...",
+      "options": [
+        {
+          "text": "Quiet, solo-focused events where you can earn exclusive rewards at your own pace",
+          "score": "I"
+        },
+        {
+          "text": "Large-scale live performances or interactive storylines with unexpected twists",
+          "score": "N"
+        },
+        {
+          "text": "Collaborative events where you work with other players to achieve a shared goal",
+          "score": "E"
+        },
+        {
+          "text": "Competitive tournaments where you can test your skills against the best",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When building a base during a fight, you focus on...",
+      "options": [
+        {
+          "text": "Adapting your build as the fight progresses to counter enemy moves",
+          "score": "P"
+        },
+        {
+          "text": "Creating a simple, sturdy structure that can block enemy fire effectively",
+          "score": "S"
+        },
+        {
+          "text": "Designing an elaborate trap system to catch enemies off guard",
+          "score": "N"
+        },
+        {
+          "text": "Building quickly to get high ground before the enemies can react",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Midas",
+      "description": "Your perfect match is Midas, the charismatic mastermind of Fortnite. Like Midas, you’re a quick-thinking innovator who loves to outsmart opponents with bold, unexpected plans. You thrive in chaotic situations, turning setbacks into opportunities with your sharp wit and creative strategies. Your ENTP traits make you a natural leader who isn’t afraid to break the rules to get what you want—just like Midas’s golden touch, you turn every moment into something extraordinary.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Peely",
+      "description": "Your ideal soulmate is Peely, the laid-back, fun-loving banana of Fortnite. Like Peely, you’re a bubbly optimist who sees the joy in every moment, whether you’re winning a match or just messing around in creative mode. You love connecting with others, bringing laughter to your squad with silly emotes and spontaneous ideas. Your ENFP energy makes you the heart of any team, turning even the most intense matches into memorable adventures.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Foundation",
+      "description": "Your perfect match is The Foundation, the strong, strategic leader of The Seven. Like The Foundation, you’re a decisive planner who excels at organizing teams and executing complex strategies to achieve victory. You thrive in high-pressure situations, using your logical thinking to stay calm and in control. Your ENTJ traits make you a natural protector, always putting your team’s safety first and leading with unwavering confidence.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Default Jonesy",
+      "description": "Your ideal soulmate is Default Jonesy, the reliable, friendly face of Fortnite. Like Jonesy, you’re a warm, supportive teammate who always has your squad’s back, whether you’re looting together or fighting off enemies. You have a knack for bringing people together, making even random players feel like part of the team. Your ENFJ traits make you a natural mentor, helping others improve their skills and enjoy the game to the fullest.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Visitor",
+      "description": "Your perfect match is The Visitor, the mysterious, curious scientist of Fortnite. Like The Visitor, you’re a deep thinker who loves to uncover the secrets of the island, spending hours analyzing every detail of the game’s lore. You prefer to work alone or with a small group of trusted friends, using your logical mind to solve complex problems. Your INTP traits make you a brilliant innovator, always coming up with new theories about the island’s mysteries.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Raven",
+      "description": "Your ideal soulmate is Raven, the quiet, introspective figure of Fortnite. Like Raven, you’re a dreamer who finds beauty in the island’s dark, mysterious corners. You prefer to play solo or with a close friend, enjoying the peace of the game’s quieter moments. Your INFP traits make you deeply empathetic, always looking out for the underdog and standing up for what you believe in—even if it means going against the crowd.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Scientist",
+      "description": "Your perfect match is The Scientist, the brilliant, methodical member of The Seven. Like The Scientist, you’re a strategic genius who plans every move carefully, anticipating enemy actions and preparing countermeasures. You thrive when you’re able to focus on complex tasks, whether you’re building an elaborate base or solving the island’s scientific puzzles. Your INTJ traits make you a master of long-term planning, always staying one step ahead of everyone else.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Paradigm",
+      "description": "Your ideal soulmate is The Paradigm, the compassionate, visionary leader of The Seven. Like The Paradigm, you’re a deep thinker who cares deeply about the future of the island and the people who live there. You have a knack for seeing the bigger picture, using your intuitive insights to guide your team to victory. Your INFJ traits make you a trusted advisor, always offering wise advice and support to those who need it most.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Meowscles",
+      "description": "Your perfect match is Meowscles, the tough, playful cat agent of Fortnite. Like Meowscles, you’re a thrill-seeker who loves jumping into quick fights and taking risks to get the upper hand. You’re a natural improviser, using your surroundings to your advantage and adapting to any situation. Your ESTP traits make you a fun-loving teammate who brings energy to every match, turning even the most ordinary fights into exciting adventures.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Jules",
+      "description": "Your ideal soulmate is Jules, the bold, stylish engineer of Fortnite. Like Jules, you’re a social butterfly who loves showing off your unique style with flashy skins and emotes. You thrive in team matches, chatting with your squad and making new friends every game. Your ESFP traits make you a natural entertainer, always keeping the mood light and making sure everyone is having a good time—even when you’re losing.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Master Chief",
+      "description": "Your perfect match is Master Chief, the disciplined, reliable soldier from the Fortnite x Halo crossover. Like Master Chief, you’re a practical leader who sticks to the rules and gets the job done efficiently. You excel at following orders and executing plans, using your strong sense of duty to protect your team. Your ESTJ traits make you a trusted teammate who always shows up when needed, ensuring your squad is prepared for any challenge.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Peely's Mom",
+      "description": "Your ideal soulmate is Peely’s Mom, the caring, nurturing banana of Fortnite. Like Peely’s Mom, you’re a warm, supportive teammate who always puts your squad’s needs first. You love taking care of others, making sure everyone has enough healing items and is feeling good. Your ESFJ traits make you the glue of any team, keeping everyone connected and ensuring everyone feels valued and appreciated.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Lynx",
+      "description": "Your perfect match is Lynx, the agile, stealthy assassin of Fortnite. Like Lynx, you’re a quiet, skilled player who prefers to work alone, using your quick reflexes and precision to take down enemies without being seen. You’re a master of improvisation, using nearby objects to create traps and outsmart your opponents. Your ISTP traits make you a formidable opponent, always staying one step ahead and striking when least expected.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Skye",
+      "description": "Your ideal soulmate is Skye, the adventurous, nature-loving explorer of Fortnite. Like Skye, you’re a free spirit who loves exploring the island’s beautiful landscapes, from snowy mountains to sunny beaches. You prefer to play in casual matches, taking time to appreciate the game’s scenery and wildlife. Your ISFP traits make you a gentle teammate who values harmony and peace, always trying to avoid unnecessary fights.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Slone",
+      "description": "Your perfect match is Slone, the strict, no-nonsense commander of Fortnite’s IO forces. Like Slone, you’re a practical, organized player who believes in following protocols and sticking to proven strategies. You excel in ranked matches, using your methodical approach to climb the leaderboards. Your ISTJ traits make you a reliable teammate who always does their part, ensuring your squad is well-prepared for every battle.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Penny",
+      "description": "Your ideal soulmate is Penny, the loyal, hardworking pirate of Fortnite. Like Penny, you’re a dedicated teammate who goes above and beyond to help your squad, whether you’re carrying extra healing items or building cover for them in fights. You thrive when you’re able to support others, finding joy in making sure your friends are safe and happy. Your ISFJ traits make you a trusted companion who always has your back, no matter what.",
+      "mbti": "ISFJ"
+    }
+  ]
+}

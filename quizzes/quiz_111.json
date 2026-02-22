@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Roblox Playstyle Type Are You?",
+  "category": "which",
+  "tags": [
+    "Roblox",
+    "Gaming",
+    "Playstyle",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your Roblox playstyle type!",
+  "questions": [
+    {
+      "text": "When you first log into Roblox, you immediately...",
+      "options": [
+        {
+          "text": "Grab random building tools and experiment with crafting a totally unique structure no one’s tried before",
+          "score": "N"
+        },
+        {
+          "text": "Dive into a packed multiplayer server and start teaming up with random players for a group quest",
+          "score": "E"
+        },
+        {
+          "text": "Seek out a private server to quietly explore hidden nooks and unmarked corners of the map",
+          "score": "I"
+        },
+        {
+          "text": "Pull up the official mission guide and follow the step-by-step main objectives right away",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A friend invites you to a limited-time Roblox event—how do you react?",
+      "options": [
+        {
+          "text": "Agree right away and brainstorm small in-game gifts to share with everyone at the event",
+          "score": "F"
+        },
+        {
+          "text": "Set a precise alarm and map out the fastest route to the event location in advance",
+          "score": "J"
+        },
+        {
+          "text": "Ask detailed questions about the event’s rules, rewards, and time commitment before deciding",
+          "score": "T"
+        },
+        {
+          "text": "Say yes casually and figure out the details on the fly when the event starts",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a tricky puzzle in a Roblox game—what do you do?",
+      "options": [
+        {
+          "text": "Test every possible physical interaction with the puzzle elements one by one",
+          "score": "S"
+        },
+        {
+          "text": "Call over nearby players to brainstorm solutions together",
+          "score": "E"
+        },
+        {
+          "text": "Imagine unconventional ways to bypass or reimagine the puzzle entirely",
+          "score": "N"
+        },
+        {
+          "text": "Retreat to a quiet spot to analyze the puzzle’s patterns on your own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You have extra Robux to spend—what’s your first pick?",
+      "options": [
+        {
+          "text": "Spur-of-the-moment buy a random novelty item that looks fun to mess around with",
+          "score": "P"
+        },
+        {
+          "text": "Purchase a tool that boosts your efficiency at completing repeatable in-game tasks",
+          "score": "T"
+        },
+        {
+          "text": "Buy a customizable item that lets you coordinate outfits with your in-game friends",
+          "score": "F"
+        },
+        {
+          "text": "Plan out a full set of items that align with your long-term in-game goals",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When creating a Roblox game, your main focus is on...",
+      "options": [
+        {
+          "text": "Designing large, open spaces where players can interact and collaborate freely",
+          "score": "E"
+        },
+        {
+          "text": "Crafting intricate, solo-focused storylines that reward careful exploration",
+          "score": "I"
+        },
+        {
+          "text": "Inventing wild, never-before-seen gameplay mechanics that surprise players",
+          "score": "N"
+        },
+        {
+          "text": "Building solid, bug-free mechanics that ensure smooth, predictable gameplay",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A player disagrees with your approach to a team task—you respond by...",
+      "options": [
+        {
+          "text": "Stick to your original plan since you already mapped out every step in advance",
+          "score": "J"
+        },
+        {
+          "text": "Listen closely to their feelings and adjust your plan to make them feel included",
+          "score": "F"
+        },
+        {
+          "text": "Quickly switch to their approach to see where it leads, no need to overthink",
+          "score": "P"
+        },
+        {
+          "text": "Present logical evidence explaining why your approach is more effective for the task",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After finishing a Roblox session, you’re most likely to...",
+      "options": [
+        {
+          "text": "Write down notes about hidden secrets you found to reference in your next playthrough",
+          "score": "I"
+        },
+        {
+          "text": "Join a Discord server to chat with other players about your favorite moments",
+          "score": "E"
+        },
+        {
+          "text": "Calculate your progress toward your in-game level or achievement goals",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about new game ideas you want to try building later",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with leading a Roblox build competition team—you prioritize...",
+      "options": [
+        {
+          "text": "Letting the team explore ideas freely, adjusting the plan as you go along",
+          "score": "P"
+        },
+        {
+          "text": "Assigning roles based on each member’s strengths to maximize efficiency",
+          "score": "T"
+        },
+        {
+          "text": "Making sure every team member’s creative input gets heard and valued",
+          "score": "F"
+        },
+        {
+          "text": "Creating a strict timeline with clear milestones to meet the deadline",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Which Roblox activity sounds most appealing to you on a lazy afternoon?",
+      "options": [
+        {
+          "text": "Playing a cozy, slow-paced game where you can fish or garden alone",
+          "score": "I"
+        },
+        {
+          "text": "Hosting a virtual party in your custom in-game house and inviting friends over",
+          "score": "E"
+        },
+        {
+          "text": "Completing a series of small, concrete tasks to unlock a rare in-game item",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting with glitch exploits to create unexpected in-game effects",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A new Roblox update changes a feature you love—how do you react?",
+      "options": [
+        {
+          "text": "Embrace the change and start experimenting with new strategies right away",
+          "score": "P"
+        },
+        {
+          "text": "Create a strict checklist to adapt your gameplay to the new feature as quickly as possible",
+          "score": "J"
+        },
+        {
+          "text": "Listen closely to other players’ frustrations and share your own nostalgic stories",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the update’s code and post a detailed breakdown of its pros and cons",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When teaching a new player how to play your favorite Roblox game, you...",
+      "options": [
+        {
+          "text": "Encourage them to experiment freely and ask questions when they get stuck",
+          "score": "N"
+        },
+        {
+          "text": "Invite them to join your group and learn by doing tasks alongside you",
+          "score": "E"
+        },
+        {
+          "text": "Walk them through each basic mechanic slowly, ensuring they master one before moving on",
+          "score": "S"
+        },
+        {
+          "text": "Write up a step-by-step guide with screenshots for them to reference on their own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You have an hour to play Roblox—your plan is to...",
+      "options": [
+        {
+          "text": "Stick to a pre-made schedule of tasks you’ve already planned out",
+          "score": "J"
+        },
+        {
+          "text": "Wander through different servers, trying whatever looks interesting in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Spend the whole time helping lower-level players complete challenging quests",
+          "score": "F"
+        },
+        {
+          "text": "Focus on the single most efficient task to gain the maximum possible rewards",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Community Quest Leader",
+      "description": "You’re the heart of any Roblox group—you prioritize bringing players together, organizing team events, and lifting up newer members. You thrive in multiplayer servers where you can lead with empathy, turning casual players into a tight-knit crew. Your ENFJ traits make you the go-to player for fostering positive, inclusive in-game communities that everyone wants to join and contribute to.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Strategic Game Master",
+      "description": "You dominate Roblox with precision and foresight, mapping out long-term plans to conquer every achievement and lead teams to victory. You analyze game mechanics to find optimal strategies, and you don’t let setbacks derail your goals. Your ENTJ drive makes you the player others look to for clear, efficient guidance in high-stakes in-game challenges and competitive events.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Imaginative Adventure Catalyst",
+      "description": "You turn every Roblox session into a wild, unscripted adventure—you ditch quest guides to follow random clues, invent silly roleplay scenarios with strangers, and build bizarre creations just for fun. Your ENFP spirit fuels your love for exploring uncharted corners of Roblox, inspiring others to let go of rules and embrace spontaneous joy in every game.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Trickster Innovator",
+      "description": "You’re Roblox’s ultimate rule-breaker and idea generator—you experiment with glitches to create new gameplay mechanics, debate meta strategies with other players just for the thrill, and build contraptions that no one else has thought of. Your ENTP curiosity makes you a constant source of surprise, turning ordinary servers into playgrounds for creative chaos and clever hacks.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Social Host Extraordinaire",
+      "description": "You live for hosting Roblox’s most memorable events—virtual birthday parties, fashion shows, and group build-offs where everyone feels welcome. You remember every player’s favorite in-game items, and you go out of your way to make new members feel included. Your ESFJ warmth creates cozy, inviting spaces that keep players coming back for more social fun.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Methodical Achievement Hunter",
+      "description": "You check every box in Roblox, systematically completing every quest, unlocking every achievement, and mastering every mechanic. You create strict schedules for your play sessions, and you never waste time on unproductive detours. Your ESTJ dedication makes you the player with the most impressive collection of badges, levels, and perfectly optimized in-game setups.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Spontaneous Fun Seeker",
+      "description": "You’re all about living in the moment in Roblox—you jump into whatever server looks most lively, try every new novelty item as soon as it drops, and turn even mundane tasks into silly games. Your ESFP energy is contagious, making you the life of the party in any multiplayer space, where you’re always ready to laugh and create unplanned, unforgettable moments.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Daring Challenge Taker",
+      "description": "You crave Roblox’s most intense challenges—parkour courses, PvP tournaments, and high-risk heists. You learn by doing, diving headfirst into difficult tasks without overplanning, and you thrive on the adrenaline of last-minute wins. Your ESTP boldness makes you the player others watch in awe, pulling off daring feats that seem impossible to most.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Mystery Explorer",
+      "description": "You’re drawn to Roblox’s hidden depths—you seek out private servers to uncover secret storylines, analyze game lore for hidden meanings, and build quiet, introspective spaces. You prefer deep, meaningful roleplay over chaotic multiplayer sessions, and your INFJ intuition lets you spot details other players miss, turning every playthrough into a personal, profound journey.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Mastermind Builder",
+      "description": "You design Roblox’s most intricate, innovative builds—complex puzzle mazes, automated farms, and immersive story worlds that require careful planning. You spend hours refining every detail, ensuring your creations are both functional and visually stunning. Your INTJ focus makes you a legendary builder, whose works are studied and admired by players across the platform.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Whimsical Story Weaver",
+      "description": "You turn Roblox into a canvas for your imagination—you create elaborate roleplay scenarios, build fairy-tale-inspired worlds, and write hidden backstories for your in-game characters. You prefer quiet, creative spaces where you can express your unique vision without pressure. Your INFP heart makes you the player whose creations feel like warm, magical escapes from the ordinary.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Curious Mechanic",
+      "description": "You’re obsessed with Roblox’s inner workings—you dissect game code to understand glitches, experiment with scripting to create custom tools, and debate the logic of game mechanics with other players. You don’t care about wins or losses; you care about figuring out how things work. Your INTP curiosity makes you the go-to player for solving technical problems and inventing new ways to play.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Steady Support Player",
+      "description": "You’re the reliable backbone of any Roblox team—you always have extra healing items, remember quest details no one else does, and patiently help newer players learn the ropes. You prefer consistent, low-key gameplay, focusing on supporting others rather than being in the spotlight. Your ISFJ kindness makes you the player everyone wants on their team, thanks to your quiet dedication.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Consistent Task Master",
+      "description": "You approach Roblox with unwavering consistency, completing daily tasks, maintaining perfect in-game routines, and keeping track of every resource you collect. You avoid spontaneous detours, sticking to plans that ensure steady progress toward your goals. Your ISTJ reliability makes you the player with the most organized inventory, completed quest logs, and a perfect track record of daily rewards.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Creative Wanderer",
+      "description": "You explore Roblox with a focus on beauty and personal expression—you wander through scenic servers, collect unique custom items, and build small, aesthetically pleasing spaces that reflect your style. You prefer solo or small-group play, where you can take your time and appreciate the little things. Your ISFP creativity makes you the player whose in-game presence feels like a quiet, colorful masterpiece.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Hands-On Tinkerer",
+      "description": "You love getting your hands dirty in Roblox—you build functional tools, fix broken contraptions, and master tricky mechanics through trial and error. You thrive in survival modes and build challenges, where your ability to adapt and problem-solve on the fly shines. Your ISTP practicality makes you the player who can turn random scraps of in-game resources into something useful and impressive.",
+      "mbti": "ISTP"
+    }
+  ]
+}

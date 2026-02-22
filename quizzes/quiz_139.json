@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Well Do You Match Genshin Impact's Core Vibes?",
+  "category": "how",
+  "tags": [
+    "Genshin Impact",
+    "Personality",
+    "MBTI",
+    "Gaming",
+    "Worldview"
+  ],
+  "description": "Answer 12 questions to discover how closely your inner self aligns with the essence of Genshin Impact!",
+  "questions": [
+    {
+      "text": "When exploring a new area, you’re most drawn to...",
+      "options": [
+        {
+          "text": "Imagine the ancient stories behind crumbling stone ruins",
+          "score": "N"
+        },
+        {
+          "text": "Notice small hidden paths or rare wildflowers others overlook",
+          "score": "S"
+        },
+        {
+          "text": "Strike up conversations with every local vendor you encounter",
+          "score": "E"
+        },
+        {
+          "text": "Sit quietly by a scenic waterfall to soak in the peaceful atmosphere",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you found a mysterious glowing relic, you would...",
+      "options": [
+        {
+          "text": "Experiment with it spontaneously to see what it does",
+          "score": "P"
+        },
+        {
+          "text": "Analyze its carvings first to guess its practical function",
+          "score": "T"
+        },
+        {
+          "text": "Wonder about the person who once cherished it and their journey",
+          "score": "F"
+        },
+        {
+          "text": "Document every detail in a notebook before touching it",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When planning a group outing, you tend to...",
+      "options": [
+        {
+          "text": "Go with the flow and let others lead the way",
+          "score": "P"
+        },
+        {
+          "text": "Coordinate everyone’s preferences to ensure no one feels left out",
+          "score": "F"
+        },
+        {
+          "text": "Map out the most efficient route and schedule ahead of time",
+          "score": "J"
+        },
+        {
+          "text": "Invite as many people as possible to keep the energy high",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You react to a sudden rainstorm while outdoors by...",
+      "options": [
+        {
+          "text": "Dive into the nearest cozy tavern to listen to travelers’ tales",
+          "score": "E"
+        },
+        {
+          "text": "Stay still and watch how raindrops pattern the stone ground",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about the lore behind Teyvat’s weather phenomena",
+          "score": "N"
+        },
+        {
+          "text": "Find a quiet cave to wait out the storm alone with your thoughts",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When solving a tricky puzzle in a dungeon, you rely on...",
+      "options": [
+        {
+          "text": "Trusting your gut feeling about which path feels right",
+          "score": "F"
+        },
+        {
+          "text": "Breaking down each part logically to find the sequence",
+          "score": "T"
+        },
+        {
+          "text": "Recalling subtle clues you noticed earlier in the area",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorming outlandish possibilities others haven’t considered",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "After completing a long adventure, you prefer to unwind by...",
+      "options": [
+        {
+          "text": "Hosting a feast with all your travel companions",
+          "score": "E"
+        },
+        {
+          "text": "Writing down every detail of your journey in a journal",
+          "score": "J"
+        },
+        {
+          "text": "Taking a spontaneous walk to discover a new hidden spot",
+          "score": "P"
+        },
+        {
+          "text": "Napping in a sunlit meadow without any plans",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset about a failed quest, you...",
+      "options": [
+        {
+          "text": "Suggest practical steps to help them retry successfully",
+          "score": "T"
+        },
+        {
+          "text": "Sit with them and listen to their frustrations without judgment",
+          "score": "F"
+        },
+        {
+          "text": "Tell them funny stories to distract them from the disappointment",
+          "score": "E"
+        },
+        {
+          "text": "Offer to let them sit in silence with you until they feel better",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a blank map of an unknown region—you first...",
+      "options": [
+        {
+          "text": "Mark potential landmarks you’ve heard stories about",
+          "score": "N"
+        },
+        {
+          "text": "Draw in logical routes based on terrain features",
+          "score": "T"
+        },
+        {
+          "text": "Note down areas where you might meet interesting people",
+          "score": "E"
+        },
+        {
+          "text": "Add details about plant and animal habitats you expect to find",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a companion for a dangerous journey, you prioritize...",
+      "options": [
+        {
+          "text": "Someone who stays calm and follows your pre-planned strategy",
+          "score": "J"
+        },
+        {
+          "text": "Someone who can adapt quickly to unexpected obstacles",
+          "score": "P"
+        },
+        {
+          "text": "Someone who shares your excitement for exploring the unknown",
+          "score": "N"
+        },
+        {
+          "text": "Someone who notices small dangers others might miss",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You find a forgotten letter in an old chest—you...",
+      "options": [
+        {
+          "text": "Focus on the practical information about hidden supplies",
+          "score": "S"
+        },
+        {
+          "text": "Get lost in imagining the author’s life and relationships",
+          "score": "N"
+        },
+        {
+          "text": "Track down the letter’s intended recipient to return it",
+          "score": "F"
+        },
+        {
+          "text": "File it away in your bag for future reference just in case",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When a sudden detour reveals a breathtaking view, you...",
+      "options": [
+        {
+          "text": "Take photos to show all your friends later",
+          "score": "E"
+        },
+        {
+          "text": "Stay there for hours just to enjoy the moment alone",
+          "score": "I"
+        },
+        {
+          "text": "Plan to come back with a picnic to share the spot",
+          "score": "J"
+        },
+        {
+          "text": "Decide to explore the surrounding area on a whim",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to design a new festival for a small town—you focus on...",
+      "options": [
+        {
+          "text": "Including traditional rituals that honor the town’s history",
+          "score": "S"
+        },
+        {
+          "text": "Creating innovative activities that encourage community bonding",
+          "score": "N"
+        },
+        {
+          "text": "Making sure every resident’s preferences are taken into account",
+          "score": "F"
+        },
+        {
+          "text": "Organizing a structured schedule to keep things running smoothly",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Geo Archon's Confidant",
+      "description": "You’re a wise, steady presence who values tradition and community, much like Liyue’s guiding Archon. You find purpose in preserving the stories of the past and supporting those around you with quiet reliability. Your calm demeanor and long-term perspective make you a trusted advisor to everyone you meet. You’re an INTJ—strategic, thoughtful, and deeply rooted in your principles.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Windborne Wanderer",
+      "description": "You’re a free-spirited explorer who drifts through life with curiosity and joy, embodying the essence of Mondstadt’s Anemo Archon. You thrive on meeting new people and chasing unexpected adventures, turning every moment into a story to share. Your lighthearted energy lifts others up, and you never stay in one place for too long. You’re an ENFP—optimistic, creative, and endlessly enthusiastic.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Electro Strategist",
+      "description": "You’re a sharp, innovative thinker who marches to the beat of your own drum, like Inazuma’s unpredictable Archon. You see patterns others miss and love challenging the status quo with bold ideas. Your quick wit and independence make you a force to be reckoned with, and you never shy away from defending what you believe in. You’re an INTP—analytical, unconventional, and endlessly curious about how things work.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Dendro Caretaker",
+      "description": "You’re a nurturing, patient soul who finds joy in helping things grow, just like Sumeru’s gentle Archon. You notice the smallest details of the world around you and take pride in supporting the growth of others, whether through kind words or quiet acts of service. Your warm presence makes people feel safe, and you prioritize harmony in every relationship. You’re an ISFJ—compassionate, reliable, and deeply connected to your community.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Pyro Vanguard",
+      "description": "You’re a passionate, bold leader who charges into life with unwavering courage, embodying the fiery spirit of Natlan’s Archon. You thrive in high-energy environments and love inspiring others to chase their dreams with confidence. Your loyalty and enthusiasm make you a natural leader, and you never back down from a challenge. You’re an ESFJ—outgoing, caring, and always ready to stand up for the people you love.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Cryo Guardian",
+      "description": "You’re a quiet, introspective protector who values depth and authenticity, like Snezhnaya’s mysterious Archon. You keep your circle small but love deeply, and you’re always ready to defend those you care about from harm. Your calm exterior hides a fierce loyalty, and you find peace in quiet moments of reflection. You’re an INFJ—intuitive, empathetic, and deeply committed to your values.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Hydro Diplomat",
+      "description": "You’re a charming, adaptable mediator who navigates life’s complexities with grace, just like Fontaine’s eloquent Archon. You love connecting with people from all walks of life and using your communication skills to resolve conflicts. Your diplomatic nature and quick thinking make you a natural problem-solver, and you thrive in social settings. You’re an ESFP—outgoing, charismatic, and always ready to enjoy the moment.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Anemo Scholar",
+      "description": "You’re a thoughtful, curious learner who seeks knowledge for its own sake, like Mondstadt’s wandering scholars. You love diving into ancient texts and exploring the mysteries of the world, and you find joy in sharing your discoveries with others. Your quiet enthusiasm makes you a captivating storyteller, and you prioritize understanding over judgment. You’re an INFP—idealistic, creative, and deeply in tune with your inner self.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Geo Forgemaster",
+      "description": "You’re a practical, hardworking individual who builds stability wherever you go, like Liyue’s master craftsmen. You find purpose in creating things that last, whether it’s a sturdy shelter or a long-term plan. Your reliable nature and attention to detail make you a trusted team member, and you take pride in every task you complete. You’re an ISTJ—responsible, organized, and deeply committed to your work.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Pyro Innovator",
+      "description": "You’re a bold, creative visionary who loves pushing boundaries and trying new things, like Natlan’s adventurous inventors. You thrive in dynamic environments and aren’t afraid to take risks to bring your ideas to life. Your infectious energy inspires others to think outside the box, and you find joy in every experiment, even when things don’t go as planned. You’re an ESTP—energetic, practical, and always ready for a new challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Electro Enigma",
+      "description": "You’re a mysterious, independent soul who values freedom above all else, like Inazuma’s wandering warriors. You keep your true thoughts to yourself but aren’t afraid to speak up when something matters. Your unpredictable nature makes you intriguing to others, and you find peace in exploring the world on your own terms. You’re an ISTP—calm, practical, and skilled at solving problems in the moment.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Dendro Sage",
+      "description": "You’re a wise, curious scholar who seeks to understand the interconnectedness of all things, like Sumeru’s learned sages. You love exploring new ideas and sharing your knowledge with others, and you find joy in watching others grow through learning. Your patient, thoughtful nature makes you a great teacher, and you prioritize wisdom over power. You’re an ENTP—creative, argumentative, and endlessly curious about the world.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Hydro Artist",
+      "description": "You’re a expressive, empathetic soul who finds beauty in every moment, like Fontaine’s talented artists. You love creating and sharing art that captures the essence of human emotion, and you use your creativity to connect with others. Your warm, outgoing nature makes you a beloved friend, and you find joy in making others feel seen and heard. You’re an ENFJ—charismatic, compassionate, and deeply committed to uplifting others.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Cryo Strategist",
+      "description": "You’re a calm, analytical planner who always thinks several steps ahead, like Snezhnaya’s cunning diplomats. You thrive in structured environments and love solving complex problems with logical solutions. Your quiet confidence makes you a trusted leader, and you never let emotions cloud your judgment. You’re an ESTJ—organized, practical, and deeply committed to order and tradition.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Anemo Companion",
+      "description": "You’re a friendly, adaptable soul who loves being around people, like Mondstadt’s cheerful bards. You thrive in social settings and find joy in making others laugh and feel comfortable. Your easygoing nature makes you a great friend, and you’re always ready to go along with whatever adventure your friends propose. You’re an ESFJ—outgoing, caring, and deeply committed to your community.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Hydro Seer",
+      "description": "You’re a intuitive, introspective soul who feels deeply connected to the flow of life, like Fontaine’s wise seers. You trust your gut instincts and often know what others need before they say it. Your quiet presence brings peace to those around you, and you find joy in reflecting on the mysteries of the world. You’re an ISFP—gentle, creative, and deeply in tune with your surroundings.",
+      "mbti": "ISFP"
+    }
+  ]
+}

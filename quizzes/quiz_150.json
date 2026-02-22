@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Will Your Honkai: Star Rail Future Adventure Hold?",
+  "category": "future",
+  "tags": [
+    "Honkai: Star Rail",
+    "Future Adventure",
+    "MBTI",
+    "Space Fantasy",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover what your ultimate future adventure in Honkai: Star Rail will look like!",
+  "questions": [
+    {
+      "text": "You stumble upon an uncharted planet during a crew mission. You immediately...",
+      "options": [
+        {
+          "text": "Daydream about the ancient civilizations that might once have thrived here",
+          "score": "N"
+        },
+        {
+          "text": "Rush to gather the crew to explore its mysterious landmarks together",
+          "score": "E"
+        },
+        {
+          "text": "Pull out your scanner to document its terrain and resource potential",
+          "score": "S"
+        },
+        {
+          "text": "Duck off to investigate a quiet, hidden cave on your own first",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your crew faces a sudden spatial anomaly that’s throwing off navigation. You react by...",
+      "options": [
+        {
+          "text": "Quickly run through probability calculations to map the safest exit route",
+          "score": "T"
+        },
+        {
+          "text": "Trust your gut instinct to steer toward the faint, warm energy signature you sense nearby",
+          "score": "F"
+        },
+        {
+          "text": "Experiment with adjusting the ship’s thrusters in random, small bursts to find a way out",
+          "score": "P"
+        },
+        {
+          "text": "Stick strictly to the emergency protocol manual stored in the ship’s system",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "After a long mission, the crew decides to relax at a space station lounge. You choose to...",
+      "options": [
+        {
+          "text": "Sit in a quiet corner with a holographic book about cosmic phenomena",
+          "score": "I"
+        },
+        {
+          "text": "Sign up for a hands-on workshop to repair a broken droid from the station",
+          "score": "S"
+        },
+        {
+          "text": "Strike up a conversation with a group of alien travelers about their home worlds",
+          "score": "E"
+        },
+        {
+          "text": "Brainstorm a new crew mission idea involving a distant nebula",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A strange alien artifact starts emitting confusing signals. You...",
+      "options": [
+        {
+          "text": "Play around with different settings on your device to see if you can trigger a reaction from the artifact",
+          "score": "P"
+        },
+        {
+          "text": "Focus on how the signals might affect the crew’s emotional well-being and calm anyone who’s anxious",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the signal frequency patterns to decode its origin and purpose",
+          "score": "T"
+        },
+        {
+          "text": "Follow the step-by-step guide in your artifact research log to handle it safely",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with planning the crew’s next mission. You prioritize...",
+      "options": [
+        {
+          "text": "Leaving room for spontaneous detours to investigate any unusual cosmic signs",
+          "score": "N"
+        },
+        {
+          "text": "Ensuring the mission has clear, actionable goals with measurable outcomes",
+          "score": "S"
+        },
+        {
+          "text": "Including stops at lively space ports where the crew can socialize with other travelers",
+          "score": "E"
+        },
+        {
+          "text": "Picking a remote, little-known sector where you can explore in peace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A crewmate disagrees with your approach to solving a problem. You...",
+      "options": [
+        {
+          "text": "Suggest combining both approaches to see what works best in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your original plan since it’s already been approved by the captain",
+          "score": "J"
+        },
+        {
+          "text": "Present logical evidence to show why your approach is more effective",
+          "score": "T"
+        },
+        {
+          "text": "Listen closely to their feelings and adjust your plan to make them feel valued",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You find a strange, glowing plant on a desolate moon. You...",
+      "options": [
+        {
+          "text": "Call over the crew to marvel at its glow and discuss what it could be",
+          "score": "E"
+        },
+        {
+          "text": "Imagine how it might have evolved in the moon’s harsh environment and what secrets it holds",
+          "score": "N"
+        },
+        {
+          "text": "Take a small sample to study privately in your lab later",
+          "score": "I"
+        },
+        {
+          "text": "Test its properties to see if it can be used as a fuel source for the ship",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "The ship’s main system crashes unexpectedly mid-flight. You...",
+      "options": [
+        {
+          "text": "Follow the pre-written emergency checklist to restore basic functions",
+          "score": "J"
+        },
+        {
+          "text": "Check in with each crew member to make sure they’re not panicking before acting",
+          "score": "F"
+        },
+        {
+          "text": "Try a variety of unorthodox fixes you’ve read about in old space forums",
+          "score": "P"
+        },
+        {
+          "text": "Troubleshoot the system’s code to identify and fix the root cause quickly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a cosmic festival on a vibrant alien planet. You...",
+      "options": [
+        {
+          "text": "Collect practical souvenirs like alien tools and edible space plants",
+          "score": "S"
+        },
+        {
+          "text": "Wander alone through the festival’s quiet, art-filled alleyways",
+          "score": "I"
+        },
+        {
+          "text": "Participate in a storytelling circle about the planet’s mythical creation legends",
+          "score": "N"
+        },
+        {
+          "text": "Spend the night dancing and singing with the local alien population",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You have to make a split-second decision to save the crew from a meteor shower. You...",
+      "options": [
+        {
+          "text": "Calculate the meteor trajectory to pick the mathematically safest route",
+          "score": "T"
+        },
+        {
+          "text": "Make a quick, impulsive move to dodge the largest meteor first",
+          "score": "P"
+        },
+        {
+          "text": "Choose the path that feels right, even if it’s not the most obvious one",
+          "score": "F"
+        },
+        {
+          "text": "Follow the emergency evasion plan you prepared last week",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your crew discovers a hidden cache of ancient alien scrolls. You...",
+      "options": [
+        {
+          "text": "Catalog each scroll’s condition and translate its practical instructions first",
+          "score": "S"
+        },
+        {
+          "text": "Create a timeline of the alien civilization based on scroll fragments",
+          "score": "N"
+        },
+        {
+          "text": "Take one scroll back to your quarters to study it in solitude",
+          "score": "I"
+        },
+        {
+          "text": "Gather everyone to read and discuss the scrolls’ stories together",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "It’s the crew’s rest day, and you can do anything you want. You decide to...",
+      "options": [
+        {
+          "text": "Binge-watch old space documentaries and come up with wild theories about the universe",
+          "score": "N"
+        },
+        {
+          "text": "Organize your equipment and restock the ship’s emergency supplies",
+          "score": "S"
+        },
+        {
+          "text": "Host a game night with the crew to bond and laugh together",
+          "score": "E"
+        },
+        {
+          "text": "Spend the day meditating and stargazing alone on the ship’s observation deck",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Charismatic Trailblazer (ENFJ)",
+      "description": "Your future in Honkai: Star Rail is one of leading your crew toward light and hope. You’ll inspire teammates to overcome even the darkest spatial rifts, mediating conflicts and nurturing hidden strengths in others. Every adventure becomes a chance to build deep, lasting bonds across the galaxy. Your ENFJ spirit turns chaos into purpose.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Maverick Innovator (ENTP)",
+      "description": "In your future Star Rail adventures, you’ll be the one leaping into uncharted wormholes, questioning every cosmic rule, and turning unexpected crises into wild experiments. You thrive on debating crewmates about alien theories and inventing off-the-cuff solutions that no one else could imagine. Your ENTP energy keeps every day unpredictable and thrilling.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Strategic Commander (ENTJ)",
+      "description": "You’ll rise to become the crew’s strategic mastermind in your future Honkai: Star Rail adventures. You craft meticulous mission plans, lead with unshakable confidence, and turn even the most hopeless cosmic battles into victories. Your ability to see the big picture and enforce order ensures your crew always stays one step ahead of danger.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Enthusiastic Explorer (ENFP)",
+      "description": "Your future Star Rail journey is filled with endless curiosity and joyful discoveries. You chase after every glowing nebula, befriend alien creatures, and fill the ship with stories of your spontaneous detours. Your warm, upbeat energy lifts the crew’s spirits even on the longest missions, making every day feel like a new, exciting beginning.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Compassionate Counselor (INFJ)",
+      "description": "In your future Honkai: Star Rail adventures, you’re the crew’s quiet guiding light. You sense unspoken tensions and comfort teammates through tough times, using your deep understanding of others to keep the crew united. You often get drawn to ancient alien secrets that hold lessons about empathy and connection, turning every mission into a journey of growth.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Visionary Thinker (INTP)",
+      "description": "Your future Star Rail path is one of deep cosmic contemplation and innovative problem-solving. You spend hours alone in the ship’s lab, dissecting alien technology and developing theories about the universe’s origins. When crises strike, you emerge with brilliant, unexpected solutions that save the day, all while preferring to stay out of the spotlight.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Independent Strategist (INTJ)",
+      "description": "You’ll be the crew’s hidden architect in your future Honkai: Star Rail adventures. You work quietly behind the scenes, designing complex mission strategies that account for every possible cosmic variable. You’re drawn to ancient alien civilizations and their advanced technologies, using your knowledge to keep the crew safe and push the boundaries of exploration.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Dreamy Wanderer (INFP)",
+      "description": "Your future Star Rail journey is a quiet, introspective adventure through the galaxy. You find solace in stargazing on the observation deck, writing poetry about alien worlds, and connecting with gentle alien species. You bring a sense of wonder to the crew, reminding everyone to slow down and appreciate the beauty of the cosmos beyond their missions.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Energetic Connector (ESFJ)",
+      "description": "In your future Honkai: Star Rail adventures, you’re the heart of the crew. You organize cozy meals on the ship, remember every teammate’s favorite alien snack, and make sure everyone feels included. You thrive on visiting lively space ports where you can chat with other travelers, turning every stop into a chance to build new friendships across the stars.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Hands-On Problem-Solver (ESTP)",
+      "description": "Your future Star Rail path is filled with high-stakes action and quick thinking. You’re the first to jump into a fight with space pirates, fix a broken ship engine mid-flight, or try out a new alien sport. You prefer to learn by doing, turning every crisis into an opportunity to show off your skills and keep the crew entertained with your bold antics.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Reliable Organizer (ESTJ)",
+      "description": "You’ll be the crew’s rock in your future Honkai: Star Rail adventures. You keep the ship running smoothly, manage supplies efficiently, and make sure every mission stays on schedule. You enforce the crew’s rules with fairness, ensuring everyone is safe and prepared for any cosmic challenge. Your practical approach keeps chaos at bay and the crew focused.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Joy-Bringer (ESFP)",
+      "description": "Your future Star Rail journey is a nonstop party across the galaxy. You organize impromptu dance parties on the ship’s deck, collect colorful alien trinkets, and make friends with every space port vendor you meet. Your infectious energy turns even the most tedious missions into fun, reminding the crew to enjoy the journey as much as the destination.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Gentle Caregiver (ISFJ)",
+      "description": "In your future Honkai: Star Rail adventures, you’re the crew’s quiet caregiver. You tend to teammates when they’re injured, stock the ship with comforting items, and remember every small detail about their preferences. You’re drawn to missions that help vulnerable alien communities, using your practical skills to make a tangible difference in the galaxy.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Practical Adventurer (ISTP)",
+      "description": "Your future Star Rail path is one of hands-on exploration and quiet competence. You’re the crew’s go-to person for fixing broken equipment, navigating tricky terrain, and disarming alien traps. You prefer to explore remote planets alone, using your keen observation skills to uncover hidden resources and solve problems without fanfare.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Steadfast Guardian (ISTJ)",
+      "description": "You’ll be the crew’s unshakable foundation in your future Honkai: Star Rail adventures. You follow protocols strictly, maintain detailed mission logs, and ensure the ship is always in top condition. You’re drawn to missions that protect ancient alien artifacts, using your sense of duty to preserve the galaxy’s history and keep your crew safe.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Laid-Back Wanderer (ISFP)",
+      "description": "Your future Star Rail journey is a quiet, creative adventure. You spend your free time painting alien landscapes, playing music on a handmade instrument, and connecting with wild alien animals. You prefer to take missions at your own pace, stopping to admire cosmic views and collect small, meaningful trinkets that remind you of your travels.",
+      "mbti": "ISFP"
+    }
+  ]
+}

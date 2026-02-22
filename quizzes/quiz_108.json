@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Roblox-Obsessed Are You?",
+  "category": "how",
+  "tags": [
+    "Roblox",
+    "Gaming",
+    "Personality",
+    "Lifestyle",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover how deeply Roblox is woven into your daily life and personality!",
+  "questions": [
+    {
+      "text": "When you have a free afternoon, you first think about...",
+      "options": [
+        {
+          "text": "Gathering a group of friends to host a chaotic Roblox minigame tournament",
+          "score": "E"
+        },
+        {
+          "text": "Diving into a quiet, story-driven Roblox game to explore alone",
+          "score": "I"
+        },
+        {
+          "text": "Planning and building a detailed in-game house with exact measurements",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorming a completely original Roblox game concept to sketch out later",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If your favorite Roblox game gets a major update, you...",
+      "options": [
+        {
+          "text": "Wait a day to see how others react before diving in to avoid overwhelming bugs",
+          "score": "P"
+        },
+        {
+          "text": "Immediate message all your friends to hype it up and play together right away",
+          "score": "E"
+        },
+        {
+          "text": "Feel a rush of excitement trying out the new features without overthinking",
+          "score": "F"
+        },
+        {
+          "text": "Spend an hour reading patch notes carefully to understand every change",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When building in Roblox Studio, you prioritize...",
+      "options": [
+        {
+          "text": "Creating a space that tells a heartfelt story, like a cozy cabin with a backstory for its owner",
+          "score": "F"
+        },
+        {
+          "text": "Making sure every part of the build works perfectly, from functional doors to stable foundations",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting with wild, untested design ideas just to see what’s possible",
+          "score": "N"
+        },
+        {
+          "text": "Following a strict step-by-step tutorial to get every detail right on the first try",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when you lose a competitive Roblox game?",
+      "options": [
+        {
+          "text": "Laugh it off and immediately challenge the winner to a rematch",
+          "score": "E"
+        },
+        {
+          "text": "Take a minute to reflect on your mistakes to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Feel a little disappointed but shift focus to a more casual game mode",
+          "score": "F"
+        },
+        {
+          "text": "Log off quietly to process the loss alone before playing again",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a Roblox game to play, you usually pick...",
+      "options": [
+        {
+          "text": "A game recommended by your friends so you can join their current session",
+          "score": "E"
+        },
+        {
+          "text": "A hidden gem with unique mechanics that no one else in your circle has tried",
+          "score": "N"
+        },
+        {
+          "text": "A tried-and-true game you know you’ll enjoy without any surprises",
+          "score": "S"
+        },
+        {
+          "text": "A game that lets you unwind with no pressure to perform well",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If you find a glitch in a Roblox game, you...",
+      "options": [
+        {
+          "text": "Report it to the developer immediately with a detailed description of what happened",
+          "score": "J"
+        },
+        {
+          "text": "Show your friends and spend the next hour finding ways to exploit it for fun",
+          "score": "E"
+        },
+        {
+          "text": "Feel frustrated and switch to a different game until it’s fixed",
+          "score": "F"
+        },
+        {
+          "text": "Analyze how the glitch might work to apply the logic to your own builds",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you plan a Roblox hangout with friends?",
+      "options": [
+        {
+          "text": "Pick a game on the spot based on everyone’s mood that day",
+          "score": "P"
+        },
+        {
+          "text": "Create a detailed schedule with game modes and time limits to keep things organized",
+          "score": "J"
+        },
+        {
+          "text": "Ask each friend for their top game picks to make sure everyone feels included",
+          "score": "F"
+        },
+        {
+          "text": "Suggest a few popular games and let the group vote on which one to play",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you play a Roblox roleplay game, you most often...",
+      "options": [
+        {
+          "text": "Stick to your character’s backstory strictly to keep the roleplay consistent",
+          "score": "S"
+        },
+        {
+          "text": "Improvise new storylines with other players to keep things exciting",
+          "score": "N"
+        },
+        {
+          "text": "Focus on helping other players’ characters achieve their goals",
+          "score": "F"
+        },
+        {
+          "text": "Take charge of the roleplot and guide the group toward a dramatic climax",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you share your Roblox creations with others?",
+      "options": [
+        {
+          "text": "Post them on social media and tag all your friends to get their feedback",
+          "score": "E"
+        },
+        {
+          "text": "Send them privately to a close friend whose opinion you trust",
+          "score": "I"
+        },
+        {
+          "text": "Upload them to the Roblox library without fanfare, letting others find them on their own",
+          "score": "P"
+        },
+        {
+          "text": "Create a showcase video explaining every detail of your build for other creators to learn from",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you encounter a difficult puzzle in Roblox, you...",
+      "options": [
+        {
+          "text": "Try every possible solution randomly until you figure it out",
+          "score": "P"
+        },
+        {
+          "text": "Break the puzzle down into small steps to solve it systematically",
+          "score": "T"
+        },
+        {
+          "text": "Call a friend to help you brainstorm ideas together",
+          "score": "E"
+        },
+        {
+          "text": "Trust your gut instinct to choose the option that feels right",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to unwind with Roblox?",
+      "options": [
+        {
+          "text": "Playing a calm farming game where you can tend to crops at your own pace",
+          "score": "I"
+        },
+        {
+          "text": "Hosting a silly game show for friends with ridiculous challenges",
+          "score": "E"
+        },
+        {
+          "text": "Designing a complex obstacle course to test your building skills",
+          "score": "S"
+        },
+        {
+          "text": "Exploring a surreal, dream-like game world with no clear objectives",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you decide which Roblox items to buy with Robux?",
+      "options": [
+        {
+          "text": "Choose items that let you express your unique style, like a custom outfit that matches your personality",
+          "score": "F"
+        },
+        {
+          "text": "Purchase items that give you a competitive edge, like a faster tool or stronger weapon",
+          "score": "T"
+        },
+        {
+          "text": "Wait for sales and only buy items that are clearly worth the cost",
+          "score": "J"
+        },
+        {
+          "text": "Buy whatever catches your eye in the moment, even if you might not use it often",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Roblox Social Visionary (ENFP)",
+      "description": "You’re the heart of any Roblox community—organizing roleplay events, creating inclusive game worlds, and turning strangers into friends. You prioritize creativity and connection over structure, always brainstorming new ways to make every session feel magical. Your Roblox journey is a reflection of your ENFP spirit: warm, imaginative, and endlessly enthusiastic about bringing people together.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Roblox Community Leader (ENFJ)",
+      "description": "As a natural organizer, you’re the one who mediates conflicts in servers, mentors new players, and builds safe, welcoming spaces for everyone. You remember every friend’s favorite game mode and go out of your way to make sure no one feels left out. Your Roblox experience is rooted in empathy and leadership, mirroring your ENFJ’s knack for uplifting others.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Roblox Innovation Strategist (ENTP)",
+      "description": "You thrive on pushing Roblox’s limits—experimenting with glitch exploits, designing wild game mechanics, and debating meta strategies with other players. You love challenging the status quo, turning every loss into a chance to outsmart your opponents. Your Roblox style is bold and strategic, just like your ENTP personality: curious, competitive, and always one step ahead.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Roblox Game Architect (ENTJ)",
+      "description": "You approach Roblox with a strategic mindset, whether you’re building a competitive base or leading a team to victory. You set clear goals, delegate tasks to friends, and refuse to settle for anything less than perfection. Your Roblox creations are functional and formidable, mirroring your ENTJ’s drive to succeed and lead with confidence.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Roblox Storyteller (INFP)",
+      "description": "For you, Roblox is a canvas for storytelling—you build cozy, narrative-driven worlds, craft intricate character backstories, and lose yourself in quiet roleplay sessions. You value depth over chaos, preferring to connect with a small group of trusted friends rather than large crowds. Your Roblox experience is intimate and heartfelt, just like your INFP soul.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Roblox Creative Mentor (INFJ)",
+      "description": "You see Roblox as a tool for growth, using your building skills to help new creators learn and your empathy to guide players through tough in-game challenges. You create spaces that feel like home, with every detail designed to comfort and inspire. Your Roblox journey is rooted in purpose, reflecting your INFJ’s desire to make a meaningful impact on others.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Roblox Idea Explorer (INTP)",
+      "description": "You’re the Roblox creator who spends hours dissecting game code, experimenting with hidden features, and building contraptions no one else has ever thought of. You care more about the “why” behind mechanics than winning or socializing, often losing track of time while exploring new ideas. Your Roblox style is curious and analytical, just like your INTP mind.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Roblox Precision Builder (INTJ)",
+      "description": "You build Roblox worlds with military precision, following detailed blueprints and optimizing every inch for efficiency. You plan your gaming sessions weeks in advance, setting goals to master specific skills or complete complex projects. Your Roblox experience is intentional and focused, mirroring your INTJ’s knack for turning vision into reality with unwavering discipline.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Roblox Team Player (ESFP)",
+      "description": "You live for the chaos of Roblox’s most competitive games—laughing with friends during minigame tournaments, showing off silly outfits in public servers, and turning every session into a party. You thrive on spontaneity, preferring to play whatever feels fun in the moment rather than planning ahead. Your Roblox style is energetic and joyful, just like your ESFP spirit.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Roblox Event Organizer (ESFJ)",
+      "description": "You’re the one who plans every Roblox hangout down to the last detail—choosing the perfect game, decorating a private server, and making sure everyone has a good time. You love seeing friends smile, often going out of your way to organize surprise events or gift Robux to someone in need. Your Roblox experience is warm and nurturing, reflecting your ESFJ’s focus on others.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Roblox Competitive Champion (ESTP)",
+      "description": "You’re the ultimate Roblox competitor—dominating battle royale games, mastering glitchy movement tricks, and trash-talking opponents with good humor. You love the thrill of the win, always looking for new challenges to test your skills. Your Roblox style is bold and adaptive, just like your ESTP’s knack for thinking on your feet and coming out on top.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Roblox Practical Creator (ESTJ)",
+      "description": "You approach Roblox with a no-nonsense mindset, building functional bases, using efficient strategies to win games, and avoiding unnecessary risks. You prefer to follow proven methods rather than experiment, valuing consistency over creativity. Your Roblox experience is reliable and focused, mirroring your ESTJ’s dedication to structure and practicality.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Roblox Quiet Explorer (ISFP)",
+      "description": "You find peace in Roblox’s quiet corners—exploring hidden forests in story games, painting custom textures for your builds, and playing solo farming sims for hours. You value beauty over competition, often taking screenshots of your favorite in-game moments to keep as memories. Your Roblox journey is calm and introspective, just like your ISFP soul.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Roblox Nurturing Builder (ISFJ)",
+      "description": "You build Roblox worlds that feel like safe havens—cozy cottages, friendly community centers, and quiet libraries where players can unwind. You love helping friends with their builds, offering gentle advice and practical tips to make their creations better. Your Roblox experience is rooted in care and comfort, reflecting your ISFJ’s desire to support those around you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Roblox Skill Master (ISTP)",
+      "description": "You’re the Roblox player who spends hours mastering a single skill—whether it’s speedrunning an obstacle course, building complex redstone contraptions, or sniping opponents with perfect accuracy. You prefer to learn by doing, often ignoring tutorials to figure things out on your own. Your Roblox style is focused and determined, just like your ISTP’s knack for hands-on problem-solving.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Roblox Methodical Planner (ISTJ)",
+      "description": "You play Roblox with precision, following strict schedules for gaming sessions, using checklists to complete build projects, and keeping track of every Robux transaction. You value order and consistency, preferring to stick to your favorite games rather than trying new ones. Your Roblox experience is organized and reliable, mirroring your ISTJ’s dedication to structure and tradition.",
+      "mbti": "ISTJ"
+    }
+  ]
+}

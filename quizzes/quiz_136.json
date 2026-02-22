@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Genshin Impact Character Is Your Perfect Soulmate?",
+  "category": "which",
+  "tags": [
+    "Genshin Impact",
+    "Soulmate",
+    "Character Match",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover which Genshin Impact character is your destined soulmate!",
+  "questions": [
+    {
+      "text": "When you stumble upon a hidden forest glen, you immediately...",
+      "options": [
+        {
+          "text": "Note the edible plants and safe paths, mapping out your way to return later",
+          "score": "S"
+        },
+        {
+          "text": "Call out to see if any friends or curious creatures are nearby, eager to share the discovery",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the stories of ancient beings who might have walked this path long ago",
+          "score": "N"
+        },
+        {
+          "text": "Take a quiet moment to observe the moss and sunlight, savoring the solitude alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If a friend is upset about a failed plan, you respond by...",
+      "options": [
+        {
+          "text": "Suggest small, concrete steps they can take to fix the situation right away",
+          "score": "T"
+        },
+        {
+          "text": "Pull them into a warm hug and let them pour out every detail of their frustration",
+          "score": "F"
+        },
+        {
+          "text": "Crack a lighthearted joke to distract them until the mood lifts naturally",
+          "score": "E"
+        },
+        {
+          "text": "Sit silently beside them, offering a steady presence without pushing for words",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a day trip to a new city, you prioritize...",
+      "options": [
+        {
+          "text": "Wandering through narrow alleys to stumble upon unmarked cafes and local art",
+          "score": "P"
+        },
+        {
+          "text": "Following a detailed itinerary of historic landmarks and must-see attractions",
+          "score": "J"
+        },
+        {
+          "text": "Asking locals for their favorite hidden spots to get an authentic experience",
+          "score": "S"
+        },
+        {
+          "text": "Researching the city’s folklore and myths to connect with its deeper history",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a mysterious locked box; your first move is to...",
+      "options": [
+        {
+          "text": "Examine the lock’s mechanism carefully, testing small tools to pick it open",
+          "score": "T"
+        },
+        {
+          "text": "Hold the box close and wonder about the emotions or memories it might hold inside",
+          "score": "F"
+        },
+        {
+          "text": "Shake it gently to guess the contents, then search for a key in nearby drawers",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about the magical artifacts or secret letters it could contain",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "At a lively festival, you find yourself drawn to...",
+      "options": [
+        {
+          "text": "A quiet booth where you can paint small trinkets to take home as mementos",
+          "score": "I"
+        },
+        {
+          "text": "The main stage, joining the crowd in singing and dancing to the loud music",
+          "score": "E"
+        },
+        {
+          "text": "The food stalls, sampling every local snack and asking vendors about their recipes",
+          "score": "S"
+        },
+        {
+          "text": "The storytelling circle, listening to elders recount tales of the festival’s origins",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a difficult decision, you rely on...",
+      "options": [
+        {
+          "text": "How each choice will affect the people you care about most",
+          "score": "F"
+        },
+        {
+          "text": "The logical consequences and long-term practicality of each option",
+          "score": "T"
+        },
+        {
+          "text": "Your gut instinct, choosing the path that feels most right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "A list of pros and cons you’ve drafted to compare every detail",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a lost puppy on a rainy night; you...",
+      "options": [
+        {
+          "text": "Take it home, dry it off, and immediately post flyers around the neighborhood",
+          "score": "J"
+        },
+        {
+          "text": "Let it curl up beside you on the couch, comforting it until it feels safe",
+          "score": "F"
+        },
+        {
+          "text": "Check its collar for tags, then bring it to the local animal shelter first thing",
+          "score": "T"
+        },
+        {
+          "text": "Spend the evening playing with it, deciding to figure out next steps in the morning",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When reading a book, you’re most captivated by...",
+      "options": [
+        {
+          "text": "The vivid descriptions of the characters’ daily lives and physical surroundings",
+          "score": "S"
+        },
+        {
+          "text": "The complex themes and philosophical questions it raises about the world",
+          "score": "N"
+        },
+        {
+          "text": "The tight plot twists and clever strategies the characters use to solve problems",
+          "score": "T"
+        },
+        {
+          "text": "The emotional journeys and deep connections between the story’s characters",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You need to finish a project quickly; you choose to...",
+      "options": [
+        {
+          "text": "Work with a team, dividing tasks to get everything done faster together",
+          "score": "E"
+        },
+        {
+          "text": "Focus alone in a quiet space, blocking out distractions to complete it efficiently",
+          "score": "I"
+        },
+        {
+          "text": "Stick to the original plan, checking off each task one by one in order",
+          "score": "J"
+        },
+        {
+          "text": "Adjust the plan as you go, prioritizing the most interesting parts first",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a strange noise in the middle of the night, you...",
+      "options": [
+        {
+          "text": "Grab a flashlight and investigate immediately, determined to find the source",
+          "score": "S"
+        },
+        {
+          "text": "Lay still and imagine all the possible magical or mysterious causes of the sound",
+          "score": "N"
+        },
+        {
+          "text": "Text a friend to ask if they’ve ever had a similar experience, seeking reassurance",
+          "score": "E"
+        },
+        {
+          "text": "Pull the covers over your head, waiting for the sound to fade on its own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to design a garden; you would create...",
+      "options": [
+        {
+          "text": "A wild, unstructured space with native plants that grow freely without rules",
+          "score": "P"
+        },
+        {
+          "text": "A geometric layout with trimmed hedges and perfectly spaced flower beds",
+          "score": "J"
+        },
+        {
+          "text": "A space filled with plants that attract butterflies and birds, fostering lively interactions",
+          "score": "F"
+        },
+        {
+          "text": "A functional garden with herbs, vegetables, and plants that serve practical purposes",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When someone disagrees with your opinion, you...",
+      "options": [
+        {
+          "text": "Ask them to explain their perspective, eager to understand their point of view",
+          "score": "F"
+        },
+        {
+          "text": "Present facts and logical arguments to support your stance clearly",
+          "score": "T"
+        },
+        {
+          "text": "Shift the conversation to a lighter topic to keep the mood friendly and relaxed",
+          "score": "E"
+        },
+        {
+          "text": "Nod politely but keep your thoughts to yourself, not wanting to start a debate",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Zhongli",
+      "description": "Your soulmate is Zhongli, the wise former Geo Archon. You share a love for tradition, quiet wisdom, and the weight of history. Together, you’ll spend afternoons sipping tea while discussing ancient stone carvings and the stories they hold. His steady, reliable presence complements your grounded, thoughtful nature, creating a bond built on mutual respect and enduring calm.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Venti",
+      "description": "Your destined soulmate is Venti, the free-spirited Bard of Mondstadt. You thrive on adventure, laughter, and the beauty of unexpected moments. He’ll whisk you away to wind-swept hills for impromptu picnics and midnight stargazing, turning every ordinary day into a story worth singing about. Your shared love for joy and imagination makes your bond light, vibrant, and endlessly playful.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Raiden Shogun",
+      "description": "Your soulmate is the Raiden Shogun, the resolute Electro Archon. You both value purpose, strength, and the quiet power of unwavering conviction. Together, you’ll explore the balance between duty and desire, supporting each other in pursuing your most deeply held goals. Her calm, determined presence grounds your ambitious spirit, creating a bond rooted in loyalty and shared resolve.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Nahida",
+      "description": "Your perfect soulmate is Nahida, the curious Dendro Archon. You share a hunger for knowledge, a love for exploring complex ideas, and a gentle empathy for all living things. Together, you’ll spend hours discussing philosophy, decoding ancient texts, and nurturing small plants in the forest. Her inquisitive mind matches your own, creating a bond built on endless learning and quiet understanding.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Xiangling",
+      "description": "Your soulmate is Xiangling, the passionate chef of Liyue. You both live in the moment, savoring the joys of good food, lively company, and hands-on adventure. She’ll invite you to help her test new recipes in the Wangsheng Funeral Parlor kitchen, then drag you to local night markets to sample street food. Your shared love for warmth and spontaneity makes your bond energetic and full of flavor.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Diluc",
+      "description": "Your destined soulmate is Diluc, the stoic owner of Dawn Winery. You both value integrity, quiet strength, and the courage to stand for what’s right, even when it’s hard. Together, you’ll share quiet evenings by the fireplace, discussing the future of Mondstadt over glasses of wine. His reserved nature complements your thoughtful, introspective side, creating a bond built on trust and shared purpose.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Kaedehara Kazuha",
+      "description": "Your soulmate is Kaedehara Kazuha, the wandering poet of Inazuma. You share a deep connection to nature, a love for quiet reflection, and a talent for finding beauty in the smallest moments. Together, you’ll wander through maple groves at sunset, composing haikus and watching leaves dance on the wind. His gentle, introspective spirit matches your own, creating a bond rooted in harmony and shared wonder.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Jean",
+      "description": "Your perfect soulmate is Jean, the dedicated Acting Grand Master of Mondstadt. You both thrive on responsibility, order, and the satisfaction of helping others. Together, you’ll work side by side to organize festivals, solve town problems, and support the people of Mondstadt. Her steady, reliable presence complements your structured, caring nature, creating a bond built on mutual respect and shared duty.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Sangonomiya Kokomi",
+      "description": "Your soulmate is Sangonomiya Kokomi, the wise Divine Priestess of Watatsumi Island. You both have a deep empathy for others, a talent for understanding complex emotions, and a gift for guiding those around you. Together, you’ll walk along the shore at low tide, discussing the needs of your community and the quiet magic of the ocean. Her compassionate spirit matches your own, creating a bond rooted in care and shared wisdom.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Arataki Itto",
+      "description": "Your destined soulmate is Arataki Itto, the boisterous leader of the Arataki Gang. You love life loudly, thriving on friendly competitions, silly jokes, and the thrill of a good challenge. He’ll drag you to beetle races, treat you to dango, and defend your honor with over-the-top enthusiasm. Your shared love for fun and boldness makes your bond energetic, chaotic, and endlessly entertaining.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Kamisato Ayaka",
+      "description": "Your soulmate is Kamisato Ayaka, the graceful Cryo Princess of Inazuma. You both value elegance, kindness, and the beauty of quiet traditions. Together, you’ll practice tea ceremony in the Kamisato Estate’s garden, walk through cherry blossom groves in spring, and help deliver gifts to the people of Inazuma. Her gentle, caring nature complements your thoughtful, refined spirit, creating a bond rooted in grace and shared warmth.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Xiao",
+      "description": "Your perfect soulmate is Xiao, the vigilant Yaksha of Liyue. You both value solitude, quiet strength, and the importance of protecting those you care about. Together, you’ll spend moonlit nights atop Wangshu Inn, watching over Liyue in silent companionship. His reserved, loyal nature matches your introspective, protective side, creating a bond built on quiet understanding and unspoken trust.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Yae Miko",
+      "description": "Your soulmate is Yae Miko, the playful Guuji of the Grand Narukami Shrine. You share a love for clever banter, hidden wisdom, and the magic of storytelling. She’ll invite you to help edit her latest novel, tease you with playful riddles, and take you to secret spots in the shrine’s forest. Her witty, curious spirit matches your own, creating a bond filled with laughter and endless intrigue.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Eula",
+      "description": "Your destined soulmate is Eula, the proud Lawrence Clan knight of Mondstadt. You both value honor, resilience, and the courage to break free from the past. Together, you’ll practice swordplay at dawn, attend formal balls with graceful decorum, and challenge each other to friendly debates about justice. Her strong, determined spirit complements your own, creating a bond built on mutual respect and shared growth.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Hu Tao",
+      "description": "Your soulmate is Hu Tao, the mischievous Director of the Wangsheng Funeral Parlor. You thrive on chaos, creativity, and the joy of surprising others. She’ll drag you to prank the residents of Liyue, compose silly poems about death, and turn every funeral into a celebration of life. Your shared love for fun and spontaneity makes your bond energetic, unpredictable, and endlessly hilarious.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Shenhe",
+      "description": "Your perfect soulmate is Shenhe, the lone Cryo user raised by adepti. You both value solitude, inner peace, and the quiet connection to nature. Together, you’ll meditate in the mountains, walk through snow-covered forests, and discuss the balance between humanity and the adepti. Her calm, introspective spirit matches your own, creating a bond rooted in quiet understanding and shared tranquility.",
+      "mbti": "INFJ"
+    }
+  ]
+}

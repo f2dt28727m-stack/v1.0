@@ -1,0 +1,348 @@
+{
+  "quizId": 1001,
+  "title": "What’s Your Hidden Billie Eilish-Aligned Trait?",
+  "category": "hidden",
+  "tags": [
+    "Billie Eilish",
+    "Hidden Traits",
+    "Personality Quiz",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your hidden trait inspired by Billie Eilish!",
+  "questions": [
+    {
+      "text": "On a quiet evening, you find yourself drawn to...",
+      "options": [
+        {
+          "text": "Reorganizing your vinyl collection by release year, ensuring every cover faces outward neatly",
+          "score": "S"
+        },
+        {
+          "text": "Curling up with a notebook and pen, scribbling down raw, unfiltered thoughts no one else will read",
+          "score": "I"
+        },
+        {
+          "text": "Inviting two close friends over to listen to unreleased tracks and dissect their lyrical layers",
+          "score": "E"
+        },
+        {
+          "text": "Daydreaming about a surreal music video where you’re the star, expressing emotions through bold, unconventional visuals",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a new song that moves you, you first...",
+      "options": [
+        {
+          "text": "Analyze the song’s chord progression and production choices, figuring out why it resonates so deeply",
+          "score": "T"
+        },
+        {
+          "text": "Text a friend immediately to share the link, gushing about how it made you feel",
+          "score": "F"
+        },
+        {
+          "text": "Let the music wash over you, letting your mind wander to whatever memory or idea it sparks",
+          "score": "P"
+        },
+        {
+          "text": "Add it to a curated playlist you’ve been building for months, matching it to specific moods and moments",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you had to perform for an audience, you’d most likely choose to...",
+      "options": [
+        {
+          "text": "Tell personal stories between songs, connecting with the audience on an intimate, emotional level",
+          "score": "F"
+        },
+        {
+          "text": "Improvise a routine based on the energy of the crowd, feeding off their reactions to guide your performance",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the technical precision of your delivery, making sure every beat and line hits with maximum impact",
+          "score": "T"
+        },
+        {
+          "text": "Stick to a meticulously rehearsed setlist, ensuring every note and movement is exactly as planned",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When someone asks you to describe yourself, you tend to...",
+      "options": [
+        {
+          "text": "Share funny anecdotes about recent adventures, making sure the conversation stays light and engaging",
+          "score": "E"
+        },
+        {
+          "text": "Talk about the experiences that shaped you, like childhood memories or pivotal moments in your life",
+          "score": "S"
+        },
+        {
+          "text": "Laugh and redirect the question, preferring to hear about their life instead of sharing your own",
+          "score": "I"
+        },
+        {
+          "text": "Paint a vivid picture of the person you want to become, rather than who you are right now",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a blank canvas to create something—you decide to...",
+      "options": [
+        {
+          "text": "Sketch a detailed portrait of a person you observed on the street, capturing every tiny facial expression",
+          "score": "S"
+        },
+        {
+          "text": "Invite a friend to collaborate, bouncing ideas off each other and creating something together",
+          "score": "E"
+        },
+        {
+          "text": "Paint a series of abstract shapes and colors that represent how you’ve been feeling lately",
+          "score": "N"
+        },
+        {
+          "text": "Work alone in silence, losing track of time as you refine every detail until it feels perfect",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a conflict with someone close, you...",
+      "options": [
+        {
+          "text": "Address it spontaneously when the moment feels right, trusting your intuition to guide the conversation",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize understanding their feelings first, even if it means setting aside your own temporarily",
+          "score": "F"
+        },
+        {
+          "text": "Schedule a specific time to talk, preparing notes to make sure you cover all important points",
+          "score": "J"
+        },
+        {
+          "text": "Focus on finding a logical solution that addresses both of your needs fairly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal way to process a difficult emotion is to...",
+      "options": [
+        {
+          "text": "Throw a small dance party in your room, blasting loud music to release the pent-up energy",
+          "score": "E"
+        },
+        {
+          "text": "Write it down in a journal, breaking down exactly what you’re feeling and why",
+          "score": "T"
+        },
+        {
+          "text": "Go for a long walk in nature, letting the quiet surroundings help you sort through your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "Talk it through with a trusted friend, letting yourself cry or vent without holding back",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip, you most look forward to...",
+      "options": [
+        {
+          "text": "Leaving most of the schedule open, deciding what to do based on how you feel each morning",
+          "score": "P"
+        },
+        {
+          "text": "Visiting famous landmarks and trying local foods you’ve read about in guidebooks",
+          "score": "S"
+        },
+        {
+          "text": "Booking a structured itinerary with specific activities planned for each day",
+          "score": "J"
+        },
+        {
+          "text": "Wandering aimlessly through backstreets, discovering hidden gems you never would have found otherwise",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You receive a handwritten letter from a stranger—your first reaction is to...",
+      "options": [
+        {
+          "text": "Let yourself feel the emotion behind their words, wondering what led them to reach out to you",
+          "score": "F"
+        },
+        {
+          "text": "Read it slowly multiple times, analyzing the handwriting and tone to guess their personality",
+          "score": "I"
+        },
+        {
+          "text": "Write back immediately, sharing a bit about your life and asking them about theirs",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the practical details of their message, noting any specific requests or questions they have",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When tasked with a group project, you naturally take on the role of...",
+      "options": [
+        {
+          "text": "The collaborator, checking in with each team member to make sure they feel heard and supported",
+          "score": "F"
+        },
+        {
+          "text": "The idea generator, suggesting wild and creative concepts that push the boundaries of the project",
+          "score": "N"
+        },
+        {
+          "text": "The executor, focusing on completing concrete tasks that move the project forward quickly",
+          "score": "S"
+        },
+        {
+          "text": "The organizer, creating a timeline and assigning tasks to ensure everything stays on track",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A song comes on that you haven’t heard in years—you...",
+      "options": [
+        {
+          "text": "Close your eyes and let the memories associated with the song wash over you quietly",
+          "score": "I"
+        },
+        {
+          "text": "Listen closely to the instrumentation, noticing subtle details you never picked up on before",
+          "score": "S"
+        },
+        {
+          "text": "Call up a friend who introduced you to the song, reminiscing about the time you first heard it",
+          "score": "E"
+        },
+        {
+          "text": "Start imagining a new music video for the song, reimagining it in a completely different style",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your approach to making big life decisions is to...",
+      "options": [
+        {
+          "text": "Trust your gut feeling, choosing the option that makes your heart feel the most at peace",
+          "score": "F"
+        },
+        {
+          "text": "Leave room for flexibility, knowing you can adjust your plans as new opportunities arise",
+          "score": "P"
+        },
+        {
+          "text": "Make a pros and cons list, weighing each option based on its practical long-term impact",
+          "score": "T"
+        },
+        {
+          "text": "Plan every step of the way, ensuring you have a clear roadmap for whatever comes next",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Introspective Lyricist (INFP)",
+      "description": "You’re the Introspective Lyricist—quietly passionate, deeply sensitive, and unafraid to embrace your raw, unfiltered truth, just like Billie. You find solace in writing down your innermost thoughts and often connect with others through subtle, heartfelt expressions. Your INFP nature makes you a dreamer who values authenticity over conformity.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Free-Spirited Storyteller (ENFP)",
+      "description": "You’re the Free-Spirited Storyteller—vibrant, imaginative, and obsessed with turning everyday moments into magical narratives, mirroring Billie’s ability to blend whimsy with depth. You thrive on connecting with others through shared stories and aren’t afraid to challenge the status quo. Your ENFP energy makes you a natural catalyst for joy and creativity.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Mystic Empath (INFJ)",
+      "description": "You’re the Mystic Empath—perceptive, intuitive, and gifted at understanding the unspoken feelings of those around you, much like Billie’s ability to tap into universal emotions. You keep your true self guarded but reveal layers to trusted few. Your INFJ nature makes you a quiet leader who guides others with compassion and wisdom.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Compassionate Catalyst (ENFJ)",
+      "description": "You’re the Compassionate Catalyst—warm, charismatic, and driven to lift others up, echoing Billie’s advocacy for self-acceptance. You have a knack for bringing people together and creating safe spaces for vulnerability. Your ENFJ energy makes you a natural mentor who inspires others to embrace their authentic selves.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Strategic Visionary (INTJ)",
+      "description": "You’re the Strategic Visionary—sharp, independent, and always thinking several steps ahead, similar to Billie’s deliberate approach to her art. You value precision over chaos and aren’t afraid to carve your own path. Your INTJ nature makes you a problem-solver who turns bold ideas into tangible, impactful realities.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Bold Architect (ENTJ)",
+      "description": "You’re the Bold Architect—confident, decisive, and unapologetically direct, mirroring Billie’s fearless attitude toward breaking industry norms. You excel at organizing people and projects to achieve ambitious goals. Your ENTJ energy makes you a natural leader who isn’t afraid to take charge and make tough calls.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Curious Innovator (INTP)",
+      "description": "You’re the Curious Innovator—analytical, curious, and obsessed with unpacking the ‘why’ behind every concept, just like Billie’s deep dive into complex lyrical themes. You love exploring new ideas and often get lost in hours of research. Your INTP nature makes you a creative problem-solver who thinks outside every box.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Witty Provocateur (ENTP)",
+      "description": "You’re the Witty Provocateur—quick-witted, playful, and always ready to challenge conventional thinking, echoing Billie’s rebellious yet lighthearted spirit. You thrive on debates and love surprising others with unexpected perspectives. Your ENTP energy makes you a natural entertainer who keeps every interaction engaging.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Quiet Maverick (ISFP)",
+      "description": "You’re the Quiet Maverick—artistic, unassuming, and fiercely true to your unique style, much like Billie’s understated yet iconic aesthetic. You express yourself through creative acts rather than words and value freedom above all else. Your ISFP nature makes you a gentle rebel who lives life on their own terms.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Vibrant Performer (ESFP)",
+      "description": "You’re the Vibrant Performer—energetic, spontaneous, and born to be in the spotlight, mirroring Billie’s electrifying stage presence. You live for the moment and love making others laugh with your infectious charm. Your ESFP energy makes you the life of any gathering, turning ordinary days into unforgettable adventures.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Unassuming Problem-Solver (ISTP)",
+      "description": "You’re the Unassuming Problem-Solver—calm, practical, and gifted at fixing just about anything, similar to Billie’s hands-on approach to her music production. You prefer action over words and thrive in high-pressure situations. Your ISTP nature makes you a reliable go-to person who gets things done without fanfare.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Spontaneous Daredevil (ESTP)",
+      "description": "You’re the Spontaneous Daredevil—bold, adventurous, and always seeking your next thrill, echoing Billie’s willingness to take creative risks. You love pushing boundaries and aren’t afraid to try something new on a whim. Your ESTP energy makes you a fearless explorer who lives life to the fullest every day.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Nurturing Guardian (ISFJ)",
+      "description": "You’re the Nurturing Guardian—kind, dependable, and always looking out for the people you love, much like Billie’s loyalty to her close circle. You remember the small details that matter and go out of your way to make others feel cared for. Your ISFJ nature makes you a steady presence everyone can count on.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Warm Connector (ESFJ)",
+      "description": "You’re the Warm Connector—sociable, generous, and obsessed with making everyone feel included, mirroring Billie’s ability to connect with fans on a personal level. You thrive in group settings and love organizing gatherings that bring people together. Your ESFJ energy makes you the heart of your community.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Reliable Steward (ISTJ)",
+      "description": "You’re the Reliable Steward—responsible, detail-oriented, and committed to doing things the right way, similar to Billie’s dedication to her craft. You value tradition and consistency, and others trust you to follow through on every promise. Your ISTJ nature makes you a rock-solid foundation for any team or relationship.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Grounded Organizer (ESTJ)",
+      "description": "You’re the Grounded Organizer—practical, efficient, and gifted at creating order out of chaos, echoing Billie’s structured approach to her career. You excel at planning and executing tasks, and others look to you for guidance in stressful situations. Your ESTJ nature makes you a trustworthy leader who gets results.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

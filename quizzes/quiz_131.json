@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Brawl Stars Obsessed Are You?",
+  "category": "how",
+  "tags": [
+    "Brawl Stars",
+    "Gaming Personality",
+    "Player Traits",
+    "MBTI",
+    "Personality Quiz"
+  ],
+  "description": "Answer 12 questions to discover how deeply you embody the spirit of a Brawl Stars player!",
+  "questions": [
+    {
+      "text": "When your clan announces a last-minute tournament, you…",
+      "options": [
+        {
+          "text": "Ask to review past clan match replays first to identify weak spots we can fix",
+          "score": "S"
+        },
+        {
+          "text": "Race to form a team with your closest clanmates, hyping everyone up for the competition",
+          "score": "E"
+        },
+        {
+          "text": "Spend 10 minutes brainstorming unorthodox team compositions no one else will expect",
+          "score": "N"
+        },
+        {
+          "text": "Join quietly, preferring to focus on your own performance rather than leading chants",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You just unlocked a new brawler you’ve never used before. You…",
+      "options": [
+        {
+          "text": "Watch a pro player’s guide to master their exact combo sequences and optimal maps",
+          "score": "S"
+        },
+        {
+          "text": "Jump straight into casual matches, experimenting with wild loadouts and playstyles just for fun",
+          "score": "P"
+        },
+        {
+          "text": "List out their strengths and weaknesses against every brawler in your current roster",
+          "score": "T"
+        },
+        {
+          "text": "Text your brawling group chat to celebrate, asking them to play a few rounds with you to test the new character",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "During a ranked match, your teammate keeps making reckless plays. You…",
+      "options": [
+        {
+          "text": "Mute their chat and adjust your strategy to cover their mistakes as best you can",
+          "score": "T"
+        },
+        {
+          "text": "Type a quick, encouraging message: \"No worries—let’s stick together for the next push!\"",
+          "score": "F"
+        },
+        {
+          "text": "Immediately call them out for being careless, demanding they follow your lead",
+          "score": "E"
+        },
+        {
+          "text": "Focus on your own objectives, deciding to solo carry the match if possible instead of relying on them",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You see a Brawl Stars cosplayer at a convention. You…",
+      "options": [
+        {
+          "text": "Walk up and ask them about their favorite brawler and go-to strategies, striking up a long conversation",
+          "score": "E"
+        },
+        {
+          "text": "Smile and wave from across the room, but don’t approach—you don’t want to interrupt their day",
+          "score": "I"
+        },
+        {
+          "text": "Take a photo to show your Brawl Stars friends later, noting the tiny details of their costume design",
+          "score": "S"
+        },
+        {
+          "text": "Imagine a custom game mode where cosplayers could fight as their favorite brawlers, brainstorming rules for the event",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You have 30 minutes free before dinner. You…",
+      "options": [
+        {
+          "text": "Set a timer and grind exactly two ranked matches to hit the next tier before eating",
+          "score": "J"
+        },
+        {
+          "text": "Play casual matches without a goal, stopping whenever you feel like it to head to dinner",
+          "score": "P"
+        },
+        {
+          "text": "Spend the time organizing your brawler skins and loadouts to make sure everything is optimized",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm a new fan theory about the Brawl Stars lore, writing down your ideas in notes",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend asks for tips to improve their win rate. You…",
+      "options": [
+        {
+          "text": "Walk them through a step-by-step guide to map control and objective prioritization",
+          "score": "T"
+        },
+        {
+          "text": "Share a personal story about a time you struggled, then tell them how you overcame it with practice",
+          "score": "F"
+        },
+        {
+          "text": "Invite them to play a few rounds with you, pointing out mistakes in real time and helping them adjust",
+          "score": "E"
+        },
+        {
+          "text": "Send them a link to your favorite pro player’s channel, telling them to study their gameplay for tips",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The game releases a major balance update. You…",
+      "options": [
+        {
+          "text": "Read the full patch notes word for word, noting every stat change and how it affects your main brawlers",
+          "score": "S"
+        },
+        {
+          "text": "Jump into matches immediately, testing how the changes feel in real gameplay without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "Make a spreadsheet comparing pre- and post-update stats to calculate optimal build paths",
+          "score": "T"
+        },
+        {
+          "text": "Join your clan’s Discord to debate the changes with everyone, sharing your emotional reactions to the nerfs and buffs",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You lose three ranked matches in a row. You…",
+      "options": [
+        {
+          "text": "Take a break to stretch and grab a snack, then come back with a fresh mindset to try again",
+          "score": "F"
+        },
+        {
+          "text": "Analyze each replay to pinpoint exactly what you did wrong and how to fix it next time",
+          "score": "T"
+        },
+        {
+          "text": "Switch to your favorite casual brawler to play a few fun matches and rebuild your confidence",
+          "score": "N"
+        },
+        {
+          "text": "Quit for the night, deciding to focus on a different hobby instead of getting frustrated",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re creating a custom map for your clan. You…",
+      "options": [
+        {
+          "text": "Design it around a specific brawler’s strengths, making sure every corner has a purpose for their playstyle",
+          "score": "S"
+        },
+        {
+          "text": "Build a chaotic map with random obstacles and hidden power-ups, just to see how your clan reacts",
+          "score": "P"
+        },
+        {
+          "text": "Vote on map themes with your clan first, making sure everyone’s ideas are included in the final design",
+          "score": "F"
+        },
+        {
+          "text": "Sketch out a detailed blueprint with exact dimensions and objective locations before starting",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You win a rare skin in a loot box. You…",
+      "options": [
+        {
+          "text": "Post a screenshot to your social media, tagging your Brawl Stars friends to show off your luck",
+          "score": "E"
+        },
+        {
+          "text": "Add it to your collection quietly, enjoying it only when you play that brawler alone",
+          "score": "I"
+        },
+        {
+          "text": "Compare it to your other skins, noting the unique animations and sound effects it has",
+          "score": "S"
+        },
+        {
+          "text": "Imagine backstories for the skin, creating a whole narrative around how the brawler got their new look",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite brawler gets a major nerf. You…",
+      "options": [
+        {
+          "text": "Pivot to a similar brawler with unadjusted stats, creating a new strategy to climb ranks again",
+          "score": "T"
+        },
+        {
+          "text": "Mourn the change with your clan, venting about how the devs ruined your main character",
+          "score": "F"
+        },
+        {
+          "text": "Test the nerfed brawler in every game mode, finding new ways to use their weakened abilities effectively",
+          "score": "P"
+        },
+        {
+          "text": "Immediately check the dev forum to see if there are plans to reverse the nerf, leaving a polite feedback comment",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re at a family gathering, and someone mentions they play Brawl Stars. You…",
+      "options": [
+        {
+          "text": "Pull out your phone and challenge them to a quick 1v1 match right there to settle who’s better",
+          "score": "E"
+        },
+        {
+          "text": "Ask them about their favorite brawler and playstyle, enjoying a quiet conversation about the game",
+          "score": "I"
+        },
+        {
+          "text": "Explain the current meta in detail, pointing out which brawlers are dominating ranked play right now",
+          "score": "S"
+        },
+        {
+          "text": "Suggest starting a family Brawl Stars tournament next weekend, brainstorming rules and prize ideas",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "ISTJ: The Methodical Shelly Main",
+      "description": "You’re the reliable backbone of every team, just like Shelly. You stick to proven strategies, master every detail of your main brawler, and always show up prepared. Your ISTJ traits make you consistent and trustworthy—clan members know they can count on you to hold the objective and cover their backs. You prioritize discipline over chaos, turning every match into a calculated victory.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "ISFJ: The Nurturing Pam Main",
+      "description": "You’re the team healer both in and out of the arena, mirroring Pam’s caring nature. You always check in on your teammates, adjust your strategy to support their playstyles, and celebrate their wins like your own. Your ISFJ heart makes you the glue that holds clans together, turning tense matches into fun, collaborative experiences where everyone feels valued.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "INFJ: The Mystical Mortis Main",
+      "description": "You’re a quiet strategist with a deep understanding of the game’s hidden layers, just like Mortis. You see patterns others miss, plan several moves ahead, and use subtle tactics to outsmart opponents. Your INFJ intuition lets you predict enemy plays before they happen, turning every match into a chess game where you’re always three steps ahead.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "INTJ: The Strategic Spike Main",
+      "description": "You’re the mastermind of the arena, much like Spike’s explosive, calculated plays. You build complex strategies, optimize every aspect of your loadout, and never let emotions cloud your judgment. Your INTJ logic makes you unstoppable in ranked play, where you turn even the most hopeless matches into wins with your brilliant, unorthodox plans.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "ISTP: The Adaptive Colt Main",
+      "description": "You’re the ultimate improviser, just like Colt’s versatile playstyle. You thrive in chaos, adjust your strategy mid-match, and turn unexpected mistakes into opportunities. Your ISTP flexibility lets you master any brawler on the fly, making you a wildcard opponents can never predict—you’re equally comfortable sniping from afar or rushing in for close-quarters fights.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "ISFP: The Artistic Rosa Main",
+      "description": "You play the game with a unique, creative flair, much like Rosa’s connection to nature. You prefer aesthetically pleasing playstyles, experiment with underrated brawlers, and find joy in the beauty of a perfectly executed move. Your ISFP spirit makes you a refreshing player to team up with—you turn every match into a self-expression of your love for the game.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "INFP: The Idealistic Sandy Main",
+      "description": "You’re a dreamer who plays for the love of the game, mirroring Sandy’s laid-back, visionary vibe. You focus on fun over ranks, create fan theories about the lore, and see the game as a way to connect with others. Your INFP heart makes you a kind teammate who lifts others up, turning even losing matches into memorable experiences filled with laughter and creativity.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "INTP: The Inventive Barley Main",
+      "description": "You’re the game’s mad scientist, just like Barley’s experimental, explosive playstyle. You spend hours testing new loadouts, breaking meta rules, and inventing completely unorthodox strategies. Your INTP curiosity drives you to push the game’s limits—opponents are confused by your weird but effective plays, while clan members look to you for fresh, innovative ideas.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "ESTJ: The Leader Jessie Main",
+      "description": "You’re the natural leader of any clan, much like Jessie’s commanding presence. You organize tournaments, set clear goals for your team, and hold everyone to a high standard. Your ESTJ discipline makes your clan a force to be reckoned with—you turn casual groups into competitive powerhouses, ensuring every member knows their role and works towards victory.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "ESFJ: The Cheerful Bull Main",
+      "description": "You’re the life of the brawling party, just like Bull’s outgoing, energetic vibe. You hype up your teammates, celebrate every small win, and turn ranked matches into social events. Your ESFJ warmth makes you the most popular member of any clan—everyone loves playing with you because you make even the most stressful matches feel like a fun hangout with friends.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "ENFJ: The Inspiring Max Main",
+      "description": "You’re the motivational coach of every team, mirroring Max’s fast-paced, uplifting playstyle. You see the potential in every teammate, push them to be their best, and lead by example with your bold plays. Your ENFJ charisma makes you a natural clan leader—you turn average players into stars, creating a supportive environment where everyone feels motivated to improve.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "ENTJ: The Dominating Surge Main",
+      "description": "You’re the ruthless competitor who always aims for first place, just like Surge’s aggressive, climb-focused playstyle. You dominate ranked matches, outstrategize every opponent, and turn every clan into a winning machine. Your ENTJ drive makes you a legend in the arena—opponents fear your name, while teammates respect your ability to lead them to victory after victory.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "ESTP: The Bold Crow Main",
+      "description": "You’re the risk-taker who thrives on adrenaline, much like Crow’s sneaky, high-stakes playstyle. You rush into battles, take bold risks, and turn every match into an exciting adventure. Your ESTP impulsivity makes you a thrill to watch—you’re equally likely to pull off a game-winning clutch or a hilarious mistake, but you never let losses bring you down.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "ESFP: The Fun-Loving Brock Main",
+      "description": "You play the game for pure enjoyment, just like Brock’s explosive, carefree vibe. You prefer casual matches over ranked, joke around with teammates, and celebrate even the smallest wins. Your ESFP energy makes you the most fun teammate to have—you turn every match into a party, and you never take the game so seriously that it stops being fun.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "ENFP: The Visionary Leon Main",
+      "description": "You’re the creative dreamer who sees endless possibilities in the game, much like Leon’s hidden, mysterious playstyle. You invent custom game modes, brainstorm new brawler concepts, and encourage your clan to think outside the box. Your ENFP imagination makes you a source of inspiration—you turn the game into a canvas for your ideas, making every experience feel fresh and exciting.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "ENTP: The Trickster Dynamike Main",
+      "description": "You’re the chaotic genius who loves to outsmart opponents, just like Dynamike’s unpredictable, explosive playstyle. You prank enemies with wild bomb throws, invent meta-breaking strategies, and turn every match into a playful mind game. Your ENTP wit makes you a fan favorite—teammates laugh at your antics, while opponents never know what you’ll do next.",
+      "mbti": "ENTP"
+    }
+  ]
+}

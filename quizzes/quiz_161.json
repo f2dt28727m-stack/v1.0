@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Would You Do in the Yellowjackets Wilderness?",
+  "category": "whatwould",
+  "tags": [
+    "Yellowjackets",
+    "Wilderness Survival",
+    "Personality Test",
+    "MBTI",
+    "What Would You Do"
+  ],
+  "description": "Answer 12 questions to discover how you’d react in the harrowing wilderness of Yellowjackets and uncover your hidden personality tendencies.",
+  "questions": [
+    {
+      "text": "You wake up disoriented after the crash, surrounded by chaos and scattered debris. What’s your first move?",
+      "options": [
+        {
+          "text": "Scan the immediate area for edible plants and drinkable water sources",
+          "score": "S"
+        },
+        {
+          "text": "Call out loudly to locate any conscious teammates nearby",
+          "score": "E"
+        },
+        {
+          "text": "Climb a small hill to get a bird’s-eye view of the surrounding terrain",
+          "score": "N"
+        },
+        {
+          "text": "Crawl into a dense bush to catch your breath and assess the situation alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The group argues fiercely about whether to camp in the open or hide in a distant cave for the night. What do you do?",
+      "options": [
+        {
+          "text": "Break down the pros and cons of each option using what you know about weather and wildlife",
+          "score": "T"
+        },
+        {
+          "text": "Go with whatever decision the group leans toward, adapting to the outcome as needed",
+          "score": "P"
+        },
+        {
+          "text": "Listen closely to everyone’s fears and suggest a compromise that eases tensions",
+          "score": "F"
+        },
+        {
+          "text": "Insist on sticking to the pre-planned camping spot you all agreed on before the crash",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A teammate finds a wounded fawn nearby. Some want to kill it for food; others refuse. How do you respond?",
+      "options": [
+        {
+          "text": "Propose taking a vote and respecting the majority’s choice to keep the group unified",
+          "score": "E"
+        },
+        {
+          "text": "Offer to treat the fawn’s wounds with nearby herbs instead of harming it",
+          "score": "F"
+        },
+        {
+          "text": "Help track the fawn’s herd to find more game, ensuring a larger food supply",
+          "score": "S"
+        },
+        {
+          "text": "Wonder if the fawn’s presence signals a safer area worth exploring further",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You hear strange, unidentifiable noises outside your camp at midnight. What do you do?",
+      "options": [
+        {
+          "text": "Grab a sharp stick and sneak toward the noise to investigate alone",
+          "score": "I"
+        },
+        {
+          "text": "Double-check that all your camp’s defenses—like sharpened stakes—are in place",
+          "score": "J"
+        },
+        {
+          "text": "Roll over and try to sleep, assuming it’s just wind or small animals",
+          "score": "P"
+        },
+        {
+          "text": "Shake the nearest teammate awake and ask them to check the noise with you",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "One teammate suggests performing a mysterious ritual to ‘appease the wilderness’ and bring rescue. Your reaction?",
+      "options": [
+        {
+          "text": "Join in enthusiastically, hoping it lifts the group’s dwindling morale",
+          "score": "F"
+        },
+        {
+          "text": "Explain that rituals won’t help and suggest using the time to repair your shelter instead",
+          "score": "T"
+        },
+        {
+          "text": "Ask endless questions about the ritual’s origin and meaning out of curiosity",
+          "score": "N"
+        },
+        {
+          "text": "Go along with it quietly to avoid causing conflict with the group",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon a faded, partial map half-buried in the dirt. What’s your next step?",
+      "options": [
+        {
+          "text": "Study it alone, cross-referencing landmarks with what you’ve observed of the area",
+          "score": "I"
+        },
+        {
+          "text": "Gather the group to brainstorm what each faded mark might represent",
+          "score": "E"
+        },
+        {
+          "text": "Discard it immediately—you trust following the river to civilization more",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about the map leading you to a hidden cabin with supplies",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A teammate breaks down crying, overwhelmed by the trauma of the crash and isolation. How do you comfort them?",
+      "options": [
+        {
+          "text": "Hand them a piece of preserved fruit and remind them eating will give them strength",
+          "score": "T"
+        },
+        {
+          "text": "Sit beside them in silence, letting them cry as you gently pat their back",
+          "score": "F"
+        },
+        {
+          "text": "Suggest organizing a group activity to distract them from their sadness",
+          "score": "J"
+        },
+        {
+          "text": "Tell them to take all the time they need, and you’ll check on them later",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your group’s food supplies are nearly depleted. What do you prioritize to find more?",
+      "options": [
+        {
+          "text": "Set up multiple snare traps around camp to catch small game consistently",
+          "score": "S"
+        },
+        {
+          "text": "Team up with a few friends to explore a new area you’ve never checked before",
+          "score": "E"
+        },
+        {
+          "text": "Experiment with combining different plants to create a filling, nutrient-rich soup",
+          "score": "N"
+        },
+        {
+          "text": "Head out alone to forage for berries and mushrooms in quiet, undisturbed spots",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A severe storm is predicted to hit within an hour. How do you prepare?",
+      "options": [
+        {
+          "text": "Analyze the wind direction and move camp to the most sheltered spot you can find",
+          "score": "T"
+        },
+        {
+          "text": "Grab your most important items and stand ready to move at a moment’s notice",
+          "score": "P"
+        },
+        {
+          "text": "Do a headcount to ensure every teammate is accounted for and safe",
+          "score": "F"
+        },
+        {
+          "text": "Assign specific tasks to each person to reinforce shelters and secure supplies",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You catch a teammate secretly hiding extra food for themselves. What do you do?",
+      "options": [
+        {
+          "text": "Pull them aside privately to ask why they’re hiding food, listening without judgment",
+          "score": "I"
+        },
+        {
+          "text": "Share a small portion of your own food with them, understanding their fear of starvation",
+          "score": "F"
+        },
+        {
+          "text": "Bring it up in the next group meeting to establish fair food-sharing rules",
+          "score": "E"
+        },
+        {
+          "text": "Confront them directly, explaining how their actions harm the group’s survival chances",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "A small group wants to leave camp to search for rescue. Do you join them, and why?",
+      "options": [
+        {
+          "text": "Stay behind—you believe waiting for rescue is safer than risking the unknown terrain",
+          "score": "I"
+        },
+        {
+          "text": "Join them—you want to map out the area and collect data about potential threats",
+          "score": "S"
+        },
+        {
+          "text": "Join them—you’re excited by the idea of finding civilization and sharing stories later",
+          "score": "N"
+        },
+        {
+          "text": "Stay behind to organize a search party if they don’t return by dusk",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "After a month trapped in the wilderness, how do you maintain your mental strength?",
+      "options": [
+        {
+          "text": "Keep a detailed daily journal, recording resources, weather, and your thoughts",
+          "score": "J"
+        },
+        {
+          "text": "Host nightly story sessions with the group, sharing memories of home and dreams for the future",
+          "score": "E"
+        },
+        {
+          "text": "Let your days flow naturally—eat when hungry, rest when tired, and follow your instincts",
+          "score": "P"
+        },
+        {
+          "text": "Spend time alone each day, meditating on the lessons the wilderness is teaching you",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Steady Quarterback (ISTJ)",
+      "description": "You’re the team’s unshakable anchor, meticulously tracking resources and enforcing routines to keep everyone alive. In the wilderness, you stay calm under pressure, never letting fear cloud your practical judgment. Others trust you to get things done correctly—you’re the go-to for solutions when chaos reigns. Your ISTJ nature keeps the group grounded and focused on survival.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Medic (ISFJ)",
+      "description": "You’re the quiet caregiver, always putting others’ needs first. In the wilderness, you tend to the injured, comfort the grieving, and create small moments of warmth amid harsh conditions. You’re loyal to a fault, and your ISFJ heart turns a scattered group into a tight-knit family. Everyone feels seen and safe when you’re around.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Mystic Strategist (INFJ)",
+      "description": "You see patterns others miss, trusting your intuition to anticipate dangers before they arise. In the wilderness, you pick up on subtle cues that signal hope or threat, guiding the group with quiet foresight. You’re drawn to the deeper meaning of your ordeal, balancing empathy with wisdom. Your INFJ mind is the hidden leader the group needs in crisis.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Cunning Survivor (INTJ)",
+      "description": "You’re the group’s master planner, thinking several steps ahead to outlast the wilderness. You analyze every risk, map escape routes, and devise long-term strategies without wasting time on sentimentality. Your INTJ intelligence turns chaos into order, and your unwavering determination ensures you’ll do whatever it takes to get everyone home safely.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Resourceful Mechanic (ISTP)",
+      "description": "You’re the hands-on problem-solver, turning broken debris into tools and starting fires with rocks. In the wilderness, you prefer to work alone, letting your actions speak louder than words. You stay calm in crises—you don’t panic, you just get to work. Your ISTP nature makes you the one everyone turns to when something needs fixing fast.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Wild Forager (ISFP)",
+      "description": "You have a deep connection to the natural world, spotting edible plants, tracking animals, and reading the weather like a book. In the wilderness, you find beauty in chaos, stopping to admire flowers or listen to birds even when survival is on the line. You’re quiet but fiercely loyal, defending your friends when they need it most.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Storyteller (INFP)",
+      "description": "You hold onto hope like a lifeline, using stories and imagination to keep the group’s spirits alive. In the wilderness, you write poetry in the dirt, share dreams of home, and remind everyone of their humanity. You’re deeply empathetic, feeling others’ pain as your own. Your INFP heart refuses to let darkness overshadow kindness.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Explorer (INTP)",
+      "description": "You’re the group’s question-asker, always wondering why things work the way they do. In the wilderness, you study the ecosystem, experiment with fire-starting methods, and analyze animal behavior. You prefer working independently, lost in your thoughts and experiments. Your INTP mind turns survival into a puzzle you’re determined to solve.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Fearless Hunter (ESTP)",
+      "description": "You’re the first to jump into action, chasing deer or climbing cliffs to scout for rescue. In the wilderness, you thrive on adrenaline, taking risks others shy away from. You’re charismatic and outgoing, using your charm to keep morale high. Your ESTP nature turns survival into a game—you’re always one step ahead, outsmarting the wilderness.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Vibrant Campfire Host (ESFP)",
+      "description": "You’re the life of the camp, turning dark nights into moments of joy with sing-alongs and silly jokes. In the wilderness, you live in the moment, finding happiness in small things like a warm meal or a shared laugh. You’re outgoing and warm, making everyone feel welcome. Your ESFP spirit is the ray of sunshine that keeps the group going.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Dreaming Trailblazer (ENFP)",
+      "description": "You’re the group’s visionary, proposing bold ideas like building signal towers or sending message bottles. In the wilderness, you inspire others to hold onto hope, sharing wild dreams of escape and adventure. You’re charismatic and empathetic, connecting with everyone on a deep level. Your ENFP spirit refuses to be trapped by the wilderness.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Debating Tactician (ENTP)",
+      "description": "You love a good argument, using quick wit to challenge assumptions and propose bold strategies. In the wilderness, you debate every decision, keeping everyone thinking critically. You’re outgoing and charismatic, persuading others to see your point of view. Your ENTP mind turns survival into a game of wit, always one step ahead of the chaos.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Commanding Coach (ESTJ)",
+      "description": "You’re the no-nonsense leader, establishing rules and assigning tasks to keep everyone pulling their weight. In the wilderness, you don’t waste time on debates—you make decisive, practical choices. Your ESTJ nature keeps the group organized and focused, demanding excellence from everyone. You’re the one who pushes the team forward, never letting anyone give up.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Cheerful Team Mom (ESFJ)",
+      "description": "You’re the group’s caretaker, organizing meals, mending clothes, and listening to everyone’s problems. In the wilderness, you remember small details about each teammate, making them feel seen and loved. You’re outgoing and empathetic, turning strangers into family. Your ESFJ heart is the glue that keeps the group unified through thick and thin.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Leader (ENFJ)",
+      "description": "You have a gift for uniting people, turning chaos into unity with words of wisdom. In the wilderness, you rally the group around a common goal, reminding everyone of their strength and purpose. You’re charismatic and empathetic, connecting with each person deeply. Your ENFJ nature inspires others to be their best selves, even in darkness.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Ruthless Commander (ENTJ)",
+      "description": "You’re the strategic mastermind, willing to make tough decisions no one else can. In the wilderness, you prioritize survival above all, making hard choices that keep the group alive. You’re outgoing and decisive, setting a clear path forward and demanding everyone follows it. Your ENTJ nature makes you an unstoppable leader—you’ll get everyone home, no matter what.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

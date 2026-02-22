@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Honkai: Star Rail Wanderer Type Are You?",
+  "category": "which",
+  "tags": [
+    "Honkai: Star Rail",
+    "Trailblazer",
+    "MBTI",
+    "Personality",
+    "Role-playing Game"
+  ],
+  "description": "Answer 12 questions to discover your Honkai: Star Rail wanderer type!",
+  "questions": [
+    {
+      "text": "When you arrive at a new planet in the Astral Express, you first...",
+      "options": [
+        {
+          "text": "Check the map for key landmarks and resource points",
+          "score": "S"
+        },
+        {
+          "text": "Strike up conversations with the local townsfolk to learn their stories",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about the planet’s cosmic history and hidden secrets",
+          "score": "N"
+        },
+        {
+          "text": "Wander quietly through the back alleys to find hidden corners",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your crew faces a sudden cosmic anomaly. You react by...",
+      "options": [
+        {
+          "text": "Quickly analyze data to identify the root cause of the anomaly",
+          "score": "T"
+        },
+        {
+          "text": "Experiment with different tools to see what might counter the anomaly",
+          "score": "P"
+        },
+        {
+          "text": "Focus on calming anxious crewmates before assessing the problem",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the emergency protocol you memorized earlier",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a companion for a side mission, you pick someone who...",
+      "options": [
+        {
+          "text": "Can brainstorm wild, unexpected solutions to tricky situations",
+          "score": "N"
+        },
+        {
+          "text": "Prefers deep, meaningful discussions over small talk during travels",
+          "score": "I"
+        },
+        {
+          "text": "Can keep up with your energetic pace and share exciting adventures",
+          "score": "E"
+        },
+        {
+          "text": "Notices tiny details others miss that could help complete the mission",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After a long mission, you unwind by...",
+      "options": [
+        {
+          "text": "Exploring the Express’s hidden nooks you haven’t checked out yet",
+          "score": "P"
+        },
+        {
+          "text": "Hosting a small feast for the crew and listening to everyone’s mission stories",
+          "score": "F"
+        },
+        {
+          "text": "Reviewing mission logs to figure out how to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Following your pre-planned post-mission routine to reset your energy",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A local asks for help finding a lost relic. You...",
+      "options": [
+        {
+          "text": "Use your knowledge of the planet’s geography to narrow down search areas",
+          "score": "S"
+        },
+        {
+          "text": "Imagine different scenarios where the relic might have ended up",
+          "score": "N"
+        },
+        {
+          "text": "Ask around the village to gather clues from as many people as possible",
+          "score": "E"
+        },
+        {
+          "text": "Retrace the local’s steps alone to look for subtle signs of the relic",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The Express needs to make a sudden detour. You...",
+      "options": [
+        {
+          "text": "Calculate how the detour impacts the mission’s timeline and resources",
+          "score": "T"
+        },
+        {
+          "text": "Adjust your pre-planned itinerary to fit the new route immediately",
+          "score": "J"
+        },
+        {
+          "text": "Get excited about the unexpected chance to explore a new area",
+          "score": "P"
+        },
+        {
+          "text": "Worry about how the detour will affect the crew’s morale",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new cosmic ability, you...",
+      "options": [
+        {
+          "text": "Practice alone until you master the ability without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Tweak the ability’s parameters to create a unique variation",
+          "score": "N"
+        },
+        {
+          "text": "Practice with crewmates to get feedback and learn together",
+          "score": "E"
+        },
+        {
+          "text": "Follow the step-by-step guide provided by Herta’s archives",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious note with a cryptic message. You...",
+      "options": [
+        {
+          "text": "File the note away to decode later when you have a scheduled block of time",
+          "score": "J"
+        },
+        {
+          "text": "Break down the message into logical parts to decode it systematically",
+          "score": "T"
+        },
+        {
+          "text": "Ask the crew for their thoughts on what the message might mean",
+          "score": "F"
+        },
+        {
+          "text": "Start decoding immediately, even if it means shifting your plans for the day",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip to a dangerous planet, you...",
+      "options": [
+        {
+          "text": "Think about possible cosmic phenomena you might encounter along the way",
+          "score": "N"
+        },
+        {
+          "text": "Organize a group meeting to get everyone’s input on the plan",
+          "score": "E"
+        },
+        {
+          "text": "Focus on packing essential survival gear first to prepare for risks",
+          "score": "S"
+        },
+        {
+          "text": "Research the planet thoroughly on your own before sharing your plan",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A crewmate disagrees with your mission approach. You...",
+      "options": [
+        {
+          "text": "Stick to your original plan since you’ve already mapped out every detail",
+          "score": "J"
+        },
+        {
+          "text": "Explore their idea and see how it can be integrated into a new plan",
+          "score": "P"
+        },
+        {
+          "text": "Present data to show why your approach is more effective",
+          "score": "T"
+        },
+        {
+          "text": "Listen carefully to their feelings and adjust your approach to compromise",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You discover a hidden cosmic garden. You...",
+      "options": [
+        {
+          "text": "Study the garden’s plant life to understand its ecological system",
+          "score": "S"
+        },
+        {
+          "text": "Invite the whole crew to come see the garden and celebrate together",
+          "score": "E"
+        },
+        {
+          "text": "Create a story about how the garden was formed by ancient cosmic beings",
+          "score": "N"
+        },
+        {
+          "text": "Sit alone in the garden to absorb its quiet, cosmic energy",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The Astral Express is due for maintenance. You...",
+      "options": [
+        {
+          "text": "Help the crew with maintenance tasks while chatting about future missions",
+          "score": "F"
+        },
+        {
+          "text": "Inspect the Express’s core systems to ensure no hidden issues exist",
+          "score": "T"
+        },
+        {
+          "text": "Tinker with the Express’s controls to see if you can add a small upgrade",
+          "score": "P"
+        },
+        {
+          "text": "Follow the maintenance checklist strictly to ensure nothing is missed",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Astral Express Mentor",
+      "description": "You’re the heart and soul of the Astral Express, guiding your crew with compassion and vision. You notice when crewmates need support, turning tense missions into opportunities for growth. You inspire others to reach their cosmic potential, always leading with empathy and a clear sense of purpose. As an ENFJ, you turn every journey into a chance to connect and lift those around you.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Cosmic Dreamer Adventurer",
+      "description": "You see the galaxy as a canvas of endless possibilities, chasing every unexpected detour and hidden secret. You bring joy to the crew with your wild stories and imaginative ideas, turning even the most routine missions into exciting quests. You thrive on exploring new worlds and connecting with unique beings, always with a sense of wonder. As an ENFP, you make the cosmos feel like an endless adventure.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Astral Strategist Commander",
+      "description": "You’re the decisive leader who keeps the Astral Express on course through cosmic chaos. You map out mission plans with precision, turning vague goals into actionable steps. You prioritize efficiency and results, but never lose sight of the crew’s safety. Your sharp logic and bold decisions make you the backbone of any successful quest. As an ENTJ, you turn grand visions into cosmic reality.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Cosmic Trickster Innovator",
+      "description": "You’re the crew’s wildcard, always brainstorming unconventional solutions to tricky problems. You love challenging the status quo, turning boring protocols into playful experiments. You keep the crew on their toes with your witty banter and unexpected ideas, turning even dire situations into opportunities for innovation. As an ENTP, you make the galaxy feel full of surprising potential.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Astral Caregiver Host",
+      "description": "You’re the one who makes the Astral Express feel like home, ensuring every crewmate is fed, rested, and valued. You remember every small detail about your friends’ preferences, turning post-mission downtime into warm, memorable moments. You thrive on supporting others, whether it’s patching up a crewmate’s wounds or listening to their worries. As an ESFJ, you’re the glue that holds the crew together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Cosmic Party Explorer",
+      "description": "You bring energy to every corner of the galaxy, turning every new planet into a celebration. You love diving into local cultures, trying exotic foods, and dancing with townsfolk. You live in the moment, making every mission feel like a festival. Your spontaneous spirit and warmth draw others to you, turning strangers into friends. As an ESFP, you make the cosmos feel alive with joy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Astral Logistics Coordinator",
+      "description": "You’re the organized force that keeps the Astral Express running smoothly, managing supplies, schedules, and mission protocols with precision. You trust proven methods, ensuring every trip is prepared for any cosmic event. You value reliability and responsibility, making sure the crew never faces avoidable risks. As an ESTJ, you’re the steady hand that guides the Express through the stars.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Cosmic Daredevil Problem-Solver",
+      "description": "You thrive on the thrill of immediate action, jumping into dangerous situations to save the day. You trust your gut, using quick thinking to navigate unexpected crises. You love tinkering with tools and machines, fixing broken systems mid-mission with ease. Your boldness and practicality make you the crew’s go-to for last-minute rescues. As an ESTP, you turn chaos into victory.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Astral Seer Guide",
+      "description": "You have a deep connection to the cosmos, sensing hidden truths and cosmic patterns others miss. You often retreat to quiet corners of the Express to meditate on the galaxy’s mysteries, offering wise guidance when the crew is lost. You prioritize meaning and purpose, ensuring every mission aligns with a greater cosmic good. As an INFJ, you’re the crew’s spiritual compass.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Cosmic Storyteller Idealist",
+      "description": "You see the galaxy through a lens of poetry and meaning, crafting stories about the stars and the beings that inhabit them. You retreat to your quarters to write or sketch, turning mission memories into works of art. You value authenticity deeply, staying true to your beliefs even when faced with cosmic pressure. As an INFP, you infuse every journey with heart and imagination.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Astral Architect Planner",
+      "description": "You’re the crew’s mastermind, mapping out cosmic strategies that span star systems. You prefer to work alone, analyzing data and predicting future risks to keep the crew safe. You focus on long-term goals, turning small steps into part of a grand cosmic plan. Your sharp intellect and foresight make you indispensable to the Express’s missions. As an INTJ, you turn the unknown into the predictable.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Cosmic Puzzle Solver",
+      "description": "You’re the crew’s resident genius, obsessed with unlocking the galaxy’s scientific mysteries. You spend hours in Herta’s archives, decoding ancient texts and analyzing cosmic data. You love solving complex puzzles, whether it’s a cryptic message or a broken machine. Your curiosity and logic make you the go-to for unraveling cosmic secrets. As an INTP, you turn the unknown into knowledge.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Astral Guardian Nurturer",
+      "description": "You’re the quiet protector of the crew, ensuring everyone is safe and cared for without fanfare. You remember every crewmate’s allergies, fears, and favorite snacks, making sure no one is overlooked. You stick to familiar routines that keep the Express running smoothly, offering steady support during chaotic missions. As an ISFJ, you’re the crew’s hidden hero.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Cosmic Wanderer Artist",
+      "description": "You find beauty in every corner of the galaxy, capturing moments with sketches or small trinkets. You prefer to wander alone, exploring hidden valleys and quiet caves. You live in the present, savoring the feel of alien winds and the sound of distant stars. Your gentle spirit and creativity make you a calming presence on the Express. As an ISFP, you turn the cosmos into a personal masterpiece.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Astral Archivist Steward",
+      "description": "You’re the keeper of the Astral Express’s history, meticulously documenting every mission and preserving ancient relics. You trust proven methods, ensuring the Express’s systems are maintained to the highest standard. You value tradition and reliability, making sure the crew never forgets their cosmic roots. As an ISTJ, you’re the foundation that keeps the Express anchored in the stars.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Cosmic Mechanic Explorer",
+      "description": "You’re the crew’s go-to for fixing broken machines and navigating tricky terrain. You prefer to work with your hands, tinkering with the Express’s engines or crafting tools from alien materials. You stay calm in crisis, using practical skills to get the crew out of tight spots. Your quiet confidence and resourcefulness make you indispensable. As an ISTP, you turn cosmic obstacles into trivial challenges.",
+      "mbti": "ISTP"
+    }
+  ]
+}

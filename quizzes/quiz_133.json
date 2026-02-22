@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Would You Do in Brawl Stars? Uncover Your Hidden Playstyle",
+  "category": "whatwould",
+  "tags": [
+    "Brawl Stars",
+    "Playstyle",
+    "Personality",
+    "MBTI",
+    "Gaming"
+  ],
+  "description": "Answer 12 scenario-based questions to discover your unique Brawl Stars playstyle and the underlying personality traits that drive your in-game decisions.",
+  "questions": [
+    {
+      "text": "Your team is stuck in a tight spot with low health and enemies closing in. You...",
+      "options": [
+        {
+          "text": "Come up with a crazy trick shot to take out the lead enemy and turn the tide",
+          "score": "N"
+        },
+        {
+          "text": "Sneak off to a hidden corner to heal up and plan your next move alone",
+          "score": "I"
+        },
+        {
+          "text": "Yell quick callouts to coordinate a counterattack and rally your teammates",
+          "score": "E"
+        },
+        {
+          "text": "Prioritize using your gadget to block enemy attacks and keep your team alive",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re choosing a hero for a new game mode you’ve never played before. You...",
+      "options": [
+        {
+          "text": "Randomly pick a hero you’ve never used before to see what happens",
+          "score": "P"
+        },
+        {
+          "text": "Pick the hero with the highest win rate stats you found in a recent guide",
+          "score": "T"
+        },
+        {
+          "text": "Choose the hero your friend recommended because you trust their judgment",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your go-to hero that you know inside and out, no matter the mode",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your team is arguing about whether to take the gem mine or push the enemy base in Gem Grab. You...",
+      "options": [
+        {
+          "text": "Quietly start mining gems on your own, figuring action speaks louder than words",
+          "score": "I"
+        },
+        {
+          "text": "Suggest a diversion to draw enemies away while your team takes both the mine and base",
+          "score": "N"
+        },
+        {
+          "text": "Yell quick callouts to coordinate a counterattack and rally your teammates",
+          "score": "E"
+        },
+        {
+          "text": "Point out that mining gems is the fastest way to secure the win right now",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You just got eliminated early in a match. You...",
+      "options": [
+        {
+          "text": "Immediately queue up for another match to get back into the action quickly",
+          "score": "J"
+        },
+        {
+          "text": "Analyze what went wrong and note down how to avoid the same mistake next time",
+          "score": "T"
+        },
+        {
+          "text": "Take a quick break to stretch and grab a snack before your next game",
+          "score": "P"
+        },
+        {
+          "text": "Type an encouraging message to your team, reminding them they can still win without you",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A teammate keeps making risky plays that are getting your team killed. You...",
+      "options": [
+        {
+          "text": "Come up with a new role for them that plays to their strengths while minimizing risks",
+          "score": "N"
+        },
+        {
+          "text": "Say nothing but adjust your own playstyle to compensate for their mistakes",
+          "score": "I"
+        },
+        {
+          "text": "Focus on covering their back and using your super to bail them out when they mess up",
+          "score": "S"
+        },
+        {
+          "text": "Pull them aside after the match to calmly discuss better strategies for next time",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re in a Showdown match and find a rare power-up near a busy hot zone. You...",
+      "options": [
+        {
+          "text": "Let a weaker player take it, not wanting to pick an unnecessary fight",
+          "score": "F"
+        },
+        {
+          "text": "Set up a trap in the bushes nearby and wait patiently for someone to approach",
+          "score": "J"
+        },
+        {
+          "text": "Dash in quickly to grab it, then improvise an escape route on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Wait for another player to grab it first, then ambush them to take both the power-up and their loot",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your team needs to pick a map for a friendly tournament. You...",
+      "options": [
+        {
+          "text": "Poll all teammates for their favorite maps and hold a quick vote to decide",
+          "score": "E"
+        },
+        {
+          "text": "Say whatever the team decides is fine, since you don’t have a strong preference",
+          "score": "I"
+        },
+        {
+          "text": "Come up with a custom map idea that mixes elements from everyone’s favorites",
+          "score": "N"
+        },
+        {
+          "text": "Suggest a map that balances all hero types so no one feels disadvantaged",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re about to use your super ability, but a teammate is in the line of fire. You...",
+      "options": [
+        {
+          "text": "Hold back your super and reposition to avoid hitting your teammate, even if it means missing the enemy",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your pre-planned strategy and use the super exactly as you practiced",
+          "score": "J"
+        },
+        {
+          "text": "Quickly switch to a different ability to support your teammate instead",
+          "score": "P"
+        },
+        {
+          "text": "Use your super anyway, calculating that taking out the enemy is more important than a minor teammate hit",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re stuck in a long losing streak and feeling frustrated. You...",
+      "options": [
+        {
+          "text": "Experiment with a completely new hero build to shake up your playstyle",
+          "score": "N"
+        },
+        {
+          "text": "Hop on a voice call with friends to vent and brainstorm ways to improve",
+          "score": "E"
+        },
+        {
+          "text": "Take a break from the game to clear your head and come back later when you’re calm",
+          "score": "I"
+        },
+        {
+          "text": "Spend time watching pro player replays to learn new techniques and strategies",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a Brawl Ball match, your team is tied with 10 seconds left. You...",
+      "options": [
+        {
+          "text": "Pass the ball to your teammate who’s been playing well all match, trusting them to score",
+          "score": "F"
+        },
+        {
+          "text": "Fake a pass then dribble around the enemy to take a surprise shot",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your assigned position to block enemy players and protect your team’s goal",
+          "score": "J"
+        },
+        {
+          "text": "Take the shot yourself, calculating the angle and timing to make sure it goes in",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You unlock a new gadget for your main hero, but you don’t understand how it works. You...",
+      "options": [
+        {
+          "text": "Put it aside for now and stick to the gadget you already know how to use",
+          "score": "I"
+        },
+        {
+          "text": "Ask your guild members to explain how they use it and share tips",
+          "score": "E"
+        },
+        {
+          "text": "Test it out in training mode to figure out its practical uses step by step",
+          "score": "S"
+        },
+        {
+          "text": "Come up with creative ways to use it that no one else has thought of yet",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your guild is planning a big event and needs someone to organize it. You...",
+      "options": [
+        {
+          "text": "Propose a wild, new event idea that no one’s ever tried before to keep things exciting",
+          "score": "P"
+        },
+        {
+          "text": "Volunteer to coordinate the event, checking in with everyone to make sure they’re happy with the plans",
+          "score": "F"
+        },
+        {
+          "text": "Create a detailed schedule and checklist to ensure the event runs smoothly",
+          "score": "T"
+        },
+        {
+          "text": "Stick to the guild’s usual event format to avoid any unexpected issues",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Shelly (ISTJ)",
+      "description": "Like Shelly, you’re the reliable backbone of any team. You prefer proven strategies, focus on practicality, and always show up when your teammates need you. You’re methodical, responsible, and never cut corners—whether you’re securing objectives or helping your team push forward. Your ISTJ traits make you a steady force that can be counted on to win the day.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Colt (ESTJ)",
+      "description": "You’re the natural leader of the team, just like Colt. You thrive on structure, coordinate clear plans, and expect everyone to pull their weight. You’re decisive, goal-oriented, and always focused on winning—whether you’re calling out enemy positions or leading a charge. Your ESTJ traits make you a commanding presence that drives your team to victory.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Bull (ISFJ)",
+      "description": "Like Bull, you’re the protective guardian of your team. You prioritize keeping your teammates safe, go out of your way to help others, and hate seeing anyone left behind. You’re loyal, compassionate, and always ready to take a hit for the team. Your ISFJ traits make you a beloved teammate who creates a supportive environment for everyone.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Jessie (ESFJ)",
+      "description": "You’re the social glue of the team, just like Jessie. You love connecting with your teammates, celebrating small wins, and keeping the mood positive. You’re outgoing, caring, and always looking for ways to make everyone feel included. Your ESFJ traits make you the heart of any guild or team, turning matches into fun, memorable experiences.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Brock (ISTP)",
+      "description": "Like Brock, you’re the quiet problem-solver of the team. You’re hands-on, adaptable, and love figuring out how things work. You prefer to let your actions speak for themselves, using your technical skills to take out enemies and turn the tide of battle. Your ISTP traits make you a versatile player who can handle any situation with ease.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Dynamike (ESTP)",
+      "description": "You’re the thrill-seeking risk-taker, just like Dynamike. You love living on the edge, making impulsive plays, and surprising enemies with your chaos. You’re energetic, bold, and always looking for the next big adventure. Your ESTP traits make you an unpredictable force that keeps enemies guessing and teammates on their toes.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Bo (ISFP)",
+      "description": "Like Bo, you’re the laid-back artist of the team. You have a unique style, prefer to play by your own rules, and value authenticity over winning at all costs. You’re creative, gentle, and find joy in the little moments of the game. Your ISFP traits make you a refreshing teammate who brings a sense of calm and creativity to every match.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "El Primo (ESFP)",
+      "description": "You’re the life of the party, just like El Primo. You love being in the spotlight, making big plays, and cheering on your teammates. You’re outgoing, energetic, and always ready to have fun—whether you’re body-slamming enemies or celebrating a win with your guild. Your ESFP traits make you a charismatic player who turns every match into a spectacle.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Barley (INTJ)",
+      "description": "Like Barley, you’re the strategic mastermind of the team. You plan ahead, think several steps ahead of your enemies, and always have a backup plan. You’re independent, analytical, and hate wasting time on unproductive plays. Your INTJ traits make you a formidable opponent who can outsmart even the most skilled players.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Mortis (ENTJ)",
+      "description": "You’re the ambitious leader of the team, just like Mortis. You set high goals, demand excellence from yourself and others, and stop at nothing to win. You’re decisive, confident, and always looking for ways to improve your team’s performance. Your ENTJ traits make you a dominant force that leads your team to victory after victory.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Poco (INFJ)",
+      "description": "Like Poco, you’re the wise mentor of the team. You have a deep understanding of people, know how to motivate your teammates, and always see the bigger picture. You’re intuitive, compassionate, and use your insights to help your team grow. Your INFJ traits make you a rare and valuable teammate who can turn a ragtag group into a well-oiled machine.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Rosa (ENFJ)",
+      "description": "You’re the inspiring visionary of the team, just like Rosa. You see the potential in everyone, rally your teammates around a shared goal, and lead with empathy. You’re outgoing, charismatic, and always looking for ways to lift others up. Your ENFJ traits make you a natural leader who can unite any team and achieve the impossible.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Crow (INTP)",
+      "description": "Like Crow, you’re the curious innovator of the team. You love experimenting with new strategies, questioning the status quo, and finding clever loopholes in the game. You’re independent, creative, and always looking for ways to improve. Your INTP traits make you a unique player who can come up with game-changing plays no one else would think of.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Leon (ENTP)",
+      "description": "You’re the clever trickster of the team, just like Leon. You love coming up with crazy ideas, surprising enemies with your tricks, and keeping everyone on their toes. You’re outgoing, creative, and always looking for the next big challenge. Your ENTP traits make you a fun and unpredictable teammate who turns every match into an adventure.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Nita (INFP)",
+      "description": "Like Nita, you’re the dreamy idealist of the team. You play with passion, value authenticity, and believe in the power of teamwork. You’re intuitive, compassionate, and always fight for what you believe in. Your INFP traits make you a heartfelt teammate who brings a sense of purpose and joy to every match.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Max (ENFP)",
+      "description": "You’re the enthusiastic optimist of the team, just like Max. You love exploring new possibilities, encouraging your teammates, and seeing the best in every situation. You’re outgoing, creative, and always looking for ways to make the game more fun. Your ENFP traits make you a contagious force that inspires everyone around you to play their best.",
+      "mbti": "ENFP"
+    }
+  ]
+}

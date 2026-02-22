@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Hidden Honkai: Star Rail Trait Type Are You?",
+  "category": "hidden",
+  "tags": [
+    "Honkai: Star Rail",
+    "Hidden Traits",
+    "MBTI",
+    "Personality",
+    "Astral Express"
+  ],
+  "description": "Answer 12 questions to discover your hidden Honkai: Star Rail trait type!",
+  "questions": [
+    {
+      "text": "When you stumble upon a mysterious unmarked door in the Astral Express, you...",
+      "options": [
+        {
+          "text": "Check the door for any physical clues or traps before approaching",
+          "score": "S"
+        },
+        {
+          "text": "Call over your crewmates immediately to explore it together",
+          "score": "E"
+        },
+        {
+          "text": "Imagine all the strange worlds or secrets it might lead to",
+          "score": "N"
+        },
+        {
+          "text": "Peer through the crack first, deciding whether to investigate alone later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A crewmate is upset about a failed mission. You respond by...",
+      "options": [
+        {
+          "text": "Analyze what went wrong and suggest concrete fixes for next time",
+          "score": "T"
+        },
+        {
+          "text": "Sit with them and listen closely, validating their frustration without rushing to solve it",
+          "score": "F"
+        },
+        {
+          "text": "Let them process their feelings while you quietly organize mission notes for the next attempt",
+          "score": "P"
+        },
+        {
+          "text": "Quickly schedule a team huddle to address the issue and boost morale",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a day of free time on a new planet. You choose to...",
+      "options": [
+        {
+          "text": "Wander through local markets, striking up conversations with vendors to learn their stories",
+          "score": "E"
+        },
+        {
+          "text": "Visit a quiet observatory to study the planet’s unique constellations in solitude",
+          "score": "I"
+        },
+        {
+          "text": "Follow a detailed guidebook to visit every historical landmark in order",
+          "score": "S"
+        },
+        {
+          "text": "Get lost in the wilderness, letting intuition lead you to hidden natural wonders",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The Astral Express needs an urgent repair mid-journey. You...",
+      "options": [
+        {
+          "text": "Trust your gut to try unconventional fixes even if they’re not in the manual",
+          "score": "P"
+        },
+        {
+          "text": "Refer directly to the official repair manual, following each step precisely",
+          "score": "J"
+        },
+        {
+          "text": "Focus on calming worried crewmates while others handle the technical work",
+          "score": "F"
+        },
+        {
+          "text": "Troubleshoot the problem by breaking down each system to find the root cause",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You overhear a crewmate debating a controversial cosmic theory. You...",
+      "options": [
+        {
+          "text": "Ask probing questions to explore the theory’s logical inconsistencies",
+          "score": "T"
+        },
+        {
+          "text": "Share a personal anecdote that aligns with parts of their theory to connect emotionally",
+          "score": "F"
+        },
+        {
+          "text": "Research similar existing theories to see if theirs holds up to established data",
+          "score": "S"
+        },
+        {
+          "text": "Propose a wild new twist on their theory to expand the conversation’s possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a new开拓 mission, you prioritize...",
+      "options": [
+        {
+          "text": "Leaving room for spontaneous detours to explore unexpected opportunities",
+          "score": "P"
+        },
+        {
+          "text": "Creating a minute-by-minute timeline with clear roles for every crew member",
+          "score": "J"
+        },
+        {
+          "text": "Gathering input from every crewmate to ensure everyone feels included in the plan",
+          "score": "E"
+        },
+        {
+          "text": "Mapping out potential risks and preparing backup plans for each scenario",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a strange, glowing artifact. Your first reaction is to...",
+      "options": [
+        {
+          "text": "Test its physical properties by touching different surfaces and observing reactions",
+          "score": "S"
+        },
+        {
+          "text": "Wonder about its origin story and how it fits into the universe’s grand narrative",
+          "score": "N"
+        },
+        {
+          "text": "Show it to the entire crew right away to get their varied perspectives",
+          "score": "E"
+        },
+        {
+          "text": "Hide it in your bag to examine privately later when you have uninterrupted time",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A crewmate accidentally breaks your favorite personal item. You...",
+      "options": [
+        {
+          "text": "Tell them it’s okay, focusing on their obvious guilt rather than your own disappointment",
+          "score": "F"
+        },
+        {
+          "text": "Ask them to help you fix it or find a replacement, treating it as a practical problem to solve",
+          "score": "T"
+        },
+        {
+          "text": "Let the moment pass without making a fuss, planning to deal with it on your own later",
+          "score": "P"
+        },
+        {
+          "text": "Set aside time that evening to discuss how to prevent similar accidents in the future",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a chaotic local festival on a new planet. You...",
+      "options": [
+        {
+          "text": "Join the dancing and games, making friends with strangers within minutes",
+          "score": "E"
+        },
+        {
+          "text": "Stand on the edge, watching the festivities and taking notes on the cultural traditions",
+          "score": "I"
+        },
+        {
+          "text": "Try every traditional food stall in the order they’re listed on a local map",
+          "score": "S"
+        },
+        {
+          "text": "Follow a group of locals to a secret, off-the-beaten-path part of the festival",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The crew is split on which path to take next. You...",
+      "options": [
+        {
+          "text": "Push for a vote to reach a quick, democratic decision",
+          "score": "J"
+        },
+        {
+          "text": "Suggest taking both paths in turns to satisfy everyone’s curiosity",
+          "score": "P"
+        },
+        {
+          "text": "Argue for the path with the most documented resources and known safety record",
+          "score": "T"
+        },
+        {
+          "text": "Advocate for the path that the crewmate who’s been quiet this whole time is leaning toward",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You have to give a presentation about your recent findings to the crew. You...",
+      "options": [
+        {
+          "text": "Use vivid stories and metaphors to make complex ideas feel relatable",
+          "score": "N"
+        },
+        {
+          "text": "Create a bullet-point list of key facts and concrete data to share",
+          "score": "S"
+        },
+        {
+          "text": "Start with a joke to lighten the mood, inviting the crew to ask questions throughout",
+          "score": "E"
+        },
+        {
+          "text": "Practice the presentation alone multiple times to avoid mistakes before sharing it",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a problem that has no clear solution, you...",
+      "options": [
+        {
+          "text": "Wait for more information to come in before making any moves",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with small, random changes to see what might work",
+          "score": "P"
+        },
+        {
+          "text": "Think about how the problem affects your crewmates’ feelings to guide your next step",
+          "score": "F"
+        },
+        {
+          "text": "Break the problem into tiny parts, analyzing each one systematically",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Trailblazing Diplomat",
+      "description": "Beneath your outgoing demeanor lies a hidden talent for bridging divides. You thrive in chaotic social settings, turning tense crew debates into collaborative breakthroughs. Others see you as a natural leader, but your secret strength is listening closely to unspoken needs—you’re an ENFJ, driven by a quiet desire to make every member of the Astral Express feel seen.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Quiet Visionary",
+      "description": "You often get lost in thoughts about the cosmos’s hidden patterns, even in busy moments. Crewmates might mistake your silence for disinterest, but your mind is constantly mapping new possibilities for the Express’s journey. Your hidden trait is turning abstract ideas into actionable dreams—you’re an INFP, guided by a deeply held belief in the beauty of uncharted paths.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Tactical Problem-Solver",
+      "description": "When crises strike, you’re the first to jump into action with a step-by-step plan. Others might call you practical, but your hidden skill is noticing tiny details everyone else misses—like a loose wire on the Express or a crewmate’s subtle shift in mood. You’re an ESTJ, driven by a need to keep the ship and its crew safe, no matter what.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Cosmic Philosopher",
+      "description": "You spend hours staring out the Express’s windows, pondering the meaning of the Trailblaze Path. Crewmates might think you’re daydreaming, but your hidden talent is connecting seemingly unrelated cosmic events into a grand narrative. You’re an INTP, always questioning assumptions and seeking truth beyond the surface of every discovery.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Spontaneous Explorer",
+      "description": "You’re always the first to suggest detours to unmarked planets or hidden caves. Your hidden trait is turning chaotic surprises into unforgettable adventures—like turning a broken navigation system into a chance to find a rare star cluster. You’re an ESFP, living in the moment and making every day on the Express feel like a new thrill.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Empathetic Observer",
+      "description": "You notice when a crewmate is feeling off even before they say a word. Your hidden strength is holding space for their emotions without trying to fix everything immediately. Others might see you as quiet, but you’re the backbone of the Express’s morale—you’re an ISFJ, dedicated to caring for your crew in ways no one else notices.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Strategic Innovator",
+      "description": "You love reimagining the Express’s systems to make them faster, smarter, or more efficient. Your hidden talent is combining logical analysis with wild creativity to solve impossible problems—like using a leftover snack to fix a broken reactor. You’re an ENTP, always pushing the boundaries of what the crew thinks is possible.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Grounded Realist",
+      "description": "You’re the one who reminds the crew to pack extra rations or check the fuel levels before every mission. Your hidden trait is turning big dreams into tangible plans—ensuring the Express never runs out of supplies mid-journey. You’re an ISTJ, reliable and steady, with a quiet commitment to keeping the ship running smoothly.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Enthusiastic Connector",
+      "description": "You remember every crewmate’s favorite snack and home planet story. Your hidden strength is turning strangers into a family, turning quiet dinners on the Express into lively storytelling sessions. You’re an ESFJ, driven by a desire to make everyone feel welcome and valued on the Trailblaze Path.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Mysterious Idealist",
+      "description": "You keep a journal full of poems and sketches of the planets you’ve visited. Crewmates might not know it, but your hidden talent is turning personal experiences into universal truths that inspire the crew. You’re an INFJ, guided by a deep sense of purpose to leave the cosmos better than you found it.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Bold Adventurer",
+      "description": "You volunteer for every dangerous mission, eager to be the first to step onto uncharted soil. Your hidden trait is staying calm in chaos—like when the Express hits an asteroid field, you’re the one cracking jokes to keep everyone’s spirits up. You’re an ESTP, living for the rush of discovery and the thrill of the unknown.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Curious Analyst",
+      "description": "You spend hours in the Express’s lab, testing every new artifact you find. Crewmates might think you’re obsessed with data, but your hidden skill is finding beauty in the precision of the universe—like the way a star’s light bends around a planet. You’re an ISTP, logical and hands-on, with a knack for fixing anything that breaks.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Charismatic Dreamer",
+      "description": "You can convince the crew to follow any wild plan with just a few passionate words. Your hidden talent is turning impossible dreams into collective goals—like visiting a star that’s said to grant wishes. You’re an ENFP, driven by endless curiosity and a belief that the Trailblaze Path is full of magic waiting to be found.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Sensitive Realist",
+      "description": "You balance a practical approach to problems with a deep understanding of your crew’s feelings. Your hidden trait is mediating conflicts by validating everyone’s perspectives before finding a solution. You’re an ISFP, quiet but steadfast, with a talent for making even the most stressful days on the Express feel manageable.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Logical Commander",
+      "description": "You excel at creating complex mission plans that cover every possible risk. Others see you as a strict leader, but your hidden strength is protecting the crew by anticipating dangers before they arrive. You’re an ENTJ, focused on moving the Trailblaze Path forward efficiently and effectively, no matter the cost.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Gentle Strategist",
+      "description": "You prefer to work behind the scenes, using your analytical mind to support the crew’s goals. Your hidden talent is creating subtle plans that help everyone succeed without taking credit. You’re an INTJ, driven by a long-term vision of the Express’s journey, and a quiet confidence in your ability to guide it there.",
+      "mbti": "INTJ"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Honkai: Star Rail Aesthetic Type Are You?",
+  "category": "which",
+  "tags": [
+    "Honkai: Star Rail",
+    "MBTI",
+    "Personality",
+    "Aesthetic",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover your Honkai: Star Rail aesthetic personality!",
+  "questions": [
+    {
+      "text": "When you stumble upon an unmarked door in the Herta Space Station, you immediately...",
+      "options": [
+        {
+          "text": "Stand in place, daydreaming about the alien artifacts or hidden labs that might lie beyond it",
+          "score": "N"
+        },
+        {
+          "text": "Push it open and wave your crewmates over to explore the unknown together",
+          "score": "E"
+        },
+        {
+          "text": "Pull out your trailblazer terminal to scan for energy signatures before approaching cautiously",
+          "score": "S"
+        },
+        {
+          "text": "Turn away, prioritizing your scheduled research task over unplanned curiosity",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a quiet evening on the Astral Express, you choose to...",
+      "options": [
+        {
+          "text": "Spend an hour asking them about their home planet, past adventures, and favorite space snacks",
+          "score": "E"
+        },
+        {
+          "text": "Observe how they interact with Pom-Pom and the other crew members before striking up a conversation",
+          "score": "I"
+        },
+        {
+          "text": "Offer to help them unpack their belongings and set up their new quarters efficiently",
+          "score": "J"
+        },
+        {
+          "text": "Imagine what kind of unique skills or secrets they might bring to your future missions",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a sudden crisis on Jarilo-VI, like a collapsing ice cave, you...",
+      "options": [
+        {
+          "text": "Act fast to shield your injured teammate from falling debris, prioritizing their safety above all else",
+          "score": "F"
+        },
+        {
+          "text": "Quickly assess the cave’s structural integrity and map the safest exit route",
+          "score": "T"
+        },
+        {
+          "text": "Follow the emergency evacuation signs you noticed earlier, leading others to safety",
+          "score": "S"
+        },
+        {
+          "text": "Trust your gut instinct to take an unmarked tunnel that feels like it leads to open air",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A new crew member joins the Astral Express; you first...",
+      "options": [
+        {
+          "text": "Spend an hour asking them about their home planet, past adventures, and favorite space snacks",
+          "score": "E"
+        },
+        {
+          "text": "Observe how they interact with Pom-Pom and the other crew members before striking up a conversation",
+          "score": "I"
+        },
+        {
+          "text": "Offer to help them unpack their belongings and set up their new quarters efficiently",
+          "score": "J"
+        },
+        {
+          "text": "Imagine what kind of unique skills or secrets they might bring to your future missions",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a mission to a newly discovered planet, you focus on...",
+      "options": [
+        {
+          "text": "Gathering data on the planet’s climate, resources, and potential hazards to build a detailed itinerary",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorming creative ways to interact with local species and uncover hidden cultural traditions",
+          "score": "F"
+        },
+        {
+          "text": "Debating the scientific value of the mission and how it fits into the Astral Express’s overall goals",
+          "score": "T"
+        },
+        {
+          "text": "Daydreaming about the breathtaking landscapes and unexpected wonders you might encounter",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "After a failed mission, you respond by...",
+      "options": [
+        {
+          "text": "Take a walk alone to process your feelings before discussing what went wrong with the team",
+          "score": "I"
+        },
+        {
+          "text": "Gather the crew for a quick debrief, focusing on actionable steps to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Comfort your teammates who are feeling down, reminding them of past successes",
+          "score": "F"
+        },
+        {
+          "text": "Flip through your mission logs to identify exactly where the plan derailed and adjust accordingly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious message encoded in an ancient alien script; you...",
+      "options": [
+        {
+          "text": "Guess the meaning based on the symbols’ shapes and the context of where you found it",
+          "score": "N"
+        },
+        {
+          "text": "Look for patterns in the symbols and cross-reference them with known alien languages in Herta’s database",
+          "score": "S"
+        },
+        {
+          "text": "Call over Dan Heng and Herta to collaborate on decoding it together, combining your skills",
+          "score": "E"
+        },
+        {
+          "text": "Set it aside for now, focusing on the more urgent mission objectives at hand",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a souvenir from a visited planet, you pick...",
+      "options": [
+        {
+          "text": "A small, functional tool that’s unique to the planet, like a weather-resistant canteen",
+          "score": "S"
+        },
+        {
+          "text": "A handcrafted trinket made by local artisans, because it tells a story of their culture",
+          "score": "F"
+        },
+        {
+          "text": "A strange crystal that glows in the dark, even though you don’t know its purpose",
+          "score": "N"
+        },
+        {
+          "text": "A set of detailed maps of the planet’s most remote regions, perfect for future exploration",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a long hyperspace jump, you pass the time by...",
+      "options": [
+        {
+          "text": "Joining a card game with March 7th and Stelle, laughing and teasing each other",
+          "score": "E"
+        },
+        {
+          "text": "Reading a book about the history of interstellar civilizations, taking notes in the margins",
+          "score": "I"
+        },
+        {
+          "text": "Experimenting with a new snack recipe using ingredients from different planets you’ve visited",
+          "score": "P"
+        },
+        {
+          "text": "Organizing your mission photos into labeled folders and writing short captions for each",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a difficult decision that affects the entire crew, you...",
+      "options": [
+        {
+          "text": "Poll everyone’s opinions and choose the option that makes the most people happy",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the potential outcomes logically, weighing risks and benefits for each choice",
+          "score": "T"
+        },
+        {
+          "text": "Trust your intuition to pick the option that feels right in the moment",
+          "score": "N"
+        },
+        {
+          "text": "Refer to the Astral Express’s mission protocol manual for guidance on similar situations",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a friendly alien that doesn’t speak your language; you...",
+      "options": [
+        {
+          "text": "Use exaggerated hand gestures and facial expressions to communicate your friendliness",
+          "score": "E"
+        },
+        {
+          "text": "Offer them a small snack from your supplies, hoping it breaks the ice",
+          "score": "F"
+        },
+        {
+          "text": "Observe their body language and actions to infer what they might need or want",
+          "score": "S"
+        },
+        {
+          "text": "Imagine what their culture might value based on their appearance and surroundings",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your original mission plan is disrupted by an unexpected event, you...",
+      "options": [
+        {
+          "text": "Come up with a completely new plan on the fly, adapting to the changing circumstances",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the original plan as closely as possible, making minimal adjustments",
+          "score": "J"
+        },
+        {
+          "text": "Check in with your crew members to see how they’re feeling before deciding what to do next",
+          "score": "F"
+        },
+        {
+          "text": "Assess the new situation quickly and choose the most logical alternative route",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Trailblazing Dreamer",
+      "description": "You carry the unyielding energy of a free-spirited explorer, blending March 7th’s playful curiosity with Dan Heng’s quiet wonder. You thrive on unexpected adventures, see magic in every galactic corner, and inspire others with boundless imagination. Your ENFP spirit turns ordinary missions into unforgettable stories, making you the heart of any Astral Express crew.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Galactic Guide",
+      "description": "Like Herta’s warm yet authoritative presence, you’re a natural leader who lifts up those around you. You listen deeply to your crewmates’ needs, guide them through tough missions with empathy, and turn conflict into collaboration. Your ENFJ spirit ensures no one gets left behind, making you the backbone of the Astral Express’s success.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Commander",
+      "description": "Channeling the sharp focus of Welt Yang, you’re a born strategist who turns chaos into order. You excel at mapping complex mission plans, making tough decisions under pressure, and pushing the crew to reach their full potential. Your ENTJ spirit drives the Astral Express forward, turning distant goals into tangible victories.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Cosmic Innovator",
+      "description": "You’re the crew’s resident idea generator, always brainstorming wild, creative solutions to impossible problems—just like a mischievous version of Herta. You love debating new theories, challenging the status quo, and turning failures into opportunities. Your ENTP spirit keeps missions exciting, ensuring no two adventures are ever the same.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Stellar Performer",
+      "description": "You bring warmth and joy to every corner of the Astral Express, much like March 7th’s vibrant personality. You live in the moment, turn tedious tasks into fun games, and make every crew member feel seen. Your ESFP spirit turns long hyperspace jumps into parties and difficult missions into shared memories.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Astral Caretaker",
+      "description": "Like Pom-Pom’s diligent care for the Express, you’re the crew’s rock—always there to make sure everyone’s needs are met. You remember every crewmate’s favorite snack, fix broken quarters without being asked, and turn the Express into a home away from home. Your ESFJ spirit keeps the team grounded and happy.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Quick-Witted Adventurer",
+      "description": "Channeling the fearlessness of Stelle, you’re at your best when facing unexpected danger. You think on your feet, turn random encounters into thrilling stories, and never shy away from a challenge. Your ESTP spirit makes you the first to jump into action, turning mission mishaps into legendary tales.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Reliable Steward",
+      "description": "You’re the crew’s most trusted member, ensuring every mission runs like clockwork—just like a more serious Pom-Pom. You stick to protocols, keep the Express organized, and make sure no detail is overlooked. Your ESTJ spirit gives the crew stability, letting them focus on exploration while you handle the logistics.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Quiet Visionary",
+      "description": "You carry a deep love for the galaxy’s hidden beauty, much like a more introspective Dan Heng. You spend your free time journaling about mission moments, daydreaming about ancient civilizations, and defending the voiceless. Your INFP spirit reminds the crew why exploration matters—for the stories and souls you encounter.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Galactic Seer",
+      "description": "With a sixth sense for others’ emotions, you’re the crew’s secret weapon. You anticipate conflicts before they arise, guide teammates through tough decisions with empathy, and see the bigger picture of every mission. Your INFJ spirit turns chaos into clarity, helping the Astral Express navigate even the darkest cosmic storms.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Cosmic Architect",
+      "description": "Like Welt Yang’s strategic mind, you’re a master planner who sees decades ahead. You design mission frameworks that account for every possible risk, uncover hidden patterns in alien data, and turn vague goals into detailed roadmaps. Your INTJ spirit ensures the Astral Express always stays one step ahead of the unknown.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Scholar",
+      "description": "You’re the crew’s resident expert, always diving deep into the science of every planet and artifact. You spend hours in Herta’s database, ask endless questions about alien phenomena, and turn mission data into groundbreaking discoveries. Your INTP spirit unlocks the galaxy’s secrets, making every mission a chance to learn something new.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Gentle Explorer",
+      "description": "You find joy in the small, beautiful moments of space travel—like the way stars reflect off Jarilo-VI’s snow or the sound of alien birds singing. You’re the first to stop and appreciate a handcrafted trinket or a quiet sunset, reminding the crew to slow down. Your ISFP spirit makes the galaxy feel like a warm, welcoming place.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Loyal Guardian",
+      "description": "You’re the crew’s unsung hero, always looking out for everyone’s safety and well-being. You pack extra supplies for missions, check in on teammates who seem off, and remember every small detail they mention. Your ISFJ spirit turns the Astral Express into a safe haven, no matter how far from home you travel.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Resourceful Mechanic",
+      "description": "Channeling the ingenuity of the Express’s maintenance crew, you’re a problem-solver who can fix anything. You turn scrap parts into tools, repair broken terminals mid-mission, and find creative ways to get out of tight spots. Your ISTP spirit keeps the Express running and the crew safe, even in the most remote corners of the galaxy.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Diligent Archivist",
+      "description": "You’re the keeper of the Astral Express’s history, documenting every mission, artifact, and crew moment with precision. You organize logs, update databases, and ensure no detail is ever lost. Your ISTJ spirit preserves the crew’s legacy, turning fleeting adventures into timeless stories that will inspire future explorers.",
+      "mbti": "ISTJ"
+    }
+  ]
+}

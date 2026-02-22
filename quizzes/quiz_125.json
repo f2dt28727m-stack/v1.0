@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Would You Do in Fortnite? Uncover Your Hidden Gaming Personality?",
+  "category": "whatwould",
+  "tags": [
+    "Fortnite",
+    "Gaming Playstyle",
+    "Personality Test",
+    "MBTI",
+    "What Would You Do"
+  ],
+  "description": "Answer 12 scenario-based Fortnite questions to discover your natural playstyle and hidden personality traits through your instinctive in-game choices!",
+  "questions": [
+    {
+      "text": "Your squad is split up during a storm circle, and a teammate messages they’re being chased by three enemies. What do you do?",
+      "options": [
+        {
+          "text": "Use the environment to set up a trap, like building a ramp to ambush from above",
+          "score": "N"
+        },
+        {
+          "text": "Grab the closest weapon and start taking shots at the nearest enemy",
+          "score": "S"
+        },
+        {
+          "text": "Duck into a nearby building, scope out the situation, and wait for the right moment to strike",
+          "score": "I"
+        },
+        {
+          "text": "Yell out enemy positions to your squad and rush in with a shotgun",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You find a legendary weapon in a chest, but your squadmate mentions they’re still using a common rifle. What do you do?",
+      "options": [
+        {
+          "text": "Keep the legendary weapon but offer them all your extra ammo and healing items",
+          "score": "T"
+        },
+        {
+          "text": "Trade the legendary weapon for their common one—team strength is more important than personal gear",
+          "score": "F"
+        },
+        {
+          "text": "Suggest you both loot nearby chests together to see if you can find another legendary for them",
+          "score": "P"
+        },
+        {
+          "text": "Tell them exactly where you found the chest so they can search for their own legendary",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "The storm is closing in fast, and you’re far from the safe zone with no vehicles nearby. What’s your move?",
+      "options": [
+        {
+          "text": "Take a quiet, roundabout path through the woods to avoid encountering other players",
+          "score": "I"
+        },
+        {
+          "text": "Look for hidden tunnels or secret paths that might let you reach the zone faster than the main route",
+          "score": "N"
+        },
+        {
+          "text": "Start running straight toward the zone, shouting updates to your squad about your progress",
+          "score": "E"
+        },
+        {
+          "text": "Build a long series of ramps to sprint above the terrain and cut down travel time",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re in the final circle with your squad, and there are two remaining enemy teams. What strategy do you propose?",
+      "options": [
+        {
+          "text": "Set up a fortified base with walls and traps to defend against any attacks",
+          "score": "J"
+        },
+        {
+          "text": "Roam the edges of the circle, adapting to enemy movements as they happen",
+          "score": "P"
+        },
+        {
+          "text": "Send one teammate to distract one team while the rest of you focus on the other",
+          "score": "F"
+        },
+        {
+          "text": "Wait for the two enemy teams to fight each other, then pick off the survivors",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You hear a teammate arguing with another squad member over loot. What do you do?",
+      "options": [
+        {
+          "text": "Take the disputed loot and drop it in neutral territory, letting them decide who gets it",
+          "score": "S"
+        },
+        {
+          "text": "Jump into the conversation, mediate the issue, and suggest a fair split of the loot",
+          "score": "E"
+        },
+        {
+          "text": "Propose a quick mini-game like a 1v1 to determine who gets the rare item",
+          "score": "N"
+        },
+        {
+          "text": "Stay quiet, but later message the upset teammate privately to check in on them",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You accidentally trigger a trap in a hidden bunker, alerting nearby enemies. What’s your immediate reaction?",
+      "options": [
+        {
+          "text": "Charge out of the bunker with a melee weapon to catch the enemies off guard",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the trap’s design to find a way to use it against the approaching enemies",
+          "score": "T"
+        },
+        {
+          "text": "Build a quick wall to block incoming fire and call for squad backup",
+          "score": "J"
+        },
+        {
+          "text": "Dodge behind cover and start sniping at the direction of the enemy sounds",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re looting a small house and find a stack of building materials, a rare healing item, and a scope. Which do you grab first?",
+      "options": [
+        {
+          "text": "Take the building materials to create cover or elevate your position later",
+          "score": "N"
+        },
+        {
+          "text": "Take all three quickly, then hide in the closet to organize your inventory before moving on",
+          "score": "I"
+        },
+        {
+          "text": "Grab the healing item—you never know when you’ll need to recover mid-fight",
+          "score": "S"
+        },
+        {
+          "text": "Snatch the scope and run to the roof to scan for enemies to warn your squad",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your squad wins the match, and everyone’s celebrating in voice chat. What do you do?",
+      "options": [
+        {
+          "text": "Smile quietly and send a few emojis in chat to join the celebration",
+          "score": "I"
+        },
+        {
+          "text": "Compliment each teammate individually for their contributions to the win",
+          "score": "F"
+        },
+        {
+          "text": "Recap the key plays that led to your victory, pointing out specific moments your squad excelled",
+          "score": "T"
+        },
+        {
+          "text": "Cheer loudly, crack jokes about the final fight, and plan your next match together immediately",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a solo player who’s clearly new and struggling to loot. What do you do?",
+      "options": [
+        {
+          "text": "Watch them for a bit to see if they need help, then offer tips if they seem lost",
+          "score": "P"
+        },
+        {
+          "text": "Ignore them completely and continue looting your own area to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Challenge them to a friendly 1v1 to help them practice their skills",
+          "score": "T"
+        },
+        {
+          "text": "Drop some extra ammo and a basic weapon near them before moving on",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re building a base to defend against an enemy push. What’s your go-to build style?",
+      "options": [
+        {
+          "text": "Create a low, compact bunker with reinforced walls to stay hidden and protected",
+          "score": "S"
+        },
+        {
+          "text": "Build ramps and platforms to let your squad move around and attack from different angles",
+          "score": "E"
+        },
+        {
+          "text": "Construct a maze of walls and tunnels to confuse and trap incoming enemies",
+          "score": "I"
+        },
+        {
+          "text": "Build a tall tower with multiple levels to get a bird’s-eye view of the battlefield",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your squad decides to split up to cover more ground for loot. How do you feel about this?",
+      "options": [
+        {
+          "text": "Stick to your planned loot route, marking high-value items for your squad as you go",
+          "score": "J"
+        },
+        {
+          "text": "Wander off the route to check out interesting-looking areas you spot along the way",
+          "score": "P"
+        },
+        {
+          "text": "Wish you’d stay together, but trust your squad’s judgment and check in often via chat",
+          "score": "E"
+        },
+        {
+          "text": "Love it—you get to explore freely and find hidden gems on your own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a secret chest with a mythic weapon, but it’s guarded by a powerful AI boss. What do you do?",
+      "options": [
+        {
+          "text": "Assess the boss’s patterns and weaknesses, then plan a solo attack to take it down efficiently",
+          "score": "T"
+        },
+        {
+          "text": "Charge in immediately, using your quick reflexes to dodge the boss’s attacks and grab the weapon",
+          "score": "S"
+        },
+        {
+          "text": "Use the surrounding environment to lure the boss into a trap, like pushing it off a cliff",
+          "score": "N"
+        },
+        {
+          "text": "Call your squad over to help you take down the boss together so everyone can benefit",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Strategic Sentinel (ISTJ)",
+      "description": "You’re the reliable backbone of any squad, always prioritizing proven strategies and looting high-value resources. You never take unnecessary risks, excel at holding down key positions, and turn every match into a calculated mission. Your ISTJ traits make you the go-to player for keeping your team focused and prepared for anything.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Compassionate Guardian (ISFJ)",
+      "description": "You’re the teammate who always watches out for others, dropping extra healing items and covering your squad’s backs during fights. You thrive on keeping your team safe and supported, often putting their needs above your own. Your ISFJ traits make you the heart of the squad, turning every match into a collaborative, caring experience.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Visionary Strategist (INFJ)",
+      "description": "You see the bigger picture in every match, planning ahead to outmaneuver enemies and secure victory. You’re skilled at reading enemy movements and predicting their next moves, using your intuition to guide your squad to success. Your INFJ traits make you the quiet leader who turns long-term plans into epic wins.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Tactical Mastermind (INTJ)",
+      "description": "You’re the ultimate tactical player, always thinking several steps ahead and using the environment to your advantage. You excel at setting up ambushes and outsmarting enemies with clever builds and strategies. Your INTJ traits make you the strategic genius of the squad, turning every fight into a masterclass in gameplay.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptive Scavenger (ISTP)",
+      "description": "You’re the player who thrives on spontaneity, using quick reflexes and improvisation to turn tight situations into wins. You love experimenting with different weapons and builds, often finding creative ways to use common items to gain an edge. Your ISTP traits make you the wildcard who keeps enemies guessing at every turn.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Creative Explorer (ISFP)",
+      "description": "You’re the free-spirited player who loves exploring every corner of the map, discovering hidden bunkers and secret paths. You prefer to avoid direct fights when possible, using your creativity to build unique structures and find alternative routes to the safe zone. Your ISFP traits make you the curious adventurer of the squad.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Dreamer (INFP)",
+      "description": "You play Fortnite for the joy of the experience, often prioritizing fun and connection over winning. You’re quick to help new players and love creating unique moments with your squad, like building silly structures between fights. Your INFP traits make you the heartwarming teammate who turns matches into memorable adventures.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Innovative Problem-Solver (INTP)",
+      "description": "You’re the player who loves experimenting with unconventional strategies, like using traps in unexpected ways or building impossible structures. You’re constantly analyzing the game mechanics to find new ways to gain an edge. Your INTP traits make you the creative genius of the squad, always coming up with fresh, unexpected plays.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Fearless Daredevil (ESTP)",
+      "description": "You’re the adrenaline junkie who lives for close-quarters fights and risky plays. You love rushing into POIs headfirst, using your quick reflexes to take down enemies before they can react. Your ESTP traits make you the explosive frontliner of the squad, turning every match into an action-packed thrill ride.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Energetic Entertainer (ESFP)",
+      "description": "You’re the life of the squad, bringing energy and humor to every match. You love showing off your fancy builds and silly emojis, turning even the most tense fights into fun moments. Your ESFP traits make you the charismatic teammate who keeps morale high and every match feel like a party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Visionary (ENFP)",
+      "description": "You’re the imaginative player who always has a new, exciting idea for the squad—whether it’s exploring a hidden area or trying a crazy build strategy. You thrive on inspiration and connection, often turning matches into collaborative adventures. Your ENFP traits make you the creative spark that drives your squad to try new things.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Debonair Tactician (ENTP)",
+      "description": "You’re the witty, unpredictable player who loves outsmarting enemies with clever tricks and unexpected plays. You thrive on debate and brainstorming new strategies with your squad, turning every match into a mental chess game. Your ENTP traits make you the playful strategist who keeps both your squad and enemies on their toes.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Leader (ESTJ)",
+      "description": "You’re the natural leader of the squad, always taking charge and creating clear plans for every match. You excel at coordinating loot routes and battle strategies, ensuring everyone knows their role. Your ESTJ traits make you the decisive leader who turns chaotic matches into well-oiled machines, leading your squad to consistent wins.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warmhearted Coordinator (ESFJ)",
+      "description": "You’re the teammate who always makes sure everyone feels included, checking in on squad members and celebrating every small win. You excel at coordinating team plays and keeping morale high, turning every match into a supportive, fun experience. Your ESFJ traits make you the glue that holds your squad together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Mentor (ENFJ)",
+      "description": "You’re the charismatic leader who inspires your squad to do their best, turning every match into a chance to grow and improve. You excel at bringing out the best in your teammates, guiding them through tough fights and helping them learn new skills. Your ENFJ traits make you the motivational force that drives your squad to greatness.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Commanding Strategist (ENTJ)",
+      "description": "You’re the bold, decisive leader who dominates every match with your strategic mind and unshakable confidence. You excel at outplanning enemies and coordinating your squad to execute complex strategies flawlessly. Your ENTJ traits make you the fearless leader who leads your squad to victory after victory.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

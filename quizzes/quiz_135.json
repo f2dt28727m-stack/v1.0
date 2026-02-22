@@ -1,0 +1,348 @@
+{
+  "quizId": 1001,
+  "title": "What Brawl Stars Battle Role Will You Dominate in the Future?",
+  "category": "future",
+  "tags": [
+    "Brawl Stars",
+    "Future Battle Role",
+    "MBTI",
+    "Personality Test"
+  ],
+  "description": "Answer 12 questions to discover what Brawl Stars battle role you'll dominate in the future!",
+  "questions": [
+    {
+      "text": "When your team is losing a critical Brawl Ball match, you...",
+      "options": [
+        {
+          "text": "Pause the game to take a deep breath and analyze exactly where your team went wrong",
+          "score": "T"
+        },
+        {
+          "text": "Start calling out quick instructions to get your team back in formation and focused on passing",
+          "score": "E"
+        },
+        {
+          "text": "Sprint to seize the ball and make a straight shot for the enemy goal without hesitation",
+          "score": "S"
+        },
+        {
+          "text": "Veer off the expected path to sneak around the enemy team and catch them off guard",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend invites you to test a custom Brawl Stars map they made, you...",
+      "options": [
+        {
+          "text": "Ask for a written list of map rules and objectives before joining",
+          "score": "J"
+        },
+        {
+          "text": "Join immediately and start experimenting with weird character combinations",
+          "score": "P"
+        },
+        {
+          "text": "Bring three other friends along to turn it into a full 4v4 tournament",
+          "score": "E"
+        },
+        {
+          "text": "Play solo first to explore every corner and hidden trap on your own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You unlock a legendary Brawler you’ve never used before, you...",
+      "options": [
+        {
+          "text": "Watch a pro player’s tutorial to learn their optimal combos and loadouts",
+          "score": "S"
+        },
+        {
+          "text": "Jump into a casual match and try random abilities to feel out their playstyle",
+          "score": "N"
+        },
+        {
+          "text": "Message your squad to show off your new Brawler and ask them to play with you",
+          "score": "F"
+        },
+        {
+          "text": "Spend an hour calculating their damage output and cooldown timestamps",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When the Brawl Stars servers crash mid-tournament, you...",
+      "options": [
+        {
+          "text": "Start a group chat with your team to joke about the bad timing",
+          "score": "E"
+        },
+        {
+          "text": "Open a notebook to draft new strategies you can use when the servers come back",
+          "score": "J"
+        },
+        {
+          "text": "Switch to playing a mobile puzzle game until the issue is fixed",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm a new fan-made game mode to propose on the official forums",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your team needs to pick a Brawler for a tight Gem Grab match, you...",
+      "options": [
+        {
+          "text": "Pick the Brawler that counter’s the enemy team’s top character",
+          "score": "T"
+        },
+        {
+          "text": "Pick your teammate’s favorite Brawler to make them feel valued",
+          "score": "F"
+        },
+        {
+          "text": "Pick a Brawler you’ve never used before to surprise the enemy",
+          "score": "N"
+        },
+        {
+          "text": "Pick the Brawler you’ve won 90% of your matches with this week",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You finish a long Brawl Stars session and have free time, you...",
+      "options": [
+        {
+          "text": "Scroll through the Brawl Stars subreddit to discuss match highlights with strangers",
+          "score": "E"
+        },
+        {
+          "text": "Write down notes about your best plays to improve your skills later",
+          "score": "J"
+        },
+        {
+          "text": "Daydream about a hypothetical Brawler that can control gravity",
+          "score": "N"
+        },
+        {
+          "text": "Play a single-player campaign game to unwind without any team pressure",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A new seasonal event with exclusive skins is announced, you...",
+      "options": [
+        {
+          "text": "Create a daily schedule to complete all event challenges on time",
+          "score": "J"
+        },
+        {
+          "text": "Complete challenges whenever you feel like it, no strict plan",
+          "score": "P"
+        },
+        {
+          "text": "Team up with friends to split challenge tasks and finish faster",
+          "score": "E"
+        },
+        {
+          "text": "Focus only on the challenges that give you the skins you actually want",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re matched with a toxic teammate who keeps flaming the team, you...",
+      "options": [
+        {
+          "text": "Send a quick encouraging message to calm them down and refocus the team",
+          "score": "F"
+        },
+        {
+          "text": "Mute them immediately and keep playing to secure the win on your own",
+          "score": "T"
+        },
+        {
+          "text": "Leave the match and start a new one with a random team instead",
+          "score": "P"
+        },
+        {
+          "text": "Take a screenshot of their messages to report them after the game",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to design a new Brawl Stars event, you...",
+      "options": [
+        {
+          "text": "Propose a scavenger hunt where players find hidden gems across all game modes",
+          "score": "N"
+        },
+        {
+          "text": "Propose a 1v1 tournament with fixed Brawlers to test raw skill",
+          "score": "S"
+        },
+        {
+          "text": "Invite other players to vote on event ideas through a community poll",
+          "score": "E"
+        },
+        {
+          "text": "Draft a detailed budget and timeline for how the event would run",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you win a Brawl Stars championship with your team, you...",
+      "options": [
+        {
+          "text": "Host a virtual celebration party with your entire squad and their friends",
+          "score": "E"
+        },
+        {
+          "text": "Buy each teammate a small in-game gift to thank them for their hard work",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the final match replay to figure out how you can win even faster next time",
+          "score": "T"
+        },
+        {
+          "text": "Spend the rest of the day replaying the final goal in your head and smiling",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your school/work schedule changes, so you can only play Brawl Stars for 30 mins a day, you...",
+      "options": [
+        {
+          "text": "Use every second to grind ranked matches to climb the leaderboard",
+          "score": "S"
+        },
+        {
+          "text": "Try one new Brawler each day to expand your character pool",
+          "score": "N"
+        },
+        {
+          "text": "Schedule exact times to play with your squad so you never miss a team match",
+          "score": "J"
+        },
+        {
+          "text": "Play whatever mode feels fun in the moment, no set goals",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a glitch in Brawl Stars that lets you walk through walls, you...",
+      "options": [
+        {
+          "text": "Record a video and share it on TikTok to show off the glitch to your followers",
+          "score": "E"
+        },
+        {
+          "text": "Submit a detailed bug report to the Brawl Stars support team",
+          "score": "T"
+        },
+        {
+          "text": "Use the glitch to prank your friends in a private match",
+          "score": "F"
+        },
+        {
+          "text": "Experiment with the glitch to see if it works on every map and Brawler",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Ranked Battle Strategist",
+      "description": "In the future, you’ll be the master of Brawl Stars ranked play, turning every match into a calculated victory. You’ll analyze enemy patterns, draft perfect team comps, and lead your squad to top 100 rankings with your methodical plans. No detail escapes your notice—from cooldown timestamps to map rotations, you’re always three steps ahead. You’re an ISTJ: reliable, precise, and unshakable under pressure.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Support Main Mentor",
+      "description": "You’ll become the heart of every Brawl Stars team, focusing on keeping your teammates alive and empowered. You’ll remember every squad member’s playstyle, anticipate their needs mid-battle, and spend post-match time giving gentle feedback to help them grow. Your caring nature will earn you a loyal group of friends who rely on you to turn losing streaks into win streaks. You’re an ISFJ: nurturing, attentive, and team-focused.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Creative Brawler Innovator",
+      "description": "Future Brawl Stars will see you redefining meta play with your wild, unexpected strategies. You’ll use niche Brawlers in unheard-of ways, create custom loadouts that break the game, and turn casual matches into experimental labs. Your imagination knows no bounds—you’re the player everyone watches to learn new tricks. You’re an INFJ: visionary, creative, and always one step ahead of the trend.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Solo Match Virtuoso",
+      "description": "You’ll dominate Brawl Stars solo modes, becoming a legend in Showdown and Duels. You’ll prefer to play alone, using your quiet focus to outlast 9 other players with stealth and patience. You know every map’s hiding spots and can read enemy movements like a book. Your calm demeanor under fire makes you an unstoppable force in one-on-one battles. You’re an INTJ: strategic, independent, and fiercely self-reliant.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Casual Party Host",
+      "description": "Future Brawl Stars sessions with you will be nonstop fun and laughter. You’ll organize weekly squad nights, host custom tournaments, and turn every match into a social event. You don’t care about rankings—you play to bond with friends and make new ones. Your energy will draw players to you, turning random teammates into long-term gaming buddies. You’re an ESTP: outgoing, spontaneous, and the life of the virtual party.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Community Event Organizer",
+      "description": "You’ll become a beloved figure in the Brawl Stars community, organizing fan-made tournaments, map-making contests, and charity streams. You’ll listen to every player’s ideas, turn feedback into action, and build spaces where everyone feels welcome. Your natural charm and organizational skills will make you go-to for community events. You’re an ESFP: social, enthusiastic, and dedicated to bringing people together.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Meta Breaker Maverick",
+      "description": "In the future, you’ll be the player who shatters every Brawl Stars meta. You’ll pick underrated Brawlers, ignore pro advice, and create playstyles that no one else has thought of. You thrive on confusing opponents with your unpredictable moves and love proving that any character can win if played with heart. You’re an ENFP: adventurous, creative, and always challenging the status quo.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Competitive Team Captain",
+      "description": "You’ll lead Brawl Stars esports teams to championship wins with your charisma and tactical mind. You’ll motivate your teammates during tough matches, adjust strategies on the fly, and turn disorganized squads into well-oiled machines. Your ability to read both allies and enemies makes you an irreplaceable leader. You’re an ENTJ: decisive, commanding, and born to lead.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Pro Play Analyst",
+      "description": "Future Brawl Stars fans will look to your for in-depth match analysis and meta breakdowns. You’ll spend hours studying pro players, calculating win rates, and publishing detailed guides that help casual players improve. Your logical mind and eye for detail make you an authority on what works in high-level play. You’re an ISTP: analytical, practical, and obsessed with mastering the game’s mechanics.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Friendship Focused Team Player",
+      "description": "You’ll play Brawl Stars not for rankings, but for the joy of sharing matches with friends. You’ll always pick characters that complement your squad, celebrate their wins like your own, and never get mad at mistakes. Your positive attitude will make every game feel like a victory, even when you lose. You’re an ISFP: gentle, supportive, and focused on building meaningful connections.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Fan Content Creator",
+      "description": "In the future, you’ll build a massive following with your Brawl Stars fan art, story-driven animations, and creative lore theories. You’ll turn the game’s characters into complex stories, imagine alternate universes, and make fans fall in love with Brawl Stars all over again. Your creativity and empathy will make your content resonate with players of all ages. You’re an INFP: imaginative, empathetic, and a storyteller at heart.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Tactical Solo Innovator",
+      "description": "You’ll redefine solo Brawl Stars play with your unconventional strategies and quiet determination. You’ll spend hours testing new loadouts, exploring hidden map mechanics, and creating playstyles that catch enemies off guard. You don’t care about what’s meta—you care about what feels fun and effective for you. You’re an INTP: curious, innovative, and always questioning the norm.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Ranked Grind Leader",
+      "description": "You’ll become known as the ultimate Brawl Stars grinder, climbing the ranked ladder with relentless dedication. You’ll set daily win goals, practice the same Brawler for hours, and never give up until you reach the top. Your competitive spirit and work ethic will inspire others to push their limits. You’re an ESTJ: disciplined, goal-oriented, and always striving for excellence.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Casual Match Champion",
+      "description": "Future Brawl Stars casual modes will be your playground, where you’ll spread joy and chaos in equal measure. You’ll pick funny Brawlers, use silly emojis, and turn every match into a game of fun rather than competition. Your laid-back attitude will make you a favorite among random teammates. You’re an ESFJ: warm, outgoing, and dedicated to making every match a good time.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Community Connector",
+      "description": "You’ll be the glue that holds the Brawl Stars community together, creating spaces for players to share tips, make friends, and celebrate their love for the game. You’ll organize casual meetups, run support groups for new players, and advocate for positive play. Your kindness and social skills will make you a beloved figure in the community. You’re an ENFJ: charismatic, empathetic, and a natural peacemaker.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Meta Game Visionary",
+      "description": "In the future, you’ll be the first to spot new meta trends in Brawl Stars, predicting which Brawlers will rise to the top before anyone else. You’ll analyze balance changes, test new updates, and share your insights with the community. Your ability to connect the dots and see the big picture makes you an invaluable resource for players of all skill levels. You’re an ENTP: quick-witted, analytical, and always ahead of the curve.",
+      "mbti": "ENTP"
+    }
+  ]
+}

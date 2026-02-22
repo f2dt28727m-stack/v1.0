@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What’s your hidden Brawl Stars trait?",
+  "category": "hidden",
+  "tags": [
+    "Brawl Stars",
+    "Hidden Trait",
+    "Gaming Personality",
+    "Battle Strategy",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your hidden Brawl Stars trait!",
+  "questions": [
+    {
+      "text": "When your team invites you to an impromptu late-night Brawl Stars match, you...",
+      "options": [
+        {
+          "text": "Drop everything immediately and jump into the lobby, even grabbing a friend to fill the last spot",
+          "score": "E"
+        },
+        {
+          "text": "Start brainstorming a silly, untested combo you’ve been wanting to try out in a real match",
+          "score": "N"
+        },
+        {
+          "text": "Politely say you need to wrap up your current things first, and join in 20 minutes",
+          "score": "I"
+        },
+        {
+          "text": "First check the team’s average trophy level and recent win rates before deciding",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re picking a brawler for a new map you’ve never played. You...",
+      "options": [
+        {
+          "text": "Pick the newest brawler you haven’t used much, excited to experiment with its abilities",
+          "score": "N"
+        },
+        {
+          "text": "Ask your team what brawler they need most to balance the lineup",
+          "score": "F"
+        },
+        {
+          "text": "Choose a brawler you know inside out, confident you can adapt it to any map",
+          "score": "S"
+        },
+        {
+          "text": "Analyze the map’s obstacles and spawn points to pick the most effective counter",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Mid-battle, your teammate gets cornered by three enemies. You...",
+      "options": [
+        {
+          "text": "Send a quick emote to encourage them while you flank the enemies from behind",
+          "score": "F"
+        },
+        {
+          "text": "Charge in immediately to draw fire away from them, even if it risks your own health",
+          "score": "E"
+        },
+        {
+          "text": "Stay back and calculate the best moment to use your super ability to turn the tide",
+          "score": "T"
+        },
+        {
+          "text": "Focus on completing the objective first, trusting them to escape on their own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "After a crushing loss, you react by...",
+      "options": [
+        {
+          "text": "Laugh it off and suggest trying a completely random team composition next round",
+          "score": "P"
+        },
+        {
+          "text": "Mute all chat and spend 10 minutes practicing your brawler’s aim in training mode",
+          "score": "J"
+        },
+        {
+          "text": "Message your team to discuss exactly what went wrong and how to fix it",
+          "score": "T"
+        },
+        {
+          "text": "Share a meme in the chat to lighten the mood before starting the next match",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you have 100 gems to spend, you...",
+      "options": [
+        {
+          "text": "Use them to buy a few small chests, hoping for a lucky rare drop",
+          "score": "P"
+        },
+        {
+          "text": "Purchase a battle pass tier to unlock guaranteed rewards and progression",
+          "score": "J"
+        },
+        {
+          "text": "Buy the latest skin for your main brawler, just because it makes you feel cool",
+          "score": "N"
+        },
+        {
+          "text": "Save them up for the next brawler release, since you always need more options",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a Gem Grab match, your team is leading by 2 gems with 30 seconds left. You...",
+      "options": [
+        {
+          "text": "Hunker down near your base, guarding the gems you already have to secure the win",
+          "score": "I"
+        },
+        {
+          "text": "Fake a push to draw the enemies out, then switch to defending when they take the bait",
+          "score": "N"
+        },
+        {
+          "text": "Push forward to grab the last gem, ending the match early with a full set",
+          "score": "E"
+        },
+        {
+          "text": "Watch the enemy’s movements closely to predict their final push and intercept them",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A friend asks you to teach them how to play your favorite brawler. You...",
+      "options": [
+        {
+          "text": "Let them play a few rounds first, then point out what they’re doing wrong in real time",
+          "score": "N"
+        },
+        {
+          "text": "Walk them through every ability and optimal range step by step with concrete examples",
+          "score": "S"
+        },
+        {
+          "text": "Cheer them on constantly, focusing on building their confidence even if they make mistakes",
+          "score": "F"
+        },
+        {
+          "text": "Give them a list of common mistakes to avoid and strategies to dominate matches",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When a new game mode is released, you...",
+      "options": [
+        {
+          "text": "Jump in right away, experimenting with different brawlers to figure out the meta",
+          "score": "P"
+        },
+        {
+          "text": "Invite a group of friends to try it together, laughing through the messy first rounds",
+          "score": "E"
+        },
+        {
+          "text": "Wait for top players to post guides before trying it, so you don’t waste time learning the hard way",
+          "score": "J"
+        },
+        {
+          "text": "Play a few solo matches to understand the mechanics before playing with others",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re paired with three random teammates in a Power League match. You...",
+      "options": [
+        {
+          "text": "Say nothing and pick your main brawler, figuring the team will adapt around you",
+          "score": "I"
+        },
+        {
+          "text": "Quickly suggest a team composition based on each player’s main brawlers",
+          "score": "T"
+        },
+        {
+          "text": "Ask everyone what brawler they want to play to make sure everyone’s happy",
+          "score": "F"
+        },
+        {
+          "text": "Pick a support brawler to fill whatever role the team is missing",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck in a losing streak, you...",
+      "options": [
+        {
+          "text": "Switch to a completely different brawler you never play to shake things up",
+          "score": "P"
+        },
+        {
+          "text": "Call up a friend to play with you, since you perform better with someone you trust",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your most reliable brawler and focus on improving your mechanics",
+          "score": "J"
+        },
+        {
+          "text": "Analyze each loss to identify patterns in your opponents’ strategies and adjust yours",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a Showdown match, you find a rare power-up in a hidden corner. You...",
+      "options": [
+        {
+          "text": "Leave it there and circle around to ambush anyone who comes for it later",
+          "score": "I"
+        },
+        {
+          "text": "Take it and then move to a higher ground position to watch the rest of the battlefield",
+          "score": "S"
+        },
+        {
+          "text": "Grab it immediately and use it to take on the nearest enemy you spot",
+          "score": "E"
+        },
+        {
+          "text": "Imagine how using it could change the entire match’s outcome before deciding to take it",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you finally reach a new trophy milestone, you...",
+      "options": [
+        {
+          "text": "Take a break to stretch and celebrate quietly with a snack you love",
+          "score": "I"
+        },
+        {
+          "text": "Spend a few minutes thinking about all the little wins that got you here",
+          "score": "F"
+        },
+        {
+          "text": "Screenshot your achievement and post it in your Brawl Stars group chat to celebrate",
+          "score": "E"
+        },
+        {
+          "text": "Quickly start the next match to push for the next milestone without stopping",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Hidden Tactician",
+      "description": "You’re the silent mastermind of every battle. You spend hours analyzing map layouts and brawler counters, crafting strategies no one else sees coming. You prefer to stay back and direct plays rather than rush into the fray, trusting your calculated plans to lead your team to victory. Your hidden trait is your ability to turn every loss into a lesson for the next win.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Unconventional Innovator",
+      "description": "You’re always experimenting with wild, untested brawler combos that catch enemies off guard. You don’t care about the meta—you care about having fun and inventing new ways to play. Your hidden trait is your ability to turn even the most hopeless matches into a creative playground, surprising everyone with your out-of-the-box moves.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Dominant Leader",
+      "description": "You take charge the second you enter the lobby, calling shots and motivating your team to push harder. You thrive under pressure, turning tight matches into decisive wins with your bold commands. Your hidden trait is your ability to rally even the most disorganized teams into a force to be reckoned with, leading by example every step of the way.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Trickster Strategist",
+      "description": "You love messing with enemies’ heads—fake pushes, baiting traps, and switching tactics mid-battle. You’re quick to adapt to any situation, turning their own strategies against them. Your hidden trait is your ability to keep everyone guessing, making you one of the most unpredictable and dangerous players on the battlefield.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Empathetic Guardian",
+      "description": "You can read your teammates’ moods through the screen, always knowing when to send an encouraging emote or cover their back. You prioritize keeping the team morale high over individual trophies, making you the heart of any squad. Your hidden trait is your ability to turn tense, toxic matches into supportive, fun experiences for everyone involved.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Idealistic Dreamer",
+      "description": "You play Brawl Stars for the stories behind each match—the late-night wins with friends, the unexpected comebacks, the silly moments that make you laugh. You don’t care about ranks; you care about the joy of playing. Your hidden trait is your ability to find magic in every match, even when things don’t go your way.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Inspirational Mentor",
+      "description": "You love teaching new players how to improve, always taking the time to walk them through brawler abilities and map strategies. You celebrate every small win your teammates get, making them feel valued and confident. Your hidden trait is your ability to turn casual players into skilled brawlers, spreading your love for the game one match at a time.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Energetic Explorer",
+      "description": "You jump between every game mode and brawler, never staying in one place for too long. You’re always excited to try something new, whether it’s a skin, a combo, or a map. Your hidden trait is your ability to keep every match feeling fresh and exciting, bringing endless energy to every squad you join.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Defender",
+      "description": "You’re the rock of your team, always guarding the base or securing objectives no matter what. You stick to your tried-and-true strategies, never taking unnecessary risks. Your hidden trait is your ability to turn near-losses into wins with your steady, consistent play—everyone knows they can count on you to hold the line.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Protector",
+      "description": "You’re always watching your teammates’ backs, healing them with support brawlers or intercepting enemy attacks. You remember small details about your friends’ playstyles, adjusting your own to complement them. Your hidden trait is your ability to make every teammate feel safe and supported, turning every match into a collaborative success.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Structured Coordinator",
+      "description": "You follow a strict routine for every match—preparing your brawlers, checking win rates, and setting clear goals for the team. You hate chaos, so you always take charge of organizing the lineup and calling plays. Your hidden trait is your ability to turn messy matches into structured victories, ensuring every team member knows exactly what to do.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Social Connector",
+      "description": "You play Brawl Stars to stay connected with friends, always inviting everyone to join your matches. You remember everyone’s favorite brawlers and map preferences, making sure everyone has a good time. Your hidden trait is your ability to turn solo players into a tight-knit team, creating lasting friendships through the game.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Calm Improviser",
+      "description": "You thrive in chaotic matches, adapting your playstyle on the fly to whatever the enemy throws at you. You’re a master of quick reflexes, using your brawler’s abilities to turn tight spots into opportunities. Your hidden trait is your ability to stay calm under pressure, making split-second decisions that turn the tide of the match.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Free-Spirited Artist",
+      "description": "You play Brawl Stars like it’s a canvas—you pick brawlers for their aesthetic, use creative movement patterns, and focus on making every play feel unique. You don’t care about winning; you care about expressing yourself through your playstyle. Your hidden trait is your ability to turn every match into a work of art, making even losses feel satisfying.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Bold Aggressor",
+      "description": "You charge into battle the second the match starts, taking risks and pushing enemies back with your relentless attacks. You love the thrill of close-quarters combat, never shying away from a fight. Your hidden trait is your ability to intimidate enemies with your bold playstyle, making them hesitate before even approaching you.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Joyful Showman",
+      "description": "You play Brawl Stars to entertain—you use silly emotes, pull off flashy plays, and celebrate every win like it’s a championship. You love making your teammates laugh, turning even tough matches into fun experiences. Your hidden trait is your ability to spread joy through every match, making everyone around you look forward to playing with you.",
+      "mbti": "ESFP"
+    }
+  ]
+}

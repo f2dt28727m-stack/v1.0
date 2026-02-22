@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Billie Eilish-Coded Are You?",
+  "category": "how",
+  "tags": [
+    "Billie Eilish",
+    "Personality Test",
+    "Music Culture",
+    "Lifestyle",
+    "Pop Icon"
+  ],
+  "description": "Answer 12 questions to discover how much you align with Billie Eilish's unique vibe and inner world!",
+  "questions": [
+    {
+      "text": "When planning a weekend, you’re most drawn to:",
+      "options": [
+        {
+          "text": "Attend an underground music show where you can dance and connect with new people who share your taste",
+          "score": "E"
+        },
+        {
+          "text": "Stay in, rewatch your favorite movies, and work on a quiet craft project alone",
+          "score": "I"
+        },
+        {
+          "text": "Host a small, intimate gathering with your closest friends where you deep-dive into personal conversations",
+          "score": "F"
+        },
+        {
+          "text": "Spend the day exploring a hidden, overgrown forest trail you’ve never visited before",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a new song that moves you, you’re most likely to:",
+      "options": [
+        {
+          "text": "Analyze the lyrics and production details to figure out exactly why it resonates",
+          "score": "T"
+        },
+        {
+          "text": "Immediately share it with everyone you know, gushing about how it makes you feel",
+          "score": "E"
+        },
+        {
+          "text": "Add it to your private playlist and listen to it on repeat when you need to feel seen",
+          "score": "I"
+        },
+        {
+          "text": "Write down random thoughts and images it sparks in a notebook for future inspiration",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you had to design a personal brand, you’d prioritize:",
+      "options": [
+        {
+          "text": "Experimenting with different styles and ideas until something feels intuitively right",
+          "score": "P"
+        },
+        {
+          "text": "Creating something that feels raw and unfiltered, even if it doesn’t fit mainstream standards",
+          "score": "F"
+        },
+        {
+          "text": "Building a consistent, structured identity that clearly communicates your values to others",
+          "score": "J"
+        },
+        {
+          "text": "Choosing elements that are functional and comfortable over anything flashy or trendy",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a conflict, you tend to:",
+      "options": [
+        {
+          "text": "Focus on finding a practical solution that works for everyone involved",
+          "score": "S"
+        },
+        {
+          "text": "Step back and consider the long-term implications of each possible outcome",
+          "score": "N"
+        },
+        {
+          "text": "Listen closely to everyone’s feelings before suggesting a compromise",
+          "score": "F"
+        },
+        {
+          "text": "Address the issue directly and logically to resolve it quickly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach big decisions?",
+      "options": [
+        {
+          "text": "Make a pros and cons list to weigh all factual outcomes evenly",
+          "score": "T"
+        },
+        {
+          "text": "Trust your gut instinct after thinking through how each choice will make you feel",
+          "score": "F"
+        },
+        {
+          "text": "Stick to a pre-planned framework you’ve used successfully in the past",
+          "score": "J"
+        },
+        {
+          "text": "Leave your options open and adjust your choice as new information comes in",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling overwhelmed, you prefer to:",
+      "options": [
+        {
+          "text": "Call a friend and vent about your feelings to process them together",
+          "score": "E"
+        },
+        {
+          "text": "Take a long walk in nature to clear your head and reflect alone",
+          "score": "I"
+        },
+        {
+          "text": "Tackle one small, manageable task to regain a sense of control",
+          "score": "S"
+        },
+        {
+          "text": "Dive into a creative project to channel your emotions into something tangible",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "What’s your ideal way to express yourself creatively?",
+      "options": [
+        {
+          "text": "Write poetry that captures the quiet, unspoken moments of daily life",
+          "score": "F"
+        },
+        {
+          "text": "Build something functional, like a piece of furniture or a custom playlist",
+          "score": "S"
+        },
+        {
+          "text": "Design a conceptual art installation that challenges people’s perspectives",
+          "score": "N"
+        },
+        {
+          "text": "Create a structured series of videos that teach others a specific skill",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you interact with social media?",
+      "options": [
+        {
+          "text": "Post frequently, sharing behind-the-scenes snippets and engaging with followers daily",
+          "score": "E"
+        },
+        {
+          "text": "Use it only to consume content you care about, rarely posting or commenting",
+          "score": "I"
+        },
+        {
+          "text": "Curate a polished feed that perfectly reflects your chosen aesthetic",
+          "score": "J"
+        },
+        {
+          "text": "Post random, unfiltered updates whenever you feel like it, without overthinking",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When meeting new people, you’re most likely to:",
+      "options": [
+        {
+          "text": "Ask them about their favorite hobbies and personal stories to build a connection",
+          "score": "F"
+        },
+        {
+          "text": "Discuss current events or shared interests in a logical, engaging way",
+          "score": "T"
+        },
+        {
+          "text": "Observe their body language and energy before deciding to join the conversation",
+          "score": "I"
+        },
+        {
+          "text": "Initiate a lively discussion to get to know as many people in the room as possible",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "What’s your take on rules and traditions?",
+      "options": [
+        {
+          "text": "Follow them strictly to maintain order and avoid unnecessary conflict",
+          "score": "J"
+        },
+        {
+          "text": "Break them only when they stand in the way of being your true self",
+          "score": "F"
+        },
+        {
+          "text": "Bend them to fit your needs if it makes a situation more efficient",
+          "score": "S"
+        },
+        {
+          "text": "Ignore them entirely in favor of doing what feels right in the moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you’re working on a project, you focus on:",
+      "options": [
+        {
+          "text": "The big picture and how the project will impact people long-term",
+          "score": "N"
+        },
+        {
+          "text": "The small, specific details that make the project feel complete and intentional",
+          "score": "S"
+        },
+        {
+          "text": "Collaborating with others to combine different ideas into something better",
+          "score": "E"
+        },
+        {
+          "text": "Working independently to bring your unique vision to life without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you define success?",
+      "options": [
+        {
+          "text": "Living a life that feels authentic to who you are, regardless of others’ opinions",
+          "score": "F"
+        },
+        {
+          "text": "Achieving specific, measurable goals you’ve set for yourself over time",
+          "score": "J"
+        },
+        {
+          "text": "Making a tangible difference in the lives of people you care about",
+          "score": "S"
+        },
+        {
+          "text": "Exploring as many different experiences and ideas as possible throughout your life",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Quiet Iconoclast (INTP)",
+      "description": "You’re the silent rebel who marches to the beat of your own drum, just like Billie. You value intellectual curiosity over fitting in, often getting lost in deep dives into unconventional ideas. You prefer understated authenticity over flashy displays, and your dry wit and quiet confidence draw others to you. Like Billie, you’re unapologetically yourself—pure INTP energy.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Empathetic Visionary (INFJ)",
+      "description": "You possess Billie’s innate ability to connect with others’ deepest emotions, often acting as a quiet confidant for those around you. You have a vivid inner world full of big, compassionate ideas about making the world kinder, and you’re unafraid to speak up for what you believe in. Your introspective nature and gentle strength mirror Billie’s heartfelt approach to art and life—INFJ vibes through and through.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Creative Maverick (ENTP)",
+      "description": "You’re the playful provocateur who loves challenging the status quo, just like Billie. You thrive on brainstorming wild, unfiltered ideas and aren’t afraid to push boundaries to see what sticks. You’re charismatic and quick-witted, able to turn any conversation into an adventure. Like Billie, you blend humor with authenticity to keep people guessing—classic ENTP energy.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Compassionate Idealist (ENFJ)",
+      "description": "You’re the warm, inspiring leader who uses your voice to lift others up, just like Billie. You have a gift for making everyone feel seen and heard, and you’re always looking for ways to turn your values into action. You’re passionate about social justice and using your platform to create positive change. Like Billie, your empathy and drive make you a force for good—pure ENFJ.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Practical Rebel (ISTP)",
+      "description": "You’re the hands-on nonconformist who lets your actions speak louder than words, just like Billie. You’re skilled at solving problems on the fly and prefer to learn by doing rather than talking. You value independence and authenticity, often opting for understated, functional style over trendy fads. Like Billie, you’re calm under pressure and unapologetically yourself—ISTP through and through.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Intuitive Protector (ISFJ)",
+      "description": "You’re the quiet caregiver who prioritizes the needs of others above your own, just like Billie. You have a knack for remembering the small, meaningful details about the people you love and showing up for them in quiet, consistent ways. You value tradition but aren’t afraid to break rules to protect what matters most. Like Billie, your loyalty and warmth make you irreplaceable—classic ISFJ.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Energetic Innovator (ESTP)",
+      "description": "You’re the bold, spontaneous risk-taker who lives for the moment, just like Billie. You thrive in fast-paced environments and love trying new things without overthinking them. You’re charismatic and adaptable, able to connect with anyone in any situation. Like Billie, you blend confidence with authenticity to keep people on their toes—pure ESTP energy.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Nurturing Organizer (ESFJ)",
+      "description": "You’re the warm, structured host who makes everyone feel at home, just like Billie. You love bringing people together and planning thoughtful gatherings that create lasting memories. You value tradition and stability, but you’re also open to trying new things if they bring joy to others. Like Billie, your kindness and attention to detail make you a beloved presence—ESFJ through and through.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Deep Thinker (INTJ)",
+      "description": "You’re the strategic visionary who plans every move with intention, just like Billie. You have a clear sense of your long-term goals and aren’t afraid to take the road less traveled to achieve them. You value intelligence and independence, often preferring to work alone to avoid distractions. Like Billie, your quiet confidence and unique perspective set you apart—pure INTJ.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Sensitive Dreamer (INFP)",
+      "description": "You’re the soft-spoken idealist who sees the beauty in the quiet moments, just like Billie. You have a rich inner world full of poetry, music, and vivid daydreams. You value authenticity above all else and refuse to compromise your values to fit in. Like Billie, your gentle strength and emotional depth make you a beacon for others who feel like outsiders—INFP vibes.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Bold Strategist (ENTJ)",
+      "description": "You’re the confident leader who knows exactly what you want and how to get it, just like Billie. You’re skilled at inspiring others to follow your vision and aren’t afraid to make tough decisions when needed. You value efficiency and results, but you also have a hidden soft side that only your closest friends see. Like Billie, your drive and authenticity make you unstoppable—classic ENTJ.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Warm Dreamer (ENFP)",
+      "description": "You’re the optimistic free spirit who sees the good in everyone, just like Billie. You love exploring new ideas and connecting with people who share your passion for life. You’re creative and expressive, often using art or music to share your inner world with others. Like Billie, your joy and authenticity make you a ray of sunshine wherever you go—pure ENFP energy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Steady Realist (ISTJ)",
+      "description": "You’re the reliable grounded soul who values stability and consistency, just like Billie. You’re skilled at managing details and making sure things run smoothly, even in chaotic situations. You honor your commitments and take pride in being someone others can always count on. Like Billie, you’re quiet but strong, and your authenticity shines through in every action—ISTJ through and through.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Artistic Soul (ISFP)",
+      "description": "You’re the quiet creator who expresses yourself through art, music, or movement, just like Billie. You have a keen eye for beauty and a deep appreciation for the small, sensory moments in life. You value freedom and authenticity, often preferring to work alone to fully immerse yourself in your craft. Like Billie, your gentle spirit and creative talent make you unforgettable—pure ISFP.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dynamic Doer (ESTJ)",
+      "description": "You’re the efficient, no-nonsense leader who gets things done, just like Billie. You thrive in structured environments and love setting goals and crushing them. You value honesty and accountability, and you’re not afraid to speak your mind to keep things on track. Like Billie, you balance toughness with heart, making you a respected and trusted presence—classic ESTJ.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Playful Creator (ESFP)",
+      "description": "You’re the vibrant, fun-loving spirit who lives in the moment, just like Billie. You love making people laugh and using your creativity to bring joy to others. You’re outgoing and adaptable, able to turn any situation into a party. Like Billie, your authenticity and zest for life make you the life of any gathering—pure ESFP energy that lights up every room.",
+      "mbti": "ESFP"
+    }
+  ]
+}

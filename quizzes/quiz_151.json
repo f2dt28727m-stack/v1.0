@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Valorant Agent Type Are You?",
+  "category": "which",
+  "tags": [
+    "Valorant",
+    "Agent",
+    "Gaming",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your Valorant agent type!",
+  "questions": [
+    {
+      "text": "Before a round starts, you typically...",
+      "options": [
+        {
+          "text": "Sit quietly reviewing past enemy movement patterns to plan your solo positioning",
+          "score": "I"
+        },
+        {
+          "text": "Double-check your utility count and ensure your loadout matches the map’s common chokepoints",
+          "score": "S"
+        },
+        {
+          "text": "Call the team into voice chat to assign roles and share your excitement for the round",
+          "score": "E"
+        },
+        {
+          "text": "Map out a surprise flank route no one else has considered to catch enemies off guard",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When a teammate makes a mistake and loses their life, you...",
+      "options": [
+        {
+          "text": "Improvise a new push to take advantage of the enemy’s overextension from the trade",
+          "score": "P"
+        },
+        {
+          "text": "Quickly reassure them that it’s okay and suggest a backup plan to recover the site",
+          "score": "F"
+        },
+        {
+          "text": "Analyze what went wrong and point out specific adjustments they can make next round",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your pre-planned fallback strategy to minimize further losses",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You spot an enemy hiding in a corner—what do you do?",
+      "options": [
+        {
+          "text": "Use your utility to clear the exact spot where the enemy is hiding, no guesswork involved",
+          "score": "S"
+        },
+        {
+          "text": "Alert the team immediately and charge in to engage the enemy head-on",
+          "score": "E"
+        },
+        {
+          "text": "Silently mark the position to your team and wait for the perfect moment to strike",
+          "score": "I"
+        },
+        {
+          "text": "Predict their escape route and set up a trap to cut them off before they retreat",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re the last one alive in a 1v4 scenario. Your move is to...",
+      "options": [
+        {
+          "text": "Calculate the enemy’s likely positions and pick them off one by one with precise shots",
+          "score": "T"
+        },
+        {
+          "text": "Follow your pre-practiced 1v4 protocol, sticking to cover and timed peeks",
+          "score": "J"
+        },
+        {
+          "text": "Focus on distracting the enemy to buy time for your team to respawn and rotate back",
+          "score": "F"
+        },
+        {
+          "text": "Whip out your most unpredictable utility to confuse the enemy and create chaos",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your team wants to revise its overall strategy. You...",
+      "options": [
+        {
+          "text": "Suggest small, incremental changes to your current strategy that have proven effective in past games",
+          "score": "S"
+        },
+        {
+          "text": "Lead the discussion, encouraging everyone to share their ideas and build a collaborative plan",
+          "score": "E"
+        },
+        {
+          "text": "Think about how the team’s overall strategy can be reworked for different map scenarios",
+          "score": "N"
+        },
+        {
+          "text": "Listen quietly and only speak up when you have a highly specific, actionable suggestion",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You finally charge your ultimate ability. You use it when...",
+      "options": [
+        {
+          "text": "Wait for the exact moment the team initiates a push to use it for maximum team impact",
+          "score": "J"
+        },
+        {
+          "text": "Save it to protect a teammate who’s low on health and about to be eliminated",
+          "score": "F"
+        },
+        {
+          "text": "Use it immediately to capitalize on a random opening, even if it’s not part of the original plan",
+          "score": "P"
+        },
+        {
+          "text": "Use it to secure a site capture by eliminating all enemies in the objective area",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a loss, you spend time...",
+      "options": [
+        {
+          "text": "Debate the round’s key moments with the team to figure out what went right and wrong together",
+          "score": "E"
+        },
+        {
+          "text": "Review your own gameplay footage privately to identify personal mistakes",
+          "score": "I"
+        },
+        {
+          "text": "Focus on specific plays, like missed shots or mistimed utilities, to fix in the next game",
+          "score": "S"
+        },
+        {
+          "text": "Think about how the team’s overall strategy can be reworked for different map scenarios",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A new agent is released. How do you learn to play them?",
+      "options": [
+        {
+          "text": "Guess their potential combos with your agent’s abilities and experiment in a custom game",
+          "score": "N"
+        },
+        {
+          "text": "Analyze their ability cooldowns and damage output to find their weaknesses",
+          "score": "T"
+        },
+        {
+          "text": "Watch a short clip of their basic utilities to learn their core functions before playing",
+          "score": "S"
+        },
+        {
+          "text": "Ask a friend who’s played them before to share their experience and tips for using them effectively",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You need to pick an agent for a random map. You choose...",
+      "options": [
+        {
+          "text": "Pick a random agent you’ve never played before to keep things interesting",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your main agent, who you know can perform well on any map",
+          "score": "J"
+        },
+        {
+          "text": "Choose an agent with team-focused abilities to support and coordinate with your squad",
+          "score": "E"
+        },
+        {
+          "text": "Select a solo-focused agent who can hold a site alone without needing constant backup",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The enemy plants the spike in a tight, enclosed space. You...",
+      "options": [
+        {
+          "text": "Set up a trap outside the space to catch enemies who come to guard the spike",
+          "score": "N"
+        },
+        {
+          "text": "Use your utility to clear the immediate area of enemies before attempting to defuse",
+          "score": "S"
+        },
+        {
+          "text": "Calculate the defuse time and use a smoke to block enemy sight while you defuse",
+          "score": "T"
+        },
+        {
+          "text": "Ask your team to cover you from all angles while you focus on defusing quickly",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your team is split on whether to push or fallback. You...",
+      "options": [
+        {
+          "text": "Call a quick vote and go with the majority decision to keep the team unified",
+          "score": "E"
+        },
+        {
+          "text": "Suggest splitting the team—some push, some fallback—to cover both options",
+          "score": "P"
+        },
+        {
+          "text": "Follow the pre-agreed rule for this scenario to avoid confusion",
+          "score": "J"
+        },
+        {
+          "text": "Make the call yourself based on your own observation of the enemy’s positions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re bored in a custom game. You decide to...",
+      "options": [
+        {
+          "text": "Practice your aim on bots to improve your headshot accuracy",
+          "score": "S"
+        },
+        {
+          "text": "Create a new game mode with weird rules, like only using melee and utilities",
+          "score": "N"
+        },
+        {
+          "text": "Invite friends to join you and mess around with silly ability combos",
+          "score": "F"
+        },
+        {
+          "text": "Test different agent ability ranges to find the optimal distance for each utility",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Sage (ISTJ)",
+      "description": "You’re Sage, the calm, dependable backbone of any team. As an ISTJ, you prioritize structure and reliability—you’re always the first to patch up wounded teammates and secure sites with impenetrable barriers. You avoid unnecessary risks, sticking to proven strategies that keep your squad safe. Your quiet dedication and attention to detail make you indispensable in high-pressure scenarios.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Cypher (ISFJ)",
+      "description": "You’re Cypher, the watchful guardian who never misses a detail. As an ISFJ, you thrive on protecting others and anticipating threats before they arise. You set up cameras and traps to monitor every corner, using your observations to keep your team one step ahead. Your loyalty and focus on keeping your squad safe make you the ultimate support agent.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Omen (INFJ)",
+      "description": "You’re Omen, the mysterious strategist who manipulates shadow and perception. As an INFJ, you see the bigger picture, using your abilities to control the battlefield and outthink enemies. You prefer working behind the scenes, creating confusion with smokes and teleports to set up your team for victory. Your quiet intensity and visionary approach make you a formidable opponent.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Brimstone (INTJ)",
+      "description": "You’re Brimstone, the tactical commander who leads with precision. As an INTJ, you excel at creating complex strategies that dominate the map. Your orbital strikes and smoke screens turn the tide of battle, and you always have a backup plan for every scenario. Your logical, forward-thinking mindset makes you the natural leader of any team.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Jett (ISTP)",
+      "description": "You’re Jett, the agile daredevil who thrives on chaos. As an ISTP, you’re quick on your feet, using your dash and updraft to outmaneuver enemies and take unexpected angles. You prefer solo flanks and high-risk plays, trusting your reflexes to carry you through tight situations. Your adaptability and love for action make you a wildcard opponents fear.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Raze (ISFP)",
+      "description": "You’re Raze, the explosive enthusiast who brings energy to every round. As an ISFP, you live in the moment, using your bombs and rocket launchers to create chaos and break through enemy lines. You love experimenting with new ability combos, turning every fight into a thrilling spectacle. Your playful spirit and bold approach make you a fan favorite.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Killjoy (INFP)",
+      "description": "You’re Killjoy, the creative inventor who turns technology into victory. As an INFP, you’re driven by your unique vision, using your turrets and nanoswarms to control the battlefield in unconventional ways. You prefer planning elaborate traps that catch enemies off guard, combining innovation with a quiet passion for outsmarting opponents.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Sova (INTP)",
+      "description": "You’re Sova, the curious explorer who uncovers every enemy’s secret. As an INTP, you love solving puzzles, using your recon arrows and drone to map out enemy positions. You’re always experimenting with new ways to use your abilities, turning every round into a chance to learn and adapt. Your analytical mind and love for discovery make you an invaluable scout.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Phoenix (ESTP)",
+      "description": "You’re Phoenix, the fiery showman who loves being in the spotlight. As an ESTP, you thrive on action, charging into battle with flashbangs and healing flames. You never back down from a fight, using your reckless energy to inspire your team and intimidate enemies. Your bold, charismatic personality makes you the heart of any squad.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Reyna (ESFP)",
+      "description": "You’re Reyna, the ruthless predator who feeds on victory. As an ESFP, you live for the thrill of the kill, using your devour and dismiss abilities to dominate solo fights. You thrive on attention, using every elimination to boost your power and strike fear into enemies. Your bold, competitive spirit makes you a force to be reckoned with.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Neon (ENFP)",
+      "description": "You’re Neon, the electrifying speedster who brings chaos to the battlefield. As an ENFP, you’re full of energy, using your lightning dash and overcharge to zip around the map and catch enemies off guard. You love experimenting with new plays, turning every round into an adventure. Your infectious enthusiasm and creative approach make you a joy to play with.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Yoru (ENTP)",
+      "description": "You’re Yoru, the trickster who manipulates reality to outsmart enemies. As an ENTP, you love breaking the rules, using your portals and mimics to create elaborate deceptions. You thrive on confusing opponents, turning every fight into a mental game of cat and mouse. Your playful, innovative mindset makes you a unpredictable and exciting agent.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Viper (ESTJ)",
+      "description": "You’re Viper, the strict chemist who controls the battlefield with toxic fumes. As an ESTJ, you demand discipline and precision, using your poison clouds and walls to lock down sites and force enemies into submission. You stick to rigid strategies, trusting your expertise to crush any opposition. Your no-nonsense attitude makes you a formidable commander.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Skye (ESFJ)",
+      "description": "You’re Skye, the nurturing guide who leads her team to victory with kindness. As an ESFJ, you prioritize your squad’s well-being, using your healing trinkets and animal companions to support and protect them. You’re always encouraging your teammates, using your positive energy to boost morale in tough situations. Your warm, supportive nature makes you a beloved team member.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Astra (ENFJ)",
+      "description": "You’re Astra, the cosmic visionary who shapes the battlefield from afar. As an ENFJ, you see the potential in every team member, using your star abilities to create opportunities for your squad. You’re a natural leader, guiding your team with a calm, confident voice and inspiring them to achieve greatness. Your empathetic, forward-thinking approach makes you a powerful ally.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "KAY/O (ENTJ)",
+      "description": "You’re KAY/O, the ruthless war machine built to suppress enemy abilities. As an ENTJ, you lead with authority, using your flashes and suppression grenades to dominate the battlefield. You demand excellence from your team, pushing them to perform at their best in every round. Your strategic mind and uncompromising attitude make you a fearsome leader.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

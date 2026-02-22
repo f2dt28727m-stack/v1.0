@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Genshin Impact Decision-Making Type Are You?",
+  "category": "whatwould",
+  "tags": [
+    "Genshin Impact",
+    "Teyvat",
+    "Personality Test",
+    "Decision Making",
+    "What Would You Do"
+  ],
+  "description": "Answer 12 questions to discover how you'd respond to unexpected moments across Teyvat!",
+  "questions": [
+    {
+      "text": "You stumble upon a hidden cave glowing with strange runes. You immediately...",
+      "options": [
+        {
+          "text": "Check the cave entrance for loose rocks or traps before stepping inside",
+          "score": "S"
+        },
+        {
+          "text": "Call out to your travel companions to come investigate with you",
+          "score": "E"
+        },
+        {
+          "text": "Sneak in alone to examine the runes without drawing attention",
+          "score": "I"
+        },
+        {
+          "text": "Imagine the ancient civilization that left these runes and wonder their purpose",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A local merchant begs you to retrieve their stolen goods from a bandit camp. You...",
+      "options": [
+        {
+          "text": "Decide to wander towards the camp, figuring out your plan as you go",
+          "score": "P"
+        },
+        {
+          "text": "Agree right away, feeling for the merchant’s distress",
+          "score": "F"
+        },
+        {
+          "text": "Ask for details about the camp’s layout first to plan your approach",
+          "score": "T"
+        },
+        {
+          "text": "Set a strict timeline to retrieve the goods and return before sunset",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "While crossing a stormy mountain pass, you spot a traveler stranded in the snow. You...",
+      "options": [
+        {
+          "text": "Wave and shout to get their attention, then rush over to help",
+          "score": "E"
+        },
+        {
+          "text": "Take out your map to find the nearest shelter before approaching",
+          "score": "S"
+        },
+        {
+          "text": "Wonder what led them to this pass and if they’re on a secret quest",
+          "score": "N"
+        },
+        {
+          "text": "Slowly approach alone to avoid startling them in their vulnerable state",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a village festival celebrating a local deity. You...",
+      "options": [
+        {
+          "text": "Stick to your original itinerary, leaving after a quick greeting to reach your next destination",
+          "score": "J"
+        },
+        {
+          "text": "Join the crowd to dance and sing with the villagers all night",
+          "score": "E"
+        },
+        {
+          "text": "Wander the festival at your own pace, stopping only at stalls that catch your eye",
+          "score": "P"
+        },
+        {
+          "text": "Chat with elderly villagers to learn the story behind the deity’s legend",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A scholar argues fiercely with you about the history of Liyue’s Geo Archon. You...",
+      "options": [
+        {
+          "text": "Point out factual inconsistencies in their argument using your notes from research",
+          "score": "T"
+        },
+        {
+          "text": "Listen carefully to their perspective, even if you disagree, to understand their point of view",
+          "score": "F"
+        },
+        {
+          "text": "Challenge them to a friendly debate to see who can present a more compelling case",
+          "score": "E"
+        },
+        {
+          "text": "Nod politely and change the subject to avoid escalating the tension",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find an injured fox in the woods. It’s too scared to let you touch it. You...",
+      "options": [
+        {
+          "text": "Leave it alone but leave fresh meat and water nearby so it can recover",
+          "score": "I"
+        },
+        {
+          "text": "Stay nearby and speak softly to it until it trusts you enough to accept help",
+          "score": "F"
+        },
+        {
+          "text": "Use a first-aid kit from your bag to create a makeshift splint from afar",
+          "score": "S"
+        },
+        {
+          "text": "Wonder if this fox is a spirit in disguise, connected to the forest’s magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Paimon suggests a spontaneous detour to a floating island. You...",
+      "options": [
+        {
+          "text": "Insist on following your planned route to reach your destination on time",
+          "score": "J"
+        },
+        {
+          "text": "Agree immediately, excited to explore something new without planning",
+          "score": "P"
+        },
+        {
+          "text": "Ask Paimon if she knows of any dangers or resources on the island first",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about the views from the island and what secrets it might hold",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with solving a puzzle to open a treasure chest in Dragonspine. You...",
+      "options": [
+        {
+          "text": "Test each possible combination methodically until you find the right one",
+          "score": "S"
+        },
+        {
+          "text": "Look for patterns in the puzzle’s design that hint at the solution",
+          "score": "N"
+        },
+        {
+          "text": "Work through the puzzle step-by-step, marking each attempt to avoid mistakes",
+          "score": "T"
+        },
+        {
+          "text": "Ask a nearby adventurer if they’ve solved the puzzle before to save time",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "A stranger offers you a mysterious potion that claims to grant visions of your past. You...",
+      "options": [
+        {
+          "text": "Refuse politely, worried about the potion’s unknown side effects",
+          "score": "T"
+        },
+        {
+          "text": "Drink it immediately, curious to see what memories it will unlock",
+          "score": "P"
+        },
+        {
+          "text": "Accept it but save it for later, in case you need it for a future quest",
+          "score": "J"
+        },
+        {
+          "text": "Ask the stranger about their own experience with the potion before deciding",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re caught in a sudden rainstorm while traveling through Mondstadt. You...",
+      "options": [
+        {
+          "text": "Run to the nearest tavern and join other travelers for a warm drink until it passes",
+          "score": "E"
+        },
+        {
+          "text": "Take shelter under a tree and watch the rain fall, enjoying the quiet moment",
+          "score": "I"
+        },
+        {
+          "text": "Put on your raincoat and continue walking, determined to reach your destination",
+          "score": "J"
+        },
+        {
+          "text": "Dance in the rain, letting the water wash away your travel fatigue",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You discover that a friend has been hiding a dangerous secret from you. You...",
+      "options": [
+        {
+          "text": "Confront them directly, asking why they kept the secret from you",
+          "score": "T"
+        },
+        {
+          "text": "Wait for them to tell you on their own, not wanting to push them into a corner",
+          "score": "F"
+        },
+        {
+          "text": "Talk to other mutual friends to see if they knew about the secret too",
+          "score": "E"
+        },
+        {
+          "text": "Reflect on your friendship and wonder how this secret changes your trust in them",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to plan a feast for the people of Sumeru City. You...",
+      "options": [
+        {
+          "text": "Create a detailed menu and timeline, assigning tasks to volunteers to ensure everything runs smoothly",
+          "score": "J"
+        },
+        {
+          "text": "Let the volunteers decide the menu and schedule, adapting to their ideas as you go",
+          "score": "P"
+        },
+        {
+          "text": "Survey the locals to find out their favorite dishes and drinks first",
+          "score": "S"
+        },
+        {
+          "text": "Design a themed feast based on Sumeru’s ancient stories, adding decorative touches to impress guests",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Diligent Keeper of Teyvat’s Rules",
+      "description": "You’re the steady, reliable traveler who sticks to the facts and follows through on every promise. When faced with chaos in Teyvat, you rely on proven methods and practical solutions to get things done. You value tradition and order, and your careful planning ensures no detail is missed—making you a trusted ally to all who know you.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Compassionate Guardian of Teyvat’s Vulnerable",
+      "description": "You’re the kind-hearted traveler who always puts others first. Whether it’s helping a lost child or tending to an injured animal, you go out of your way to ease the suffering of those around you. Your quiet generosity and attentive care make you a beloved figure in every village you visit across Teyvat.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Mystic Seer of Teyvat’s Hidden Truths",
+      "description": "You’re the intuitive traveler who sees beyond the surface of Teyvat’s mysteries. You often sense the unspoken feelings of others and can predict how events will unfold before they happen. Your deep empathy and visionary mind drive you to uncover the secrets that bind the world together, even when no one else understands.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Architect of Teyvat’s Future",
+      "description": "You’re the sharp-witted traveler who plans every move with precision. When faced with challenges, you see the bigger picture and create elaborate strategies to overcome obstacles. You value knowledge and innovation, and your ability to turn complex ideas into action makes you a force to be reckoned with in any corner of Teyvat.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Resourceful Wanderer of Teyvat’s Wilds",
+      "description": "You’re the hands-on traveler who thrives on solving problems in the moment. Whether it’s fixing a broken cart or disarming a trap, you use your quick thinking and practical skills to adapt to any situation. You prefer to work alone, exploring Teyvat’s most remote areas without relying on others for help.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Gentle Soul of Teyvat’s Natural World",
+      "description": "You’re the quiet traveler who finds joy in Teyvat’s small, beautiful moments. You prefer to connect with nature rather than crowds, often spending hours watching the stars or listening to the wind in the trees. Your gentle demeanor and creative spirit make you a calming presence to anyone lucky enough to travel with you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Dreamer of Teyvat’s Magic",
+      "description": "You’re the imaginative traveler who sees the magic in every corner of Teyvat. You believe in the power of kindness and hope, even when faced with darkness. You often daydream about making the world a better place, and your unwavering integrity inspires others to follow their own hearts.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Scholar of Teyvat’s Secrets",
+      "description": "You’re the analytical traveler who can’t stop questioning how Teyvat works. You spend hours studying ancient texts and experimenting with elemental magic to uncover the world’s hidden laws. You prefer to work alone, lost in your thoughts, and your brilliant mind often leads you to discoveries no one else has made.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Fearless Adventurer of Teyvat’s Frontiers",
+      "description": "You’re the bold traveler who jumps into action without thinking. You love taking risks and exploring Teyvat’s most dangerous areas, always looking for the next thrill. Your quick reflexes and charm make you a favorite among other adventurers, and you never back down from a challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Vibrant Celebrant of Teyvat’s Joys",
+      "description": "You’re the outgoing traveler who brings life to every gathering in Teyvat. You love dancing, singing, and sharing stories with anyone who will listen. Your positive energy and spontaneous nature make you the life of the party, and you always find a way to turn a boring day into an adventure.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Explorer of Teyvat’s Wonders",
+      "description": "You’re the optimistic traveler who sees endless possibilities in Teyvat. You’re always coming up with new ideas for adventures and convincing your friends to join you. Your warm personality and creative mind make you a natural leader, and you never let fear stop you from chasing your dreams.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Witty Debater of Teyvat’s Ideas",
+      "description": "You’re the clever traveler who loves a good debate. You challenge every idea you hear, always looking for a better way to do things. Your quick wit and innovative thinking make you a formidable opponent in any argument, and you thrive on solving Teyvat’s most complex puzzles with your unique perspective.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Leader of Teyvat’s Communities",
+      "description": "You’re the decisive traveler who knows how to get things done. When a village is in crisis, you step in to create order and assign tasks to everyone involved. You value efficiency and tradition, and your strong leadership skills make you a respected figure in every corner of Teyvat.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warm-Hearted Host of Teyvat’s Gatherings",
+      "description": "You’re the friendly traveler who makes everyone feel welcome. You love hosting feasts and celebrations for the people of Teyvat, always going out of your way to ensure everyone is happy. Your kind nature and attention to detail make you a beloved friend to all, and you’re often the first person others turn to for help.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Guide of Teyvat’s Travelers",
+      "description": "You’re the charismatic traveler who inspires others to be their best. You have a gift for understanding people’s strengths and helping them reach their full potential. Your passion for making Teyvat a better place motivates everyone around you, and you’re often seen leading groups of adventurers on important quests.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Ambitious Strategist of Teyvat’s Conflicts",
+      "description": "You’re the bold traveler who always has a plan. When faced with a major threat to Teyvat, you quickly assess the situation and create a strategic approach to win. Your strong will and natural leadership make you a powerful ally, and you’re not afraid to make tough decisions to protect the people you care about.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

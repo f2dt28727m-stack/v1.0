@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Genshin Impact Adventure Type Are You?",
+  "category": "which",
+  "tags": [
+    "Genshin Impact",
+    "Adventure",
+    "MBTI",
+    "Personality",
+    "Game"
+  ],
+  "description": "Answer 12 questions to discover your Genshin Impact adventure type!",
+  "questions": [
+    {
+      "text": "When you arrive at a new region in Teyvat, you first...",
+      "options": [
+        {
+          "text": "Check your map for nearby resource nodes and marked landmarks",
+          "score": "S"
+        },
+        {
+          "text": "Strike up conversations with local villagers to hear their stories and rumors",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about the ancient secrets the region might hold beneath its surface",
+          "score": "N"
+        },
+        {
+          "text": "Head straight for the quietest corner to explore hidden paths alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "During a sudden domain challenge, you react by...",
+      "options": [
+        {
+          "text": "Focus on your own role and execute your skills without distraction",
+          "score": "I"
+        },
+        {
+          "text": "Stick to the pre-agreed battle plan you discussed earlier",
+          "score": "J"
+        },
+        {
+          "text": "Adapt your tactics on the fly based on the enemies’ movements",
+          "score": "P"
+        },
+        {
+          "text": "Call out strategies to your party members to coordinate attacks",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you find a mysterious locked chest, you...",
+      "options": [
+        {
+          "text": "Speculate about the ancient treasures or curses inside without rushing to open it",
+          "score": "N"
+        },
+        {
+          "text": "Analyze the lock’s mechanism to pick it using nearby tools",
+          "score": "T"
+        },
+        {
+          "text": "Search the immediate area for a hidden key or lever to open it",
+          "score": "S"
+        },
+        {
+          "text": "Wonder who once owned the chest and what story it holds",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a companion for a long journey, you’d pick someone who...",
+      "options": [
+        {
+          "text": "Helps you solve tricky puzzles and stays calm under pressure",
+          "score": "T"
+        },
+        {
+          "text": "Keeps the mood light with jokes and stories about their travels",
+          "score": "E"
+        },
+        {
+          "text": "Respects your need for silence and only speaks when necessary",
+          "score": "I"
+        },
+        {
+          "text": "Comforts you when you’re tired and shares their own vulnerable moments",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you have free time in Mondstadt, you...",
+      "options": [
+        {
+          "text": "Climb to the top of Stormterror’s Lair to watch the clouds roll by",
+          "score": "N"
+        },
+        {
+          "text": "Help the Windrise blacksmith gather firewood and repair tools",
+          "score": "S"
+        },
+        {
+          "text": "Use the time to organize your inventory and plan your next quest",
+          "score": "J"
+        },
+        {
+          "text": "Wander aimlessly through the streets, stopping wherever catches your eye",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a difficult moral choice in a quest, you...",
+      "options": [
+        {
+          "text": "Base your choice on what will lead to the most logical, long-term benefit",
+          "score": "T"
+        },
+        {
+          "text": "Imagine the ripple effects of each choice on the future of Teyvat",
+          "score": "N"
+        },
+        {
+          "text": "Prioritize the feelings and needs of the people affected by your decision",
+          "score": "F"
+        },
+        {
+          "text": "Look for guidance from trusted figures who know the situation well",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When exploring the Chasm, you...",
+      "options": [
+        {
+          "text": "Team up with other explorers to share supplies and warn each other of dangers",
+          "score": "E"
+        },
+        {
+          "text": "Mark down every ore deposit and rare plant you find in your notebook",
+          "score": "S"
+        },
+        {
+          "text": "Travel alone, using your lantern to light narrow tunnels without company",
+          "score": "I"
+        },
+        {
+          "text": "Curious about the ancient civilizations that once lived in its depths",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When preparing for a festival in Liyue, you...",
+      "options": [
+        {
+          "text": "Join in the spontaneous dances and try new street foods without a plan",
+          "score": "P"
+        },
+        {
+          "text": "Help the elderly citizens decorate their homes and listen to their festival memories",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the most efficient way to set up decorations to save time",
+          "score": "T"
+        },
+        {
+          "text": "Make a checklist of tasks to ensure everything is ready on time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a forgotten ruin, you...",
+      "options": [
+        {
+          "text": "Collect every artifact and relic to add to your collection",
+          "score": "S"
+        },
+        {
+          "text": "Explore quietly, taking mental notes of every detail without sharing them",
+          "score": "I"
+        },
+        {
+          "text": "Invite a friend to explore with you so you can discuss your findings together",
+          "score": "E"
+        },
+        {
+          "text": "Spend hours decoding ancient inscriptions to uncover its history",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your party member is low on health during battle, you...",
+      "options": [
+        {
+          "text": "Follow the emergency protocol you established before the battle",
+          "score": "J"
+        },
+        {
+          "text": "Adapt your strategy to protect them while continuing to attack enemies",
+          "score": "P"
+        },
+        {
+          "text": "Drop everything to heal them, even if it means putting yourself at risk",
+          "score": "F"
+        },
+        {
+          "text": "Assess the situation to decide if healing is necessary or if retreat is better",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you finish a major quest, you...",
+      "options": [
+        {
+          "text": "Return to your teapot and spend the evening reading or tending to plants",
+          "score": "I"
+        },
+        {
+          "text": "Review your quest log to mark completed objectives and collect rewards",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about the next grand adventure you’ll embark on in Teyvat",
+          "score": "N"
+        },
+        {
+          "text": "Celebrate with a feast at the Wangsheng Funeral Parlor with all your friends",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When planning a cross-region quest, you...",
+      "options": [
+        {
+          "text": "Leave room for detours to explore any interesting spots that pop up",
+          "score": "P"
+        },
+        {
+          "text": "Make sure every detail is scheduled, from rest stops to supply runs",
+          "score": "J"
+        },
+        {
+          "text": "Consider how the quest will affect the lives of the people you meet along the way",
+          "score": "F"
+        },
+        {
+          "text": "Map out the fastest route to minimize travel time and maximize efficiency",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Liyue’s Guiding Liaison (ENFJ)",
+      "description": "You’re the heart of any party, just like the wise leaders of Liyue. You listen to every traveler’s story, guide them through tricky quests, and ensure no one feels left behind. Your warmth and empathy draw others to you, and you always strive to make Teyvat a more connected, caring place. As an ENFJ, you turn every adventure into a chance to lift others up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Wanderer of the Wilds (ENFP)",
+      "description": "You’re a dreamer who sees magic in every corner of Teyvat. From the floating islands of the Chasm to the blooming fields of Sumeru, you chase stories and unexpected moments. You make friends with rangers, scholars, and even hilichurls, finding beauty in every encounter. As an ENFP, your journey is all about following your curiosity and spreading joy wherever you go.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Strategist of the Seven Stars (ENTJ)",
+      "description": "You’re a natural leader, like the calculating members of the Qixing. You plan every quest to perfection, anticipate obstacles before they arise, and lead your party to victory with unshakable confidence. Your focus on efficiency and results drives you to conquer even the most dangerous domains. As an ENTJ, you turn chaos into order and make sure Teyvat’s challenges are met head-on.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Sumeru’s Curious Scholar (ENTP)",
+      "description": "You’re the trickster of Teyvat, always questioning the status quo and looking for new puzzles to solve. You debate with Sumeru’s scholars about ancient civilizations, invent clever ways to bypass domain traps, and turn every boring errand into a game. As an ENTP, your quick wit and love of innovation make every adventure feel like a playful challenge.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Mondstadt’s Community Keeper (ESFJ)",
+      "description": "You’re the glue that holds Mondstadt’s community together, like the warm bakers of Windrise and the caring nuns of the Cathedral. You help villagers with their daily tasks, organize festivals, and remember every traveler’s favorite dish. Your kindness and attention to detail make everyone feel at home. As an ESFJ, you turn every small act into a gesture of love for Teyvat.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Festival Reveler of Inazuma (ESFP)",
+      "description": "You live for the moment, dancing through Inazuma’s festivals and chasing every exciting opportunity. You join street performers in Ritou, sample every new snack in the city, and turn quiet nights into impromptu parties. Your energy is contagious, and you make every journey feel like a celebration. As an ESFP, you find joy in the present and share it with everyone around you.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Lawkeeper of Inazuma (ESTJ)",
+      "description": "You value tradition and order, like the dedicated members of the Shogun’s forces. You follow the rules of each region, complete quests with precision, and make sure your party stays on track. Your reliability and sense of duty make you the go-to companion for important missions. As an ESTJ, you bring stability to every adventure and uphold the values that keep Teyvat safe.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Adventurer’s Guild Maverick (ESTP)",
+      "description": "You’re a hands-on traveler who jumps into action without hesitation. You lead charge against hilichurl camps, pick locks to hidden chests with ease, and turn every dangerous situation into a test of skill. Your confidence and quick reflexes make you a legend in the Adventurer’s Guild. As an ESTP, you thrive on adrenaline and live for the thrill of the next challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Sumeru’s Hidden Seer (INFJ)",
+      "description": "You’re a quiet observer who sees the deeper truths of Teyvat. You spend hours in the Sumeru Archives decoding ancient prophecies, listen to the whispers of the Dendro Archon, and guide travelers toward their true paths without fanfare. Your intuition and wisdom make you a trusted confidant. As an INFJ, your journey is about uncovering the secrets that bind Teyvat together.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Glider of the Clouds (INFP)",
+      "description": "You’re a gentle soul who finds peace in Teyvat’s quietest places. You glide over the forests of Fontaine, write poems about the stars above Liyue, and care for wounded animals you find on your travels. Your idealism and compassion make you a defender of the weak. As an INFP, your adventure is about staying true to your heart and protecting the beauty of Teyvat.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Master of the Abyss Order (INTJ)",
+      "description": "You’re a strategic thinker who plans years ahead. You study the patterns of the Abyss Order, design complex traps to outsmart enemies, and uncover the hidden motives of Teyvat’s most powerful figures. Your focus and independence make you a formidable force. As an INTJ, your journey is about unraveling Teyvat’s greatest mysteries and shaping its future on your terms.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Fontaine’s Inventive Alchemist (INTP)",
+      "description": "You’re a curious mind who loves to tinker and experiment. You spend days in Fontaine’s labs creating new potions, analyze the mechanics of elemental bursts, and find unconventional solutions to impossible puzzles. Your love of knowledge drives you to explore every corner of Teyvat’s science and magic. As an INTP, your adventure is about understanding how the world works.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Mondstadt’s Caretaker (ISFJ)",
+      "description": "You’re a loyal companion who puts others’ needs before your own. You patch up your party’s wounds after battles, share your rations with hungry villagers, and remember every small detail about your friends’ preferences. Your kindness and reliability make you the backbone of any adventure. As an ISFJ, your journey is about taking care of the people and places you love.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Ranger of the Chasm (ISFP)",
+      "description": "You’re a free spirit who finds joy in Teyvat’s natural beauty. You hike through the Chasm’s hidden valleys, paint landscapes of Liyue’s mountains, and play music for the animals that cross your path. You avoid conflict whenever possible, preferring to connect with nature instead. As an ISFP, your adventure is about living in harmony with Teyvat’s wild places.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Adventurer’s Guild Archivist (ISTJ)",
+      "description": "You’re a meticulous traveler who keeps every detail in order. You maintain a perfect log of every quest, organize your inventory by element type, and always arrive on time for Guild missions. Your dedication and precision make sure no resource is wasted and no task is left unfinished. As an ISTJ, your journey is about building a legacy of reliability and care.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Fontaine’s Mechanic (ISTP)",
+      "description": "You’re a hands-on problem-solver who fixes broken weapons, disarms traps, and builds tools to explore Teyvat’s most remote areas. You prefer to learn by doing, experimenting with elemental reactions and figuring out how things work on your own. Your calm under pressure and technical skill make you an invaluable companion. As an ISTP, your adventure is about mastering the practical arts of the world.",
+      "mbti": "ISTP"
+    }
+  ]
+}

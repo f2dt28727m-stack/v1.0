@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Fortnite Character Matches Your Personality?",
+  "category": "which",
+  "tags": [
+    "Fortnite",
+    "Video Game",
+    "Personality",
+    "MBTI",
+    "Character Quiz"
+  ],
+  "description": "Answer 12 questions to discover which Fortnite character you are destined to be!",
+  "questions": [
+    {
+      "text": "When the storm starts closing in, you immediately...",
+      "options": [
+        {
+          "text": "Rally your nearby squad to map out a coordinated push toward the safe zone",
+          "score": "E"
+        },
+        {
+          "text": "Veer off alone to find a hidden corner and fortify your position quietly",
+          "score": "I"
+        },
+        {
+          "text": "Stick to the marked path you planned earlier, prioritizing high-ground spots you scouted",
+          "score": "S"
+        },
+        {
+          "text": "Take an unexpected route through unexplored terrain, hoping to catch enemies off guard",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You loot a chest full of gear—what’s your first move?",
+      "options": [
+        {
+          "text": "Grab healing items first, saving extras to share with your squad if they get hurt",
+          "score": "F"
+        },
+        {
+          "text": "Prioritize the highest-damage weapon, calculating its potential to take out multiple enemies",
+          "score": "T"
+        },
+        {
+          "text": "Sort through every item methodically to organize your inventory for quick access",
+          "score": "J"
+        },
+        {
+          "text": "Snatch whatever catches your eye, adjusting your loadout as the match progresses",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A rival squad ambushes your team—how do you react?",
+      "options": [
+        {
+          "text": "Charge forward to draw fire, giving your squad time to flank the enemies",
+          "score": "E"
+        },
+        {
+          "text": "Duck into cover and analyze enemy positions before making a calculated strike",
+          "score": "T"
+        },
+        {
+          "text": "Tend to injured teammates first, using shields to get them back in the fight",
+          "score": "F"
+        },
+        {
+          "text": "Sprint through dense terrain to circle around and surprise the ambushers",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re waiting for the storm to pass—how do you spend the time?",
+      "options": [
+        {
+          "text": "Chat with your squad about their favorite Fortnite moments from past matches",
+          "score": "E"
+        },
+        {
+          "text": "Practice building quick ramps to sharpen your reflexes for future fights",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about wild strategies to take down the final remaining squad",
+          "score": "N"
+        },
+        {
+          "text": "Sit quietly listening for enemy footsteps to avoid being caught off guard",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare mythic weapon—what do you do?",
+      "options": [
+        {
+          "text": "Keep it for yourself, knowing your precise aim will maximize its power",
+          "score": "T"
+        },
+        {
+          "text": "Offer it to your squad’s strongest fighter to help the team win",
+          "score": "F"
+        },
+        {
+          "text": "Test it on nearby objects to learn its firing rate and damage output",
+          "score": "S"
+        },
+        {
+          "text": "Experiment with using it to trigger environmental traps for enemies",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your squad disagrees on whether to push or hide—you...",
+      "options": [
+        {
+          "text": "Insist on sticking to the original plan you all agreed on pre-match",
+          "score": "J"
+        },
+        {
+          "text": "Call a quick vote to go with the majority and keep the team unified",
+          "score": "E"
+        },
+        {
+          "text": "Suggest hiding a bit longer then pushing when the storm shifts",
+          "score": "P"
+        },
+        {
+          "text": "Listen quietly then point out which option has the highest success rate",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re eliminated early from the match—how do you feel?",
+      "options": [
+        {
+          "text": "Frustrated you let your squad down, immediately offering tips to help them win",
+          "score": "F"
+        },
+        {
+          "text": "Curious about your mistake, replaying the fight in your head to learn from it",
+          "score": "T"
+        },
+        {
+          "text": "Relieved to take a break, grabbing a snack while watching your squad play",
+          "score": "I"
+        },
+        {
+          "text": "Eager to jump into a new match right away to apply what you learned",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When building a base, you prioritize...",
+      "options": [
+        {
+          "text": "Creating a simple, sturdy structure with clear emergency escape routes",
+          "score": "S"
+        },
+        {
+          "text": "Designing an elaborate multi-level fort with hidden attack tunnels",
+          "score": "N"
+        },
+        {
+          "text": "Positioning it close to your squad for easy coordinated defense",
+          "score": "E"
+        },
+        {
+          "text": "Building it in a remote spot where enemies are less likely to find it",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a choice of consumables—you pick...",
+      "options": [
+        {
+          "text": "A shield potion to stay safe during upcoming battles",
+          "score": "S"
+        },
+        {
+          "text": "A shadow bomb to sneak past enemies undetected",
+          "score": "N"
+        },
+        {
+          "text": "A chug jug to share with your squad if someone needs a full heal",
+          "score": "F"
+        },
+        {
+          "text": "A grenade launcher to take out multiple enemies in tight spaces",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The final circle is a small open field—you...",
+      "options": [
+        {
+          "text": "Run around the edges using tall grass to stay hidden while scouting",
+          "score": "P"
+        },
+        {
+          "text": "Build a massive perimeter wall to block enemy shots and create cover",
+          "score": "J"
+        },
+        {
+          "text": "Yell your position to coordinate a final push with remaining squad members",
+          "score": "E"
+        },
+        {
+          "text": "Crouch low and stay still, waiting for enemies to reveal themselves",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a new game mode you’ve never tried before—you...",
+      "options": [
+        {
+          "text": "Invite friends to play with you, learning together as you go",
+          "score": "E"
+        },
+        {
+          "text": "Watch a quick tutorial to learn basics before jumping in solo",
+          "score": "S"
+        },
+        {
+          "text": "Jump in immediately, experimenting to figure out rules on your own",
+          "score": "N"
+        },
+        {
+          "text": "Stick to your usual mode for now, mastering it before trying something new",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you win a match, you celebrate by...",
+      "options": [
+        {
+          "text": "Cheer loudly with your squad, reminiscing about the game’s best moments",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the final fight to note what worked and what to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Take a victory screenshot to share with friends on social media",
+          "score": "E"
+        },
+        {
+          "text": "Quietly smile to yourself, already planning your next game’s strategy",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Agent Jones",
+      "description": "You’re Agent Jones, the methodical, no-nonsense agent who always sticks to the mission plan. You prioritize order and practicality, using sharp observational skills to outmaneuver threats. Your squad knows they can count on you to hold the line and follow through on promises, even when chaos erupts around you.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Peely",
+      "description": "You’re Peely, the warm-hearted banana who puts others before himself. You’re always looking out for your squad, ready to share healing items or offer a pep talk when morale is low. Your quiet kindness and attention to small details make you the glue that keeps your team together during intense matches.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Foundation",
+      "description": "You’re The Foundation, the introspective leader who sees the bigger picture. You have a deep sense of purpose, fighting not just for match victory but for something greater. Your quiet wisdom and ability to understand others’ motivations make you a trusted advisor, willing to make tough choices to protect what matters.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Midas",
+      "description": "You’re Midas, the strategic mastermind who always has a plan B (and C, and D). You think several steps ahead, using your analytical mind to turn dire situations to your advantage. You’re unafraid to take calculated risks, and your ability to outthink enemies makes you a formidable opponent on the battlefield.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Meowscles",
+      "description": "You’re Meowscles, the laid-back mechanic who thrives in hands-on situations. You love tinkering with weapons and building quick, functional structures to outsmart enemies. You’re adaptable and resourceful, able to turn random loot into powerful tools, and prefer to let your actions speak louder than words.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Skye",
+      "description": "You’re Skye, the free-spirited adventurer who finds joy in the journey. You love exploring uncharted terrain and using intuition to navigate tricky situations. You’re in tune with your surroundings, and your ability to connect with nature (and your wolf companion) gives you an edge in unexpected ways.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Raven",
+      "description": "You’re Raven, the mysterious dreamer who marches to their own drum. You have a rich inner world, finding inspiration in quiet moments between battles. You fight with purpose and integrity, willing to stand up for what you believe in even when it means going against the crowd.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Jules",
+      "description": "You’re Jules, the curious inventor who loves to experiment with new ideas. You’re always asking ‘what if?’ and finding unconventional ways to use items and abilities. Your sharp mind and love of problem-solving make you a valuable squad asset, thriving when given freedom to explore creative solutions.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Brutus",
+      "description": "You’re Brutus, the commanding leader who demands excellence from himself and others. You thrive in structured environments, quick to take charge when the squad needs direction. You value loyalty and discipline, ensuring your team is always prepared for whatever the storm throws their way.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Party Llama",
+      "description": "You’re the Party Llama, the cheerful social presence that lights up every squad. You’re always looking to make others smile, whether sharing rare loot or cracking jokes mid-battle. Your ability to read the room and keep morale high makes you essential to any team, at your best when surrounded by friends.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Imagined",
+      "description": "You’re The Imagined, the charismatic leader who inspires others to be their best. You have a natural ability to connect with people, using empathy to rally your squad toward a common goal. You fight with passion and purpose, willing to sacrifice your own victory chance to lift up teammates.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Omega",
+      "description": "You’re Omega, the ambitious warrior who dominates every battlefield. You have a clear vision of victory, unafraid to take charge and make tough decisions. Your strategic mind and unwavering determination make you a force to be reckoned with, always finding a way to come out on top no matter the odds.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Fishstick",
+      "description": "You’re Fishstick, the playful daredevil who lives for the thrill of the fight. You love jumping into action headfirst, using quick reflexes to outmaneuver enemies. You’re adaptable and spontaneous, always ready to try something new, finding joy in the chaos of every match.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "TNTina",
+      "description": "You’re TNTina, the explosive entertainer who brings energy to every fight. You love using chaos to your advantage, setting up traps and explosions to catch enemies off guard. You’re outgoing and fun-loving, at your best when you can let loose and enjoy the moment with your squad.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Renegade Raider",
+      "description": "You’re Renegade Raider, the bold free-spirited rebel who refuses to follow rules. You love taking risks and challenging the status quo, using creativity to come up with wild strategies. You’re passionate and enthusiastic, able to inspire others to join your cause in unstructured situations.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Chaos Agent",
+      "description": "You’re Chaos Agent, the mischievous trickster who thrives on confusion. You love outsmarting enemies with unexpected tactics and pranks, turning the battlefield into your personal playground. You’re quick-witted and adaptable, never getting bored—every match is a new chance to create chaos and have fun.",
+      "mbti": "ENTP"
+    }
+  ]
+}

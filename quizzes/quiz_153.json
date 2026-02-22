@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Dua Lipa-Esque Are You?",
+  "category": "how",
+  "tags": [
+    "Dua Lipa",
+    "Celebrity Personality",
+    "Pop Culture",
+    "Lifestyle Traits",
+    "Personality Test"
+  ],
+  "description": "Answer 12 questions to discover how closely you align with Dua Lipa's iconic, unapologetic vibe!",
+  "questions": [
+    {
+      "text": "When planning a night out with friends, you most likely...",
+      "options": [
+        {
+          "text": "Opt for a low-key dinner at your favorite cozy spot with just a few close pals",
+          "score": "I"
+        },
+        {
+          "text": "Suggest trying the new, trendy club everyone’s talking about and invite a big group",
+          "score": "E"
+        },
+        {
+          "text": "Propose an unexpected adventure like a late-night drive to a scenic overlook",
+          "score": "N"
+        },
+        {
+          "text": "Pick a place with great reviews and a menu you know you’ll love",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When working on a creative project, you prioritize...",
+      "options": [
+        {
+          "text": "Following a clear timeline and checking off tasks one by one",
+          "score": "J"
+        },
+        {
+          "text": "Letting ideas flow freely and exploring unplanned directions",
+          "score": "P"
+        },
+        {
+          "text": "Making sure the final product feels true to your personal values",
+          "score": "F"
+        },
+        {
+          "text": "Ensuring every choice serves a clear, purposeful goal",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "A friend asks for advice on a personal problem. You respond by...",
+      "options": [
+        {
+          "text": "Sharing a similar experience and validating their feelings first",
+          "score": "F"
+        },
+        {
+          "text": "Breaking down the issue into actionable steps they can take",
+          "score": "T"
+        },
+        {
+          "text": "Listening quietly and letting them lead the conversation to what they need",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorming a handful of creative solutions together right away",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When getting ready for an important event, you focus on...",
+      "options": [
+        {
+          "text": "Putting together an outfit that feels uniquely you, even if it’s not the latest trend",
+          "score": "N"
+        },
+        {
+          "text": "Choosing pieces that are comfortable and fit the event’s dress code perfectly",
+          "score": "S"
+        },
+        {
+          "text": "Taking your time to experiment with different styles until you feel confident",
+          "score": "P"
+        },
+        {
+          "text": "Sticking to a tried-and-true routine you know works for you",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re at a party where you don’t know many people. You...",
+      "options": [
+        {
+          "text": "Grab a drink and observe the room, only approaching someone if you feel a genuine connection",
+          "score": "I"
+        },
+        {
+          "text": "Walk around and strike up conversations with anyone who looks interesting",
+          "score": "E"
+        },
+        {
+          "text": "Look for small, meaningful details about the space or people to start a conversation",
+          "score": "S"
+        },
+        {
+          "text": "Imagine fun backstories for the people around you while sipping your drink",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a big purchase, you decide based on...",
+      "options": [
+        {
+          "text": "How it makes you feel and whether it resonates with your personal style",
+          "score": "F"
+        },
+        {
+          "text": "Researching reviews and comparing features to get the best value",
+          "score": "T"
+        },
+        {
+          "text": "Going with your gut feeling the second you see it",
+          "score": "P"
+        },
+        {
+          "text": "Sticking to a pre-planned budget and list of must-have features",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle unexpected changes to your schedule?",
+      "options": [
+        {
+          "text": "See it as an opportunity to try something new and go with the flow",
+          "score": "P"
+        },
+        {
+          "text": "Feel flustered at first but quickly adjust to make the most of it",
+          "score": "N"
+        },
+        {
+          "text": "Prefer to reschedule and get back to your original plan if possible",
+          "score": "J"
+        },
+        {
+          "text": "Focus on the practical steps needed to adapt without overthinking",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with leading a group project. You...",
+      "options": [
+        {
+          "text": "Delegate tasks based on each person’s strengths and check in regularly",
+          "score": "E"
+        },
+        {
+          "text": "Take charge of the most complex parts to ensure everything is done right",
+          "score": "T"
+        },
+        {
+          "text": "Encourage everyone to share their ideas and collaborate closely",
+          "score": "F"
+        },
+        {
+          "text": "Work independently on your portion and meet deadlines quietly",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you have free time, you’re most likely to...",
+      "options": [
+        {
+          "text": "Try a new hobby you’ve been curious about for months",
+          "score": "N"
+        },
+        {
+          "text": "Re-read your favorite book or rewatch your go-to movie",
+          "score": "S"
+        },
+        {
+          "text": "Host a small gathering with friends to catch up",
+          "score": "E"
+        },
+        {
+          "text": "Spend time alone doing something calming like journaling or gardening",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when someone criticizes your work?",
+      "options": [
+        {
+          "text": "Ask for specific feedback to improve your next project",
+          "score": "T"
+        },
+        {
+          "text": "Feel hurt at first but remind yourself it’s just one person’s opinion",
+          "score": "F"
+        },
+        {
+          "text": "Brush it off quickly and focus on what you loved about your work",
+          "score": "P"
+        },
+        {
+          "text": "Take notes and adjust your approach to avoid similar criticism later",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When planning a vacation, you prefer...",
+      "options": [
+        {
+          "text": "Having a loose itinerary with plenty of free time to explore spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "A detailed plan with booked activities and exact times for each day",
+          "score": "J"
+        },
+        {
+          "text": "Choosing a destination known for its natural beauty and quiet relaxation",
+          "score": "S"
+        },
+        {
+          "text": "Picking a vibrant city with endless opportunities for new experiences",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You meet someone new. What stands out to you first?",
+      "options": [
+        {
+          "text": "The way they tell stories and interact with the people around them",
+          "score": "E"
+        },
+        {
+          "text": "The small details like their accessories or the scent of their perfume/cologne",
+          "score": "S"
+        },
+        {
+          "text": "The depth of their thoughts and the way they see the world",
+          "score": "N"
+        },
+        {
+          "text": "How they make you feel when you’re talking one-on-one",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Unapologetic Trailblazer",
+      "description": "Like Dua Lipa, you exude unshakable confidence and a knack for setting trends. You’re decisive, love taking charge of any situation, and aren’t afraid to speak your mind. Your bold energy draws others to you, and you thrive when leading the way. You’re an ENTJ—strategic, charismatic, and always in control of your narrative.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Vibrant Trendsetter",
+      "description": "You embody Dua Lipa’s playful, outgoing spirit and love being in the spotlight. You’re always up for trying new things, connecting with people, and turning any moment into a fun adventure. Your infectious energy makes you the life of the party, and you never shy away from expressing yourself freely. You’re an ENFP—optimistic, creative, and full of life.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Steady Grounded Icon",
+      "description": "You share Dua Lipa’s reliable, no-nonsense approach to life. You value consistency, prioritize practicality, and always follow through on your commitments. People turn to you for solid advice and calm support, as you stay composed even in chaotic situations. You’re an ISTJ—dependable, responsible, and the rock everyone can count on.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Dreamy Visionary",
+      "description": "You mirror Dua Lipa’s imaginative, forward-thinking side. You spend your time daydreaming about big ideas, exploring new perspectives, and chasing your wildest dreams. You’re deeply in touch with your emotions and use them to fuel your creativity. You’re an INFP—idealistic, introspective, and always guided by your core values.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Charismatic Performer",
+      "description": "You have Dua Lipa’s magnetic stage presence and ability to captivate any audience. You love interacting with others, sharing your passions, and making people feel seen. You’re quick-witted and adaptable, thriving in social settings where you can shine. You’re an ESFP—spontaneous, outgoing, and always living in the moment.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Strategic Innovator",
+      "description": "You embody Dua Lipa’s sharp, innovative mindset. You love solving complex problems, thinking outside the box, and coming up with clever solutions. You’re logical and analytical, but also know how to balance that with a playful, adventurous side. You’re an ESTP—resourceful, practical, and always one step ahead of the game.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Introspective Storyteller",
+      "description": "You share Dua Lipa’s deep, reflective nature and talent for telling meaningful stories. You prefer quiet moments of self-reflection, value deep connections with a few close friends, and use your experiences to shape your perspective. You’re an ISFP—gentle, artistic, and deeply in tune with the world around you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Sharp Analytical Thinker",
+      "description": "You mirror Dua Lipa’s strategic, detail-oriented approach to her craft. You love diving into data, analyzing patterns, and making decisions based on facts rather than feelings. You’re calm under pressure and excel at breaking down complex issues into manageable parts. You’re an INTP—curious, logical, and always seeking to understand the world better.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Warm Collaborative Leader",
+      "description": "You have Dua Lipa’s ability to bring people together and create something amazing as a team. You’re empathetic, supportive, and always put others’ needs first. You thrive in environments where you can collaborate and help everyone reach their full potential. You’re an ESFJ—caring, organized, and the heart of any group.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Confident Problem-Solver",
+      "description": "You embody Dua Lipa’s assertive, solution-focused attitude. You love taking on challenges, making tough decisions, and getting things done efficiently. You’re direct and honest, but also have a warm side that makes people trust you. You’re an ESTJ—practical, responsible, and a natural leader who gets results.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Quietly Compassionate Guide",
+      "description": "You share Dua Lipa’s gentle, compassionate spirit and desire to help others. You’re a good listener, deeply empathetic, and always willing to go out of your way to support someone in need. You prefer to work behind the scenes, making a difference without seeking recognition. You’re an ISFJ—kind, loyal, and the unsung hero of every circle.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Visionary Strategist",
+      "description": "You mirror Dua Lipa’s big-picture thinking and ability to plan for the future. You’re always looking ahead, imagining what could be, and working to turn your ideas into reality. You’re independent and driven, with a clear sense of purpose that guides every choice. You’re an INTJ—innovative, determined, and always focused on your goals.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Playful Social Butterfly",
+      "description": "You have Dua Lipa’s fun-loving, social energy and ability to make friends anywhere. You love meeting new people, trying new things, and creating unforgettable memories. You’re adaptable and easygoing, always going with the flow and making the best of any situation. You’re an ENTP—witty, curious, and always ready for a new adventure.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Calm Balanced Voice",
+      "description": "You embody Dua Lipa’s poised, balanced approach to life. You’re even-tempered, logical, and always able to see both sides of an issue. You value harmony and work hard to keep the peace in any situation. You’re an INFJ—insightful, empathetic, and a natural mediator who brings clarity to chaos.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Energetic Team Player",
+      "description": "You share Dua Lipa’s collaborative, energetic spirit and love being part of a team. You’re enthusiastic, supportive, and always willing to pitch in to help the group succeed. You thrive in lively environments where you can connect with others and have fun while working. You’re an ENFJ—charismatic, caring, and a natural motivator who lifts others up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Independent Creative Soul",
+      "description": "You mirror Dua Lipa’s independent, creative streak and ability to march to the beat of your own drum. You value your alone time, use it to fuel your creativity, and aren’t afraid to go against the grain. You’re deeply introspective and use your unique perspective to create something truly original. You’re an INTP—creative, curious, and always true to yourself.",
+      "mbti": "INTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Yellowjackets Character Type Are You?",
+  "category": "which",
+  "tags": [
+    "Yellowjackets",
+    "TV Drama",
+    "Personality Type",
+    "MBTI",
+    "Survival"
+  ],
+  "description": "Answer 12 questions to discover which Yellowjackets character type you are!",
+  "questions": [
+    {
+      "text": "When your group faces a sudden crisis, you react by...",
+      "options": [
+        {
+          "text": "Pull people aside one by one to listen to their fears and concerns",
+          "score": "F"
+        },
+        {
+          "text": "Quickly list all possible risks and pick the safest course of action",
+          "score": "T"
+        },
+        {
+          "text": "Start delegating tasks to keep everyone busy and focused",
+          "score": "J"
+        },
+        {
+          "text": "Wait to see how others act before adjusting your response",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a strange object in the woods; you...",
+      "options": [
+        {
+          "text": "Call over your friends to show them and get their opinions",
+          "score": "E"
+        },
+        {
+          "text": "Study its details and try to figure out its practical use",
+          "score": "S"
+        },
+        {
+          "text": "Hide it in your bag to examine later when you’re alone",
+          "score": "I"
+        },
+        {
+          "text": "Wonder about its origins and make up stories of how it got there",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A teammate disagrees with your plan. You...",
+      "options": [
+        {
+          "text": "Ask them to explain their perspective fully before responding",
+          "score": "F"
+        },
+        {
+          "text": "Present facts and data to prove your plan is the best choice",
+          "score": "T"
+        },
+        {
+          "text": "Adjust your plan slightly to include their input",
+          "score": "P"
+        },
+        {
+          "text": "Insist on following the original plan to stay on track",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you have free time during a crisis, you...",
+      "options": [
+        {
+          "text": "Tell stories to lift everyone’s spirits and keep morale high",
+          "score": "E"
+        },
+        {
+          "text": "Sketch or write down your thoughts to process what’s happening",
+          "score": "I"
+        },
+        {
+          "text": "Practice building a shelter or starting a fire to stay prepared",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about all the things you’ll do once you’re rescued",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You need to find food quickly. You...",
+      "options": [
+        {
+          "text": "Look for berries and plants you recognize from past trips",
+          "score": "S"
+        },
+        {
+          "text": "Set up a creative trap using materials you find nearby",
+          "score": "N"
+        },
+        {
+          "text": "Team up with others to cover more ground faster",
+          "score": "E"
+        },
+        {
+          "text": "Hunt alone in areas others haven’t checked yet",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A teammate breaks down emotionally. You...",
+      "options": [
+        {
+          "text": "Sit with them quietly and hold their hand without saying anything",
+          "score": "F"
+        },
+        {
+          "text": "Give them a specific task to do to distract them from their pain",
+          "score": "T"
+        },
+        {
+          "text": "Bring the whole group over to comfort them together",
+          "score": "E"
+        },
+        {
+          "text": "Let them have space and check on them later when they’re calm",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a long-term survival plan, you...",
+      "options": [
+        {
+          "text": "Create a detailed schedule for daily tasks and resource usage",
+          "score": "J"
+        },
+        {
+          "text": "Keep the plan flexible to adapt to unexpected changes",
+          "score": "P"
+        },
+        {
+          "text": "Focus on immediate needs like water and shelter first",
+          "score": "S"
+        },
+        {
+          "text": "Prioritize building signals for rescuers to find you",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You hear a strange noise at night. You...",
+      "options": [
+        {
+          "text": "Wake up the whole group to investigate together",
+          "score": "E"
+        },
+        {
+          "text": "Grab a weapon and check it out on your own",
+          "score": "I"
+        },
+        {
+          "text": "Stay in your shelter and listen closely to identify the sound",
+          "score": "T"
+        },
+        {
+          "text": "Feel a wave of panic and hide under your blanket until it stops",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to lead a small mission. You...",
+      "options": [
+        {
+          "text": "Assign clear roles to each team member before you leave",
+          "score": "J"
+        },
+        {
+          "text": "Let the team decide what to do as you go along",
+          "score": "P"
+        },
+        {
+          "text": "Share your vision for what you hope to accomplish",
+          "score": "N"
+        },
+        {
+          "text": "Focus on the specific steps needed to complete the mission",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You find a map that might lead to civilization. You...",
+      "options": [
+        {
+          "text": "Verify the map’s details by comparing it to your current location",
+          "score": "S"
+        },
+        {
+          "text": "Immediately take off following the map without waiting for others",
+          "score": "I"
+        },
+        {
+          "text": "Call a group meeting to vote on whether to follow it or not",
+          "score": "E"
+        },
+        {
+          "text": "Analyze possible traps or false paths the map might lead to",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You have to make a difficult choice that will hurt someone. You...",
+      "options": [
+        {
+          "text": "Choose the option that causes the least overall harm to the group",
+          "score": "T"
+        },
+        {
+          "text": "Delay the choice as long as possible to avoid the pain",
+          "score": "P"
+        },
+        {
+          "text": "Explain your reasoning clearly to the person affected",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your decision firmly once you’ve made it",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you think about the future, you...",
+      "options": [
+        {
+          "text": "Imagine reuniting with your family and going back to normal life",
+          "score": "S"
+        },
+        {
+          "text": "Wonder how this experience will change who you are forever",
+          "score": "N"
+        },
+        {
+          "text": "Look forward to sharing your story with everyone you know",
+          "score": "E"
+        },
+        {
+          "text": "Hope you’ll never have to talk about this experience again",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Pragmatic Leader",
+      "description": "You’re the unshakable backbone of any group, just like Yellowjackets’ quiet strategist. When crisis hits, you immediately take charge, organize resources, and enforce practical rules to keep everyone safe. You value order over chaos, rely on proven methods, and hold others accountable—your no-nonsense approach is what keeps the group from falling apart. You’re an ESTJ: responsible, decisive, and grounded in reality.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Nurturing Caregiver",
+      "description": "You’re the heart of your group, always putting others’ needs before your own, just like the team’s compassionate nurturer in Yellowjackets. You notice when someone’s struggling, offer comfort without being asked, and go out of your way to make sure everyone feels seen. In crisis, your empathy is the glue that holds the group together. You’re an ESFJ: warm, supportive, and deeply connected to those around you.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Quiet Guardian",
+      "description": "You’re the silent protector of your group, working behind the scenes to keep everyone safe, just like Yellowjackets’ reserved defender. You don’t seek attention; you just do what needs to be done—repairing shelters, gathering supplies, or standing watch at night. You’re reliable beyond measure, and your calm presence reassures everyone that things will be okay. You’re an ISTJ: diligent, loyal, and focused on concrete actions.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Gentle Empath",
+      "description": "You’re the group’s quiet empath, feeling others’ pain as if it were your own, just like Yellowjackets’ sensitive soul. You prefer to listen rather than speak, but when you do, your words carry profound weight. You’re the first to notice when someone is hiding their true feelings, and you offer comfort in small, meaningful ways. You’re an ISFJ: kind, patient, and deeply attuned to emotional needs.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Charismatic Visionary",
+      "description": "You’re the group’s inspiring leader, able to rally others with your passion and vision, just like Yellowjackets’ magnetic motivator. You see the best in people, even when they can’t see it themselves, and you have a knack for turning despair into hope. Your ability to connect with everyone makes you the natural face of the group. You’re an ENFJ: charismatic, idealistic, and driven to lift others up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Optimistic Dreamer",
+      "description": "You’re the group’s ray of sunshine, even in the darkest moments, just like Yellowjackets’ hopeful dreamer. You refuse to give up on the idea of rescue, and you fill the silence with stories of the future. Your creativity and positivity keep morale high, and you often find joy in the smallest things. You’re an ENFP: enthusiastic, imaginative, and always looking for the silver lining.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Intuitive Strategist",
+      "description": "You’re the group’s hidden strategist, seeing patterns and possibilities no one else notices, just like Yellowjackets’ quiet visionary. You spend your time observing and thinking, planning for every possible outcome. Your insights often save the day, even if others don’t always understand your methods. You’re an INFJ: insightful, strategic, and deeply connected to your inner voice.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Creative Idealist",
+      "description": "You’re the group’s creative soul, using art and imagination to cope with the chaos, just like Yellowjackets’ poetic dreamer. You journal, sketch, or tell stories to process your experiences, and you see beauty even in the most brutal situations. Your idealism keeps the group connected to their humanity when all else feels lost. You’re an INFP: creative, introspective, and guided by your values.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Bold Survivor",
+      "description": "You’re the group’s fearless risk-taker, willing to do whatever it takes to survive, just like Yellowjackets’ bold adventurer. You thrive in chaos, think on your feet, and aren’t afraid to get your hands dirty. Your confidence and quick reflexes often get the group out of tight spots. You’re an ESTP: daring, practical, and always ready for action.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Spontaneous Connector",
+      "description": "You’re the group’s playful spirit, using humor and energy to keep everyone’s spirits up, just like Yellowjackets’ lively socialite. You hate silence, so you tell jokes, sing songs, or organize games to distract from the horror. Your ability to make people laugh in the darkest times is your greatest strength. You’re an ESFP: outgoing, fun-loving, and fully present in the moment.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Independent Problem-Solver",
+      "description": "You’re the group’s lone wolf, preferring to work alone to solve problems, just like Yellowjackets’ self-reliant survivor. You’re calm under pressure, can fix almost anything with what you have, and don’t need others to validate your choices. Your independence often leads to innovative solutions no one else would think of. You’re an ISTP: resourceful, logical, and comfortable with solitude.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Wanderer",
+      "description": "You’re the group’s free-spirited artist, finding peace in nature and creative expression, just like Yellowjackets’ bohemian soul. You don’t follow rules well, preferring to go with the flow and explore your surroundings. Your ability to adapt to new situations helps you thrive even in the harshest conditions. You’re an ISFP: artistic, adaptable, and deeply in touch with the world around you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Ruthless Commander",
+      "description": "You’re the group’s uncompromising leader, willing to make the hard choices no one else will, just like Yellowjackets’ fierce commander. You see the big picture clearly, prioritize survival over sentiment, and don’t let emotions cloud your judgment. Your tough love is what keeps the group alive, even if it makes you unpopular. You’re an ENTJ: decisive, strategic, and driven to succeed.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Wild Innovator",
+      "description": "You’re the group’s wildcard, always coming up with unconventional ideas to survive, just like Yellowjackets’ trickster. You thrive in chaos, turn setbacks into opportunities, and love debating wild theories with anyone who’ll listen. Rules are just suggestions to you, and you’re never afraid to take risks. You’re an ENTP: curious, clever, and always one step ahead of the curve.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Master Planner",
+      "description": "You’re the group’s strategic genius, planning every detail of survival long before crisis hits, just like Yellowjackets’ forward-thinking tactician. You anticipate problems before they arise, create backup plans for backup plans, and use logic to cut through confusion. Your foresight is the group’s greatest asset. You’re an INTJ: analytical, visionary, and always thinking three steps ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Philosopher",
+      "description": "You’re the group’s deep thinker, questioning everything from the meaning of survival to the nature of humanity, just like Yellowjackets’ introspective philosopher. You prefer to observe and analyze rather than act, and your questions challenge the group to think beyond their immediate needs. Your intellectual curiosity helps you make sense of the chaos. You’re an INTP: thoughtful, innovative, and driven by a desire to understand.",
+      "mbti": "INTP"
+    }
+  ]
+}

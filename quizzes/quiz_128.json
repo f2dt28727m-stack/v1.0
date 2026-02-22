@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Brawl Stars Brawler Is Your Ideal Battle Partner?",
+  "category": "which",
+  "tags": [
+    "Brawl Stars",
+    "Battle Partner",
+    "MBTI",
+    "Personality",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover which Brawl Stars brawler is your perfect battle match!",
+  "questions": [
+    {
+      "text": "When your team is pinned down by enemy fire, you react by...",
+      "options": [
+        {
+          "text": "Dive behind the nearest crate and start firing consistent bursts to hold the line",
+          "score": "S"
+        },
+        {
+          "text": "Call out over comms to coordinate a sudden, synchronized counterattack",
+          "score": "E"
+        },
+        {
+          "text": "Imagine a wild, unexpected trick play to catch the enemy off guard",
+          "score": "N"
+        },
+        {
+          "text": "Quietly huddle in the shadows and wait for the enemies to move on",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare power-up in the middle of the map. You decide to...",
+      "options": [
+        {
+          "text": "Take it immediately and charge straight into the enemy team",
+          "score": "T"
+        },
+        {
+          "text": "Signal your teammate to take it, knowing they need it more to survive",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your pre-planned strategy and leave it for the designated carrier",
+          "score": "J"
+        },
+        {
+          "text": "Grab it and experiment with unorthodox uses during the fight",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A teammate makes a mistake that costs your team a round. You respond by...",
+      "options": [
+        {
+          "text": "Quietly replay the moment in your head to identify small fixes for next time",
+          "score": "I"
+        },
+        {
+          "text": "Laugh it off and crack a joke to lighten the mood before the rematch",
+          "score": "E"
+        },
+        {
+          "text": "Propose a hybrid plan that combines everyone’s conflicting ideas",
+          "score": "N"
+        },
+        {
+          "text": "Suggest specific, actionable adjustments to their positioning",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a brawler for a new game mode, you prioritize...",
+      "options": [
+        {
+          "text": "Pick one whose abilities you know inside and out for reliable performance",
+          "score": "S"
+        },
+        {
+          "text": "Try a brawler you’ve never used to explore fresh strategies",
+          "score": "N"
+        },
+        {
+          "text": "Select one that pairs seamlessly with your friend’s chosen brawler",
+          "score": "F"
+        },
+        {
+          "text": "Choose the brawler with the highest damage output to dominate fights",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "During a sudden ambush by three enemies, you...",
+      "options": [
+        {
+          "text": "Go with the flow, switching between attacks and dodges randomly",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your pre-planned escape route and regroup with your team",
+          "score": "J"
+        },
+        {
+          "text": "Crouch in the shadows and wait for the enemies to lose interest",
+          "score": "I"
+        },
+        {
+          "text": "Yell for teammates to converge on your position to fight back together",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with guarding the team’s gem carrier. You do this by...",
+      "options": [
+        {
+          "text": "Position yourself on a high ledge, picking off enemies from afar",
+          "score": "T"
+        },
+        {
+          "text": "Stay glued to their side, blocking every incoming attack with your body",
+          "score": "F"
+        },
+        {
+          "text": "Set up a tricky trap using your abilities to surprise approaching enemies",
+          "score": "N"
+        },
+        {
+          "text": "Patrol the area, checking every corner for hidden threats",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After a tough loss, you spend your downtime thinking about...",
+      "options": [
+        {
+          "text": "The wild, risky plays that almost worked and how to refine them",
+          "score": "N"
+        },
+        {
+          "text": "Message your team to ask how they’re feeling and plan a rematch",
+          "score": "E"
+        },
+        {
+          "text": "The small, specific mistakes you made and how to fix them next time",
+          "score": "S"
+        },
+        {
+          "text": "Sit quietly and replay the match in your head to process what happened",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new secret spot on the map, you...",
+      "options": [
+        {
+          "text": "Keep it to yourself to gain a personal edge in future matches",
+          "score": "T"
+        },
+        {
+          "text": "Experiment with different ways to use the spot for unexpected advantages",
+          "score": "P"
+        },
+        {
+          "text": "Tell your team immediately so you can all use it together",
+          "score": "F"
+        },
+        {
+          "text": "Make a mental note to use it exactly as intended every time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your team is split on which objective to pursue first. You...",
+      "options": [
+        {
+          "text": "Speak up enthusiastically for the most exciting, high-reward option",
+          "score": "E"
+        },
+        {
+          "text": "Quietly weigh pros and cons before sharing your final verdict",
+          "score": "I"
+        },
+        {
+          "text": "Propose a hybrid plan that merges all team members’ ideas",
+          "score": "N"
+        },
+        {
+          "text": "Advocate for the most practical, straightforward objective to guarantee progress",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When facing an enemy with a charged super ability, you...",
+      "options": [
+        {
+          "text": "Throw yourself in front of a teammate to block the blast",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the perfect dodge path to avoid harm without losing position",
+          "score": "T"
+        },
+        {
+          "text": "Trust your instincts and dodge randomly based on the moment’s flow",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your pre-practiced dodge routine to stay safe",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re assigned to lead a team in a ranked match. You start by...",
+      "options": [
+        {
+          "text": "Lay out a clear, step-by-step plan for everyone to follow",
+          "score": "J"
+        },
+        {
+          "text": "Ask each teammate their strengths and build a plan around them",
+          "score": "P"
+        },
+        {
+          "text": "Assign specific, simple tasks to get everyone moving quickly",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm wild, creative strategies to catch enemies off guard",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you finally clinch a hard-fought victory, you first...",
+      "options": [
+        {
+          "text": "Send a supportive message to every teammate to celebrate their efforts",
+          "score": "F"
+        },
+        {
+          "text": "Cheer loudly and high-five your teammates through the screen",
+          "score": "E"
+        },
+        {
+          "text": "Think about exactly what worked to replicate it in future matches",
+          "score": "T"
+        },
+        {
+          "text": "Smile quietly to yourself, savoring the success alone",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Your Ideal Partner: Max",
+      "description": "Max is the speedy trickster who thrives on chaos and unexpected plays—just like you. You both love thinking on your feet, pulling off wild stunts to catch enemies off guard, and laughing through every brawl. Your bold ideas and her quick reflexes make you an unstoppable duo that keeps every match exciting.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Your Ideal Partner: Edgar",
+      "description": "Edgar is the quiet, strategic brawler who always has a long-term plan—perfect for your focused, forward-thinking mind. You both prefer working behind the scenes, calculating every move to gain an unbeatable edge. Your ability to see the big picture and his ruthless efficiency make you a team that never misses a win.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Your Ideal Partner: Pam",
+      "description": "Pam is the warm, nurturing brawler who puts her team first—exactly who you need by your side. You both thrive on supporting others, rallying your team through tough times, and making sure everyone feels valued. Your empathy and her healing abilities create a safe space where your team can always bounce back stronger.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Your Ideal Partner: Sandy",
+      "description": "Sandy is the calm, intuitive brawler who sees things others miss—mirroring your deep, reflective nature. You both prefer quiet observation over loud displays, using your insight to guide your team to victory. Your ability to understand others and his sand-based tricks make you a duo that can outthink any enemy.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Your Ideal Partner: Colt",
+      "description": "Colt is the bold, action-oriented brawler who lives for the thrill of the fight—just like you. You both jump into action without overthinking, relying on your quick reflexes and steady aim to dominate the field. Your fearless attitude and his rapid-fire shots make you a team that always keeps the pressure on.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Your Ideal Partner: Leon",
+      "description": "Leon is the silent, stealthy brawler who excels at working alone—perfect for your independent, hands-on style. You both prefer to take matters into your own hands, using your skills to sneak past enemies and strike from the shadows. Your adaptability and his invisibility make you a duo that no enemy can track.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Your Ideal Partner: Shelly",
+      "description": "Shelly is the energetic, outgoing brawler who brings fun to every brawl—exactly who you want on your team. You both love being in the thick of the action, cheering on your teammates and making every match feel like a party. Your contagious enthusiasm and her powerful shotgun blasts make you a crowd-pleasing duo.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Your Ideal Partner: Rosa",
+      "description": "Rosa is the gentle, nature-loving brawler who stays grounded in the moment—mirroring your quiet, sensory-driven spirit. You both prefer to stay close to the action, using your surroundings to your advantage and protecting your team with all your might. Your connection to the environment and her thorny shield make you an unbreakable team.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Your Ideal Partner: Jessie",
+      "description": "Jessie is the organized, rule-following brawler who values structure and order—perfect for your practical, methodical approach. You both thrive on clear plans and reliable execution, making sure every task is done right. Your attention to detail and her turret’s steady fire make you a team that controls every match.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Your Ideal Partner: Brock",
+      "description": "Brock is the steady, dependable brawler who always gets the job done—exactly like you. You both prefer sticking to what works, using your tried-and-true skills to secure victory. Your consistency and his long-range rockets make you a duo that can hold any position and take down enemies from afar.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Your Ideal Partner: Nani",
+      "description": "Nani is the quirky, imaginative brawler who sees the world in a unique way—just like you. You both love coming up with creative solutions and sharing your excitement with your team. Your playful ideas and her floating companion Dino make you a duo that adds a touch of magic to every brawl.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Your Ideal Partner: Sprout",
+      "description": "Sprout is the soft-spoken, idealistic brawler who believes in the good of the team—mirroring your kind, reflective heart. You both care deeply about your teammates, using your abilities to protect and support them. Your gentle nature and his plant-based barriers make you a team that creates safe spaces for everyone to thrive.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Your Ideal Partner: Penny",
+      "description": "Penny is the cheerful, team-focused brawler who goes out of her way to help others—exactly who you need. You both thrive on making your teammates feel appreciated, using your abilities to cover their backs. Your warmth and her cannon’s wide blasts make you a duo that can protect and attack with equal skill.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Your Ideal Partner: Piper",
+      "description": "Piper is the elegant, caring brawler who pays close attention to every detail—mirroring your thoughtful, nurturing nature. You both prefer to take care of your team, making sure everyone has what they need to succeed. Your attention to others and her precise shots make you a team that never misses an opportunity to support each other.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Your Ideal Partner: Surge",
+      "description": "Surge is the confident, commanding brawler who leads with strength and strategy—perfect for your decisive, goal-driven mind. You both know how to take charge, making tough calls to lead your team to victory. Your leadership skills and his power-up abilities make you a duo that can turn any match around.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Your Ideal Partner: Carl",
+      "description": "Carl is the quiet, curious brawler who loves taking things apart and figuring out how they work—just like you. You both prefer to work independently, using your analytical skills to solve problems. Your love of logic and his rotating saw make you a duo that can adapt to any situation and outthink even the smartest enemies.",
+      "mbti": "INTP"
+    }
+  ]
+}

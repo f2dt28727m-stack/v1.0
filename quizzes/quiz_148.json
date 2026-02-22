@@ -1,0 +1,348 @@
+{
+  "quizId": 1001,
+  "title": "What Would You Do in Honkai: Star Rail's Critical Moments?",
+  "category": "whatwould",
+  "tags": [
+    "Honkai: Star Rail",
+    "Crisis Response",
+    "Personality",
+    "Trailblazer"
+  ],
+  "description": "Answer 12 questions to discover how you’d react when facing unexpected challenges and crises across the Honkai: Star Rail universe!",
+  "questions": [
+    {
+      "text": "The Star Rail suddenly loses power mid-jump, and the crew panics. You...",
+      "options": [
+        {
+          "text": "Grab the nearest toolkit and start checking the physical wiring for loose connections",
+          "score": "S"
+        },
+        {
+          "text": "Visualize possible dimensional anomalies that might be causing the outage",
+          "score": "N"
+        },
+        {
+          "text": "Gather everyone to share quick updates and coordinate a plan together",
+          "score": "E"
+        },
+        {
+          "text": "Slip into the control room alone to analyze the system logs quietly",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You land on a new planet and the local tribe mistakes your crew for invaders. You...",
+      "options": [
+        {
+          "text": "Offer them handmade gifts from previous planets to build immediate rapport",
+          "score": "F"
+        },
+        {
+          "text": "Study their body language and use logical arguments to prove you mean no harm",
+          "score": "T"
+        },
+        {
+          "text": "Insist on following the interstellar contact protocol step by step to avoid missteps",
+          "score": "J"
+        },
+        {
+          "text": "Improvise a harmless demonstration of your ship’s technology to distract them",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A teammate gets injured while exploring a dangerous ruin. You...",
+      "options": [
+        {
+          "text": "Carry them back to the ship immediately, sticking to the safest, most familiar path",
+          "score": "S"
+        },
+        {
+          "text": "Stop to examine the ruin’s layout for alternative exits that might be faster",
+          "score": "N"
+        },
+        {
+          "text": "Call out to the rest of the crew for help while comforting the injured teammate",
+          "score": "E"
+        },
+        {
+          "text": "Stay silent while quickly applying first aid, focusing on stabilizing their condition",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You discover an ancient artifact that shows visions of a future galaxy-wide disaster. You...",
+      "options": [
+        {
+          "text": "Spend hours debating the moral implications of sharing this knowledge with the crew",
+          "score": "F"
+        },
+        {
+          "text": "Create a timeline of potential events to determine the most critical points to intervene",
+          "score": "T"
+        },
+        {
+          "text": "Wait until you’ve verified the artifact’s authenticity with historical records before acting",
+          "score": "J"
+        },
+        {
+          "text": "Share the visions with everyone right away to brainstorm immediate countermeasures",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "The crew has to choose a destination for the next jump, with no clear data. You...",
+      "options": [
+        {
+          "text": "Suggest visiting a planet with a known trade hub to gather more information first",
+          "score": "S"
+        },
+        {
+          "text": "Probe uncharted dimensional rifts to see if they lead to something extraordinary",
+          "score": "N"
+        },
+        {
+          "text": "Poll the crew to pick the destination that excites most people on board",
+          "score": "E"
+        },
+        {
+          "text": "Research the star charts alone to find the least risky route possible",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A mysterious entity offers you a wish in exchange for abandoning your crew. You...",
+      "options": [
+        {
+          "text": "Refuse immediately, prioritizing the bonds you’ve built with your team over any reward",
+          "score": "F"
+        },
+        {
+          "text": "Negotiate with the entity to find a way to help both your crew and secure the wish",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your initial mission objective and walk away without engaging further",
+          "score": "J"
+        },
+        {
+          "text": "Play along with the entity to see what other opportunities might arise",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "The Star Rail’s pantry runs out of supplies, and you’re tasked with restocking. You...",
+      "options": [
+        {
+          "text": "Buy non-perishable, high-nutrition items that will last for long jumps",
+          "score": "S"
+        },
+        {
+          "text": "Purchase unique, exotic foods from the local market to surprise the crew",
+          "score": "N"
+        },
+        {
+          "text": "Ask each crew member what their favorite snacks are before making a list",
+          "score": "E"
+        },
+        {
+          "text": "Order pre-selected standard rations online without consulting anyone else",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re trapped in a time loop where the same disaster repeats daily. You...",
+      "options": [
+        {
+          "text": "Keep track of every small detail to find the exact trigger of the loop",
+          "score": "T"
+        },
+        {
+          "text": "Focus on comforting the crew through each repetition to keep morale high",
+          "score": "F"
+        },
+        {
+          "text": "Follow the same routine each day to minimize unexpected variables",
+          "score": "J"
+        },
+        {
+          "text": "Try wildly different actions each time to break the cycle unpredictably",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You meet a rogue scientist who wants to join your crew but has a criminal record. You...",
+      "options": [
+        {
+          "text": "Invite them to join after hearing their side of the story and understanding their motives",
+          "score": "E"
+        },
+        {
+          "text": "Interview them privately to assess their technical skills before deciding",
+          "score": "I"
+        },
+        {
+          "text": "Check their past projects and verify their credentials thoroughly first",
+          "score": "S"
+        },
+        {
+          "text": "Imagine how their unique expertise could revolutionize the Star Rail’s systems",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The crew is split on whether to help a struggling planet or continue their mission. You...",
+      "options": [
+        {
+          "text": "Argue for helping the planet, emphasizing the impact it will have on innocent lives",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the time and resource costs to see if the detour is feasible",
+          "score": "T"
+        },
+        {
+          "text": "Stick to the original mission plan as outlined by the Astral Express’s directives",
+          "score": "J"
+        },
+        {
+          "text": "Propose a quick detour to offer minimal aid before resuming the mission",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a hidden journal that hints at a secret passage on the Star Rail. You...",
+      "options": [
+        {
+          "text": "Start searching the train’s walls and floors for physical clues right away",
+          "score": "S"
+        },
+        {
+          "text": "Map out the train’s blueprints to logically deduce where the passage might be",
+          "score": "N"
+        },
+        {
+          "text": "Round up a few crew members to help you search and share any findings",
+          "score": "E"
+        },
+        {
+          "text": "Sneak off to investigate the passage alone, not wanting to distract the crew",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "The final boss of a hostile planet challenges you to a duel. You...",
+      "options": [
+        {
+          "text": "Attack head-on using techniques you’ve practiced countless times before",
+          "score": "J"
+        },
+        {
+          "text": "Adapt your fighting style mid-battle to exploit the boss’s weaknesses as they appear",
+          "score": "P"
+        },
+        {
+          "text": "Focus on protecting your crew members instead of winning the duel alone",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the boss’s patterns to find the most efficient way to defeat them quickly",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Strategic Vanguard",
+      "description": "When crises strike, you’re the first to organize defenses and enforce order. You prioritize practical solutions, stick to established protocols, and keep the crew focused on immediate goals. Your calm, structured approach ensures the Star Rail stays on track even when chaos threatens to overwhelm everyone around you.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Innovative Visionary",
+      "description": "You thrive on exploring unknown possibilities in the galaxy. You’re always thinking outside the box, visualizing dimensional anomalies, and brainstorming creative solutions to impossible problems. Your curiosity and imagination push the crew to take risks that lead to extraordinary discoveries across the stars.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Compassionate Guardian",
+      "description": "Your greatest strength is your ability to connect with others. You prioritize the crew’s emotional well-being, listen to their fears, and stand by them no matter what. When teammates are in need, you drop everything to help, turning moments of despair into opportunities for unity and hope.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Curious Explorer",
+      "description": "You’re endlessly fascinated by the unknown. You love wandering uncharted planets, examining ancient artifacts, and learning about alien cultures. You prefer to go with the flow, letting each new adventure guide your next step without being tied down to rigid plans or schedules.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Bold Trailblazer",
+      "description": "You’re the heart of the crew, always ready to jump into action. You energize everyone around you with your enthusiasm, lead group discussions, and aren’t afraid to speak your mind. You thrive in social settings, using your charisma to win over allies and resolve conflicts peacefully.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Logical Analyst",
+      "description": "You approach every problem with a sharp, rational mind. You analyze data, break down complex systems, and find the most efficient solutions. You stay calm under pressure, focusing on facts rather than emotions, and your insights often save the crew from making costly mistakes in critical moments.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Warm Storyteller",
+      "description": "You’re the crew’s emotional anchor, always ready to share a story or offer a kind word. You remember every small detail about your teammates’ lives, and you use that knowledge to make everyone feel seen and valued. Your ability to connect with others turns the Star Rail into a true home away from home.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Deep Thinker",
+      "description": "You prefer to spend your time alone, lost in thought about the universe’s mysteries. You analyze ancient texts, study dimensional physics, and look for patterns that others miss. Your quiet insights often reveal hidden truths that change the course of the crew’s mission for the better.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Hands-On Problem-Solver",
+      "description": "You’re the go-to person when something breaks on the Star Rail. You grab your toolkit and get to work immediately, fixing physical issues with precision and skill. You don’t waste time on abstract ideas—you focus on what works, ensuring the train is always in top condition for the next jump.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Unpredictable Maverick",
+      "description": "You hate following rules and love to surprise everyone with your spontaneous actions. You improvise solutions to crises, take unexpected detours to explore unknown planets, and keep the crew on their toes. Your free-spirited nature makes every adventure on the Star Rail feel fresh and exciting.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Loyal Companion",
+      "description": "You’re always there for your teammates, no matter what. You listen quietly to their problems, offer practical help without being asked, and never judge anyone for their mistakes. Your quiet loyalty and reliability make you someone the crew can always count on in their darkest hours.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Visionary Strategist",
+      "description": "You see the big picture, planning for future crises before they even happen. You create complex timelines, anticipate potential obstacles, and develop long-term strategies to ensure the crew’s success. Your foresight and determination often lead the Star Rail to victory against impossible odds.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Energetic Connector",
+      "description": "You love meeting new people and making friends across the galaxy. You strike up conversations with alien inhabitants, negotiate trade deals with local merchants, and turn strangers into allies. Your outgoing personality opens doors for the crew that no one else could access.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Quiet Innovator",
+      "description": "You’re a genius at solving problems behind the scenes. You work alone to invent new technologies, upgrade the Star Rail’s systems, and find ways to make life easier for the crew. Your creations often go unnoticed, but they’re essential to the crew’s survival and success in the galaxy.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Adaptive Survivor",
+      "description": "You thrive in chaotic situations, adapting your plans on the fly to overcome unexpected obstacles. You’re quick on your feet, using whatever tools are available to solve problems, and you never get discouraged when things don’t go as planned. Your flexibility makes you an invaluable member of the crew.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Charismatic Leader",
+      "description": "You have a natural ability to inspire others to follow your lead. You set ambitious goals, rally the crew around a shared vision, and push everyone to be their best. Your confidence and determination turn ordinary missions into epic adventures that the crew will remember forever.",
+      "mbti": "ENFJ"
+    }
+  ]
+}

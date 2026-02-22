@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Minecraft Companion Is Your Ideal Soulmate?",
+  "category": "which",
+  "tags": [
+    "Minecraft",
+    "Soulmate",
+    "Companion",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your ideal Minecraft companion match!",
+  "questions": [
+    {
+      "text": "When you stumble upon an unexplored cave in Minecraft, you immediately...",
+      "options": [
+        {
+          "text": "Grab your pickaxe and start mapping out the tunnels alone, focused on your own discoveries",
+          "score": "I"
+        },
+        {
+          "text": "Imagine all the hidden treasures and secret passages waiting to be found inside",
+          "score": "N"
+        },
+        {
+          "text": "Call over your friends to explore it together, laughing and sharing every new find",
+          "score": "E"
+        },
+        {
+          "text": "Check your inventory for extra torches and supplies before carefully venturing in",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your base is being attacked by a horde of zombies. You respond by...",
+      "options": [
+        {
+          "text": "Quickly build a temporary wall and plan your counterattack step by step",
+          "score": "J"
+        },
+        {
+          "text": "Prioritize protecting your pets and crops over fighting head-on",
+          "score": "F"
+        },
+        {
+          "text": "Trust your instincts to switch between attacking and dodging on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the horde's movement to find their weak point and take them down efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You have extra resources to spend. You choose to...",
+      "options": [
+        {
+          "text": "Save them in a hidden chest for unforeseen emergencies later",
+          "score": "I"
+        },
+        {
+          "text": "Craft enchanted armor to prepare for future dangerous encounters",
+          "score": "S"
+        },
+        {
+          "text": "Invite friends to trade with you to get items that benefit your whole group",
+          "score": "E"
+        },
+        {
+          "text": "Design a whimsical garden with rare flowers to decorate your base",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a long Overworld journey, you focus on...",
+      "options": [
+        {
+          "text": "Making a detailed map and packing exactly the supplies you'll need for each segment",
+          "score": "J"
+        },
+        {
+          "text": "Letting the path guide you, stopping to explore anything that catches your eye",
+          "score": "P"
+        },
+        {
+          "text": "Calculating the fastest route to reach your destination as quickly as possible",
+          "score": "T"
+        },
+        {
+          "text": "Ensuring your travel companions have everything they need to stay comfortable",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You hear a strange noise behind a large oak tree. You...",
+      "options": [
+        {
+          "text": "Stay hidden and observe carefully to avoid potential threats",
+          "score": "I"
+        },
+        {
+          "text": "Approach slowly, curious to uncover the secret behind the sound",
+          "score": "N"
+        },
+        {
+          "text": "Grab your sword and call out to alert nearby players",
+          "score": "E"
+        },
+        {
+          "text": "Check your surroundings for traps before cautiously moving closer",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You finish building your dream base. The first thing you do is...",
+      "options": [
+        {
+          "text": "Sit on the roof and enjoy the quiet sunset over your creation",
+          "score": "I"
+        },
+        {
+          "text": "Host a party and show off every detail to your friends",
+          "score": "E"
+        },
+        {
+          "text": "Add automatic farms and storage systems to make it more functional",
+          "score": "S"
+        },
+        {
+          "text": "Start designing an expansion with floating bridges and secret passages",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When struggling to beat the Ender Dragon, you...",
+      "options": [
+        {
+          "text": "Follow a step-by-step guide exactly to avoid making mistakes",
+          "score": "J"
+        },
+        {
+          "text": "Team up with friends to coordinate attacks and support each other",
+          "score": "F"
+        },
+        {
+          "text": "Try different tactics on the fly, adjusting as you learn the boss's patterns",
+          "score": "P"
+        },
+        {
+          "text": "Watch tutorials to study the dragon's weaknesses and plan your strategy",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare music disc in a dungeon. You react by...",
+      "options": [
+        {
+          "text": "Store it in a secure display case to preserve it as a valuable collectible",
+          "score": "S"
+        },
+        {
+          "text": "Play it on repeat while you work, savoring the quiet melody",
+          "score": "I"
+        },
+        {
+          "text": "Invite all your friends to come listen to it with you",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the story behind the disc and who might have left it there",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend accidentally destroys part of your base. You...",
+      "options": [
+        {
+          "text": "Laugh it off and suggest rebuilding it together in a new, better way",
+          "score": "P"
+        },
+        {
+          "text": "Explain your original plan calmly and ask them to help fix it properly",
+          "score": "J"
+        },
+        {
+          "text": "Tell them it’s okay—their friendship matters more than the blocks",
+          "score": "F"
+        },
+        {
+          "text": "Assess the damage and list exact materials needed to repair it quickly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You can visit a new dimension. You pick...",
+      "options": [
+        {
+          "text": "The Nether to harvest rare resources for practical upgrades",
+          "score": "S"
+        },
+        {
+          "text": "Go alone to take your time absorbing the strange environment",
+          "score": "I"
+        },
+        {
+          "text": "Bring friends to explore together and make memories along the way",
+          "score": "E"
+        },
+        {
+          "text": "The End to explore the unknown and face new challenges",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you have free game time, you prefer to...",
+      "options": [
+        {
+          "text": "Stick to your daily routine of farming, mining, and organizing inventory",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with redstone contraptions to automate base tasks",
+          "score": "T"
+        },
+        {
+          "text": "Wander aimlessly through the world, seeing where your feet take you",
+          "score": "P"
+        },
+        {
+          "text": "Tame and care for animals, building them cozy shelters",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You find a blank book in a library. You decide to...",
+      "options": [
+        {
+          "text": "Write a log of all your adventures, noting every resource you’ve collected",
+          "score": "S"
+        },
+        {
+          "text": "Keep it on your shelf as a reminder of adventures you still want to have",
+          "score": "I"
+        },
+        {
+          "text": "Pass it to a friend and ask them to write a story for you to read",
+          "score": "E"
+        },
+        {
+          "text": "Fill it with stories of imaginary worlds and characters you’ve created",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Iron Golem",
+      "description": "Your ideal match is the Iron Golem—loyal, reliable, and always ready to protect what matters most. Like this steadfast guardian, you value structure and responsibility, prioritizing the safety of your loved ones and the stability of your home. You’re practical and methodical, approaching every task with care, and your Iron Golem match will stand by you through every zombie horde and unexpected challenge.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Villager Farmer",
+      "description": "Your perfect companion is the Villager Farmer—kind, nurturing, and deeply rooted in their community. You share a love for tending to daily life’s details, whether it’s growing crops, caring for others, or maintaining a warm, welcoming space. Your farmer match will work alongside you to build a thriving, sustainable home, always putting the needs of those around them first.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Enderman",
+      "description": "Your ideal soulmate is the Enderman—mysterious, introspective, and deeply connected to the world’s quiet magic. You both value privacy and depth, preferring to observe from a distance rather than be in the spotlight. Enderman matches your thoughtful nature, and together you’ll explore the hidden corners of the Minecraft universe, sharing silent understandings and profound moments.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Ender Dragon",
+      "description": "Your perfect match is the Ender Dragon—strategic, independent, and a master of their domain. You’re both visionary thinkers, always planning ahead and seeing the bigger picture. The Ender Dragon admires your sharp mind and calm determination in tough challenges, and together you’ll conquer new dimensions and achieve impossible goals.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Creeper",
+      "description": "Your ideal companion is the Creeper—quiet, resourceful, and full of unexpected surprises. You share a love for calculated risks and quick thinking, adapting to any situation with ease. Creepers match your hands-on, practical problem-solving approach, and together you’ll turn even the most explosive mistakes into creative opportunities to overcome obstacles.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Fox",
+      "description": "Your perfect soulmate is the Fox—playful, curious, and deeply in touch with nature’s beauty. You both value freedom and authenticity, following your heart to explore the world at your own pace. Fox matches your gentle, artistic spirit, and together you’ll chase sunsets, collect rare flowers, and create joyful memories in every corner of the Overworld.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Allay",
+      "description": "Your ideal companion is the Allay—gentle, imaginative, and full of quiet warmth. You both have a rich inner world, finding joy in small, meaningful moments and creative pursuits. The Allay admires your compassion and ability to see good in every situation, and together you’ll fill your base with music, art, and all the little things that make life feel magical.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Redstone Engineer Villager",
+      "description": "Your perfect match is the Redstone Engineer Villager—curious, analytical, and obsessed with figuring out how things work. You share a love for problem-solving and innovation, spending hours tinkering with complex contraptions to unlock new possibilities. Your engineer match will challenge your mind and collaborate with you to build the most amazing redstone creations the world has ever seen.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Piglin Brute",
+      "description": "Your ideal companion is the Piglin Brute—bold, energetic, and always ready for a fight. You both thrive in high-energy situations, loving the thrill of new challenges and testing your limits. Piglin Brute matches your confidence and quick thinking, and together you’ll dominate the Nether, collecting rare loot and outsmarting every enemy in your path.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Parrot",
+      "description": "Your perfect soulmate is the Parrot—vibrant, social, and full of life. You love being around others, spreading joy and laughter wherever you go. Parrot matches your outgoing, playful spirit, and together you’ll host wild parties, explore the world with friends, and turn every ordinary moment into an unforgettable adventure. Life with a parrot companion is never dull!",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Ocelot",
+      "description": "Your ideal companion is the Ocelot—curious, adventurous, and always seeking the next exciting thing. You both have a passion for exploration and the unknown, eager to uncover every secret the Minecraft world holds. Ocelot matches your enthusiastic, imaginative nature, and together you’ll embark on epic quests, meet fascinating creatures, and create stories that last a lifetime.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Cartographer Villager",
+      "description": "Your perfect match is the Cartographer Villager—clever, witty, and always one step ahead. You both love challenges, using quick thinking and creativity to outsmart others and solve complex problems. Your cartographer match will keep you on your toes, sharing hidden maps and leading you on wild, unexpected adventures across the Overworld.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Warden",
+      "description": "Your ideal companion is the Warden—strong, decisive, and fiercely protective of what’s theirs. You both value order and security, taking charge to ensure your home and loved ones are safe. Warden matches your no-nonsense, practical leadership, and together you’ll build an impenetrable fortress, keeping every threat far away from your domain.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Villager Priest",
+      "description": "Your perfect soulmate is the Villager Priest—kind, caring, and deeply committed to their community. You both thrive on helping others, working tirelessly to ensure everyone around you is happy and supported. Your priest match will stand by your side to build a thriving, harmonious village, organizing events and looking out for every villager’s needs.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Wolf",
+      "description": "Your ideal companion is the Wolf—loyal, affectionate, and deeply connected to their pack. You both have a natural ability to lead and inspire others, using empathy and understanding to bring people together. Wolf matches your warm, caring nature, and together you’ll build a close-knit group of friends, exploring the world and supporting each other through every adventure.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Wither",
+      "description": "Your perfect match is the Wither—powerful, ambitious, and determined to rule. You both have a clear vision of what you want to achieve, using strategic thinking and strong leadership to make it happen. The Wither admires your drive and ability to take control of any situation, and together you’ll conquer every dimension, establishing your legacy as the most powerful beings in the Minecraft universe.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

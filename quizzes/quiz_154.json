@@ -1,0 +1,349 @@
+{
+  "quizId": 10086,
+  "title": "Which Dua Lipa Vibe Do You Have?",
+  "category": "which",
+  "tags": [
+    "Dua Lipa",
+    "Personality Vibe",
+    "Music Inspired",
+    "Lifestyle",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover which Dua Lipa vibe matches your inner personality best!",
+  "questions": [
+    {
+      "text": "When you hear a new Dua Lipa song for the first time, you immediately...",
+      "options": [
+        {
+          "text": "A packed rooftop bar with live music and endless conversations",
+          "score": "E"
+        },
+        {
+          "text": "Pull out your journal and jot down how the lyrics make you feel",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the production details and compare it to her other tracks",
+          "score": "T"
+        },
+        {
+          "text": "Add it to your go-to workout playlist and repeat it all week",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you could collaborate with Dua on a project, you’d want to focus on...",
+      "options": [
+        {
+          "text": "A futuristic music video with cutting-edge visual effects",
+          "score": "N"
+        },
+        {
+          "text": "A community-driven campaign to support emerging artists",
+          "score": "F"
+        },
+        {
+          "text": "A practical guide to balancing fame and personal life",
+          "score": "S"
+        },
+        {
+          "text": "A global tour that connects fans across different countries",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a sudden change in your plans, you react by...",
+      "options": [
+        {
+          "text": "Spontaneously booking a last-minute trip to a new city",
+          "score": "P"
+        },
+        {
+          "text": "Taking a quiet moment to process the change before acting",
+          "score": "I"
+        },
+        {
+          "text": "Calmly adjusting your schedule and prioritizing key tasks",
+          "score": "J"
+        },
+        {
+          "text": "Calling a friend to vent and brainstorm alternative ideas",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal weekend morning involves...",
+      "options": [
+        {
+          "text": "Tending to your garden and organizing your closet",
+          "score": "S"
+        },
+        {
+          "text": "Trying out a new, intricate recipe you found online",
+          "score": "N"
+        },
+        {
+          "text": "Reading a book by the window with a warm cup of tea",
+          "score": "I"
+        },
+        {
+          "text": "Hosting a brunch with friends and swapping funny stories",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When giving advice to a friend, you tend to...",
+      "options": [
+        {
+          "text": "Break down their problem into actionable steps",
+          "score": "T"
+        },
+        {
+          "text": "Share personal stories that mirror their situation",
+          "score": "F"
+        },
+        {
+          "text": "Help them list out all the practical pros and cons",
+          "score": "S"
+        },
+        {
+          "text": "Encourage them to trust their gut feeling about what’s right",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "At a music festival, you’re most likely to be found...",
+      "options": [
+        {
+          "text": "Sticking to the pre-planned setlist you made weeks ago",
+          "score": "J"
+        },
+        {
+          "text": "Wandering between stages to discover new artists",
+          "score": "P"
+        },
+        {
+          "text": "Sitting on a blanket in the back, enjoying the music quietly",
+          "score": "I"
+        },
+        {
+          "text": "Dancing in the front row, singing every lyric at the top of your lungs",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When decorating your living space, you prioritize...",
+      "options": [
+        {
+          "text": "Soft, cozy fabrics that make the space feel inviting",
+          "score": "F"
+        },
+        {
+          "text": "Unique, thrifted pieces with interesting backstories",
+          "score": "N"
+        },
+        {
+          "text": "Sleek, modern designs that follow the latest trends",
+          "score": "T"
+        },
+        {
+          "text": "Functional furniture that fits your daily routine perfectly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have a creative project to work on, you prefer to...",
+      "options": [
+        {
+          "text": "Work alone in a quiet space to focus deeply",
+          "score": "I"
+        },
+        {
+          "text": "Dive in immediately and let ideas flow freely",
+          "score": "P"
+        },
+        {
+          "text": "Brainstorm with a group to gather different perspectives",
+          "score": "E"
+        },
+        {
+          "text": "Create a detailed timeline and stick to it closely",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you listen to a song’s lyrics, you’re most focused on...",
+      "options": [
+        {
+          "text": "The logical flow of the narrative being told",
+          "score": "T"
+        },
+        {
+          "text": "How the lyrics relate to your own daily experiences",
+          "score": "S"
+        },
+        {
+          "text": "The emotional story behind the words",
+          "score": "F"
+        },
+        {
+          "text": "The clever wordplay and poetic structure",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When meeting new people, you’re most likely to...",
+      "options": [
+        {
+          "text": "Make them laugh with silly jokes and funny anecdotes",
+          "score": "E"
+        },
+        {
+          "text": "Learn about their favorite hobbies and daily routines",
+          "score": "S"
+        },
+        {
+          "text": "Listen intently and remember small details they mention",
+          "score": "I"
+        },
+        {
+          "text": "Ask them about their wildest travel adventures",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a big purchase, you decide based on...",
+      "options": [
+        {
+          "text": "Your intuition and a sudden burst of desire for it",
+          "score": "P"
+        },
+        {
+          "text": "How it makes you feel and if it sparks joy",
+          "score": "F"
+        },
+        {
+          "text": "Whether it’s a good investment and will last long-term",
+          "score": "T"
+        },
+        {
+          "text": "The reviews and recommendations from people you trust",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on your week, you feel most fulfilled if you’ve...",
+      "options": [
+        {
+          "text": "Had enough quiet time to recharge your energy",
+          "score": "I"
+        },
+        {
+          "text": "Checked off all the tasks on your to-do list",
+          "score": "J"
+        },
+        {
+          "text": "Tried at least one new thing you’ve never done before",
+          "score": "N"
+        },
+        {
+          "text": "Spent quality time with the people you care about",
+          "score": "E"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Radical Optimizer",
+      "description": "Like Dua Lipa’s uplifting anthems, you’re a natural leader who lights up every room. You thrive on deep connections with others, lifting them up, and turning collective dreams into tangible reality. Your boundless empathy and magnetic charisma make you the go-to for advice, channeling Dua’s core message of self-love and radical optimism in every step.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Future Nostalgia Trailblazer",
+      "description": "You embody Dua Lipa’s Future Nostalgia energy—bold, innovative, and unafraid to blend retro vibes with cutting-edge ideas. You love challenging the status quo, brainstorming wild concepts, and turning every conversation into a playful debate. Your quick wit and creative spark make you a trendsetter, always one step ahead of the curve.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Confident Showstopper",
+      "description": "Channeling Dua’s ‘Physical’ energy, you’re a bold, outgoing force who loves being in the spotlight. You thrive in high-energy environments, whether dancing at a concert or leading a team presentation. Your unapologetic confidence and infectious enthusiasm draw people to you, making every moment feel like a grand performance worth remembering.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Empathetic Storyteller",
+      "description": "You mirror Dua’s vulnerable lyrical side—deeply in touch with your emotions and others’ struggles. You find solace in sharing and listening to personal stories, turning heartache into hope. Your gentle demeanor and intuitive understanding make you a trusted confidant, always ready to offer a shoulder to lean on and a meaningful perspective.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "Like Dua’s carefully curated career moves, you’re a strategic thinker who plans for the long haul. You excel at mapping out goals, analyzing risks, and turning big ideas into actionable plans. Your calm, logical approach ensures you never lose sight of your objectives, making you a reliable leader who consistently delivers results.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Laid-Back Groover",
+      "description": "You embody Dua’s chill ‘Levitating’ vibe—easygoing, adaptable, and always ready to go with the flow. You hate rigid schedules, preferring to let life unfold naturally. Your relaxed attitude makes you the perfect companion for spontaneous adventures, whether it’s a late-night drive or an impromptu picnic in the park.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Warm Connector",
+      "description": "Channeling Dua’s fan-focused energy, you’re a warm, approachable soul who prioritizes community. You love hosting gatherings, checking in on friends, and making everyone feel seen and valued. Your reliable, nurturing nature creates a sense of belonging wherever you go, turning acquaintances into lifelong friends.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Bold Innovator",
+      "description": "You’re the ‘New Rules’ trailblazer—unafraid to break traditions and carve your own path. You thrive on innovation, always seeking new ways to improve things around you. Your fearless attitude and forward-thinking mindset inspire others to step out of their comfort zones and embrace change with open arms.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Quiet Dreamer",
+      "description": "Like Dua’s introspective album deep cuts, you’re a quiet, imaginative soul who lives in a world of ideas. You love getting lost in books, daydreaming about future adventures, and exploring creative hobbies. Your rich inner life fuels your unique perspective, making you a thoughtful observer who notices details others miss.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Playful Adventurer",
+      "description": "You embody Dua’s carefree ‘One Kiss’ energy—spontaneous, playful, and always up for a good time. You love trying new activities, meeting interesting people, and making every day feel like an adventure. Your lighthearted approach to life makes you a joy to be around, turning ordinary moments into unforgettable memories.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Practical Realist",
+      "description": "Channeling Dua’s grounded work ethic, you’re a practical, down-to-earth problem-solver. You focus on what’s tangible, preferring to spend energy on solutions rather than daydreams. Your reliable, no-nonsense attitude makes you the go-to person when things go wrong, always ready to fix issues with efficiency and grace.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Creative Collaborator",
+      "description": "You’re Dua’s collaborative partner in crime—sociable, creative, and always eager to bounce ideas off others. You thrive in team settings, using your outgoing nature to bring out the best in everyone. Your ability to blend different perspectives leads to innovative projects that capture attention and make a lasting impact.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Curious Explorer",
+      "description": "Like Dua’s global influence, you’re a curious, open-minded explorer who loves learning about different cultures and ideas. You’re always asking questions, seeking new knowledge, and expanding your horizons. Your insatiable curiosity makes you a fascinating conversationalist, with stories and insights from every corner of your experiences.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Passionate Idealist",
+      "description": "You embody Dua’s advocacy-driven spirit—passionate, idealistic, and always fighting for what you believe in. You stand up for others, use your voice to spark change, and never back down from a cause you care about. Your fiery determination and unwavering values inspire those around you to join your mission for good.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Steady Anchor",
+      "description": "Channeling Dua’s consistent career growth, you’re a steady, reliable anchor for those around you. You value stability, follow through on your promises, and create a sense of calm in chaotic situations. Your patient, methodical approach ensures things run smoothly, making you a trusted presence in any team or relationship.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dynamic Performer",
+      "description": "You’re the ‘Don’t Start Now’ showstopper—confident, dynamic, and always ready to take center stage. You love expressing yourself through creative outlets, whether it’s dancing, singing, or public speaking. Your magnetic energy and self-assuredness draw crowds, making every performance feel like a celebration of your true self.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

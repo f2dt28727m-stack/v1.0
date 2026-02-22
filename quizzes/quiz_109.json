@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What’s your hidden Roblox personality type?",
+  "category": "hidden",
+  "tags": [
+    "Roblox",
+    "Hidden Trait",
+    "MBTI",
+    "Personality",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover your hidden Roblox personality type!",
+  "questions": [
+    {
+      "text": "When you join a new Roblox server, you first...",
+      "options": [
+        {
+          "text": "Check out the server’s clear objectives and guidelines to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Strike up conversations with random players and invite them to team up for quests",
+          "score": "E"
+        },
+        {
+          "text": "Wander off to explore unmarked corners of the map to find hidden secrets",
+          "score": "N"
+        },
+        {
+          "text": "Sit back and observe how other players interact before deciding to join in",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When working on a group build project in Roblox, you tend to...",
+      "options": [
+        {
+          "text": "Propose bold, imaginative design ideas that no one else has thought of",
+          "score": "N"
+        },
+        {
+          "text": "Adjust your ideas quickly to match what the rest of the group is excited about",
+          "score": "F"
+        },
+        {
+          "text": "Focus on building functional, stable structures that serve the group’s exact needs",
+          "score": "S"
+        },
+        {
+          "text": "Organize tasks and deadlines to make sure the project finishes on schedule",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "If a glitch breaks your favorite Roblox game mode, you...",
+      "options": [
+        {
+          "text": "Start experimenting with workarounds to keep playing despite the glitch",
+          "score": "P"
+        },
+        {
+          "text": "Message them privately to ask if they’re okay and offer support",
+          "score": "F"
+        },
+        {
+          "text": "Report the glitch to the developer immediately with detailed steps to recreate it",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the glitch’s patterns to guess how it happened, even if you don’t code",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When choosing an avatar for a new Roblox game, you prioritize...",
+      "options": [
+        {
+          "text": "Unique, custom designs that reflect a quirky backstory you’ve made up",
+          "score": "N"
+        },
+        {
+          "text": "Outfits that let you move quickly and easily through game levels",
+          "score": "S"
+        },
+        {
+          "text": "Simple, understated looks that don’t draw too much attention to you",
+          "score": "I"
+        },
+        {
+          "text": "Clothes that match the aesthetic of the majority of players in the server",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When you encounter a tough in-game puzzle, you...",
+      "options": [
+        {
+          "text": "Visualize the puzzle’s bigger picture to spot hidden connections between clues",
+          "score": "N"
+        },
+        {
+          "text": "Ask other players in the chat for hints or walkthroughs to save time",
+          "score": "E"
+        },
+        {
+          "text": "Try every possible combination of actions until you find the solution",
+          "score": "S"
+        },
+        {
+          "text": "Take a break and come back later with a fresh perspective on the puzzle",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When hosting a Roblox party event for friends, you...",
+      "options": [
+        {
+          "text": "Create a flexible schedule where everyone can do whatever they want freely",
+          "score": "P"
+        },
+        {
+          "text": "Focus on making sure everyone feels included and has a chance to participate",
+          "score": "F"
+        },
+        {
+          "text": "Plan every detail, from mini-games to prize giveaways, to ensure smooth running",
+          "score": "J"
+        },
+        {
+          "text": "Design challenging, competitive mini-games to test everyone’s skills",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "If you find a hidden treasure chest in Roblox, you...",
+      "options": [
+        {
+          "text": "Keep the treasure for yourself to upgrade your character’s abilities",
+          "score": "T"
+        },
+        {
+          "text": "Use the treasure to create a new in-game challenge for others to solve",
+          "score": "N"
+        },
+        {
+          "text": "Share the treasure with all nearby players to build good relationships",
+          "score": "F"
+        },
+        {
+          "text": "Document the location and share it in the server’s guide for future players",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a player is being rude in the chat, you...",
+      "options": [
+        {
+          "text": "Message them privately to ask if they’re okay and offer support",
+          "score": "F"
+        },
+        {
+          "text": "Ignore them completely and focus on your own game to avoid conflict",
+          "score": "I"
+        },
+        {
+          "text": "Confront them directly to explain why their behavior is unacceptable",
+          "score": "T"
+        },
+        {
+          "text": "Call on other players to report the rude behavior to moderators",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When designing a Roblox game of your own, you start with...",
+      "options": [
+        {
+          "text": "Imagining the story and lore behind the game to make it feel immersive",
+          "score": "N"
+        },
+        {
+          "text": "Sketching out detailed maps and level layouts to ensure gameplay flow",
+          "score": "J"
+        },
+        {
+          "text": "Thinking about what players would find most fun and engaging to play",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorming wild, unique game mechanics that no one has tried before",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you have extra Robux to spend, you...",
+      "options": [
+        {
+          "text": "Purchase rare, limited-edition avatar items to show off to friends",
+          "score": "E"
+        },
+        {
+          "text": "Buy useful items like game passes that give you in-game advantages",
+          "score": "S"
+        },
+        {
+          "text": "Use it to gift items to random players to brighten their day",
+          "score": "F"
+        },
+        {
+          "text": "Save it for future updates or new games that might interest you",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you lose a competitive Roblox game, you...",
+      "options": [
+        {
+          "text": "Analyze your mistakes and practice specific skills to improve next time",
+          "score": "T"
+        },
+        {
+          "text": "Talk to your team about what went wrong and how to work better together",
+          "score": "F"
+        },
+        {
+          "text": "Switch to a casual game mode to relax and not think about the loss",
+          "score": "P"
+        },
+        {
+          "text": "Review the game’s rules again to make sure you didn’t miss key strategies",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a new Roblox game genre, you...",
+      "options": [
+        {
+          "text": "Try to combine elements of this genre with your favorite games to create something new",
+          "score": "N"
+        },
+        {
+          "text": "Invite a group of friends to play it together and share your thoughts",
+          "score": "E"
+        },
+        {
+          "text": "Play it alone for hours to master all its mechanics before telling anyone",
+          "score": "I"
+        },
+        {
+          "text": "List out all the pros and cons of the genre to decide if it’s worth your time",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Hidden Team Catalyst (ENFJ)",
+      "description": "Your hidden Roblox trait is that you’re the quiet glue holding servers together. You notice when players feel left out, subtly guide group projects to success, and always have a kind word for new members. As an ENFJ, you use empathy and leadership to create inclusive spaces, even when no one recognizes your efforts to turn chaos into community.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Hidden Joy Spreader (ENFP)",
+      "description": "Your hidden Roblox trait is that you turn every mundane task into a game. You create silly challenges for friends, sing random songs in chat, and bring contagious joy to every server. As an ENFP, you’re the secret optimist who makes even boring games feel exciting, using creativity and enthusiasm to lift everyone’s spirits without trying too hard.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Hidden Competitive Mastermind (ENTJ)",
+      "description": "Your hidden Roblox trait is that you’re always optimizing gameplay to dominate. You study top players’ strategies, refine build techniques, and lead teams to conquer competitive servers. As an ENTJ, you’re the unyielding leader who turns casual players into champions, using strategic thinking and determination to achieve victory without fanfare.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Hidden Creative Innovator (ENTP)",
+      "description": "Your hidden Roblox trait is that you brainstorm wild, unorthodox builds and game hacks even when following rules. You love challenging the status quo, turning simple obstacle courses into chaotic experiments. As an ENTP, you thrive on unexpected interactions and creative problem-solving, making you the secret spark that keeps servers lively.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Hidden Community Builder (ESFJ)",
+      "description": "Your hidden Roblox trait is that you organize small, meaningful moments for players—like surprise birthday parties or group build events. You remember everyone’s favorite avatar items and go out of your way to welcome new members. As an ESFJ, you’re the heart of any server, creating warm spaces that keep players coming back.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Hidden Spontaneous Explorer (ESFP)",
+      "description": "Your hidden Roblox trait is that you thrive on randomness and excitement. You join servers on a whim, try every new game mode immediately, and drag friends into impromptu adventures. As an ESFP, you’re the life of the party who turns ordinary games into unforgettable experiences, using energy and enthusiasm to keep moments fresh.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Hidden Action Coordinator (ESTJ)",
+      "description": "Your hidden Roblox trait is that you step up to lead when servers descend into chaos. You organize quest groups, assign roles to players, and enforce rules to get everyone back on track. As an ESTJ, you’re the decisive leader who turns disorganized teams into winners, using practicality and structure to achieve goals efficiently.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Hidden Risk-Taker (ESTP)",
+      "description": "Your hidden Roblox trait is that you’re always seeking the next thrill. You jump into dangerous game zones first, try risky build stunts, and challenge players to impromptu duels. As an ESTP, you’re the bold adventurer who keeps servers on their toes, using quick reflexes and love of action to create unforgettable moments.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Hidden Visionary Storyteller (INFJ)",
+      "description": "Your hidden Roblox trait is that you see every server’s untapped potential. You create intricate lore for build projects, guide players to connect through shared narratives, and help servers evolve into immersive worlds. As an INFJ, you’re the silent architect of meaningful gaming experiences, using intuition to foster deep connections.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Hidden Imagination Weaver (INFP)",
+      "description": "Your hidden Roblox trait is that you craft elaborate backstories for your avatar and the worlds you explore. You build quiet, magical spots where you can escape and daydream, leaving small gifts for other players to find. As an INFP, you infuse every game with heart, turning Roblox into a canvas for your hidden fantasy world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Hidden Tactical Strategist (INTJ)",
+      "description": "Your hidden Roblox trait is that you plan every move in advance, even in casual games. You map out server layouts, analyze enemy patterns, and design long-term strategies to dominate without anyone noticing. As an INTJ, you’re the silent mastermind who turns losses into victories, using logic and foresight to outplay opponents.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Hidden Quiet Innovator (INTP)",
+      "description": "Your hidden Roblox trait is that you spend hours experimenting with obscure game mechanics to create unique builds. You design complex contraptions no one else understands, sharing discoveries only with a small circle of friends. As an INTP, you’re the curious inventor of servers, using analytical mind to push Roblox’s creative boundaries.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Hidden Caregiver (ISFJ)",
+      "description": "Your hidden Roblox trait is that you take care of new players, teaching them the ropes and sharing resources. You remember everyone’s preferences, help them build their first structures, and always have extra health potions on hand. As an ISFJ, you’re the quiet protector of servers, using kindness and reliability to support others.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Hidden Empathetic Listener (ISFP)",
+      "description": "Your hidden Roblox trait is that you’re the go-to player for anyone venting about a bad game day. You build cozy private chat spaces, listen without judgment, and offer gentle support. As an ISFP, you bring warmth to every server, making players feel seen and valued even in the most chaotic competitive matches.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Hidden Detail Detective (ISTJ)",
+      "description": "Your hidden Roblox trait is that you spot every tiny glitch, hidden chest, or unspoken rule others miss. You document server guides, fix small build errors for friends, and ensure everyone follows rules to keep games fair. As an ISTJ, you’re the unsung hero who keeps servers running smoothly, using attention to detail to maintain order.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hidden Tech Wizard (ISTP)",
+      "description": "Your hidden Roblox trait is that you can fix any glitch or build error in minutes. You reverse-engineer game mechanics, create custom scripts to simplify tasks, and help players troubleshoot issues without hesitation. As an ISTP, you’re the quiet problem-solver of servers, using hands-on skills and logic to solve unsolvable challenges.",
+      "mbti": "ISTP"
+    }
+  ]
+}

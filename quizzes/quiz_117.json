@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Minecraft Playstyle Type Are You?",
+  "category": "whatwould",
+  "tags": [
+    "Minecraft",
+    "Gaming Personality",
+    "Playstyle",
+    "MBTI",
+    "What Would You Do"
+  ],
+  "description": "Answer 12 questions to discover your unique Minecraft playstyle personality!",
+  "questions": [
+    {
+      "text": "You’ve just spawned in a new Minecraft world. What’s your first move?",
+      "options": [
+        {
+          "text": "Climb the nearest mountain to survey the entire landscape and sketch out a long-term building plan in your mind",
+          "score": "N"
+        },
+        {
+          "text": "Gather wood and stone immediately to craft basic tools like a pickaxe and axe",
+          "score": "S"
+        },
+        {
+          "text": "Message your friends on the server to team up and explore the nearby village together",
+          "score": "E"
+        },
+        {
+          "text": "Find a hidden cave to set up a temporary shelter and take your time getting used to the surroundings",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A sudden creeper explosion damages half your base. How do you react?",
+      "options": [
+        {
+          "text": "Take this as a chance to redesign the damaged area with a new, creative layout",
+          "score": "P"
+        },
+        {
+          "text": "Ask your friends to help you gather materials while you coordinate the repairs",
+          "score": "F"
+        },
+        {
+          "text": "Focus on repairing the damaged structures first to restore functionality",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the explosion’s cause to set up better traps and prevent future attacks",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon a mysterious jungle temple. What do you do?",
+      "options": [
+        {
+          "text": "Call your friends over to explore the temple together and share any loot you find",
+          "score": "E"
+        },
+        {
+          "text": "Explore every corner carefully, checking for hidden chests and traps step by step",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the temple’s ancient history and create a backstory for it in your head",
+          "score": "N"
+        },
+        {
+          "text": "Explore the temple alone, taking your time to uncover its secrets without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You need to get resources for a big building project. What’s your approach?",
+      "options": [
+        {
+          "text": "Host a resource-sharing event with your server friends, giving away extras to those who need them",
+          "score": "E"
+        },
+        {
+          "text": "Create an automated farm to harvest resources continuously without manual effort",
+          "score": "T"
+        },
+        {
+          "text": "Store them in organized chests labeled by type, so you can easily find them later",
+          "score": "S"
+        },
+        {
+          "text": "Use them to experiment with a new, experimental build like a floating island house",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your server is hosting a building competition. What do you create?",
+      "options": [
+        {
+          "text": "A whimsical fantasy castle with towers, moats, and hidden secret passages",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the competition theme strictly, following all rules to maximize your chances of winning",
+          "score": "J"
+        },
+        {
+          "text": "A functional community hub with farms, storage areas, and meeting spaces for all players",
+          "score": "T"
+        },
+        {
+          "text": "Adapt your idea mid-build based on inspiration you get from other competitors’ projects",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a group of hostile mobs at night. What’s your first move?",
+      "options": [
+        {
+          "text": "Stick to your pre-planned escape route to get back to the safety of your base quickly",
+          "score": "J"
+        },
+        {
+          "text": "Attack the mobs directly, using your weapons to protect yourself and nearby players",
+          "score": "T"
+        },
+        {
+          "text": "Hide in a nearby bush and wait for the mobs to disperse, prioritizing safety over confrontation",
+          "score": "F"
+        },
+        {
+          "text": "Use your environment to your advantage, like pushing mobs off a cliff or into a lava pit",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You have extra resources after finishing a project. What do you do with them?",
+      "options": [
+        {
+          "text": "Store them in organized chests labeled by type, so you can easily find them later",
+          "score": "S"
+        },
+        {
+          "text": "Host a resource-sharing event with your server friends, giving away extras to those who need them",
+          "score": "E"
+        },
+        {
+          "text": "Use them to experiment with a new, experimental build like a floating island house",
+          "score": "N"
+        },
+        {
+          "text": "Keep them in your inventory, just in case you need them for a spontaneous project later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re lost in the Nether and running low on supplies. What do you do?",
+      "options": [
+        {
+          "text": "Retrace your steps carefully, using landmarks you noted earlier to find the portal back",
+          "score": "S"
+        },
+        {
+          "text": "Call out to your friends for help, sharing your coordinates so they can guide you back",
+          "score": "E"
+        },
+        {
+          "text": "Come up with a new route by observing the Nether’s unique terrain and lava flows",
+          "score": "N"
+        },
+        {
+          "text": "Calmly collect remaining resources and craft a temporary shelter until you find a way out",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You want to make your base more unique. What’s your go-to method?",
+      "options": [
+        {
+          "text": "Plan every detail in advance, creating a blueprint before placing any blocks",
+          "score": "J"
+        },
+        {
+          "text": "Add sentimental touches like a memorial for your first pet wolf or a sign with an inside joke with friends",
+          "score": "F"
+        },
+        {
+          "text": "Install redstone contraptions like automatic doors, item sorters, and lighting systems",
+          "score": "T"
+        },
+        {
+          "text": "Decorate with random, quirky items you find during exploration, letting your intuition guide you",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare enchanted book while mining. What do you do?",
+      "options": [
+        {
+          "text": "Trade it with a friend who needs it more for their build or adventure",
+          "score": "E"
+        },
+        {
+          "text": "Enchant your most used tool with it to make your daily tasks easier",
+          "score": "S"
+        },
+        {
+          "text": "Save it for a future, high-level tool you plan to craft later",
+          "score": "N"
+        },
+        {
+          "text": "Keep it in a special chest as a collectible, showing it off only to close friends",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "It’s the end of your play session. What’s the last thing you do?",
+      "options": [
+        {
+          "text": "Send a message to your server group saying goodbye and sharing highlights from your session",
+          "score": "E"
+        },
+        {
+          "text": "Finish the small task you were working on, like planting the last of your crops",
+          "score": "J"
+        },
+        {
+          "text": "Explore one last hidden cave or forest area just to see what you might find",
+          "score": "P"
+        },
+        {
+          "text": "Double-check that all your chests are locked and your base is secure from mobs",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your friend is stuck in a deep cave with low health. How do you help?",
+      "options": [
+        {
+          "text": "Rush in with healing potions and a sword to fight off mobs and get them to safety",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the cave layout from above to find the safest path down without alerting mobs",
+          "score": "T"
+        },
+        {
+          "text": "Coordinate with other friends to form a rescue team with supplies and backup",
+          "score": "E"
+        },
+        {
+          "text": "Craft a ladder and torch setup first to ensure a safe, stable rescue route",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "ENFJ: The Community Curator",
+      "description": "You’re the heart and soul of your Minecraft server! As an ENFJ, you thrive on bringing players together, organizing group projects, and making sure everyone feels welcome. You design communal spaces that foster connection, help new players learn the ropes, and turn the server into a warm, inclusive community. Your playstyle is all about lifting others up and creating shared memories that last.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "ENFP: The Adventure Storyteller",
+      "description": "You’re Minecraft’s ultimate adventure storyteller! As an ENFP, you see every cave, temple, and biome as a new chapter in your epic tale. You love spontaneous exploration, chasing hidden treasures, and turning even the smallest discoveries into legendary stories. You often get sidetracked by fascinating detours, but that’s where your most memorable moments happen—you’re all about joy and wonder in every pixel.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "ENTJ: The Base Architect",
+      "description": "You’re the mastermind behind every grand Minecraft base! As an ENTJ, you excel at strategic planning, efficient resource management, and leading team builds. You turn empty plains into functional, sprawling complexes with organized farms, automated systems, and clear hierarchies. You set ambitious goals and motivate others to achieve them, making you the go-to leader for large-scale projects.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "ENTP: The Redstone Innovator",
+      "description": "You’re Minecraft’s redstone genius and experimental builder! As an ENTP, you love pushing the limits of what’s possible with redstone contraptions, floating islands, and bizarre, functional builds. You thrive on solving complex puzzles and inventing new ways to automate tasks, often surprising your friends with your creative problem-solving. You’re never afraid to take risks and reimagine the rules of the game.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "ESFJ: The Server Caretaker",
+      "description": "You’re the dedicated caretaker of your Minecraft server! As an ESFJ, you make sure every player has what they need—whether that’s sharing extra resources, fixing damaged builds, or organizing regular community events. You prioritize the comfort and safety of others, often spending hours tending to communal farms and ensuring the server runs smoothly. Your playstyle is rooted in kindness and reliability.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "ESFP: The Festive Explorer",
+      "description": "You’re Minecraft’s life of the party! As an ESFP, you live for exciting, in-the-moment adventures—whether it’s hosting a spontaneous treasure hunt, decorating the server for holidays, or leading impromptu mob battles. You love showing off your latest discoveries to friends and turning every session into a celebration. Your playstyle is energetic, playful, and all about making every moment count.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "ESTJ: The Orderly Manager",
+      "description": "You’re the most organized player on your Minecraft server! As an ESTJ, you thrive on structure—you label every chest, follow strict resource-gathering checklists, and keep your base running like a well-oiled machine. You excel at managing server rules, resolving conflicts fairly, and ensuring projects stay on schedule. Your playstyle is practical, reliable, and focused on keeping everything in order.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "ESTP: The Action Seeker",
+      "description": "You’re Minecraft’s ultimate action junkie! As an ESTP, you love diving headfirst into danger—whether it’s taking on the Ender Dragon without preparation, exploring the Nether for rare resources, or participating in PvP battles. You trust your instincts and adapt quickly to any situation, making you a formidable opponent and a thrilling adventure partner. You live for the rush of the moment.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "INFJ: The Mystic Builder",
+      "description": "You’re Minecraft’s quiet visionary! As an INFJ, you create builds that tell a deep, personal story—think serene mountain monasteries, hidden forest sanctuaries, or towers that reach towards the stars. You prefer to build alone, pouring your emotions and ideas into every block. You often spend hours perfecting small details that hold special meaning, creating spaces that feel magical and deeply intentional.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "INFP: The Dreamweaver",
+      "description": "You’re Minecraft’s dreamy, creative soul! As an INFP, you build worlds that reflect your inner imagination—whimsical treehouses, floating gardens, or enchanted forests filled with hidden nooks. You value beauty and authenticity over functionality, often choosing aesthetic blocks over practical ones. You play Minecraft to escape into a world where your wildest dreams can come to life, one block at a time.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "INTJ: The Master Strategist",
+      "description": "You’re Minecraft’s long-term master strategist! As an INTJ, you plan every move months in advance—from mapping out the perfect base location to designing automated resource chains that sustain your empire. You’re always thinking ahead, anticipating potential problems like mob raids or resource shortages, and solving them before they happen. Your playstyle is all about efficiency, control, and turning grand visions into reality.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "INTP: The Curious Tinkerer",
+      "description": "You’re Minecraft’s curious problem-solver! As an INTP, you spend hours experimenting with redstone mechanics, testing the limits of game physics, and building contraptions that serve no practical purpose—but are endlessly fascinating. You love uncovering the hidden mechanics of the game and sharing your discoveries with a small group of like-minded friends. Your playstyle is all about learning, exploring, and satisfying your endless curiosity.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "ISFJ: The Nurturing Guardian",
+      "description": "You’re Minecraft’s gentle guardian of the natural world! As an ISFJ, you spend most of your time tending to lush farms, breeding animals, and restoring damaged biomes. You take pride in keeping your surroundings beautiful and sustainable, often helping new players set up their first farms. Your playstyle is calm, nurturing, and focused on caring for the world around you and the players in it.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "ISFP: The Aesthetic Crafter",
+      "description": "You’re Minecraft’s artistic perfectionist! As an ISFP, you create builds that are visually stunning—think cozy cottagecore homes with flower gardens, vibrant stained-glass churches, or serene beachside retreats. You pay meticulous attention to color palettes and texture combinations, often spending hours choosing the perfect block for each spot. Your playstyle is all about creating beauty that feels peaceful and deeply personal.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "ISTJ: The Reliable Survivor",
+      "description": "You’re Minecraft’s ultimate survivor! As an ISTJ, you master the basics first—you build impenetrable bases, stockpile resources for emergencies, and always have a backup plan. You’re the player everyone turns to when they need help gathering materials or fixing a broken build. Your playstyle is practical, steady, and focused on long-term survival and stability in the harsh Minecraft world.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "ISTP: The Silent Mechanic",
+      "description": "You’re Minecraft’s quiet handyman and explorer! As an ISTP, you excel at crafting complex tools, repairing damaged builds, and navigating dangerous terrain with ease. You prefer to work alone, tackling technical challenges like redstone repairs or mob trap designs. You’re always prepared for anything, with a full inventory of tools and supplies, making you the go-to problem-solver for any unexpected issue.",
+      "mbti": "ISTP"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Genshin Impact Character Type Are You?",
+  "category": "which",
+  "tags": [
+    "Genshin Impact",
+    "Genshin Character",
+    "Personality",
+    "MBTI",
+    "Video Game"
+  ],
+  "description": "Answer 12 questions to discover your Genshin Impact character type!",
+  "questions": [
+    {
+      "text": "When exploring Teyvat, you most often find yourself...",
+      "options": [
+        {
+          "text": "Staring at ancient ruins, wondering about the civilizations that once thrived here",
+          "score": "N"
+        },
+        {
+          "text": "Stopping to chat with every local you meet, eager to hear their stories about the land",
+          "score": "E"
+        },
+        {
+          "text": "Scouring every corner for hidden chests and resource nodes along the way",
+          "score": "S"
+        },
+        {
+          "text": "Heading straight to your next marked objective without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A friend asks for help solving a tricky puzzle in a domain. You respond by...",
+      "options": [
+        {
+          "text": "Trying out wild, unorthodox approaches just to see what happens",
+          "score": "P"
+        },
+        {
+          "text": "Breaking the puzzle down step by step to follow its clear logic",
+          "score": "T"
+        },
+        {
+          "text": "Asking them how they feel stuck and brainstorming together gently",
+          "score": "F"
+        },
+        {
+          "text": "Pulling up notes you took on similar puzzles to apply proven solutions",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon a stranger being harassed by hilichurls. Your first move is to...",
+      "options": [
+        {
+          "text": "Assess the situation quickly, then attack with a strategic plan to minimize risk",
+          "score": "T"
+        },
+        {
+          "text": "Rush in immediately to shield the stranger, letting your instincts guide your actions",
+          "score": "F"
+        },
+        {
+          "text": "Call out to nearby adventurers to join you in a coordinated rescue",
+          "score": "E"
+        },
+        {
+          "text": "Sneak around to take out hilichurls one by one without drawing too much attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "After a long day of adventuring, you unwind by...",
+      "options": [
+        {
+          "text": "Experimenting with a new recipe using rare ingredients you collected",
+          "score": "S"
+        },
+        {
+          "text": "Writing poems about the landscapes you’ve seen and the people you’ve met",
+          "score": "N"
+        },
+        {
+          "text": "Hosting a small gathering with friends to share tales from your journey",
+          "score": "E"
+        },
+        {
+          "text": "Sitting alone under a tree, listening to the wind and reflecting on your day",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a choice of companions for a dangerous expedition. You pick someone who...",
+      "options": [
+        {
+          "text": "Can adapt to unexpected changes and thinks on their feet in crises",
+          "score": "P"
+        },
+        {
+          "text": "Always sticks to a pre-planned schedule and follows safety protocols closely",
+          "score": "J"
+        },
+        {
+          "text": "Notices small details in the environment that others might overlook",
+          "score": "S"
+        },
+        {
+          "text": "Imagines all possible outcomes and prepares for even the most unlikely scenarios",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When debating the best way to use a new artifact, you focus on...",
+      "options": [
+        {
+          "text": "How it will benefit your team members and their unique battle styles",
+          "score": "F"
+        },
+        {
+          "text": "Which stats will mathematically maximize your overall damage output",
+          "score": "T"
+        },
+        {
+          "text": "Trying it out in different combat scenarios to see what feels right",
+          "score": "P"
+        },
+        {
+          "text": "Reading every detail of its lore to understand its true purpose",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re invited to a festival in Liyue Harbor. You’re most excited about...",
+      "options": [
+        {
+          "text": "Watching the lanterns rise and wondering about the wishes people are making",
+          "score": "N"
+        },
+        {
+          "text": "Sampling every street food vendor’s speciality and rating them with a notebook",
+          "score": "S"
+        },
+        {
+          "text": "Dancing and laughing with a crowd of new and old friends",
+          "score": "E"
+        },
+        {
+          "text": "Finding a quiet spot to sketch the festival decorations in peace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A merchant offers you a rare item at a steep price. You decide whether to buy it by...",
+      "options": [
+        {
+          "text": "Calculating how often you’ll use it and if it’s worth the long-term investment",
+          "score": "J"
+        },
+        {
+          "text": "Buying it on impulse because it sparks a sudden, strong interest",
+          "score": "P"
+        },
+        {
+          "text": "Asking the merchant about the item’s history and who made it before deciding",
+          "score": "F"
+        },
+        {
+          "text": "Comparing its stats to similar items you already own to judge its value logically",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with protecting a sacred relic overnight. You spend the time...",
+      "options": [
+        {
+          "text": "Pacing the perimeter regularly and checking all security measures repeatedly",
+          "score": "S"
+        },
+        {
+          "text": "Daydreaming about the relic’s role in Teyvat’s ancient prophecies",
+          "score": "N"
+        },
+        {
+          "text": "Striking up a conversation with the guard stationed nearby to pass the time",
+          "score": "E"
+        },
+        {
+          "text": "Meditating quietly to stay alert and focused on the task at hand",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a cross-region trip, you prioritize...",
+      "options": [
+        {
+          "text": "Leaving plenty of open time to explore any interesting spots you stumble upon",
+          "score": "P"
+        },
+        {
+          "text": "Creating a detailed itinerary with exact times for each stop and activity",
+          "score": "J"
+        },
+        {
+          "text": "Making sure you can visit important historical sites and learn local traditions",
+          "score": "N"
+        },
+        {
+          "text": "Packing enough supplies and checking weather forecasts for every region",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You hear a rumor about a hidden treasure in the Chasm. You react by...",
+      "options": [
+        {
+          "text": "Gathering a group of friends to split the work and share the reward fairly",
+          "score": "F"
+        },
+        {
+          "text": "Researching old maps and geological reports to find a scientific path to the treasure",
+          "score": "T"
+        },
+        {
+          "text": "Rushing off to the Chasm immediately to start searching without preparation",
+          "score": "E"
+        },
+        {
+          "text": "Waiting for more concrete evidence before deciding if it’s worth the trip",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "After completing a major quest, you remember most clearly...",
+      "options": [
+        {
+          "text": "The way the final boss’s attacks felt as you dodged and countered them",
+          "score": "S"
+        },
+        {
+          "text": "The emotional speech the quest giver gave about their lost loved one",
+          "score": "F"
+        },
+        {
+          "text": "The twist in the story that changed your understanding of the entire region",
+          "score": "N"
+        },
+        {
+          "text": "The efficiency of your team’s strategy that led to a quick victory",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Noelle (ISTJ)",
+      "description": "You’re Noelle, Mondstadt’s dedicated and unwavering maid. Like her, you take pride in fulfilling every duty with precision, always going the extra mile to ensure things run smoothly. You value tradition and reliability, and others turn to you for your calm, practical approach to solving problems. Your ISTJ traits make you a steady rock for anyone in need.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Barbara (ISFJ)",
+      "description": "You’re Barbara, Mondstadt’s beloved healing idol. Your warm, nurturing nature drives you to put others’ needs before your own, always ready to offer a song or a healing spell to lift spirits. You remember small details about the people you care about and go out of your way to make them feel seen. As an ISFJ, your kindness and loyalty make you a cherished friend.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Zhongli (INFJ)",
+      "description": "You’re Zhongli, Liyue’s wise former Geo Archon. With a deep sense of history and purpose, you see the bigger picture in every situation, guiding others with quiet wisdom rather than force. You value meaningful connections and take time to reflect on life’s profound questions. Your INFJ traits make you a visionary who leaves a lasting impact on everyone you meet.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Albedo (INTJ)",
+      "description": "You’re Albedo, Mondstadt’s genius alchemist. Your sharp, analytical mind craves understanding the fundamental truths of Teyvat, from the composition of slimes to the secrets of creation. You work diligently on your research, often losing track of time in pursuit of knowledge. As an INTJ, your strategic thinking and independence make you a master of turning ideas into reality.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Razor (ISTP)",
+      "description": "You’re Razor, the wolf-haired warrior of Wolvendom. Practical and action-oriented, you rely on your instincts to navigate the wilderness, preferring to learn by doing rather than reading. You’re quiet but fiercely protective of those you consider pack, using your quick reflexes to defend them. Your ISTP traits make you a skilled problem-solver who thrives in the moment.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Nahida (ISFP)",
+      "description": "You’re Nahida, Sumeru’s gentle Dendro Archon. You have a deep appreciation for the beauty of nature and the small joys of life, finding wonder in every flower and every story. You’re deeply in tune with others’ emotions, using your empathy to guide them toward growth. As an ISFP, your creativity and compassion make you a source of calm in chaotic times.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Kaedehara Kazuha (INFP)",
+      "description": "You’re Kaedehara Kazuha, the wandering poet samurai. You see beauty in every moment, turning life’s challenges into verses and finding peace in the wind’s embrace. You value freedom and authenticity, refusing to be tied down by rigid rules. As an INFP, your idealism and gentle spirit draw others to your quiet, profound wisdom.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Scaramouche (INTP)",
+      "description": "You’re Scaramouche, the enigmatic Wanderer. Your curious, analytical mind questions everything from authority to the nature of existence itself. You prefer to work alone, using your sharp wit and logical thinking to uncover hidden truths. As an INTP, your love of debate and unconventional ideas makes you a provocative yet insightful companion.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Childe (ESTP)",
+      "description": "You’re Childe, the charismatic Harbinger and thrill-seeking warrior. You thrive on adventure and competition, always looking for your next big challenge to test your skills. You’re outgoing and quick to make friends, using your charm to win people over even in tense situations. As an ESTP, your boldness and adaptability make you a force to be reckoned with.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Xiangling (ESFP)",
+      "description": "You’re Xiangling, Liyue’s energetic chef extraordinaire. You live in the moment, finding joy in experimenting with new flavors and sharing your cooking with everyone around you. You’re outgoing and spontaneous, always ready to join a festival or a impromptu adventure. As an ESFP, your warmth and enthusiasm light up any room you enter.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Klee (ENFP)",
+      "description": "You’re Klee, Mondstadt’s explosive little adventurer. Your imagination knows no bounds, turning everything into a game or a new experiment (even if it involves bombs). You’re endlessly curious and optimistic, seeing the good in everyone and every situation. As an ENFP, your creativity and childlike wonder make you a source of endless fun and inspiration.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Fischl (ENTP)",
+      "description": "You’re Fischl, the dramatic Prinzessin der Verurteilung. Your mind is full of wild, imaginative stories and clever wordplay, always keeping those around you on their toes. You love debating and challenging ideas, using your wit to turn even the most mundane situations into epic tales. As an ENTP, your originality and charm make you unforgettable.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Jean (ESTJ)",
+      "description": "You’re Jean, Mondstadt’s reliable Acting Grand Master. You’re a natural leader who values structure and responsibility, always putting the needs of Mondstadt first. You approach every task with efficiency and discipline, ensuring rules are followed to keep the city safe. As an ESTJ, your strong work ethic and sense of duty earn you respect from all who know you.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Ganyu (ESFJ)",
+      "description": "You’re Ganyu, Liyue’s half-qilin secretary. You’re deeply dedicated to your work, going to great lengths to ensure every detail is perfect for the Qixing. You’re kind and empathetic, always willing to listen to others’ concerns and help them find solutions. As an ESFJ, your generosity and attention to detail make you an invaluable member of any team.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Venti (ENFJ)",
+      "description": "You’re Venti, Mondstadt’s carefree Bard and Anemo Archon. You have a gift for connecting with people, using your songs to inspire joy and unity. You see the potential in everyone and work quietly to help them achieve their dreams. As an ENFJ, your charisma and empathy make you a natural leader who unites others through love and music.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Tartaglia (ENTJ)",
+      "description": "You’re Tartaglia, the ambitious Harbinger with a strategic mind. You’re a natural leader who sets clear goals and works tirelessly to achieve them, using your tactical genius to overcome any obstacle. You’re confident and decisive, never shying away from taking charge in tough situations. As an ENTJ, your drive and vision make you a powerful force in Teyvat.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

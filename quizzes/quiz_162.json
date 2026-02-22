@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What’s Your Yellowjackets-Inspired Future Survival Destiny?",
+  "category": "future",
+  "tags": [
+    "Yellowjackets",
+    "Survival",
+    "Future Destiny",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your Yellowjackets-inspired future survival path!",
+  "questions": [
+    {
+      "text": "When you wake up to find your campsite has been ransacked by unknown animals, you immediately...",
+      "options": [
+        {
+          "text": "Silently trace the animal tracks to understand their behavior and avoid future encounters",
+          "score": "N"
+        },
+        {
+          "text": "Find a quiet spot to process your frustration before taking action",
+          "score": "I"
+        },
+        {
+          "text": "Call out to your group to gather and figure out next steps together",
+          "score": "E"
+        },
+        {
+          "text": "Start repairing the damaged shelter and restocking your food supplies right away",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A stranger offers you a mysterious item that could help you survive, but you don’t know its true purpose. You...",
+      "options": [
+        {
+          "text": "Decline it, preferring to stick with tools you already know how to use",
+          "score": "J"
+        },
+        {
+          "text": "Trust your gut feeling and take it, believing it will serve a purpose later",
+          "score": "F"
+        },
+        {
+          "text": "Take it and experiment with different uses to see what it can do",
+          "score": "P"
+        },
+        {
+          "text": "Ask detailed questions about how it works and test its functionality first",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your group is split on whether to stay put or move to a new location. You...",
+      "options": [
+        {
+          "text": "Listen closely to everyone’s concerns before sharing your perspective",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the pros and cons of both options with data you’ve gathered",
+          "score": "T"
+        },
+        {
+          "text": "Advocate for staying put to preserve the resources you’ve already established",
+          "score": "S"
+        },
+        {
+          "text": "Argue for moving to explore new opportunities and potential safer grounds",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon an abandoned cabin in the woods. Your first move is to...",
+      "options": [
+        {
+          "text": "Invite your teammates in to explore and split up to check every room",
+          "score": "E"
+        },
+        {
+          "text": "Sit by the fireplace to feel the warmth and reflect on how far you’ve come",
+          "score": "I"
+        },
+        {
+          "text": "Map out the cabin’s layout and mark potential storage spots for supplies",
+          "score": "J"
+        },
+        {
+          "text": "Rummage through drawers and closets to find any hidden surprises or useful items",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A storm is approaching fast, and your shelter isn’t fully secure. You...",
+      "options": [
+        {
+          "text": "Grab the most essential items and head to a nearby cave you noticed earlier",
+          "score": "N"
+        },
+        {
+          "text": "Hurry to reinforce the shelter’s walls with nearby branches and mud",
+          "score": "S"
+        },
+        {
+          "text": "Check in with each member of your group to make sure they’re prepared",
+          "score": "F"
+        },
+        {
+          "text": "Quickly assign tasks to everyone to speed up the shelter repairs",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’ve been stuck in the wilderness for weeks and start feeling hopeless. You...",
+      "options": [
+        {
+          "text": "Spend time alone journaling your thoughts to process the emotion",
+          "score": "I"
+        },
+        {
+          "text": "Gather your group to share stories of home and lift each other’s spirits",
+          "score": "E"
+        },
+        {
+          "text": "Create a daily routine to give structure to your days and stay focused",
+          "score": "J"
+        },
+        {
+          "text": "Wander through the woods to find new sights and distract yourself from despair",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a map that might lead to a rescue team, but some parts are torn. You...",
+      "options": [
+        {
+          "text": "Use your knowledge of the terrain to fill in the missing pieces logically",
+          "score": "T"
+        },
+        {
+          "text": "Trust your intuition to guess the most likely path to follow",
+          "score": "F"
+        },
+        {
+          "text": "Follow the clear parts of the map exactly to avoid getting lost",
+          "score": "S"
+        },
+        {
+          "text": "Take a risk and explore the area beyond the torn sections to find clues",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "One of your teammates gets injured and can’t walk. You...",
+      "options": [
+        {
+          "text": "Build a makeshift stretcher using materials from the area to carry them",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm a way to create a signal for rescue to come to your location",
+          "score": "N"
+        },
+        {
+          "text": "Stay by their side to comfort them while others handle logistics",
+          "score": "F"
+        },
+        {
+          "text": "Delegate roles to the group to balance care and survival tasks efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re running low on food and have to choose between hunting or foraging. You...",
+      "options": [
+        {
+          "text": "Hunt with a teammate to increase your chances of success",
+          "score": "E"
+        },
+        {
+          "text": "Forage alone in areas you know have edible plants you’ve identified before",
+          "score": "I"
+        },
+        {
+          "text": "Plan a hunting schedule to maximize your time and energy",
+          "score": "J"
+        },
+        {
+          "text": "Randomly explore different areas to see what you can find unexpectedly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You hear a strange noise in the distance at night. You...",
+      "options": [
+        {
+          "text": "Grab a weapon and investigate the noise immediately",
+          "score": "T"
+        },
+        {
+          "text": "Wake up the group to discuss whether to check it out or stay hidden",
+          "score": "F"
+        },
+        {
+          "text": "Stay quiet and listen closely to identify the source of the sound",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all possible scenarios to prepare for whatever might happen",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You have a chance to leave the wilderness but have to leave a teammate behind temporarily. You...",
+      "options": [
+        {
+          "text": "Leave a detailed note with instructions for their safety and survival",
+          "score": "J"
+        },
+        {
+          "text": "Promise to return as soon as possible and hug them goodbye tightly",
+          "score": "F"
+        },
+        {
+          "text": "Quickly gather supplies for them and head out without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "Calculate the exact time it will take to get help and return",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After surviving the wilderness, you’re asked to share your story publicly. You...",
+      "options": [
+        {
+          "text": "Host a workshop to teach others survival skills you learned",
+          "score": "E"
+        },
+        {
+          "text": "Write a book to share your private thoughts and experiences",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the practical lessons you gained to help others prepare",
+          "score": "S"
+        },
+        {
+          "text": "Talk about the philosophical insights you gained from the experience",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Wilderness Commander",
+      "description": "Your future survival destiny is to be the unshakable leader of any crisis. Like a Yellowjackets captain, you quickly assess threats, enforce strict strategies, and push your team to adapt. You make tough calls without hesitation, turning chaos into order, and your ability to rally others ensures everyone’s chance at making it out alive. You’re an ENTJ—strategic, decisive, and unyielding.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Intuitive Mystic",
+      "description": "In future crises, you’ll connect with the wild on a deep, spiritual level. You find meaning in small signs, create rituals to keep hope alive, and offer quiet comfort to those who feel lost. Your empathy and intuition guide your choices, and you’ll protect your group’s emotional well-being even when physical survival seems impossible. You’re an INFP—idealistic, introspective, and deeply compassionate.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Pragmatic Survivor",
+      "description": "Your future lies in mastering the basics of survival. You prioritize tangible resources, fix what’s broken, and stick to proven methods. You’re the one who always has a backup plan, using practical skills to keep your group fed, sheltered, and safe. You don’t waste time on abstract ideas—you focus on what works. You’re an ISTJ—reliable, detail-oriented, and grounded in reality.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Creative Explorer",
+      "description": "You thrive on uncertainty, seeing crisis as a chance to innovate. You repurpose trash into tools, invent new hunting techniques, and dream up wild escape plans. Your curiosity and imagination keep your group moving forward, turning impossible odds into opportunities. You’re an ENTP—witty, creative, and always one step ahead of the curve.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Nurturing Guardian",
+      "description": "In any survival scenario, you’re the heart of the group. You tend to the injured, listen to everyone’s fears, and build bonds that keep morale high. You prioritize people over plans, and your warmth reminds others why they’re fighting to survive. Your empathy and selflessness make you irreplaceable. You’re an ESFJ—sociable, caring, and deeply committed to others.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Analytic Strategist",
+      "description": "You turn chaos into data, mapping every threat and opportunity. You calculate risks, optimize resources, and design long-term plans that keep your group one step ahead. You don’t let emotions cloud your judgment—you rely on logic to make the hard choices. Your strategic mind is your greatest weapon. You’re an INTJ—independent, logical, and always thinking ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptable Wanderer",
+      "description": "You roll with the punches, adapting to every new challenge with ease. You don’t need plans—you trust your gut to guide you through the unknown. You find joy in the journey, exploring new paths and embracing change. Your flexibility keeps your group open to unexpected chances of survival. You’re an ENFP—spontaneous, optimistic, and full of energy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Quiet Observer",
+      "description": "You’re the silent strength of your group, watching, listening, and remembering every detail. You notice things others miss—tracks in the dirt, changes in the weather, subtle shifts in mood. Your insight helps your group avoid traps and stay safe. You prefer to work behind the scenes, but your contributions are invaluable. You’re an ISTP—calm, observant, and skilled at solving problems quietly.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Social Connector",
+      "description": "You’re the glue that holds your group together. You organize group activities, share stories to lift spirits, and resolve conflicts before they escalate. Your ability to connect with others makes everyone feel seen and valued, turning strangers into a family. In crisis, your social skills are as vital as any survival tool. You’re an ESFP—outgoing, warm, and always ready to lift others up.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Visionary Planner",
+      "description": "You see the big picture, even when others are stuck in the moment. You design long-term escape routes, imagine post-survival lives, and inspire your group to hold onto hope. Your ideas might seem bold, but they often lead to breakthroughs. You’re an INFJ—insightful, visionary, and deeply committed to a better future for your group.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Logical Problem-Solver",
+      "description": "You tackle every crisis with a cool head, breaking problems down into manageable parts. You fix broken tools, purify water with science, and use physics to build better shelters. You don’t get emotional—you get to work. Your ability to solve practical problems keeps your group alive. You’re an ESTJ—efficient, logical, and focused on results.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Free-Spirited Dreamer",
+      "description": "You reject rigid rules and embrace the chaos of survival. You follow your curiosity, explore uncharted areas, and find beauty in the wilderness even in the darkest times. Your optimism is contagious, and your willingness to take risks leads to unexpected discoveries. You’re an INTP—creative, curious, and always questioning the status quo.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Empathetic Listener",
+      "description": "In any crisis, you’re the person everyone turns to for support. You listen without judgment, validate feelings, and offer gentle advice. You prioritize emotional safety as much as physical safety, ensuring no one feels alone. Your kindness creates a safe space for your group to heal and grow. You’re an ISFJ—compassionate, loyal, and deeply attuned to others’ needs.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Bold Innovator",
+      "description": "You’re the one who takes risks others won’t, trying new techniques and pushing boundaries. You turn failure into learning, using every mistake to get better. Your confidence inspires others to take action, and your boldness leads to breakthroughs. You’re an ESTP—adventurous, practical, and always ready to jump into action.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Reflective Philosopher",
+      "description": "You spend your survival days thinking about the meaning of it all. You question why things happen, what you’re learning, and how to grow from the experience. You share your insights with your group, helping them find purpose in the pain. Your perspective turns survival into a journey of self-discovery. You’re an INFJ—introspective, philosophical, and deeply thoughtful.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Collaborative Builder",
+      "description": "You thrive in groups, using your communication skills to bring people together. You delegate tasks fairly, celebrate small wins, and create a sense of community. Your ability to work with others turns individual strengths into a collective force. You’re an ENFJ—charismatic, supportive, and dedicated to helping your group succeed together.",
+      "mbti": "ENFJ"
+    }
+  ]
+}

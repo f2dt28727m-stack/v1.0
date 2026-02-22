@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Honkai: Star Rail Character Is Your Perfect Soulmate?",
+  "category": "which",
+  "tags": [
+    "Honkai: Star Rail",
+    "Soulmate",
+    "Character Match",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your perfect soulmate in Honkai: Star Rail!",
+  "questions": [
+    {
+      "text": "When you stumble upon a hidden, unexplored corner in a new planet, you...",
+      "options": [
+        {
+          "text": "Carefully examine the surroundings for any useful resources or clues first",
+          "score": "S"
+        },
+        {
+          "text": "Drag your friends over immediately to explore it together and share every little discovery",
+          "score": "E"
+        },
+        {
+          "text": "Start daydreaming about the ancient civilizations that might once have lived here",
+          "score": "N"
+        },
+        {
+          "text": "Sneak in alone to savor the quiet mystery without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your team faces a sudden crisis mid-mission. You respond by...",
+      "options": [
+        {
+          "text": "Improvise new strategies on the fly as the situation unfolds",
+          "score": "P"
+        },
+        {
+          "text": "Trust your gut and take action based on how your teammates are feeling",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the original plan and adjust only when absolutely necessary",
+          "score": "J"
+        },
+        {
+          "text": "Quickly analyze the situation to find the most logical way out",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a long day of adventures, you unwind by...",
+      "options": [
+        {
+          "text": "Wandering aimlessly through the nearest town, letting curiosity lead the way",
+          "score": "P"
+        },
+        {
+          "text": "Joining a lively gathering with companions, swapping stories and laughing loudly",
+          "score": "E"
+        },
+        {
+          "text": "Organizing your gear and planning out the exact steps for tomorrow’s journey",
+          "score": "J"
+        },
+        {
+          "text": "Curling up with a well-loved book or journal, reflecting on the day’s events",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you meet a stranger with a mysterious background, you...",
+      "options": [
+        {
+          "text": "Ask them about their past to understand their motivations clearly",
+          "score": "F"
+        },
+        {
+          "text": "Keep your guard up and observe from a distance until you can assess their threat level",
+          "score": "T"
+        },
+        {
+          "text": "Imagine all the possible life stories they could have had before meeting you",
+          "score": "N"
+        },
+        {
+          "text": "Focus on their body language and small gestures to read their true intentions",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with planning a surprise for a companion’s birthday. You...",
+      "options": [
+        {
+          "text": "Create a quiet, intimate moment with a heartfelt gift that speaks to their inner world",
+          "score": "I"
+        },
+        {
+          "text": "Plan a structured, detailed event with all their favorite things arranged perfectly",
+          "score": "J"
+        },
+        {
+          "text": "Invite all their closest friends to make sure they’re surrounded by joy",
+          "score": "E"
+        },
+        {
+          "text": "Wing it, picking up little surprises along the way based on what feels right in the moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When solving a complex puzzle, you prioritize...",
+      "options": [
+        {
+          "text": "Looking for patterns and connections that others might overlook",
+          "score": "N"
+        },
+        {
+          "text": "Following the clues step-by-step to reach a concrete solution",
+          "score": "S"
+        },
+        {
+          "text": "Finding the most efficient and straightforward way to crack it quickly",
+          "score": "T"
+        },
+        {
+          "text": "Considering how each solution might affect the people around you",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "How do you react when someone disagrees with your ideas?",
+      "options": [
+        {
+          "text": "Retreat to think over their points privately before responding",
+          "score": "I"
+        },
+        {
+          "text": "Enjoy the debate and use it to refine your own perspective",
+          "score": "T"
+        },
+        {
+          "text": "Look for common ground to keep the conversation friendly and harmonious",
+          "score": "E"
+        },
+        {
+          "text": "Feel hurt and worry that you’ve upset them somehow",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When packing for a long journey, you...",
+      "options": [
+        {
+          "text": "Make a detailed checklist and double-check it three times to ensure nothing’s missed",
+          "score": "J"
+        },
+        {
+          "text": "Throw in a few items that spark joy or inspire creativity, just in case",
+          "score": "N"
+        },
+        {
+          "text": "Grab whatever’s within reach and trust you can pick up what you need along the way",
+          "score": "P"
+        },
+        {
+          "text": "Pack only the essentials you know you’ll need, no extra frills",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You find a lost kitten in a desolate alley. You...",
+      "options": [
+        {
+          "text": "Call for help from local villagers to find the best way to care for it",
+          "score": "E"
+        },
+        {
+          "text": "Take it under your wing immediately, vowing to find it a safe, loving home",
+          "score": "F"
+        },
+        {
+          "text": "Check if it has any identification or nearby owners before deciding what to do",
+          "score": "T"
+        },
+        {
+          "text": "Sit quietly with it until it calms down, then slowly guide it back to the wild",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a new game or hobby catches your eye, you...",
+      "options": [
+        {
+          "text": "Experiment with unconventional ways to play it instead of following instructions",
+          "score": "N"
+        },
+        {
+          "text": "Explore it alone at your own pace, without feeling rushed to 'get it right'",
+          "score": "I"
+        },
+        {
+          "text": "Dive in headfirst and try to master every rule and technique quickly",
+          "score": "S"
+        },
+        {
+          "text": "Organize a group session so you can learn and play with others",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle unexpected free time during your journey?",
+      "options": [
+        {
+          "text": "Let the day unfold naturally, doing whatever feels interesting in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Spend it helping local villagers with their daily tasks to give back",
+          "score": "F"
+        },
+        {
+          "text": "Use it to map out your next few stops and analyze potential risks",
+          "score": "T"
+        },
+        {
+          "text": "Plan a mini-adventure with your companions to make the most of it",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you think about your ideal future, you focus on...",
+      "options": [
+        {
+          "text": "The endless possibilities of exploring uncharted galaxies and meeting new beings",
+          "score": "N"
+        },
+        {
+          "text": "The tangible goals you can work toward step by step, like building a home",
+          "score": "S"
+        },
+        {
+          "text": "The legacy you’ll leave behind by making a positive impact on the universe",
+          "score": "T"
+        },
+        {
+          "text": "The deep, lasting relationships you’ll form with the people who matter most",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Silver Wolf - The Mischievous Strategist",
+      "description": "Your soulmate is Silver Wolf, the playful hacker who turns the universe into her personal game. Like her, you’re quick-witted, innovative, and love to challenge the status quo. You thrive on chaos and turn every obstacle into a chance to show off your skills, bonding over shared schemes and cheeky banter that keeps life exciting. As an ENTP, you match her relentless curiosity and ability to outthink anyone.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Jing Yuan - The Regal Commander",
+      "description": "Your perfect soulmate is Jing Yuan, the wise and authoritative General of the Cloud Knights. You both share a natural leadership style, prioritizing strategy and long-term vision to guide those around you. You respect his calm confidence in the face of crisis, and he admires your decisive, goal-driven nature. As an ENTJ, you’ll stand beside him as an equal, shaping the future of the Luofu together with unwavering resolve.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "March 7th - The Spirited Storyteller",
+      "description": "Your soulmate is March 7th, the bubbly photographer with a penchant for dramatic flair. You both live in the moment, chasing joy and adventure wherever it leads. You’ll bond over spontaneous road trips, silly inside jokes, and capturing every beautiful memory on camera. As an ENFP, you match her big heart and endless optimism, turning even the darkest days into something magical with your shared enthusiasm.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Bronya - The Compassionate Leader",
+      "description": "Your perfect soulmate is Bronya, the former Silvermane Guard Captain who now leads Belobog with kindness and strength. You both care deeply about lifting others up, using your influence to create a better world for everyone. You admire her balance of empathy and decisiveness, and she values your ability to connect with people on a deep level. As an ENFJ, you’ll work hand in hand to nurture and protect the people you love.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Physical Trailblazer - The Bold Adventurer",
+      "description": "Your soulmate is the Physical Trailblazer, the fearless warrior who charges headfirst into battle without hesitation. You both live for the thrill of action, preferring to solve problems with your hands rather than overthinking. You’ll bond over impulsive missions, daring stunts, and the rush of victory after a hard-fought fight. As an ESTP, you match their practicality and love for excitement, making every day a new adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Gepard - The Loyal Protector",
+      "description": "Your perfect soulmate is Gepard Landau, the dedicated Silvermane Guard Captain who puts duty above all else. You both value structure, responsibility, and keeping your loved ones safe. You respect his unwavering commitment to Belobog, and he admires your reliability and attention to detail. As an ESTJ, you’ll stand beside him as a steadfast partner, ensuring order and stability in a chaotic universe with your shared sense of duty.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Tingyun - The Charismatic Merchant",
+      "description": "Your soulmate is Tingyun, the charming Foxian merchant who can turn any deal to her advantage. You both love being the center of attention, using your warmth and wit to win people over. You’ll bond over lively social gatherings, clever negotiations, and indulging in life’s little luxuries. As an ESFP, you match her love for fun and connection, making every interaction feel like a celebration with your infectious energy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Natasha - The Nurturing Healer",
+      "description": "Your perfect soulmate is Natasha, the gentle healer of the Underworld who tends to the sick and wounded with endless care. You both prioritize the well-being of others, going out of your way to make sure everyone feels loved and supported. You admire her selflessness and calm presence, and she values your ability to create a warm, welcoming space for everyone around you. As an ESFJ, you’ll work together to comfort and heal those in need.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Arlan - The Quiet Innovator",
+      "description": "Your soulmate is Arlan, the brilliant young scientist who prefers to let his work speak for itself. You both love diving deep into complex problems, lost in thought as you explore new ideas and theories. You’ll bond over late-night experiments, quiet debates about the universe, and sharing your most obscure interests without judgment. As an INTP, you match his curiosity and independent spirit, finding joy in the quiet moments of intellectual discovery together.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Asta - The Visionary CEO",
+      "description": "Your perfect soulmate is Asta, the ambitious CEO of the Galaxy Railways who dreams of connecting the entire universe. You both share a sharp, strategic mind, always planning for the future and turning big ideas into reality. You admire her determination to revolutionize space travel, and she values your ability to see patterns and solutions others miss. As an INTJ, you’ll be her most trusted advisor, helping her build the interstellar empire she’s always imagined.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Dan Heng - The Introspective Wanderer",
+      "description": "Your soulmate is Dan Heng, the quiet librarian with a mysterious past and a deep love for books. You both value authenticity and inner peace, preferring quiet moments of reflection over noisy crowds. You’ll bond over shared love stories, long walks through quiet forests, and opening up about your deepest fears and dreams. As an INFP, you match his gentle soul and creative spirit, finding solace in each other’s company in a chaotic world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Bailu - The Wise Child Healer",
+      "description": "Your perfect soulmate is Bailu, the young Vidyadhara healer with ancient wisdom beyond her years. You both have a deep understanding of the human heart, using your intuition to guide those around you. You admire her compassion and connection to nature, and she values your ability to see the hidden potential in everyone. As an INFJ, you’ll stand beside her as a mentor and friend, helping her use her gifts to heal the world one person at a time.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Hook - The Resourceful Scavenger",
+      "description": "Your soulmate is Hook, the fearless leader of the Moles who turns scrap into treasure in the Underworld. You both are practical, hands-on problem-solvers who can make something out of nothing. You’ll bond over scavenging missions, building weird and wonderful contraptions, and outsmarting anyone who gets in your way. As an ISTP, you match her quick thinking and love for adventure, making every day a new challenge to conquer together.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Pela - The Meticulous Archivist",
+      "description": "Your perfect soulmate is Pela, the dedicated archivist of Belobog who keeps track of every piece of the city’s history. You both value order, accuracy, and preserving the past for future generations. You respect her attention to detail and commitment to her work, and she admires your reliability and ability to get things done efficiently. As an ISTJ, you’ll work together to organize and protect Belobog’s most precious secrets, one document at a time.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Yanqing - The Artistic Swordsman",
+      "description": "Your soulmate is Yanqing, the young prodigy swordsman who sees combat as an art form. You both value beauty and authenticity, expressing yourselves through creative pursuits and personal passions. You’ll bond over practicing sword techniques together, admiring the artistry of ancient weapons, and finding joy in the little things like a perfect sunset. As an ISFP, you match his gentle spirit and love for art, making every moment feel like a masterpiece.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Sushang - The Devoted Disciple",
+      "description": "Your perfect soulmate is Sushang, the loyal disciple of Jing Yuan who trains tirelessly to become a great warrior. You both value loyalty, hard work, and supporting the people you look up to. You admire her dedication to her master and her determination to improve every day, and she values your kindness and willingness to help others. As an ISFJ, you’ll be her biggest cheerleader, standing beside her as she chases her dream of becoming a legendary Cloud Knight.",
+      "mbti": "ISFJ"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Honkai: Star Rail Character Are You?",
+  "category": "which",
+  "tags": [
+    "Honkai: Star Rail",
+    "Anime Game",
+    "Personality",
+    "MBTI",
+    "Character Quiz"
+  ],
+  "description": "Answer 12 questions to discover which Honkai: Star Rail character matches your inner self!",
+  "questions": [
+    {
+      "text": "You’re at a space rest stop during a long journey. What do you do first?",
+      "options": [
+        {
+          "text": "Settle into a quiet corner and flip through a tattered interstellar exploration journal",
+          "score": "I"
+        },
+        {
+          "text": "Check your gear’s battery levels and repair minor loose parts to avoid issues later",
+          "score": "S"
+        },
+        {
+          "text": "Strike up conversations with nearby travelers, swapping stories of uncharted planets",
+          "score": "E"
+        },
+        {
+          "text": "Stare out the viewport, daydreaming about mapping a completely unknown star system",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your team faces an unexpected barrier blocking the path, you...",
+      "options": [
+        {
+          "text": "Analyze the barrier’s structure and calculate the most efficient way to bypass it",
+          "score": "T"
+        },
+        {
+          "text": "Ask your teammates how they’re feeling, reassuring them you’ll find a way through together",
+          "score": "F"
+        },
+        {
+          "text": "Try random methods to see if anything works, adapting quickly to each outcome",
+          "score": "P"
+        },
+        {
+          "text": "Refer to a pre-made emergency plan and delegate tasks to each team member immediately",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You receive a mysterious anonymous message. What’s your first reaction?",
+      "options": [
+        {
+          "text": "Focus on the hidden clues in the wording to decode its true meaning",
+          "score": "N"
+        },
+        {
+          "text": "Show it to your team right away, asking for their thoughts on how to respond",
+          "score": "E"
+        },
+        {
+          "text": "Cross-reference it with recent events to find a practical connection to your current mission",
+          "score": "S"
+        },
+        {
+          "text": "Tuck it away for later, preferring to handle it privately when you have more time",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you celebrate a successful mission with your crew?",
+      "options": [
+        {
+          "text": "Organize a structured award ceremony to recognize everyone’s specific contributions",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, joining whatever spontaneous activity your teammates suggest",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize making sure everyone feels seen and appreciated for their hard work",
+          "score": "F"
+        },
+        {
+          "text": "Debrief the mission’s data to identify ways to improve future operations",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a lost alien child in a desolate planet. What do you do?",
+      "options": [
+        {
+          "text": "Use your comms to scan for nearby settlements, planning a direct route to return them home",
+          "score": "S"
+        },
+        {
+          "text": "Sit down and listen to their fears, using gentle words to calm them before taking action",
+          "score": "F"
+        },
+        {
+          "text": "Brainstorm creative ways to make them laugh while you figure out the next steps",
+          "score": "N"
+        },
+        {
+          "text": "Ask other passing explorers if they’ve seen the child’s guardians, expanding your search circle",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When given a vague mission objective, you...",
+      "options": [
+        {
+          "text": "Create a detailed timeline with clear milestones to keep the team on track",
+          "score": "J"
+        },
+        {
+          "text": "Embrace the ambiguity, seeing it as a chance to explore unplanned opportunities",
+          "score": "P"
+        },
+        {
+          "text": "Look for concrete examples or past missions to define what success looks like",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all possible outcomes and how to prepare for each one, no matter how unlikely",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A teammate disagrees strongly with your plan. How do you respond?",
+      "options": [
+        {
+          "text": "Invite them to share their perspective openly, valuing their input over being \"right\"",
+          "score": "F"
+        },
+        {
+          "text": "Present data and logical arguments to show why your plan is the most effective",
+          "score": "T"
+        },
+        {
+          "text": "Pull them aside privately to discuss their concerns without drawing attention to the conflict",
+          "score": "I"
+        },
+        {
+          "text": "Discuss the disagreement with the whole team, using group input to refine the plan",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You have a free afternoon on the Astral Express. What do you choose to do?",
+      "options": [
+        {
+          "text": "Rearrange the cargo hold to create a more efficient storage system",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with mixing strange alien ingredients to make a new snack for the crew",
+          "score": "P"
+        },
+        {
+          "text": "Write a letter to a friend back home, updating them on your latest adventures",
+          "score": "I"
+        },
+        {
+          "text": "Host a impromptu game night, making sure everyone in the crew joins in",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a moral dilemma that has no clear answer, you...",
+      "options": [
+        {
+          "text": "Consider how each choice will affect the well-being of everyone involved",
+          "score": "F"
+        },
+        {
+          "text": "Evaluate the long-term consequences using logical analysis to pick the least harmful option",
+          "score": "T"
+        },
+        {
+          "text": "Look to past similar situations to guide your decision-making process",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the ripple effects of each choice on the wider galaxy beyond your immediate circle",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find a strange, glowing artifact during an exploration. What do you do?",
+      "options": [
+        {
+          "text": "Document every detail of its appearance and location before touching it",
+          "score": "S"
+        },
+        {
+          "text": "Hypothesize about its origin and potential uses, sketching out theories in your notebook",
+          "score": "N"
+        },
+        {
+          "text": "Call your team over immediately to share the discovery and get their input",
+          "score": "E"
+        },
+        {
+          "text": "Study it alone first, not wanting to distract your team from their current tasks",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you prepare for a high-stakes mission against a powerful enemy?",
+      "options": [
+        {
+          "text": "Stick to a strict training schedule, practicing your core skills until they’re second nature",
+          "score": "J"
+        },
+        {
+          "text": "Do a variety of unstructured drills, focusing on adapting to unexpected attacks",
+          "score": "P"
+        },
+        {
+          "text": "Talk to teammates who’ve faced similar enemies, learning from their firsthand experiences",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the enemy’s past tactics to predict their next moves and plan countermeasures",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When your favorite spot on the Astral Express is taken, you...",
+      "options": [
+        {
+          "text": "Ask the person if you can join them, turning it into a chance to bond",
+          "score": "E"
+        },
+        {
+          "text": "Find a new quiet spot, enjoying the chance to discover a hidden corner of the ship",
+          "score": "I"
+        },
+        {
+          "text": "Rearrange the area slightly to create a comfortable alternative nearby",
+          "score": "S"
+        },
+        {
+          "text": "Build a makeshift cozy nook using blankets and cushions from your quarters",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Female Trailblazer",
+      "description": "You’re the optimistic, curious protagonist of the Astral Express! Like the Female Trailblazer, you thrive on new adventures, connecting deeply with those around you, and turning every challenge into a chance to grow. Your ENFP spirit makes you a beacon of hope, inspiring your crew to reach for the stars even when the path is unclear.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "March 7th",
+      "description": "You’re the playful, spontaneous photographer of the crew! Like March 7th, you live in the moment, using your camera to capture life’s vibrant moments and lifting everyone’s mood with your quick wit. Your ESFP energy keeps things light, and you’re always ready to jump into action to protect the people you care about, no matter the odds.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Dan Heng",
+      "description": "You’re the quiet, introspective guardian of the Astral Express’s archives. Like Dan Heng, you value knowledge and solitude, often retreating to study ancient texts and reflect on your past. Your INFJ nature makes you a thoughtful confidant, and you’ll go to great lengths to protect your friends, even if you rarely show your true feelings.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Himeko",
+      "description": "You’re the bold, determined captain of the Astral Express! Like Himeko, you’re a natural leader who knows how to motivate her crew and turn ambitious dreams into reality. Your ENTJ spirit drives you to push boundaries, and you never back down from a fight when it means protecting what you believe in, leading with courage and strategic thinking.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Welt Yang",
+      "description": "You’re the calm, analytical former protector of Earth. Like Welt Yang, you prefer to observe from the sidelines, using your vast knowledge and logical mind to solve complex problems. Your INTP nature makes you a master of innovation, and you often come up with unconventional solutions that save the day without drawing unnecessary attention to yourself.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Clara",
+      "description": "You’re the kind, gentle soul accompanied by the massive Svarog. Like Clara, you have a big heart and always put others before yourself, going out of your way to help anyone in need. Your ISFJ spirit makes you a loyal friend, and you find strength in protecting the vulnerable, even when you feel small compared to the challenges around you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Gepard Landau",
+      "description": "You’re the dedicated, honorable captain of the Silvermane Guards. Like Gepard, you take your duty seriously, prioritizing the safety of Belobog’s citizens above all else. Your ISTJ nature makes you a reliable leader, and you stick to your principles even when it’s difficult, earning the respect of everyone who serves alongside you.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Bronya Rand",
+      "description": "You’re the strategic, visionary ruler of Belobog. Like Bronya, you’re willing to challenge the status quo to create a better future for your people. Your INTJ nature makes you a master planner, and you balance cold logic with hidden compassion, making tough decisions that others can’t while secretly caring deeply about those you lead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Seele",
+      "description": "You’re the fierce, independent fighter from the Underworld. Like Seele, you’re quick on your feet and trust your instincts to get you out of tight spots. Your ISTP nature makes you a skilled survivor, and you prefer to work alone but will stand by those who earn your loyalty, using your speed and precision to protect what’s yours.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Natasha",
+      "description": "You’re the warm, nurturing healer of the Underworld. Like Natasha, you’re always there for anyone in need, offering not just medical help but also a listening ear. Your ENFJ nature makes you a natural caregiver, and you use your empathy to bring people together, turning the harsh Underworld into a place of community and hope for all.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Pela",
+      "description": "You’re the quiet, detail-oriented analyst of the Silvermane Guards. Like Pela, you prefer to work behind the scenes, using your keen eye for detail to uncover hidden information. Your ISFP nature makes you a creative problem-solver, and you’re loyal to your friends, often going above and beyond to support them without seeking recognition.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Jing Yuan",
+      "description": "You’re the laid-back, cunning general of the Xianzhou Luofu. Like Jing Yuan, you seem carefree on the surface but are always several steps ahead of your enemies. Your ENTP nature makes you a master strategist, and you use your wit to outsmart opponents, preferring to avoid unnecessary fights while protecting your people with quiet resolve.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Yanqing",
+      "description": "You’re the ambitious, disciplined young swordsman of the Xianzhou Luofu. Like Yanqing, you’re dedicated to mastering your craft, practicing your sword skills tirelessly to live up to your mentor’s expectations. Your ESTJ nature makes you a rule-abiding yet passionate fighter, and you take pride in your work, always striving to be the best version of yourself.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Luocha",
+      "description": "You’re the mysterious, compassionate traveling healer. Like Luocha, you carry a quiet sadness but use your healing powers to help anyone you meet. Your INFP nature makes you a deeply empathetic soul, and you have a strong sense of justice, willing to risk everything to right wrongs even when it means facing your own painful past.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Silver Wolf",
+      "description": "You’re the rebellious, tech-savvy hacker from the Stellaron Hunters. Like Silver Wolf, you thrive on chaos, using your coding skills to bend systems to your will. Your ESTP nature makes you a quick thinker, and you love taking risks, turning every mission into a game where you always come out on top with style and confidence.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Tingyun",
+      "description": "You’re the charming, social merchant of the Xianzhou Luofu. Like Tingyun, you have a way with words, using your charisma to connect with people and get what you need. Your ESFJ nature makes you a natural networker, and you genuinely care about your clients and friends, using your influence to help them while building your own reputation as a trusted ally.",
+      "mbti": "ESFJ"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Strong Is Your Honkai: Star Rail Trailblazer Spirit?",
+  "category": "how",
+  "tags": [
+    "Honkai: Star Rail",
+    "Trailblazer",
+    "Personality",
+    "Gacha Game",
+    "Role-Playing"
+  ],
+  "description": "Answer 12 questions to discover how powerful your Honkai: Star Rail Trailblazer spirit is!",
+  "questions": [
+    {
+      "text": "When your train arrives at a new planet, you first...",
+      "options": [
+        {
+          "text": "Daydream about hidden ancient ruins or mysterious phenomena waiting to be found",
+          "score": "N"
+        },
+        {
+          "text": "Wander into the nearest bustling market to chat with local vendors and learn their stories",
+          "score": "E"
+        },
+        {
+          "text": "Check the local guidebook for key landmarks and practical travel tips",
+          "score": "S"
+        },
+        {
+          "text": "Find a quiet overlook to observe the planet's landscape and plan your exploration route",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a teammate faces a difficult choice, you...",
+      "options": [
+        {
+          "text": "Analyze the pros and cons of each option to help them make a rational decision",
+          "score": "T"
+        },
+        {
+          "text": "Listen closely to their feelings and share similar experiences to comfort them",
+          "score": "F"
+        },
+        {
+          "text": "Pause all current plans to help them explore every possible path together",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your pre-planned schedule but adjust slightly to support them",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a train downtime, you prefer to...",
+      "options": [
+        {
+          "text": "Organize the storage compartment, making sure every item has a fixed place",
+          "score": "J"
+        },
+        {
+          "text": "Join a impromptu game night with your crew, laughing and teasing each other",
+          "score": "E"
+        },
+        {
+          "text": "Experiment with new recipes using ingredients collected from previous planets",
+          "score": "P"
+        },
+        {
+          "text": "Read a book about the galaxy's history and forgotten civilizations",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When solving a planet's core puzzle, you...",
+      "options": [
+        {
+          "text": "Focus on the clues in front of you, testing practical solutions step by step",
+          "score": "S"
+        },
+        {
+          "text": "Connect seemingly unrelated details to form a big-picture theory",
+          "score": "N"
+        },
+        {
+          "text": "Prioritize keeping your team calm and motivated throughout the process",
+          "score": "F"
+        },
+        {
+          "text": "Quickly eliminate impossible options to narrow down the correct answer",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When meeting a mysterious stranger on your journey, you...",
+      "options": [
+        {
+          "text": "Keep your guard up but ask specific questions to verify their intentions",
+          "score": "T"
+        },
+        {
+          "text": "Open up easily, sharing your travel goals and asking about their adventures",
+          "score": "E"
+        },
+        {
+          "text": "Trust your gut feeling about them before deciding how to interact",
+          "score": "F"
+        },
+        {
+          "text": "Observe their body language and surroundings closely before making a move",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a side quest, you...",
+      "options": [
+        {
+          "text": "Create a detailed timeline with checkpoints to ensure you finish on time",
+          "score": "J"
+        },
+        {
+          "text": "Leave room for detours, excited to stumble upon unexpected discoveries",
+          "score": "P"
+        },
+        {
+          "text": "Research the quest's background to understand its cultural significance",
+          "score": "N"
+        },
+        {
+          "text": "Gather necessary supplies and tools to handle any practical challenges",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your crew has a disagreement about the next destination, you...",
+      "options": [
+        {
+          "text": "Suggest a compromise that satisfies everyone's core needs",
+          "score": "F"
+        },
+        {
+          "text": "Present data about each destination's risks and rewards to guide the choice",
+          "score": "T"
+        },
+        {
+          "text": "Vote on the most popular option to keep the team harmony",
+          "score": "E"
+        },
+        {
+          "text": "Propose flipping a coin to let chance decide the adventure",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you find a strange artifact, you...",
+      "options": [
+        {
+          "text": "Examine its craftsmanship and materials to guess its practical use",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the story of who created it and what secrets it holds",
+          "score": "N"
+        },
+        {
+          "text": "Put it in a safe box immediately and document its location carefully",
+          "score": "J"
+        },
+        {
+          "text": "Show it to every crew member to get their different opinions",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When a sudden crisis hits the train, you...",
+      "options": [
+        {
+          "text": "Take charge, giving clear orders to each crew member based on their strengths",
+          "score": "J"
+        },
+        {
+          "text": "Adapt quickly, trying different approaches until you find a solution",
+          "score": "P"
+        },
+        {
+          "text": "Check on each crew member's safety before dealing with the crisis",
+          "score": "F"
+        },
+        {
+          "text": "Stay calm, analyzing the crisis's root cause to fix it efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on your journey so far, you feel most proud of...",
+      "options": [
+        {
+          "text": "The deep friendships you've built with your crew members",
+          "score": "E"
+        },
+        {
+          "text": "The quiet moments of self-discovery you've had in distant galaxies",
+          "score": "I"
+        },
+        {
+          "text": "The practical skills you've learned to survive in harsh environments",
+          "score": "S"
+        },
+        {
+          "text": "The unique perspectives you've gained about the universe's mysteries",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a companion for a solo mission, you pick someone who...",
+      "options": [
+        {
+          "text": "Can think on their feet and adapt to unexpected situations",
+          "score": "P"
+        },
+        {
+          "text": "Follows a plan carefully and never misses a detail",
+          "score": "J"
+        },
+        {
+          "text": "Connects emotionally with others and defuses tense situations",
+          "score": "F"
+        },
+        {
+          "text": "Thinks logically and solves problems without getting distracted",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you reach the end of a planet's adventure, you...",
+      "options": [
+        {
+          "text": "Collect small souvenirs from local shops to remember the trip",
+          "score": "S"
+        },
+        {
+          "text": "Write a poem or draw a sketch capturing the planet's vibe",
+          "score": "N"
+        },
+        {
+          "text": "Host a farewell dinner with local friends you've made",
+          "score": "E"
+        },
+        {
+          "text": "Spend a quiet evening reviewing your notes and planning the next leg of the journey",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Adventurous Idealist (ENFP)",
+      "description": "Your Trailblazer spirit is fueled by curiosity and heart. You dive into every planet's culture, befriending strangers and championing underdog stories. You see possibilities everywhere, turning even the most mundane quests into magical adventures. As an ENFP, you're the crew's spark—always lifting others up and reminding everyone why you started this journey. Your warmth and creativity make you unforgettable to every civilization you meet.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Compassionate Leader (ENFJ)",
+      "description": "You're the heart and soul of the Astral Express, guiding your crew with empathy and vision. You can read others' needs instantly, offering support before they even ask. You turn conflicts into opportunities for growth, ensuring everyone feels seen and valued. As an ENFJ, your Trailblazer spirit lies in uniting diverse souls toward a common goal—making the galaxy a kinder place one planet at a time. Crew members look to you for both guidance and comfort.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Strategic Visionary (ENTJ)",
+      "description": "Your Trailblazer spirit is defined by ambition and precision. You see the galaxy as a puzzle to be solved, planning every move with long-term goals in mind. You lead with confidence, turning chaos into order and obstacles into stepping stones. As an ENTJ, you're the backbone of the crew—ensuring the train stays on course and every mission succeeds. Your ability to command respect and make tough decisions makes you an unstoppable force.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Inventive Explorer (ENTP)",
+      "description": "Curiosity is your superpower. You thrive on challenging the status quo, using your quick wit to outsmart puzzles and outtalk rivals. You turn every setback into a new experiment, always looking for a creative angle. As an ENTP, your Trailblazer spirit is contagious—you keep the crew on their toes with unexpected ideas and playful debates. The galaxy never knows what to expect from you, and that's exactly how you like it.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Spontaneous Joy-Seeker (ESFP)",
+      "description": "You live in the moment, turning every planet into a celebration. You're the first to try local foods, join street performances, and drag your crew into impromptu fun. Your infectious energy turns even the most stressful quests into memorable stories. As an ESFP, your Trailblazer spirit is about savoring every experience, not just checking off destinations. You remind the crew to slow down and enjoy the beauty of the journey.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Nurturing Guardian (ESFJ)",
+      "description": "You keep the Astral Express running like a well-oiled home, ensuring everyone's needs are met. You remember every crew member's favorite snack, celebrate their small wins, and comfort them during tough times. You build strong bonds with locals, leaving a trail of kindness wherever you go. As an ESFJ, your Trailblazer spirit is rooted in care—you make the galaxy feel like a safer, warmer place for everyone you encounter.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Reliable Organizer (ESTJ)",
+      "description": "Dependability is your middle name. You handle the train's logistics with precision, making sure every supply is stocked and every schedule is followed. You're the one crew members turn to when they need something done right the first time. As an ESTJ, your Trailblazer spirit is about stability—you provide the foundation that lets the rest of the crew explore freely. Your practicality and loyalty make you an indispensable part of the team.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Daring Problem-Solver (ESTP)",
+      "description": "You thrive under pressure, jumping into action when crisis strikes. You're the first to volunteer for dangerous missions, using your quick reflexes and practical skills to get the job done. You learn by doing, turning every mistake into a lesson. As an ESTP, your Trailblazer spirit is bold and unapologetic—you take risks others won't, and you always find a way out of tight spots. The galaxy is your playground, and you're here to win.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Dreamy Wanderer (INFP)",
+      "description": "Your Trailblazer spirit is quiet but profound. You connect deeply with the galaxy's hidden stories, feeling the pain of ancient civilizations and the hope of new ones. You keep a journal of your thoughts, processing each journey through your unique lens. As an INFP, you're the crew's conscience—reminding everyone of the moral weight of their actions. Your empathy and idealism make you a beacon of light in the darkest corners of space.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Mystic Guide (INFJ)",
+      "description": "You see beyond the surface of every planet, sensing the hidden truths and future paths that lie ahead. You offer quiet wisdom to your crew, helping them find their purpose in the journey. You form deep, meaningful connections with a few chosen souls, understanding them in ways no one else can. As an INFJ, your Trailblazer spirit is about insight—you guide the crew not just through galaxies, but through the complexities of their own hearts.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Master Planner (INTJ)",
+      "description": "You're the architect of the crew's journey, mapping out strategies that span galaxies. You anticipate problems before they arise, using your sharp intellect to stay steps ahead of enemies. You value efficiency and knowledge, spending hours studying ancient texts to unlock the universe's secrets. As an INTJ, your Trailblazer spirit is about mastery—you strive to understand the galaxy's rules so you can bend them to your will. Your focus and determination make you an unstoppable explorer.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Curious Analyst (INTP)",
+      "description": "You're the crew's resident thinker, always asking 'why' and 'how' about every phenomenon. You dissect puzzles for fun, enjoying the mental challenge more than the reward. You keep to yourself most of the time, but when you share your ideas, they're always revolutionary. As an INTP, your Trailblazer spirit is about understanding—you don't just explore the galaxy, you deconstruct it to its core. Your unique perspective reveals truths no one else can see.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Artistic Soul (ISFP)",
+      "description": "You experience the galaxy through your senses, capturing its beauty in sketches, songs, or crafts. You're drawn to quiet, hidden places—abandoned gardens, starlit deserts, and ancient temples. You prefer to act through small, meaningful gestures rather than grand speeches. As an ISFP, your Trailblazer spirit is about appreciation—you remind the crew of the galaxy's beauty beyond quests and battles. Your gentle creativity leaves a lasting mark on every planet you visit.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Steadfast Caregiver (ISFJ)",
+      "description": "You're the quiet force that keeps the crew together, remembering every detail about their lives and needs. You work behind the scenes, preparing meals, mending clothes, and making sure the train feels like home. You form deep bonds with locals by listening to their stories and offering practical help. As an ISFJ, your Trailblazer spirit is about devotion—you support your crew unconditionally, no matter how far the journey takes you. Your loyalty and kindness are the crew's anchor.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Practical Realist (ISTJ)",
+      "description": "You're the crew's rock, handling the day-to-day tasks that keep the Astral Express moving. You follow rules and traditions, believing in the value of hard work and responsibility. You're meticulous in everything you do, from maintaining the engine to documenting every mission. As an ISTJ, your Trailblazer spirit is about consistency—you provide the stability that lets the rest of the crew take risks. Your reliability makes you the person everyone can count on, no matter what.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Calm Survivor (ISTP)",
+      "description": "You're a quiet problem-solver, preferring to let your actions speak louder than words. You fix broken machinery with ease, using your hands-on skills to overcome any technical challenge. You stay calm in crisis, focusing on the task at hand without getting distracted. As an ISTP, your Trailblazer spirit is about self-reliance—you can survive on any planet, using whatever resources are available. Your quiet confidence and skill make you an invaluable member of the crew.",
+      "mbti": "ISTP"
+    }
+  ]
+}

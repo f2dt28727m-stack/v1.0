@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Genshin Impact Future Quest Are You Destined For?",
+  "category": "future",
+  "tags": [
+    "Genshin Impact",
+    "Future Quest",
+    "Personality",
+    "MBTI",
+    "Adventure"
+  ],
+  "description": "Answer 12 questions to discover your destined future adventure path in the world of Genshin Impact!",
+  "questions": [
+    {
+      "text": "When you stumble upon an unmarked domain entrance in Teyvat, you...",
+      "options": [
+        {
+          "text": "Quietly slip inside alone, eager to explore its secrets without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Call out to nearby travelers to join you, excited to share the adventure together",
+          "score": "E"
+        },
+        {
+          "text": "Study the rock formations and footprints around the entrance to assess risks first",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about ancient relics and fantastical creatures that might lie within, rushing in to see",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A local villager asks you to help solve a mysterious crop failure. You...",
+      "options": [
+        {
+          "text": "Focus on creating a temporary solution to help the villagers recover quickly",
+          "score": "T"
+        },
+        {
+          "text": "Imagine magical curses or hidden ley line disturbances as possible causes",
+          "score": "N"
+        },
+        {
+          "text": "First comfort the worried villagers, ensuring they feel supported before solving the problem",
+          "score": "F"
+        },
+        {
+          "text": "Start by interviewing villagers about recent changes in weather or unusual sights",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You receive a cryptic note hinting at a hidden treasure. You...",
+      "options": [
+        {
+          "text": "Map out potential locations based on geographic clues in the note",
+          "score": "S"
+        },
+        {
+          "text": "Wander around the general area mentioned, letting intuition guide your search",
+          "score": "P"
+        },
+        {
+          "text": "Set a strict timeline to follow each clue one by one, avoiding distractions",
+          "score": "J"
+        },
+        {
+          "text": "Connect the note’s symbols to ancient Teyvat legends and myths to find leads",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a long journey across Teyvat, you prioritize...",
+      "options": [
+        {
+          "text": "Packing silent travel gear to enjoy the solitude and focus on the scenery",
+          "score": "I"
+        },
+        {
+          "text": "A detailed schedule with planned stops, rest periods, and supply checkpoints",
+          "score": "J"
+        },
+        {
+          "text": "Bringing companions who can share stories and make the journey more lively",
+          "score": "E"
+        },
+        {
+          "text": "A flexible itinerary that allows you to stop and explore any interesting spots along the way",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a spirit that’s lost its way back to its realm. You...",
+      "options": [
+        {
+          "text": "Analyze the spirit’s clues about its realm to find a logical way to send it back",
+          "score": "T"
+        },
+        {
+          "text": "Listen carefully to its story of longing and sadness, offering emotional support first",
+          "score": "F"
+        },
+        {
+          "text": "Envision the spirit’s realm using your imagination to create a temporary portal",
+          "score": "N"
+        },
+        {
+          "text": "Ask nearby spirits or adepti for practical advice on how to help it return",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your team is divided on which path to take to reach a remote temple. You...",
+      "options": [
+        {
+          "text": "Evaluate the distance, terrain, and time each path takes to pick the most efficient one",
+          "score": "T"
+        },
+        {
+          "text": "Suggest taking a quick detour to check both paths briefly before deciding",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the original plan you’d made earlier, as it was based on thorough research",
+          "score": "J"
+        },
+        {
+          "text": "Propose a compromise that combines parts of both paths to keep everyone satisfied",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you find an ancient artifact with unknown powers, you...",
+      "options": [
+        {
+          "text": "Ponder its symbolic meaning and how it fits into Teyvat’s cosmic history",
+          "score": "N"
+        },
+        {
+          "text": "Show it to scholars and adventurers to get their opinions and insights",
+          "score": "E"
+        },
+        {
+          "text": "Keep it hidden and study it privately to avoid drawing unwanted attention",
+          "score": "I"
+        },
+        {
+          "text": "Experiment with small, controlled uses to learn its practical functions",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A sudden storm hits while you’re traveling. You...",
+      "options": [
+        {
+          "text": "Check on your companions to make sure they’re safe and comfortable in the storm",
+          "score": "F"
+        },
+        {
+          "text": "Use the storm as an opportunity to explore nearby areas that look different in the rain",
+          "score": "P"
+        },
+        {
+          "text": "Quickly seek shelter in the nearest cave or ruin, organizing your supplies to wait it out",
+          "score": "J"
+        },
+        {
+          "text": "Assess the storm’s intensity and direction to decide if you can continue traveling safely",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to create a new route for trade caravans between two regions. You...",
+      "options": [
+        {
+          "text": "Brainstorm innovative shortcuts using hidden mountain passes or underwater tunnels",
+          "score": "N"
+        },
+        {
+          "text": "Include stops at scenic spots and friendly villages to make the journey more enjoyable for travelers",
+          "score": "F"
+        },
+        {
+          "text": "Design a route that avoids dangerous areas and maximizes travel efficiency",
+          "score": "T"
+        },
+        {
+          "text": "Interview experienced caravan leaders to learn about their current struggles and needs",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you finish a major adventure, you most enjoy...",
+      "options": [
+        {
+          "text": "Writing down your experiences in a private journal, reflecting on the journey",
+          "score": "I"
+        },
+        {
+          "text": "Planning your next big adventure, mapping out new destinations to visit",
+          "score": "J"
+        },
+        {
+          "text": "Hosting a feast with all your friends to celebrate and share stories",
+          "score": "E"
+        },
+        {
+          "text": "Taking time to relax, letting new ideas and memories come to you naturally",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You meet a mysterious traveler who shares tales of a hidden city. You...",
+      "options": [
+        {
+          "text": "Invite them to join your group so you can search for the city together",
+          "score": "E"
+        },
+        {
+          "text": "Wonder about the city’s culture and the people who might live there",
+          "score": "N"
+        },
+        {
+          "text": "Ask detailed questions about the city’s location and how to get there",
+          "score": "S"
+        },
+        {
+          "text": "Thank them for the story but decide to search for the city on your own later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a difficult puzzle to unlock a treasure chest, you...",
+      "options": [
+        {
+          "text": "Step back and let your intuition guide your next move without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "Look for patterns in the puzzle’s design based on what you’ve seen in similar ruins",
+          "score": "S"
+        },
+        {
+          "text": "Work methodically, testing one solution at a time until you find the right one",
+          "score": "J"
+        },
+        {
+          "text": "Try unconventional approaches, like rearranging pieces in unexpected ways",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Disciplined Expedition Commander",
+      "description": "You’re destined to become Teyvat’s most disciplined expedition commander. You’ll lead structured, well-prepared missions to uncharted territories, prioritizing safety and efficiency above all. You’ll establish clear rules for your team, ensure supplies are always ready, and resolve conflicts quickly to keep everyone on track. Your MBTI is ESTJ—practical, responsible, and unshakable in the face of challenges.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Strategic Conqueror of Hidden Realms",
+      "description": "Your future path is that of a strategic conqueror, unlocking Teyvat’s most elusive hidden realms. You’ll devise bold, innovative plans to overcome even the toughest obstacles, inspiring your team with your vision. You thrive on turning big ideas into reality, leading expeditions that rewrite the map of known Teyvat. Your MBTI is ENTJ—confident, analytical, and always one step ahead.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Compassionate Camp Leader",
+      "description": "You’re destined to be a compassionate camp leader, creating warm, supportive spaces for travelers across Teyvat. You’ll prioritize the well-being of your team, organizing communal meals, listening to everyone’s concerns, and lifting spirits during tough journeys. Your kindness and empathy will draw adventurers to your side, making your camp a beloved haven. Your MBTI is ESFJ—nurturing, sociable, and deeply attuned to others.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Visionary Guide",
+      "description": "Your future path is as an inspirational visionary guide, leading others to discover their own potential in Teyvat. You’ll weave stories of hope and purpose into every expedition, encouraging your team to chase their wildest dreams. Your ability to connect with people and see their strengths will turn ordinary travelers into legendary adventurers. Your MBTI is ENFJ—charismatic, idealistic, and driven by purpose.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Reliable Ruins Scholar",
+      "description": "You’re destined to become a reliable ruins scholar, dedicating your future to documenting and preserving Teyvat’s ancient history. You’ll methodically explore forgotten ruins, taking precise notes and analyzing artifacts to piece together the past. Your thoroughness and attention to detail will uncover secrets that have been hidden for centuries. Your MBTI is ISTJ—patient, meticulous, and committed to truth.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Secretive Arcane Strategist",
+      "description": "Your future path is that of a secretive arcane strategist, unraveling Teyvat’s cosmic mysteries from the shadows. You’ll develop complex plans to unlock forbidden knowledge, using your sharp intellect to outwit rivals and obstacles. You prefer to work alone, trusting only your own judgment to navigate the dangerous world of arcana. Your MBTI is INTJ—independent, strategic, and deeply focused on your goals.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Gentle Guardian of Sacred Spaces",
+      "description": "You’re destined to be a gentle guardian of Teyvat’s sacred spaces, protecting temples, shrines, and natural sanctuaries from harm. You’ll tend to the land, help travelers in need, and share ancient stories of the spaces you guard. Your quiet kindness and dedication will make you a beloved figure among locals and adventurers alike. Your MBTI is ISFJ—caring, loyal, and deeply connected to tradition.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Mystic Pathfinder",
+      "description": "Your future path is as a mystic pathfinder, guiding others through Teyvat’s most spiritual and enigmatic journeys. You’ll sense hidden energies and ley lines, leading travelers to places of profound meaning and transformation. Your intuition and empathy will help you understand the needs of those around you, guiding them toward their true purpose. Your MBTI is INFJ—insightful, compassionate, and attuned to the unseen.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Daredevil Wild Explorer",
+      "description": "You’re destined to be Teyvat’s daredevil wild explorer, seeking out the most dangerous and thrilling adventures. You’ll leap into action without hesitation, climbing the highest peaks, diving into the deepest caves, and facing off with fierce monsters. Your love of excitement and quick thinking will make you a legendary figure in adventurer circles. Your MBTI is ESTP—bold, spontaneous, and always ready for a challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Clever Trickster Adventurer",
+      "description": "Your future path is that of a clever trickster adventurer, outwitting puzzles, traps, and rivals with your quick wit. You’ll come up with ingenious solutions to impossible problems, turning setbacks into opportunities. Your love of banter and unexpected plans will make you a favorite among your travel companions. Your MBTI is ENTP—curious, inventive, and always looking for a new way to surprise others.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Joyful Festival Organizer",
+      "description": "You’re destined to be a joyful festival organizer, bringing color and celebration to every corner of Teyvat. You’ll plan lively events, from harvest festivals to adventure tournaments, bringing people together to share laughter and stories. Your enthusiasm and love of fun will turn any gathering into an unforgettable experience. Your MBTI is ESFP—energetic, outgoing, and deeply in love with life’s pleasures.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Whimsical Wanderer",
+      "description": "Your future path is as a whimsical wanderer, roaming Teyvat with no fixed plan, following every curiosity and inspiration. You’ll stumble upon hidden waterfalls, friendly spirits, and forgotten villages, sharing your stories with anyone who’ll listen. Your optimism and creativity will make every day a new adventure. Your MBTI is ENFP—free-spirited, imaginative, and full of wonder.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Quiet Mechanic of the Wilds",
+      "description": "You’re destined to be a quiet mechanic of the wilds, crafting and repairing tools, weapons, and gadgets for travelers in need. You’ll prefer to work alone in your makeshift workshop, using your hands-on skills to solve practical problems. Your ability to fix almost anything will make you an invaluable ally on any journey. Your MBTI is ISTP—resourceful, practical, and skilled at working with your hands.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Curious Arcane Researcher",
+      "description": "Your future path is that of a curious arcane researcher, dedicating yourself to understanding the hidden laws of Teyvat’s magic. You’ll spend hours in your lab, conducting experiments and analyzing data to unlock new spells and magical theories. Your love of knowledge and independent spirit will lead to groundbreaking discoveries. Your MBTI is INTP—analytical, innovative, and endlessly curious.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Intuitive Nature Poet",
+      "description": "You’re destined to be an intuitive nature poet, capturing Teyvat’s beauty through art, music, and words. You’ll wander through forests, mountains, and deserts, drawing inspiration from the natural world and sharing your creations with others. Your quiet creativity and connection to nature will touch the hearts of everyone who encounters your work. Your MBTI is ISFP—artistic, gentle, and deeply attuned to beauty.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dreamy Storyteller of Teyvat",
+      "description": "Your future path is as a dreamy storyteller of Teyvat, weaving tales of love, loss, and adventure that resonate with souls across the continent. You’ll collect stories from villagers, spirits, and travelers, turning them into epic narratives that preserve the world’s heart. Your empathy and imagination will make your stories come alive. Your MBTI is INFP—idealistic, creative, and deeply connected to emotion.",
+      "mbti": "INFP"
+    }
+  ]
+}

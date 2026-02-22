@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "How Minecraft-Aligned Are You?",
+  "category": "how",
+  "tags": [
+    "Minecraft",
+    "Video Games",
+    "Gaming Personality",
+    "Playstyle",
+    "Digital Lifestyle"
+  ],
+  "description": "Answer 12 questions to discover how closely your mindset and habits match the core spirit of Minecraft!",
+  "questions": [
+    {
+      "text": "When you start a new Minecraft world, your first move is to...",
+      "options": [
+        {
+          "text": "Find a hidden spot to quietly sketch out plans for your dream base",
+          "score": "I"
+        },
+        {
+          "text": "Run straight toward the nearest player to team up and explore the area together",
+          "score": "E"
+        },
+        {
+          "text": "Climb the tallest hill to map out biomes and plan a long-term building project",
+          "score": "N"
+        },
+        {
+          "text": "Chop down trees and mine stone to quickly build a basic shelter before nightfall",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you find a mysterious cave system, you would...",
+      "options": [
+        {
+          "text": "Follow every tunnel carefully, documenting valuable resources to collect later",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, exploring whichever path catches your eye in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize collecting rare ores that will help craft powerful tools and armor",
+          "score": "T"
+        },
+        {
+          "text": "Take time to admire the cave’s unique formations and imagine building a home inside",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When your friend asks for help building a massive castle, you...",
+      "options": [
+        {
+          "text": "Offer to handle the complex wall designs and decorative details",
+          "score": "F"
+        },
+        {
+          "text": "Suggest a step-by-step construction schedule to ensure efficiency",
+          "score": "J"
+        },
+        {
+          "text": "Invite more players to join and split tasks to get it done faster",
+          "score": "E"
+        },
+        {
+          "text": "Work alone on the foundation, focusing on structural stability first",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a group of hostile mobs approaching your base. You...",
+      "options": [
+        {
+          "text": "Use clever traps you built earlier to fend them off without direct combat",
+          "score": "N"
+        },
+        {
+          "text": "Grab your strongest sword and armor to fight them head-on immediately",
+          "score": "S"
+        },
+        {
+          "text": "Quickly retreat and brainstorm a new defense strategy for next time",
+          "score": "T"
+        },
+        {
+          "text": "Call for your friends to help you coordinate a group attack",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you have extra resources, you prefer to...",
+      "options": [
+        {
+          "text": "Trade them with other players to get items you don’t have yet",
+          "score": "E"
+        },
+        {
+          "text": "Store them neatly in labeled chests for future projects",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with combining them to create unexpected new builds or items",
+          "score": "N"
+        },
+        {
+          "text": "Keep them in your inventory for immediate use in emergencies",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare, untouched biome. Your first thought is to...",
+      "options": [
+        {
+          "text": "Start building a unique home that blends in with the natural environment",
+          "score": "F"
+        },
+        {
+          "text": "Survey the area for exclusive resources to harvest immediately",
+          "score": "T"
+        },
+        {
+          "text": "Explore every corner to see what hidden secrets it holds",
+          "score": "P"
+        },
+        {
+          "text": "Mark the location on your map to return with a detailed exploration plan",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a long-term project, you...",
+      "options": [
+        {
+          "text": "Let the project evolve naturally as you get new ideas along the way",
+          "score": "P"
+        },
+        {
+          "text": "Create a precise blueprint with every detail mapped out in advance",
+          "score": "J"
+        },
+        {
+          "text": "Ask other players for their ideas and incorporate them into the design",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the practical aspects first, like resource gathering and structural needs",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You accidentally break a friend’s favorite build. You...",
+      "options": [
+        {
+          "text": "Apologize sincerely and help them rebuild it exactly as it was",
+          "score": "F"
+        },
+        {
+          "text": "Offer to build them an even better version with improved features",
+          "score": "T"
+        },
+        {
+          "text": "Ask a group of friends to help make it up to them with a surprise build",
+          "score": "E"
+        },
+        {
+          "text": "Leave a stack of rare resources as a quiet apology without drawing attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you’re bored in the game, you...",
+      "options": [
+        {
+          "text": "Set off on an unplanned adventure to see where you end up",
+          "score": "N"
+        },
+        {
+          "text": "Start a small, practical project like fixing your base’s defenses",
+          "score": "S"
+        },
+        {
+          "text": "Host a mini-game for other players to join and have fun together",
+          "score": "E"
+        },
+        {
+          "text": "Spend time rearranging your inventory and organizing your chests",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a book of ancient runes in a dungeon. You...",
+      "options": [
+        {
+          "text": "Study it carefully to understand its possible uses in your builds",
+          "score": "T"
+        },
+        {
+          "text": "Show it to your friends to see if they can decode its meaning together",
+          "score": "E"
+        },
+        {
+          "text": "Hang it in your base as a decorative conversation piece",
+          "score": "F"
+        },
+        {
+          "text": "Ignore it and focus on collecting more valuable loot from the dungeon",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When building a base, you prioritize...",
+      "options": [
+        {
+          "text": "A cozy, welcoming space where friends can gather and relax",
+          "score": "F"
+        },
+        {
+          "text": "A hidden, secure location that’s hard for mobs and other players to find",
+          "score": "I"
+        },
+        {
+          "text": "A futuristic design with advanced redstone automation systems",
+          "score": "N"
+        },
+        {
+          "text": "A sturdy, functional structure that can withstand any attack",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You finish a major building project. Your next move is to...",
+      "options": [
+        {
+          "text": "Invite all your friends to a tour to show off your work",
+          "score": "E"
+        },
+        {
+          "text": "Start planning an even bigger and more ambitious project right away",
+          "score": "P"
+        },
+        {
+          "text": "Take a break and explore new biomes to recharge your creativity",
+          "score": "N"
+        },
+        {
+          "text": "Double-check all the details to make sure everything is perfect",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Redstone Innovator (ENTP)",
+      "description": "You’re the wild inventor of the Minecraft world, always experimenting with new redstone contraptions that push the limits of what’s possible. You thrive on brainstorming crazy ideas, collaborating with others to test them, and turning even the silliest concepts into functional builds. Your playful, curious nature makes you the go-to for creative problem-solving and unexpected fun.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Castle Architect (INFJ)",
+      "description": "You’re a thoughtful visionary who builds spaces with deep meaning, blending aesthetics and purpose seamlessly. Your bases tell stories, with hidden nooks and symbolic details that reflect your values. You prefer to work alone or with a small trusted group, focusing on creating something that feels truly personal and enduring in the Minecraft universe.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Survival Specialist (ISTJ)",
+      "description": "You’re the ultimate Minecraft survivor, mastering the basics of resource management, shelter building, and mob defense. Every action has a purpose: you follow a strict routine to ensure long-term safety and stability. Your base is a model of efficiency, with neatly organized chests and fail-proof traps that keep you protected through any in-game crisis.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Adventure Explorer (ESFP)",
+      "description": "You live for the thrill of the unknown in Minecraft, always chasing the next big discovery. You jump into unplanned quests, team up with anyone willing to join, and embrace every chaotic moment. Your inventory is a mishmash of treasures from every biome, and your base is a casual spot to crash between endless adventures with friends.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Nature Integrator (ISFP)",
+      "description": "You have a deep connection to Minecraft’s natural world, building homes that blend seamlessly with forests, mountains, and oceans. You prioritize preserving the environment over massive construction, using natural materials and avoiding disruption to biomes. Your playstyle is calm and intentional, focused on finding peace and beauty in the virtual wilderness.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Community Coordinator (ENFJ)",
+      "description": "You’re the heart of your Minecraft community, organizing group projects, helping new players learn the ropes, and creating inclusive spaces for everyone to thrive. You excel at bringing people together, turning individual ideas into collaborative masterpieces. Your base is a bustling hub where friends gather to plan adventures and share resources freely.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Tactical Strategist (INTJ)",
+      "description": "You approach Minecraft like a grand strategy game, with long-term plans that span entire worlds. You map out biomes, calculate resource needs, and design bases with multi-layered defense systems. You prefer working alone to execute your precise vision, using every tool and trick in the book to achieve your ambitious goals efficiently.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Trading Entrepreneur (ESTP)",
+      "description": "You’re the shrewd trader of the Minecraft world, mastering the art of bartering to get exactly what you want. You travel between servers, collect rare resources, and strike deals with other players to build your wealth. Your playstyle is fast-paced and adaptable, always looking for the next profitable opportunity in every corner of the game.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Resource Manager (ISFJ)",
+      "description": "You’re the reliable caretaker of your Minecraft group, ensuring everyone has the resources they need to succeed. You meticulously gather and store materials, share with friends in need, and maintain a well-stocked base for any emergency. Your playstyle is nurturing and steady, focused on supporting others and keeping the community running smoothly.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Creative Builder (ENFP)",
+      "description": "Your Minecraft world is a canvas for wild, imaginative ideas—think floating cities, candy-themed castles, and underwater villages. You get excited by every new concept, jumping from one project to the next with endless enthusiasm. You love sharing your creations with friends and drawing inspiration from their ideas to make your builds even more unique.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Combat Warrior (ISTP)",
+      "description": "You’re a skilled Minecraft fighter, mastering every weapon, tool, and combat technique. You thrive in battles against mobs and other players, using quick reflexes and clever tactics to come out on top. Your base is a fortified stronghold with all the gear you need for immediate action, and you’re always ready to jump into a fight at a moment’s notice.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Routine Crafter (ESTJ)",
+      "description": "You excel at turning Minecraft’s mechanics into a well-oiled machine. You follow a strict daily routine: farm crops, mine resources, craft tools, and maintain your base. You’re the go-to for efficient production methods, and you love sharing your structured strategies with friends to help them improve their own playstyles.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Mystery Seeker (INTP)",
+      "description": "You’re the curious detective of the Minecraft world, obsessed with uncovering every hidden secret—from strongholds and end cities to rare dungeon loot. You spend hours researching game mechanics and experimenting with obscure features. Your base is a cluttered lab filled with weird experiments and notes on your latest discoveries.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Social Host (ESFJ)",
+      "description": "You create the most welcoming Minecraft spaces, hosting parties, building communal farms, and organizing group events for friends. You prioritize making everyone feel included, helping new players settle in, and ensuring everyone has fun. Your base is a lively gathering spot with plenty of space for games, food, and casual chats.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Relaxed Wanderer (ISFP)",
+      "description": "You play Minecraft at your own pace, wandering through biomes, admiring the scenery, and building small, cozy spots to rest. You don’t chase big goals or complex projects—instead, you find joy in the simple moments: watching sunsets, planting flowers, and exploring quiet corners of the world. Your playstyle is calm and introspective, focused on peace and tranquility.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "End Game Champion (ENTJ)",
+      "description": "You’re the leader who drives your group to conquer Minecraft’s toughest challenges: defeating the Ender Dragon, exploring the Nether, and raiding end cities. You create detailed battle plans, assign roles to friends, and push everyone to reach their full potential. Your base is a strategic command center, equipped with everything needed to take on the game’s final bosses.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

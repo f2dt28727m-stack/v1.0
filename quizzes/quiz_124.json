@@ -1,0 +1,348 @@
+{
+  "quizId": 1001,
+  "title": "What’s your Hidden Fortnite Trait Type?",
+  "category": "hidden",
+  "tags": [
+    "Fortnite",
+    "Hidden Traits",
+    "Gaming Personality",
+    "MBTI",
+    "Gaming Traits"
+  ],
+  "description": "Answer 12 questions to discover your hidden Fortnite gaming traits!",
+  "questions": [
+    {
+      "text": "When you land on Fortnite’s island, your first move is to:",
+      "options": [
+        {
+          "text": "Dart straight for the nearest loot spot, yelling at your team to sync up and split resources",
+          "score": "E"
+        },
+        {
+          "text": "Scope out the terrain first, mapping potential choke points and escape routes for later",
+          "score": "N"
+        },
+        {
+          "text": "Beeline for the nearest chest, prioritizing armor and a reliable weapon above all else",
+          "score": "S"
+        },
+        {
+          "text": "Veer toward a quiet, out-of-the-way area to loot without drawing early attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your teammate gets knocked mid-fight—what do you do?",
+      "options": [
+        {
+          "text": "Freeze for half a second to assess enemy positions, then take a calculated shot to distract before rescuing",
+          "score": "T"
+        },
+        {
+          "text": "Bolt over immediately, using a building rush to shield both your teammate and yourself",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the pre-planned backup strategy: send one teammate to rescue while you hold down the flanks",
+          "score": "J"
+        },
+        {
+          "text": "Wing it—either build a quick cover wall or use a smoke grenade depending on what’s in your inventory",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare mythic weapon but your teammate needs better healing items. You:",
+      "options": [
+        {
+          "text": "Call out the weapon’s location and let your teammate decide if they want to trade healing for it",
+          "score": "E"
+        },
+        {
+          "text": "Keep the weapon but drop all your extra bandages to help your teammate out",
+          "score": "F"
+        },
+        {
+          "text": "Swap the mythic for their healing items, knowing survivability beats firepower in long games",
+          "score": "S"
+        },
+        {
+          "text": "Hold onto the weapon—you can use it to secure more healing supplies for the team later",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "It’s the final circle with 3 players left. You:",
+      "options": [
+        {
+          "text": "Build a high ground tower to survey the entire circle and wait for the others to fight first",
+          "score": "I"
+        },
+        {
+          "text": "Lay down traps at all possible entry points to your hiding spot",
+          "score": "J"
+        },
+        {
+          "text": "Make aggressive moves to provoke the remaining players into fighting each other",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the circle’s shrink direction to predict where enemies will move next",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck in a storm and need to move, you:",
+      "options": [
+        {
+          "text": "Follow the most direct path, sprinting nonstop to beat the storm’s damage",
+          "score": "S"
+        },
+        {
+          "text": "Take a scenic route through trees and hills to avoid being spotted by enemies",
+          "score": "I"
+        },
+        {
+          "text": "Build a temporary shield tunnel to move safely while keeping an eye out for fights",
+          "score": "E"
+        },
+        {
+          "text": "Imagine different scenarios where you might encounter enemies and plan quick escapes for each",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your team suggests trying a new, risky drop strategy. You:",
+      "options": [
+        {
+          "text": "Go along with it—you’re excited to test something fresh and unpredictable",
+          "score": "P"
+        },
+        {
+          "text": "Argue for sticking to your usual tried-and-true spot, since it’s safer and more reliable",
+          "score": "J"
+        },
+        {
+          "text": "Ask questions about the strategy’s details to weigh the risks and benefits clearly",
+          "score": "T"
+        },
+        {
+          "text": "Agree right away to keep the team morale high, even if you’re a little nervous",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you have extra building materials, you prefer to:",
+      "options": [
+        {
+          "text": "Create elaborate base structures with multiple escape hatches and vantage points",
+          "score": "N"
+        },
+        {
+          "text": "Keep them saved for emergencies, only using them to block incoming fire or heal safely",
+          "score": "S"
+        },
+        {
+          "text": "Build fun, decorative structures to show off to your teammates between fights",
+          "score": "E"
+        },
+        {
+          "text": "Store them away quietly, not wanting to draw attention with unnecessary building",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You hear enemy footsteps nearby but can’t see them. You:",
+      "options": [
+        {
+          "text": "Call out to your teammates to coordinate a pincer attack from multiple angles",
+          "score": "E"
+        },
+        {
+          "text": "Crouch down and listen closely to pinpoint their exact location before making a move",
+          "score": "S"
+        },
+        {
+          "text": "Build a quick wall to block their path, then guess their next move based on map logic",
+          "score": "T"
+        },
+        {
+          "text": "Feel a rush of adrenaline and immediately prepare to fight, trusting your gut instinct",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "After losing a close game, you:",
+      "options": [
+        {
+          "text": "Debrief with your team to talk about what went wrong and how to improve next time",
+          "score": "J"
+        },
+        {
+          "text": "Shake it off quickly and jump into another game, eager to get back in the action",
+          "score": "P"
+        },
+        {
+          "text": "Spend a few minutes alone thinking about the critical mistakes you made",
+          "score": "I"
+        },
+        {
+          "text": "Joke with your teammates about the crazy moments to lighten the mood",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When choosing between weapons, you prioritize:",
+      "options": [
+        {
+          "text": "Weapons that let you play creatively, like rocket launchers or grapplers for trick shots",
+          "score": "N"
+        },
+        {
+          "text": "Weapons that are simple and reliable for close-quarters fights",
+          "score": "S"
+        },
+        {
+          "text": "Weapons that let you support your team, like snipers to cover their advances",
+          "score": "F"
+        },
+        {
+          "text": "Weapons that give you a strategic advantage, like shotguns for tight spaces or scoped rifles for long range",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You have a chance to grab a legendary item but it means leaving your teammate behind temporarily. You:",
+      "options": [
+        {
+          "text": "Tell your teammate you’ll be right back and sprint for the item, then return quickly to help them",
+          "score": "E"
+        },
+        {
+          "text": "Stay with your teammate, knowing their safety is more important than any item",
+          "score": "F"
+        },
+        {
+          "text": "Calculate how long it will take to get the item and return, making sure you don’t waste too much time",
+          "score": "T"
+        },
+        {
+          "text": "Go for the item but leave a few healing items for your teammate in case they get into trouble",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you’re waiting for the game to start in the lobby, you:",
+      "options": [
+        {
+          "text": "Mess around with emotes and chat with random players in the lobby",
+          "score": "E"
+        },
+        {
+          "text": "Plan out your drop zone and initial loot route for the upcoming game",
+          "score": "J"
+        },
+        {
+          "text": "Watch pro players’ clips on your second screen to pick up new tips",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about creative ways to outplay enemies in the upcoming match",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Battlefield Tactician (INTJ)",
+      "description": "You’re the quiet mastermind of your Fortnite squad, always three steps ahead of the competition. You map out drop zones, predict circle shrinks, and plan escape routes before the game even starts. You avoid unnecessary fights, preferring to use traps and terrain to outsmart enemies. Your hidden trait is strategic foresight—you turn every game into a calculated chess match.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Chaotic Trickster (ENTP)",
+      "description": "You thrive on chaos and unpredictability in Fortnite. You love trying wild stunts, like using grapplers to swing into enemy bases or using rocket launchers to build trick shots. You hate following rules and often suggest risky, unorthodox strategies that catch enemies off guard. Your hidden trait is playful innovation—you turn every match into an adventure.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Stealth Survivor (ISTP)",
+      "description": "You’re the lone wolf of Fortnite, preferring to stay out of sight and pick off enemies from the shadows. You excel at silent looting, quick escapes, and using natural terrain to your advantage. You don’t need flashy weapons—just a reliable sniper and a good hiding spot. Your hidden trait is calm under pressure—you never panic, even when the storm is closing in.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Team Anchorsmith (ISFJ)",
+      "description": "You’re the heart and soul of your Fortnite team, always putting your teammates’ needs first. You drop extra healing items, build cover walls during fights, and stay back to rescue knocked teammates. You’re not the flashiest player, but your team knows they can always count on you to keep them alive. Your hidden trait is selfless reliability—you’re the glue that holds your squad together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Aggressive Leader (ESTJ)",
+      "description": "You’re the commanding voice of your Fortnite squad, leading charge after charge into battle. You make quick, decisive calls and expect your teammates to follow your lead. You prioritize speed and firepower, always pushing toward the center of the action. Your hidden trait is authoritative confidence—you turn disorganized squads into well-oiled fighting machines.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Dreamy Explorer (INFP)",
+      "description": "You play Fortnite like an adventurer, more interested in exploring the island’s secrets than winning every match. You love finding hidden chests, exploring abandoned buildings, and experimenting with creative building designs. You avoid fights whenever possible, preferring to enjoy the game’s world at your own pace. Your hidden trait is imaginative curiosity—you see beauty in every corner of the island.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Social Chatterbox (ESFP)",
+      "description": "You play Fortnite for the fun and the friends, not just the wins. You’re always chatting, laughing, and using emotes to entertain your teammates during matches. You love chaotic team fights and never pass up a chance to do a victory dance after eliminating an enemy. Your hidden trait is infectious joy—you turn every game into a party, win or lose.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Logical Problem-Solver (INTP)",
+      "description": "You approach Fortnite like a puzzle, analyzing every mechanic and strategy to find the most efficient way to win. You experiment with different weapon combinations, building techniques, and drop zones to optimize your playstyle. You’re quiet but deadly, using your knowledge of the game to outthink enemies. Your hidden trait is analytical precision—you turn every match into a test of your gaming IQ.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Empathetic Collaborator (ENFJ)",
+      "description": "You’re the motivator of your Fortnite squad, always cheering on your teammates and boosting their morale. You listen to everyone’s ideas and work to create a strategy that makes everyone feel included. You prioritize team harmony over individual glory, making sure everyone gets a chance to shine. Your hidden trait is inspirational leadership—you bring out the best in your team.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Reliable Foundation (ISFP)",
+      "description": "You’re the steady hand of your Fortnite squad, always there to provide cover, healing, or a quick build when needed. You prefer to stay in the background, supporting your teammates rather than taking the spotlight. You’re adaptable and calm, able to switch roles quickly depending on what your team needs. Your hidden trait is quiet resilience—you keep your team grounded even in the chaos of battle.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Spontaneous Daredevil (ESTP)",
+      "description": "You live for the thrill of Fortnite’s most intense moments—jumping from high towers, engaging in mid-air fights, and taking reckless risks to eliminate enemies. You trust your instincts and act quickly, never hesitating to dive into a fight. Your hidden trait is bold impulsiveness—you turn every match into a high-stakes adventure that keeps your teammates on the edge of their seats.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Visionary Planner (ENTJ)",
+      "description": "You’re the strategic genius of your Fortnite squad, mapping out every detail of your game plan before the match even starts. You assign roles to teammates, plan escape routes, and predict enemy movements with uncanny accuracy. You’re not afraid to take charge and make tough calls, even if it means upsetting your teammates. Your hidden trait is decisive foresight—you turn every game into a masterclass in strategy.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Compassionate Guardian (INFJ)",
+      "description": "You have a knack for reading your teammates’ moods and needs in Fortnite, always knowing when someone needs a pick-me-up or a helping hand. You play with a quiet intensity, prioritizing your team’s well-being over every kill or victory. You’re a deep thinker, often reflecting on the game’s deeper themes and how they connect to real life. Your hidden trait is intuitive empathy—you understand your team better than anyone.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Energetic Connector (ENFP)",
+      "description": "You bring endless energy to every Fortnite match, always coming up with new, creative ideas for your team to try. You love making new friends in the lobby and inviting random players to join your squad. You see every match as a chance to have fun and make memories, not just win. Your hidden trait is joyful creativity—you turn even the most intense games into a positive experience.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Practical Realist (ISTJ)",
+      "description": "You play Fortnite with a no-nonsense approach, focusing on the basics to secure victory. You prioritize reliable weapons, armor, and healing items over flashy legendaries. You stick to tried-and-true strategies and never take unnecessary risks. Your hidden trait is consistent dependability—you’re the type of player who always shows up and gets the job done.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Flexible Adapter (ESFJ)",
+      "description": "You’re the chameleon of your Fortnite squad, able to switch roles seamlessly depending on what your team needs. You can be a healer, a builder, or a fighter, adapting to any situation with ease. You’re always checking in on your teammates and making sure everyone is comfortable with the strategy. Your hidden trait is versatile teamwork—you make sure your team is always prepared for anything."
+    }
+  ]
+}

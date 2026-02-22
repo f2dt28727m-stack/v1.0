@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "Which Stranger Things Character Are You?",
+  "category": "which",
+  "tags": [
+    "Stranger Things",
+    "TV Show",
+    "Fictional Character",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover which Stranger Things character you are!",
+  "questions": [
+    {
+      "text": "When your friends suggest a last-minute night out to explore an abandoned place, you...",
+      "options": [
+        {
+          "text": "Quickly check the weather, pack a flashlight and snacks, then meet everyone",
+          "score": "S"
+        },
+        {
+          "text": "Grab your jacket immediately, whoop loudly, and lead the way out the door",
+          "score": "E"
+        },
+        {
+          "text": "Nod quietly, grab your bag, and stick close to a trusted friend once you’re there",
+          "score": "I"
+        },
+        {
+          "text": "Spend a minute daydreaming about all the weird, unexpected things you might find",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon a strange symbol carved into a tree in the woods. You...",
+      "options": [
+        {
+          "text": "Take a photo, note the exact coordinates, and plan to look up local folklore later that night",
+          "score": "J"
+        },
+        {
+          "text": "Ask the nearest friend what they think it means, eager to debate possible origins",
+          "score": "E"
+        },
+        {
+          "text": "Trace the symbol with your finger, wondering if it’s connected to a mystical or otherworldly force",
+          "score": "N"
+        },
+        {
+          "text": "Check if the symbol is recent by feeling the wood, then worry about whether it’s a warning",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your group is stuck solving a tricky problem, you...",
+      "options": [
+        {
+          "text": "Propose a creative, unconventional project idea that will stand out from everyone else’s",
+          "score": "N"
+        },
+        {
+          "text": "Focus on the most obvious, step-by-step solution that will get everyone out safely",
+          "score": "T"
+        },
+        {
+          "text": "Put yourself in others’ shoes, wondering how each option will affect everyone’s feelings",
+          "score": "F"
+        },
+        {
+          "text": "Look around for small, practical objects nearby that could be repurposed to help",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After a stressful day, you prefer to unwind by...",
+      "options": [
+        {
+          "text": "Try a new hobby or craft project, letting your hands move freely without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "Call up your best friend and vent about everything that went wrong, laughing through the frustrations",
+          "score": "E"
+        },
+        {
+          "text": "Follow your usual nightly routine—making tea, organizing your space, then watching a familiar show",
+          "score": "J"
+        },
+        {
+          "text": "Curl up with your favorite book in a quiet corner, blocking out the world until you feel calm",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You hear a strange noise coming from your basement in the middle of the night. You...",
+      "options": [
+        {
+          "text": "Run to your sibling’s room and ask them to come with you too—you don’t want to face it alone",
+          "score": "F"
+        },
+        {
+          "text": "Grab a baseball bat, turn on all the lights, and investigate every corner systematically",
+          "score": "J"
+        },
+        {
+          "text": "Sit quietly for a minute, listening closely to figure out exactly what the noise might be",
+          "score": "S"
+        },
+        {
+          "text": "Immediately imagine all the weird, supernatural creatures that could be hiding down there",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a group event for your friends, you...",
+      "options": [
+        {
+          "text": "Ask each friend what they want to do, making sure everyone’s favorite activity is included",
+          "score": "F"
+        },
+        {
+          "text": "Throw a casual gathering with no strict schedule, letting everyone do whatever they want",
+          "score": "P"
+        },
+        {
+          "text": "Create a detailed itinerary with times, activities, and backup plans for bad weather",
+          "score": "J"
+        },
+        {
+          "text": "Pick a bold, unique theme and decorate the space with crazy, fun decorations to surprise everyone",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Someone shows you a weird, glowing object they found in the woods. You...",
+      "options": [
+        {
+          "text": "Inspect it closely, checking for marks or signs that explain where it came from",
+          "score": "S"
+        },
+        {
+          "text": "Wonder if it’s connected to other strange events that have happened in your town lately",
+          "score": "N"
+        },
+        {
+          "text": "Ask them about how it felt when they touched it, and if they felt any strange emotions or visions",
+          "score": "F"
+        },
+        {
+          "text": "Start brainstorming ways to use it—could it power a device, or open a secret door?",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a class project where you have to work in a group, you...",
+      "options": [
+        {
+          "text": "Volunteer to present the project to the class, using funny stories to keep everyone engaged",
+          "score": "E"
+        },
+        {
+          "text": "Stay in the background, focusing on organizing the research materials and making sure all details are correct",
+          "score": "I"
+        },
+        {
+          "text": "Suggest a straightforward, well-structured plan that guarantees a good grade",
+          "score": "S"
+        },
+        {
+          "text": "Propose a creative, unconventional project idea that will stand out from everyone else’s",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re trying to make a tough decision, you...",
+      "options": [
+        {
+          "text": "Think about how each choice will make the people you care about feel, and pick the kindest option",
+          "score": "F"
+        },
+        {
+          "text": "Write down all the pros and cons, then choose the option that has the most logical benefits",
+          "score": "T"
+        },
+        {
+          "text": "Go with your gut instinct, choosing whatever feels right in the moment without overanalyzing",
+          "score": "P"
+        },
+        {
+          "text": "Look back at similar situations you’ve faced before, and use what you learned to guide your choice",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite way to pass the time on a rainy day is...",
+      "options": [
+        {
+          "text": "Try baking a new recipe, following the instructions exactly to make sure it turns out perfect",
+          "score": "S"
+        },
+        {
+          "text": "Invite a few friends over for a movie marathon, eating snacks and chatting nonstop",
+          "score": "E"
+        },
+        {
+          "text": "Build a blanket fort in your living room and act out imaginary adventures by yourself",
+          "score": "N"
+        },
+        {
+          "text": "Tidy up your closet, organize your bookshelf, and complete all your pending chores",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you meet someone new, you’re most drawn to people who...",
+      "options": [
+        {
+          "text": "Notice little things in the environment that others miss, like a hidden bird nest or a unusual rock",
+          "score": "S"
+        },
+        {
+          "text": "Share wild stories about their travels and crazy life experiences",
+          "score": "E"
+        },
+        {
+          "text": "Listen carefully to what you say, and remember small details about your interests",
+          "score": "F"
+        },
+        {
+          "text": "Can explain complex ideas clearly and help you solve a problem you’ve been stuck on",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you finish watching a scary movie, you...",
+      "options": [
+        {
+          "text": "Text your friends immediately to discuss every plot twist and share your theories",
+          "score": "E"
+        },
+        {
+          "text": "Spend the next hour daydreaming about alternate endings and what could have happened next",
+          "score": "N"
+        },
+        {
+          "text": "Check all the windows and doors to make sure they’re locked, then turn on all the lights",
+          "score": "J"
+        },
+        {
+          "text": "Curl up with a comforting snack and a silly show to take your mind off the scares",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jim Hopper (ISTJ)",
+      "description": "You’re the gruff-but-loyal protector, just like Hopper. You prioritize keeping loved ones safe above all else, rely on your years of experience to solve problems, and hate when things get chaotic without a plan. You’re not big on sappy words, but your actions speak volumes—you’ll always show up when it matters most, even if you grumble the whole time.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Joyce Byers (ISFJ)",
+      "description": "You’re the fiercely dedicated caretaker, just like Joyce. You notice every small detail about the people you love, and you’ll move heaven and earth to keep them safe. Even when others doubt you, you trust your instincts and fight relentlessly for what’s right. Your heart is your greatest strength, and everyone around you knows they can count on you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Will Byers (INFJ)",
+      "description": "You’re the introspective, imaginative dreamer, just like Will. You have a deep connection to the world of stories and the unseen, and you often feel things more deeply than those around you. You’re quiet but fiercely loyal, and you use your creativity and empathy to understand people and navigate even the darkest situations.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Dr. Brenner (INTJ)",
+      "description": "You’re the strategic, calculating visionary, just like Brenner. You see the bigger picture even when others get stuck on small details, and you’re willing to make tough decisions to achieve your goals. You’re independent and self-assured, with a sharp mind that always stays one step ahead of everyone else.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Steve Harrington (ISTP)",
+      "description": "You’re the quick-thinking, laid-back problem-solver, just like Steve. You thrive in high-pressure situations, using your practical skills and quick wit to get out of tight spots. You’re not one for long-term plans—you prefer to take things as they come, and you always manage to turn a mess into a win with your charm and resourcefulness.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Jonathan Byers (ISFP)",
+      "description": "You’re the quiet, observant artist, just like Jonathan. You see beauty in the mundane, and you express yourself through your creative pursuits. You’re deeply loyal to your family and close friends, and you’ll go to great lengths to protect them without seeking any credit. You prefer to listen rather than speak, but your actions tell a powerful story.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Eleven (Jane Hopper) (INFP)",
+      "description": "You’re the kind-hearted, resilient soul, just like Eleven. You’ve faced more hardship than most, but your capacity for love and kindness never fades. You trust your instincts and stand up for what’s right, even when it’s scary. You’re still learning about the world, but every step you take is guided by your deep sense of empathy and justice.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Dustin Henderson (INTP)",
+      "description": "You’re the curious, quirky intellectual, just like Dustin. You’re always asking questions and exploring new ideas, with a mind that’s constantly buzzing with theories and inventions. You’re a loyal friend who uses your knowledge to help your group solve even the most bizarre problems, and your sense of humor keeps everyone lighthearted even in dark times.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Bob Newby (ESTJ)",
+      "description": "You’re the reliable, organized problem-solver, just like Bob. You thrive on structure and order, and you’re great at creating plans that keep everyone on track. You’re kind and patient, always willing to help others with their problems, and you use your practical skills to make the world a safer, more stable place for everyone around you.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Karen Wheeler (ESFJ)",
+      "description": "You’re the warm, nurturing hostess, just like Karen. You love taking care of people and making sure everyone feels welcome and loved. You’re great at reading the room and anticipating others’ needs, and you go out of your way to create happy, memorable moments for your family and friends. Your kindness and generosity make you the heart of any group.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Mike Wheeler (ENFJ)",
+      "description": "You’re the passionate, charismatic leader, just like Mike. You have a way of inspiring others to follow you, and you’re fiercely loyal to your friends. You stand up for what you believe in, even when it means going against the grain, and you use your empathy to connect with people and bring out the best in them.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Billy Hargrove (ENTJ)",
+      "description": "You’re the bold, assertive trailblazer, just like Billy. You’re not afraid to take charge and make your voice heard, and you have a natural confidence that draws people to you. You’re competitive and driven, always pushing yourself to be the best, and you never back down from a challenge—even when the odds are stacked against you.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Max Mayfield (ESTP)",
+      "description": "You’re the fearless, adventurous daredevil, just like Max. You love living in the moment and trying new things, from skateboarding tricks to exploring unknown places. You’re quick on your feet and never let anyone push you around, with a sharp tongue and a rebellious spirit that makes you impossible to ignore.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Lucas Sinclair (ESFP)",
+      "description": "You’re the energetic, outgoing prankster, just like Lucas. You love having fun and making people laugh, and you’re always the life of the party. You’re a loyal friend who’s not afraid to speak your mind, and you use your practical skills and quick reflexes to help your group out of sticky situations.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Erica Sinclair (ENFP)",
+      "description": "You’re the witty, bold firecracker, just like Erica. You have a sharp tongue and a no-nonsense attitude, and you’re never afraid to stand up for yourself or your friends. You love having fun and exploring new things, with a playful spirit that keeps everyone on their toes. Your confidence and charisma make you impossible to overlook.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Murray Bauman (ENTP)",
+      "description": "You’re the eccentric, clever conspiracy theorist, just like Murray. You’re always digging for the truth, with a mind that’s constantly connecting dots others miss. You’re witty and sarcastic, with a knack for turning even the most serious situations into a joke. You’re independent and unapologetically yourself, and you never let anyone tell you what to think.",
+      "mbti": "ENTP"
+    }
+  ]
+}

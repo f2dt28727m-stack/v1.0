@@ -1,0 +1,349 @@
+{
+  "quizId": 98765,
+  "title": "How Ice Spice Are You?",
+  "category": "how",
+  "tags": [
+    "Ice Spice",
+    "Personality",
+    "Hip-Hop",
+    "Lifestyle",
+    "Vibes"
+  ],
+  "description": "Answer 12 questions to discover how much you embody Ice Spice's bold, unapologetic, and authentic energy!",
+  "questions": [
+    {
+      "text": "When you walk into a crowded party, you...",
+      "options": [
+        {
+          "text": "Focus on the rhythm and how it makes your body move, matching every beat precisely",
+          "score": "S"
+        },
+        {
+          "text": "Jump up immediately, singing every lyric and encouraging others to join in",
+          "score": "E"
+        },
+        {
+          "text": "Imagine yourself performing the song on a big stage, feeling the crowd’s energy",
+          "score": "N"
+        },
+        {
+          "text": "Nod along quietly to the beat, enjoying it without drawing attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Someone criticizes your personal style, you...",
+      "options": [
+        {
+          "text": "Brush it off and start brainstorming even bolder style choices to express yourself more",
+          "score": "N"
+        },
+        {
+          "text": "Laugh it off and keep doing you—your style is your statement, no one else’s",
+          "score": "T"
+        },
+        {
+          "text": "Feel hurt at first, but later remember why you love your style and stay confident",
+          "score": "F"
+        },
+        {
+          "text": "Ask them specific questions about what they don’t like to consider if it’s worth adjusting",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When planning a night out with friends, you prefer to...",
+      "options": [
+        {
+          "text": "Go with the flow, deciding on activities spontaneously once you’re all together",
+          "score": "P"
+        },
+        {
+          "text": "Stick to a pre-planned itinerary that includes all your favorite spots and times",
+          "score": "J"
+        },
+        {
+          "text": "Choose a familiar, cozy spot where you know everyone will have a good time",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a new, trendy spot you’ve heard about to try something exciting",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to speak up for something you believe in front of a group, you...",
+      "options": [
+        {
+          "text": "Share how the issue makes you feel and connect it to others’ experiences",
+          "score": "F"
+        },
+        {
+          "text": "Raise your hand right away, passionately stating your beliefs without hesitation",
+          "score": "E"
+        },
+        {
+          "text": "Take a moment to gather your thoughts before calmly sharing your perspective",
+          "score": "I"
+        },
+        {
+          "text": "Use real-life examples and facts to back up your point and make it relatable",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you have free time alone, you most often...",
+      "options": [
+        {
+          "text": "Write down your thoughts or freestyle lyrics to express your inner feelings",
+          "score": "N"
+        },
+        {
+          "text": "Spend time scrolling through social media to see what’s going on in your community",
+          "score": "I"
+        },
+        {
+          "text": "Watch your favorite music videos, mimicking the moves to perfect your own style",
+          "score": "S"
+        },
+        {
+          "text": "Call up a friend to chat about your day instead of being alone for too long",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a tough decision, you...",
+      "options": [
+        {
+          "text": "Weigh all the pros and cons logically before making a final call",
+          "score": "T"
+        },
+        {
+          "text": "Trust your gut instinct and go with the choice that feels right in the moment",
+          "score": "F"
+        },
+        {
+          "text": "Take time to reflect alone until you’re sure of the best path forward",
+          "score": "I"
+        },
+        {
+          "text": "Ask for advice from people you trust to get different perspectives",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "At a family gathering, you’re most likely to...",
+      "options": [
+        {
+          "text": "Sit back and listen to stories from the older family members, soaking in the memories",
+          "score": "S"
+        },
+        {
+          "text": "Help out in the kitchen with cooking or cleaning to keep things running smoothly",
+          "score": "J"
+        },
+        {
+          "text": "Initiate games and activities to keep everyone entertained and engaged",
+          "score": "E"
+        },
+        {
+          "text": "Come up with a silly joke or story to make everyone laugh and lighten the mood",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a new song you love, you...",
+      "options": [
+        {
+          "text": "Analyze the beat, lyrics, and flow to understand what makes it so catchy",
+          "score": "S"
+        },
+        {
+          "text": "Imagine a whole music video concept for the song in your head",
+          "score": "N"
+        },
+        {
+          "text": "Add it to your personal playlist and listen to it on repeat when you’re alone",
+          "score": "I"
+        },
+        {
+          "text": "Learn every word and perform it for your friends as soon as possible",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When someone tries to copy your style, you...",
+      "options": [
+        {
+          "text": "Brush it off—you know your style is unique to you, so it doesn’t matter",
+          "score": "T"
+        },
+        {
+          "text": "Start experimenting with new looks to stay one step ahead",
+          "score": "P"
+        },
+        {
+          "text": "Feel flattered and even give them tips to make it their own",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your original style, confident that no one can replicate your vibe exactly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with organizing a small event, you...",
+      "options": [
+        {
+          "text": "Let everyone suggest ideas and plan the event together spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Pick a unique, unexpected venue that no one would think to choose",
+          "score": "N"
+        },
+        {
+          "text": "Create a detailed checklist and timeline to ensure everything goes perfectly",
+          "score": "J"
+        },
+        {
+          "text": "Choose a venue that’s meaningful to the group, like a spot you all love",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling down, you prefer to...",
+      "options": [
+        {
+          "text": "Allow yourself to feel the emotions fully, journaling about how you’re feeling",
+          "score": "F"
+        },
+        {
+          "text": "Do something productive to take your mind off the bad feelings, like cleaning or exercising",
+          "score": "T"
+        },
+        {
+          "text": "Call a friend to vent and get their support and encouragement",
+          "score": "E"
+        },
+        {
+          "text": "Spend time alone doing something you love, like dancing or listening to music",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you meet someone new, you first notice...",
+      "options": [
+        {
+          "text": "Their unique style and how they express themselves through clothes or accessories",
+          "score": "S"
+        },
+        {
+          "text": "The way they think and talk about their passions and dreams",
+          "score": "N"
+        },
+        {
+          "text": "How they make you feel—whether you feel comfortable and accepted around them",
+          "score": "F"
+        },
+        {
+          "text": "Their energy and how they interact with the people around them",
+          "score": "E"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Bold Trailblazer",
+      "description": "You’re the ultimate Ice Spice vibe—bold, unapologetic, and always ready to take action. Like Ice Spice, you thrive in the moment, love being the center of attention, and aren’t afraid to speak your mind. You turn every situation into an adventure, using your quick wit and confidence to win over anyone. Your ESTP energy matches her fearless approach to life and music.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Life of the Party",
+      "description": "You embody Ice Spice’s fun-loving, social energy to the core. You light up every room you enter, just like she does with her infectious stage presence. You live for making memories with friends, trying new things, and being your authentic self without filters. Your ESFP spirit aligns with her ability to connect with others and spread joy wherever she goes.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Unapologetic Innovator",
+      "description": "You’re the creative, bold thinker who matches Ice Spice’s innovative approach to hip-hop. You love challenging the status quo, coming up with unique ideas, and speaking your mind without hesitation. Like her, you’re not afraid to take risks and push boundaries to express yourself. Your ENTP personality makes you a natural trailblazer.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Free-Spirited Visionary",
+      "description": "You share Ice Spice’s free-spirited, passionate energy. You’re always dreaming big, chasing your goals, and staying true to your values. Like her, you connect with others through your emotions and creativity, using your voice to inspire those around you. Your ENFP personality makes you a charismatic, authentic force that mirrors her unapologetic self-expression.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Cool Operator",
+      "description": "You have Ice Spice’s calm, collected confidence that draws people in. You’re quiet but powerful, preferring to let your actions speak louder than words. Like her, you’re grounded in reality, skilled at adapting to any situation, and stay true to your roots no matter what. Your ISTP energy matches her laid-back but fierce demeanor.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Quiet Rebel",
+      "description": "You’re the quiet rebel, just like Ice Spice in her more introspective moments. You express yourself through your style and actions, staying true to your unique perspective without needing the spotlight. Like her, you value authenticity above all else, and your calm, creative energy draws people to you. Your ISFP personality aligns with her genuine nature in a chaotic industry.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Thoughtful Maverick",
+      "description": "You match Ice Spice’s intellectual, maverick side. You love deep dives into ideas, challenging norms in your own quiet way, and staying true to your unique worldview. Like her, you’re not afraid to be different, using your quick thinking and creativity to stand out. Your INTP personality makes you a thoughtful, innovative force that mirrors her unexpected approach.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Authentic Dreamer",
+      "description": "You share Ice Spice’s authentic, dreamy energy. You’re deeply in touch with your emotions, stay true to your values, and use your creativity to express yourself. Like her, you have a quiet strength that comes from being unapologetically you. Your INFP personality aligns with her ability to connect with others on a deep level through her music and story.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The No-Nonsense Leader",
+      "description": "You embody Ice Spice’s no-nonsense, take-charge energy. You’re a natural leader who knows what you want and isn’t afraid to go after it. Like her, you’re grounded in reality, value hard work, and stay true to your roots. Your ESTJ personality makes you a reliable, confident force that mirrors her ability to command respect and stay focused on goals.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Loyal Connector",
+      "description": "You share Ice Spice’s loyal, community-focused energy. You thrive on connecting with others, supporting your loved ones, and bringing people together. Like her, you’re warm, approachable, and use your influence to lift those around you. Your ESFJ personality aligns with her love for her Bronx community and her ability to make everyone feel seen.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Strategic Powerhouse",
+      "description": "You’re the strategic powerhouse that matches Ice Spice’s ambitious energy. You’re a natural leader who sets big goals and works tirelessly to achieve them. Like her, you’re unapologetic about your success, use your intelligence to outthink the competition, and stay true to your vision. Your ENTJ personality makes you a force to be reckoned with, just like the rapper.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Charismatic Mentor",
+      "description": "You embody Ice Spice’s charismatic, mentoring energy. You’re a natural leader who inspires others to be their best selves, just like she inspires her fans. Like her, you’re empathetic, passionate, and use your voice to make a difference. Your ENFJ personality aligns with her ability to connect deeply and motivate people to chase their dreams.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Steady Grounding Force",
+      "description": "You have Ice Spice’s steady, reliable energy that keeps things grounded. You’re hardworking, loyal, and stay true to your values no matter what. Like her, you value tradition and your roots, using your consistency to build success. Your ISTJ personality matches her ability to stay focused and grounded despite her rising fame and success.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Compassionate Supporter",
+      "description": "You share Ice Spice’s compassionate, supportive energy. You’re always there for your loved ones, using your kindness to lift them up. Like her, you’re quiet but powerful, staying true to your authentic self and using your influence to help others. Your ISFJ personality aligns with her love for her community and genuine, caring nature.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Independent Strategist",
+      "description": "You’re the independent strategist that matches Ice Spice’s introspective, ambitious side. You’re a deep thinker who plans for the future, stays true to your vision, and isn’t afraid to go against the grain. Like her, you’re unapologetically yourself, using your intelligence to achieve your goals. Your INTJ personality makes you a quiet force to be reckoned with.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Insightful Empath",
+      "description": "You embody Ice Spice’s insightful, empathetic energy. You’re deeply in touch with the emotions of others, using your intuition to connect with people on a profound level. Like her, you have a quiet strength that comes from being authentic and unapologetic. Your INFJ personality aligns with her ability to use music to tell stories that resonate with all walks of life.",
+      "mbti": "INFJ"
+    }
+  ]
+}

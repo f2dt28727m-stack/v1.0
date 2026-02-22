@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Genshin Impact Personality Type Are You?",
+  "category": "type",
+  "tags": [
+    "Genshin Impact",
+    "Personality Type",
+    "MBTI",
+    "Teyvat Adventure",
+    "Character Trait"
+  ],
+  "description": "Answer 12 questions to discover your Genshin Impact personality type!",
+  "questions": [
+    {
+      "text": "When you first arrive in a new region of Teyvat, you immediately...",
+      "options": [
+        {
+          "text": "Head straight to the local tavern to chat with patrons and learn about regional legends",
+          "score": "E"
+        },
+        {
+          "text": "Sit on a quiet hilltop to sketch the landscape and daydream about hidden mysteries",
+          "score": "N"
+        },
+        {
+          "text": "Start collecting nearby herbs and ores that you can use for crafting right away",
+          "score": "S"
+        },
+        {
+          "text": "Find a secluded spot to map out your route without distractions from others",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your party gets trapped in a sudden rainstorm in the wilderness. You respond by...",
+      "options": [
+        {
+          "text": "Crack jokes to lift everyone’s mood while waiting for the rain to pass",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the terrain to find the closest cave or shelter quickly",
+          "score": "T"
+        },
+        {
+          "text": "Stick to the pre-planned itinerary and wait it out as scheduled",
+          "score": "J"
+        },
+        {
+          "text": "Use the opportunity to explore nearby puddles and observe unique rain flora",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A mysterious stranger gives you a cryptic riddle leading to a hidden treasure. You...",
+      "options": [
+        {
+          "text": "Spend hours decoding every word, looking for symbolic meanings and hidden clues",
+          "score": "N"
+        },
+        {
+          "text": "Ask nearby locals if they’ve heard similar stories to find context",
+          "score": "E"
+        },
+        {
+          "text": "Start digging in the most logical locations based on the riddle’s literal wording",
+          "score": "S"
+        },
+        {
+          "text": "Keep the riddle in your pocket and only solve it when you have free time later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You need to choose a companion for a dangerous dungeon crawl. You prioritize someone who...",
+      "options": [
+        {
+          "text": "Goes with the flow and adapts to unexpected traps or enemies",
+          "score": "P"
+        },
+        {
+          "text": "Follows a strict battle plan and sticks to their assigned role",
+          "score": "J"
+        },
+        {
+          "text": "Considers how each team member feels before making decisions",
+          "score": "F"
+        },
+        {
+          "text": "Focuses solely on defeating enemies efficiently to finish quickly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After completing a difficult commission, you reward yourself by...",
+      "options": [
+        {
+          "text": "Hosting a feast with all your adventurer friends to celebrate together",
+          "score": "E"
+        },
+        {
+          "text": "Visiting a quiet bookstore to browse ancient Teyvat history books alone",
+          "score": "I"
+        },
+        {
+          "text": "Buying practical upgrades for your weapons and armor to prepare for future quests",
+          "score": "S"
+        },
+        {
+          "text": "Writing a poem about your adventure and sharing it with the bards in town",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When a companion disagrees with your plan, you...",
+      "options": [
+        {
+          "text": "Adjust your plan to accommodate their concerns and keep the peace",
+          "score": "F"
+        },
+        {
+          "text": "Present logical evidence to prove your plan is the most effective",
+          "score": "T"
+        },
+        {
+          "text": "Suggest a new spontaneous idea that combines both of your perspectives",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your original plan since it was carefully thought out in advance",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon an abandoned ruin. Your first move is to...",
+      "options": [
+        {
+          "text": "Document every carving and artifact in detail to study later",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the ancient civilization that once lived there and their daily lives",
+          "score": "N"
+        },
+        {
+          "text": "Call your adventurer guild friends to explore the ruin together",
+          "score": "E"
+        },
+        {
+          "text": "Explore the ruin quietly by yourself to avoid disturbing any hidden traps",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You’re tasked with organizing a festival for your hometown in Teyvat. You...",
+      "options": [
+        {
+          "text": "Create a detailed timeline and assign specific roles to every volunteer",
+          "score": "J"
+        },
+        {
+          "text": "Let volunteers choose tasks they enjoy and adjust the plan as needed",
+          "score": "P"
+        },
+        {
+          "text": "Make sure every attendee feels welcome and included in the festivities",
+          "score": "F"
+        },
+        {
+          "text": "Focus on logistics like food supplies and venue safety to ensure it runs smoothly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you have a day off from quests, you most likely...",
+      "options": [
+        {
+          "text": "Wander through the streets and strike up conversations with random NPCs",
+          "score": "E"
+        },
+        {
+          "text": "Hike to a remote mountain peak to watch the sunrise in silence",
+          "score": "I"
+        },
+        {
+          "text": "Garden your plot of land and cook a meal using fresh local ingredients",
+          "score": "S"
+        },
+        {
+          "text": "Design a new constellation map based on your observations of the sky",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A merchant tries to sell you a fake relic. You react by...",
+      "options": [
+        {
+          "text": "Explain calmly why the relic is fake and teach them about authentic artifacts",
+          "score": "T"
+        },
+        {
+          "text": "Feel bad for them and buy a small trinket to support their business anyway",
+          "score": "F"
+        },
+        {
+          "text": "Report them to the local authorities immediately as per guild rules",
+          "score": "J"
+        },
+        {
+          "text": "Play along with their story and then leave without buying anything",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You need to cross a wide river. You would...",
+      "options": [
+        {
+          "text": "Build a sturdy bridge using nearby wood and ropes to cross safely",
+          "score": "S"
+        },
+        {
+          "text": "Look for a hidden teleporter or secret underwater passage to use",
+          "score": "N"
+        },
+        {
+          "text": "Challenge your friends to a race across the river using hydro abilities",
+          "score": "E"
+        },
+        {
+          "text": "Wait until nightfall when the river is calmer and cross alone quietly",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a long journey across Teyvat, you...",
+      "options": [
+        {
+          "text": "Pack every item you might need, from first-aid kits to extra rations",
+          "score": "J"
+        },
+        {
+          "text": "Pack only the essentials and decide what to do as you go",
+          "score": "P"
+        },
+        {
+          "text": "Research every town and landmark along the way to learn their histories",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the shortest route and travel time to reach your destination quickly",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Mondstadt's Warm Guide",
+      "description": "Like Venti’s free spirit paired with Jean’s nurturing heart, you’re the friend who always checks in on companions after tough battles. You gather stories from every Teyvat corner, share them freely, and prioritize others’ needs over your own. Your charisma makes you a beloved leader, turning every adventure into a joyful, inclusive experience.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Liyue's Curious Wanderer",
+      "description": "With Xiao’s sense of wonder and Ganyu’s playful curiosity, you’re the first to chase every hidden chest or mysterious rumor. You thrive on spontaneous detours, turning mundane quests into unforgettable adventures. You see magic in every detail, from Glaze Lilies to ancient runes, and love inspiring friends to embrace the unknown.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Inazuma's Strategic Commander",
+      "description": "Like Raiden Shogun’s resolve and Ayaka’s precision, you’re a natural leader who turns chaos into order. You craft detailed battle plans, lead teams to victory efficiently, and never shy away from tough decisions. You respect strength and ambition, and your drive to succeed makes you a formidable ally in any dungeon crawl.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Sumeru's Inventive Debater",
+      "description": "Alhaitham’s sharp wit paired with Kaveh’s creative flair defines you. You love debating new ideas, challenging traditional norms, and inventing clever solutions to tricky puzzles. You turn every quest into a mental game, outsmarting enemies with quick thinking and unexpected tactics that keep everyone on their toes.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Fontaine's Caring Host",
+      "description": "Like Furina’s charm and Navia’s generosity, you’re the heart of every adventure party. You remember every companion’s favorite meal, organize cozy campfire nights, and ensure everyone feels valued. You thrive on bringing people together, turning even dangerous quests into opportunities to bond and create lasting memories.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Natlan's Passionate Performer",
+      "description": "With Xinyan’s fiery spirit and Yoimiya’s playful energy, you light up every room you enter. You love performing for crowds, trying new activities, and living in the moment. You turn every battle into a spectacle, using your skills to entertain allies and intimidate enemies alike with your dynamic, unapologetic style.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Snezhnaya's Disciplined Administrator",
+      "description": "Like Tartaglia’s discipline and Signora’s organizational skills, you’re the backbone of any team. You follow rules meticulously, ensure every task is completed on time, and keep your party focused on the mission. You respect tradition and structure, and your reliability makes you a trusted leader in high-pressure situations.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Wanderer's Bold Daredevil",
+      "description": "With Childe’s love of challenge and Wanderer’s reckless courage, you’re always seeking the next thrill. You jump into battles without hesitation, adapt to unexpected obstacles quickly, and love testing your limits against powerful foes. You turn every quest into an adventure, embracing risk and living life to the fullest.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Mondstadt's Mystic Seer",
+      "description": "Like Venti’s wisdom and Zhongli’s foresight, you have a deep understanding of the world around you. You prefer quiet moments of reflection, seek meaning in every experience, and often know what’s coming before it happens. You’re a trusted confidant, offering wise advice to companions navigating troubled times.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Liyue's Dreamy Poet",
+      "description": "With Zhongli’s love of history and Ganyu’s gentle spirit, you find beauty in the smallest details. You spend hours writing poems about Teyvat’s landscapes, daydreaming about ancient civilizations, and prioritizing inner peace over external success. You’re a loyal friend who stands up for what’s right, even when it’s unpopular.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Inazuma's Mastermind Strategist",
+      "description": "Like Raiden Shogun’s strategic mind and Scaramouche’s cunning intellect, you’re a master of long-term planning. You anticipate every possible outcome, craft elaborate schemes to achieve your goals, and prefer working alone to avoid distractions. Your ability to see the big picture makes you an invaluable ally in complex quests.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Sumeru's Curious Scholar",
+      "description": "With Alhaitham’s love of knowledge and Nahida’s intellectual curiosity, you’re forever seeking answers to life’s biggest questions. You spend hours studying ancient texts, solving complex puzzles, and experimenting with new ideas. You prefer quiet research over social gatherings, and your unique perspective often leads to groundbreaking discoveries.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Fontaine's Gentle Healer",
+      "description": "Like Barbara’s kindness and Qiqi’s care, you’re the guardian of your companions. You always carry extra bandages, remember every ally’s allergies, and put others’ safety above your own. You thrive on helping others, using your skills to heal wounds and soothe troubled hearts after every hard-fought battle.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Liyue's Artisan Wanderer",
+      "description": "With Shenhe’s artistic soul and Yun Jin’s appreciation for beauty, you find joy in creating and exploring. You spend hours painting landscapes, crafting unique artifacts, and wandering through Teyvat’s most scenic spots. You prefer quiet moments of creativity over loud gatherings, and your gentle spirit calms even the most anxious companions.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Snezhnaya's Trusted Steward",
+      "description": "Like Diluc’s sense of duty and Jean’s reliability, you’re the person everyone turns to in a crisis. You follow through on every promise, keep detailed records of every quest, and ensure your party is always prepared. You value honesty and hard work, and your unwavering dedication makes you a trusted friend and ally.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Wanderer's Skilled Mechanic",
+      "description": "With Bennett’s knack for fixing things and Razor’s practical ingenuity, you’re the go-to person for solving technical problems. You love tinkering with weapons and gadgets, figuring out how things work, and using your skills to overcome obstacles. You prefer hands-on work over theoretical discussions, and your calm under pressure makes you invaluable.",
+      "mbti": "ISTP"
+    }
+  ]
+}

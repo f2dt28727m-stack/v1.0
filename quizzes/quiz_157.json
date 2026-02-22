@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Lana Del Rey Type Are You?",
+  "category": "which",
+  "tags": [
+    "Lana Del Rey",
+    "Personality",
+    "MBTI",
+    "Pop Culture",
+    "Music Archetype"
+  ],
+  "description": "Answer 12 questions to discover your Lana Del Rey-inspired personality type!",
+  "questions": [
+    {
+      "text": "When planning a quiet weekend, you find yourself drawn to...",
+      "options": [
+        {
+          "text": "Curling up with a worn poetry book and a cup of tea, letting the world fade outside your window",
+          "score": "I"
+        },
+        {
+          "text": "Hosting a small gathering of close friends, playing vintage records and sharing stories late into the night",
+          "score": "E"
+        },
+        {
+          "text": "Exploring a nearby coastal town you’ve never visited, stopping at local diners and thrift stores for hidden gems",
+          "score": "S"
+        },
+        {
+          "text": "Writing down daydreams about a fictional 1950s romance, letting your mind wander to far-off, nostalgic places",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When a friend shares a heartbreak story with you, your first reaction is to...",
+      "options": [
+        {
+          "text": "Ask specific questions to understand what led to the situation, offering practical advice to help them move forward",
+          "score": "T"
+        },
+        {
+          "text": "Pull them into a warm hug and sit with them in their sadness, not rushing to fix things",
+          "score": "F"
+        },
+        {
+          "text": "Suggest taking a spontaneous drive to a scenic spot, distracting them with new sights and sounds",
+          "score": "P"
+        },
+        {
+          "text": "Create a curated playlist of comforting songs and a handwritten note to leave on their doorstep",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you were to write a song, the core of your lyrics would revolve around...",
+      "options": [
+        {
+          "text": "The raw, unfiltered details of a recent argument that left you feeling hollow",
+          "score": "S"
+        },
+        {
+          "text": "A metaphorical tale of a lost astronaut drifting through a silent galaxy, searching for meaning",
+          "score": "N"
+        },
+        {
+          "text": "The joy of laughing so hard with friends that you forget your worries for hours",
+          "score": "E"
+        },
+        {
+          "text": "The quiet ache of missing someone who’s no longer in your life, even years later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When choosing an outfit for a special occasion, you prioritize...",
+      "options": [
+        {
+          "text": "A look that feels like you—maybe a thrifted leather jacket paired with a vintage scarf that holds sentimental value",
+          "score": "F"
+        },
+        {
+          "text": "An ensemble that fits the event perfectly, ensuring you’re dressed appropriately for every moment of the night",
+          "score": "T"
+        },
+        {
+          "text": "Piecing together unexpected items that make you stand out, ignoring traditional fashion rules",
+          "score": "P"
+        },
+        {
+          "text": "A classic, timeless style that you know will make you feel confident and put-together all evening",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a song you love for the first time, you immediately...",
+      "options": [
+        {
+          "text": "Text your best friend to gush about how it makes you feel, begging them to listen right away",
+          "score": "E"
+        },
+        {
+          "text": "Close your eyes and let the melody wash over you, savoring every lyric without sharing your thoughts yet",
+          "score": "I"
+        },
+        {
+          "text": "Look up the artist’s backstory and read interviews to understand the inspiration behind the track",
+          "score": "S"
+        },
+        {
+          "text": "Imagine a music video for the song, creating vivid scenes and characters in your mind",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When faced with an unexpected change in your plans, you respond by...",
+      "options": [
+        {
+          "text": "Grimacing slightly but quickly adapting, seeing it as a chance to try something new",
+          "score": "P"
+        },
+        {
+          "text": "Feeling flustered at first, then quickly rearranging your schedule to minimize disruption",
+          "score": "J"
+        },
+        {
+          "text": "Focusing on how the change will impact your daily routine, brainstorming ways to adjust efficiently",
+          "score": "T"
+        },
+        {
+          "text": "Checking in with the people involved to make sure everyone’s feelings are taken care of before making decisions",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy day, you’re most likely to spend your time...",
+      "options": [
+        {
+          "text": "Baking a batch of your favorite cookies, following the recipe step by step to ensure they turn out perfectly",
+          "score": "S"
+        },
+        {
+          "text": "Writing stream-of-consciousness poetry about the sound of raindrops hitting the roof",
+          "score": "N"
+        },
+        {
+          "text": "Inviting a neighbor over to watch old movies and snack on homemade treats",
+          "score": "E"
+        },
+        {
+          "text": "Organizing your bookshelf by color and genre, finding calm in the order of it all",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a major life decision, you rely on...",
+      "options": [
+        {
+          "text": "The advice of trusted family and friends, valuing their perspectives as much as your own",
+          "score": "F"
+        },
+        {
+          "text": "A pros and cons list, weighing every possible outcome to choose the most logical path",
+          "score": "T"
+        },
+        {
+          "text": "Your gut feeling, even if it doesn’t make sense to anyone else around you",
+          "score": "N"
+        },
+        {
+          "text": "Past experiences, using what you’ve learned from similar situations to guide your choice",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You feel most alive when you’re...",
+      "options": [
+        {
+          "text": "Dancing in a crowded concert venue, surrounded by strangers who share your love for the music",
+          "score": "E"
+        },
+        {
+          "text": "Walking alone through a foggy forest, listening to the quiet rustle of leaves and distant birdsong",
+          "score": "I"
+        },
+        {
+          "text": "Working on a creative project that lets you express your innermost thoughts and feelings",
+          "score": "N"
+        },
+        {
+          "text": "Helping a friend move into their new apartment, tackling boxes and organizing spaces together",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you have a free afternoon with no plans, you tend to...",
+      "options": [
+        {
+          "text": "Wing it—maybe wander to a new café, browse a bookstore, or take a detour to a beach you haven’t seen in years",
+          "score": "P"
+        },
+        {
+          "text": "Stick to a loose schedule you made the night before, fitting in a workout, reading, and a quick errand run",
+          "score": "J"
+        },
+        {
+          "text": "Call up a group of friends and plan an impromptu picnic in the park",
+          "score": "E"
+        },
+        {
+          "text": "Spend the time journaling, reflecting on your week and setting small goals for the days ahead",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you watch a movie that makes you cry, you...",
+      "options": [
+        {
+          "text": "Talk about the film with anyone who will listen, dissecting the characters’ motivations and emotional arcs",
+          "score": "T"
+        },
+        {
+          "text": "Allow yourself to fully feel the emotions, even if it means crying for hours afterward",
+          "score": "F"
+        },
+        {
+          "text": "Research the director’s other works to find more films that evoke the same powerful feelings",
+          "score": "S"
+        },
+        {
+          "text": "Write a short story inspired by the movie’s ending, adding your own twist to the narrative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you think about the future, you find yourself...",
+      "options": [
+        {
+          "text": "Visualizing specific milestones—like buying a home, traveling to Europe, or starting a new career",
+          "score": "J"
+        },
+        {
+          "text": "Daydreaming about all the unexpected adventures that might come your way, without any concrete plans",
+          "score": "P"
+        },
+        {
+          "text": "Focusing on building strong, lasting relationships with the people you care about most",
+          "score": "F"
+        },
+        {
+          "text": "Planning for practical needs, like saving money and ensuring you have a stable foundation for whatever comes next",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Compassionate Balladeer",
+      "description": "You’re the warm, empathetic soul who turns quiet moments into heartfelt stories, just like Lana’s most tender ballads. You connect deeply with others, holding space for their joys and sorrows, and your presence feels like a vintage love letter come to life. Your ENFJ heart craves to nurture and inspire, turning ordinary days into something poetic and meaningful.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Whimsical Wanderer",
+      "description": "You’re a dreamer who chases nostalgia and spontaneous adventure, mirroring Lana’s free-spirited energy. You see magic in the mundane—a sunset over a highway, a dusty record in a thrift store—and you love sharing these moments with anyone who will listen. Your ENFP spirit thrives on creativity and connection, turning every day into a poetic journey.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Bold Visionary",
+      "description": "You’re the unapologetic leader with a sharp mind and a knack for turning dreams into reality, much like Lana’s fearless approach to her music. You know what you want and aren’t afraid to go after it, even when others doubt you. Your ENTJ drive combines ambition with a hidden romantic streak, making you a force to be reckoned with and a loyal friend.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Rebel Muse",
+      "description": "You’re the witty, curious rebel who loves challenging the status quo, just like Lana’s edgier artistic side. You thrive on debates and new ideas, always looking for ways to subvert expectations and tell stories no one else will. Your ENTP mind is a treasure trove of sarcasm and poetry, and you never shy away from speaking your truth, no matter how bold it is.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Nurturing Nostalgic",
+      "description": "You’re the caretaker who finds joy in creating warm, nostalgic moments for the people you love, similar to Lana’s focus on home and connection. You remember every birthday, every inside joke, and every small detail that makes someone feel seen. Your ESFJ heart is rooted in tradition and kindness, making you the glue that holds your circle of friends together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Vivacious Showstopper",
+      "description": "You’re the life of every gathering, with a magnetic energy that draws people in, just like Lana’s charismatic stage presence. You live in the moment, loving to laugh, dance, and create memories that will last a lifetime. Your ESFP spirit is bold, playful, and deeply emotional, turning even the smallest occasion into a celebration of life and love.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Grounded Guardian",
+      "description": "You’re the reliable, practical soul who always has a plan, much like Lana’s ability to balance artistic freedom with intentionality. You value honesty and hard work, and you’re the first person your friends call when they need help fixing a problem. Your ESTJ nature is rooted in loyalty and stability, with a soft spot for vintage charm and quiet romance.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Storyteller",
+      "description": "You’re the daring, quick-witted adventurer who lives for the thrill of the moment, just like Lana’s songs about reckless love and wild nights. You’re always up for a spontaneous road trip, an impromptu concert, or a crazy idea that scares most people. Your ESTP spirit is fun-loving and real, with a gift for turning every experience into an unforgettable story.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Mystic Dreamer",
+      "description": "You’re the quiet, intuitive soul who feels deeply connected to the world’s hidden truths, much like Lana’s ethereal, mystical music. You often get lost in daydreams about love, loss, and the meaning of life, and you have a gift for understanding people’s deepest emotions without them saying a word. Your INFJ heart is poetic and compassionate, always seeking beauty in the darkness.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Gentle Romantic",
+      "description": "You’re the sensitive, idealistic dreamer who believes in the power of true love, just like Lana’s most heartfelt love songs. You value authenticity above all else, and you’re always searching for moments of genuine connection in a world that feels chaotic. Your INFP spirit is soft and creative, with a love for poetry, nature, and all things vintage.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Strategic Loner",
+      "description": "You’re the thoughtful, independent visionary who marches to the beat of your own drum, much like Lana’s introspective, unconventional side. You have a clear sense of your goals and aren’t afraid to work alone to achieve them. Your INTJ mind is sharp and analytical, but you have a hidden romantic streak that only a few lucky people get to see.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Philosopher",
+      "description": "You’re the quiet, curious thinker who loves diving into complex ideas and abstract concepts, just like Lana’s songs that explore deep, existential themes. You often get lost in thoughts about the universe, art, and human nature, and you have a gift for finding connections no one else notices. Your INTP spirit is playful and intelligent, with a dry sense of humor and a love for all things weird and wonderful.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Caregiver",
+      "description": "You’re the loyal, nurturing soul who shows love through small, thoughtful gestures, much like Lana’s focus on intimate, personal moments. You remember the little things—like a friend’s favorite snack or a song that calms them down—and you’re always there to help without being asked. Your ISFJ heart is rooted in kindness and tradition, with a love for cozy nights in and quiet conversations.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artistic Soul",
+      "description": "You’re the gentle, creative soul who expresses yourself through art, music, or nature, just like Lana’s poetic, visual style. You find beauty in the smallest details—a dewdrop on a leaf, a faded photograph, a song that tugs at your heartstrings. Your ISFP spirit is soft and introspective, with a love for freedom and authenticity that shines through in everything you do.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Steadfast Realist",
+      "description": "You’re the reliable, responsible soul who values honesty and consistency, much like Lana’s ability to stay true to her artistic vision. You’re the person everyone counts on to follow through on promises and keep things running smoothly. Your ISTJ nature is grounded and loyal, with a hidden appreciation for vintage music and quiet, meaningful moments.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Cool Innovator",
+      "description": "You’re the quiet, hands-on problem-solver who loves tinkering with new ideas and exploring the world, just like Lana’s songs about lone wanderers and hidden geniuses. You’re independent and self-reliant, with a knack for fixing broken things or creating something new from scratch. Your ISTP spirit is calm and curious, with a dry sense of humor and a love for adventure that only comes out around people you trust.",
+      "mbti": "ISTP"
+    }
+  ]
+}

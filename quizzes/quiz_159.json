@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Wednesday Aesthetic Personality Type Are You?",
+  "category": "type",
+  "tags": [
+    "Wednesday",
+    "Addams Family",
+    "Aesthetic Personality",
+    "MBTI",
+    "Personality Test"
+  ],
+  "description": "Answer 12 questions to discover your Wednesday-infused aesthetic personality!",
+  "questions": [
+    {
+      "text": "When you stumble upon an old, locked book in a library, you immediately...",
+      "options": [
+        {
+          "text": "Spend hours researching its origin and hidden meanings, even if it takes days to decode clues",
+          "score": "N"
+        },
+        {
+          "text": "Tuck it into your bag to read later, curious about the stories it might hold but not rushing to dig deep",
+          "score": "I"
+        },
+        {
+          "text": "Show it to the librarian and ask for all available information about its history and purpose",
+          "score": "E"
+        },
+        {
+          "text": "Flipping through the pages, you prioritize checking for practical takeaways or useful knowledge",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a friend shares a dramatic personal problem with you, you respond by...",
+      "options": [
+        {
+          "text": "Listening intently and validating their feelings, offering a comforting presence without pushing solutions",
+          "score": "F"
+        },
+        {
+          "text": "Use logic to break down the situation and suggest clear, actionable steps to fix it",
+          "score": "T"
+        },
+        {
+          "text": "Inviting them to do an activity they love to take their mind off the stress, focusing on distraction over discussion",
+          "score": "P"
+        },
+        {
+          "text": "Schedule a specific time to sit down and work through the problem together with a structured plan",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "On a rainy weekend, you choose to spend your time by...",
+      "options": [
+        {
+          "text": "Rearranging your bookshelf by genre and organizing your collection into a precise, logical system",
+          "score": "J"
+        },
+        {
+          "text": "Wandering through empty, misty parks, letting your thoughts wander without a set agenda",
+          "score": "P"
+        },
+        {
+          "text": "Calling up a friend to explore a new, underground coffee shop and people-watch together",
+          "score": "E"
+        },
+        {
+          "text": "Staying in and writing poetry inspired by the gloomy weather, keeping to yourself the whole time",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When tasked with planning a school event, you focus on...",
+      "options": [
+        {
+          "text": "Brainstorming unique, thematic decorations and activities that will leave a lasting impression",
+          "score": "N"
+        },
+        {
+          "text": "Confirming all logistical details like venue capacity, timing, and resource availability first",
+          "score": "S"
+        },
+        {
+          "text": "Checking in with multiple people to ensure everyone’s preferences are considered and included",
+          "score": "F"
+        },
+        {
+          "text": "Creating a detailed timeline and assigning specific roles to ensure everything runs smoothly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You find a strange, unmarked object on your way home. Your first reaction is to...",
+      "options": [
+        {
+          "text": "Pick it up and examine its texture, weight, and visible features to guess its purpose",
+          "score": "S"
+        },
+        {
+          "text": "Wonder about its backstory, imagining all the possible scenarios that led it to be there",
+          "score": "N"
+        },
+        {
+          "text": "Show it to your family when you get home, eager to get their opinions and thoughts on it",
+          "score": "E"
+        },
+        {
+          "text": "Leave it where it is, choosing not to engage with something that might disrupt your routine",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When disagreeing with someone on a topic you care about, you tend to...",
+      "options": [
+        {
+          "text": "Present factual evidence and logical arguments to support your perspective",
+          "score": "T"
+        },
+        {
+          "text": "Share how the topic makes you feel and explain why it matters to you personally",
+          "score": "F"
+        },
+        {
+          "text": "Adjust your approach based on their reaction, keeping the conversation flexible and open-ended",
+          "score": "P"
+        },
+        {
+          "text": "Stick to your original stance and follow through on your point until the discussion concludes",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal study spot is one where you can...",
+      "options": [
+        {
+          "text": "Work alongside classmates, bouncing ideas off each other and collaborating on tasks",
+          "score": "E"
+        },
+        {
+          "text": "Have complete silence and privacy, focusing solely on your work without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Use flashcards and practical exercises to memorize information effectively",
+          "score": "S"
+        },
+        {
+          "text": "Connect new concepts to larger ideas and theories you’ve learned before",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a gift for a close friend, you prioritize...",
+      "options": [
+        {
+          "text": "A personalized item that reflects a shared memory or inside joke between you two",
+          "score": "F"
+        },
+        {
+          "text": "A high-quality, functional item you know they’ll use on a daily basis",
+          "score": "T"
+        },
+        {
+          "text": "A gift that aligns with their current interests, even if it means doing some quick research first",
+          "score": "J"
+        },
+        {
+          "text": "A spontaneous, quirky gift that feels unique and unexpected, picked on a whim",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "After a long, stressful day, you unwind by...",
+      "options": [
+        {
+          "text": "Taking a long walk in a quiet, wooded area, letting nature calm your mind",
+          "score": "I"
+        },
+        {
+          "text": "Hosting a small gathering with friends, laughing and sharing stories to lift your mood",
+          "score": "E"
+        },
+        {
+          "text": "Doing a structured activity like journaling or following a guided meditation routine",
+          "score": "S"
+        },
+        {
+          "text": "Daydreaming about future adventures and creating elaborate scenarios in your head",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When faced with a last-minute change to your plans, you...",
+      "options": [
+        {
+          "text": "Feel frustrated at first but quickly adapt, seeing it as an opportunity to try something new",
+          "score": "P"
+        },
+        {
+          "text": "Immediately start rearranging your schedule to minimize disruption and stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Check in with the people involved to make sure everyone is comfortable with the change",
+          "score": "F"
+        },
+        {
+          "text": "Evaluate the pros and cons of the new plan to decide if it’s worth adjusting for",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You prefer to learn new skills by...",
+      "options": [
+        {
+          "text": "Watching step-by-step tutorials and practicing each part until you master it",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting on your own and figuring out methods that work best for you",
+          "score": "N"
+        },
+        {
+          "text": "Taking a class with other people, learning from the instructor and peers",
+          "score": "E"
+        },
+        {
+          "text": "Reading books and articles about the skill, studying it independently before trying it",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you rely most on...",
+      "options": [
+        {
+          "text": "Your gut feelings and how the decision will affect the people you care about",
+          "score": "F"
+        },
+        {
+          "text": "Objective data and rational analysis of the potential outcomes",
+          "score": "T"
+        },
+        {
+          "text": "A detailed list of pros and cons, organized to compare all options clearly",
+          "score": "J"
+        },
+        {
+          "text": "Going with the flow and seeing where the decision takes you, trusting in spontaneity",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Raven Strategist",
+      "description": "Like Wednesday Addams herself, you’re a sharp, forward-thinking strategist who sees the world through a lens of dark curiosity. You prefer solitude to crowds, using your logical mind to unravel mysteries and plan every detail of your next move. Your loyalty is reserved for a select few, and you aren’t afraid to challenge societal norms to stay true to your ideals. You’re an INTJ—calculating, independent, and always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Dark Philosopher",
+      "description": "You’re a deep thinker who finds joy in exploring abstract ideas and unconventional theories, especially those with a gothic twist. You often get lost in your thoughts, questioning everything from societal rules to the nature of fear. While you enjoy occasional deep conversations with like-minded people, you’re most comfortable in your own company, where you can freely explore your curious mind. You’re an INTP—pensive, innovative, and unapologetically unique.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Coven Leader",
+      "description": "You’re a natural leader with a commanding presence, drawn to roles where you can organize and execute bold, dark-themed plans. You thrive in dynamic environments, using your strategic mind to lead groups toward a common goal. While you value efficiency, you also recognize the power of loyalty and respect, surrounding yourself with people who match your ambition. You’re an ENTJ—assertive, decisive, and ready to conquer any challenge.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Gothic Provocateur",
+      "description": "You’re a witty, playful provocateur who loves to challenge the status quo with your sharp humor and unconventional ideas. You thrive in social settings, where you can debate, banter, and keep people on their toes. You’re always looking for the next big adventure, whether it’s exploring a haunted location or brainstorming a quirky project with friends. You’re an ENTP—charming, clever, and never afraid to push boundaries.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Mystic Seer",
+      "description": "You possess a deep, intuitive understanding of people and the world around you, often sensing things others miss. You’re drawn to the mystical and unknown, finding comfort in quiet spaces where you can reflect on your thoughts and feelings. You care deeply about your close friends and family, going out of your way to support them in subtle, meaningful ways. You’re an INFJ—compassionate, insightful, and deeply connected to the unseen.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Gothic Dreamer",
+      "description": "You’re a romantic at heart, drawn to the beauty in darkness and the stories hidden in the shadows. You often escape into your own imagination, creating elaborate worlds filled with mystery and emotion. You value authenticity above all else, staying true to your beliefs even when it’s difficult. While you’re shy around new people, you open up fully to those who earn your trust. You’re an INFP—idealistic, creative, and deeply empathetic.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Haunted Mentor",
+      "description": "You’re a charismatic, empathetic leader who uses your influence to guide and inspire others. You’re drawn to dark, meaningful causes, using your social skills to bring people together for a common purpose. You have a knack for understanding people’s needs, making you a trusted confidant and mentor. You’re an ENFJ—passionate, supportive, and dedicated to making an impact.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Whimsical Wanderer",
+      "description": "You’re a free-spirited wanderer who finds joy in exploring new places and meeting interesting people with dark, quirky vibes. You’re naturally optimistic, seeing the beauty in every situation—even the spooky ones. You’re always full of new ideas, whether it’s planning a gothic-themed road trip or starting a creative project with friends. You’re an ENFP—enthusiastic, imaginative, and endlessly curious.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Sentinel",
+      "description": "You’re a grounded, dependable person who values tradition and structure, especially when it comes to dark, timeless practices. You take pride in your ability to handle practical tasks efficiently, ensuring everything runs smoothly according to plan. You’re loyal to your loved ones, always showing up when they need you most. You’re an ISTJ—responsible, thorough, and committed to your principles.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Gothic Caregiver",
+      "description": "You’re a warm, nurturing person who shows your love through small, thoughtful acts—like making your favorite gothic snack for a friend or remembering their deepest fears and comforts. You thrive in roles where you can take care of others, creating a safe space for them to be their true, dark selves. You’re loyal and dedicated, always putting the needs of your loved ones first. You’re an ISFJ—kind, attentive, and deeply caring.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Strict Curator",
+      "description": "You’re a no-nonsense, organized individual who excels at managing systems and ensuring order—even in gothic settings. You value rules and traditions, believing they provide a foundation for stability. You’re a natural leader in practical matters, using your efficient approach to get things done. You’re an ESTJ—assertive, reliable, and committed to maintaining structure.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Gothic Host",
+      "description": "You’re a sociable, outgoing person who loves to bring people together through dark-themed gatherings and events. You thrive on making others feel welcome, going out of your way to ensure everyone has a good time. You’re warm and approachable, always ready to lend an ear or a helping hand to those in need. You’re an ESFJ—friendly, generous, and the life of any spooky party.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Silent Mechanic",
+      "description": "You’re a quiet, hands-on problem-solver who loves working with your hands on dark, intricate projects—like restoring an old coffin or building a gothic piece of furniture. You’re calm under pressure, able to think quickly and find solutions to unexpected problems. You prefer to let your actions speak for themselves, avoiding unnecessary conversation. You’re an ISTP—resourceful, practical, and incredibly skilled.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Dark Artist",
+      "description": "You’re a creative soul who expresses yourself through dark, artistic mediums—like painting macabre scenes, writing gothic poetry, or playing haunting music. You’re deeply in tune with your senses, finding inspiration in the textures and sounds of the world around you. You value your independence, preferring to create on your own terms. You’re an ISFP—artistic, sensitive, and unapologetically authentic.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Thrill Seeker",
+      "description": "You’re an adventurous, bold individual who loves to seek out new thrills and experiences—like exploring haunted houses, trying extreme sports with a gothic twist, or attending underground concerts. You thrive in high-energy environments, using your quick wit and charm to connect with others. You’re always ready for the next big adventure, never shying away from a challenge. You’re an ESTP—daring, charismatic, and always on the move.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Gothic Performer",
+      "description": "You’re a lively, outgoing performer who loves to be in the spotlight, whether it’s putting on a dark-themed play, dancing at a gothic club, or telling spooky stories to a crowd. You’re naturally charming, able to make anyone laugh or feel at ease. You live in the moment, embracing every opportunity to have fun and create lasting memories. You’re an ESFP—energetic, expressive, and the life of any dark gathering.",
+      "mbti": "ESFP"
+    }
+  ]
+}

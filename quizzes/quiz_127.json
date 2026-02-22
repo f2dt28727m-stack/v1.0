@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What’s Your Future Fortnite Battle Role?",
+  "category": "future",
+  "tags": [
+    "Fortnite",
+    "Battle Royale",
+    "Future Role",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your future legendary role in Fortnite battles!",
+  "questions": [
+    {
+      "text": "When you first land on the Fortnite island, your immediate move is to...",
+      "options": [
+        {
+          "text": "Scope out the terrain first, mapping a path to flank unsuspecting enemies later",
+          "score": "N"
+        },
+        {
+          "text": "Head straight for the busiest loot spot, linking up with teammates to scavenge and watch for threats",
+          "score": "E"
+        },
+        {
+          "text": "Seek out a quiet, hidden area to gather basic gear before moving toward the action",
+          "score": "I"
+        },
+        {
+          "text": "Prioritize grabbing a weapon and armor first to ensure you can defend yourself right away",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your teammate calls for backup after getting ambushed. You respond by...",
+      "options": [
+        {
+          "text": "Stick to your original plan to secure the final loot crate before circling back to help",
+          "score": "J"
+        },
+        {
+          "text": "Rush in with quick building to shield your teammate and engage the enemy head-on",
+          "score": "F"
+        },
+        {
+          "text": "Adapt your route immediately, using nearby structures to create surprise attacks from different angles",
+          "score": "P"
+        },
+        {
+          "text": "Assess the number of enemies and their positions before planning a precise counterattack",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When facing a tight final circle with limited cover, you choose to...",
+      "options": [
+        {
+          "text": "Hide in a natural bush or small structure, waiting for enemies to reveal themselves",
+          "score": "I"
+        },
+        {
+          "text": "Chat with your team to coordinate a synchronized push on the remaining enemies",
+          "score": "E"
+        },
+        {
+          "text": "Build a compact, fortified bunker to protect yourself from incoming fire",
+          "score": "S"
+        },
+        {
+          "text": "Use launch pads to jump above the circle and get a bird’s-eye view of the battlefield",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare item that doesn’t fit your playstyle. You decide to...",
+      "options": [
+        {
+          "text": "Sell it for gold to buy more ammo and healing items that suit your needs",
+          "score": "T"
+        },
+        {
+          "text": "Trade it with a teammate who needs it, celebrating their upgrade together",
+          "score": "F"
+        },
+        {
+          "text": "Drop it nearby for any passing ally to pick up, no strings attached",
+          "score": "P"
+        },
+        {
+          "text": "Keep it in your inventory just in case you might need it later in the match",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When building during a firefight, your approach is to...",
+      "options": [
+        {
+          "text": "Build alongside your teammate, matching their structure to form a combined defense",
+          "score": "E"
+        },
+        {
+          "text": "Create elaborate, multi-level structures to outmaneuver and confuse enemies",
+          "score": "N"
+        },
+        {
+          "text": "Build a single, hidden tower to get a high vantage point without drawing attention",
+          "score": "I"
+        },
+        {
+          "text": "Throw down simple walls and ramps to quickly block incoming shots",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You encounter an enemy who’s low on health but trying to escape. You...",
+      "options": [
+        {
+          "text": "Chase them down immediately, determined to eliminate the threat before they recover",
+          "score": "T"
+        },
+        {
+          "text": "Adapt your plan—switch to a sniper rifle to take them down from afar instead of chasing",
+          "score": "P"
+        },
+        {
+          "text": "Hold back, worrying they might be leading you into an ambush with their team",
+          "score": "F"
+        },
+        {
+          "text": "Follow your pre-set engagement rules: only chase if you’re within a safe distance from the circle",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Before a match starts, you spend your time in the lobby by...",
+      "options": [
+        {
+          "text": "Mess around with emotes and chat with random players to build a temporary team",
+          "score": "E"
+        },
+        {
+          "text": "Stay quiet, scrolling through your inventory to prepare your loadout",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm new building tricks you can test out in the upcoming match",
+          "score": "N"
+        },
+        {
+          "text": "Review your previous match stats to identify areas you can improve",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your team disagrees on whether to push or hold position, you...",
+      "options": [
+        {
+          "text": "Listen to everyone’s concerns and suggest a compromise that keeps the team united",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow, choosing whichever option the majority of the team prefers",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the circle position and enemy movements to pick the most strategic option",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your initial plan, arguing that it’s the most reliable way to win",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You find a chest full of cosmetic items instead of weapons. You...",
+      "options": [
+        {
+          "text": "Leave it behind, focusing solely on gathering items that help you win the battle",
+          "score": "S"
+        },
+        {
+          "text": "Show off the new skin to your teammates right away, excited to use it in the match",
+          "score": "E"
+        },
+        {
+          "text": "Take it and think about how you can use the bright colors to distract enemies later",
+          "score": "N"
+        },
+        {
+          "text": "Quickly swap it into your inventory and keep it hidden for later use",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When the storm starts closing in and you’re far from the safe zone, you...",
+      "options": [
+        {
+          "text": "Calculate the storm’s damage rate and your speed to pick the most efficient route",
+          "score": "T"
+        },
+        {
+          "text": "Stick to the marked safe path you planned earlier, even if it means moving slowly",
+          "score": "J"
+        },
+        {
+          "text": "Prioritize using healing items to keep yourself alive while moving steadily",
+          "score": "F"
+        },
+        {
+          "text": "Take a shortcut through the storm, hoping to reach the zone faster before taking too much damage",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you win a match, your first reaction is to...",
+      "options": [
+        {
+          "text": "Smile quietly to yourself, already thinking about your next match’s strategy",
+          "score": "I"
+        },
+        {
+          "text": "Cheer loudly in voice chat, celebrating with your teammates for minutes after",
+          "score": "E"
+        },
+        {
+          "text": "Imagine all the different ways you could’ve won the match with alternative tactics",
+          "score": "N"
+        },
+        {
+          "text": "Review the final kill replay to see how you can make your next victory even smoother",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a landing zone for your team, you suggest...",
+      "options": [
+        {
+          "text": "A spot near the center of the map, making it easy to help teammates in any direction",
+          "score": "F"
+        },
+        {
+          "text": "A proven high-resource spot that’s worked well in multiple previous matches",
+          "score": "J"
+        },
+        {
+          "text": "A spot with a mix of resources and hidden paths, allowing for flexible playstyles",
+          "score": "P"
+        },
+        {
+          "text": "A spot on the edge of the map, where you can pick off enemies as they move into the circle",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactical Commander",
+      "description": "You’re the strategic backbone of any Fortnite team, always planning every move in advance to secure victory. You prioritize reliable tactics and clear communication, ensuring your team stays on track even in chaotic battles. Your focus on structure and efficiency makes you a legendary leader who turns every match into a well-executed mission.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Supportive Guardian",
+      "description": "You’re the heart of your Fortnite team, always putting your teammates’ needs first. You’re quick to share resources, build cover for allies in danger, and boost morale with encouraging words. Your empathetic nature and team-focused playstyle ensure no one gets left behind, making you the most trusted companion on the island.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspiring Strategist",
+      "description": "You’re a charismatic Fortnite leader who combines big-picture thinking with genuine care for your team. You craft innovative battle plans that surprise enemies and motivate teammates to perform their best. Your ability to read the battlefield and connect with others turns ordinary matches into legendary wins that everyone remembers.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Dominant Warlord",
+      "description": "You’re a fearless Fortnite leader who dominates every battle with unshakable confidence and strategic brilliance. You thrive in high-pressure situations, making quick, decisive calls that outmaneuver even the toughest enemies. Your focus on victory and ability to command respect makes you the most formidable presence on the island.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Steady Defender",
+      "description": "You’re a reliable Fortnite player who sticks to proven tactics and protects your team with unwavering dedication. You excel at securing loot, building solid defenses, and covering your teammates’ backs during firefights. Your consistency and attention to detail make you an essential member of any squad, turning near-losses into hard-fought wins.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Protector",
+      "description": "You’re a compassionate Fortnite player who goes above and beyond to keep your team safe. You’re always the first to share healing items, build cover for injured allies, and warn of incoming threats. Your gentle yet determined nature makes you the backbone of any squad, ensuring everyone feels supported throughout the match.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Mystic Tactician",
+      "description": "You’re a thoughtful Fortnite player who sees patterns others miss, crafting unique strategies that catch enemies off guard. You prefer to work behind the scenes, supporting your team with carefully planned ambushes and defensive positions. Your intuitive understanding of the battlefield makes you a mysterious yet invaluable asset to any squad.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Mastermind Planner",
+      "description": "You’re a strategic genius in Fortnite, always several steps ahead of your enemies. You spend matches mapping terrain, predicting enemy movements, and executing elaborate plans that lead to effortless victories. Your focus on long-term goals and innovative tactics make you a legend among players who appreciate the art of the game.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Agile Scavenger",
+      "description": "You’re a spontaneous Fortnite player who thrives in chaotic situations. You love jumping into the thick of battles, using quick reflexes and adaptive building to outmaneuver enemies. You prioritize action over planning, turning every match into an adrenaline-fueled adventure that keeps everyone on their toes.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Energetic Showman",
+      "description": "You’re the life of any Fortnite squad, bringing energy and fun to every match. You love showing off your building skills and emoting after every kill, keeping the mood light even in tense moments. Your ability to adapt to any situation and make everyone laugh makes you the most popular player in any lobby.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Creative Maverick",
+      "description": "You’re a playful Fortnite player who loves experimenting with new tactics and building styles. You never stick to the same plan twice, preferring to improvise and surprise enemies with unexpected moves. Your imaginative approach and infectious enthusiasm make every match feel like a new, exciting challenge.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Trickster Innovator",
+      "description": "You’re a clever Fortnite player who lives for outsmarting enemies with innovative tricks and traps. You love testing new building glitches and unconventional strategies that no one else has thought of. Your quick wit and love of chaos make you an unpredictable and formidable opponent on the island.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Silent Sharpshooter",
+      "description": "You’re a quiet yet deadly Fortnite player who prefers to work alone or with a small squad. You excel at sniping, stealth, and quick building, taking down enemies without drawing attention to yourself. Your calm demeanor and technical skills make you a ghost on the battlefield, striking fear into unsuspecting opponents.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Wanderer",
+      "description": "You’re a laid-back Fortnite player who loves exploring the island and creating unique structures. You prefer to avoid large battles, instead focusing on gathering rare items and building beautiful bases. Your creative eye and peaceful playstyle make you a refreshing presence on the island, turning matches into artistic adventures.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dreamy Strategist",
+      "description": "You’re a thoughtful Fortnite player who plays with purpose, seeing every match as a chance to express your unique style. You craft personalized strategies that align with your values, preferring to help teammates and avoid unnecessary conflict when possible. Your gentle nature and imaginative tactics make you a beloved member of any squad.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Analytical Innovator",
+      "description": "You’re a curious Fortnite player who spends more time analyzing the game’s mechanics than actually playing. You love experimenting with building formulas and enemy behavior patterns, using data to craft the perfect strategy. Your logical mind and innovative ideas make you a hidden gem, capable of outsmarting even the most experienced players.",
+      "mbti": "INTP"
+    }
+  ]
+}

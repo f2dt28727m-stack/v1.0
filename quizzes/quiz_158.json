@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Wednesday Aesthetic Personality Type Are You?",
+  "category": "which",
+  "tags": [
+    "Wednesday",
+    "Addams Family",
+    "Aesthetic Personality",
+    "MBTI",
+    "Personality Test"
+  ],
+  "description": "Answer 12 questions to discover your Wednesday-inspired aesthetic personality rooted in dark whimsy, quiet intensity, and mysterious charm!",
+  "questions": [
+    {
+      "text": "When exploring an old, abandoned estate, you would most likely...",
+      "options": [
+        {
+          "text": "Daydream about the tragic, unspoken stories of the people who once lived there",
+          "score": "N"
+        },
+        {
+          "text": "Strike up a conversation with the stranger you meet near the rotting front door",
+          "score": "E"
+        },
+        {
+          "text": "Stay close to the exit, checking your watch regularly to avoid lingering after dark",
+          "score": "J"
+        },
+        {
+          "text": "Wander alone, closely tracing the carvings on every weathered wall",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A classmate invites you to a lively costume party. You respond by...",
+      "options": [
+        {
+          "text": "Decline politely, choosing to rewatch a dark, atmospheric film at home instead",
+          "score": "I"
+        },
+        {
+          "text": "Agree immediately, excited to plan a dramatic, attention-grabbing outfit",
+          "score": "E"
+        },
+        {
+          "text": "Accept, already brainstorming ways to turn the party into a small, impromptu mystery game",
+          "score": "N"
+        },
+        {
+          "text": "Ask for details about the guest list and party activities before deciding",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When solving a puzzling riddle left in a hidden note, you...",
+      "options": [
+        {
+          "text": "Consider the emotional subtext and hidden motives behind whoever wrote it",
+          "score": "F"
+        },
+        {
+          "text": "Focus on literal clues like misspelled words and odd punctuation marks",
+          "score": "S"
+        },
+        {
+          "text": "Break it down logically, mapping out possible solutions step by step",
+          "score": "T"
+        },
+        {
+          "text": "Let your mind wander, connecting the riddle to obscure myths and folklore you know",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You find a locked box in the woods. Your first move is to...",
+      "options": [
+        {
+          "text": "Leave it be, assuming it’s best not to disturb whatever lies within",
+          "score": "F"
+        },
+        {
+          "text": "Try to pick the lock using a bobby pin you keep in your pocket",
+          "score": "T"
+        },
+        {
+          "text": "Check for any visible keyholes or markings that could reveal its origin",
+          "score": "S"
+        },
+        {
+          "text": "Sit down and imagine what long-forgotten secrets might be inside",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset over a small disappointment, you would...",
+      "options": [
+        {
+          "text": "Help them create a plan to fix the issue and move forward quickly",
+          "score": "T"
+        },
+        {
+          "text": "Sit with them quietly, offering a warm cup of tea without saying a word",
+          "score": "F"
+        },
+        {
+          "text": "Distract them by telling a darkly humorous story to lighten the mood",
+          "score": "E"
+        },
+        {
+          "text": "Listen intently, asking specific questions to understand exactly how they feel",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You have a free afternoon with no plans. You choose to...",
+      "options": [
+        {
+          "text": "Host a small gathering of friends for a tarot card reading session",
+          "score": "E"
+        },
+        {
+          "text": "Wander aimlessly through the town, following any intriguing alleyway that catches your eye",
+          "score": "P"
+        },
+        {
+          "text": "Explore a new section of the cemetery, reading the epitaphs on every gravestone",
+          "score": "I"
+        },
+        {
+          "text": "Organize your collection of vintage oddities, dusting each item carefully",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You hear a strange noise coming from the attic at midnight. You...",
+      "options": [
+        {
+          "text": "Grab a flashlight and investigate immediately, curious to uncover the source",
+          "score": "E"
+        },
+        {
+          "text": "Feel a tightness in your chest, too unsettled to focus on anything else until morning",
+          "score": "F"
+        },
+        {
+          "text": "Stay in bed, analyzing possible logical explanations without moving",
+          "score": "T"
+        },
+        {
+          "text": "Wait a few minutes to see if it repeats, noting the exact time and sound pattern",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a gift for a close friend, you...",
+      "options": [
+        {
+          "text": "Create a custom, handcrafted piece inspired by a shared memory you both cherish",
+          "score": "F"
+        },
+        {
+          "text": "Select a rare book of dark poetry you think they’ll find intellectually stimulating",
+          "score": "T"
+        },
+        {
+          "text": "Pick an item they’ve mentioned needing recently, ensuring it’s practical and useful",
+          "score": "S"
+        },
+        {
+          "text": "Choose an unusual, mysterious trinket that sparks their sense of adventure",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You’re assigned to lead a group project. Your approach is to...",
+      "options": [
+        {
+          "text": "Let the team set their own pace, adapting plans as new ideas emerge",
+          "score": "P"
+        },
+        {
+          "text": "Encourage open discussion, prioritizing everyone’s feelings and input",
+          "score": "F"
+        },
+        {
+          "text": "Delegate specific tasks with clear deadlines to ensure efficiency",
+          "score": "J"
+        },
+        {
+          "text": "Focus on the end goal, making decisions based on what will produce the best result",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a long, stressful week, you unwind by...",
+      "options": [
+        {
+          "text": "Rearranging your bedroom decor into a more organized, symmetrical layout",
+          "score": "J"
+        },
+        {
+          "text": "Attending a underground poetry reading, engaging in deep conversations with strangers afterward",
+          "score": "E"
+        },
+        {
+          "text": "Taking a long walk in the rain, savoring the quiet solitude of the empty streets",
+          "score": "I"
+        },
+        {
+          "text": "Experimenting with a new dark-themed recipe, not worrying about following the instructions exactly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon a hidden journal in the school library. You...",
+      "options": [
+        {
+          "text": "Skim through, focusing on dates and factual details to piece together their story",
+          "score": "T"
+        },
+        {
+          "text": "Read it cover to cover, fascinated by the author’s raw, emotional confessions",
+          "score": "F"
+        },
+        {
+          "text": "Keep it to yourself, reading one entry each night to preserve the sense of mystery",
+          "score": "I"
+        },
+        {
+          "text": "Share it with a trusted friend, eager to discuss the author’s mysterious life",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When given a school project, you would prefer to...",
+      "options": [
+        {
+          "text": "Work alone, following a precise timeline you’ve created for each step",
+          "score": "J"
+        },
+        {
+          "text": "Collaborate with others, bouncing creative ideas off one another freely",
+          "score": "P"
+        },
+        {
+          "text": "Focus on concrete facts and data to support your argument",
+          "score": "S"
+        },
+        {
+          "text": "Craft a narrative that blends imagination with subtle social commentary",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Gothic Strategist",
+      "description": "You’re the Gothic Strategist—sharp, unyielding, and obsessed with unraveling hidden truths, much like Wednesday Addams. You find beauty in dark logic, prefer solitude over trivial chatter, and trust only in carefully laid plans. Your quiet intensity draws others in, even when you’d rather be left alone. You’re an INTJ: independent, analytical, and unapologetically singular in your dark whimsy.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Mysterious Philosopher",
+      "description": "As the Mysterious Philosopher, you dive deep into obscure theories and dark academia, finding joy in questioning every norm. You wander through Nevermore’s halls lost in thought, pondering life’s macabre mysteries over existentialist poetry. You’re an INTP: curious, detached, and endlessly fascinated by the strange and unknowable corners of the world.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Dark Leader",
+      "description": "You’re the Dark Leader—charismatic, decisive, and unafraid to take charge, even in the most shadowy scenarios. You thrive on organizing secret investigations and rallying others to your cause, blending ambition with a taste for the dramatic. You’re an ENTJ: bold, strategic, and always one step ahead in unraveling Nevermore’s darkest secrets.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Whimsical Provocateur",
+      "description": "As the Whimsical Provocateur, you love stirring up playful chaos and challenging authority with dark humor. You’re the one who starts impromptu mystery games in the cafeteria or debates the ethics of necromancy with teachers. You’re an ENTP: witty, creative, and forever pushing boundaries to keep life interestingly twisted.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Empathetic Seer",
+      "description": "You’re the Empathetic Seer—quietly intuitive, deeply attuned to others’ hidden sorrows, and drawn to the mystical side of Nevermore. You often find yourself sensing unspoken truths, whether through dreams or subtle cues in a friend’s demeanor. You’re an INFJ: compassionate, mysterious, and a keeper of dark, tender secrets.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Romantic Gothic",
+      "description": "As the Romantic Gothic, you see beauty in melancholy, writing poetry about graveyards and ghostly lovers in your spare time. You value authenticity above all else, often retreating to the woods to connect with nature’s quiet, dark magic. You’re an INFP: idealistic, sensitive, and forever chasing the hauntingly poetic moments in life.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Enigmatic Mentor",
+      "description": "You’re the Enigmatic Mentor—warm yet mysterious, always ready to guide others through their darkest moments while hiding your own secrets. You organize secret support groups for outcasts at Nevermore, blending empathy with a flair for the dramatic. You’re an ENFJ: charismatic, caring, and a beacon of quiet strength in a world of chaos.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Dark Adventurer",
+      "description": "As the Dark Adventurer, you crave new, thrilling experiences—exploring forbidden crypts, attending midnight séances, or befriending the most misunderstood students at Nevermore. You see every corner of the world as a new mystery to solve. You’re an ENFP: enthusiastic, curious, and forever chasing the next shadowy adventure.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Steadfast Guardian",
+      "description": "You’re the Steadfast Guardian—reliably precise, focused on order, and dedicated to protecting the people and traditions you hold dear. You’re the one who keeps detailed records of Nevermore’s history, ensuring no dark secret is lost to time. You’re an ISTJ: loyal, practical, and a rock of stability in a world of unpredictable magic.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Tender Caretaker",
+      "description": "As the Tender Caretaker, you show your love through quiet acts of kindness—leaving homemade blackberry pie for a friend who’s sad, or tending to the injured ravens in the woods. You’re deeply connected to the small, darkly comforting moments in life. You’re an ISFJ: nurturing, dependable, and a quiet source of warmth in cold, shadowy places.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Disciplined Enforcer",
+      "description": "You’re the Disciplined Enforcer—no-nonsense, organized, and determined to uphold order, even in the most chaotic of settings. You’re the one who ensures Nevermore’s rules are followed, blending practicality with a subtle taste for the dramatic. You’re an ESTJ: assertive, responsible, and a pillar of structure in a world of supernatural chaos.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Social Weaver",
+      "description": "As the Social Weaver, you bring outcasts together, hosting dark-themed tea parties and organizing group activities that celebrate everyone’s unique quirks. You remember every small detail about your friends, using that knowledge to make them feel seen. You’re an ESFJ: warm, social, and the glue that holds Nevermore’s eclectic community together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Silent Problem-Solver",
+      "description": "You’re the Silent Problem-Solver—calm, resourceful, and skilled at fixing even the most broken, mysterious objects. You spend your free time tinkering with old clocks or picking locks in the school’s basement, drawn to the mechanical beauty of dark, forgotten things. You’re an ISTP: independent, practical, and a master of turning chaos into order.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Artistic Wanderer",
+      "description": "As the Artistic Wanderer, you express yourself through dark, evocative art—painting shadowy landscapes, sculpting raven statues, or writing haunting ballads. You wander the woods at dusk, finding inspiration in the quiet, eerie beauty of nature. You’re an ISFP: creative, gentle, and a keeper of the world’s most delicate, darkly poetic moments.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Daring Thrill-Seeker",
+      "description": "You’re the Daring Thrill-Seeker—bold, impulsive, and always chasing the next adrenaline rush. You’re the first to explore forbidden areas of Nevermore, try dangerous stunts, or confront suspicious strangers without hesitation. You’re an ESTP: confident, action-oriented, and a lover of all things dark and daring.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Vibrant Oddity",
+      "description": "As the Vibrant Oddity, you bring color and chaos to every shadowy corner of Nevermore—dancing to gothic pop in the hallway, wearing bright, mismatched outfits that stand out, and turning even the most mundane tasks into a performance. You’re an ESFP: outgoing, lively, and a celebration of the weird and wonderful in a dark world.",
+      "mbti": "ESFP"
+    }
+  ]
+}

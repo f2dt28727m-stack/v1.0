@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What’s Your Future Minecraft Life Path?",
+  "category": "future",
+  "tags": [
+    "Minecraft",
+    "Future Adventure",
+    "MBTI",
+    "Personality",
+    "Gaming"
+  ],
+  "description": "Answer 12 questions to discover what your future Minecraft life will look like!",
+  "questions": [
+    {
+      "text": "When you spawn in a brand-new Minecraft world, your first move is to...",
+      "options": [
+        {
+          "text": "Head straight to the nearest village to trade with villagers and gather local supplies",
+          "score": "E"
+        },
+        {
+          "text": "Find a hidden cave entrance to build a temporary shelter away from prying eyes",
+          "score": "I"
+        },
+        {
+          "text": "Chop down 3 stacks of wood and mine 1 stack of stone to craft basic tools and a small hut",
+          "score": "S"
+        },
+        {
+          "text": "Climb the tallest mountain to map out the terrain and plan your long-term base location",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You stumble upon a mysterious Nether portal in the woods. What do you do next?",
+      "options": [
+        {
+          "text": "Set up traps around the portal and build a safe waiting area before entering",
+          "score": "J"
+        },
+        {
+          "text": "Grab your sword and potions then jump right in to explore the unknown",
+          "score": "P"
+        },
+        {
+          "text": "Invite a friend to come with you, sharing resources and watching each other’s backs",
+          "score": "F"
+        },
+        {
+          "text": "Research the Nether’s resource distribution first to create a detailed collection list",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your base is attacked by a horde of creepers and zombies. How do you respond?",
+      "options": [
+        {
+          "text": "Use your pre-built redstone defense system to automatically repel the monsters",
+          "score": "S"
+        },
+        {
+          "text": "Lead the monsters away from your base into a ravine where they’ll fall to their deaths",
+          "score": "N"
+        },
+        {
+          "text": "Yell for nearby players to help you fight off the horde together",
+          "score": "E"
+        },
+        {
+          "text": "Hide in your reinforced basement until the attack passes, then repair the damage later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You want to add something new to your base. What do you choose?",
+      "options": [
+        {
+          "text": "A sprawling botanical garden with rare flowers from every biome",
+          "score": "F"
+        },
+        {
+          "text": "A fully automated iron farm that produces unlimited resources 24/7",
+          "score": "T"
+        },
+        {
+          "text": "A series of secret tunnels connecting your base to nearby biomes for quick travel",
+          "score": "P"
+        },
+        {
+          "text": "A structured storage room with labeled chests for every type of item",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You meet a player you’ve never seen before in the world. What’s your first reaction?",
+      "options": [
+        {
+          "text": "Wave and offer to show them your best redstone contraptions",
+          "score": "E"
+        },
+        {
+          "text": "Continue working on your project but keep an eye on their movements from afar",
+          "score": "I"
+        },
+        {
+          "text": "Trade them some extra resources you’ve collected for items you need",
+          "score": "S"
+        },
+        {
+          "text": "Propose a joint adventure to find the End City together",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your crops are suddenly destroyed by a storm. How do you handle it?",
+      "options": [
+        {
+          "text": "Implant new seeds immediately using your backup crop storage and set up a rain shelter",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with cross-breeding different crop types to create a storm-resistant variant",
+          "score": "P"
+        },
+        {
+          "text": "Ask other players if they can spare some extra food to tide you over",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the storm patterns using past data to build a more protective farm structure",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You have a free afternoon in-game. What do you spend it doing?",
+      "options": [
+        {
+          "text": "Explore a nearby jungle to find hidden temples and rare loot",
+          "score": "N"
+        },
+        {
+          "text": "Fishing by the lake to stock up on food and enchanted books",
+          "score": "S"
+        },
+        {
+          "text": "Host a small party in your base with friends, showing off your latest builds",
+          "score": "E"
+        },
+        {
+          "text": "Work on a personal art project like building a detailed statue in your courtyard",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You need to cross a dangerous ocean to reach a new biome. What do you do?",
+      "options": [
+        {
+          "text": "Build a sturdy boat with a chest full of supplies and set off immediately",
+          "score": "T"
+        },
+        {
+          "text": "Craft a potion of water breathing and swim underwater to avoid sea monsters",
+          "score": "F"
+        },
+        {
+          "text": "Wait for calm weather and follow the coast line to stay close to land",
+          "score": "J"
+        },
+        {
+          "text": "Build a floating bridge using random materials you find along the way",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You find a rare enchanted book but don’t have a use for it. What do you do?",
+      "options": [
+        {
+          "text": "Give it to a new player who might need it more than you",
+          "score": "F"
+        },
+        {
+          "text": "Sell it to a villager for a large amount of emeralds to upgrade your tools",
+          "score": "T"
+        },
+        {
+          "text": "Keep it in a special display case in your base as a collectible",
+          "score": "I"
+        },
+        {
+          "text": "Trade it with another player for a different enchanted book you’ve been wanting",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You’re planning a trip to the End. What’s your main goal?",
+      "options": [
+        {
+          "text": "Defeat the Ender Dragon to complete the main game storyline",
+          "score": "S"
+        },
+        {
+          "text": "Collect as many shulker boxes as possible to expand your storage capacity",
+          "score": "N"
+        },
+        {
+          "text": "Bring a group of friends to share the experience and celebrate together",
+          "score": "E"
+        },
+        {
+          "text": "Explore the End Cities alone to find rare Elytra without distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your base is running out of storage space. How do you solve it?",
+      "options": [
+        {
+          "text": "Build a multi-level storage tower with color-coded chests for each item category",
+          "score": "J"
+        },
+        {
+          "text": "Create a redstone sorting system that automatically organizes items into the right chests",
+          "score": "P"
+        },
+        {
+          "text": "Discard any items you haven’t used in the last month to free up space",
+          "score": "T"
+        },
+        {
+          "text": "Ask friends if they can store some of your extra items in their bases",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "After playing Minecraft for years, what’s your ultimate future goal?",
+      "options": [
+        {
+          "text": "Build the most detailed and realistic medieval castle ever created in the game",
+          "score": "N"
+        },
+        {
+          "text": "Perfect every aspect of your survival base to be completely self-sufficient",
+          "score": "S"
+        },
+        {
+          "text": "Create a large community server where players can collaborate on massive projects",
+          "score": "E"
+        },
+        {
+          "text": "Master every redstone contraption and create a fully automated world",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Methodical Base Manager",
+      "description": "Your future Minecraft life revolves around structure and efficiency. You’ll build a meticulously organized base with automated farms, categorized storage systems, and efficient resource pipelines. Every task follows a strict schedule—you prioritize stability and functionality, ensuring your world runs like a well-oiled machine. You’ll focus on long-term sustainability, rarely taking unnecessary risks but always being prepared for any in-game challenge.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Community Caretaker",
+      "description": "You’ll become the heart of your Minecraft community, always ready to help new players with resources, build them starter homes, and organize group events. Your base will feel like a warm, welcoming hub with shared gardens and cozy common areas. You prioritize supporting others, remembering every player’s needs and going out of your way to make everyone feel included in the world.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Visionary World Builder",
+      "description": "Your future Minecraft journey is about creating something meaningful. You’ll design entire biomes from scratch, weaving stories into every build—from a hidden library filled with ancient lore to a sanctuary for rare mobs. You’ll work quietly behind the scenes, crafting worlds that inspire others, and your legacy will be the emotional impact your creations leave on every player who visits.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Endgame Architect",
+      "description": "You’ll map out your entire Minecraft journey years in advance, from the first wooden pickaxe to the final Ender Dragon defeat. Your base will be a fortress of logic, with hidden redstone traps, teleportation networks, and optimized resource farms. You’ll focus on achieving the most ambitious goals, using your strategic mind to overcome every obstacle and master every aspect of the game.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Resourceful Explorer",
+      "description": "Your future is filled with spontaneous adventures—you’ll explore every cave, jungle temple, and ocean monument without a plan, relying on your quick thinking to get out of tight spots. You’re a master of improvisation, using whatever resources you find to craft tools and shelters on the fly. You thrive on the thrill of discovery, never staying in one place for too long.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Wanderer",
+      "description": "You’ll travel the Minecraft world creating small, beautiful art pieces in every biome—from flower crowns for villagers to detailed murals on cave walls. Your base will be a cozy, whimsical space filled with handcrafted furniture and rare plants. You prioritize beauty and joy in every moment, taking your time to appreciate the world’s small wonders instead of chasing big goals.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dreamy Storyteller",
+      "description": "Your Minecraft world will be a canvas for your imagination, filled with magical builds like floating castles and enchanted forests. You’ll create intricate backstories for every mob you encounter and build hidden sanctuaries where you can escape from the chaos of the world. Your future is about living out your wildest fantasies, making the game a reflection of your inner world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Redstone Innovator",
+      "description": "You’ll spend your future Minecraft days experimenting with complex redstone contraptions, pushing the game’s limits to create things no one has ever seen before. From automated item delivery systems to AI-like mob defenses, every project is a puzzle to solve. You’re constantly tinkering and improving your creations, driven by curiosity and a love for problem-solving.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Bold Adventurer",
+      "description": "Your future Minecraft life is all about excitement and risk-taking. You’ll be the first to jump into the Nether without armor, raid strongholds solo, and explore the deepest oceans. You thrive on adrenaline, always looking for the next big challenge to conquer. You’ll make friends quickly in every biome, and your stories of daring escapes will become legendary in the community.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Vibrant Social Butterfly",
+      "description": "You’ll turn every in-game moment into a party—hosting treasure hunts, building contests, and bonfires with friends. Your base will be a lively hub filled with colorful decorations and interactive games. You love being the center of attention, and your future is about creating joyful memories with others, making every day in Minecraft feel like a celebration.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Quest Leader",
+      "description": "Your future Minecraft journey is filled with grand quests and big ideas. You’ll rally friends to join you on adventures to find the End City, build a massive community castle, or create a new biome from scratch. You’re full of energy and inspiration, always coming up with new projects to keep everyone excited. Your passion is contagious, and you’ll lead others to achieve things they never thought possible.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Creative Trickster",
+      "description": "You’ll spend your future Minecraft days pranking friends with clever redstone traps, building absurdly creative bases like upside-down houses, and inventing new game modes. You’re always challenging the status quo, using your quick wit to come up with hilarious and innovative ideas. Your world is never boring, and you’ll keep everyone on their toes with your unexpected antics.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Efficient Server Administrator",
+      "description": "Your future Minecraft life is about order and productivity. If you’re on a server, you’ll create clear rules and systems to keep everything running smoothly. You’ll build massive, organized farms that supply the entire community, and you’ll lead group projects to completion on time. You’re a natural leader, and others look to you for guidance and stability in the world.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Welcoming Hub Host",
+      "description": "You’ll create the most inviting base in the Minecraft world, with open doors for every player. You’ll host weekly potlucks, teach new players how to craft tools, and organize community events that bring everyone together. Your future is about making others feel at home, and your base will become a safe haven where everyone feels valued and supported.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Community Leader",
+      "description": "Your future Minecraft journey is about lifting others up. You’ll mentor new players, help them find their passion in the game, and lead community projects that benefit everyone. You have a gift for inspiring others to be their best, and your vision for a collaborative, kind Minecraft world will become a reality. Your legacy is the positive impact you have on every player you meet.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Ambitious World Conqueror",
+      "description": "Your future Minecraft goal is to conquer every aspect of the game. You’ll build a global empire of bases spanning every biome, create a powerful army of iron golems to protect your territory, and lead massive raids on the Nether and End. You’re a strategic leader with a clear vision, and you’ll stop at nothing to achieve your grandest ambitions in the world.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

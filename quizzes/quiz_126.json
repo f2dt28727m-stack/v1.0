@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Fortnite Playstyle Type Are You?",
+  "category": "which",
+  "tags": [
+    "Fortnite",
+    "Gaming",
+    "Playstyle",
+    "MBTI",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your Fortnite playstyle type!",
+  "questions": [
+    {
+      "text": "When you drop into a new Fortnite match, your first priority is to...",
+      "options": [
+        {
+          "text": "Wander into unexplored terrain to hunt for secret chests and hidden loot caches",
+          "score": "N"
+        },
+        {
+          "text": "Head straight to a crowded landing zone to challenge other players immediately",
+          "score": "E"
+        },
+        {
+          "text": "Settle in a quiet corner to loot basic weapons and shields without distractions",
+          "score": "I"
+        },
+        {
+          "text": "Target marked resource nodes to gather the most useful supplies efficiently",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your squad is arguing over a strategy, you...",
+      "options": [
+        {
+          "text": "Focus on which plan will lead to the quickest elimination of enemy teams",
+          "score": "T"
+        },
+        {
+          "text": "Suggest a compromise that keeps everyone’s feelings and input in mind",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the original plan you all agreed on at the start of the match",
+          "score": "J"
+        },
+        {
+          "text": "Propose adapting the plan based on real-time changes in the storm or enemy movements",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you find a rare weapon, you...",
+      "options": [
+        {
+          "text": "Give it to your squad mate who needs it most to keep the team strong",
+          "score": "F"
+        },
+        {
+          "text": "Keep it for yourself to take on high-stakes enemy encounters",
+          "score": "T"
+        },
+        {
+          "text": "Test it out immediately on nearby wildlife to learn its damage output",
+          "score": "S"
+        },
+        {
+          "text": "Save it for a surprise attack on an unsuspecting enemy squad later",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "During the final circle, you prefer to...",
+      "options": [
+        {
+          "text": "Build a hidden bunker to wait out enemies and strike only when they’re distracted",
+          "score": "I"
+        },
+        {
+          "text": "Charge into the center and engage every visible enemy to claim victory quickly",
+          "score": "E"
+        },
+        {
+          "text": "Follow the storm’s edge and pick off enemies as they’re forced to move",
+          "score": "J"
+        },
+        {
+          "text": "Adapt your position constantly based on enemy noise and map movements",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When your squad mate gets knocked down, your first reaction is to...",
+      "options": [
+        {
+          "text": "Assess the enemy’s position and plan a precise rescue route",
+          "score": "T"
+        },
+        {
+          "text": "Rush in immediately to pull them up before they’re eliminated",
+          "score": "F"
+        },
+        {
+          "text": "Use pre-built structures to create a safe zone for the rescue",
+          "score": "S"
+        },
+        {
+          "text": "Distract the enemy with unexpected traps or fake movements to create an opening",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you spend your downtime between matches?",
+      "options": [
+        {
+          "text": "Practice building complex structures to perfect your speed and precision",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with unusual weapon combinations to find new meta hacks",
+          "score": "P"
+        },
+        {
+          "text": "Chat with friends about their favorite match moments and plan future squads",
+          "score": "E"
+        },
+        {
+          "text": "Watch strategy guides to learn advanced looting and positioning tricks",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you encounter an unexpected enemy ambush, you...",
+      "options": [
+        {
+          "text": "Use your surrounding terrain to hide and wait for the enemy to move on",
+          "score": "I"
+        },
+        {
+          "text": "Call out enemy positions to your squad and coordinate a counter-attack",
+          "score": "E"
+        },
+        {
+          "text": "Build quick cover and return fire with your most reliable weapon",
+          "score": "S"
+        },
+        {
+          "text": "Use a surprise launchpad or smoke grenade to escape and reposition unexpectedly",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a loadout, you prioritize...",
+      "options": [
+        {
+          "text": "Weapons that work well in every possible combat scenario",
+          "score": "J"
+        },
+        {
+          "text": "A mix of niche weapons to keep your playstyle unpredictable",
+          "score": "P"
+        },
+        {
+          "text": "Weapons that let you support your squad by reviving and shielding teammates",
+          "score": "F"
+        },
+        {
+          "text": "Weapons that maximize your damage output to eliminate enemies fast",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re most excited to play when the game adds...",
+      "options": [
+        {
+          "text": "New, unmarked secret areas with exclusive loot",
+          "score": "N"
+        },
+        {
+          "text": "Balanced updates to existing weapons and resources",
+          "score": "S"
+        },
+        {
+          "text": "Team-based game modes that require coordinated play",
+          "score": "E"
+        },
+        {
+          "text": "Solo challenge modes that test individual skill",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When you win a match, you celebrate by...",
+      "options": [
+        {
+          "text": "Posting your victory clip to share with your gaming friends",
+          "score": "E"
+        },
+        {
+          "text": "Taking a screenshot of your stats to track your progress",
+          "score": "I"
+        },
+        {
+          "text": "Analyzing your match to identify small mistakes you can fix next time",
+          "score": "T"
+        },
+        {
+          "text": "Messaging your squad to compliment everyone’s contributions to the win",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When building during combat, you...",
+      "options": [
+        {
+          "text": "Use pre-planned structure patterns that you know work well under pressure",
+          "score": "J"
+        },
+        {
+          "text": "Improvise structures based on the enemy’s movement and terrain",
+          "score": "P"
+        },
+        {
+          "text": "Build simple, functional walls and ramps to gain high ground quickly",
+          "score": "S"
+        },
+        {
+          "text": "Create elaborate trap systems to catch enemies off guard",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck in a tight spot with low health, you...",
+      "options": [
+        {
+          "text": "Use a healing item immediately while scanning for enemy threats",
+          "score": "T"
+        },
+        {
+          "text": "Run to the nearest cover and heal before making any moves",
+          "score": "F"
+        },
+        {
+          "text": "Distract enemies with a fake retreat then heal in a hidden spot",
+          "score": "E"
+        },
+        {
+          "text": "Crouch and move slowly through tall grass to avoid detection while healing",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Methodical Looter (ISTJ)",
+      "description": "As an ISTJ, you’re the squad’s reliable foundation. You stick to proven looting routes, prioritize essential supplies, and never deviate from a plan without clear reason. Your calm under pressure and attention to detail make you the go-to player for securing objectives and keeping teammates grounded during chaotic matches.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Supportive Guardian (ISFJ)",
+      "description": "As an ISFJ, your focus is always on your squad. You prioritize healing items and shield potions, jump to revive teammates at the first chance, and build safe zones for your team to regroup. Your selfless nature and steady presence turn tight matches into victories by keeping everyone in the game longer.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Quiet Strategist (INFJ)",
+      "description": "As an INFJ, you’re the match’s hidden mastermind. You study enemy patterns, plan ambushes from unseen positions, and share subtle cues with your squad to outmaneuver opponents. You prefer to work behind the scenes, using your intuition to predict enemy moves and guide your team to unexpected wins.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Tactical Innovator (INTJ)",
+      "description": "As an INTJ, you redefine the meta with every match. You experiment with unconventional trap combinations, map out long-term positioning strategies, and adapt your playstyle to exploit enemy weaknesses. Your ability to think three steps ahead makes you a formidable opponent even in the most high-stakes final circles.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptive Scavenger (ISTP)",
+      "description": "As an ISTP, you thrive on improvisation. You turn random loot into deadly loadouts, build quick structures to escape tight spots, and switch between long-range and close-quarters combat in seconds. Your ability to think on your feet makes you unpredictable and deadly in fast-paced skirmishes.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Creative Builder (ISFP)",
+      "description": "As an ISFP, you turn the map into your canvas. You build elaborate forts with hidden escape routes, use decorative structures to confuse enemies, and prioritize aesthetically pleasing builds that still serve a tactical purpose. Your unique approach to combat catches opponents off guard every time.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Imaginative Trickster (INFP)",
+      "description": "As an INFP, you play the game like a story. You seek out hidden lore locations, use stealth and distractions to avoid unnecessary fights, and prefer to win by outsmarting rather than outgunning enemies. Your creative problem-solving turns even the most hopeless matches into memorable adventures.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Unpredictable Maverick (INTP)",
+      "description": "As an INTP, you break every rule to win. You test glitchy movement tricks, use weapon combinations no one else dares, and change your playstyle every match to keep enemies guessing. Your curiosity and love for experimentation make you a wildcard that no squad can prepare for.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Frontline Brawler (ESTP)",
+      "description": "As an ESTP, you’re the first into every fight. You rush hot spots, engage enemies head-on, and use fast builds to gain high ground in seconds. Your fearless attitude and quick reflexes make you the squad’s main damage dealer, turning every skirmish into an adrenaline-fueled win.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Energetic Entertainer (ESFP)",
+      "description": "As an ESFP, you play for the thrill. You use emotes to taunt enemies mid-fight, experiment with silly loadouts for laughs, and turn every match into a party with your squad. Your infectious energy keeps morale high, and your quick reactions still let you pull off unexpected clutch wins.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Charismatic Leader (ENFP)",
+      "description": "As an ENFP, you inspire your squad to greatness. You hype up teammates during tough matches, suggest bold, risky strategies that pay off, and turn every loss into a lesson for future wins. Your optimistic attitude and creative ideas make you the heart and soul of any squad.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Bold Innovator (ENTP)",
+      "description": "As an ENTP, you invent new playstyles every week. You popularize underused weapons, create ambush tactics that go viral, and love to debate meta strategies with friends. Your ability to think outside the box makes you a trendsetter in the Fortnite community.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Commanding Tactician (ESTJ)",
+      "description": "As an ESTJ, you lead your squad with authority. You assign clear roles, enforce looting rules to keep everyone geared, and stick to structured strategies that maximize efficiency. Your no-nonsense approach and ability to make quick decisions turn disorganized squads into well-oiled winning machines.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Team Coordinator (ESFJ)",
+      "description": "As an ESFJ, you keep your squad running smoothly. You check in on teammate’s gear, remind everyone to grab healing items, and coordinate revues and pushes to keep everyone safe. Your caring nature and organizational skills make you the glue that holds any squad together through tough matches.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Motivational General (ENFJ)",
+      "description": "As an ENFJ, you turn average squads into champions. You recognize each teammate’s strengths, assign roles that play to their skills, and deliver rousing speeches before big fights. Your ability to bring out the best in others makes you a legendary leader in every match you join.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Dominant Strategist (ENTJ)",
+      "description": "As an ENTJ, you don’t just win matches—you dominate them. You map out the entire match before dropping, control key map points to restrict enemy movement, and eliminate opponents with precise, calculated strikes. Your relentless drive and strategic vision make you one of the most feared players on the server.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

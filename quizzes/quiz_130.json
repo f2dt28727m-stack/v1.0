@@ -1,0 +1,349 @@
+{
+  "quizId": 1001,
+  "title": "What Brawl Stars Type Are You?",
+  "category": "type",
+  "tags": [
+    "Brawl Stars",
+    "Mobile Game",
+    "Playstyle",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your unique Brawl Stars playstyle type!",
+  "questions": [
+    {
+      "text": "When you join a new Brawl Stars arena, your first move is to...",
+      "options": [
+        {
+          "text": "Hang back to study other players' movements and map layout before acting",
+          "score": "I"
+        },
+        {
+          "text": "Rush to the nearest power-up spawn to boost your combat strength right away",
+          "score": "S"
+        },
+        {
+          "text": "Team up with nearby players, exchange quick tips, and push toward the objective together",
+          "score": "E"
+        },
+        {
+          "text": "Brainstorm unexpected strategies, like using terrain to set up ambushes later",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your teammate makes a risky move that backfires mid-match. You react by...",
+      "options": [
+        {
+          "text": "Adjust your play on the fly to cover their mistake and turn the tide",
+          "score": "P"
+        },
+        {
+          "text": "Focus on calming them down and encouraging them to keep trying",
+          "score": "F"
+        },
+        {
+          "text": "Analyze what went wrong and suggest a concrete fix for the next round",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your pre-planned strategy to minimize further losses",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a brawler for a new game mode, you prioritize...",
+      "options": [
+        {
+          "text": "Pick someone you’ve mastered to execute proven winning tactics consistently",
+          "score": "S"
+        },
+        {
+          "text": "Experiment with a brawler you’ve never used to explore fresh play possibilities",
+          "score": "N"
+        },
+        {
+          "text": "Select a brawler that complements your team’s current composition perfectly",
+          "score": "F"
+        },
+        {
+          "text": "Go with a brawler that gives you the most direct path to securing the objective",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a close loss, you spend the next few minutes...",
+      "options": [
+        {
+          "text": "Chat with your teammates to debrief and laugh off the defeat together",
+          "score": "E"
+        },
+        {
+          "text": "Reflect alone on the key moments that led to the loss and note lessons learned",
+          "score": "I"
+        },
+        {
+          "text": "Jot down specific adjustments you can make to your brawler’s loadout for next time",
+          "score": "J"
+        },
+        {
+          "text": "Jump into another match immediately to try out a random new approach",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a team battle where the objective is to hold a zone, you prefer to...",
+      "options": [
+        {
+          "text": "Take a defensive position, using obstacles to block incoming attacks and protect the zone",
+          "score": "S"
+        },
+        {
+          "text": "Roam around the perimeter, looking for opportunities to flank unsuspecting enemies",
+          "score": "N"
+        },
+        {
+          "text": "Coordinate with teammates to rotate positions and cover each other’s blind spots",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the most efficient way to control the zone with minimal resource waste",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You unlock a new rare brawler. Your first step is to...",
+      "options": [
+        {
+          "text": "Watch pro players’ gameplay clips to copy their optimal strategies and combos",
+          "score": "S"
+        },
+        {
+          "text": "Spend hours experimenting with different loadouts to create your own unique playstyle",
+          "score": "N"
+        },
+        {
+          "text": "Invite friends to practice with you and get their feedback on your new brawler",
+          "score": "E"
+        },
+        {
+          "text": "Test the brawler in casual matches alone to understand its core mechanics first",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When the match timer is winding down and you’re trailing by a small margin, you...",
+      "options": [
+        {
+          "text": "Stick to your structured plan, doubling down on your original objective strategy",
+          "score": "J"
+        },
+        {
+          "text": "Throw caution to the wind and try a bold, last-ditch trick to seize victory",
+          "score": "P"
+        },
+        {
+          "text": "Rally your teammates with encouraging shouts to give it their all for the final push",
+          "score": "F"
+        },
+        {
+          "text": "Quickly analyze the enemy’s weak points and target the most vulnerable player",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re paired with random teammates in a ranked match. You choose to...",
+      "options": [
+        {
+          "text": "Take charge and assign clear roles to everyone to ensure coordinated play",
+          "score": "T"
+        },
+        {
+          "text": "Check each teammate’s profile and adjust your play to match their strengths",
+          "score": "F"
+        },
+        {
+          "text": "Play flexibly, adapting to whatever the team needs in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Follow a tried-and-true solo strategy that works regardless of team dynamics",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When you discover a hidden shortcut on a new map, you...",
+      "options": [
+        {
+          "text": "Share it with your clan members right away to help everyone gain an edge",
+          "score": "E"
+        },
+        {
+          "text": "Keep it to yourself and use it to surprise enemies in future matches",
+          "score": "I"
+        },
+        {
+          "text": "Use it consistently to cut down your travel time to key objectives",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorm ways to combine the shortcut with other tactics for maximum impact",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your clan wants to host a friendly tournament. You offer to...",
+      "options": [
+        {
+          "text": "Organize the schedule, rules, and bracket to keep everything running smoothly",
+          "score": "J"
+        },
+        {
+          "text": "Design fun bonus challenges to make the tournament feel more engaging for everyone",
+          "score": "P"
+        },
+        {
+          "text": "Reach out to other clans to invite more players and boost participation",
+          "score": "E"
+        },
+        {
+          "text": "Create a post-tournament feedback form to help the clan improve future events",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stuck on a tough ranked level for days, you...",
+      "options": [
+        {
+          "text": "Talk to other players about their strategies and ask for advice",
+          "score": "F"
+        },
+        {
+          "text": "Analyze your past matches to identify specific mistakes and fix them one by one",
+          "score": "T"
+        },
+        {
+          "text": "Switch to a completely different brawler or game mode to refresh your mindset",
+          "score": "P"
+        },
+        {
+          "text": "Double down on your main brawler, practicing its skills until you master the level",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you win a hard-fought match, you most enjoy...",
+      "options": [
+        {
+          "text": "Celebrating with your teammates, sending emojis and sharing highlights",
+          "score": "E"
+        },
+        {
+          "text": "Savoring the quiet satisfaction of achieving your goal through careful planning",
+          "score": "I"
+        },
+        {
+          "text": "Reflecting on how your unique tactics outsmarted the enemy team",
+          "score": "N"
+        },
+        {
+          "text": "Noting how your consistent, steady play led directly to the win",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactical Trickster",
+      "description": "You’re Brawl Stars’ ultimate wildcard, always cooking up unorthodox tactics like using bushes to ambush unsuspecting foes or combining brawler abilities in never-before-seen ways. You thrive on outsmarting opponents and love debating wild strategy ideas with your clan. You’re the ENTP—innovative, witty, and always one step ahead of the meta.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Rallying Leader",
+      "description": "You’re the heart of your Brawl Stars team, constantly motivating teammates to push forward even when the odds are stacked against you. You remember everyone’s favorite brawlers, adjust your play to lift others up, and turn chaotic matches into coordinated wins. You’re the ENFJ—empathetic, charismatic, and the glue that holds any clan together.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Commander",
+      "description": "You treat every Brawl Stars match like a military operation, mapping out objectives, assigning roles, and executing plans with precision. You analyze enemy patterns in seconds, adapt strategies mid-match, and lead your team to victory with unshakable focus. You’re the ENTJ—decisive, analytical, and the ultimate ranked mode powerhouse.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Playful Innovator",
+      "description": "You approach Brawl Stars with boundless creativity, experimenting with every brawler loadout and weird strategy you can think of. You love mixing game modes, organizing silly clan challenges, and turning serious matches into fun adventures. You’re the ENFP—optimistic, imaginative, and always finding new ways to make the game feel fresh.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Silent Tactician",
+      "description": "You spend Brawl Stars matches quietly observing every detail—enemy cooldowns, map terrain, teammate patterns—then strike with perfectly calculated moves. You prefer solo play or small clan groups, where you can focus on refining your meta-breaking strategies without distractions. You’re the INTP—curious, logical, and a master of hidden game mechanics.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Empathetic Strategist",
+      "description": "You intuitively understand your teammates’ strengths and weaknesses, adjusting your Brawl Stars play to complement theirs perfectly. You excel at reading enemy intentions before they act, using that insight to protect your team and seize objectives. You’re the INFJ—insightful, compassionate, and a secret weapon in ranked matches.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Meta Architect",
+      "description": "You’ve spent hours dissecting Brawl Stars patch notes, analyzing win rates, and building the most optimized brawler loadouts in your clan. You stick to long-term strategies, avoid impulsive plays, and climb ranked levels with surgical precision. You’re the INTJ—strategic, independent, and the go-to for mastering the current meta.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Gentle Maverick",
+      "description": "You play Brawl Stars on your own terms, favoring underrated brawlers and cozy game modes like Brawl Ball. You avoid toxic matches, focus on personal growth, and find joy in small wins like finally mastering a tricky ability. You’re the INFP—idealistic, creative, and proof that you don’t need to play aggressively to have fun.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The High-Energy Showstopper",
+      "description": "You’re the life of every Brawl Stars match, spamming playful emojis, rushing into battles with reckless abandon, and turning every win into a celebration. You love team modes like Gem Grab, where you can banter with friends and show off your flashy brawler skins. You’re the ESFP—energetic, spontaneous, and the clan’s most fun player to team up with.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Supportive Champion",
+      "description": "You prioritize your teammates above all else in Brawl Stars, healing them, blocking attacks, and giving up power-ups to help others shine. You remember every clan member’s birthday, organize friendly scrimmages, and make everyone feel welcome. You’re the ESFJ—warm, reliable, and the backbone of any thriving Brawl Stars community.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Adaptive Brawler",
+      "description": "You thrive in chaotic Brawl Stars matches, adapting your playstyle to every enemy move in real time. You love jumping into high-stakes battles, using quick reflexes to dodge attacks and secure last-second objectives. You’re the ESTP—bold, practical, and the ultimate clutch player when the timer is winding down.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Consistent Winner",
+      "description": "You stick to proven Brawl Stars strategies, practicing the same brawler loadout until you can execute it flawlessly. You keep your clan organized with clear rules, schedule regular scrimmages, and climb ranked levels steadily. You’re the ESTJ—responsible, structured, and the player everyone can count on to deliver consistent results.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Quiet Virtuoso",
+      "description": "You’re a master of Brawl Stars’ most niche brawlers, turning underrated characters into unstoppable forces with your precise skill. You prefer quiet game modes like Solo Showdown, where you can focus on your technique without distractions. You’re the ISFP—artistic, patient, and a hidden gem who can surprise even the best players.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Protective Guardian",
+      "description": "You spend every Brawl Stars match watching your teammates’ backs, blocking enemy attacks, and sharing power-ups to keep everyone safe. You remember every small detail about your clan members’ playstyles, always being the first to offer help or encouragement. You’re the ISFJ—caring, loyal, and the most trusted teammate in any match.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Mechanical Mastermind",
+      "description": "You have an innate understanding of Brawl Stars brawler mechanics, pulling off perfect combos and trick shots without thinking twice. You love tinkering with loadouts, testing every gadget and star power to find the most efficient setup. You’re the ISTP—hands-on, analytical, and the player who can turn any brawler into a winning machine.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Steadfast Strategist",
+      "description": "You approach every Brawl Stars match with unwavering consistency, following a structured plan that you’ve refined over dozens of games. You prioritize completing objectives over flashy kills, and your steady play ensures your team rarely makes reckless mistakes. You’re the ISTJ—reliable, detail-oriented, and the cornerstone of any successful ranked team.",
+      "mbti": "ISTJ"
+    }
+  ]
+}
