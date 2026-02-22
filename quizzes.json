@@ -2203,6 +2203,678 @@
         "🎬",
         "🍿"
       ]
+    },
+    {
+      "id": "quiz_164",
+      "title": "Which BLACKPINK Member Is Your Perfect Match?",
+      "category": "match",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Member Match",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_165",
+      "title": "Which BLACKPINK Personality Are You?",
+      "category": "which",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "K-pop Idol"
+      ]
+    },
+    {
+      "id": "quiz_166",
+      "title": "Which BLACKPINK Member's Energy Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Member",
+        ",\n ",
+        "Music",
+        ",\n ",
+        "MBTI"
+      ]
+    },
+    {
+      "id": "quiz_167",
+      "title": "How BLACKPINK Are You? Uncover Your K-pop Star Essence",
+      "category": "how",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "K-pop Idol"
+      ]
+    },
+    {
+      "id": "quiz_168",
+      "title": "What's Your Hidden Trait Inspired by BLACKPINK?",
+      "category": "hidden",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Hidden Trait",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI"
+      ]
+    },
+    {
+      "id": "quiz_169",
+      "title": "What Would You Do? Discover Your BLACKPINK Personality",
+      "category": "whatwould",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "K-pop Idol"
+      ]
+    },
+    {
+      "id": "quiz_170",
+      "title": "Which BLACKPINK Vibe Matches Your Personality?",
+      "category": "pick",
+      "tags": [
+        "BLACKPINK",
+        ",\n ",
+        "K-pop",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Vibe"
+      ]
+    },
+    {
+      "id": "quiz_171",
+      "title": "Which Harry Potter Character Is Your Soulmate?",
+      "category": "match",
+      "tags": [
+        "Harry Potter",
+        ",\n ",
+        "Soulmate",
+        ",\n ",
+        "Character Match",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_172",
+      "title": "Which Harry Potter Character Are You?",
+      "category": "which",
+      "tags": [
+        "Harry Potter",
+        ",\n ",
+        "Wizarding World",
+        ",\n ",
+        "Character",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_173",
+      "title": "Which Harry Potter Character Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Harry Potter",
+        ",\n ",
+        "Hogwarts",
+        ",\n ",
+        "Wizarding World",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_174",
+      "title": "What's Your Hidden Harry Potter Trait?",
+      "category": "hidden",
+      "tags": [
+        "Harry Potter",
+        ",\n ",
+        "Hidden Trait",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Wizarding World"
+      ]
+    },
+    {
+      "id": "quiz_175",
+      "title": "What Would Your Harry Potter Persona Be?",
+      "category": "whatwould",
+      "tags": [
+        "Harry Potter",
+        ",\n ",
+        "Hogwarts",
+        ",\n ",
+        "Wizarding World",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_176",
+      "title": "Which Harry Potter Character Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Harry Potter",
+        ",\n ",
+        "Hogwarts",
+        ",\n ",
+        "Wizarding World",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_177",
+      "title": "Which Travel Personality Are You?",
+      "category": "which",
+      "tags": [
+        "Travel",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Travel Style",
+        ",\n ",
+        "Wanderlust"
+      ]
+    },
+    {
+      "id": "quiz_178",
+      "title": "Which Travel Style Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Travel",
+        ",\n ",
+        "Travel Style",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "quiz_179",
+      "title": "How Adventurous Are You in Travel?",
+      "category": "how",
+      "tags": [
+        "Travel",
+        ",\n ",
+        "Adventure",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Travel Style"
+      ]
+    },
+    {
+      "id": "quiz_180",
+      "title": "What's Your Hidden Travel Personality Trait?",
+      "category": "hidden",
+      "tags": [
+        "Travel",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Hidden Trait",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Travel Style"
+      ]
+    },
+    {
+      "id": "quiz_181",
+      "title": "What Would You Do: Your Travel Personality",
+      "category": "whatwould",
+      "tags": [
+        "Travel",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Travel Habits",
+        ",\n ",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "quiz_182",
+      "title": "Which Travel Style Matches Your Personality?",
+      "category": "pick",
+      "tags": [
+        "Travel",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Travel Preferences",
+        ",\n ",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "quiz_183",
+      "title": "Which Disney Character Is Your Perfect Soulmate?",
+      "category": "match",
+      "tags": [
+        "Disney",
+        ",\n ",
+        "Soulmate",
+        ",\n ",
+        "Character",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_184",
+      "title": "Which Disney Character Are You?",
+      "category": "which",
+      "tags": [
+        "Disney",
+        ",\n ",
+        "Disney Character",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Animated"
+      ]
+    },
+    {
+      "id": "quiz_185",
+      "title": "Which Disney Character Type Are You?",
+      "category": "which",
+      "tags": [
+        "Disney",
+        ",\n ",
+        "Disney Character",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI"
+      ]
+    },
+    {
+      "id": "quiz_186",
+      "title": "How Disney Are You?",
+      "category": "how",
+      "tags": [
+        "Disney",
+        ",\n ",
+        "Disney Personality",
+        ",\n ",
+        "Disney Fan",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "How Disney"
+      ]
+    },
+    {
+      "id": "quiz_187",
+      "title": "What's Your Disney Personality?",
+      "category": "whatwould",
+      "tags": [
+        "Disney",
+        ",\n ",
+        "Disney Characters",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "What Would You Do"
+      ]
+    },
+    {
+      "id": "quiz_188",
+      "title": "Which Marvel Character Is Your Perfect Soulmate?",
+      "category": "match",
+      "tags": [
+        "Marvel",
+        ",\n ",
+        "Soulmate",
+        ",\n ",
+        "MCU",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_189",
+      "title": "Which Marvel Superhero Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Marvel",
+        ",\n ",
+        "Superhero",
+        ",\n ",
+        "MCU",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_190",
+      "title": "Which Marvel Superhero Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Marvel",
+        ",\n ",
+        "Superhero",
+        ",\n ",
+        "MCU",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality"
+      ]
+    },
+    {
+      "id": "quiz_191",
+      "title": "How Heroic Are You in the Marvel Universe?",
+      "category": "how",
+      "tags": [
+        "Marvel",
+        ",\n ",
+        "Heroic",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Superhero"
+      ]
+    },
+    {
+      "id": "quiz_192",
+      "title": "Discover Your Hidden Marvel Trait",
+      "category": "hidden",
+      "tags": [
+        "Marvel",
+        ",\n ",
+        "Hidden Trait",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MCU",
+        ",\n ",
+        "Character"
+      ]
+    },
+    {
+      "id": "quiz_193",
+      "title": "What Would You Do: Marvel Hero Instinct",
+      "category": "whatwould",
+      "tags": [
+        "Marvel",
+        ",\n ",
+        "Superhero",
+        ",\n ",
+        "MCU",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "WhatWould"
+      ]
+    },
+    {
+      "id": "quiz_194",
+      "title": "Which Career Path Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Career",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Career Path",
+        ",\n ",
+        "Professional Growth"
+      ]
+    },
+    {
+      "id": "quiz_195",
+      "title": "What's Your Career Personality Type?",
+      "category": "type",
+      "tags": [
+        "Career",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Career Type",
+        ",\n ",
+        "Work Style"
+      ]
+    },
+    {
+      "id": "quiz_196",
+      "title": "How Career-Mature Are You?",
+      "category": "how",
+      "tags": [
+        "Career",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Professional Growth",
+        ",\n ",
+        "Work Traits"
+      ]
+    },
+    {
+      "id": "quiz_197",
+      "title": "What's Your Hidden Career Trait?",
+      "category": "hidden",
+      "tags": [
+        "Career",
+        ",\n ",
+        "Hidden Trait",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Career Potential"
+      ]
+    },
+    {
+      "id": "quiz_198",
+      "title": "Your Future Career: What Path Awaits You?",
+      "category": "future",
+      "tags": [
+        "Career",
+        ",\n ",
+        "Future Career",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Career Path"
+      ]
+    },
+    {
+      "id": "quiz_199",
+      "title": "Which Food Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Food",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Cuisine",
+        ",\n ",
+        "Character"
+      ]
+    },
+    {
+      "id": "quiz_200",
+      "title": "Which Food Personality Type Are You?",
+      "category": "which",
+      "tags": [
+        "Food Personality",
+        ",\n ",
+        "Culinary Habits",
+        ",\n ",
+        "Eating Preferences",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Foodie"
+      ]
+    },
+    {
+      "id": "quiz_201",
+      "title": "How Food-Obsessed Are You?",
+      "category": "how",
+      "tags": [
+        "Food",
+        ",\n ",
+        "Culinary",
+        ",\n ",
+        "Foodie",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Eating Habits"
+      ]
+    },
+    {
+      "id": "quiz_202",
+      "title": "Discover Your Hidden Food Personality Trait",
+      "category": "hidden",
+      "tags": [
+        "Food",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Hidden Trait",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Culinary"
+      ]
+    },
+    {
+      "id": "quiz_203",
+      "title": "Which Love Language Type Are You?",
+      "category": "which",
+      "tags": [
+        "Love Language",
+        ",\n ",
+        "Relationships",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Emotions",
+        ",\n ",
+        "Intimacy"
+      ]
+    },
+    {
+      "id": "quiz_204",
+      "title": "What's Your Hidden Love Language Trait?",
+      "category": "hidden",
+      "tags": [
+        "Love Language",
+        ",\n ",
+        "Hidden Traits",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Emotions",
+        ",\n ",
+        "Relationships"
+      ]
+    },
+    {
+      "id": "quiz_205",
+      "title": "Which Mythical Creature Matches Your Personality?",
+      "category": "which",
+      "tags": [
+        "Mythical Creature",
+        ",\n ",
+        "Mythology",
+        ",\n ",
+        "MBTI",
+        ",\n ",
+        "Personality",
+        ",\n ",
+        "Fantasy"
+      ]
     }
   ]
 }
