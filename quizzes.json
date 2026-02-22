@@ -8,8 +8,7 @@
         "Disney",
         "Princess",
         "Personality",
-        "MBTI",
-        "16型人格"
+        "MBTI"
       ]
     },
     {
@@ -18,7 +17,6 @@
       "category": "match",
       "tags": [
         "Harry Potter",
-        "Wizarding World",
         "MBTI",
         "Personality"
       ]
@@ -29,8 +27,6 @@
       "category": "which_x",
       "tags": [
         "Marvel",
-        "Superhero",
-        "MCU",
         "MBTI",
         "Personality"
       ]
@@ -53,7 +49,7 @@
       "category": "which_x",
       "tags": [
         "Anime",
-        "Character",
+        "Character Match",
         "MBTI",
         "Personality",
         "Otaku"
@@ -65,7 +61,6 @@
       "category": "which_x",
       "tags": [
         "Harry Potter",
-        "Wizarding World",
         "MBTI",
         "Personality",
         "Hogwarts"
@@ -148,7 +143,7 @@
       "title": "Which Superhero Sidekick Are You?",
       "category": "which_x",
       "tags": [
-        "Superhero",
+        "Marvel",
         "Sidekick",
         "MBTI",
         "Personality",
@@ -332,7 +327,7 @@
         "Love",
         "Personality",
         "Relationship",
-        "浪漫"
+        "Romantic"
       ]
     },
     {
@@ -353,10 +348,9 @@
       "category": "hidden",
       "tags": [
         "Gummy Aesthetic",
-        "Personality Quiz",
+        "Personality",
         "Gummy Aura",
-        "Soft Vibe",
-        "Personality Test"
+        "Soft Vibe"
       ]
     },
     {
@@ -365,8 +359,7 @@
       "category": "which_x",
       "tags": [
         "Poetcore",
-        "Personality Quiz",
-        "Personality Test",
+        "Personality",
         "Aesthetic Personality",
         "Quiet Personality"
       ]
@@ -377,8 +370,7 @@
       "category": "which_x",
       "tags": [
         "Vamp Romantic",
-        "Personality Quiz",
-        "Personality Test",
+        "Personality",
         "Aesthetic Personality",
         "Mysterious"
       ]
@@ -389,8 +381,6 @@
       "category": "which_x",
       "tags": [
         "My Little Pony",
-        "MLP",
-        "Pony",
         "Friendship",
         "MBTI"
       ]
@@ -401,8 +391,6 @@
       "category": "which_x",
       "tags": [
         "My Little Pony",
-        "MLP",
-        "Pony",
         "Friendship",
         "MBTI"
       ]
@@ -413,8 +401,6 @@
       "category": "hidden",
       "tags": [
         "My Little Pony",
-        "MLP",
-        "Pony",
         "Friendship",
         "MBTI"
       ]
@@ -461,7 +447,7 @@
       "category": "which_x",
       "tags": [
         "Olivia Rodrigo",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "Pop Culture",
         "Music-Inspired"
@@ -486,7 +472,7 @@
       "tags": [
         "Olivia Rodrigo",
         "What Would You Do",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "Pop Culture"
       ]
@@ -511,7 +497,7 @@
         "Olivia Rodrigo",
         "Future Creative Path",
         "MBTI",
-        "Personality Test",
+        "Personality",
         "Creative Journey"
       ]
     },
@@ -534,7 +520,7 @@
       "tags": [
         "Euphoria",
         "TV Show",
-        "Soulmate",
+        "Soulmate Match",
         "MBTI",
         "Personality"
       ]
@@ -546,7 +532,7 @@
       "tags": [
         "Euphoria",
         "TV Drama",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "Character Alignment"
       ]
@@ -558,7 +544,7 @@
       "tags": [
         "Euphoria",
         "MBTI",
-        "Personality Test",
+        "Personality",
         "Aesthetic Personality",
         "HBO Drama"
       ]
@@ -581,8 +567,8 @@
       "category": "hidden",
       "tags": [
         "Euphoria",
-        "Hidden Traits",
-        "Personality Test",
+        "Hidden Trait",
+        "Personality",
         "Self-Discovery",
         "MBTI"
       ]
@@ -593,7 +579,7 @@
       "category": "which_x",
       "tags": [
         "Euphoria",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "What Would You Do",
         "Drama Series"
@@ -606,7 +592,7 @@
       "tags": [
         "Euphoria",
         "TV Series",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "Inner Aesthetic"
       ]
@@ -631,7 +617,7 @@
         "Sabrina Carpenter",
         "Celebrity Archetype",
         "MBTI",
-        "Personality Test",
+        "Personality",
         "Pop Culture"
       ]
     },
@@ -641,7 +627,7 @@
       "category": "which_x",
       "tags": [
         "Sabrina Carpenter",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "Pop Music",
         "Music Personality"
@@ -667,7 +653,7 @@
         "Sabrina Carpenter",
         "Hidden Personality",
         "MBTI",
-        "Personality Test",
+        "Personality",
         "Pop Culture"
       ]
     },
@@ -678,7 +664,7 @@
       "tags": [
         "Sabrina Carpenter",
         "What Would You Do",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "Pop Culture"
       ]
@@ -690,7 +676,7 @@
       "tags": [
         "Sabrina Carpenter",
         "Aesthetic Personality",
-        "Personality Quiz",
+        "Personality",
         "Pop Culture",
         "Lifestyle"
       ]
@@ -714,7 +700,7 @@
       "tags": [
         "NewJeans",
         "K-pop",
-        "Soulmate",
+        "Soulmate Match",
         "Personality",
         "MBTI"
       ]
@@ -725,7 +711,7 @@
       "category": "which_x",
       "tags": [
         "NewJeans",
-        "K-Pop",
+        "K-pop",
         "MBTI",
         "Personality",
         "Korean Music"
@@ -737,7 +723,7 @@
       "category": "which_x",
       "tags": [
         "NewJeans",
-        "K-Pop",
+        "K-pop",
         "Personality",
         "MBTI",
         "Korean Music"
@@ -762,9 +748,9 @@
       "tags": [
         "NewJeans",
         "Aesthetic Personality",
-        "K-Pop",
+        "K-pop",
         "MBTI",
-        "Inner Traits"
+        "Hidden Trait"
       ]
     },
     {
@@ -833,7 +819,7 @@
       "category": "hidden",
       "tags": [
         "Bluey",
-        "Hidden Traits",
+        "Hidden Trait",
         "Personality",
         "MBTI",
         "Character Insight"
@@ -976,10 +962,10 @@
       "category": "which_x",
       "tags": [
         "Fortnite",
-        "Gaming Personality",
+        "Gaming",
         "MBTI",
         "Playstyle Test",
-        "Inner Traits"
+        "Hidden Trait"
       ]
     },
     {
@@ -988,7 +974,7 @@
       "category": "hidden",
       "tags": [
         "Fortnite",
-        "Gaming Personality",
+        "Gaming",
         "Hidden Trait",
         "MBTI",
         "Gaming Strategy"
@@ -1012,10 +998,9 @@
       "category": "which_x",
       "tags": [
         "Fortnite",
-        "Gaming Personality",
+        "Gaming",
         "Playstyle",
-        "MBTI",
-        "Video Games"
+        "MBTI"
       ]
     },
     {
@@ -1025,7 +1010,7 @@
       "tags": [
         "Fortnite",
         "Battle Royale",
-        "Future Destiny",
+        "Future Life",
         "MBTI",
         "Personality"
       ]
@@ -1036,8 +1021,7 @@
       "category": "which_x",
       "tags": [
         "League of Legends",
-        "LOL",
-        "Soulmate",
+        "Soulmate Match",
         "Champion Match",
         "MBTI"
       ]
@@ -1059,9 +1043,8 @@
       "title": "What’s Your LOL Playstyle Personality?",
       "category": "which_x",
       "tags": [
-        "LOL",
         "League of Legends",
-        "Gaming Personality",
+        "Gaming",
         "MBTI",
         "Playstyle"
       ]
@@ -1072,7 +1055,6 @@
       "category": "which_x",
       "tags": [
         "League of Legends",
-        "LOL",
         "Personality",
         "MBTI",
         "Gaming"
@@ -1084,7 +1066,6 @@
       "category": "hidden",
       "tags": [
         "League of Legends",
-        "LOL",
         "MBTI",
         "Hidden Trait",
         "Personality"
@@ -1096,8 +1077,7 @@
       "category": "which_x",
       "tags": [
         "League of Legends",
-        "LoL",
-        "Gaming Personality",
+        "Gaming",
         "MBTI",
         "In-Game Decision Making"
       ]
@@ -1107,7 +1087,6 @@
       "title": "What’s Your LOL Inner Playstyle Personality?",
       "category": "which_x",
       "tags": [
-        "LOL",
         "League of Legends",
         "MBTI",
         "Personality",
@@ -1120,10 +1099,9 @@
       "category": "future",
       "tags": [
         "League of Legends",
-        "LOL",
         "Gaming",
         "MBTI",
-        "Future Destiny"
+        "Future Life"
       ]
     },
     {
@@ -1132,7 +1110,7 @@
       "category": "which_x",
       "tags": [
         "Taylor Swift",
-        "Soulmate",
+        "Soulmate Match",
         "Personality Match",
         "MBTI",
         "Pop Culture"
@@ -1171,7 +1149,7 @@
         "Celebrity Personality",
         "MBTI",
         "Pop Culture",
-        "Personality Test"
+        "Personality"
       ]
     },
     {
@@ -1180,8 +1158,8 @@
       "category": "hidden",
       "tags": [
         "Taylor Swift",
-        "Hidden Traits",
-        "Personality Test",
+        "Hidden Trait",
+        "Personality",
         "MBTI",
         "Pop Culture"
       ]
@@ -1207,7 +1185,7 @@
         "Aesthetic",
         "MBTI",
         "Personality",
-        "Inner Traits"
+        "Hidden Trait"
       ]
     },
     {
@@ -1228,10 +1206,9 @@
       "category": "which_x",
       "tags": [
         "Fortnite",
-        "Gaming Personality",
+        "Gaming",
         "Playstyle",
-        "MBTI",
-        "Video Games"
+        "MBTI"
       ]
     },
     {
@@ -1240,7 +1217,6 @@
       "category": "match",
       "tags": [
         "Harry Potter",
-        "Wizarding World",
         "MBTI",
         "Personality"
       ]
@@ -1265,7 +1241,7 @@
         "Virtual World",
         "Player Archetype",
         "Personality",
-        "Game"
+        "Playstyle"
       ]
     },
     {
@@ -1312,7 +1288,7 @@
         "Roblox",
         "Personality",
         "Adventure",
-        "Game",
+        "Playstyle",
         "MBTI"
       ]
     },
@@ -1335,7 +1311,7 @@
       "tags": [
         "Roblox",
         "Virtual Adventure",
-        "Gaming Personality",
+        "Gaming",
         "Future Roleplay",
         "Virtual World"
       ]
@@ -1346,7 +1322,7 @@
       "category": "which_x",
       "tags": [
         "Minecraft",
-        "Soulmate",
+        "Soulmate Match",
         "Companion",
         "MBTI",
         "Personality"
@@ -1359,7 +1335,7 @@
       "tags": [
         "Minecraft",
         "Gaming",
-        "Personality Test",
+        "Personality",
         "Player Type",
         "MBTI"
       ]
@@ -1370,9 +1346,8 @@
       "category": "adjective_level",
       "tags": [
         "Minecraft",
-        "Video Games",
-        "Gaming Personality",
         "Playstyle",
+        "Gaming",
         "Digital Lifestyle"
       ]
     },
@@ -1394,7 +1369,7 @@
       "category": "scenario",
       "tags": [
         "Minecraft",
-        "Gaming Personality",
+        "Gaming",
         "Playstyle",
         "MBTI",
         "What Would You Do"
@@ -1433,7 +1408,7 @@
         "Soulmate Match",
         "MBTI",
         "Personality",
-        "Video Games"
+        "Playstyle"
       ]
     },
     {
@@ -1466,7 +1441,7 @@
       "category": "adjective_level",
       "tags": [
         "Fortnite",
-        "Gaming Personality",
+        "Gaming",
         "Playstyle Strategy",
         "MBTI",
         "Virtual World Mindset"
@@ -1478,8 +1453,8 @@
       "category": "hidden",
       "tags": [
         "Fortnite",
-        "Hidden Traits",
-        "Gaming Personality",
+        "Hidden Trait",
+        "Gaming",
         "MBTI",
         "Gaming Traits"
       ]
@@ -1491,7 +1466,7 @@
       "tags": [
         "Fortnite",
         "Gaming Playstyle",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "What Would You Do"
       ]
@@ -1562,10 +1537,10 @@
       "category": "adjective_level",
       "tags": [
         "Brawl Stars",
-        "Gaming Personality",
+        "Gaming",
         "Player Traits",
         "MBTI",
-        "Personality Quiz"
+        "Personality"
       ]
     },
     {
@@ -1575,7 +1550,7 @@
       "tags": [
         "Brawl Stars",
         "Hidden Trait",
-        "Gaming Personality",
+        "Gaming",
         "Battle Strategy",
         "MBTI"
       ]
@@ -1612,7 +1587,7 @@
         "Brawl Stars",
         "Future Battle Role",
         "MBTI",
-        "Personality Test"
+        "Personality"
       ]
     },
     {
@@ -1621,7 +1596,7 @@
       "category": "which_x",
       "tags": [
         "Genshin Impact",
-        "Soulmate",
+        "Soulmate Match",
         "Character Match",
         "MBTI",
         "Personality"
@@ -1670,7 +1645,7 @@
       "tags": [
         "Genshin Impact",
         "Teyvat",
-        "Personality Test",
+        "Personality",
         "Decision Making",
         "What Would You Do"
       ]
@@ -1684,7 +1659,7 @@
         "Adventure",
         "MBTI",
         "Personality",
-        "Game"
+        "Playstyle"
       ]
     },
     {
@@ -1705,7 +1680,7 @@
       "category": "which_x",
       "tags": [
         "Honkai: Star Rail",
-        "Soulmate",
+        "Soulmate Match",
         "Character Match",
         "MBTI",
         "Personality"
@@ -1753,7 +1728,7 @@
       "category": "hidden",
       "tags": [
         "Honkai: Star Rail",
-        "Hidden Traits",
+        "Hidden Trait",
         "MBTI",
         "Personality",
         "Astral Express"
@@ -1827,7 +1802,7 @@
         "Celebrity Personality",
         "Pop Culture",
         "Lifestyle Traits",
-        "Personality Test"
+        "Personality"
       ]
     },
     {
@@ -1847,8 +1822,8 @@
       "title": "How Billie Eilish-Coded Are You?",
       "category": "adjective_level",
       "tags": [
-        "Billie Eilish",
-        "Personality Test",
+        " Billie Eilish",
+        "Personality",
         "Music Culture",
         "Lifestyle",
         "Pop Icon"
@@ -1859,9 +1834,9 @@
       "title": "What’s Your Hidden Billie Eilish-Aligned Trait?",
       "category": "hidden",
       "tags": [
-        "Billie Eilish",
-        "Hidden Traits",
-        "Personality Quiz",
+        " Billie Eilish",
+        "Hidden Trait",
+        "Personality",
         "MBTI"
       ]
     },
@@ -1886,7 +1861,7 @@
         "Addams Family",
         "Aesthetic Personality",
         "MBTI",
-        "Personality Test"
+        "Personality"
       ]
     },
     {
@@ -1898,7 +1873,7 @@
         "Addams Family",
         "Aesthetic Personality",
         "MBTI",
-        "Personality Test"
+        "Personality"
       ]
     },
     {
@@ -1920,7 +1895,7 @@
       "tags": [
         "Yellowjackets",
         "Wilderness Survival",
-        "Personality Test",
+        "Personality",
         "MBTI",
         "What Would You Do"
       ]
@@ -1932,7 +1907,7 @@
       "tags": [
         "Yellowjackets",
         "Survival",
-        "Future Destiny",
+        "Future Life",
         "MBTI",
         "Personality"
       ]
