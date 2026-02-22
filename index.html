@@ -1177,15 +1177,16 @@
         function renderAll() {
             let list = [...testList];
             
-            // Filter by tags (multi-select)
+            // Filter by tags (multi-select) - use exact match
             if (selectedTags.length > 0) {
                 list = list.filter(t => selectedTags.some(selectedTag => 
                     t.tags.some(tag => {
-                        // Compare both the tag_id (with underscores) and the original text
-                        const tagId = tag.toLowerCase().replace(/\s+/g, '_');
-                        return tag.toLowerCase().includes(selectedTag.toLowerCase()) || 
-                               tagId.includes(selectedTag.toLowerCase()) ||
-                               selectedTag.toLowerCase().includes(tag.toLowerCase());
+                        // Normalize for comparison: lowercase, replace spaces with underscores
+                        const tagNorm = tag.toLowerCase().replace(/\s+/g, '_');
+                        const selectedNorm = selectedTag.toLowerCase().replace(/\s+/g, '_');
+                        // Exact match after normalization
+                        return tagNorm === selectedNorm || 
+                               tag.toLowerCase() === selectedTag.toLowerCase();
                     })
                 ));
             }
