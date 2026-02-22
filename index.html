@@ -1180,9 +1180,13 @@
             // Filter by tags (multi-select)
             if (selectedTags.length > 0) {
                 list = list.filter(t => selectedTags.some(selectedTag => 
-                    t.tags.some(tag => 
-                        tag.toLowerCase().includes(selectedTag.toLowerCase())
-                    )
+                    t.tags.some(tag => {
+                        // Compare both the tag_id (with underscores) and the original text
+                        const tagId = tag.toLowerCase().replace(/\s+/g, '_');
+                        return tag.toLowerCase().includes(selectedTag.toLowerCase()) || 
+                               tagId.includes(selectedTag.toLowerCase()) ||
+                               selectedTag.toLowerCase().includes(tag.toLowerCase());
+                    })
                 ));
             }
             
