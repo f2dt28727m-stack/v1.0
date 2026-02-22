@@ -954,10 +954,12 @@
             try {
                 // Try to load from local API first (development)
                 const response = await fetch('/quizzes.json');
+                console.log('Fetch status:', response.status);
                 if (!response.ok) {
                     throw new Error('Failed to load quiz data');
                 }
                 const data = await response.json();
+                console.log('Loaded quizzes:', data.quizzes.length);
                 
                 // Map API response to testList format
                 testList = data.quizzes.map(quiz => {
