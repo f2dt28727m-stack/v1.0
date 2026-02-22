@@ -999,15 +999,18 @@
                 // Load tag categories from API
                 try {
                     const tagsResponse = await fetch('/api/tags');
+                    console.log('Tags API status:', tagsResponse.status);
                     if (tagsResponse.ok) {
                         const tagsData = await tagsResponse.json();
+                        console.log('Tags loaded:', Object.keys(tagsData));
                         buildTagCategoriesFromAPI(tagsData);
                     } else {
                         // Fallback to dynamic build from quiz data
+                        console.log('Tags API failed, using dynamic');
                         buildTagCategories();
                     }
                 } catch (e) {
-                    console.log('Using dynamic tag categories');
+                    console.log('Tags API error:', e);
                     buildTagCategories();
                 }
                 
