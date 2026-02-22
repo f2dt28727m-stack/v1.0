@@ -1166,8 +1166,9 @@
         }
         
         function renderHome() {
-            // Hot - sorted by hot_count
-            const hot = [...testList].sort((a,b) => b.hot_count - a.hot_count).slice(0, 12);
+            // Hot - fixed quiz IDs
+            const hotIds = ['quiz_198', 'quiz_176', 'quiz_167', 'quiz_138', 'quiz_188', 'quiz_117', 'quiz_75', 'quiz_88', 'quiz_99', 'quiz_184', 'quiz_193', 'quiz_205'];
+            const hot = hotIds.map(id => testList.find(t => t.test_id === id)).filter(t => t).slice(0, 12);
             document.getElementById('hot-list').innerHTML = hot.map(t => createCard(t)).join('');
             
             // Recommend - based on user interests
