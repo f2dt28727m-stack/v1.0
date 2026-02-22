@@ -110,6 +110,19 @@ def app(environ, start_response):
         start_response('200 OK', list(headers.items()) + [('Content-Type', 'application/json')])
         return [response.encode('utf-8')]
     
+    # /api/tags (GET) - return tag library
+    if path == '/api/tags' and method == 'GET':
+        tags_file = os.path.join(QUIZZES_DIR, '..', 'data', 'tags.json')
+        if os.path.exists(tags_file):
+            with open(tags_file, 'r', encoding='utf-8') as f:
+                tags_data = json.load(f)
+        else:
+            tags_data = {}
+        
+        response = json.dumps(tags_data)
+        start_response('200 OK', list(headers.items()) + [('Content-Type', 'application/json')])
+        return [response.encode('utf-8')]
+    
     # /api/questions (POST)
     if path == '/api/questions' and method == 'POST':
         try:

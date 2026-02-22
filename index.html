@@ -995,6 +995,22 @@
                 });
                 
                 // Initialize the page after data is loaded
+                
+                // Load tag categories from API
+                try {
+                    const tagsResponse = await fetch('/api/tags');
+                    if (tagsResponse.ok) {
+                        const tagsData = await tagsResponse.json();
+                        buildTagCategoriesFromAPI(tagsData);
+                    } else {
+                        // Fallback to dynamic build from quiz data
+                        buildTagCategories();
+                    }
+                } catch (e) {
+                    console.log('Using dynamic tag categories');
+                    buildTagCategories();
+                }
+                
                 init();
             } catch (error) {
                 console.error('Error loading data:', error);
@@ -1372,6 +1388,100 @@
             localStorage.setItem('quizmeup_visited', 'true');
             document.getElementById('welcome-page').style.display = 'none';
             document.getElementById('main-content').style.display = 'block';
+        }
+        
+        // Build tag categories dynamically from quiz data
+        function buildTagCategories() {
+            const tagCounts = {};
+            testList.forEach(quiz => {
+                (quiz.tags || []).forEach(tag => {
+                    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+                });
+            });
+            
+            // Group by first letter or create categories
+            const categories = {
+                "Popular": { icon: "🔥", tags: [] },
+                "Gaming": { icon: "🎮", tags: [] },
+                "Music": { icon: "🎵", tags: [] },
+                "Movies & TV": { icon: "📺", tags: [] },
+                "Personality": { icon: "✨", tags: [] },
+                "Lifestyle": { icon: "🌟", tags: [] },
+                "More": { icon: "📌", tags: [] }
+            };
+            
+            // Assign tags to categories based on known mappings
+            const categoryMap = {
+                "MBTI": "Popular", "Personality": "Popular", "Pop Culture": "Popular", "Quiz": "Popular",
+                "Fortnite": "Gaming", "Roblox": "Gaming", "Minecraft": "Gaming", "Genshin Impact": "Gaming",
+                "League of Legends": "Gaming", "Stardew Valley": "Gaming", "Brawl Stars": "Gaming", "Honkai Star Rail": "Gaming",
+                "Gaming": "Gaming", "Playstyle": "Gaming",
+                "Music": "Music", "Taylor Swift": "Music", "Olivia Rodrigo": "Music", "NewJeans": "Music",
+                "Sabrina Carpenter": "Music", "K-pop": "Music",
+                "Harry Potter": "Movies & TV", "Marvel": "Movies & TV", "Disney": "Movies & TV",
+                "Euphoria": "Movies & TV", "Bluey": "Movies & TV", "Movie": "Movies & TV", "TV Show": "Movies & TV",
+                "Hidden Trait": "Personality", "Aesthetic Personality": "Personality", "Soulmate Match": "Personality", "Future Life": "Personality",
+                "Lifestyle": "Lifestyle", "Career": "Lifestyle", "Food": "Lifestyle", "Travel": "Lifestyle", "Fashion": "Lifestyle", "Health": "Lifestyle"
+            };
+            
+            for (const [tag, count] of Object.entries(tagCounts)) {
+                const cat = categoryMap[tag] || "More";
+                categories[cat].tags.push({ tag_id: tag.toLowerCase().replace(/\s+/g, '_'), text: tag, count: count });
+            }
+            
+            // Sort by count and limit
+            for (const cat of Object.values(categories)) {
+                cat.tags.sort((a, b) => b.count - a.count);
+                cat.tags = cat.tags.slice(0, 10);
+            }
+            
+            // Assign to global
+            Object.assign(tagCategories, categories);
+        }
+        
+        // Build tag categories from API response
+        function buildTagCategoriesFromAPI(tagsData) {
+            const tagCounts = {};
+            testList.forEach(quiz => {
+                (quiz.tags || []).forEach(tag => {
+                    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+                });
+            });
+            
+            const categories = {};
+            
+            // Build from API data (KEY -> Value structure)
+            for (const [category, values] of Object.entries(tagsData)) {
+                categories[category] = {
+                    icon: getCategoryIcon(category),
+                    tags: []
+                };
+                
+                for (const [value, subvalues] of Object.entries(values)) {
+                    if (tagCounts[value]) {
+                        categories[category].tags.push({
+                            tag_id: value.toLowerCase().replace(/\s+/g, '_'),
+                            text: value,
+                            count: tagCounts[value]
+                        });
+                    }
+                }
+                
+                categories[category].tags.sort((a, b) => b.count - a.count);
+                categories[category].tags = categories[category].tags.slice(0, 10);
+            }
+            
+            Object.assign(tagCategories, categories);
+        }
+        
+        function getCategoryIcon(category) {
+            const icons = {
+                "Music": "🎵", "Gaming": "🎮", "Movies & TV": "📺", "Personality": "✨",
+                "Pop Culture": "🌟", "Lifestyle": "💫", "Horror & Mystery": "🔮", "Zodiac & Astrology": "🔯",
+                "Nature & Places": "🌍", "Food & Drink": "🍕", "Entertainment": "🎬", "Fantasy & Mythical": "🧙",
+                "Personality Traits": "👤", "Seasons & Holidays": "🎄", "Relationships": "❤️", "Other": "📌"
+            };
+            return icons[category] || "📌";
         }
         
         // Tag categories - moved here to ensure it's defined before any function calls
