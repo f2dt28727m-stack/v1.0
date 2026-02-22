@@ -1235,7 +1235,7 @@
       ]
     },
     {
-      "id": "quiz_harry_potter1",
+      "id": "quiz_104",
       "title": "Which Harry Potter Character Matches Your Personality?",
       "category": "match",
       "tags": [
@@ -1246,7 +1246,7 @@
       ]
     },
     {
-      "id": "which-roblox-character-is-your-perfect-match",
+      "id": "quiz_105",
       "title": "Which Roblox Character Is Your Perfect Match?",
       "category": "which_x",
       "tags": [
@@ -1257,7 +1257,7 @@
       ]
     },
     {
-      "id": "which-roblox-player-archetype-are-you",
+      "id": "quiz_106",
       "title": "Which Roblox Player Archetype Are You?",
       "category": "which_x",
       "tags": [
@@ -1269,7 +1269,7 @@
       ]
     },
     {
-      "id": "what-roblox-playstyle-type-are-you",
+      "id": "quiz_107",
       "title": "What Roblox Playstyle Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1281,7 +1281,7 @@
       ]
     },
     {
-      "id": "how-robloxobsessed-are-you",
+      "id": "quiz_108",
       "title": "How Roblox-Obsessed Are You?",
       "category": "adjective_level",
       "tags": [
@@ -1293,7 +1293,7 @@
       ]
     },
     {
-      "id": "whats-your-hidden-roblox-personality-type",
+      "id": "quiz_109",
       "title": "What’s your hidden Roblox personality type?",
       "category": "hidden",
       "tags": [
@@ -1305,7 +1305,7 @@
       ]
     },
     {
-      "id": "what-roblox-adventure-type-are-you",
+      "id": "quiz_110",
       "title": "What Roblox Adventure Type Are You?",
       "category": "scenario",
       "tags": [
@@ -1317,7 +1317,7 @@
       ]
     },
     {
-      "id": "what-roblox-playstyle-type-are-you-1",
+      "id": "quiz_111",
       "title": "What Roblox Playstyle Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "id": "whats-your-future-roblox-adventure-type",
+      "id": "quiz_112",
       "title": "What’s Your Future Roblox Adventure Type?",
       "category": "future",
       "tags": [
@@ -1341,7 +1341,7 @@
       ]
     },
     {
-      "id": "which-minecraft-companion-is-your-ideal-soulmate",
+      "id": "quiz_113",
       "title": "Which Minecraft Companion Is Your Ideal Soulmate?",
       "category": "which_x",
       "tags": [
@@ -1353,7 +1353,7 @@
       ]
     },
     {
-      "id": "what-minecraft-player-type-are-you",
+      "id": "quiz_114",
       "title": "What Minecraft Player Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1365,7 +1365,7 @@
       ]
     },
     {
-      "id": "how-minecraftaligned-are-you",
+      "id": "quiz_115",
       "title": "How Minecraft-Aligned Are You?",
       "category": "adjective_level",
       "tags": [
@@ -1377,7 +1377,7 @@
       ]
     },
     {
-      "id": "whats-your-hidden-minecraft-inner-personality-type",
+      "id": "quiz_116",
       "title": "What’s Your Hidden Minecraft Inner Personality Type?",
       "category": "hidden",
       "tags": [
@@ -1389,7 +1389,7 @@
       ]
     },
     {
-      "id": "what-minecraft-playstyle-type-are-you",
+      "id": "quiz_117",
       "title": "What Minecraft Playstyle Type Are You?",
       "category": "scenario",
       "tags": [
@@ -1401,7 +1401,7 @@
       ]
     },
     {
-      "id": "what-minecraft-playstyle-type-are-you-1",
+      "id": "quiz_118",
       "title": "What Minecraft Playstyle Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1413,7 +1413,7 @@
       ]
     },
     {
-      "id": "whats-your-future-minecraft-life-path",
+      "id": "quiz_119",
       "title": "What’s Your Future Minecraft Life Path?",
       "category": "future",
       "tags": [
@@ -1425,7 +1425,7 @@
       ]
     },
     {
-      "id": "which-fortnite-character-is-your-perfect-soulmate-",
+      "id": "quiz_120",
       "title": "Which Fortnite Character Is Your Perfect Soulmate Match?",
       "category": "which_x",
       "tags": [
@@ -1437,7 +1437,7 @@
       ]
     },
     {
-      "id": "which-fortnite-character-matches-your-personality",
+      "id": "quiz_121",
       "title": "Which Fortnite Character Matches Your Personality?",
       "category": "which_x",
       "tags": [
@@ -1449,7 +1449,7 @@
       ]
     },
     {
-      "id": "what-fortnite-type-are-you",
+      "id": "quiz_122",
       "title": "What Fortnite Type Are You?",
       "category": "your_type",
       "tags": [
@@ -1461,7 +1461,7 @@
       ]
     },
     {
-      "id": "how-much-do-you-embody-fortnites-core-vibes",
+      "id": "quiz_123",
       "title": "How Much Do You Embody Fortnite's Core Vibes?",
       "category": "adjective_level",
       "tags": [
@@ -1473,7 +1473,7 @@
       ]
     },
     {
-      "id": "whats-your-hidden-fortnite-trait-type",
+      "id": "quiz_124",
       "title": "What’s your Hidden Fortnite Trait Type?",
       "category": "hidden",
       "tags": [
@@ -1485,7 +1485,7 @@
       ]
     },
     {
-      "id": "what-would-you-do-in-fortnite-uncover-your-hidden-",
+      "id": "quiz_125",
       "title": "What Would You Do in Fortnite? Uncover Your Hidden Gaming Personality?",
       "category": "scenario",
       "tags": [
@@ -1497,7 +1497,7 @@
       ]
     },
     {
-      "id": "what-fortnite-playstyle-type-are-you",
+      "id": "quiz_126",
       "title": "What Fortnite Playstyle Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1509,7 +1509,7 @@
       ]
     },
     {
-      "id": "whats-your-future-fortnite-battle-role",
+      "id": "quiz_127",
       "title": "What’s Your Future Fortnite Battle Role?",
       "category": "future",
       "tags": [
@@ -1521,7 +1521,7 @@
       ]
     },
     {
-      "id": "which-brawl-stars-brawler-is-your-ideal-battle-par",
+      "id": "quiz_128",
       "title": "Which Brawl Stars Brawler Is Your Ideal Battle Partner?",
       "category": "which_x",
       "tags": [
@@ -1533,7 +1533,7 @@
       ]
     },
     {
-      "id": "which-brawl-stars-brawler-matches-your-personality",
+      "id": "quiz_129",
       "title": "Which Brawl Stars Brawler Matches Your Personality?",
       "category": "which_x",
       "tags": [
@@ -1545,7 +1545,7 @@
       ]
     },
     {
-      "id": "what-brawl-stars-type-are-you",
+      "id": "quiz_130",
       "title": "What Brawl Stars Type Are You?",
       "category": "your_type",
       "tags": [
@@ -1557,7 +1557,7 @@
       ]
     },
     {
-      "id": "how-brawl-stars-obsessed-are-you",
+      "id": "quiz_131",
       "title": "How Brawl Stars Obsessed Are You?",
       "category": "adjective_level",
       "tags": [
@@ -1569,7 +1569,7 @@
       ]
     },
     {
-      "id": "whats-your-hidden-brawl-stars-trait",
+      "id": "quiz_132",
       "title": "What’s your hidden Brawl Stars trait?",
       "category": "hidden",
       "tags": [
@@ -1581,7 +1581,7 @@
       ]
     },
     {
-      "id": "what-would-you-do-in-brawl-stars-uncover-your-hidd",
+      "id": "quiz_133",
       "title": "What Would You Do in Brawl Stars? Uncover Your Hidden Playstyle",
       "category": "scenario",
       "tags": [
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "id": "which-brawl-stars-brawler-matches-your-personality-1",
+      "id": "quiz_134",
       "title": "Which Brawl Stars Brawler Matches Your Personality?",
       "category": "which_x",
       "tags": [
@@ -1605,7 +1605,7 @@
       ]
     },
     {
-      "id": "what-brawl-stars-battle-role-will-you-dominate-in-",
+      "id": "quiz_135",
       "title": "What Brawl Stars Battle Role Will You Dominate in the Future?",
       "category": "future",
       "tags": [
@@ -1616,7 +1616,7 @@
       ]
     },
     {
-      "id": "which-genshin-impact-character-is-your-perfect-sou",
+      "id": "quiz_136",
       "title": "Which Genshin Impact Character Is Your Perfect Soulmate?",
       "category": "which_x",
       "tags": [
@@ -1628,7 +1628,7 @@
       ]
     },
     {
-      "id": "what-genshin-impact-character-type-are-you",
+      "id": "quiz_137",
       "title": "What Genshin Impact Character Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1640,7 +1640,7 @@
       ]
     },
     {
-      "id": "what-genshin-impact-personality-type-are-you",
+      "id": "quiz_138",
       "title": "What Genshin Impact Personality Type Are You?",
       "category": "your_type",
       "tags": [
@@ -1652,7 +1652,7 @@
       ]
     },
     {
-      "id": "how-well-do-you-match-genshin-impacts-core-vibes",
+      "id": "quiz_139",
       "title": "How Well Do You Match Genshin Impact's Core Vibes?",
       "category": "adjective_level",
       "tags": [
@@ -1664,7 +1664,7 @@
       ]
     },
     {
-      "id": "what-genshin-impact-decisionmaking-type-are-you",
+      "id": "quiz_140",
       "title": "What Genshin Impact Decision-Making Type Are You?",
       "category": "scenario",
       "tags": [
@@ -1676,7 +1676,7 @@
       ]
     },
     {
-      "id": "what-genshin-impact-adventure-type-are-you",
+      "id": "quiz_141",
       "title": "What Genshin Impact Adventure Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1688,7 +1688,7 @@
       ]
     },
     {
-      "id": "what-genshin-impact-future-quest-are-you-destined-",
+      "id": "quiz_142",
       "title": "What Genshin Impact Future Quest Are You Destined For?",
       "category": "future",
       "tags": [
@@ -1700,7 +1700,7 @@
       ]
     },
     {
-      "id": "which-honkai-star-rail-character-is-your-perfect-s",
+      "id": "quiz_143",
       "title": "Which Honkai: Star Rail Character Is Your Perfect Soulmate?",
       "category": "which_x",
       "tags": [
@@ -1712,7 +1712,7 @@
       ]
     },
     {
-      "id": "which-honkai-star-rail-character-are-you",
+      "id": "quiz_144",
       "title": "Which Honkai: Star Rail Character Are You?",
       "category": "which_x",
       "tags": [
@@ -1724,7 +1724,7 @@
       ]
     },
     {
-      "id": "what-honkai-star-rail-wanderer-type-are-you",
+      "id": "quiz_145",
       "title": "What Honkai: Star Rail Wanderer Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1736,7 +1736,7 @@
       ]
     },
     {
-      "id": "how-strong-is-your-honkai-star-rail-trailblazer-sp",
+      "id": "quiz_146",
       "title": "How Strong Is Your Honkai: Star Rail Trailblazer Spirit?",
       "category": "adjective_level",
       "tags": [
@@ -1748,7 +1748,7 @@
       ]
     },
     {
-      "id": "what-hidden-honkai-star-rail-trait-type-are-you",
+      "id": "quiz_147",
       "title": "What Hidden Honkai: Star Rail Trait Type Are You?",
       "category": "hidden",
       "tags": [
@@ -1760,7 +1760,7 @@
       ]
     },
     {
-      "id": "what-would-you-do-in-honkai-star-rails-critical-mo",
+      "id": "quiz_148",
       "title": "What Would You Do in Honkai: Star Rail's Critical Moments?",
       "category": "scenario",
       "tags": [
@@ -1771,7 +1771,7 @@
       ]
     },
     {
-      "id": "what-honkai-star-rail-aesthetic-type-are-you",
+      "id": "quiz_149",
       "title": "What Honkai: Star Rail Aesthetic Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1783,7 +1783,7 @@
       ]
     },
     {
-      "id": "what-will-your-honkai-star-rail-future-adventure-h",
+      "id": "quiz_150",
       "title": "What Will Your Honkai: Star Rail Future Adventure Hold?",
       "category": "future",
       "tags": [
@@ -1795,7 +1795,7 @@
       ]
     },
     {
-      "id": "what-valorant-agent-type-are-you",
+      "id": "quiz_151",
       "title": "What Valorant Agent Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1807,7 +1807,7 @@
       ]
     },
     {
-      "id": "how-ice-spice-are-you",
+      "id": "quiz_152",
       "title": "How Ice Spice Are You?",
       "category": "adjective_level",
       "tags": [
@@ -1819,7 +1819,7 @@
       ]
     },
     {
-      "id": "how-dua-lipaesque-are-you",
+      "id": "quiz_153",
       "title": "How Dua Lipa-Esque Are You?",
       "category": "adjective_level",
       "tags": [
@@ -1831,7 +1831,7 @@
       ]
     },
     {
-      "id": "which-dua-lipa-vibe-do-you-have",
+      "id": "quiz_154",
       "title": "Which Dua Lipa Vibe Do You Have?",
       "category": "which_x",
       "tags": [
@@ -1843,7 +1843,7 @@
       ]
     },
     {
-      "id": "how-billie-eilishcoded-are-you",
+      "id": "quiz_155",
       "title": "How Billie Eilish-Coded Are You?",
       "category": "adjective_level",
       "tags": [
@@ -1855,7 +1855,7 @@
       ]
     },
     {
-      "id": "whats-your-hidden-billie-eilishaligned-trait",
+      "id": "quiz_156",
       "title": "What’s Your Hidden Billie Eilish-Aligned Trait?",
       "category": "hidden",
       "tags": [
@@ -1866,7 +1866,7 @@
       ]
     },
     {
-      "id": "what-lana-del-rey-type-are-you",
+      "id": "quiz_157",
       "title": "What Lana Del Rey Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1878,7 +1878,7 @@
       ]
     },
     {
-      "id": "what-wednesday-aesthetic-personality-type-are-you",
+      "id": "quiz_158",
       "title": "What Wednesday Aesthetic Personality Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1890,7 +1890,7 @@
       ]
     },
     {
-      "id": "what-wednesday-aesthetic-personality-type-are-you-1",
+      "id": "quiz_159",
       "title": "What Wednesday Aesthetic Personality Type Are You?",
       "category": "your_type",
       "tags": [
@@ -1902,7 +1902,7 @@
       ]
     },
     {
-      "id": "which-yellowjackets-character-type-are-you",
+      "id": "quiz_160",
       "title": "Which Yellowjackets Character Type Are You?",
       "category": "which_x",
       "tags": [
@@ -1914,7 +1914,7 @@
       ]
     },
     {
-      "id": "what-would-you-do-in-the-yellowjackets-wilderness",
+      "id": "quiz_161",
       "title": "What Would You Do in the Yellowjackets Wilderness?",
       "category": "scenario",
       "tags": [
@@ -1926,7 +1926,7 @@
       ]
     },
     {
-      "id": "whats-your-yellowjacketsinspired-future-survival-d",
+      "id": "quiz_162",
       "title": "What’s Your Yellowjackets-Inspired Future Survival Destiny?",
       "category": "future",
       "tags": [
@@ -1938,7 +1938,7 @@
       ]
     },
     {
-      "id": "which-stranger-things-character-are-you",
+      "id": "quiz_163",
       "title": "Which Stranger Things Character Are You?",
       "category": "which_x",
       "tags": [
