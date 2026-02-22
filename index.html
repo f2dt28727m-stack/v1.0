@@ -417,10 +417,6 @@
 }
 .filter-panel {
     display: none;
-    position: absolute;
-    bottom: 100%;
-    left: 0;
-    right: 0;
     padding: 10px 15px;
     flex-direction: column;
     gap: 10px;
@@ -909,13 +905,13 @@
         
         <!-- All Page -->
         <div class="page" id="page-all">
+            <div class="filter-panel" id="filter-panel">
+                <!-- Tags will be dynamically generated here -->
+            </div>
             <div class="filter-bar">
                 <div class="sort-btn active" data-sort="hot" onclick="setSort('hot')">Hot</div>
                 <div class="sort-btn" data-sort="new" onclick="setSort('new')">New</div>
                 <div class="filter-toggle" onclick="toggleFilter()">Filter</div>
-            </div>
-            <div class="filter-panel" id="filter-panel">
-                <!-- Tags will be dynamically generated here -->
             </div>
             <div class="grid" id="all-list"></div>
             <div class="pagination" id="pagination"></div>
