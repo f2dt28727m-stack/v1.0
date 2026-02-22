@@ -2,20 +2,350 @@
   "quizId": 169,
   "title": "What Would You Do? Discover Your BLACKPINK Personality",
   "category": "whatwould",
+  "description": "Answer 12 questions to discover your BLACKPINK personality!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "K-pop Idol"
   ],
-  "description": "Answer 12 questions to discover your BLACKPINK personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "The group is discussing MV concepts for a new song. You would...",
+      "options": [
+        {
+          "text": "Focus on practical details like budget and shooting time",
+          "score": "S"
+        },
+        {
+          "text": "Propose filming at multiple locations to spark creativity",
+          "score": "E"
+        },
+        {
+          "text": "Imagine how the场景 conveys the song's emotional core",
+          "score": "N"
+        },
+        {
+          "text": "Prefer a familiar studio to stay focused on细节",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A last-minute equipment issue threatens the concert opening. You would...",
+      "options": [
+        {
+          "text": "Quickly analyze the problem and suggest technical fixes",
+          "score": "T"
+        },
+        {
+          "text": "Adjust the performance order to buy time",
+          "score": "P"
+        },
+        {
+          "text": "Calm the team with reassuring words",
+          "score": "F"
+        },
+        {
+          "text": "Follow the backup plan you prepared earlier",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "An interviewer asks an unexpected question. You would...",
+      "options": [
+        {
+          "text": "Pause to gather your thoughts before answering clearly",
+          "score": "I"
+        },
+        {
+          "text": "Explore broader ideas beyond the question itself",
+          "score": "N"
+        },
+        {
+          "text": "Joke with the interviewer to lighten the mood first",
+          "score": "E"
+        },
+        {
+          "text": "Answer directly with specific examples",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Members disagree on the next song's style. You would...",
+      "options": [
+        {
+          "text": "Find a compromise that makes everyone happy",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the original music plan for consistency",
+          "score": "J"
+        },
+        {
+          "text": "Evaluate which style fits the group's strengths best",
+          "score": "T"
+        },
+        {
+          "text": "Blend styles and see what develops during创作",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Designing a fan meeting game, you would...",
+      "options": [
+        {
+          "text": "Create a group activity to boost energy",
+          "score": "E"
+        },
+        {
+          "text": "Check if the rules are simple and props are easy to get",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a quiet Q&A to connect with fans deeply",
+          "score": "I"
+        },
+        {
+          "text": "Invent a unique game that reflects the group's personality",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A member struggles with a dance move. You would...",
+      "options": [
+        {
+          "text": "Break down the steps and explain the technique",
+          "score": "T"
+        },
+        {
+          "text": "Practice with them privately and encourage patience",
+          "score": "F"
+        },
+        {
+          "text": "Skip it for now and revisit when the group is more relaxed",
+          "score": "P"
+        },
+        {
+          "text": "Adjust the schedule to give them extra practice time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Backstage after winning an award, you would...",
+      "options": [
+        {
+          "text": "Thank specific staff like stylists and producers by name",
+          "score": "S"
+        },
+        {
+          "text": "Smile and nod, quietly appreciating the team's hard work",
+          "score": "I"
+        },
+        {
+          "text": "Think about how this win shapes the group's future path",
+          "score": "N"
+        },
+        {
+          "text": "Hug everyone and share the excitement openly",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Designing new merchandise, you would...",
+      "options": [
+        {
+          "text": "Mix elements and adjust the design as you go",
+          "score": "P"
+        },
+        {
+          "text": "Compare costs, usability, and sales potential",
+          "score": "T"
+        },
+        {
+          "text": "Prioritize designs that fans will find heartwarming",
+          "score": "F"
+        },
+        {
+          "text": "Stick to a theme and follow the design guidelines strictly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Doing an outdoor challenge for a variety show, you would...",
+      "options": [
+        {
+          "text": "Work alone to finish quickly and efficiently",
+          "score": "I"
+        },
+        {
+          "text": "Team up with members and have fun while completing it",
+          "score": "E"
+        },
+        {
+          "text": "Guess the hidden purpose of the challenge and innovate",
+          "score": "N"
+        },
+        {
+          "text": "Read the instructions carefully to avoid mistakes",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A sudden free half-day due to canceled plans. You would...",
+      "options": [
+        {
+          "text": "Stick to your rest plan to prepare for tomorrow's schedule",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneously explore a nearby attraction",
+          "score": "P"
+        },
+        {
+          "text": "Tackle unfinished tasks to stay productive",
+          "score": "T"
+        },
+        {
+          "text": "Watch a movie or chat with members to bond",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Negative comments about the group appear online. You would...",
+      "options": [
+        {
+          "text": "Reflect on underlying issues to improve future performances",
+          "score": "N"
+        },
+        {
+          "text": "Check the comments to see if a clarification is needed",
+          "score": "S"
+        },
+        {
+          "text": "Post a positive update to shift focus to good news",
+          "score": "E"
+        },
+        {
+          "text": "Ignore them and focus on your work to prove实力",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Deciding the setlist for a world tour. You would...",
+      "options": [
+        {
+          "text": "Insist on including fans' all-time favorite songs",
+          "score": "F"
+        },
+        {
+          "text": "Leave some slots open to adjust based on rehearsal vibes",
+          "score": "P"
+        },
+        {
+          "text": "Finalize the list three months early for thorough practice",
+          "score": "J"
+        },
+        {
+          "text": "Adjust the genre ratio to match each city's culture",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Reliable Planner",
+      "description": "You're the steady backbone of the group, thriving on structure and responsibility. Like BLACKPINK's precise performances, you excel at following plans and ensuring every detail is perfect. Dependable and practical, you keep the team grounded and on track. You're an ISTJ—methodical, loyal, and the group's rock.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Caring Supporter",
+      "description": "You quietly nurture those around you, always attuned to others' needs. Like BLACKPINK's unspoken bond, you create harmony by listening and offering warmth. Reliable and compassionate, you make the team feel safe to be themselves. You're an ISFJ—kind, dedicated, and the group's heart.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Insightful Dreamer",
+      "description": "You see beyond the surface, drawn to deeper meanings and possibilities. Like BLACKPINK's emotionally rich music, you infuse purpose into every project. Intuitive and idealistic, you inspire the team to aim for something meaningful. You're an INFJ—visionary, empathetic, and the group's soul.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You plan with the future in mind, turning big ideas into actionable steps. Like BLACKPINK's innovative concepts, you challenge the norm and lead with foresight. Confident and analytical, you guide the team toward ambitious goals. You're an INTJ—strategic, independent, and the group's architect.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptive Problem-Solver",
+      "description": "You stay calm under pressure, solving problems with hands-on ingenuity. Like BLACKPINK's impromptu stage moments, you thrive in the moment and adapt quickly. Practical and resourceful, you turn obstacles into opportunities. You're an ISTP—flexible, logical, and the group's fixer.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Soul",
+      "description": "You express yourself through beauty and emotion, noticing life's细腻 details. Like BLACKPINK's visually stunning stages, you create moments that touch hearts. Gentle and creative, you add depth and warmth to the team. You're an ISFP—artistic, sensitive, and the group's muse.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Romantic",
+      "description": "You believe in the power of authenticity, driven by personal values and compassion. Like BLACKPINK's heartfelt lyrics, you connect with others on a deep emotional level. Creative and gentle, you inspire the team to stay true to themselves. You're an INFP—idealistic, kind, and the group's poet.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Analyst",
+      "description": "You love exploring ideas, diving into complex problems with a curious mind. Like BLACKPINK's genre-blending music, you enjoy intellectual challenges and innovation. Logical and open-minded, you push the team to think differently. You're an INTP—analytical, inventive, and the group's thinker.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Energetic Dynamo",
+      "description": "You thrive on action and excitement, bringing energy to every room. Like BLACKPINK's high-energy performances, you light up the team with your enthusiasm. Bold and adaptable, you turn plans into thrilling realities. You're an ESTP—spontaneous, confident, and the group's spark.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Lively Performer",
+      "description": "You love being the center of attention, spreading joy with your vibrant personality. Like BLACKPINK's stage presence, you captivate others with your charm and energy. Sociable and fun-loving, you make every moment memorable. You're an ESFP—lively, outgoing, and the group's star.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Creative Optimist",
+      "description": "You see endless possibilities, inspiring the team with your upbeat ideas. Like BLACKPINK's ever-evolving style, you embrace change and creativity. Enthusiastic and imaginative, you turn ordinary moments into adventures. You're an ENFP—optimistic, creative, and the group's dreamer.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Witty Innovator",
+      "description": "You thrive on debate and innovation, turning challenges into clever solutions. Like BLACKPINK's bold concepts, you love pushing boundaries and sparking new ideas. Quick-witted and curious, you keep the team on their toes. You're an ENTP—resourceful, clever, and the group's idea machine.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Leader",
+      "description": "You excel at managing chaos, turning plans into高效行动. Like BLACKPINK's seamless performances, you ensure the team runs like a well-oiled machine. Decisive and responsible, you lead with clarity and purpose. You're an ESTJ—organized, confident, and the group's director.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warm Coordinator",
+      "description": "You bring people together, creating harmony with your caring nature. Like BLACKPINK's supportive dynamic, you make sure everyone feels valued and included. Friendly and reliable, you're the glue that holds the team together. You're an ESFJ—nurturing, social, and the group's coordinator.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Guide",
+      "description": "You lift others up with your passion and vision, leading with empathy. Like BLACKPINK's global impact, you inspire the team to aim higher and care deeper. Charismatic and compassionate, you turn dreams into shared missions. You're an ENFJ—encouraging, visionary, and the group's heart leader.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Bold Trailblazer",
+      "description": "You fearlessly lead the way, turning big goals into reality with determination. Like BLACKPINK's groundbreaking success, you take charge and drive the team forward. Confident and strategic, you're unafraid to take risks for greatness. You're an ENTJ—ambitious, decisive, and the group's trailblazer.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

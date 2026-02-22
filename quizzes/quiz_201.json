@@ -2,20 +2,350 @@
   "quizId": 201,
   "title": "How Food-Obsessed Are You?",
   "category": "how",
+  "description": "Answer 12 questions to discover your Food personality!",
   "tags": [
     "Food",
-    ",\n ",
     "Culinary",
-    ",\n ",
     "Foodie",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Eating Habits"
   ],
-  "description": "Answer 12 questions to discover your Food personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When it comes to dining out, you prefer...",
+      "options": [
+        {
+          "text": "Choosing a familiar spot you’ve been to many times, knowing you’ll love the food",
+          "score": "S"
+        },
+        {
+          "text": "Going to a popular restaurant with a group of friends, chatting and sharing dishes",
+          "score": "E"
+        },
+        {
+          "text": "Trying a newly opened restaurant with a creative menu you’ve never seen before",
+          "score": "N"
+        },
+        {
+          "text": "Visiting a quiet, cozy café alone, savoring the meal in peace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning meals for the week, you...",
+      "options": [
+        {
+          "text": "Focus on nutrition balance and ingredient quality",
+          "score": "T"
+        },
+        {
+          "text": "Decide based on what your family members have been craving lately",
+          "score": "F"
+        },
+        {
+          "text": "Wing it, picking ingredients based on what looks fresh at the market that day",
+          "score": "P"
+        },
+        {
+          "text": "Write a detailed menu and shopping list to avoid last-minute stress",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Trying a new cuisine for the first time, you feel...",
+      "options": [
+        {
+          "text": "Curious but cautious, asking the server for recommendations first",
+          "score": "S"
+        },
+        {
+          "text": "Excited to dive in, ordering the most unique dish on the menu",
+          "score": "N"
+        },
+        {
+          "text": "Eager to bring a friend along to share the experience",
+          "score": "E"
+        },
+        {
+          "text": "Comfortable exploring alone, taking time to savor each bite",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When evaluating a dish, you focus more on...",
+      "options": [
+        {
+          "text": "How it makes you feel—nostalgic, happy, or comforted",
+          "score": "F"
+        },
+        {
+          "text": "Whether it meets your expectations for flavor and presentation",
+          "score": "J"
+        },
+        {
+          "text": "The creativity of the chef and unexpected flavor combinations",
+          "score": "P"
+        },
+        {
+          "text": "The technical skill—cooking time, temperature, and ingredient quality",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal weekend meal involves...",
+      "options": [
+        {
+          "text": "Cooking a childhood favorite recipe that reminds you of home",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting with a new recipe from a foreign cookbook",
+          "score": "N"
+        },
+        {
+          "text": "Hosting a potluck with friends, trying everyone’s homemade dishes",
+          "score": "E"
+        },
+        {
+          "text": "Enjoying a slow, solo brunch at a quiet corner café",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "At the grocery store, you tend to...",
+      "options": [
+        {
+          "text": "Stick to your list, buying only what’s needed for the week",
+          "score": "J"
+        },
+        {
+          "text": "Wander the aisles, picking up interesting ingredients that catch your eye",
+          "score": "P"
+        },
+        {
+          "text": "Choose trusted brands and seasonal produce you’ve used before",
+          "score": "S"
+        },
+        {
+          "text": "Grab exotic fruits or spices you’ve never cooked with before",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you find a great dish, you...",
+      "options": [
+        {
+          "text": "Tell all your friends about it, convincing them to try it too",
+          "score": "E"
+        },
+        {
+          "text": "Keep it as your little secret, returning to enjoy it alone",
+          "score": "I"
+        },
+        {
+          "text": "Analyze the recipe, trying to recreate it at home step by step",
+          "score": "T"
+        },
+        {
+          "text": "Feel warm knowing others might love it as much as you do",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Cooking at home, you usually...",
+      "options": [
+        {
+          "text": "Follow the recipe exactly, measuring ingredients to the gram",
+          "score": "J"
+        },
+        {
+          "text": "Adjust seasonings on the fly, trusting your taste buds",
+          "score": "P"
+        },
+        {
+          "text": "Use traditional methods passed down from family",
+          "score": "S"
+        },
+        {
+          "text": "Incorporate modern techniques like sous vide or foam toppings",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your mealtime routine is...",
+      "options": [
+        {
+          "text": "Scheduled—you eat at the same times every day",
+          "score": "J"
+        },
+        {
+          "text": "Flexible—you eat when you’re hungry, no set schedule",
+          "score": "P"
+        },
+        {
+          "text": "Social—you often eat with family or colleagues",
+          "score": "E"
+        },
+        {
+          "text": "Private—you prefer eating alone to recharge",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A dish becomes your favorite because...",
+      "options": [
+        {
+          "text": "It brings back memories of a special moment or person",
+          "score": "F"
+        },
+        {
+          "text": "It’s nutritionally balanced and prepared with care",
+          "score": "T"
+        },
+        {
+          "text": "It’s a classic you’ve loved since childhood",
+          "score": "S"
+        },
+        {
+          "text": "It blends flavors from different cultures in a unique way",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you have leftovers, you...",
+      "options": [
+        {
+          "text": "Plan meals to avoid leftovers in the first place",
+          "score": "J"
+        },
+        {
+          "text": "Turn them into a new dish, like a stir-fry or wrap",
+          "score": "P"
+        },
+        {
+          "text": "Reheat them as they are, enjoying the original flavor",
+          "score": "S"
+        },
+        {
+          "text": "Add new spices or sauces to give them a fresh twist",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "To learn about new foods, you prefer to...",
+      "options": [
+        {
+          "text": "Talk to chefs at food festivals and ask for tips",
+          "score": "E"
+        },
+        {
+          "text": "Watch documentaries or read articles about global cuisines",
+          "score": "I"
+        },
+        {
+          "text": "Research the science behind ingredients and cooking methods",
+          "score": "T"
+        },
+        {
+          "text": "Listen to friends share stories about their favorite meals",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Nostalgic Home Cook",
+      "description": "Food for you is a bridge to the past. You cherish family recipes, childhood flavors, and the comfort of familiar dishes. You prefer cooking at home, using methods passed down through generations, and find joy in sharing these meals with loved ones. Your food personality is warm, grounded, and deeply connected to tradition. You're an ISFJ—nurturing, reliable, and the heart of every family meal.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Curious Food Explorer",
+      "description": "You live to taste the world. From street food in Bangkok to fusion restaurants in Paris, you’re always seeking new flavors and culinary adventures. You love experimenting with exotic ingredients and sharing your discoveries with anyone who’ll listen. Your food personality is energetic, open-minded, and endlessly curious. You're an ENFP—spontaneous, enthusiastic, and forever hungry for the next bite.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Analytical Food Critic",
+      "description": "You approach food like a science. You evaluate dishes based on technique, ingredient quality, and balance, breaking down what works and what doesn’t. You enjoy cooking with precision, following recipes to the letter, and are quick to spot flaws in a meal. Your food personality is sharp, detail-oriented, and unapologetically honest. You're an INTJ—strategic, critical, and always striving for culinary perfection.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Social Feast Organizer",
+      "description": "Meals are about connection for you. You thrive on hosting dinner parties, organizing potlucks, and turning meals into memorable events. You love trying new restaurants with friends and believe the best food is shared. Your food personality is outgoing, generous, and the life of every table. You're an ESFJ—sociable, caring, and dedicated to making every meal a celebration.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Creative Food Innovator",
+      "description": "You see food as a canvas. You’re always mixing flavors, experimenting with techniques, and turning leftovers into masterpieces. Traditional recipes bore you—you’d rather add a unexpected twist, like matcha in pasta or chili in chocolate. Your food personality is imaginative, bold, and unafraid to take risks. You're an ENTP—clever, innovative, and the ultimate kitchen rebel.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Quiet Food Connoisseur",
+      "description": "You savor food in solitude. You prefer small, intimate restaurants or home-cooked meals where you can focus on the flavors without distraction. You remember every dish you’ve loved, from a simple bowl of soup to a gourmet tasting menu, and value quality over quantity. Your food personality is reflective, discerning, and deeply connected to the sensory experience of eating. You're an INFP—sensitive, introspective, and a true lover of life’s quiet culinary joys.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Practical Meal Planner",
+      "description": "You approach food with logic and purpose. You plan meals weeks in advance, shop with a list, and prioritize nutrition and efficiency. You’re a master of meal prepping, turning simple ingredients into balanced, delicious dishes. Your food personality is organized, reliable, and focused on making the most of every ingredient. You're an ISTJ—practical, responsible, and the king/queen of the weekly meal plan.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Adaptive Food Adventurer",
+      "description": "You go with the flow when it comes to food. You’re just as happy eating a food truck taco as a five-star meal, and you never plan where to eat—you let your mood (or a friend’s suggestion) guide you. You love trying whatever’s in season and即兴 cooking with whatever’s in the fridge. Your food personality is flexible, easygoing, and always up for a surprise. You're an ESFP—spontaneous, fun-loving, and the life of any impromptu meal.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Compassionate Food Nurturer",
+      "description": "You cook with love, and it shows. You remember everyone’s favorite dishes, adjust recipes to accommodate dietary needs, and believe food is a way to care for others. You’re happiest when you’re feeding someone, whether it’s a sick friend or a crowd at a potluck. Your food personality is warm, empathetic, and deeply generous. You're an INFJ—insightful, caring, and the person everyone turns to for comfort food.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Bold Flavor Seeker",
+      "description": "You crave intensity in every bite. Spicy curries, tangy fermented foods, rich desserts—you love flavors that make your taste buds wake up. You’re not afraid to try the “weird” dish on the menu, and you’re always pushing your palate to new limits. Your food personality is adventurous, confident, and unapologetically bold. You're an ESTP—energetic, daring, and always ready to take on the next flavor challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Detail-Oriented Chef",
+      "description": "You treat cooking like a craft. You measure ingredients precisely, time each step carefully, and presentation matters just as much as taste. You’re always refining your skills, taking classes, and perfecting classic recipes until they’re flawless. Your food personality is meticulous, patient, and dedicated to excellence. You're an ISTP—hands-on, precise, and a true master of the kitchen.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Visionary Food Futurist",
+      "description": "You’re obsessed with the future of food. You follow food tech trends, experiment with plant-based meats, and imagine new ways to make food more sustainable and exciting. You love molecular gastronomy, lab-grown ingredients, and reimagining traditional dishes for the modern world. Your food personality is forward-thinking, innovative, and always ahead of the curve. You're an ENFJ—visionary, inspiring, and passionate about changing the world through food.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Minimalist Food Lover",
+      "description": "Less is more for you. You appreciate simple, high-quality ingredients—olive oil, fresh bread, ripe tomatoes—and let them shine without fancy preparation. You prefer small plates, seasonal dishes, and meals that feel light and intentional. Your food personality is calm, mindful, and deeply connected to the essence of food. You're an INTP—contemplative, minimalist, and a lover of understated culinary perfection.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Traditional Food Guardian",
+      "description": "You’re the keeper of culinary heritage. You learn family recipes by heart, preserve traditional cooking methods, and believe in honoring the past through food. You’re skeptical of “trendy” dishes and prefer the comfort of what’s been passed down for generations. Your food personality is loyal, grounded, and deeply respectful of tradition. You're an ISFP—gentle, observant, and the guardian of your culture’s culinary legacy.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Strategic Food Optimizer",
+      "description": "You approach food like a puzzle. You maximize flavor while minimizing waste, turn leftovers into new meals, and plan menus that balance taste, cost, and nutrition. You’re always looking for ways to make cooking more efficient, whether it’s prepping ingredients on Sundays or using a slow cooker for busy weeknights. Your food personality is logical, resourceful, and focused on results. You're an ESTJ—organized, efficient, and the ultimate food strategist.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Free-Spirited Food Wanderer",
+      "description": "You let your taste buds lead the way. You never stick to a single cuisine, preferring to mix and match flavors from around the world. You cook without recipes, relying on intuition and whatever ingredients inspire you that day. You’re just as happy eating a sandwich from a gas station as a fancy meal, as long as it feels authentic. Your food personality is free-spirited, open, and endlessly curious. You're an INTP—unconventional, imaginative, and a true wanderer of the culinary world.",
+      "mbti": "INTP"
+    }
+  ],
   "emoji": [
     "🍕",
     "🍳",

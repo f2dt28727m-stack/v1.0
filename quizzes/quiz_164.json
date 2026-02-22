@@ -2,20 +2,350 @@
   "quizId": 164,
   "title": "Which BLACKPINK Member Is Your Perfect Match?",
   "category": "match",
+  "description": "Answer 12 questions to discover your BLACKPINK soulmate!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Member Match",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your BLACKPINK soulmate!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you usually spend weekends?",
+      "options": [
+        {
+          "text": "Stay home watching movies, listening to music, or pursuing hobbies alone",
+          "score": "I"
+        },
+        {
+          "text": "Plan a detailed day schedule to maximize productivity",
+          "score": "J"
+        },
+        {
+          "text": "Explore new restaurants or events with a group of friends",
+          "score": "E"
+        },
+        {
+          "text": "Wake up naturally and decide activities based on the day’s mood",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When making an important decision, you tend to...",
+      "options": [
+        {
+          "text": "Analyze pros and cons to choose the most logical option",
+          "score": "T"
+        },
+        {
+          "text": "Imagine long-term possibilities and future impacts",
+          "score": "N"
+        },
+        {
+          "text": "Consider how it affects the people around you",
+          "score": "F"
+        },
+        {
+          "text": "Focus on concrete details and practical feasibility",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "What kind of conversation do you enjoy most with friends?",
+      "options": [
+        {
+          "text": "Discuss abstract ideas or creative concepts",
+          "score": "N"
+        },
+        {
+          "text": "Share recent experiences and personal feelings",
+          "score": "E"
+        },
+        {
+          "text": "Solve a friend’s specific problem with practical advice",
+          "score": "S"
+        },
+        {
+          "text": "Reflect quietly before sharing your thoughts",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When starting a new task, you...",
+      "options": [
+        {
+          "text": "Adjust plans as you go, staying flexible",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize logic and efficiency in execution",
+          "score": "T"
+        },
+        {
+          "text": "Create a detailed step-by-step plan first",
+          "score": "J"
+        },
+        {
+          "text": "Focus on the task’s emotional meaning and value",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "What energizes you the most?",
+      "options": [
+        {
+          "text": "Completing a project with clear goals",
+          "score": "J"
+        },
+        {
+          "text": "Exploring new ideas or potential opportunities",
+          "score": "N"
+        },
+        {
+          "text": "Attending lively gatherings or group activities",
+          "score": "E"
+        },
+        {
+          "text": "Focusing on personal interests in a quiet space",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "In team work, you excel at...",
+      "options": [
+        {
+          "text": "Proposing innovative ideas to push boundaries",
+          "score": "N"
+        },
+        {
+          "text": "Maintaining harmony and supporting team members",
+          "score": "F"
+        },
+        {
+          "text": "Analyzing problems and offering rational solutions",
+          "score": "T"
+        },
+        {
+          "text": "Ensuring accuracy by paying attention to details",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When stressed, you...",
+      "options": [
+        {
+          "text": "Take a break to do something relaxing and unplanned",
+          "score": "P"
+        },
+        {
+          "text": "Talk to friends or do enjoyable activities together",
+          "score": "E"
+        },
+        {
+          "text": "Reflect alone to organize your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "Tackle problems step-by-step according to a plan",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your idea of a 'perfect day' is...",
+      "options": [
+        {
+          "text": "Helping others and feeling emotionally connected",
+          "score": "F"
+        },
+        {
+          "text": "Completing all planned tasks efficiently",
+          "score": "J"
+        },
+        {
+          "text": "Solving a complex problem or learning something new",
+          "score": "T"
+        },
+        {
+          "text": "Having unexpected adventures and spontaneous fun",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to gather information?",
+      "options": [
+        {
+          "text": "Through personal experiences and direct observation",
+          "score": "S"
+        },
+        {
+          "text": "By discussing with others and exchanging ideas",
+          "score": "E"
+        },
+        {
+          "text": "Through imagination and abstract thinking",
+          "score": "N"
+        },
+        {
+          "text": "By reading and reflecting alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "What matters most when making choices?",
+      "options": [
+        {
+          "text": "Long-term potential and future growth",
+          "score": "N"
+        },
+        {
+          "text": "Concrete results and practical outcomes",
+          "score": "S"
+        },
+        {
+          "text": "Others’ feelings and shared values",
+          "score": "F"
+        },
+        {
+          "text": "Objective facts and logical reasoning",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you manage your time?",
+      "options": [
+        {
+          "text": "Keep a fixed schedule and plan ahead",
+          "score": "J"
+        },
+        {
+          "text": "Reserve time for socializing with others",
+          "score": "E"
+        },
+        {
+          "text": "Stay flexible to adapt to changes",
+          "score": "P"
+        },
+        {
+          "text": "Set aside alone time to recharge",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You see yourself as someone who...",
+      "options": [
+        {
+          "text": "Values emotional harmony in relationships",
+          "score": "F"
+        },
+        {
+          "text": "Focuses on the present and practical matters",
+          "score": "S"
+        },
+        {
+          "text": "Prioritizes logical analysis and fairness",
+          "score": "T"
+        },
+        {
+          "text": "Looks toward the future and possibilities",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jisoo’s Calm Companion",
+      "description": "You and Jisoo share a grounded, thoughtful energy. Like her, you value stability and quiet moments, finding joy in life’s simple pleasures. You’re a good listener, offer practical support, and balance warmth with a calm presence—an ISFJ who thrives on making others feel cared for.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Jennie’s Bold Match",
+      "description": "You and Jennie click with your confident, dynamic spirit. You both embrace spontaneity, have a sharp sense of presence, and aren’t afraid to take charge. Your quick wit and adaptability make you a natural pair—an ESTP who shines in the moment.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Rosé’s Artistic Soul",
+      "description": "You and Rosé connect through creativity and emotional depth. Like her, you’re in tune with your feelings, find beauty in expression, and approach life with a dreamy, intuitive perspective. You’re an INFP who values authenticity and meaningful connections.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Lisa’s Energetic Partner",
+      "description": "You and Lisa match with your vibrant, outgoing energy. You both love to explore, bring excitement to every moment, and thrive in social settings. Your enthusiasm and adaptability make you an ESFP—always ready for the next adventure.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Jisoo’s Logical Counterpart",
+      "description": "You balance Jisoo’s warmth with a rational, strategic mind. Like her, you value reliability, but you add a logical edge—analyzing situations calmly and offering practical solutions. You’re an ISTJ who appreciates structure and consistency.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Jennie’s Strategic Ally",
+      "description": "You and Jennie share a sharp, forward-thinking approach. You both excel at planning and executing ideas with confidence, turning visions into reality. Your strategic mindset and charisma make you an ENTJ—natural leaders who inspire others.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Rosé’s Intuitive Confidant",
+      "description": "You and Rosé bond over deep intuition and abstract thinking. Like her, you see beyond the surface, exploring ideas and possibilities with curiosity. You’re an INFJ who understands others deeply and seeks meaningful purpose.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Lisa’s Playful Collaborator",
+      "description": "You and Lisa thrive on fun and flexibility. You both hate routine, love to experiment, and turn even simple tasks into adventures. Your easygoing nature and creativity make you an ENFP—always seeing the bright side.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Jisoo’s Detail-Oriented Match",
+      "description": "You and Jisoo share a love for precision and care. Like her, you notice the little things, ensuring everything is done right, and take pride in reliability. You’re an ISTP who combines practicality with a calm, hands-on approach.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Jennie’s Innovative Equal",
+      "description": "You and Jennie are a dynamic duo of innovation. You both challenge the status quo, think outside the box, and turn ideas into action. Your quick thinking and adaptability make you an ENTP—witty, resourceful, and always one step ahead.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Rosé’s Sensitive Companion",
+      "description": "You and Rosé connect through emotional sensitivity and empathy. Like her, you feel deeply, value harmony, and support others unconditionally. You’re an ISFP who expresses care through actions and finds beauty in everyday moments.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Lisa’s Social Spark",
+      "description": "You and Lisa light up any room with your energy. You both love connecting with people, thrive in group settings, and bring positivity wherever you go. Your outgoing nature makes you an ESFJ—dedicated to making others feel included.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Jisoo’s Thoughtful Strategist",
+      "description": "You and Jisoo balance thoughtfulness with strategy. Like her, you plan carefully, consider all angles, and value wisdom. You’re an INTJ who combines vision with practicality, turning long-term goals into reality.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Jennie’s Calm Realist",
+      "description": "You ground Jennie’s boldness with a steady, realistic perspective. Like her, you’re confident but pragmatic, focusing on what works and staying composed under pressure. You’re an ESTJ who values order and efficiency.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Rosé’s Imaginative Partner",
+      "description": "You and Rosé share a love for imagination and possibility. Like her, you dream big, explore creative ideas, and see the world through a hopeful lens. You’re an INTP who enjoys intellectual exploration and innovative thinking.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Lisa’s Adaptable Friend",
+      "description": "You and Lisa thrive on flexibility and change. You both go with the flow, embrace new experiences, and make every moment engaging. Your easy adaptability makes you an ENFJ—warm, charismatic, and always ready to connect.",
+      "mbti": "ENFJ"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

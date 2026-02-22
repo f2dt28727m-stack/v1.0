@@ -2,22 +2,351 @@
   "quizId": 166,
   "title": "Which BLACKPINK Member's Energy Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover your BLACKPINK personality type!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Member",
-    ",\n ",
     "Music",
-    ",\n ",
     "MBTI"
   ],
-  "description": "Answer 12 questions to discover your BLACKPINK personality type!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When you listen to a BLACKPINK song, you’re most likely to...",
+      "options": [
+        {
+          "text": "Imagine the elaborate stage setup and choreography they might perform",
+          "score": "N"
+        },
+        {
+          "text": "Crank up the volume and dance with friends in the room",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the lyrics to understand the story behind the song",
+          "score": "S"
+        },
+        {
+          "text": "Put on headphones and get lost in the music alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you were part of the BLACKPINK team, you’d prefer to contribute by...",
+      "options": [
+        {
+          "text": "Adapting quickly when plans change last minute",
+          "score": "P"
+        },
+        {
+          "text": "Making sure everyone’s feelings are considered in decisions",
+          "score": "F"
+        },
+        {
+          "text": "Creating a detailed schedule to keep things on track",
+          "score": "J"
+        },
+        {
+          "text": "Analyzing which ideas will work best for the group’s goals",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "During a group practice, you’re the one who...",
+      "options": [
+        {
+          "text": "Stays late to perfect every step until it’s flawless",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorms new ways to make the performance more engaging",
+          "score": "N"
+        },
+        {
+          "text": "Encourages everyone to keep going when energy is low",
+          "score": "E"
+        },
+        {
+          "text": "Notes exactly which moves need tweaking based on the choreographer’s feedback",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When receiving a gift from a fan, you’d react by...",
+      "options": [
+        {
+          "text": "Smiling and thanking them sincerely, remembering their name later",
+          "score": "F"
+        },
+        {
+          "text": "Thinking about how to use the gift practically in your daily life",
+          "score": "T"
+        },
+        {
+          "text": "Putting it with other gifts in a specific box to organize later",
+          "score": "J"
+        },
+        {
+          "text": "Opening it right away and enjoying the moment without overthinking",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If you had to write a song with the members, you’d draw inspiration from...",
+      "options": [
+        {
+          "text": "Stories of overcoming challenges you’ve experienced together",
+          "score": "S"
+        },
+        {
+          "text": "Dreams of future concerts and connecting with fans worldwide",
+          "score": "N"
+        },
+        {
+          "text": "A late-night jam session where everyone shares ideas freely",
+          "score": "E"
+        },
+        {
+          "text": "Quiet moments alone with a notebook, jotting down personal feelings",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a schedule conflict arises, you’d handle it by...",
+      "options": [
+        {
+          "text": "Going with the flow and seeing which option feels right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Checking which choice aligns best with the group’s long-term goals",
+          "score": "T"
+        },
+        {
+          "text": "Asking each member how they feel before making a decision",
+          "score": "F"
+        },
+        {
+          "text": "Referencing the pre-planned calendar to stick to the original plan",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal stage outfit would be...",
+      "options": [
+        {
+          "text": "Something with unique details that tell a story about your personality",
+          "score": "N"
+        },
+        {
+          "text": "A bold design that makes you want to interact with the crowd more",
+          "score": "E"
+        },
+        {
+          "text": "Comfortable yet stylish, with fabrics that move well during dance breaks",
+          "score": "S"
+        },
+        {
+          "text": "Simple but elegant, letting your performance speak for itself",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "At a fan meet, you’d spend time...",
+      "options": [
+        {
+          "text": "Following a set list of activities to ensure everyone gets equal time",
+          "score": "J"
+        },
+        {
+          "text": "Answering fans’ questions with clear, logical explanations",
+          "score": "T"
+        },
+        {
+          "text": "Hugging fans and sharing little stories about your day",
+          "score": "F"
+        },
+        {
+          "text": "Going with the energy of the room, staying longer if the mood feels right",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If someone criticizes your performance, you’d...",
+      "options": [
+        {
+          "text": "Talk to the members about how to improve together",
+          "score": "E"
+        },
+        {
+          "text": "Reflect alone on specific moments that need work",
+          "score": "I"
+        },
+        {
+          "text": "Plan out daily practice sessions to fix the exact issues mentioned",
+          "score": "S"
+        },
+        {
+          "text": "Think about how this feedback fits into your growth as an artist long-term",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "On a rare day off, you’d choose to...",
+      "options": [
+        {
+          "text": "Try a new hobby you’ve been curious about for months",
+          "score": "T"
+        },
+        {
+          "text": "Volunteer with a charity that matters to you and your friends",
+          "score": "F"
+        },
+        {
+          "text": "Wake up without an alarm and see where the day takes you",
+          "score": "P"
+        },
+        {
+          "text": "Stick to a loose routine: coffee, a walk, and finishing a book you started",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Watching a BLACKPINK concert video, you’re drawn to...",
+      "options": [
+        {
+          "text": "The way the members connect with each other on stage",
+          "score": "F"
+        },
+        {
+          "text": "The precision of their dance moves and vocal control",
+          "score": "S"
+        },
+        {
+          "text": "How their performance evolves from the first song to the encore",
+          "score": "N"
+        },
+        {
+          "text": "The energy of the crowd singing along to every lyric",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When setting goals for the group, you’d focus on...",
+      "options": [
+        {
+          "text": "Creating a step-by-step plan to reach specific milestones",
+          "score": "J"
+        },
+        {
+          "text": "Staying open to unexpected opportunities that might arise",
+          "score": "P"
+        },
+        {
+          "text": "Ensuring everyone feels motivated and valued in the process",
+          "score": "F"
+        },
+        {
+          "text": "Choosing goals that will have the biggest impact on your career",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jisoo's Serene Strength",
+      "description": "Like Jisoo, you balance quiet confidence with unwavering reliability. You value tradition and practicality, often the calm anchor in chaotic moments. You listen more than you speak, but your words carry weight—people trust your judgment because you notice the details others miss. Your MBTI is ISTJ: responsible, loyal, and grounded in what works.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Jennie's Bold Charisma",
+      "description": "Jennie’s magnetic energy mirrors yours—you thrive in the spotlight, blending confidence with a sharp, analytical mind. You’re unafraid to take risks and set trends, but you always back up your choices with logic. People are drawn to your mix of charm and practicality, and you excel at turning ideas into action. Your MBTI is ESTP: energetic, adaptable, and ready to take on any challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Rosé's Gentle Passion",
+      "description": "Rosé’s warm, empathetic spirit lives in you. You feel deeply and express yourself through creativity, whether it’s music, art, or kind gestures. You’re a natural optimist, seeing the best in people and situations, and your compassion makes others feel safe to be vulnerable. Your MBTI is INFP: idealistic, creative, and driven by a desire to make a positive impact.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Lisa's Dynamic Spark",
+      "description": "Lisa’s vibrant, free-spirited energy defines you. You love new experiences, thrive in social settings, and bring excitement to every room. You’re adaptable and quick to laugh, turning even mundane tasks into adventures. Your enthusiasm is contagious, and you’re always the first to try something bold. Your MBTI is ESFP: outgoing, spontaneous, and the life of the party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You’re the group’s big-picture thinker, always looking ahead to what could be. Like a hidden leader, you connect ideas others miss, turning dreams into actionable plans. You balance creativity with logic, inspiring the team to aim higher while keeping them grounded. Your MBTI is ENTJ: decisive, strategic, and born to lead.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Nurturing Diplomat",
+      "description": "You’re the heart of any group, ensuring everyone feels heard and valued. You have a gift for resolving conflicts with kindness, turning tension into teamwork. Your intuition lets you sense when someone needs support, and you’re always willing to put others first. Your MBTI is ENFJ: compassionate, charismatic, and a natural caretaker.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Curious Innovator",
+      "description": "You’re endlessly curious, always asking “what if?” and exploring new ideas. You love learning and sharing knowledge, turning even the simplest topics into fascinating conversations. Your mind is a playground of possibilities, and you thrive when collaborating with others to bring creative concepts to life. Your MBTI is ENTP: witty, inventive, and a lover of intellectual challenges.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Quiet Observer",
+      "description": "You notice things others overlook—the way light hits a stage, the unspoken emotions in a room, the subtle nuances of a song. You’re introspective and creative, using your observations to craft deep, meaningful work. You prefer quality over quantity in relationships, and your loyalty runs deep. Your MBTI is INFJ: insightful, compassionate, and a quiet visionary.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Practical Perfectionist",
+      "description": "You take pride in doing things right, with a keen eye for detail and a commitment to excellence. You’re reliable and methodical, turning chaos into order with ease. While you value structure, you’re also flexible enough to adapt when plans change—you just prefer to be prepared. Your MBTI is ISFJ: loyal, hardworking, and the group’s unsung hero.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Adventurous Explorer",
+      "description": "You live for new experiences—trying new foods, visiting new places, or learning new skills. You’re adaptable and thrive in unpredictable situations, turning challenges into stories to tell. Your energy is infectious, and you encourage others to step outside their comfort zones. Your MBTI is ISFP: artistic, spontaneous, and in tune with the world around you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Logical Problem-Solver",
+      "description": "You approach life with a calm, analytical mind, breaking down complex problems into manageable steps. You value facts and fairness, making decisions based on logic rather than emotion. While you’re not one for small talk, your insights are invaluable—people turn to you for solutions when things get tough. Your MBTI is INTJ: strategic, independent, and a master of planning.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Social Connector",
+      "description": "You’re the glue that holds groups together, with a talent for making everyone feel included. You love meeting new people, learning their stories, and creating memorable moments. Your energy lifts others up, and you’re always the first to organize a gathering or celebrate a friend’s success. Your MBTI is ESFJ: warm, outgoing, and the life of any social event.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Analytical Realist",
+      "description": "You see the world clearly, focusing on what’s tangible and proven rather than abstract ideas. You’re practical and efficient, with a knack for troubleshooting and fixing what’s broken. You value honesty and directness, and people trust you to give straightforward, helpful advice. Your MBTI is ISTP: hands-on, logical, and a natural problem-solver.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Dreamy Idealist",
+      "description": "You view life through a lens of possibility, always imagining how things could be better. You’re creative and empathetic, with a deep desire to make the world more beautiful or just. You express yourself through art, music, or writing, using your imagination to inspire others. Your MBTI is INFP: poetic, idealistic, and guided by your values.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Spontaneous Optimist",
+      "description": "You live in the moment, finding joy in the little things and turning ordinary days into adventures. You’re upbeat and flexible, rolling with the punches and making the best of any situation. Your positivity is contagious, and you have a talent for making even the most stressful moments feel manageable. Your MBTI is ENFP: enthusiastic, creative, and always ready for the next big thing.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Steady Rock",
+      "description": "You’re the reliable presence everyone counts on—calm under pressure, consistent in your efforts, and always there when needed. You value stability and tradition, finding comfort in routines that keep life running smoothly. While you may not seek the spotlight, your quiet strength is the foundation of any team. Your MBTI is ISFJ: loyal, patient, and the group’s steady anchor.",
+      "mbti": "ISFJ"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

@@ -2,20 +2,350 @@
   "quizId": 171,
   "title": "Which Harry Potter Character Is Your Soulmate?",
   "category": "match",
+  "description": "Answer 12 questions to discover your Harry Potter soulmate!",
   "tags": [
     "Harry Potter",
-    ",\n ",
     "Soulmate",
-    ",\n ",
     "Character Match",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your Harry Potter soulmate!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "On a free afternoon at Hogwarts, you’d rather...",
+      "options": [
+        {
+          "text": "Find a quiet corner in the library to read a spellbook alone",
+          "score": "I"
+        },
+        {
+          "text": "Organize your potion ingredients and plan tomorrow’s classes",
+          "score": "S"
+        },
+        {
+          "text": "Join a group of friends in the Great Hall for a game of wizard chess",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about exploring hidden passages or inventing new spells",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If a friend argues with you about a school project, you...",
+      "options": [
+        {
+          "text": "Calmly list logical points to resolve the issue objectively",
+          "score": "T"
+        },
+        {
+          "text": "Focus on understanding their feelings and finding a compromise",
+          "score": "F"
+        },
+        {
+          "text": "Adapt your approach based on new ideas that come up",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the original plan you’d already agreed on",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "At a Hogsmeade weekend, you’re most excited to...",
+      "options": [
+        {
+          "text": "Try new treats at Honeydukes and check off items on your shopping list",
+          "score": "S"
+        },
+        {
+          "text": "Meet up with a large group and visit all the shops together",
+          "score": "E"
+        },
+        {
+          "text": "Discuss theories about the Marauders’ map with a friend over butterbeer",
+          "score": "N"
+        },
+        {
+          "text": "Spend time with one close friend at the Three Broomsticks",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When your House is losing the Quidditch Cup, you...",
+      "options": [
+        {
+          "text": "Cheer loudly to boost your team’s morale, even if you’re nervous",
+          "score": "F"
+        },
+        {
+          "text": "Adjust your position mid-game based on how the match is going",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the opposing team’s weaknesses to suggest a strategy",
+          "score": "T"
+        },
+        {
+          "text": "Stick to the training plan you’ve been following all season",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You prefer to learn a new spell by...",
+      "options": [
+        {
+          "text": "Imagining how the spell’s energy flows and experimenting with variations",
+          "score": "N"
+        },
+        {
+          "text": "Studying the theory alone first before trying it yourself",
+          "score": "I"
+        },
+        {
+          "text": "Practicing it step-by-step until you get the wand movement right",
+          "score": "S"
+        },
+        {
+          "text": "Working with a partner to practice and correct each other",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a new pet at Diagon Alley, you decide based on...",
+      "options": [
+        {
+          "text": "Which pet would be most practical for your daily needs",
+          "score": "T"
+        },
+        {
+          "text": "Which pet catches your eye in the moment",
+          "score": "P"
+        },
+        {
+          "text": "How well you connect emotionally with the animal",
+          "score": "F"
+        },
+        {
+          "text": "A list of pros and cons you made beforehand",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During the Yule Ball, you spend most of your time...",
+      "options": [
+        {
+          "text": "Having deep conversations with a few close friends",
+          "score": "I"
+        },
+        {
+          "text": "Imagining the stories behind the guests’ outfits and backgrounds",
+          "score": "N"
+        },
+        {
+          "text": "Dancing and chatting with as many people as possible",
+          "score": "E"
+        },
+        {
+          "text": "Enjoying the food, decorations, and the music’s rhythm",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your friend loses their homework, you help by...",
+      "options": [
+        {
+          "text": "Brainstorming all possible places they might have left it",
+          "score": "N"
+        },
+        {
+          "text": "Creating a logical system to organize their things next time",
+          "score": "T"
+        },
+        {
+          "text": "Retracing their steps to check classrooms and common rooms",
+          "score": "S"
+        },
+        {
+          "text": "Reminding them to stay calm and offering to help rewrite it",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Preparing for O.W.L.s, you...",
+      "options": [
+        {
+          "text": "Study when you feel most focused, even if it’s last minute",
+          "score": "P"
+        },
+        {
+          "text": "Form a study group to review notes and quiz each other",
+          "score": "E"
+        },
+        {
+          "text": "Follow a strict study schedule you made weeks ago",
+          "score": "J"
+        },
+        {
+          "text": "Study alone in a quiet space to avoid distractions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "What matters most to you in a friendship?",
+      "options": [
+        {
+          "text": "Honesty and the ability to solve problems together logically",
+          "score": "T"
+        },
+        {
+          "text": "Shared dreams and the ability to inspire each other",
+          "score": "N"
+        },
+        {
+          "text": "Loyalty and being there for each other through tough times",
+          "score": "F"
+        },
+        {
+          "text": "Shared daily routines and small, consistent acts of kindness",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When your favorite professor is replaced last minute, you...",
+      "options": [
+        {
+          "text": "Feel frustrated and stick to your original study plan as much as possible",
+          "score": "J"
+        },
+        {
+          "text": "Reflect quietly on how this might affect your goals",
+          "score": "I"
+        },
+        {
+          "text": "Adapt quickly and look for new things to learn from the new teacher",
+          "score": "P"
+        },
+        {
+          "text": "Talk to friends to share your feelings about the change",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "If you found a mysterious door in the castle, you’d...",
+      "options": [
+        {
+          "text": "Check if it’s safe and what practical uses it might have",
+          "score": "S"
+        },
+        {
+          "text": "Analyze the door’s locks and mechanisms before deciding to enter",
+          "score": "T"
+        },
+        {
+          "text": "Wonder what secrets or magical possibilities lie behind it",
+          "score": "N"
+        },
+        {
+          "text": "Invite a friend to explore it with you, just in case",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Harry Potter",
+      "description": "Your soulmate is Harry Potter! Like him, you’re loyal, brave, and guided by strong values. You trust your instincts, care deeply for loved ones, and stay resilient through hardship. You’re an ISFP—compassionate, adaptable, and unafraid to fight for what’s right, even when the path is unclear.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Hermione Granger",
+      "description": "Your soulmate is Hermione Granger! You’re sharp, driven, and value knowledge—you thrive on learning and solving complex problems. Like her, you’re organized, loyal, and unapologetically yourself. You’re an INTJ—strategic, independent, and always one step ahead in pursuit of your goals.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Ron Weasley",
+      "description": "Your soulmate is Ron Weasley! You’re warm, humorous, and the life of the group—you value connection and make everyone feel included. Like him, you’re fiercely loyal and bring lightness to tough situations. You’re an ESFP—energetic, friendly, and always ready for an adventure with friends.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Ginny Weasley",
+      "description": "Your soulmate is Ginny Weasley! You’re bold, confident, and unafraid to take charge—you thrive in dynamic situations and love a good challenge. Like her, you’re passionate and quick-witted, with a knack for turning chaos into opportunity. You’re an ESTP—practical, adaptable, and always up for action.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Draco Malfoy",
+      "description": "Your soulmate is Draco Malfoy! You’re ambitious, proud, and deeply loyal to those you care about—even if you hide it well. Like him, you’re strategic and value tradition, with a complex inner world that few get to see. You’re an ESTJ—driven, organized, and unapologetically true to your beliefs.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Luna Lovegood",
+      "description": "Your soulmate is Luna Lovegood! You’re creative, open-minded, and see beauty in the unusual—you march to the beat of your own drum. Like her, you’re kind, intuitive, and find magic in life’s small moments. You’re an INFP—idealistic, compassionate, and deeply connected to your inner world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Neville Longbottom",
+      "description": "Your soulmate is Neville Longbottom! You’re kind, steady, and grow stronger with time—you may doubt yourself, but your courage shines when it matters most. Like him, you’re loyal and protective of your loved ones. You’re an ISFJ—dependable, nurturing, and always ready to support others.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Fred Weasley",
+      "description": "Your soulmate is Fred Weasley! You’re a natural prankster, quick-witted, and thrive on making others laugh. Like him, you’re innovative and see the world as a playground for ideas. You’re an ENTP—clever, adaptable, and always looking for the next big adventure (and a good joke).",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "George Weasley",
+      "description": "Your soulmate is George Weasley! You’re creative, entrepreneurial, and have a gift for turning ideas into reality. Like him, you balance humor with heart, and your loyalty to your loved ones is unwavering. You’re an ENTP—resourceful, energetic, and always ready to challenge the status quo.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Sirius Black",
+      "description": "Your soulmate is Sirius Black! You’re passionate, free-spirited, and loyal to the core—you’d risk everything for those you love. Like him, you’re charismatic and unafraid to break rules to do what’s right. You’re an ENFP—optimistic, imaginative, and always chasing freedom and truth.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Remus Lupin",
+      "description": "Your soulmate is Remus Lupin! You’re intelligent, empathetic, and have a quiet wisdom that draws others to you. Like him, you’re a good listener and find strength in understanding. You’re an INTP—curious, analytical, and deeply thoughtful, with a knack for seeing multiple perspectives.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Nymphadora Tonks",
+      "description": "Your soulmate is Nymphadora Tonks! You’re playful, adaptable, and wear your heart on your sleeve—you love making people smile and embrace change with enthusiasm. Like her, you’re brave and fiercely loyal. You’re an ESFP—energetic, spontaneous, and always ready for new experiences.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Severus Snape",
+      "description": "Your soulmate is Severus Snape! You’re complex, passionate, and guard your emotions closely—your loyalty runs deep, even if it’s not always visible. Like him, you’re intelligent and driven by a sense of purpose. You’re an INTJ—strategic, private, and willing to make sacrifices for what you believe in.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Minerva McGonagall",
+      "description": "Your soulmate is Minerva McGonagall! You’re disciplined, wise, and have a strong sense of duty—you command respect through your integrity and fairness. Like her, you’re organized and care deeply about those under your guidance. You’re an ISTJ—responsible, practical, and a pillar of strength in any situation.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Albus Dumbledore",
+      "description": "Your soulmate is Albus Dumbledore! You’re wise, visionary, and see the best in people—you inspire others to be better and believe in the power of hope. Like him, you’re strategic and willing to take risks for the greater good. You’re an ENFJ—compassionate, charismatic, and a natural leader who uplifts those around you.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Rubeus Hagrid",
+      "description": "Your soulmate is Rubeus Hagrid! You’re kind, generous, and have a big heart—you see the beauty in everyone, no matter how misunderstood. Like him, you’re loyal and protective, with a love for nature and simple joys. You’re an ESFJ—warm, nurturing, and always ready to welcome others into your world.",
+      "mbti": "ESFJ"
+    }
+  ],
   "emoji": [
     "⚡",
     "🧙",

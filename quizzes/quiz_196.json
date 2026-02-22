@@ -2,20 +2,350 @@
   "quizId": 196,
   "title": "How Career-Mature Are You?",
   "category": "how",
+  "description": "Answer 12 questions to discover your career maturity!",
   "tags": [
     "Career",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Professional Growth",
-    ",\n ",
     "Work Traits"
   ],
-  "description": "Answer 12 questions to discover your career maturity!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When starting a new project, you typically...",
+      "options": [
+        {
+          "text": "Spend time alone researching and outlining key points",
+          "score": "I"
+        },
+        {
+          "text": "Focus on defining clear, actionable steps",
+          "score": "S"
+        },
+        {
+          "text": "Gather the team to brainstorm ideas together",
+          "score": "E"
+        },
+        {
+          "text": "Explore innovative approaches and long-term goals",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When resolving a team conflict, you prioritize...",
+      "options": [
+        {
+          "text": "Identifying logical solutions based on facts",
+          "score": "T"
+        },
+        {
+          "text": "Adapting to the situation and letting the conversation flow naturally",
+          "score": "P"
+        },
+        {
+          "text": "Understanding each person’s perspective and feelings",
+          "score": "F"
+        },
+        {
+          "text": "Following established protocols to reach a quick resolution",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "After receiving constructive feedback at work, you...",
+      "options": [
+        {
+          "text": "Reflect on it privately and create a personal improvement plan",
+          "score": "I"
+        },
+        {
+          "text": "Analyze the feedback objectively to identify specific areas for growth",
+          "score": "T"
+        },
+        {
+          "text": "Schedule a meeting to discuss it with colleagues and get their input",
+          "score": "E"
+        },
+        {
+          "text": "Consider how the feedback impacts team dynamics and morale",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When approaching a tight deadline, you...",
+      "options": [
+        {
+          "text": "Focus on the big picture and adjust priorities as needed",
+          "score": "N"
+        },
+        {
+          "text": "Stick strictly to the original plan to ensure on-time delivery",
+          "score": "J"
+        },
+        {
+          "text": "Break the task into smaller, manageable steps with clear timelines",
+          "score": "S"
+        },
+        {
+          "text": "Stay flexible and adapt your workflow based on emerging needs",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At a work networking event, you tend to...",
+      "options": [
+        {
+          "text": "Initiate conversations with new people and exchange contact info",
+          "score": "E"
+        },
+        {
+          "text": "Discuss future trends and potential collaborations",
+          "score": "N"
+        },
+        {
+          "text": "Engage in deep conversations with a few familiar colleagues",
+          "score": "I"
+        },
+        {
+          "text": "Focus on learning practical tips and industry updates",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When making a tough career decision, you rely on...",
+      "options": [
+        {
+          "text": "How the choice aligns with your personal values and passions",
+          "score": "F"
+        },
+        {
+          "text": "Setting a deadline to decide and sticking to it",
+          "score": "J"
+        },
+        {
+          "text": "Data, pros/cons lists, and long-term logical outcomes",
+          "score": "T"
+        },
+        {
+          "text": "Gathering input until you feel confident, even if it takes longer",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new work skill, you prefer to...",
+      "options": [
+        {
+          "text": "Learn independently through online courses and self-practice",
+          "score": "I"
+        },
+        {
+          "text": "Follow step-by-step tutorials and practice with real examples",
+          "score": "S"
+        },
+        {
+          "text": "Experiment with different methods to find creative applications",
+          "score": "N"
+        },
+        {
+          "text": "Take a group workshop or join a study team",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When stressed at work, you cope by...",
+      "options": [
+        {
+          "text": "Analyzing the root cause and creating a problem-solving plan",
+          "score": "T"
+        },
+        {
+          "text": "Talking to a trusted colleague about your feelings",
+          "score": "F"
+        },
+        {
+          "text": "Taking short breaks to recharge and reassess priorities",
+          "score": "P"
+        },
+        {
+          "text": "Organizing your tasks and setting small, achievable goals",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you excel at...",
+      "options": [
+        {
+          "text": "Motivating others and keeping the team energized",
+          "score": "E"
+        },
+        {
+          "text": "Ensuring everyone feels heard and valued",
+          "score": "F"
+        },
+        {
+          "text": "Focusing on your assigned tasks with minimal distraction",
+          "score": "I"
+        },
+        {
+          "text": "Identifying inefficiencies and proposing logical solutions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When planning your career path, you focus on...",
+      "options": [
+        {
+          "text": "Exploring potential industries and growth opportunities",
+          "score": "N"
+        },
+        {
+          "text": "Acquiring specific skills needed for your next role",
+          "score": "S"
+        },
+        {
+          "text": "Staying open to unexpected opportunities as they arise",
+          "score": "P"
+        },
+        {
+          "text": "Setting 5-year goals with clear milestones",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When explaining a complex idea to your team, you...",
+      "options": [
+        {
+          "text": "Present the information clearly and concisely, then answer questions",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the big-picture vision and how it connects to team goals",
+          "score": "N"
+        },
+        {
+          "text": "Provide detailed, step-by-step explanations with concrete examples",
+          "score": "S"
+        },
+        {
+          "text": "Use storytelling and interactive examples to engage everyone",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When balancing work and personal life, you prioritize...",
+      "options": [
+        {
+          "text": "Ensuring your relationships and well-being don’t suffer",
+          "score": "F"
+        },
+        {
+          "text": "Going with the flow and adjusting as priorities shift",
+          "score": "P"
+        },
+        {
+          "text": "Efficiency in both areas to maximize productivity",
+          "score": "T"
+        },
+        {
+          "text": "Scheduling dedicated time for work and personal activities",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Strategic Organizer",
+      "description": "You thrive in structured environments, turning plans into action with precision. Your logical approach and focus on efficiency make you a reliable leader, ensuring teams stay on track while upholding high standards. You balance practicality with decisiveness, turning goals into tangible results.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Compassionate Mediator",
+      "description": "You excel at fostering harmony in teams, prioritizing empathy and collaboration. Your ability to understand others’ perspectives makes you a trusted confidant, and you naturally guide groups toward solutions that honor everyone’s needs. You turn conflict into connection, building strong, resilient teams.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Visionary Innovator",
+      "description": "You see possibilities others miss, blending creativity with strategic foresight. Your enthusiasm for new ideas energizes teams, and you thrive on exploring uncharted territory. You balance big-picture thinking with adaptability, turning abstract concepts into impactful, forward-thinking plans.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Analytical Strategist",
+      "description": "You approach challenges with冷静 logic, dissecting problems to find optimal solutions. Your ability to see patterns and anticipate outcomes makes you a go-to for critical decisions. You balance data-driven thinking with strategic vision, ensuring every choice aligns with long-term goals.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Detail-Oriented Specialist",
+      "description": "You excel at mastering specific skills, with a keen eye for precision and quality. Your focus on practical execution ensures tasks are done right the first time, and you thrive in roles that require deep expertise. You balance thoroughness with reliability, becoming an indispensable asset to any team.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Empathetic Counselor",
+      "description": "You connect deeply with others, using your intuition to understand unspoken needs. Your ability to listen and guide makes you a source of support, and you excel at creating environments where people feel valued. You balance sensitivity with insight, helping individuals and teams grow.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Curious Explorer",
+      "description": "You’re driven by a love of learning, constantly seeking new knowledge and experiences. Your open-mindedness and adaptability make you a versatile team member, thriving in dynamic environments. You balance curiosity with creativity, turning new insights into innovative approaches to work.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Practical Problem-Solver",
+      "description": "You tackle challenges head-on, using hands-on experience and common sense to find solutions. Your focus on real-world results makes you a reliable contributor, and you excel at turning ideas into actionable steps. You balance pragmatism with resourcefulness, thriving in roles that demand tangible outcomes.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Bold Trailblazer",
+      "description": "You’re unafraid to take risks, with a natural ability to inspire others to follow. Your confidence and charisma make you a dynamic leader, and you thrive in high-energy environments. You balance ambition with adaptability, turning obstacles into opportunities for growth.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Nurturing Collaborator",
+      "description": "You excel at building relationships, using warmth and generosity to create cohesive teams. Your focus on people ensures everyone feels included, and you thrive in roles that involve supporting others’ growth. You balance empathy with practicality, turning group dynamics into collective success.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You see the big picture with clarity, combining intuition with strategic planning. Your ability to anticipate trends makes you a forward-thinking leader, and you excel at aligning teams with long-term goals. You balance innovation with structure, turning vision into actionable strategies.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Logical Innovator",
+      "description": "You thrive on solving complex problems, using creativity and logic to challenge the status quo. Your love of debate and idea exploration makes you a catalyst for change, and you excel at turning abstract concepts into practical solutions. You balance intellect with curiosity, pushing boundaries in your field.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Independent Expert",
+      "description": "You prefer working solo, diving deep into projects with focus and precision. Your self-reliance and attention to detail make you a master of your craft, and you thrive in roles that require specialized knowledge. You balance independence with reliability, delivering high-quality work with minimal oversight.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Creative Idealist",
+      "description": "You’re driven by your values and a vision of what could be, using creativity to bring ideas to life. Your ability to see connections others miss makes you a unique contributor, and you thrive in environments that encourage self-expression. You balance idealism with passion, inspiring others to pursue meaningful work.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Adaptable Realist",
+      "description": "You roll with change effortlessly, using practicality and flexibility to thrive in dynamic settings. Your ability to stay calm under pressure makes you a reliable team member, and you excel at finding quick, effective solutions. You balance adaptability with common sense, turning chaos into order.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Reflective Strategist",
+      "description": "You approach work with thoughtfulness, using deep analysis to make informed decisions. Your ability to connect ideas across disciplines makes you a creative problem-solver, and you thrive in roles that require both intellect and intuition. You balance reflection with action, ensuring every choice is purposeful.",
+      "mbti": "INTJ"
+    }
+  ],
   "emoji": [
     "💼",
     "📈",

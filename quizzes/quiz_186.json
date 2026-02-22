@@ -2,20 +2,350 @@
   "quizId": 186,
   "title": "How Disney Are You?",
   "category": "how",
+  "description": "Answer 12 questions to discover how Disney you are!",
   "tags": [
     "Disney",
-    ",\n ",
     "Disney Personality",
-    ",\n ",
     "Disney Fan",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "How Disney"
   ],
-  "description": "Answer 12 questions to discover how Disney you are!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When watching a Disney movie, you tend to...",
+      "options": [
+        {
+          "text": "Notice the intricate details of character costumes and set designs",
+          "score": "S"
+        },
+        {
+          "text": "Reflect on the deeper life lessons the story might be teaching",
+          "score": "N"
+        },
+        {
+          "text": "Enjoy it alone, savoring the quiet immersion in the story",
+          "score": "I"
+        },
+        {
+          "text": "Invite friends over to laugh and discuss scenes together",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Planning a trip to Disney World, you would...",
+      "options": [
+        {
+          "text": "Go with the flow, deciding on rides as you walk through the park",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize rides that create the most meaningful memories with loved ones",
+          "score": "F"
+        },
+        {
+          "text": "Create a detailed schedule with times for each ride and show",
+          "score": "J"
+        },
+        {
+          "text": "Choose rides based on wait times and overall efficiency",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "What draws you to a Disney character?",
+      "options": [
+        {
+          "text": "Their ability to solve problems with clever strategies",
+          "score": "T"
+        },
+        {
+          "text": "Their kind heart and willingness to help others",
+          "score": "F"
+        },
+        {
+          "text": "Their unique appearance and memorable catchphrases",
+          "score": "S"
+        },
+        {
+          "text": "Their big dreams and courage to chase the unknown",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you hear a Disney song, you...",
+      "options": [
+        {
+          "text": "Start singing and dancing, even if others are watching",
+          "score": "E"
+        },
+        {
+          "text": "Let the melody bring back specific movie scenes in order",
+          "score": "J"
+        },
+        {
+          "text": "Hum quietly to yourself, lost in personal reflection",
+          "score": "I"
+        },
+        {
+          "text": "Randomly想起不同电影的片段，没有固定顺序",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Choosing Disney merchandise, you prefer items that...",
+      "options": [
+        {
+          "text": "Have a special meaning, reminding you of a favorite moment",
+          "score": "F"
+        },
+        {
+          "text": "Are useful in daily life, like a mug or backpack",
+          "score": "S"
+        },
+        {
+          "text": "Are limited edition or have unique artistic value",
+          "score": "N"
+        },
+        {
+          "text": "Offer the best quality for the price",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Discussing a Disney movie with others, you...",
+      "options": [
+        {
+          "text": "Share your thoughts openly and ask others for their opinions",
+          "score": "E"
+        },
+        {
+          "text": "Take time to form a clear analysis before speaking",
+          "score": "J"
+        },
+        {
+          "text": "Prefer to listen more than talk, absorbing others’ perspectives",
+          "score": "I"
+        },
+        {
+          "text": "Enjoy exploring different ideas without needing a conclusion",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At a Disney-themed party, you would...",
+      "options": [
+        {
+          "text": "Dress up in a detailed costume with props and accessories",
+          "score": "S"
+        },
+        {
+          "text": "Help plan games and activities to keep everyone engaged",
+          "score": "E"
+        },
+        {
+          "text": "Come up with a unique theme idea for the party",
+          "score": "N"
+        },
+        {
+          "text": "Relax and enjoy the氛围 without taking on leadership roles",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Watching a classic Disney scene (e.g., Simba’s presentation in The Lion King), you...",
+      "options": [
+        {
+          "text": "Feel a strong emotional connection, sometimes tearing up",
+          "score": "F"
+        },
+        {
+          "text": "Appreciate how the scene advances the plot logically",
+          "score": "T"
+        },
+        {
+          "text": "Look forward to seeing the same familiar moments",
+          "score": "J"
+        },
+        {
+          "text": "Notice new background details you haven’t seen before",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Preparing for a Disney trip, you focus on...",
+      "options": [
+        {
+          "text": "Researching weather, transportation, and packing lists",
+          "score": "S"
+        },
+        {
+          "text": "Imagining all the fun experiences you’ll have",
+          "score": "N"
+        },
+        {
+          "text": "Setting specific goals, like riding 10 attractions in a day",
+          "score": "J"
+        },
+        {
+          "text": "Leaving room for unexpected detours and discoveries",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When imitating a Disney character, you...",
+      "options": [
+        {
+          "text": "Do it playfully in front of friends, enjoying their reactions",
+          "score": "E"
+        },
+        {
+          "text": "Practice their voice and mannerisms in private",
+          "score": "I"
+        },
+        {
+          "text": "Try to capture their kind and caring qualities",
+          "score": "F"
+        },
+        {
+          "text": "Focus on their clever lines and problem-solving style",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your approach to rewatching Disney movies is to...",
+      "options": [
+        {
+          "text": "Stick to favorites you know by heart",
+          "score": "S"
+        },
+        {
+          "text": "Explore new Disney films you haven’t seen yet",
+          "score": "N"
+        },
+        {
+          "text": "Watch them for the nostalgic memories they bring",
+          "score": "F"
+        },
+        {
+          "text": "Analyze how different versions compare (e.g., animated vs. live-action)",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you have a Disney-related dream (e.g., visiting a park, meeting a character), you...",
+      "options": [
+        {
+          "text": "Share it with others and plan how to make it happen together",
+          "score": "E"
+        },
+        {
+          "text": "Keep it to yourself, working quietly toward making it real",
+          "score": "I"
+        },
+        {
+          "text": "Break it down into steps with deadlines",
+          "score": "J"
+        },
+        {
+          "text": "Trust that it will happen when the time feels right",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Magical Optimist",
+      "description": "You see Disney not just as stories, but as a reflection of hope. You’re drawn to tales of courage and kindness, often finding yourself cheering for underdogs. Your warmth and belief in happy endings make you a joy to be around—people feel comforted by your ability to find magic in everyday moments.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Storyteller's Soul",
+      "description": "Disney stories aren’t just entertainment for you—they’re a source of inspiration. You analyze characters’ journeys, uncover hidden themes, and love sharing your insights. Your mind is full of headcanons and theories, and you find beauty in the way stories connect us all.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Castle Traditionalist",
+      "description": "You cherish Disney’s classic magic—the original princesses, the iconic soundtracks, and the timeless tales. You find comfort in the familiar, often rewatch your childhood favorites, and can quote lines from memory. Your loyalty to tradition makes you a keeper of Disney’s heart.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Adventure Seeker",
+      "description": "From Moana’s ocean voyages to Aladdin’s desert quests, you live for Disney’s adventurous spirit. You crave new experiences, love exploring unknown worlds, and aren’t afraid to take risks—just like your favorite heroes. Your enthusiasm for adventure is contagious.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Heartfelt Romantic",
+      "description": "Disney’s love stories make your heart flutter—whether it’s Belle and Beast’s quiet connection or Tiana and Naveen’s growth together. You believe in the power of love to transform, and you value deep, genuine relationships. Your empathy makes you attuned to others’ emotions.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Planner",
+      "description": "When visiting Disney parks, you’ve got the perfect itinerary: fast passes booked, dining reservations set, and every minute accounted for. You thrive on organization and love the satisfaction of a well-executed plan. Your logical approach ensures no magic moment is missed.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Creative Visionary",
+      "description": "You don’t just watch Disney movies—you imagine new worlds, remix songs, or even write your own fan stories. Disney fuels your creativity, and you see endless possibilities in every tale. Your mind is a playground of ideas, and you love bringing them to life.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Quiet Dreamer",
+      "description": "Disney magic touches you in quiet ways—you might tear up during “Circle of Life” or smile at a hidden Mickey. You prefer to absorb the magic alone, letting stories resonate deeply within you. Your inner world is rich, and you find strength in the lessons Disney teaches.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Detail Detective",
+      "description": "You notice everything: the pattern on Cinderella’s dress, the hidden easter eggs in “Frozen,” the way lighting sets a scene. Disney’s craftsmanship amazes you, and you appreciate the small touches that make stories feel real. Your attention to detail makes you a walking Disney encyclopedia.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Social Spark",
+      "description": "Disney is best shared with others for you—whether it’s singing “Hakuna Matata” with friends or bonding over a Disney movie night. You love organizing Disney-themed gatherings and creating memories with loved ones. Your energy lights up any room.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Logic Lover",
+      "description": "You appreciate Disney’s storytelling for its structure: the hero’s journey, the plot twists, the character development. You might debate the logistics of “Zootopia” or analyze the science of “Big Hero 6.” Your rational mind finds beauty in well-crafted narratives.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Spontaneous Explorer",
+      "description": "Disney parks are for wandering—no plan, just curiosity. You’ll follow a parade, stop for churros, or linger at a hidden garden you stumbled upon. You embrace the unexpected, finding magic in unplanned moments. Your flexibility makes every Disney experience unique.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Bold Leader",
+      "description": "You channel Mulan’s courage and Simba’s strength—you’re not afraid to take charge and stand up for what’s right. Disney heroes inspire you to lead with confidence, and you’re always ready to rally others toward a common goal. Your determination is unstoppable.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Visionary Leader",
+      "description": "You see Disney’s stories as blueprints for success—Mickey’s innovation, Elsa’s growth, Moana’s leadership. You set big goals, inspire others to follow, and turn dreams into reality. Your confidence and strategic mind make you a force to be reckoned with.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Witty Innovator",
+      "description": "You love Disney’s clever side—Genie’s jokes, Timon and Pumbaa’s humor, Olaf’s wit. You’re quick with a quip, think outside the box, and turn ordinary moments into adventures. Your creativity and humor make you the life of any Disney discussion.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Calm Observer",
+      "description": "You watch Disney with a quiet intensity, taking in every nuance of character and setting. You prefer to listen and observe, finding wisdom in the stories’ subtleties. You’re independent, practical, and have a knack for seeing things others miss.",
+      "mbti": "ISTP"
+    }
+  ],
   "emoji": [
     "👸",
     "🏰",

@@ -2,20 +2,350 @@
   "quizId": 183,
   "title": "Which Disney Character Is Your Perfect Soulmate?",
   "category": "match",
+  "description": "Answer 12 questions to discover your Disney soulmate!",
   "tags": [
     "Disney",
-    ",\n ",
     "Soulmate",
-    ",\n ",
     "Character",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your Disney soulmate!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When planning a weekend, you’d rather...",
+      "options": [
+        {
+          "text": "Map out every ride and show time to make sure you don’t miss a thing",
+          "score": "S"
+        },
+        {
+          "text": "Wander without a plan, letting unexpected magic guide your day",
+          "score": "N"
+        },
+        {
+          "text": "Spend the day at a bustling Disney park with friends, chatting and laughing",
+          "score": "E"
+        },
+        {
+          "text": "Stay home, curl up with a Disney movie, and enjoy quiet time alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If a friend feels hurt by something you said, you...",
+      "options": [
+        {
+          "text": "Calmly explain your perspective and clarify the misunderstanding",
+          "score": "T"
+        },
+        {
+          "text": "Hug them and say, ‘I’m here—let’s talk about how you feel’",
+          "score": "F"
+        },
+        {
+          "text": "Give them space and trust the relationship will heal naturally",
+          "score": "P"
+        },
+        {
+          "text": "Set aside time later to have a structured conversation to resolve it",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new hobby (like painting or playing an instrument), you...",
+      "options": [
+        {
+          "text": "Teach yourself using online tutorials, focusing on your own pace",
+          "score": "I"
+        },
+        {
+          "text": "Join a group class to learn with others and share progress",
+          "score": "E"
+        },
+        {
+          "text": "Sketch ideas first, imagining all the creative ways you could use the skill",
+          "score": "N"
+        },
+        {
+          "text": "Start with basic exercises and practice step-by-step until you master them",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal Disney vacation would prioritize...",
+      "options": [
+        {
+          "text": "Going with the flow, stopping to enjoy little moments like a churro break",
+          "score": "P"
+        },
+        {
+          "text": "Following a strict itinerary to ensure you experience everything on your list",
+          "score": "J"
+        },
+        {
+          "text": "Making memories with loved ones, like watching fireworks together",
+          "score": "F"
+        },
+        {
+          "text": "Maximizing efficiency—hitting the most popular rides with minimal wait time",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When solving a problem, you’re more likely to...",
+      "options": [
+        {
+          "text": "Brainstorm wild ideas, even if they seem impossible at first",
+          "score": "N"
+        },
+        {
+          "text": "Look at what’s worked before and apply proven solutions",
+          "score": "S"
+        },
+        {
+          "text": "Consider how each option affects the people involved",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the facts objectively to find the most logical answer",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At a party, you’re the one who...",
+      "options": [
+        {
+          "text": "Starts conversations with strangers, making everyone feel welcome",
+          "score": "E"
+        },
+        {
+          "text": "Goes with the energy of the room, joining in whatever feels fun",
+          "score": "P"
+        },
+        {
+          "text": "Sticks to a small group of close friends, having deep talks",
+          "score": "I"
+        },
+        {
+          "text": "Helps organize games or activities to keep things lively",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a movie to watch, you prefer...",
+      "options": [
+        {
+          "text": "A film that makes you laugh and cry, connecting emotionally",
+          "score": "F"
+        },
+        {
+          "text": "A clever plot with unexpected twists and logical puzzles",
+          "score": "T"
+        },
+        {
+          "text": "A fantasy adventure with imaginative worlds and big ideas",
+          "score": "N"
+        },
+        {
+          "text": "A heartwarming story with relatable, everyday moments",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle last-minute changes to plans?",
+      "options": [
+        {
+          "text": "Get excited—new plans mean new opportunities to explore",
+          "score": "P"
+        },
+        {
+          "text": "Take a moment to process alone before deciding what to do",
+          "score": "I"
+        },
+        {
+          "text": "Feel stressed and try to adjust the schedule to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Call friends to see if they want to join the new activity",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When giving a gift, you focus on...",
+      "options": [
+        {
+          "text": "Details they mentioned wanting, like a specific book or item",
+          "score": "S"
+        },
+        {
+          "text": "How much thought it shows—something that reflects their personality",
+          "score": "F"
+        },
+        {
+          "text": "A unique experience or idea they’ve never tried before",
+          "score": "N"
+        },
+        {
+          "text": "Practicality—something they’ll actually use often",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you Excel at...",
+      "options": [
+        {
+          "text": "Focusing on your task quietly, ensuring high-quality work",
+          "score": "I"
+        },
+        {
+          "text": "Organizing deadlines and making sure everyone stays on schedule",
+          "score": "J"
+        },
+        {
+          "text": "Adapting to changes and finding creative solutions on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Motivating others and keeping the group energized",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on the past, you often think about...",
+      "options": [
+        {
+          "text": "What you could have done differently to improve outcomes",
+          "score": "T"
+        },
+        {
+          "text": "Specific moments you shared with others, like a favorite childhood trip",
+          "score": "S"
+        },
+        {
+          "text": "Lessons you learned that shape how you imagine the future",
+          "score": "N"
+        },
+        {
+          "text": "How people made you feel—warm memories of love and connection",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your perfect day off would involve...",
+      "options": [
+        {
+          "text": "Ticking off tasks from your to-do list, feeling accomplished",
+          "score": "J"
+        },
+        {
+          "text": "Hosting a game night with friends, full of laughter and snacks",
+          "score": "E"
+        },
+        {
+          "text": "Exploring a new park or café, seeing where the day takes you",
+          "score": "P"
+        },
+        {
+          "text": "Reading a book or journaling in a cozy corner of your home",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Mickey Mouse",
+      "description": "Your soulmate is Mickey Mouse! Like this iconic leader, they’re warm, outgoing, and thrive on bringing joy to others. They’re reliable and always ready to lend a hand, with a heart as big as their smile. Together, you’ll share laughter, adventure, and a love for making every moment count. They’re an ESFJ—loyal, social, and the ultimate team player.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Elsa",
+      "description": "Elsa is your perfect match! They’re introspective, creative, and have a depth that draws you in. With a gift for seeing the bigger picture and a heart that cares deeply, they balance independence with a quiet warmth. You’ll connect over shared dreams and a love for meaningful conversations. They’re an INFJ—insightful, compassionate, and full of quiet strength.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Moana",
+      "description": "Moana is your soulmate! Bold, practical, and always up for an adventure, they trust their instincts and tackle challenges head-on. They’re grounded yet free-spirited, with a passion for exploring new horizons. Together, you’ll navigate life’s waves with courage and curiosity. They’re an ESTP—adaptable, action-oriented, and the life of any journey.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Belle",
+      "description": "Belle is your ideal match! They’re imaginative, kind, and see the beauty in everyone. With a love for stories and a mind that craves knowledge, they value depth and authenticity. You’ll bond over shared ideas and a mutual respect for growth. They’re an INFP—idealistic, creative, and deeply in touch with their values.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Simba",
+      "description": "Simba is your soulmate! Playful, energetic, and full of life, they live in the moment and spread positivity wherever they go. They’re brave and loyal, with a heart that loves fiercely. Together, you’ll embrace adventure and find joy in the simplest things. They’re an ESFP—spontaneous,热情, and the life of the party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Tinker Bell",
+      "description": "Tinker Bell is your perfect match! Fiery, creative, and full of passion, they bring magic to every day with their quick wit and big personality. They’re loyal to those they love and aren’t afraid to stand up for what’s right. You’ll spark each other’s creativity and keep life exciting. They’re an ENFP—enthusiastic, imaginative, and always ready for a new idea.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Winnie the Pooh",
+      "description": "Winnie the Pooh is your soulmate! Warm, gentle, and deeply caring, they prioritize the people they love above all else. With a calm presence and a heart full of kindness, they make every day feel cozy and safe. You’ll share quiet moments and a love for the little joys in life. They’re an ISFJ—nurturing, reliable, and the ultimate comfort.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Cinderella",
+      "description": "Cinderella is your ideal match! Graceful, patient, and resilient, they see the good in every situation and never lose hope. They’re hardworking and kind, with a quiet strength that inspires those around them. Together, you’ll build a life filled with warmth and mutual respect. They’re an ISFJ—dedicated, compassionate, and always ready to help.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Merida",
+      "description": "Merida is your soulmate! Independent, bold, and unapologetically herself, she values freedom and isn’t afraid to chart her own path. With a practical mind and a love for adventure, she tackles challenges with courage. You’ll bond over shared independence and a mutual love for authenticity. She’s an ISTP—resourceful, logical, and always up for a challenge.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Olaf",
+      "description": "Olaf is your perfect match! Optimistic, friendly, and full of childlike wonder, they see the joy in every moment. With a heart as warm as summer, they spread happiness and remind you to cherish the present. Together, you’ll laugh often and find magic in the ordinary. They’re an ENFP—cheerful, imaginative, and the ultimate optimist.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Rapunzel",
+      "description": "Rapunzel is your soulmate! Curious, kind, and full of enthusiasm, she lights up any room with her energy and creativity. She’s eager to learn and explore, with a heart that trusts easily and loves deeply. You’ll share a sense of adventure and a passion for growth. She’s an ENFJ—encouraging, warm, and always ready to lift others up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Peter Pan",
+      "description": "Peter Pan is your ideal match! Playful, free-spirited, and forever young at heart, he lives for adventure and hates to grow up. With a mischievous grin and a love for the unknown, he’ll keep life exciting and full of surprises. Together, you’ll never stop exploring. He’s an ENFP—adventurous, creative, and the king of fun.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Baymax",
+      "description": "Baymax is your soulmate! Gentle, caring, and always ready to help, he prioritizes your well-being above all else. With a calm demeanor and a heart of gold, he makes you feel safe and loved. Together, you’ll support each other through every challenge. He’s an ISFJ—nurturing, protective, and the definition of a true friend.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Anna",
+      "description": "Anna is your perfect match! Energetic, optimistic, and unapologetically herself, she loves deeply and wears her heart on her sleeve. With a knack for bringing people together, she turns every day into an adventure. You’ll share laughter, loyalty, and a love for connection. She’s an ESFJ—social, warm, and the life of any gathering.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Ariel",
+      "description": "Ariel is your soulmate! Curious, passionate, and eager to explore the world, she’s drawn to new experiences and isn’t afraid to dream big. With a fiery spirit and a heart full of courage, she’ll inspire you to chase your goals. Together, you’ll dive into new adventures. She’s an ESFP—spontaneous,热情, and always ready for the next big thing.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Minnie Mouse",
+      "description": "Minnie Mouse is your ideal match! Sweet, thoughtful, and full of charm, she has a way of making everyone feel special. With a love for details and a heart that cares deeply, she creates warmth wherever she goes. Together, you’ll build a life filled with love and little moments of magic. She’s an ESFJ—kind, organized, and the ultimate companion.",
+      "mbti": "ESFJ"
+    }
+  ],
   "emoji": [
     "👸",
     "🏰",

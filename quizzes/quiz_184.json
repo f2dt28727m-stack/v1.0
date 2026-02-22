@@ -2,20 +2,350 @@
   "quizId": 184,
   "title": "Which Disney Character Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Disney character!",
   "tags": [
     "Disney",
-    ",\n ",
     "Disney Character",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Animated"
   ],
-  "description": "Answer 12 questions to discover your Disney character!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "On weekends, you'd rather...",
+      "options": [
+        {
+          "text": "Plan a picnic with friends and meet new people",
+          "score": "E"
+        },
+        {
+          "text": "Stay home, read a book, and enjoy quiet time",
+          "score": "I"
+        },
+        {
+          "text": "Organize your closet and try new DIY projects",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about visiting far-off lands and adventures",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset, you...",
+      "options": [
+        {
+          "text": "Hug them and say, 'I’m here for you no matter what'",
+          "score": "F"
+        },
+        {
+          "text": "Ask, 'What’s the root problem? Let’s fix it step by step'",
+          "score": "T"
+        },
+        {
+          "text": "Suggest a specific plan: 'Let’s get coffee tomorrow to talk'",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow—maybe watch a movie or take a walk together",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal project involves...",
+      "options": [
+        {
+          "text": "Collaborating with a team to bring ideas to life",
+          "score": "E"
+        },
+        {
+          "text": "Working alone to perfect every detail",
+          "score": "I"
+        },
+        {
+          "text": "Using practical skills to build something tangible",
+          "score": "S"
+        },
+        {
+          "text": "Imagining bold, creative concepts that push boundaries",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If your plans get canceled last minute, you...",
+      "options": [
+        {
+          "text": "Feel disappointed but quickly call a friend to hang out",
+          "score": "F"
+        },
+        {
+          "text": "Analyze why it happened and adjust your schedule logically",
+          "score": "T"
+        },
+        {
+          "text": "Pull out your backup plan you prepared just in case",
+          "score": "J"
+        },
+        {
+          "text": "See it as a chance to explore spontaneous activities",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At a party, you’re most likely to...",
+      "options": [
+        {
+          "text": "Dance, tell stories, and make sure everyone’s having fun",
+          "score": "E"
+        },
+        {
+          "text": "Sit in a corner with a few close friends and chat deeply",
+          "score": "I"
+        },
+        {
+          "text": "Notice the decor, snacks, and little details that make the party special",
+          "score": "S"
+        },
+        {
+          "text": "Imagine how the party could be even more magical with themes or games",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a big choice, you prioritize...",
+      "options": [
+        {
+          "text": "How it makes you and others feel deep down",
+          "score": "F"
+        },
+        {
+          "text": "Facts, data, and what makes the most logical sense",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to a timeline and clear goals you’ve set",
+          "score": "J"
+        },
+        {
+          "text": "Leaving room for unexpected opportunities to arise",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite hobby is...",
+      "options": [
+        {
+          "text": "Joining a club or group activity with others",
+          "score": "E"
+        },
+        {
+          "text": "Painting, writing, or doing something creative alone",
+          "score": "I"
+        },
+        {
+          "text": "Cooking, gardening, or fixing things around the house",
+          "score": "S"
+        },
+        {
+          "text": "Creating fantasy worlds in your head or writing stories",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If your team disagrees, you...",
+      "options": [
+        {
+          "text": "Encourage everyone to share their feelings to find common ground",
+          "score": "F"
+        },
+        {
+          "text": "Point out which idea is most effective based on evidence",
+          "score": "T"
+        },
+        {
+          "text": "Propose a vote or follow the group’s agreed-upon rules",
+          "score": "J"
+        },
+        {
+          "text": "Let the conversation flow and see where it leads naturally",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "For a vacation, you prefer...",
+      "options": [
+        {
+          "text": "A busy city trip with tours and group activities",
+          "score": "E"
+        },
+        {
+          "text": "A quiet cabin in the woods with just your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "A beach resort with scheduled activities and local tours",
+          "score": "S"
+        },
+        {
+          "text": "A road trip with no set destination, exploring new places",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When stressed, you...",
+      "options": [
+        {
+          "text": "Call a friend to vent and feel supported",
+          "score": "F"
+        },
+        {
+          "text": "Make a list of problems and solve them one by one",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your daily routine to regain control",
+          "score": "J"
+        },
+        {
+          "text": "Take a break and do something fun to clear your mind",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Learning a new skill, you...",
+      "options": [
+        {
+          "text": "Take a class with others to practice together",
+          "score": "E"
+        },
+        {
+          "text": "Watch tutorials online and practice alone until you get it",
+          "score": "I"
+        },
+        {
+          "text": "Follow step-by-step instructions carefully",
+          "score": "S"
+        },
+        {
+          "text": "Experiment and see what creative ways you can use the skill",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a gift for a friend, you...",
+      "options": [
+        {
+          "text": "Pick something they mentioned needing recently",
+          "score": "S"
+        },
+        {
+          "text": "Create a custom gift that reflects their dreams or passions",
+          "score": "N"
+        },
+        {
+          "text": "Research the best options and compare prices to find value",
+          "score": "T"
+        },
+        {
+          "text": "Go with your gut feeling about what would make them smile",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Mickey Mouse",
+      "description": "You’re the heart of any group—optimistic, outgoing, and always ready to spread joy. Like Mickey, you thrive in social settings, use your creativity to solve problems, and stay loyal to your friends. You’re an ESFJ: warm, organized, and naturally inclined to take care of others.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Elsa",
+      "description": "You’re introspective and deeply thoughtful, with a quiet strength that inspires others. Like Elsa, you value your independence but learn to open up, using your unique gifts to protect those you love. You’re an INFJ: intuitive, compassionate, and driven by a sense of purpose.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Simba",
+      "description": "You’re bold, energetic, and love adventure—always ready to leap into new experiences. Like Simba, you balance confidence with heart, learning to take responsibility while staying true to your playful spirit. You’re an ESTP: practical, action-oriented, and the life of the party.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Belle",
+      "description": "You’re curious, imaginative, and see the beauty in others beyond first impressions. Like Belle, you love learning, value deep connections, and stand up for what’s right. You’re an INFP: idealistic, creative, and driven by a desire to make the world more compassionate.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Tiana",
+      "description": "You’re hardworking, determined, and turn dreams into reality with grit and patience. Like Tiana, you believe in earning success through effort, stay grounded in practicality, and never lose sight of your goals. You’re an ESTJ: organized, responsible, and a natural leader.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Moana",
+      "description": "You’re adventurous, brave, and have a deep connection to your roots and the world around you. Like Moana, you trust your instincts, embrace change, and inspire others to follow their hearts. You’re an ESFP: energetic, spontaneous, and always ready for a new journey.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Aladdin",
+      "description": "You’re quick-witted, resourceful, and thrive on thinking outside the box. Like Aladdin, you use your creativity to overcome challenges, care deeply for your loved ones, and dream of a better future. You’re an ENTP: clever, adaptable, and always up for a mental challenge.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Jasmine",
+      "description": "You’re confident, independent, and unafraid to speak your mind. Like Jasmine, you value freedom, stand up for justice, and bring warmth and passion to everything you do. You’re an ENFJ: charismatic, empathetic, and a natural leader who lifts others up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Winnie the Pooh",
+      "description": "You’re kind, gentle, and find joy in life’s simple pleasures. Like Pooh, you’re loyal to your friends, approach problems with a calm heart, and believe in the power of love and friendship. You’re an ISFP: artistic, compassionate, and deeply in tune with your emotions.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Piglet",
+      "description": "You’re shy, thoughtful, and care deeply about those around you. Like Piglet, you may doubt yourself at times, but your courage shines when your friends need you. You’re an INFP: sensitive, creative, and quietly brave in your own way.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Beast",
+      "description": "You’re complex, loyal, and have a soft heart hidden beneath a tough exterior. Like the Beast, you learn to let go of pride, embrace vulnerability, and protect what matters most. You’re an ISTJ: responsible, detail-oriented, and fiercely devoted to those you love.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Cinderella",
+      "description": "You’re kind, resilient, and maintain grace even in difficult times. Like Cinderella, you believe in kindness, stay hopeful, and trust that good things come to those who wait. You’re an ISFJ: nurturing, reliable, and always willing to help others.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Nala",
+      "description": "You’re strong, loyal, and a trusted friend who keeps others grounded. Like Nala, you balance courage with compassion, speak your mind, and stand by your loved ones through thick and thin. You’re an ESFJ: supportive, practical, and the glue that holds your group together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Maui",
+      "description": "You’re bold, confident, and love showing off your skills—though deep down, you crave connection. Like Maui, you use your talents to help others, embrace your flaws, and find strength in being true to yourself. You’re an ESTP: energetic, charismatic, and always up for a challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Anna",
+      "description": "You’re optimistic, outgoing, and wear your heart on your sleeve. Like Anna, you approach life with enthusiasm, believe in second chances, and bring light to even the darkest situations. You’re an ENFP: creative, passionate, and always seeing the best in people.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Minnie Mouse",
+      "description": "You’re sweet, caring, and have a knack for making everyone feel special. Like Minnie, you’re organized, thoughtful, and find joy in small acts of kindness. You’re an ISFJ: gentle, reliable, and the heart of your circle of friends.",
+      "mbti": "ISFJ"
+    }
+  ],
   "emoji": [
     "👸",
     "🏰",

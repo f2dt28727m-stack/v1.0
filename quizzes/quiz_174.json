@@ -2,20 +2,350 @@
   "quizId": 174,
   "title": "What's Your Hidden Harry Potter Trait?",
   "category": "hidden",
+  "description": "Answer 12 questions to discover your hidden Harry Potter trait!",
   "tags": [
     "Harry Potter",
-    ",\n ",
     "Hidden Trait",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Wizarding World"
   ],
-  "description": "Answer 12 questions to discover your hidden Harry Potter trait!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When you first enter the Great Hall for the Sorting Ceremony, you...",
+      "options": [
+        {
+          "text": "Notice the exact arrangement of the house tables and the smell of the feast",
+          "score": "S"
+        },
+        {
+          "text": "Find yourself striking up conversations with students from other houses",
+          "score": "E"
+        },
+        {
+          "text": "Wonder what adventures and secrets the castle holds beyond the ceremony",
+          "score": "N"
+        },
+        {
+          "text": "Step back to observe the banners and floating candles before approaching anyone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "During a Potions lesson, Snape asks for volunteers to demonstrate a tricky spell. You...",
+      "options": [
+        {
+          "text": "Wait to see if others volunteer first, then decide based on the moment",
+          "score": "P"
+        },
+        {
+          "text": "Volunteer because you want to help classmates who might struggle",
+          "score": "F"
+        },
+        {
+          "text": "Raise your hand immediately—you’ve been practicing this spell all week",
+          "score": "J"
+        },
+        {
+          "text": "Volunteer only if you’re confident you understand the spell’s logic",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "On a Hogsmeade weekend, your friends suggest different activities. You’d rather...",
+      "options": [
+        {
+          "text": "Spend time in the Three Broomsticks with one close friend, chatting quietly",
+          "score": "I"
+        },
+        {
+          "text": "Wander the edge of the Forbidden Forest, curious about what lies beyond the paths",
+          "score": "N"
+        },
+        {
+          "text": "Join a group exploring all the shops and laughing with everyone",
+          "score": "E"
+        },
+        {
+          "text": "Visit Honeydukes to pick out specific candies you’ve been craving",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your friend accidentally breaks a valuable potion ingredient and blames it on someone else. You...",
+      "options": [
+        {
+          "text": "Insist they admit the mistake immediately to avoid further issues",
+          "score": "J"
+        },
+        {
+          "text": "Point out that lying could lead to worse consequences for everyone involved",
+          "score": "T"
+        },
+        {
+          "text": "Suggest waiting to see if the situation resolves itself before deciding what to do",
+          "score": "P"
+        },
+        {
+          "text": "Talk to them privately, expressing how their actions might hurt the accused classmate",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "After a Quidditch match, the team wants to celebrate. You prefer...",
+      "options": [
+        {
+          "text": "Propose a new tradition for future post-match celebrations",
+          "score": "N"
+        },
+        {
+          "text": "Host a big party in the common room with music and games",
+          "score": "E"
+        },
+        {
+          "text": "Bring specific snacks and drinks you know everyone likes",
+          "score": "S"
+        },
+        {
+          "text": "Have a small gathering with just your closest teammates",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious book in the Restricted Section. It has no author, but contains powerful spells. You...",
+      "options": [
+        {
+          "text": "Flip through randomly, letting your curiosity guide which spells to explore",
+          "score": "P"
+        },
+        {
+          "text": "Research its origins first to understand the risks logically",
+          "score": "T"
+        },
+        {
+          "text": "Feel drawn to it because it might help someone in need",
+          "score": "F"
+        },
+        {
+          "text": "Create a schedule to study it carefully, chapter by chapter",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a Defense Against the Dark Arts class, you’re asked to practice a new charm with a partner. You...",
+      "options": [
+        {
+          "text": "Pair up with someone new to make a new friend",
+          "score": "E"
+        },
+        {
+          "text": "Experiment with slight variations to see if the charm works differently",
+          "score": "N"
+        },
+        {
+          "text": "Focus on getting the wand movement and incantation exactly right",
+          "score": "S"
+        },
+        {
+          "text": "Ask to work with your usual study partner you feel comfortable with",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your house is losing points because of repeated rule-breaking by a few students. You...",
+      "options": [
+        {
+          "text": "Suggest going with the flow for now, trusting the house will bounce back",
+          "score": "P"
+        },
+        {
+          "text": "Argue that the rules apply to everyone and fairness must be maintained",
+          "score": "T"
+        },
+        {
+          "text": "Talk to the students to understand why they’re struggling and offer support",
+          "score": "F"
+        },
+        {
+          "text": "Organize a meeting to create a plan to earn back points quickly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A Hogsmeade trip is canceled due to bad weather. You decide to...",
+      "options": [
+        {
+          "text": "Curl up by the fire with a good book and some hot cocoa",
+          "score": "I"
+        },
+        {
+          "text": "Daydream about inventing a weather-controlling charm to fix the problem",
+          "score": "N"
+        },
+        {
+          "text": "Gather friends in the common room for a game of wizard chess or storytelling",
+          "score": "E"
+        },
+        {
+          "text": "Organize your school supplies and finish homework you’ve been putting off",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re assigned a group project in History of Magic. The group can’t agree on a topic. You...",
+      "options": [
+        {
+          "text": "Propose combining multiple ideas into a more interesting, unexpected topic",
+          "score": "P"
+        },
+        {
+          "text": "Listen to everyone’s ideas and try to find a compromise everyone likes",
+          "score": "F"
+        },
+        {
+          "text": "Take charge and assign roles based on each member’s strengths",
+          "score": "J"
+        },
+        {
+          "text": "Suggest voting on the most historically significant topic, using facts to decide",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At the Yule Ball, you’re asked to dance by someone you don’t know well. You...",
+      "options": [
+        {
+          "text": "Imagine what kind of conversation you might have while dancing",
+          "score": "N"
+        },
+        {
+          "text": "Politely decline and stay with your group of friends",
+          "score": "I"
+        },
+        {
+          "text": "Say yes and use the chance to learn more about them",
+          "score": "E"
+        },
+        {
+          "text": "Agree, but focus on following the dance steps correctly",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You discover a secret passage in the castle. It leads to an unknown room. You...",
+      "options": [
+        {
+          "text": "Analyze the passage’s construction to determine if it’s safe before entering",
+          "score": "T"
+        },
+        {
+          "text": "Make a map of the passage first so you can find your way back",
+          "score": "J"
+        },
+        {
+          "text": "Bring a friend along, worried about going alone and wanting company",
+          "score": "F"
+        },
+        {
+          "text": "Step inside immediately, excited to see what surprises await",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Steadfast Guardian",
+      "description": "You’re the hidden backbone of your circle, quietly ensuring order and reliability. Like a well-cast Protego charm, you anticipate needs before they arise, keeping traditions alive and loved ones safe. Your ISTJ nature thrives on structure—others may not notice, but your consistency is the silent magic that holds things together.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Compassionate Keeper",
+      "description": "Beneath your gentle exterior lies a heart that remembers every kindness shown to you. You’re the friend who mends broken wands, shares extra chocolate frogs, and listens without judgment. As an ISFJ, your hidden gift is nurturing—you turn ordinary moments into memories others cherish, like a secret gardener tending to Hogwarts’ most delicate flowers.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Intuitive Counselor",
+      "description": "You see the unseen: the unspoken fears behind a classmate’s smile, the potential in a seemingly lost cause. Like a silent Seer, your INFJ soul connects dots others miss, offering wisdom that feels almost magical. You’re drawn to the castle’s quiet corners, where you’ve uncovered truths about yourself and others that even the Mirror of Erised might not reveal.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You’re a hidden architect of ideas, mapping out plans others can’t yet see. Like Dumbledore with his Pensieve, you store knowledge and connect patterns to solve problems others deem impossible. Your INTJ mind thrives on big-picture thinking—you may not shout your ideas, but when you act, the results are nothing short of legendary.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Resourceful Tactician",
+      "description": "Calm under pressure, you turn chaos into opportunity. When a spell backfires or a plan falls apart, you’re the one who grabs a nearby quill, a bit of parchment, and improvises a solution. As an ISTP, your hidden skill is adaptability—you don’t need grand plans, just the present moment and a mind that sees possibilities in every broken wand or misfired charm.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Sensitive Artisan",
+      "description": "You experience the world in vivid color: the way sunlight filters through the Great Hall windows, the rhythm of a phoenix’s song, the emotion in a well-written poem. Your ISFP heart finds magic in the details others overlook, turning everyday moments into art. You’re the silent creator—your sketches, songs, or even potion recipes hold a piece of your soul, waiting to touch others.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Dreamer",
+      "description": "You carry a hidden world within you—a place where justice, kindness, and magic reign. Like Luna Lovegood, you see beauty in the unconventional, and your INFP spirit refuses to let go of hope, even when others doubt. You’re the friend who writes encouraging notes, believes in lost causes, and reminds everyone that magic isn’t just in wands, but in the heart.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Analyst",
+      "description": "You’re a hidden scholar, drawn to the mysteries of the wizarding world. Whether it’s the origins of a forgotten spell or the physics of a Floo Network, you dive deep, asking questions no one else thinks to. As an INTP, your mind is a library of half-formed theories and endless curiosity—you may not share them all, but when you do, they change how others see the world.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Bold Adventurer",
+      "description": "You live for the thrill of the unknown—sneaking into the Forbidden Forest, trying a new broom trick, or striking up a conversation with a stranger. Your ESTP energy is contagious, turning ordinary days into adventures. You’re the hidden spark that lights up gatherings, unafraid to take risks and remind everyone that magic is meant to be experienced, not just studied.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Lively Entertainer",
+      "description": "You’re the life of the common room, turning even a boring study session into a party with your jokes, stories, and quick wit. As an ESFP, your hidden gift is joy—you make others feel seen and happy, whether through a well-timed prank or a heartfelt compliment. The castle feels brighter when you’re around, and everyone secretly looks forward to your next surprise.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Explorer",
+      "description": "You see magic in every corner—from a new spell to a hidden corridor—and your excitement is impossible to contain. As an ENFP, you’re a hidden catalyst, inspiring others to dream bigger and try new things. You’re the friend who drags everyone to a midnight feast, starts a book club, or suggests a spontaneous trip to Hogsmeade—life with you is never dull.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Witty Innovator",
+      "description": "You’re a master of turning ‘what if’ into ‘why not.’ Whether it’s modifying a potion to work faster or inventing a new game with a Quaffle, your ENTP mind thrives on debate and creativity. You challenge the status quo with a smirk, making even the strictest professors rethink their rules—your hidden superpower is turning chaos into clever, unexpected solutions.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Director",
+      "description": "You’re the hidden leader who keeps everything running smoothly. From planning a house event to ensuring everyone studies for exams, your ESTJ nature thrives on structure and responsibility. Others may not realize it, but your lists, schedules, and no-nonsense attitude are the reason things don’t fall apart—you’re the backbone of your house, steady and unshakable.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warm Harmonizer",
+      "description": "You’re the glue that holds groups together, always noticing when someone feels left out and quietly making them part of the fun. As an ESFJ, your hidden gift is harmony—you remember birthdays, favorite treats, and inside jokes, making everyone feel like family. The castle is a better place because you’re in it, spreading warmth without even trying.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Leader",
+      "description": "You have a hidden talent for bringing out the best in others. Whether it’s encouraging a nervous first-year to try out for Quidditch or rallying the house during a tough loss, your ENFJ spirit lights a fire in people. You see potential where others see flaws, and your belief in them becomes a self-fulfilling magic—you’re not just a leader, but a mentor who changes lives.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Decisive Commander",
+      "description": "When others hesitate, you act. You see the path forward clearly, make tough choices, and inspire others to follow. As an ENTJ, your hidden strength is conviction—whether leading a Quidditch team to victory or organizing a rebellion against injustice, you don’t just dream of change; you make it happen. The wizarding world needs your boldness, even if they don’t always understand it.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "⚡",
     "🧙",

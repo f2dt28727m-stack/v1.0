@@ -2,20 +2,350 @@
   "quizId": 167,
   "title": "How BLACKPINK Are You? Uncover Your K-pop Star Essence",
   "category": "how",
+  "description": "Answer 12 questions to discover your BLACKPINK spirit!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "K-pop Idol"
   ],
-  "description": "Answer 12 questions to discover your BLACKPINK spirit!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When your group is brainstorming a new concept for a performance, you...",
+      "options": [
+        {
+          "text": "Share vivid ideas about the overall vibe and message you want to convey",
+          "score": "N"
+        },
+        {
+          "text": "Focus on specific details like choreography steps or costume colors",
+          "score": "S"
+        },
+        {
+          "text": "Listen quietly and contribute only when you have a solid thought",
+          "score": "I"
+        },
+        {
+          "text": "Lead the discussion, encouraging everyone to voice their opinions",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Before a big stage, you prepare by...",
+      "options": [
+        {
+          "text": "Following a strict pre-show routine you’ve practiced for weeks",
+          "score": "J"
+        },
+        {
+          "text": "Going with the flow, trusting your instincts in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Checking in with each member to make sure they’re feeling confident",
+          "score": "F"
+        },
+        {
+          "text": "Reviewing past performances to identify areas for improvement",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When a fan gives you a handwritten letter, you...",
+      "options": [
+        {
+          "text": "Keep it in a special box and re-read it when you need motivation",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the story behind the words and how it reflects their support",
+          "score": "N"
+        },
+        {
+          "text": "Reply with a personal note to let them know you appreciate it",
+          "score": "E"
+        },
+        {
+          "text": "Treasure it privately, feeling grateful but not needing to respond immediately",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If your group disagrees on a song choice, you...",
+      "options": [
+        {
+          "text": "Suggest a compromise that balances everyone’s preferences",
+          "score": "F"
+        },
+        {
+          "text": "Analyze which option aligns best with your group’s brand and goals",
+          "score": "T"
+        },
+        {
+          "text": "Propose a flexible plan to try both options and see what works",
+          "score": "P"
+        },
+        {
+          "text": "Push to finalize a decision quickly to stay on schedule",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During a live interview, you tend to...",
+      "options": [
+        {
+          "text": "Answer questions with enthusiasm, adding playful jokes",
+          "score": "E"
+        },
+        {
+          "text": "Speak thoughtfully, choosing words carefully before responding",
+          "score": "I"
+        },
+        {
+          "text": "Highlight specific moments from your journey that fans might relate to",
+          "score": "S"
+        },
+        {
+          "text": "Talk about future dreams and how you hope to grow as an artist",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new dance, you...",
+      "options": [
+        {
+          "text": "Memorize each step exactly as taught to avoid mistakes",
+          "score": "J"
+        },
+        {
+          "text": "Add small personal touches to make the moves feel more natural",
+          "score": "P"
+        },
+        {
+          "text": "Focus on how the dance makes you feel, connecting emotionally to the rhythm",
+          "score": "F"
+        },
+        {
+          "text": "Break down the choreography into parts to master the technique",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a tough performance, you process it by...",
+      "options": [
+        {
+          "text": "Debriefing with the group to discuss what went well and what didn’t",
+          "score": "T"
+        },
+        {
+          "text": "Hugging your members and reassuring each other it’s all part of growth",
+          "score": "F"
+        },
+        {
+          "text": "Reflecting alone on the experience and how it shapes your artistry",
+          "score": "I"
+        },
+        {
+          "text": "Sharing your feelings with fans online to turn the moment into connection",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When planning a fan meeting, you prioritize...",
+      "options": [
+        {
+          "text": "Creating interactive games that let fans participate directly",
+          "score": "N"
+        },
+        {
+          "text": "Ensuring the venue is comfortable and logistically smooth",
+          "score": "S"
+        },
+        {
+          "text": "Leaving room for spontaneous moments instead of a rigid agenda",
+          "score": "P"
+        },
+        {
+          "text": "Following a detailed schedule to make sure every fan gets attention",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you had to choose a solo project, you’d pick...",
+      "options": [
+        {
+          "text": "A song that tells a personal story fans can relate to",
+          "score": "F"
+        },
+        {
+          "text": "A genre that challenges you to grow technically as an artist",
+          "score": "T"
+        },
+        {
+          "text": "A collaboration with other artists to explore new creative directions",
+          "score": "E"
+        },
+        {
+          "text": "A project you can work on independently, focusing on your unique style",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When preparing for a photoshoot, you...",
+      "options": [
+        {
+          "text": "Experiment with different poses and expressions on the spot",
+          "score": "P"
+        },
+        {
+          "text": "Practice specific looks beforehand to ensure consistency",
+          "score": "J"
+        },
+        {
+          "text": "Think about the story the photos will tell and how to convey emotion",
+          "score": "N"
+        },
+        {
+          "text": "Focus on small details like hair, makeup, and wardrobe fit",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a group practice, if a member is struggling, you...",
+      "options": [
+        {
+          "text": "Offer to practice one-on-one until they feel confident",
+          "score": "F"
+        },
+        {
+          "text": "Break down the task into simpler steps to make it easier",
+          "score": "T"
+        },
+        {
+          "text": "Encourage them publicly to boost their morale in front of the group",
+          "score": "E"
+        },
+        {
+          "text": "Check in quietly and offer support without drawing attention",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on your career, you’re most proud of...",
+      "options": [
+        {
+          "text": "The specific milestones you’ve achieved, like chart-topping songs",
+          "score": "S"
+        },
+        {
+          "text": "The impact you’ve had on fans’ lives and the connections you’ve built",
+          "score": "N"
+        },
+        {
+          "text": "The structure and discipline that helped you stay consistent",
+          "score": "J"
+        },
+        {
+          "text": "The unexpected opportunities and growth that came from taking risks",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Lisa's Bold Dynamism",
+      "description": "You radiate Lisa’s electrifying energy—outgoing, spontaneous, and unapologetically bold. Like her, you thrive in the spotlight, turning every moment into a vibrant expression of joy. You connect with others through warmth and humor, making even the largest crowds feel intimate. Your ESFP spirit is all about living in the moment and spreading positivity wherever you go.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Jisoo's Serene Strength",
+      "description": "You embody Jisoo’s quiet grace and steady resilience. Like her, you’re thoughtful and reliable, often the calm anchor in chaotic moments. You value tradition and loyalty, showing care through consistent actions rather than grand gestures. Your ISFJ heart prioritizes harmony, making you the member everyone turns to for comfort and wisdom.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Jennie's Sharp Charisma",
+      "description": "You channel Jennie’s magnetic confidence and quick wit. Like her, you’re a natural leader with a sharp mind, unafraid to challenge the norm. You balance logic with charm, making bold choices that leave a lasting impression. Your ENTP spirit thrives on innovation, turning ideas into impactful art that defies expectations.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Rosé's Gentle Passion",
+      "description": "You reflect Rosé’s tender artistry and deep emotional depth. Like her, you express yourself through creativity, pouring your heart into every performance. You’re introspective yet deeply connected to others, finding beauty in quiet moments and big dreams alike. Your INFP soul is a blend of sensitivity and resilience, inspiring others with your authentic spirit.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Stage Commander",
+      "description": "You’re the backbone of any performance, organizing chaos into seamless excellence. Like a strategic leader, you thrive on structure and clear goals, ensuring every detail aligns with the bigger picture. Your ESTJ energy keeps the group on track, turning plans into powerful realities with unwavering determination.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Creative Visionary",
+      "description": "You see the world through a lens of endless possibility, always exploring new ideas and concepts. Like a quiet innovator, you dive deep into research and reflection, emerging with insights that redefine what’s possible. Your INTP mind is a playground of curiosity, turning abstract thoughts into groundbreaking art.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Heartfelt Connector",
+      "description": "You have a gift for lifting others up, turning strangers into family with your warmth and empathy. Like a natural mentor, you inspire those around you to grow, celebrating their successes as your own. Your ENFJ spirit is a beacon of positivity, creating spaces where everyone feels seen and valued.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Quiet Innovator",
+      "description": "You’re a master of strategic thinking, planning steps ahead to achieve ambitious goals. Like a visionary architect, you blend creativity with logic, building systems that stand the test of time. Your INTJ focus on excellence drives you to push boundaries, turning vision into legacy with quiet confidence.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptive Performer",
+      "description": "You thrive in dynamic environments, adjusting to changes with grace and enthusiasm. Like a chameleon, you connect with audiences of all kinds, making every performance feel personal. Your ESFJ heart craves harmony, ensuring everyone around you feels included and valued in the spotlight.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Strategic Thinker",
+      "description": "You excel at solving problems in the moment, using logic and practicality to navigate challenges. Like a calm problem-solver, you stay grounded under pressure, turning obstacles into opportunities. Your ISTP hands-on approach makes you the go-to for turning ideas into action, with a knack for precision and skill.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Joyful Energizer",
+      "description": "You’re a burst of sunshine, infusing every room with optimism and creativity. Like a storyteller, you see the magic in everyday moments, turning them into memorable experiences. Your ENFP spirit is contagious, inspiring others to dream big and embrace their authentic selves.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Steady Rock",
+      "description": "You’re the reliable force that keeps things stable, with a strong sense of duty and tradition. Like a loyal friend, you show up consistently, offering practical support and calm in times of stress. Your ISTJ commitment to excellence ensures no detail is overlooked, making you the foundation of any team.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Compassionate Dreamer",
+      "description": "You have a deep understanding of others’ emotions, often sensing needs before they’re spoken. Like a guiding light, you inspire with your idealism and kindness, working to make the world a better place. Your INFJ intuition helps you see the potential in people, nurturing growth with patience and care.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Fearless Trailblazer",
+      "description": "You’re unafraid to take risks, diving headfirst into new adventures with confidence. Like a bold explorer, you thrive on excitement and challenge, turning obstacles into stories of triumph. Your ESTP energy is magnetic, drawing others into your world of action and spontaneity.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Thoughtful Harmonizer",
+      "description": "You find beauty in balance, creating harmony through art and empathy. Like a gentle poet, you express yourself through subtle gestures and deep emotion, touching hearts with your authenticity. Your ISFP soul values freedom and creativity, finding joy in the simple, meaningful moments of life.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dynamic Improviser",
+      "description": "You’re a master of thinking on your feet, turning unexpected moments into opportunities for magic. Like a quick-witted performer, you blend humor and insight, keeping audiences engaged with your spontaneity. Your ENTP adaptability makes you a wildcard, always ready to pivot and surprise with fresh ideas.",
+      "mbti": "ENTP"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

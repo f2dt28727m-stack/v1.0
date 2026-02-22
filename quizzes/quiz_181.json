@@ -2,20 +2,350 @@
   "quizId": 181,
   "title": "What Would You Do: Your Travel Personality",
   "category": "whatwould",
+  "description": "Answer 12 questions to discover your Travel personality!",
   "tags": [
     "Travel",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Travel Habits",
-    ",\n ",
     "Adventure"
   ],
-  "description": "Answer 12 questions to discover your Travel personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When planning a vacation, you tend to...",
+      "options": [
+        {
+          "text": "Research alone, diving into blogs and maps to craft your ideal route",
+          "score": "I"
+        },
+        {
+          "text": "Dream about the feeling of exploring hidden beaches or mountain peaks",
+          "score": "N"
+        },
+        {
+          "text": "Call friends who’ve been there for tips on the best spots to visit",
+          "score": "E"
+        },
+        {
+          "text": "List exact booking links, transport times, and daily budgets in a spreadsheet",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Your flight is delayed by 4 hours. You...",
+      "options": [
+        {
+          "text": "Pull out your backup list of nearby cafes and start exploring the terminal",
+          "score": "P"
+        },
+        {
+          "text": "Calmly explain your situation to the airline staff, hoping for a solution",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the backup plan you created last night: rebook the next flight online immediately",
+          "score": "J"
+        },
+        {
+          "text": "Calculate the cost of alternative transport and compare it to waiting",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Picking a place to stay, you prioritize...",
+      "options": [
+        {
+          "text": "A unique treehouse or cliffside cabin with a view that feels otherworldly",
+          "score": "N"
+        },
+        {
+          "text": "A quiet, private apartment where you can unwind without distractions",
+          "score": "I"
+        },
+        {
+          "text": "A social hostel with group dinners and city tours to meet fellow travelers",
+          "score": "E"
+        },
+        {
+          "text": "A hotel with 4.5+ stars, located 5 minutes from the main attractions",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "At a new restaurant, you decide what to order by...",
+      "options": [
+        {
+          "text": "Asking the server, “What’s your favorite dish here? I trust your taste”",
+          "score": "F"
+        },
+        {
+          "text": "Going with whatever smells best when you walk past the kitchen",
+          "score": "P"
+        },
+        {
+          "text": "Ordering the dish you saved in your travel app last week after reading 10 reviews",
+          "score": "J"
+        },
+        {
+          "text": "Comparing calorie counts and protein content to pick the most balanced option",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "On the first day in a new city, you want to...",
+      "options": [
+        {
+          "text": "Join a free walking tour to hear stories from a local guide and meet others",
+          "score": "E"
+        },
+        {
+          "text": "Wander aimlessly, letting street art and hidden alleyways guide you",
+          "score": "N"
+        },
+        {
+          "text": "Check off the top 3 landmarks from your must-see list before crowds arrive",
+          "score": "S"
+        },
+        {
+          "text": "Find a quiet park with a view to sit and observe the city’s rhythm alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your luggage gets lost. You...",
+      "options": [
+        {
+          "text": "Stay calm and buy a few essentials, figuring you’ll adapt to the new wardrobe",
+          "score": "P"
+        },
+        {
+          "text": "Log the incident number, call the airline’s lost luggage line, and follow up hourly",
+          "score": "J"
+        },
+        {
+          "text": "Explain to the staff how this affects your trip and ask for their help with empathy",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the value of your lost items and demand compensation per airline policy",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a day of sightseeing, you prefer to spend the evening...",
+      "options": [
+        {
+          "text": "Relaxing in your room with a book and a cup of local tea",
+          "score": "I"
+        },
+        {
+          "text": "Finding a rooftop bar to watch the sunset and chat with strangers",
+          "score": "E"
+        },
+        {
+          "text": "Trying the “best pizza in town” that a local recommended that morning",
+          "score": "S"
+        },
+        {
+          "text": "Stargazing on a hilltop, imagining what life was like here 100 years ago",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When creating a daily itinerary, you...",
+      "options": [
+        {
+          "text": "Leave 2-3 hour gaps to follow unexpected invites or interesting detours",
+          "score": "P"
+        },
+        {
+          "text": "Include a mix of museums and markets to connect with local artisans",
+          "score": "F"
+        },
+        {
+          "text": "Block time for each activity (9am: museum, 12pm: lunch, 2pm: hike) to avoid wasted time",
+          "score": "J"
+        },
+        {
+          "text": "Prioritize activities with the highest ratings and shortest wait times",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You buy souvenirs that are...",
+      "options": [
+        {
+          "text": "A handwoven scarf or pottery piece that tells a story of the local culture",
+          "score": "N"
+        },
+        {
+          "text": "A magnet or keychain with the city’s name to add to your collection at home",
+          "score": "S"
+        },
+        {
+          "text": "Small snacks or treats to share with coworkers and family",
+          "score": "E"
+        },
+        {
+          "text": "A journal where you’ve written down your thoughts from each day",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Unexpected rain ruins your outdoor plans. You...",
+      "options": [
+        {
+          "text": "Head to a cozy bookstore and strike up a conversation with the owner about local reads",
+          "score": "F"
+        },
+        {
+          "text": "Check weather apps to find the nearest indoor attraction with the best reviews",
+          "score": "T"
+        },
+        {
+          "text": "Pull out your umbrella and explore the rain-soaked streets, splashing in puddles",
+          "score": "P"
+        },
+        {
+          "text": "Switch to the indoor museum you listed as a backup in your itinerary",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When traveling, you prefer to go with...",
+      "options": [
+        {
+          "text": "A group of friends, so there’s always someone to laugh with and share stories",
+          "score": "E"
+        },
+        {
+          "text": "A close friend or partner who shares your love for slow, meaningful experiences",
+          "score": "I"
+        },
+        {
+          "text": "A travel buddy who’s great at booking tickets and keeping track of reservations",
+          "score": "S"
+        },
+        {
+          "text": "Someone who’s open to changing plans if a cool festival or hike pops up",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "After returning home, you most enjoy...",
+      "options": [
+        {
+          "text": "Organizing your photos into labeled folders and writing a detailed trip report",
+          "score": "J"
+        },
+        {
+          "text": "Daydreaming about booking your next trip, even if you haven’t picked a destination yet",
+          "score": "P"
+        },
+        {
+          "text": "Calculating your total expenses and comparing them to your initial budget",
+          "score": "T"
+        },
+        {
+          "text": "Telling your family stories about the people you met and the moments that made you smile",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Methodical Planner",
+      "description": "You thrive on structure and practicality. Your trips are meticulously planned with spreadsheets, backup options, and timetables. You prioritize efficiency and reliability, ensuring every detail—from transport to accommodation—is sorted. You’re an ISTJ: organized, responsible, and the go-to for keeping group trips on track.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Traveler",
+      "description": "You travel with a heart for others. You remember your travel buddy’s favorite snacks, ask locals about their lives, and turn mishaps into bonding moments. Your trips are filled with small kindnesses, making everyone feel cared for. You’re an ISFJ: warm, attentive, and the soul of any group adventure.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Insightful Voyager",
+      "description": "You seek depth in every destination. You’re drawn to hidden histories, local myths, and the quiet stories behind landmarks. Your trips feel like conversations with a place, leaving you with a deeper understanding of the world. You’re an INFJ: intuitive, reflective, and always chasing meaning over sightseeing.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Explorer",
+      "description": "You approach travel like a puzzle, planning with purpose and logic. You research destinations for their intellectual value, whether it’s a cutting-edge museum or a historical site with layers of complexity. You’re an INTJ: visionary, analytical, and always one step ahead in crafting meaningful journeys.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptive Adventurer",
+      "description": "Lost luggage? Detours? No problem. You thrive on spontaneity and hands-on experiences, turning travel curveballs into stories. You’d rather fix a flat tire than follow a map, finding joy in the unexpected. You’re an ISTP: resourceful, calm, and the master of making the most of any situation.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Sensory Seeker",
+      "description": "You travel with all your senses. The smell of street food, the texture of ancient stone, the sound of a market—these details make a place come alive for you. You savor slow moments, like watching a sunset or tasting a local dish for the first time. You’re an ISFP: artistic, present, and deeply connected to the world around you.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dreamy Wanderer",
+      "description": "You travel with your heart, chasing moments that feel authentic and meaningful. You’d skip a crowded landmark for a quiet café where you can write in your journal or chat with a local. Your trips are less about checking boxes and more about feeling alive. You’re an INFP: idealistic, compassionate, and always in search of beauty.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Investigator",
+      "description": "You’re the ultimate travel researcher. You dive into history books, geological surveys, and cultural studies before arriving, turning a simple trip into a learning adventure. You ask questions, debate ideas, and leave with a head full of new knowledge. You’re an INTP: inquisitive, analytical, and forever fascinated by how the world works.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Spontaneous Thrill-Seeker",
+      "description": "You live for the rush of new experiences. A last-minute bus ride to a beach party? Sign you up. You thrive on meeting new people, trying wild foods, and saying “yes” to whatever comes next. You’re an ESTP: energetic, bold, and the life of any travel group.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Lively Entertainer",
+      "description": "You turn every trip into a celebration. Whether you’re leading a sing-along on a train or organizing a group dinner, you bring energy and joy to every moment. You love making memories with others and leaving a trail of laughter. You’re an ESFP: outgoing, playful, and the person who makes ordinary trips unforgettable.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Discoverer",
+      "description": "You see travel as a playground of possibilities. A random flyer for a local festival? You’re there. You get excited by new cultures, ideas, and people, turning every day into an adventure. You’re an ENFP: optimistic, creative, and always seeing the best in every destination.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Innovative Explorer",
+      "description": "You travel to challenge the norm. You’d rather take a cargo ship than a plane, or stay in a tiny home instead of a hotel. You love debating travel hacks, brainstorming unique itineraries, and proving there’s more than one way to see the world. You’re an ENTP: clever, bold, and the master of reimagining travel.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Leader",
+      "description": "You’re the group’s travel captain. You book flights, assign roles, and ensure everyone stays on schedule—all with confidence and clarity. You value tradition and reliability, making sure trips run smoothly for everyone. You’re an ESTJ: decisive, responsible, and the backbone of any well-planned adventure.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Hospitable Guide",
+      "description": "You’re the friend who remembers everyone’s dietary needs and plans surprise activities. You love showing people around, sharing local secrets, and making sure no one feels left out. Your trips are warm, inclusive, and full of thoughtful touches. You’re an ESFJ: generous, organized, and the ultimate host on the road.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Traveler",
+      "description": "You travel to connect and uplift. You organize community service trips, mentor fellow travelers, and share stories that make others see the world differently. You believe travel can change lives—and you’re here to make that happen. You’re an ENFJ: charismatic, empathetic, and the spark that ignites others’ wanderlust.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Visionary Trailblazer",
+      "description": "You set big travel goals: climbing the Seven Summits, visiting every continent, or creating a travel blog that inspires millions. You lead with confidence, turn plans into action, and never settle for ordinary. You’re an ENTJ: ambitious, strategic, and the pioneer of unforgettable journeys.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "✈️",
     "🗺️",

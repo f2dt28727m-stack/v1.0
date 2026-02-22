@@ -2,20 +2,350 @@
   "quizId": 191,
   "title": "How Heroic Are You in the Marvel Universe?",
   "category": "how",
+  "description": "Answer 12 questions to discover how heroic you are in the Marvel universe!",
   "tags": [
     "Marvel",
-    ",\n ",
     "Heroic",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Superhero"
   ],
-  "description": "Answer 12 questions to discover how heroic you are in the Marvel universe!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When a new threat emerges, you first...",
+      "options": [
+        {
+          "text": "Assess the immediate danger and resources",
+          "score": "S"
+        },
+        {
+          "text": "Gather allies to discuss the situation",
+          "score": "E"
+        },
+        {
+          "text": "Imagine long-term consequences and patterns",
+          "score": "N"
+        },
+        {
+          "text": "Reflect alone on possible approaches",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When making a critical decision, you focus on...",
+      "options": [
+        {
+          "text": "Adapting to sudden changes",
+          "score": "P"
+        },
+        {
+          "text": "How it affects the people involved",
+          "score": "F"
+        },
+        {
+          "text": "Following a structured plan",
+          "score": "J"
+        },
+        {
+          "text": "Logical outcomes and fairness",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In your free time, you prefer to...",
+      "options": [
+        {
+          "text": "Spend time on personal hobbies quietly",
+          "score": "I"
+        },
+        {
+          "text": "Explore new ideas or creative pursuits",
+          "score": "N"
+        },
+        {
+          "text": "Organize a group activity with friends",
+          "score": "E"
+        },
+        {
+          "text": "Complete practical tasks or projects",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a teammate disagrees with you, you...",
+      "options": [
+        {
+          "text": "Present logical arguments to persuade them",
+          "score": "T"
+        },
+        {
+          "text": "Try to understand their feelings first",
+          "score": "F"
+        },
+        {
+          "text": "Seek a compromise that works in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Refer back to the team’s agreed goals",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new ability, you...",
+      "options": [
+        {
+          "text": "Follow step-by-step instructions carefully",
+          "score": "S"
+        },
+        {
+          "text": "Ask others to demonstrate and explain",
+          "score": "E"
+        },
+        {
+          "text": "Practice alone until you master it",
+          "score": "I"
+        },
+        {
+          "text": "Experiment with different techniques",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal mission involves...",
+      "options": [
+        {
+          "text": "Clear objectives and timelines",
+          "score": "J"
+        },
+        {
+          "text": "Protecting vulnerable communities",
+          "score": "F"
+        },
+        {
+          "text": "Unexpected twists and flexibility",
+          "score": "P"
+        },
+        {
+          "text": "Solving complex puzzles or challenges",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At a superhero conference, you’re drawn to...",
+      "options": [
+        {
+          "text": "Visionary speeches about the future",
+          "score": "N"
+        },
+        {
+          "text": "Networking with other heroes",
+          "score": "E"
+        },
+        {
+          "text": "Listening to talks rather than speaking",
+          "score": "I"
+        },
+        {
+          "text": "Practical workshops on tools and skills",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a mission doesn’t go as planned, you...",
+      "options": [
+        {
+          "text": "Analyze what went wrong logically",
+          "score": "T"
+        },
+        {
+          "text": "Check on the emotional well-being of teammates",
+          "score": "F"
+        },
+        {
+          "text": "Improvise a new strategy on the spot",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the backup plan you prepared",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your hero identity is most influenced by...",
+      "options": [
+        {
+          "text": "The connections you have with others",
+          "score": "E"
+        },
+        {
+          "text": "Real-world experiences and lessons",
+          "score": "S"
+        },
+        {
+          "text": "Your personal values and inner strength",
+          "score": "I"
+        },
+        {
+          "text": "Dreams and aspirations for the future",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When setting priorities, you prioritize tasks that...",
+      "options": [
+        {
+          "text": "Allow for spontaneity and discovery",
+          "score": "P"
+        },
+        {
+          "text": "Help others feel supported",
+          "score": "F"
+        },
+        {
+          "text": "Align with your long-term goals",
+          "score": "J"
+        },
+        {
+          "text": "Achieve the most efficient outcome",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a crisis, you communicate by...",
+      "options": [
+        {
+          "text": "Whispering key instructions to trusted allies",
+          "score": "I"
+        },
+        {
+          "text": "Painting a vision of how to overcome it",
+          "score": "N"
+        },
+        {
+          "text": "Shouting encouragement to rally the team",
+          "score": "E"
+        },
+        {
+          "text": "Sharing concrete details and next steps",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You believe heroism is defined by...",
+      "options": [
+        {
+          "text": "Rationality and integrity in choices",
+          "score": "T"
+        },
+        {
+          "text": "Empathy and compassion for others",
+          "score": "F"
+        },
+        {
+          "text": "Adaptability and openness to change",
+          "score": "P"
+        },
+        {
+          "text": "Commitment to duty and responsibility",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Compassionate Guardian",
+      "description": "You’re driven by empathy, always putting others’ needs first. Like Captain America, you lead with heart, standing up for the vulnerable and fostering unity. Your heroism lies in your ability to connect deeply and inspire hope through kindness.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Visionary",
+      "description": "You thrive on big ideas and long-term planning. Like Iron Man, you combine innovation with logic, seeing possibilities others miss. Your heroism comes from turning vision into action, even when the path is unclear.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Steadfast Protector",
+      "description": "Dependable and grounded, you excel at practical solutions. Like Black Widow, you focus on the task at hand, using experience and precision to keep others safe. Your heroism is in your consistency and unwavering commitment.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Creative Idealist",
+      "description": "Imaginative and values-driven, you see the world through a lens of possibility. Like Scarlet Witch, you channel creativity and passion into fighting for what’s right, even when faced with doubt.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Dynamic Leader",
+      "description": "Outgoing and decisive, you rally others with energy and purpose. Like Thor, you embrace action, leading with confidence and inspiring those around you to rise to the occasion.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Analytical Problem-Solver",
+      "description": "Logical and detail-oriented, you thrive on solving complex challenges. Like Bruce Banner, you balance intellect with restraint, using knowledge to defuse threats and find innovative solutions.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Warm Collaborator",
+      "description": "Friendly and cooperative, you build strong teams through connection. Like Hawkeye, you’re the glue that holds groups together, using your social skills to ensure everyone works in harmony.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Independent Explorer",
+      "description": "Curious and self-reliant, you seek knowledge and new experiences. Like Doctor Strange, you embrace the unknown, trusting your intuition to guide you through uncharted territory.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Energetic Catalyst",
+      "description": "Spontaneous and enthusiastic, you bring momentum to any mission. Like Spider-Man, you thrive in the moment, using quick thinking and adaptability to turn chaos into opportunity.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Principled Strategist",
+      "description": "Organized and ethical, you plan with purpose and integrity. Like Captain Marvel, you stand firm in your values, using structure and logic to protect what matters most.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Intuitive Healer",
+      "description": "Compassionate and insightful, you understand others’ emotions deeply. Like Vision, you bridge divides with empathy, using your intuition to heal and unite rather than fight.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Practical Innovator",
+      "description": "Hands-on and resourceful, you turn ideas into tangible results. Like Shuri, you excel at problem-solving, using practical skills and creativity to build solutions that make a difference.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Dreamy Optimist",
+      "description": "Idealistic and imaginative, you believe in a better future. Like Star-Lord, you blend creativity with hope, seeing the good in people and inspiring others to reach for more.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Calm Diplomat",
+      "description": "Patient and thoughtful, you navigate conflict with grace. Like Black Panther, you listen deeply, weighing perspectives to find balanced, fair solutions that honor all involved.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Bold Experimenter",
+      "description": "Adventurous and open-minded, you embrace change and new ideas. Like Rocket Raccoon, you thrive on innovation, using your quick wit and adaptability to tackle even the messiest problems.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Quiet Strength",
+      "description": "Reserved and resilient, you let your actions speak louder than words. Like Gamora, you draw strength from within, facing challenges with quiet determination and unwavering resolve.",
+      "mbti": "ISFP"
+    }
+  ],
   "emoji": [
     "🦸",
     "💥",

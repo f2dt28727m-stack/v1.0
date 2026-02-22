@@ -2,20 +2,350 @@
   "quizId": 195,
   "title": "What's Your Career Personality Type?",
   "category": "type",
+  "description": "Answer 12 questions to discover your Career personality!",
   "tags": [
     "Career",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Career Type",
-    ",\n ",
     "Work Style"
   ],
-  "description": "Answer 12 questions to discover your Career personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you prefer to approach a new work project?",
+      "options": [
+        {
+          "text": "Spend time researching and reflecting alone before acting",
+          "score": "I"
+        },
+        {
+          "text": "Collaborate with a large team, bouncing ideas off others",
+          "score": "E"
+        },
+        {
+          "text": "Dive into specific, actionable tasks to get results",
+          "score": "S"
+        },
+        {
+          "text": "Explore new possibilities and big-picture goals",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a work decision, you prioritize...",
+      "options": [
+        {
+          "text": "Analyze data and logical outcomes to choose the best path",
+          "score": "T"
+        },
+        {
+          "text": "Consider how the decision affects your team’s morale",
+          "score": "F"
+        },
+        {
+          "text": "Adjust your approach based on new information",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the original plan to meet deadlines",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "What excites you most about a job?",
+      "options": [
+        {
+          "text": "The chance to interact with diverse people daily",
+          "score": "E"
+        },
+        {
+          "text": "Innovating new methods or solutions",
+          "score": "N"
+        },
+        {
+          "text": "Quiet focus on deep, meaningful tasks",
+          "score": "I"
+        },
+        {
+          "text": "Seeing the direct, practical impact of your work",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you manage your typical workday?",
+      "options": [
+        {
+          "text": "Let tasks unfold naturally, staying flexible",
+          "score": "P"
+        },
+        {
+          "text": "Make time to check in with team members’ well-being",
+          "score": "F"
+        },
+        {
+          "text": "Create a detailed schedule and stick to it",
+          "score": "J"
+        },
+        {
+          "text": "Prioritize tasks based on efficiency and results",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When solving a problem at work, you tend to...",
+      "options": [
+        {
+          "text": "Look to past experiences and proven methods",
+          "score": "S"
+        },
+        {
+          "text": "Reflect quietly to identify the root cause",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm creative, out-of-the-box solutions",
+          "score": "N"
+        },
+        {
+          "text": "Ask colleagues for their perspectives and ideas",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to receive work instructions?",
+      "options": [
+        {
+          "text": "A big-picture overview of goals and purpose",
+          "score": "N"
+        },
+        {
+          "text": "Flexible guidelines that allow for adaptation",
+          "score": "P"
+        },
+        {
+          "text": "Detailed, step-by-step instructions to follow",
+          "score": "S"
+        },
+        {
+          "text": "Clear deadlines and expectations to structure your work",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Which work environment helps you thrive?",
+      "options": [
+        {
+          "text": "A calm, quiet space where you can focus alone",
+          "score": "I"
+        },
+        {
+          "text": "A results-driven setting that rewards achievement",
+          "score": "T"
+        },
+        {
+          "text": "A busy, social office with frequent interactions",
+          "score": "E"
+        },
+        {
+          "text": "A supportive environment where people help each other",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle unexpected changes at work?",
+      "options": [
+        {
+          "text": "Rely on familiar processes to maintain stability",
+          "score": "S"
+        },
+        {
+          "text": "Feel the need to reorganize plans to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Easily adapt and find new opportunities in change",
+          "score": "P"
+        },
+        {
+          "text": "See the change as a chance to try something new",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "What do you value most when setting career goals?",
+      "options": [
+        {
+          "text": "Discuss goals with mentors or colleagues for input",
+          "score": "E"
+        },
+        {
+          "text": "Set specific, measurable targets to achieve",
+          "score": "T"
+        },
+        {
+          "text": "Reflect on what matters most to you personally",
+          "score": "I"
+        },
+        {
+          "text": "Align goals with your personal values and passions",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "How do you respond to feedback at work?",
+      "options": [
+        {
+          "text": "Prefer feedback scheduled at specific times to stay organized",
+          "score": "J"
+        },
+        {
+          "text": "Appreciate feedback that acknowledges your efforts and feelings",
+          "score": "F"
+        },
+        {
+          "text": "Welcome spontaneous feedback whenever it arises",
+          "score": "P"
+        },
+        {
+          "text": "Value direct, fact-based feedback to improve performance",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When collaborating on a team project, you’re known for...",
+      "options": [
+        {
+          "text": "Ensuring everyone’s ideas are heard and valued",
+          "score": "F"
+        },
+        {
+          "text": "Keeping the team on track with clear timelines",
+          "score": "J"
+        },
+        {
+          "text": "Generating bold, innovative concepts",
+          "score": "N"
+        },
+        {
+          "text": "Handling practical tasks to keep progress moving",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you celebrate a work success?",
+      "options": [
+        {
+          "text": "Analyze what worked well to replicate success",
+          "score": "T"
+        },
+        {
+          "text": "Embrace the moment and see what’s next",
+          "score": "P"
+        },
+        {
+          "text": "Celebrate with the team to share the success",
+          "score": "F"
+        },
+        {
+          "text": "Enjoy the structured closure of a completed project",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Reliable Organizer",
+      "description": "You thrive in structured environments where precision and responsibility matter most. Detail-oriented and methodical, you excel at creating systems that keep teams on track. Colleagues trust you to meet deadlines and maintain order, as you value tradition and practicality in every task. Your career strength lies in turning chaos into clarity—you’re the backbone that ensures projects run smoothly.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Supportive Nurturer",
+      "description": "Your career is defined by your ability to lift others up. Empathetic and reliable, you excel in roles where you can care for team members and foster harmony. You notice the small details that make others feel valued, turning workplaces into communities. Whether mentoring a new hire or resolving conflicts, you prioritize people’s well-being, making you the heart of any team.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Insightful Counselor",
+      "description": "You see the potential in people and projects that others miss. Intuitive and idealistic, you’re drawn to work that aligns with your values and creates meaningful change. Colleagues seek your guidance because of your ability to understand underlying needs and envision a better future. Your career thrives when you can help others grow and contribute to work that feels purposeful.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Architect",
+      "description": "Big-picture thinking is your superpower. You excel at designing long-term plans and solving complex problems with innovative solutions. Logical and visionary, you’re not afraid to challenge the status quo to achieve ambitious goals. Colleagues admire your ability to see patterns others miss, making you a driving force behind transformative projects and organizational success.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Hands-On Problem-Solver",
+      "description": "You thrive when rolling up your sleeves and tackling tangible challenges. Adaptable and practical, you excel in fast-paced environments where quick thinking and technical skills are key. You learn best by doing, turning ideas into action with precision. Colleagues rely on you to fix problems in the moment, as you stay calm under pressure and find creative ways to get the job done.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Creative Harmonizer",
+      "description": "Artistic and compassionate, you bring beauty and balance to your work. You value authenticity and express yourself through creative tasks, whether designing, writing, or curating experiences. You thrive in environments that allow flexibility, as you adapt easily to new ideas and prioritize harmony with others. Your career shines when you can infuse heart into every project.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealistic Dreamer",
+      "description": "You’re driven by purpose and authenticity in your career. Creative and empathetic, you seek work that aligns with your values and allows you to make a positive impact. You excel at seeing possibilities in others and inspiring them to pursue their passions. Colleagues appreciate your ability to infuse meaning into even the smallest tasks, making work feel like a journey of growth.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Analytical Innovator",
+      "description": "Curiosity fuels your career—you’re constantly exploring ideas and solving complex problems. Logical and open-minded, you thrive when diving deep into concepts and challenging assumptions. You excel in roles that require critical thinking, as you connect dots others overlook. Colleagues value your ability to turn abstract ideas into actionable insights, making you a catalyst for innovation.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Dynamic Doer",
+      "description": "Action is your middle name. Energetic and pragmatic, you thrive in fast-paced environments where you can make things happen. You adapt quickly to change, turning challenges into opportunities with your hands-on approach. Colleagues admire your ability to stay calm under pressure and keep projects moving forward, making you the go-to person for getting results.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Enthusiastic Performer",
+      "description": "You light up any workplace with your energy and charisma. Social and outgoing, you thrive in roles that let you connect with people and bring joy to tasks. You excel at motivating teams and turning ordinary projects into memorable experiences. Colleagues love working with you because of your positivity and ability to make even hard work feel fun.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Inspirational Explorer",
+      "description": "You’re a fountain of ideas, always chasing new possibilities. Creative and enthusiastic, you thrive in roles that let you explore and innovate. You inspire others with your vision, turning abstract concepts into shared goals. Colleagues value your ability to see the big picture and keep projects exciting, making you a driving force for change and growth.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Visionary Debater",
+      "description": "You love a good challenge—intellectual curiosity drives your career. Quick-witted and innovative, you thrive when debating ideas and pushing boundaries. You excel at connecting diverse concepts to create groundbreaking solutions. Colleagues admire your ability to think outside the box and turn debates into actionable plans, making you a catalyst for progress.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Efficient Director",
+      "description": "You’re a natural leader who thrives on structure and results. Organized and decisive, you excel at managing teams and ensuring projects meet goals on time. You value clarity and accountability, creating systems that keep everyone focused. Colleagues respect your ability to make tough decisions and drive success, making you the backbone of any high-performing team.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warm Coordinator",
+      "description": "You’re the glue that holds teams together. Social and nurturing, you excel at creating inclusive environments where everyone feels valued. You organize events, check in on colleagues, and ensure no one is left behind. Colleagues love working with you because of your warmth and ability to turn work into a community, making every project feel like a shared journey.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Compassionate Leader",
+      "description": "You lead with heart, inspiring others to reach their full potential. Empathetic and visionary, you excel at understanding team members’ strengths and aligning them with meaningful goals. You create cultures of growth and trust, where people feel motivated to contribute their best. Colleagues look up to you as a mentor and guide, making you a transformative force in any workplace.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Bold Commander",
+      "description": "You’re a natural strategist who thrives on ambition and results. Decisive and confident, you excel at leading teams toward bold goals and driving change. You’re not afraid to take risks, as you see challenges as opportunities to innovate. Colleagues respect your vision and ability to turn plans into action, making you a powerful leader who shapes the future of your field.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "💼",
     "📈",

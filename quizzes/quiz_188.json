@@ -2,20 +2,350 @@
   "quizId": 188,
   "title": "Which Marvel Character Is Your Perfect Soulmate?",
   "category": "match",
+  "description": "Answer 12 questions to discover your Marvel soulmate!",
   "tags": [
     "Marvel",
-    ",\n ",
     "Soulmate",
-    ",\n ",
     "MCU",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your Marvel soulmate!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you prefer to spend a weekend afternoon?",
+      "options": [
+        {
+          "text": "Tackle a DIY project, like fixing something around the house or gardening",
+          "score": "S"
+        },
+        {
+          "text": "Hang out with a group of friends, trying a new café or exploring the city",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about future adventures or sketch ideas for a creative project",
+          "score": "N"
+        },
+        {
+          "text": "Spend time alone, reading a book or working on a personal project",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset, you’re most likely to...",
+      "options": [
+        {
+          "text": "Ask questions to understand the root problem and offer logical solutions",
+          "score": "T"
+        },
+        {
+          "text": "Go with the flow, letting them open up at their own pace without pressure",
+          "score": "P"
+        },
+        {
+          "text": "Listen carefully and validate their feelings to help them feel understood",
+          "score": "F"
+        },
+        {
+          "text": "Schedule a time to talk privately, making sure you have space to address it properly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you were planning a surprise for someone special, you’d focus on...",
+      "options": [
+        {
+          "text": "Keeping it intimate, with just the two of you sharing a meaningful moment",
+          "score": "I"
+        },
+        {
+          "text": "Creating a unique experience they’ve always dreamed of, full of unexpected twists",
+          "score": "N"
+        },
+        {
+          "text": "Organizing every detail, from their favorite snacks to a timeline of activities",
+          "score": "S"
+        },
+        {
+          "text": "Inviting their closest friends to join, turning it into a group celebration",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When solving a challenging problem, you rely on...",
+      "options": [
+        {
+          "text": "Considering how each solution affects the people involved, prioritizing their well-being",
+          "score": "F"
+        },
+        {
+          "text": "Following a step-by-step plan you’ve outlined, ensuring nothing is overlooked",
+          "score": "J"
+        },
+        {
+          "text": "Exploring different approaches as you go, staying open to new ideas that emerge",
+          "score": "P"
+        },
+        {
+          "text": "Weighing the pros and cons objectively, focusing on what makes the most logical sense",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After a long, busy week, you recharge by...",
+      "options": [
+        {
+          "text": "Doing something physical, like cooking a meal or going for a run",
+          "score": "S"
+        },
+        {
+          "text": "Spending quiet time alone, maybe taking a walk or practicing a hobby",
+          "score": "I"
+        },
+        {
+          "text": "Attending a social event or calling a friend to catch up and laugh",
+          "score": "E"
+        },
+        {
+          "text": "Doodling, writing, or brainstorming ideas for a future goal",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a big life decision, you prioritize...",
+      "options": [
+        {
+          "text": "The long-term possibilities and how it fits with your dreams",
+          "score": "N"
+        },
+        {
+          "text": "What’s fair and logical, even if it’s not the easiest choice",
+          "score": "T"
+        },
+        {
+          "text": "The practical outcomes and concrete facts available right now",
+          "score": "S"
+        },
+        {
+          "text": "How it aligns with your personal values and the impact on your relationships",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you naturally take on the role of...",
+      "options": [
+        {
+          "text": "Setting deadlines and organizing the workflow to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Working independently on your tasks, checking in only when necessary",
+          "score": "I"
+        },
+        {
+          "text": "Adapting to changes and helping wherever needed, without strict plans",
+          "score": "P"
+        },
+        {
+          "text": "Coordinating with everyone, keeping the group motivated and connected",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "If your plans suddenly change, you react by...",
+      "options": [
+        {
+          "text": "Embracing the spontaneity and seeing where the new path leads",
+          "score": "P"
+        },
+        {
+          "text": "Focusing on the immediate next steps to keep things on track",
+          "score": "S"
+        },
+        {
+          "text": "Quickly adjusting your schedule to fit the new situation",
+          "score": "J"
+        },
+        {
+          "text": "Imagining all the new opportunities this change might bring",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "What matters most to you in a close relationship?",
+      "options": [
+        {
+          "text": "Emotional support and feeling truly seen and accepted for who you are",
+          "score": "F"
+        },
+        {
+          "text": "Dreaming together about the future and supporting each other’s growth",
+          "score": "N"
+        },
+        {
+          "text": "Intellectual compatibility and the ability to have deep, honest conversations",
+          "score": "T"
+        },
+        {
+          "text": "Shared daily routines and working together to handle life’s practical challenges",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you show someone you care about them?",
+      "options": [
+        {
+          "text": "Expressing love through quiet gestures, like remembering their favorite song",
+          "score": "I"
+        },
+        {
+          "text": "Helping them solve problems with logical advice and practical solutions",
+          "score": "T"
+        },
+        {
+          "text": "Publicly praising their achievements and showing affection openly",
+          "score": "E"
+        },
+        {
+          "text": "Listening deeply and offering emotional support when they’re having a hard day",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new skill, you prefer to...",
+      "options": [
+        {
+          "text": "Follow your curiosity, exploring different aspects as they interest you",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the theory behind it, understanding how it works before practicing",
+          "score": "T"
+        },
+        {
+          "text": "Set a structured schedule, practicing specific steps each day",
+          "score": "J"
+        },
+        {
+          "text": "Connect with others learning the same skill, sharing tips and experiences",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When you’re feeling stressed, you tend to...",
+      "options": [
+        {
+          "text": "Reach out to a friend or family member to talk through your feelings",
+          "score": "E"
+        },
+        {
+          "text": "Make a to-do list and tackle one task at a time to regain control",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, doing something calming until you feel better",
+          "score": "P"
+        },
+        {
+          "text": "Withdraw to a quiet space to reflect and recharge alone",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Iron Man (Tony Stark)",
+      "description": "Your soulmate is Tony Stark! Like him, they’re a witty innovator with a sharp mind and a heart that cares deeply—even if they hide it behind sarcasm. They thrive on challenges, turn ideas into reality, and value honesty above all. An ENTP, they’ll keep you on your toes with their creativity and make every day feel like an adventure, balancing brilliance with a playful spirit that makes even the toughest moments feel manageable.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Captain America (Steve Rogers)",
+      "description": "Your soulmate is Steve Rogers! They’re the steady, loyal type who stands by their values and fights for what’s right. An ESFJ, they thrive on community, remember the little things, and make you feel safe and cherished. Whether it’s a quiet night in or a grand adventure, they’ll always prioritize your happiness, turning ordinary moments into lasting memories with their warmth and integrity.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Thor",
+      "description": "Your soulmate is Thor! Bold, charismatic, and full of life, they’re an ESFP who lives in the moment and spreads joy wherever they go. They love adventure, value laughter, and have a heart as big as Asgard. With them, every day feels like a celebration—whether you’re exploring new places or simply enjoying each other’s company. Their optimism is contagious, and they’ll always remind you to embrace the present.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Hulk (Bruce Banner)",
+      "description": "Your soulmate is Bruce Banner! Quietly thoughtful and deeply empathetic, they’re an INFP who values inner peace and authenticity. They may seem reserved at first, but beneath the surface lies a kind heart and a brilliant mind. They’ll listen without judgment, support your dreams, and find beauty in the small, meaningful moments. With them, you’ll feel truly understood—no masks, just genuine connection.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Black Widow (Natasha Romanoff)",
+      "description": "Your soulmate is Natasha Romanoff! Practical, adaptable, and fiercely loyal, they’re an ISTP who thrives in action. They’re calm under pressure, solve problems with ease, and show care through actions rather than words. Whether it’s helping you fix a broken appliance or standing by your side during tough times, they’re the reliable partner who has your back—no questions asked.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Hawkeye (Clint Barton)",
+      "description": "Your soulmate is Clint Barton! A quiet hero with a heart of gold, they’re an ISFP who values simplicity and personal connections. They express love through small, consistent gestures—like making your favorite meal or remembering a story you told months ago. They’re grounded, reliable, and find joy in the ordinary, making every day feel like a gift with their down-to-earth charm.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Spider-Man (Peter Parker)",
+      "description": "Your soulmate is Peter Parker! Optimistic, creative, and full of energy, they’re an ENFP who sees the best in everyone. They’re curious about the world, love sharing ideas, and turn even the most mundane tasks into fun adventures. With their infectious enthusiasm and big heart, they’ll encourage you to dream big and remind you that kindness is the greatest superpower of all.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Doctor Strange (Stephen Strange)",
+      "description": "Your soulmate is Stephen Strange! Strategic, visionary, and unapologetically independent, they’re an INTJ who thinks several steps ahead. They’re drawn to knowledge, love solving complex puzzles, and have a dry wit that keeps you on your toes. While they may seem intense, they care deeply—showing it through their dedication to protecting what matters and supporting your growth, even when it’s tough.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Black Panther (T’Challa)",
+      "description": "Your soulmate is T’Challa! A natural leader with a strong sense of duty, they’re an ENTJ who balances tradition and progress. They’re decisive, loyal, and deeply committed to their loved ones and community. With them, you’ll feel secure and inspired—they’ll challenge you to grow, support your goals, and remind you that true strength lies in integrity and compassion.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Captain Marvel (Carol Danvers)",
+      "description": "Your soulmate is Carol Danvers! Bold, practical, and unafraid to take charge, they’re an ESTP who lives for action. They’re confident, resilient, and tackle challenges head-on, but they also have a soft spot for those they care about. With their straightforward honesty and adventurous spirit, they’ll push you to step out of your comfort zone and embrace life’s thrills.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Scarlet Witch (Wanda Maximoff)",
+      "description": "Your soulmate is Wanda Maximoff! Empathetic, intuitive, and deeply emotional, they’re an INFJ who feels things deeply. They have a gift for understanding others’ hearts and creating meaningful connections. They’ll support your dreams, stand by you during dark times, and turn your home into a sanctuary of love and warmth. With them, you’ll never feel alone—they see you, fully and completely.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Vision",
+      "description": "Your soulmate is Vision! Analytical, logical, and endlessly curious, they’re an INTP who seeks understanding above all. They approach life with a calm, thoughtful perspective, and love exploring ideas and concepts. While they may seem reserved, they show care through their dedication to learning about you—remembering your thoughts, asking deep questions, and growing alongside you. With them, conversations are always stimulating, and love feels like a beautiful puzzle you’re solving together.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Loki",
+      "description": "Your soulmate is Loki! Cunning, creative, and full of surprises, they’re an ENTP who loves intellectual challenges and witty banter. They’re complex—mischievous yet deeply loyal once they care. They’ll keep you guessing, make you laugh with their clever quips, and stand by you when it matters most. With them, life is never boring—they’ll turn ordinary days into adventures and remind you to embrace your own uniqueness.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Ant-Man (Scott Lang)",
+      "description": "Your soulmate is Scott Lang! Humorous, practical, and family-oriented, they’re an ISFP who finds joy in the little things. They’re down-to-earth, love making you laugh, and show care through acts of service—whether it’s fixing your bike or planning a cozy movie night. With their easygoing nature and big heart, they’ll make you feel at home, no matter where you are.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Wasp (Hope van Dyne)",
+      "description": "Your soulmate is Hope van Dyne! Organized, responsible, and fiercely capable, they’re an ESTJ who takes charge and gets things done. They’re practical, reliable, and have a sharp sense of humor that balances their no-nonsense attitude. They’ll support your goals with structure and encouragement, and turn chaos into order—all while making sure you feel loved and valued every step of the way.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Gamora",
+      "description": "Your soulmate is Gamora! Disciplined, loyal, and quietly passionate, they’re an ISTJ who values duty and integrity. They may seem guarded at first, but once they trust you, they’ll stand by you unwaveringly. They show care through consistency and protection, and they’ll push you to be your best self. With them, you’ll feel secure—knowing they’re always there, steady and strong, through every challenge.",
+      "mbti": "ISTJ"
+    }
+  ],
   "emoji": [
     "🦸",
     "💥",

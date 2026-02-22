@@ -2,20 +2,350 @@
   "quizId": 172,
   "title": "Which Harry Potter Character Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Harry Potter character!",
   "tags": [
     "Harry Potter",
-    ",\n ",
     "Wizarding World",
-    ",\n ",
     "Character",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your Harry Potter character!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you spend a free afternoon at Hogwarts?",
+      "options": [
+        {
+          "text": "Practice potion-making in the dungeons alone",
+          "score": "I"
+        },
+        {
+          "text": "Lead a group game of wizard chess in the common room",
+          "score": "E"
+        },
+        {
+          "text": "Tinker with a new spell idea you’ve been imagining",
+          "score": "N"
+        },
+        {
+          "text": "Organize your herbology notes for next week’s class",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When solving a difficult spell, you…",
+      "options": [
+        {
+          "text": "Adapt your approach based on how the wand feels in your hand",
+          "score": "P"
+        },
+        {
+          "text": "Follow the textbook instructions step-by-step",
+          "score": "J"
+        },
+        {
+          "text": "Focus on how the spell could help a friend in need",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the spell’s mechanics to understand its weaknesses",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Preparing for a Quidditch match, you…",
+      "options": [
+        {
+          "text": "Mentally map out plays while sitting alone in the stands",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm wild new tactics with the team",
+          "score": "N"
+        },
+        {
+          "text": "Drill basic moves until they’re second nature",
+          "score": "S"
+        },
+        {
+          "text": "Fire up the team with a rousing speech before takeoff",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "You find a mysterious locket in the Forbidden Forest. You…",
+      "options": [
+        {
+          "text": "Take it to Dumbledore immediately—rules exist for safety",
+          "score": "J"
+        },
+        {
+          "text": "Keep it to examine later, curious about its hidden magic",
+          "score": "P"
+        },
+        {
+          "text": "Wonder if it belonged to someone who’s lost it, and try to return it",
+          "score": "F"
+        },
+        {
+          "text": "Study its engravings to deduce its origin and purpose",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Choosing an elective, you pick…",
+      "options": [
+        {
+          "text": "Ancient Runes—you’re drawn to its symbolic, hidden meanings",
+          "score": "N"
+        },
+        {
+          "text": "Care of Magical Creatures—you love hands-on interaction",
+          "score": "S"
+        },
+        {
+          "text": "Divination—you want to explore what the future holds",
+          "score": "N"
+        },
+        {
+          "text": "Muggle Studies—you enjoy learning practical, real-world facts",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A housemate borrows your favorite book and damages it. You…",
+      "options": [
+        {
+          "text": "Tell them calmly why it upset you and ask them to be more careful",
+          "score": "T"
+        },
+        {
+          "text": "Brush it off—accidents happen, and you don’t want to argue",
+          "score": "F"
+        },
+        {
+          "text": "Set a clear rule: no borrowing without asking first",
+          "score": "J"
+        },
+        {
+          "text": "Laugh it off and suggest you fix it together later",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Weekend in Hogsmeade: you…",
+      "options": [
+        {
+          "text": "Wander alone through the Shrieking Shack, curious about its stories",
+          "score": "I"
+        },
+        {
+          "text": "Meet friends at The Three Broomsticks for butterbeer and gossip",
+          "score": "E"
+        },
+        {
+          "text": "Hunt for rare sweets at Honeydukes—you love trying new flavors",
+          "score": "S"
+        },
+        {
+          "text": "Explore the edge of the village, hoping to find a hidden path",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A Ravenclaw riddle stumps you. You…",
+      "options": [
+        {
+          "text": "Let your mind wander, trusting a sudden insight will hit",
+          "score": "P"
+        },
+        {
+          "text": "Break it down into parts and solve it step by step",
+          "score": "J"
+        },
+        {
+          "text": "Ask others for their thoughts—collaboration sparks ideas",
+          "score": "F"
+        },
+        {
+          "text": "Logic it out: what’s the pattern or hidden meaning?",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "A classmate pranks you by turning your hair green. You…",
+      "options": [
+        {
+          "text": "Laugh and plan a clever retaliation after class",
+          "score": "E"
+        },
+        {
+          "text": "Roll your eyes and fix it quietly—no need for drama",
+          "score": "I"
+        },
+        {
+          "text": "Admire their creativity—green actually suits you!",
+          "score": "N"
+        },
+        {
+          "text": "Grab a hair charm from your bag and fix it immediately",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Studying for O.W.L.s, you…",
+      "options": [
+        {
+          "text": "Study alone in the library, focusing on memorizing facts",
+          "score": "I"
+        },
+        {
+          "text": "Form a study group to quiz each other and share notes",
+          "score": "E"
+        },
+        {
+          "text": "Understand the ‘why’ behind spells, not just the ‘how’",
+          "score": "N"
+        },
+        {
+          "text": "Practice wand movements until you can cast them blindfolded",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a pet at Diagon Alley, you pick…",
+      "options": [
+        {
+          "text": "A calm cat that curls up with you while you read",
+          "score": "I"
+        },
+        {
+          "text": "A playful owl that greets everyone who enters the shop",
+          "score": "E"
+        },
+        {
+          "text": "A loyal toad—practical, low-maintenance, and reliable",
+          "score": "S"
+        },
+        {
+          "text": "A mysterious kneazle—you’re drawn to its unusual aura",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Facing a dark wizard, you…",
+      "options": [
+        {
+          "text": "Stick to the battle plan you memorized with the Order",
+          "score": "J"
+        },
+        {
+          "text": "Trust your instincts and react to their moves in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Charge in to protect your friends, even if it’s risky",
+          "score": "F"
+        },
+        {
+          "text": "Assess their weaknesses and plan a strategic counterattack",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Harry Potter",
+      "description": "You’re brave, action-oriented, and deeply loyal—just like the Boy Who Lived. You thrive in the moment, face danger head-on to protect others, and value friendship above all. Your quick thinking and willingness to adapt make you a natural leader, even when you don’t seek the role. You’re an ESFP—bold, energetic, and always ready to fight for what’s right.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Hermione Granger",
+      "description": "You’re a brilliant strategist with a mind for details and a passion for learning. Like Hermione, you value logic, plan meticulously, and believe in doing what’s right—even when it’s hard. You’re organized, determined, and unafraid to speak your mind. Your INTJ traits make you a problem-solver who turns knowledge into action, inspiring others with your wisdom.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Ron Weasley",
+      "description": "Warm, loyal, and always ready to stand by your friends, you’re the heart of any group—just like Ron. You thrive on connection, hate letting people down, and bring humor to even the darkest moments. Your ESFJ nature makes you a natural caretaker, quick to comfort and support, and your loyalty is unshakable, even when faced with doubt.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Albus Dumbledore",
+      "description": "Wise, charismatic, and driven by a vision of a better world, you’re a natural leader like Dumbledore. You see the big picture, inspire others with your optimism, and believe in the power of love and redemption. Your ENFJ traits make you a master at bringing people together, turning enemies into allies, and guiding others toward their potential.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Severus Snape",
+      "description": "Complex, intuitive, and fiercely protective, you guard your emotions but care deeply—just like Snape. You see beyond surface appearances, hold onto long-buried truths, and act with quiet purpose. Your INFJ nature makes you a keeper of secrets, driven by a personal mission that others may not understand until the end.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Ginny Weasley",
+      "description": "Confident, bold, and unapologetically yourself, you’re a force to be reckoned with—like Ginny. You thrive in action, love a good challenge, and aren’t afraid to take risks. Your ESTP traits make you adaptable, quick-witted, and always ready to jump into the fray, whether it’s Quidditch or a fight against dark magic.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Luna Lovegood",
+      "description": "Creative, idealistic, and wonderfully unique, you see the world through a different lens—just like Luna. You value imagination, trust your intuition, and stay true to yourself, even when others mock your quirks. Your INFP nature makes you a dreamer with a kind heart, finding beauty in the unusual and hope in the darkest times.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Draco Malfoy",
+      "description": "Ambitious, structured, and driven by a desire to prove yourself, you’re a complex mix of pride and vulnerability—like Draco. You value tradition, strive for success, and hate feeling weak. Your ESTJ traits make you decisive and organized, though deep down, you’re still figuring out where your true loyalties lie.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Neville Longbottom",
+      "description": "Gentle, loyal, and quietly brave, you grow stronger with time—just like Neville. You’re patient, dependable, and willing to stand up for what’s right, even when you’re scared. Your ISFP nature makes you practical yet kind, finding strength in small acts of courage and loyalty to those you love.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Sirius Black",
+      "description": "Witty, rebellious, and full of life, you’re a free spirit who defies expectations—like Sirius. You hate rules that stifle joy, love a good prank, and would die for your friends. Your ENTP traits make you clever, quick-thinking, and unafraid to challenge the status quo, even when it lands you in trouble.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Remus Lupin",
+      "description": "Thoughtful, analytical, and deeply kind, you balance wisdom with humility—just like Lupin. You love learning, adapt easily to new situations, and have a knack for seeing the best in people. Your INTP nature makes you a quiet problem-solver, using logic and empathy to guide others through tough times.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Bellatrix Lestrange",
+      "description": "Dominant, strategic, and unyielding in your beliefs, you’re a force of intensity—like Bellatrix. You pursue your goals with ruthless determination, thrive on power, and refuse to back down. Your ENTJ traits make you a natural leader, though your loyalty to a dark cause blinds you to the cost of your actions.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Minerva McGonagall",
+      "description": "Disciplined, responsible, and fiercely protective, you’re a pillar of strength—just like McGonagall. You value order, expect excellence, and care deeply for those under your charge. Your ISFJ nature makes you a steady presence, balancing strictness with kindness, and always ready to defend what’s good.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Fred Weasley",
+      "description": "Energetic, creative, and the life of the party, you turn every moment into an adventure—like Fred. You love making people laugh, thrive on collaboration, and see the world as a playground for ideas. Your ENFP traits make you a visionary prankster, turning ordinary days into unforgettable memories.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "George Weasley",
+      "description": "Practical, quick-witted, and a master of execution, you turn ideas into reality—like George. You’re the hands-on half of any duo, solving problems with a smirk and a clever invention. Your ISTP nature makes you adaptable, resourceful, and always ready to pivot when a prank (or plan) goes sideways.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Cedric Diggory",
+      "description": "Honest, reliable, and quietly confident, you embody dignity and sportsmanship—just like Cedric. You play by the rules, treat others with respect, and rise to challenges with grace. Your ISTJ nature makes you a steady leader, earning trust through consistency and integrity, even in the face of adversity.",
+      "mbti": "ISTJ"
+    }
+  ],
   "emoji": [
     "⚡",
     "🧙",

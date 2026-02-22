@@ -2,20 +2,350 @@
   "quizId": 204,
   "title": "What's Your Hidden Love Language Trait?",
   "category": "hidden",
+  "description": "Answer 12 questions to discover your hidden love language trait!",
   "tags": [
     "Love Language",
-    ",\n ",
     "Hidden Traits",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Emotions",
-    ",\n ",
     "Relationships"
   ],
-  "description": "Answer 12 questions to discover your hidden love language trait!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When you want to feel close to someone, you tend to...",
+      "options": [
+        {
+          "text": "Do a daily routine together, like cooking or walking",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a group activity to share time together",
+          "score": "E"
+        },
+        {
+          "text": "Discuss your hopes and dreams for the future",
+          "score": "N"
+        },
+        {
+          "text": "Invite them for a private chat to connect deeply",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If a loved one is stressed, you...",
+      "options": [
+        {
+          "text": "Stick to your usual support routine, like making tea",
+          "score": "J"
+        },
+        {
+          "text": "Hug them and say you’re here to listen",
+          "score": "F"
+        },
+        {
+          "text": "Change your plans to spend extra time with them",
+          "score": "P"
+        },
+        {
+          "text": "Ask what the problem is and help find solutions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When someone does something kind for you, you...",
+      "options": [
+        {
+          "text": "Reflect on how this shows they understand you",
+          "score": "N"
+        },
+        {
+          "text": "Tell them immediately how much it meant",
+          "score": "E"
+        },
+        {
+          "text": "Notice exactly what they did and mention it",
+          "score": "S"
+        },
+        {
+          "text": "Write them a thank-you note later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Planning a special day for someone, you...",
+      "options": [
+        {
+          "text": "Research the most efficient and effective options",
+          "score": "T"
+        },
+        {
+          "text": "Create a step-by-step schedule to avoid mistakes",
+          "score": "J"
+        },
+        {
+          "text": "Prioritize what you know they’ll emotionally enjoy",
+          "score": "F"
+        },
+        {
+          "text": "See where the day takes you, staying flexible",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Comforting a friend who’s sad, you...",
+      "options": [
+        {
+          "text": "Sit with them quietly, letting them lead the conversation",
+          "score": "I"
+        },
+        {
+          "text": "Share a story that helps them see a new angle",
+          "score": "N"
+        },
+        {
+          "text": "Bring their favorite snack or movie to cheer them up",
+          "score": "S"
+        },
+        {
+          "text": "Talk through their feelings until they feel better",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "To show affection, you often...",
+      "options": [
+        {
+          "text": "Compliment them in front of others",
+          "score": "E"
+        },
+        {
+          "text": "Do small, quiet favors without being asked",
+          "score": "I"
+        },
+        {
+          "text": "Tell them how they inspire you to grow",
+          "score": "F"
+        },
+        {
+          "text": "Remember their preferences, like their coffee order",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you disagree with someone, you...",
+      "options": [
+        {
+          "text": "Address it right away to clear the air",
+          "score": "E"
+        },
+        {
+          "text": "Discuss why the conflict happened to avoid it again",
+          "score": "T"
+        },
+        {
+          "text": "Give each other space before talking",
+          "score": "I"
+        },
+        {
+          "text": "Focus on specific actions that caused the issue",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If someone is upset with you, you...",
+      "options": [
+        {
+          "text": "Try different ways to make things right",
+          "score": "P"
+        },
+        {
+          "text": "Apologize and focus on their feelings",
+          "score": "F"
+        },
+        {
+          "text": "Follow a usual process that’s worked for past conflicts",
+          "score": "J"
+        },
+        {
+          "text": "Explain your perspective calmly to resolve it",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In daily interactions, you show care by...",
+      "options": [
+        {
+          "text": "Respecting their need for alone time",
+          "score": "I"
+        },
+        {
+          "text": "Discussing ideas and possibilities together",
+          "score": "N"
+        },
+        {
+          "text": "Checking in with them multiple times a day",
+          "score": "E"
+        },
+        {
+          "text": "Helping with tasks they find tiring",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Making a decision with a partner, you...",
+      "options": [
+        {
+          "text": "Be open to changing plans based on the moment",
+          "score": "P"
+        },
+        {
+          "text": "List pros and cons to find the best outcome",
+          "score": "T"
+        },
+        {
+          "text": "Stick to plans you’ve already agreed on",
+          "score": "J"
+        },
+        {
+          "text": "Choose what makes them happy, even if unsure",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Celebrating a loved one’s achievement, you...",
+      "options": [
+        {
+          "text": "Create a memory book of your time together",
+          "score": "N"
+        },
+        {
+          "text": "Have a quiet dinner just the two of you",
+          "score": "I"
+        },
+        {
+          "text": "Throw a party with friends to celebrate",
+          "score": "E"
+        },
+        {
+          "text": "Give a practical gift they’ve needed for a while",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When plans with someone suddenly change, you...",
+      "options": [
+        {
+          "text": "Wonder what new experiences this could bring",
+          "score": "N"
+        },
+        {
+          "text": "Worry about how the change affects their mood",
+          "score": "F"
+        },
+        {
+          "text": "Analyze if the new plan makes logical sense",
+          "score": "T"
+        },
+        {
+          "text": "Embrace the new opportunity with excitement",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Compassionate Connector",
+      "description": "Your hidden love language trait is intuitive empathy—you sense others’ unspoken needs before they’re expressed. You show care through small, heartfelt gestures that make people feel seen, whether it’s remembering a offhand comment or staying up late to listen. You’re an ENFJ, turning emotional connections into lasting bonds.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Quiet Stabilizer",
+      "description": "You express love through consistent reliability—others know they can count on you to show up, no matter what. Your hidden trait is steady presence; you don’t need grand gestures, just quiet consistency, like making their morning coffee or fixing things without being asked. You’re an ISTJ, the rock that keeps relationships grounded.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Dream Weaver",
+      "description": "Your hidden love language is future-focused inspiration—you bond by imagining shared possibilities, from travel plans to life goals. You激励 others to dream bigger, and your care shines in how you remember their aspirations. You’re an ENFP, turning ordinary moments into adventures of the heart.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Analytical Affectionist",
+      "description": "You show love through problem-solving—when someone struggles, you quietly research solutions or offer logical support. Your hidden trait is translating care into action, whether it’s troubleshooting a tech issue or organizing their schedule. You’re an INTP, using your mind to nurture those you care about.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Sensory Nurturer",
+      "description": "Your love language thrives in the present—you notice the little things: their favorite song, the way they take their tea, or the scent that calms them. You express care through sensory gestures, like a warm hug or a home-cooked meal. You’re an ISFJ, making love feel like a cozy, familiar blanket.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Bold Encourager",
+      "description": "You love loudly and proudly, cheering others on in public and pushing them to embrace their strengths. Your hidden trait is unapologetic support—you’re the first to celebrate their wins and defend their worth. You’re an ESTP, turning moments into memories with your energetic affection.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Reflective Empath",
+      "description": "You absorb others’ emotions deeply, and your love language is thoughtful reflection—you process their feelings with care, offering insights that help them feel understood. You’re an INFJ, the quiet observer who turns empathy into meaningful connection.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Practical Romantic",
+      "description": "You show love through action, not words—fixing their car, organizing their desk, or planning a efficient yet thoughtful date. Your hidden trait is turning care into tangible help, making life easier for those you love. You’re an ESTJ, the reliable partner who proves love through deeds.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Curious Companion",
+      "description": "You bond through exploration—whether discussing new ideas, trying a hobby, or learning together. Your hidden trait is intellectual connection; you love diving into deep conversations that spark growth. You’re an ENTP, turning curiosity into a love language all its own.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Gentle Protector",
+      "description": "You quietly guard those you love, anticipating their needs and shielding them from stress. Your hidden trait is silent dedication—you might not say much, but your actions speak volumes, like staying up to walk them home or saving their favorite snack. You’re an ISFP, the tender soul who loves through quiet presence.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Structured Sweetheart",
+      "description": "You thrive on routine and tradition, showing love through consistent rituals—weekly movie nights, morning texts, or annual trips. Your hidden trait is creating stability; others find comfort in your predictable, caring patterns. You’re an ISTP, turning structure into a warm embrace.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Optimistic Idealist",
+      "description": "You see the best in people and love by lifting them up—your hidden trait is unwavering positivity, even in tough times. You remind others of their potential and turn challenges into opportunities. You’re an ESFP, the ray of sunshine who makes love feel like a celebration.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Supporter",
+      "description": "You plan love like a masterpiece—mapping out ways to support their goals, from career moves to personal growth. Your hidden trait is long-term investment; you’re in it for the journey, not just the moment. You’re an INTJ, turning vision into loving action.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Harmonious Healer",
+      "description": "You hate conflict and love by fostering peace—mediating disagreements, smoothing ruffled feathers, and creating a calm environment. Your hidden trait is emotional balance; you turn tension into understanding. You’re an ESFJ, the peacemaker who makes love feel safe.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Independent Admirer",
+      "description": "You love by respecting boundaries—giving space when needed, cheering from the sidelines, and trusting their choices. Your hidden trait is quiet admiration; you value their individuality and let them shine. You’re an INFP, the free spirit who loves without chains.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Adaptive Adventurer",
+      "description": "You roll with the punches, showing love through flexibility—changing plans to fit their mood, trying new things together, and embracing spontaneity. Your hidden trait is go-with-the-flow warmth; you make every moment feel exciting. You’re an ESFP",
+      "mbti": "ESFP"
+    }
+  ],
   "emoji": [
     "❤️",
     "💕",

@@ -2,20 +2,350 @@
   "quizId": 197,
   "title": "What's Your Hidden Career Trait?",
   "category": "hidden",
+  "description": "Answer 12 questions to discover your hidden career trait!",
   "tags": [
     "Career",
-    ",\n ",
     "Hidden Trait",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Career Potential"
   ],
-  "description": "Answer 12 questions to discover your hidden career trait!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When starting a new work project, you first...",
+      "options": [
+        {
+          "text": "Prefer to research independently before sharing thoughts",
+          "score": "I"
+        },
+        {
+          "text": "Start by gathering the team to brainstorm ideas together",
+          "score": "E"
+        },
+        {
+          "text": "Focus on concrete steps and deadlines to move forward",
+          "score": "S"
+        },
+        {
+          "text": "Imagine different outcomes and long-term possibilities first",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When receiving constructive feedback at work, you tend to...",
+      "options": [
+        {
+          "text": "Focus on the logic and practicality of the suggestions",
+          "score": "T"
+        },
+        {
+          "text": "Care more about the intent and tone behind the feedback",
+          "score": "F"
+        },
+        {
+          "text": "Take time to reflect before deciding how to adjust",
+          "score": "P"
+        },
+        {
+          "text": "Immediately outline steps to implement the changes",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "During team meetings, you’re most likely to...",
+      "options": [
+        {
+          "text": "Listen carefully and contribute only when you have key insights",
+          "score": "I"
+        },
+        {
+          "text": "Actively share ideas and keep the discussion energetic",
+          "score": "E"
+        },
+        {
+          "text": "Ask questions about the long-term impact of decisions",
+          "score": "N"
+        },
+        {
+          "text": "Jot down specific action items and next steps",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When a project hits a sudden roadblock, you...",
+      "options": [
+        {
+          "text": "Check in with your team to ensure everyone feels supported",
+          "score": "F"
+        },
+        {
+          "text": "Analyze data and facts to identify the root cause quickly",
+          "score": "T"
+        },
+        {
+          "text": "Explore multiple alternative approaches without strict timelines",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the original plan with minor adjustments to stay on track",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You feel most productive in a work environment that is...",
+      "options": [
+        {
+          "text": "Bustling with team interactions and frequent discussions",
+          "score": "E"
+        },
+        {
+          "text": "Quiet with minimal interruptions to focus deeply",
+          "score": "I"
+        },
+        {
+          "text": "Dynamic, with new tasks and challenges popping up regularly",
+          "score": "N"
+        },
+        {
+          "text": "Organized, with clear tools and systems in place",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When setting career goals, you prioritize...",
+      "options": [
+        {
+          "text": "Goals that align with your personal values and purpose",
+          "score": "F"
+        },
+        {
+          "text": "Measurable achievements that can be tracked objectively",
+          "score": "T"
+        },
+        {
+          "text": "Flexibility to adjust goals as you learn and grow",
+          "score": "P"
+        },
+        {
+          "text": "Detailed, step-by-step plans to ensure progress",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "To learn a new work skill, you prefer to...",
+      "options": [
+        {
+          "text": "Take group workshops or classes with peers",
+          "score": "E"
+        },
+        {
+          "text": "Self-study using online courses or tutorials",
+          "score": "I"
+        },
+        {
+          "text": "Practice through hands-on tasks and real projects",
+          "score": "S"
+        },
+        {
+          "text": "Explore theoretical concepts and underlying principles first",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When a tight deadline is approaching, you...",
+      "options": [
+        {
+          "text": "Check in with teammates to see if they need support to meet the deadline",
+          "score": "F"
+        },
+        {
+          "text": "Prioritize tasks based on urgency and logical importance",
+          "score": "T"
+        },
+        {
+          "text": "Work in focused bursts, often finding momentum as the deadline nears",
+          "score": "P"
+        },
+        {
+          "text": "Stick strictly to the planned schedule to avoid last-minute rush",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "At professional events, you tend to...",
+      "options": [
+        {
+          "text": "Mingle with many people, enjoying the energy of new connections",
+          "score": "E"
+        },
+        {
+          "text": "Have deep, meaningful conversations with a few key individuals",
+          "score": "I"
+        },
+        {
+          "text": "Discuss emerging industry trends and innovative ideas",
+          "score": "N"
+        },
+        {
+          "text": "Exchange practical contact information for future collaborations",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When making a tough work decision, you rely most on...",
+      "options": [
+        {
+          "text": "How the decision will affect the people involved",
+          "score": "F"
+        },
+        {
+          "text": "Data, evidence, and logical analysis of outcomes",
+          "score": "T"
+        },
+        {
+          "text": "Established guidelines or past successful strategies",
+          "score": "J"
+        },
+        {
+          "text": "Your intuition and what feels right in the moment",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "After a long workday, you recharge by...",
+      "options": [
+        {
+          "text": "Spending time with friends or colleagues, sharing stories",
+          "score": "E"
+        },
+        {
+          "text": "Engaging in solitary activities like reading or walking",
+          "score": "I"
+        },
+        {
+          "text": "Doing practical tasks around the house or planning tomorrow",
+          "score": "S"
+        },
+        {
+          "text": "Pursuing creative hobbies or exploring new ideas",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You feel about daily work routines that they are...",
+      "options": [
+        {
+          "text": "A chance to build consistency and connect with team members",
+          "score": "F"
+        },
+        {
+          "text": "Efficient, but always open to optimization for better results",
+          "score": "T"
+        },
+        {
+          "text": "Reassuring and necessary to stay productive",
+          "score": "J"
+        },
+        {
+          "text": "Limiting—you prefer mixing in new tasks and spontaneity",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Adaptable Innovator",
+      "description": "Your hidden career trait is turning chaos into creativity. You thrive in dynamic environments, seeing possibilities where others see mess. Colleagues might not notice how you connect disjointed ideas into innovative solutions, or how your enthusiasm turns daunting projects into exciting adventures. You’re an ENFP—adaptable, curious, and secretly the spark that keeps teams inspired.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Strategic Planner",
+      "description": "Beneath your calm exterior lies a hidden trait: strategic vision. You quietly map out long-term success, seeing patterns and pitfalls others miss. Colleagues might rely on your ‘instincts,’ not realizing you’ve already calculated 10 steps ahead. You’re an INTJ—analytical, forward-thinking, and the silent architect of team achievements.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Empathetic Collaborator",
+      "description": "Your hidden strength is sensing team needs before they’re spoken. You turn work into a community, making colleagues feel valued and heard. Others might call you ‘the glue,’ but they don’t see how your empathy fuels collaboration and turns group efforts into something meaningful. You’re an ESFJ—nurturing, organized, and the heart of your team’s success.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Analytical Problem-Solver",
+      "description": "When crisis strikes, you’re the quiet hero. Your hidden trait? Turning breakdowns into breakthroughs with calm precision. Colleagues might marvel at how you ‘fix things,’ not realizing you’re dissecting problems step-by-step, hands-on and methodical. You’re an ISTP—practical, resourceful, and the team’s go-to for turning chaos into order.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Visionary Idealist",
+      "description": "Your hidden career trait is seeing purpose in every task. You infuse work with meaning, inspiring others to care as deeply as you do. Colleagues might notice your passion, but not how you quietly align projects with shared values, turning routine into mission. You’re an INFP—idealistic, creative, and the soul that keeps teams connected to their ‘why.’",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Efficient Organizer",
+      "description": "You’re the hidden backbone of your team, turning chaos into systems. Your knack for creating order makes everyone else’s work easier, though they might take your reliability for granted. You’re the one who ensures deadlines are met, processes run smoothly, and nothing falls through the cracks. You’re an ESTJ—dependable, structured, and the engine that drives consistent results.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Curious Explorer",
+      "description": "Your hidden trait is turning ‘what if’ into ‘let’s try.’ You thrive on challenging norms, sparking debates that lead to innovation. Colleagues might see you as ‘the ideas person,’ but not how your curiosity pushes the team beyond comfort zones. You’re an ENTP—quick-witted, adaptable, and the catalyst for breakthrough thinking.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Quiet Observer",
+      "description": "You notice details others overlook, and that’s your hidden superpower. You quietly absorb information, making you the team’s memory and fact-checker. Colleagues might not realize how much you contribute until they need a key detail or a steady hand. You’re an ISTJ—diligent, precise, and the silent guardian of accuracy in every project.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Warm Mediator",
+      "description": "Your hidden trait is bridging divides with quiet wisdom. You sense tension before it surfaces, guiding teams to harmony without fanfare. Colleagues might call you ‘the peacemaker,’ but they don’t see the emotional intelligence that lets you understand all sides. You’re an INFJ—insightful, compassionate, and the invisible force that keeps teams united.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Energetic Catalyst",
+      "description": "You turn work into play, and that’s your hidden gift. Your energy makes even tedious tasks feel exciting, motivating others to keep up. Colleagues might see you as ‘the fun one,’ but not how your enthusiasm fuels momentum and boosts morale. You’re an ESFP—spontaneous, charismatic, and the spark that turns hard work into shared joy.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Logical Architect",
+      "description": "Your hidden trait is structuring the impossible. You turn vague goals into clear plans, leading teams with unshakable confidence. Colleagues might follow your lead, not realizing the strategic genius behind your decisions. You’re an ENTJ—decisive, visionary, and the driving force that turns big ideas into tangible results.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Gentle Diplomat",
+      "description": "You anticipate needs before they arise, and that’s your hidden strength. You quietly support colleagues, ensuring everyone has what they need to succeed. Others might call you ‘reliable,’ but not how your thoughtfulness creates a safe space for growth. You’re an ISFJ—nurturing, detail-oriented, and the quiet protector of your team’s well-being.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Independent Thinker",
+      "description": "Your hidden trait is diving into complex ideas, finding patterns no one else sees. You lose yourself in analysis, emerging with insights that redefine problems. Colleagues might marvel at your ‘brilliance,’ but not the hours of quiet reflection behind it. You’re an INTP—curious, analytical, and the team’s secret source of innovative solutions.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Practical Realist",
+      "description": "You thrive in the moment, turning ideas into action before others hesitate. Your hidden trait is solving problems on the fly, making you the team’s go-to for quick, effective fixes. Colleagues might see you as ‘impulsive,’ but not your knack for reading a situation and acting decisively. You’re an ESTP—adaptable, resourceful, and the spark that turns plans into reality.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Compassionate Mentor",
+      "description": "Your hidden trait is seeing potential in everyone. You lift colleagues up, turning their weaknesses into strengths with patience and encouragement. Others might call you ‘supportive,’ but not how your belief in them helps them grow beyond their limits. You’re an ENFJ—inspiring, empathetic, and the team’s guiding light for growth.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Self-Reliant Specialist",
+      "description": "You pour your soul into your work, turning tasks into art. Your hidden trait is quiet excellence—crafting quality that speaks for itself. Colleagues might notice your skill, but not the passion and precision you pour into every detail. You’re an ISFP—artistic, independent, and the team’s secret source of beauty in the mundane.",
+      "mbti": "ISFP"
+    }
+  ],
   "emoji": [
     "💼",
     "📈",

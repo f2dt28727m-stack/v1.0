@@ -2,20 +2,350 @@
   "quizId": 202,
   "title": "Discover Your Hidden Food Personality Trait",
   "category": "hidden",
+  "description": "Answer 12 questions to discover your hidden food personality trait!",
   "tags": [
     "Food",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Hidden Trait",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Culinary"
   ],
-  "description": "Answer 12 questions to discover your hidden food personality trait!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When cooking at home, you tend to...",
+      "options": [
+        {
+          "text": "Carefully select seasonal ingredients to ensure the best taste",
+          "score": "S"
+        },
+        {
+          "text": "Invite friends over to experiment with new recipes together",
+          "score": "E"
+        },
+        {
+          "text": "Imagine unique flavor combinations that no one has tried before",
+          "score": "N"
+        },
+        {
+          "text": "Enjoy the quiet focus of chopping and stirring alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If a dish you’re making turns out burnt, you...",
+      "options": [
+        {
+          "text": "Adapt quickly, adding new spices to salvage the flavor",
+          "score": "P"
+        },
+        {
+          "text": "Feel disappointed but remind yourself it’s okay to make mistakes",
+          "score": "F"
+        },
+        {
+          "text": "Analyze where you went wrong and adjust the heat next time",
+          "score": "T"
+        },
+        {
+          "text": "Follow the recipe exactly again to ensure it works",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a restaurant for dinner, you’re drawn to...",
+      "options": [
+        {
+          "text": "A cozy, quiet spot where you can chat deeply with a close friend",
+          "score": "I"
+        },
+        {
+          "text": "A trendy place with a creative menu that pushes flavor boundaries",
+          "score": "N"
+        },
+        {
+          "text": "A bustling spot with lots of people and energetic vibes",
+          "score": "E"
+        },
+        {
+          "text": "A place known for fresh, locally-sourced ingredients and consistent reviews",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "Planning a dinner party, you prioritize...",
+      "options": [
+        {
+          "text": "Making a detailed schedule for cooking, serving, and cleanup",
+          "score": "J"
+        },
+        {
+          "text": "Asking each guest about their dietary preferences and allergies",
+          "score": "F"
+        },
+        {
+          "text": "Buying ingredients based on what’s on sale and easy to prepare",
+          "score": "T"
+        },
+        {
+          "text": "Letting the mood guide the menu, switching dishes if something looks better at the market",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite food memories involve...",
+      "options": [
+        {
+          "text": "The exact smell and texture of your grandma’s homemade cookies",
+          "score": "S"
+        },
+        {
+          "text": "Laughing with cousins while helping bake during family holidays",
+          "score": "E"
+        },
+        {
+          "text": "Daydreaming about how to recreate a dish you tried on a trip",
+          "score": "N"
+        },
+        {
+          "text": "The peace of eating alone under a tree during childhood summers",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When offered a weird food combination (e.g., chocolate and fries), you...",
+      "options": [
+        {
+          "text": "Try it because your friend really wants you to",
+          "score": "F"
+        },
+        {
+          "text": "Research if the flavors complement each other before deciding",
+          "score": "T"
+        },
+        {
+          "text": "Agree to try it on a specific day when you’re in the mood for experiments",
+          "score": "J"
+        },
+        {
+          "text": "Take a bite immediately—why not see what happens?",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your kitchen tools are mostly...",
+      "options": [
+        {
+          "text": "Vintage gadgets you’ve had for years, reliable and familiar",
+          "score": "I"
+        },
+        {
+          "text": "New, high-tech devices you’re excited to test with friends",
+          "score": "E"
+        },
+        {
+          "text": "Multi-purpose tools that save time and space",
+          "score": "S"
+        },
+        {
+          "text": "Unique items that inspire creative cooking, like molecular gastronomy kits",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Leftovers in the fridge make you think...",
+      "options": [
+        {
+          "text": "I’ll turn them into a new dish tomorrow—maybe a stir-fry or wrap!",
+          "score": "P"
+        },
+        {
+          "text": "I should plan meals better to avoid waste next week",
+          "score": "J"
+        },
+        {
+          "text": "My roommate would love this—I’ll pack it for their lunch",
+          "score": "F"
+        },
+        {
+          "text": "What’s the most efficient way to reheat this without losing flavor?",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You decide what to eat based on...",
+      "options": [
+        {
+          "text": "What your friends are raving about on social media",
+          "score": "E"
+        },
+        {
+          "text": "A gut feeling about what would taste good right now",
+          "score": "N"
+        },
+        {
+          "text": "A list of meals you’ve enjoyed before and know you’ll like",
+          "score": "S"
+        },
+        {
+          "text": "A food blog you follow that reviews hidden gems",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your cooking goal is to...",
+      "options": [
+        {
+          "text": "Master 5 signature dishes by the end of the year",
+          "score": "J"
+        },
+        {
+          "text": "Make people feel loved through the meals you prepare",
+          "score": "F"
+        },
+        {
+          "text": "Learn the science behind why certain ingredients work together",
+          "score": "T"
+        },
+        {
+          "text": "Cook whatever feels fun that day, no pressure",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "For a picnic, you’d rather...",
+      "options": [
+        {
+          "text": "Bring a blanket and simple snacks, enjoying the quiet with one friend",
+          "score": "I"
+        },
+        {
+          "text": "Pack a themed spread with fancy sandwiches and Instagram-worthy fruit platters",
+          "score": "N"
+        },
+        {
+          "text": "Invite a big group and assign everyone a dish to share",
+          "score": "E"
+        },
+        {
+          "text": "Check the weather first, then pack sturdy containers to keep food fresh",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When you’re stressed, food helps you by...",
+      "options": [
+        {
+          "text": "Following a strict recipe step-by-step to feel in control",
+          "score": "J"
+        },
+        {
+          "text": "Eating something comforting that reminds you of home",
+          "score": "F"
+        },
+        {
+          "text": "Trying a completely new recipe to distract your mind",
+          "score": "P"
+        },
+        {
+          "text": "Picking foods high in protein and nutrients to boost your energy",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Compassionate Food Alchemist",
+      "description": "You infuse every dish with care, using food to nurture others. Your hidden trait? Turning simple ingredients into moments of comfort—you remember a friend’s favorite snack or a sibling’s childhood dish, making everyone feel seen. You’re an INFP: idealistic, empathetic, and quietly creative in the kitchen.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Spontaneous Flavor Explorer",
+      "description": "You thrive on culinary chaos, turning grocery runs into adventures. Your hidden trait? Turning “what’s in the fridge” into a masterpiece, and dragging friends along to try weird ice cream flavors. You’re an ENFP: enthusiastic, curious, and the life of any potluck.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Intuitive Food Sage",
+      "description": "You sense what others need before they say it—cooking a warm soup for a sad friend or a light salad for someone stressed. Your hidden trait? Using food as a language of understanding, blending flavors that soothe the soul. You’re an INFJ: insightful, compassionate, and a silent kitchen healer.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Generous Feast Host",
+      "description": "You turn dinner into a celebration, remembering everyone’s dietary needs and ensuring no one leaves hungry. Your hidden trait? Making strangers feel like family around your table, with extra servings and stories to share. You’re an ENFJ: warm, organized, and the heart of any gathering.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Disciplined Recipe Guardian",
+      "description": "You treat recipes like sacred texts, measuring to the gram and following steps precisely. Your hidden trait? Preserving family traditions through food, ensuring grandma’s pie crust recipe stays perfect for generations. You’re an ISTJ: reliable, detail-oriented, and the keeper of culinary history.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Efficient Kitchen Commander",
+      "description": "You run the kitchen like a well-oiled machine, prepping ingredients in order and cleaning as you go. Your hidden trait? Making complex meals look easy, with a timeline that ensures everything is hot and ready at once. You’re an ESTJ: practical, organized, and the ultimate dinner party planner.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Nurturing Comfort Chef",
+      "description": "You know exactly which dish will fix a bad day—whether it’s creamy mac and cheese or a steaming bowl of soup. Your hidden trait? Cooking with love, adding extra cheese or a secret spice because you know someone needs it. You’re an ISFJ: caring, attentive, and the definition of “home” in a meal.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Warm Gathering Organizer",
+      "description": "You spend weeks planning a potluck, matching people’s strengths to dishes and ensuring the menu has something for everyone. Your hidden trait? Making sure the quietest guest feels included, with a plate of their favorite food passed their way. You’re an ESFJ: generous, social, and the glue that holds food-centric friendships together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Resourceful Culinary Problem-Solver",
+      "description": "When the oven breaks, you grill cookies on the stovetop. When you’re out of eggs, you use banana as a binder. Your hidden trait? Turning kitchen disasters into triumphs with calm and creativity. You’re an ISTP: hands-on, adaptive, and the person everyone calls when cooking goes wrong.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Bold Flavor Adventurer",
+      "description": "You’ll try durian ice cream, fermented shark, or spicy chocolate—anything for the story. Your hidden trait? Turning food into a social experience, daring friends to take a bite and laughing at their reactions. You’re an ESTP: bold, energetic, and always up for a culinary challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Artistic Senses Chef",
+      "description": "You plate food like a painting, arranging herbs and edible flowers to make every dish beautiful. Your hidden trait? Noticing the little things—how light hits a salad, the way steam curls from a bowl—that make meals feel magical. You’re an ISFP: artistic, sensory, and a poet of the plate.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Lively Kitchen Entertainer",
+      "description": "You sing while chopping, dance while stirring, and turn cooking into a performance. Your hidden trait? Making even washing dishes fun, with a playlist and a friend by your side. You’re an ESFP: lively, spontaneous, and the reason cooking never feels like a chore.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Analytical Food Theorist",
+      "description": "You read cookbooks like textbooks, studying why yeast rises or how acidity balances sweetness. Your hidden trait? Experimenting with ratios and techniques to invent better versions of classic dishes. You’re an INTP: curious, logical, and a culinary scientist at heart.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Innovative Food Rebel",
+      "description": "You hate “traditional” recipes—why not put kimchi in pizza or peanut butter in stir-fry? Your hidden trait? Arguing passionately about food trends, then proving your wild ideas work. You’re an ENTP: clever, unconventional, and the disruptor of the culinary world.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Strategic Gourmet Planner",
+      "description": "You map out meals for the month, researching seasonal ingredients and planning a tasting tour of global cuisines. Your hidden trait? Turning food into a long-term goal, like mastering French pastries by next summer. You’re an INTJ: visionary, determined, and a culinary architect.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Visionary Food Influencer",
+      "description": "You start food clubs, organize community dinners, and convince everyone to try plant-based cooking. Your hidden trait? Turning your love of food into a movement, inspiring others to cook with purpose. You’re an ENTJ: ambitious, charismatic, and a leader in the kitchen and beyond.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "🍕",
     "🍳",

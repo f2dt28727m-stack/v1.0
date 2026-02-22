@@ -2,20 +2,350 @@
   "quizId": 180,
   "title": "What's Your Hidden Travel Personality Trait?",
   "category": "hidden",
+  "description": "Answer 12 questions to discover your hidden travel personality trait!",
   "tags": [
     "Travel",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Hidden Trait",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Travel Style"
   ],
-  "description": "Answer 12 questions to discover your hidden travel personality trait!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When you first arrive in a new city, you’re most likely to...",
+      "options": [
+        {
+          "text": "Pull out your physical map to mark nearby landmarks and routes",
+          "score": "S"
+        },
+        {
+          "text": "Strike up a conversation with a street vendor to ask for recommendations",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about the city’s history and imagine stories behind old buildings",
+          "score": "N"
+        },
+        {
+          "text": "Find a quiet café to people-watch and absorb the vibe alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your travel itinerary is usually...",
+      "options": [
+        {
+          "text": "A loose list of ideas that you adjust based on the day’s mood",
+          "score": "P"
+        },
+        {
+          "text": "Shaped by what will create meaningful moments with travel companions",
+          "score": "F"
+        },
+        {
+          "text": "Planned down to the hour, with reservations and timetables",
+          "score": "J"
+        },
+        {
+          "text": "Prioritized by efficiency—maximizing sights per day",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "If your flight gets delayed by 6 hours, you respond by...",
+      "options": [
+        {
+          "text": "Checking the airline app for updates and rebooking options immediately",
+          "score": "S"
+        },
+        {
+          "text": "Using the extra time to research hidden gems near the airport to explore",
+          "score": "N"
+        },
+        {
+          "text": "Chatting with other stranded passengers to pass the time",
+          "score": "E"
+        },
+        {
+          "text": "Finding a quiet corner to read or listen to a podcast",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When trying local cuisine, you prefer to...",
+      "options": [
+        {
+          "text": "Wander aimlessly and pick a place that looks appealing in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Ask locals for their favorite family-owned spots to feel connected to the culture",
+          "score": "F"
+        },
+        {
+          "text": "Read food blogs and reviews to pick the highest-rated dishes objectively",
+          "score": "T"
+        },
+        {
+          "text": "Decide on restaurants ahead of time to avoid last-minute stress",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A travel memory you cherish most is...",
+      "options": [
+        {
+          "text": "The detailed journal you kept, filled with ticket stubs and hand-drawn maps",
+          "score": "S"
+        },
+        {
+          "text": "The unexpected detour that led you to a hidden waterfall no guidebook mentioned",
+          "score": "N"
+        },
+        {
+          "text": "The night you joined a local festival and danced with strangers",
+          "score": "E"
+        },
+        {
+          "text": "The sunrise hike you did alone, feeling completely at peace",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When traveling with friends, you take on the role of...",
+      "options": [
+        {
+          "text": "The organizer who keeps the group on schedule",
+          "score": "J"
+        },
+        {
+          "text": "The mediator who ensures everyone’s preferences are considered",
+          "score": "F"
+        },
+        {
+          "text": "The planner who researches transportation and budgets to keep costs low",
+          "score": "T"
+        },
+        {
+          "text": "The adventurer who suggests spontaneous detours",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re drawn to destinations that are...",
+      "options": [
+        {
+          "text": "Bustling with energy—busy streets, lively nightlife, and social events",
+          "score": "E"
+        },
+        {
+          "text": "Serene and off-the-beaten-path—quiet beaches, mountain cabins, or secluded forests",
+          "score": "I"
+        },
+        {
+          "text": "Rich in tangible experiences—local markets, traditional crafts, and historic sites",
+          "score": "S"
+        },
+        {
+          "text": "Full of mystery and possibility—remote villages, uncharted trails, or futuristic cities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you could only pack one item (besides essentials), it would be...",
+      "options": [
+        {
+          "text": "A multi-tool that can solve practical problems like opening bottles or fixing gear",
+          "score": "T"
+        },
+        {
+          "text": "A photo album of loved ones to feel connected when away",
+          "score": "F"
+        },
+        {
+          "text": "A blank notebook to jot down unexpected ideas and observations",
+          "score": "P"
+        },
+        {
+          "text": "A travel planner with pre-written itineraries and checklists",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When lost in an unfamiliar area, you...",
+      "options": [
+        {
+          "text": "Imagine the area’s layout and guess the most logical path forward",
+          "score": "N"
+        },
+        {
+          "text": "Retrace your steps using street signs and store names you remember",
+          "score": "S"
+        },
+        {
+          "text": "Approach someone to ask for directions, turning it into a friendly chat",
+          "score": "E"
+        },
+        {
+          "text": "Trust your gut and wander until you recognize a landmark",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal travel souvenir is...",
+      "options": [
+        {
+          "text": "A meaningful keepsake, like a handwritten note from a local or a pressed flower from a special spot",
+          "score": "F"
+        },
+        {
+          "text": "A practical item you’ll use daily, like a handcrafted mug or a durable backpack",
+          "score": "T"
+        },
+        {
+          "text": "Something spontaneous, like a quirky trinket you found in a random market stall",
+          "score": "P"
+        },
+        {
+          "text": "A collection that fits a theme, like vintage postcards from every city you visit",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When planning a trip, you get most excited about...",
+      "options": [
+        {
+          "text": "Researching specific details—what time the museum opens, which bus to take, where to find the best coffee",
+          "score": "S"
+        },
+        {
+          "text": "Dreaming up all the adventures and unexpected moments that might happen",
+          "score": "N"
+        },
+        {
+          "text": "The chance to meet new people and make friends from different cultures",
+          "score": "E"
+        },
+        {
+          "text": "The quiet moments of solitude, like reading in a foreign park or watching the sunset alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "After a trip, you process your experience by...",
+      "options": [
+        {
+          "text": "Analyzing what worked and what didn’t to improve future trips",
+          "score": "T"
+        },
+        {
+          "text": "Reflecting on how the trip changed your perspective on people and relationships",
+          "score": "F"
+        },
+        {
+          "text": "Telling stories casually to friends, letting memories surface naturally",
+          "score": "P"
+        },
+        {
+          "text": "Creating a structured scrapbook or digital album with dates and photos",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Grounded Navigator",
+      "description": "You’re the reliable backbone of any trip, thriving on structure and practicality. You research every detail—from bus timetables to hidden cafes—ensuring smooth, stress-free travel. Your hidden strength? Turning chaos into order, making even the most overwhelming destinations feel like home.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Companion",
+      "description": "Your travel superpower lies in making others feel seen. You remember your friend’s favorite snack, book a room with a view for the jet-lagged, and turn small moments into cherished memories. Travel isn’t just about the destination—it’s about caring for the people beside you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Intuitive Seeker",
+      "description": "You travel with your heart and mind wide open, drawn to destinations that whisper deeper truths. A crumbling temple or a local’s story isn’t just a sight—it’s a window into humanity. Your hidden trait? Finding meaning in the unplanned, turning ordinary trips into soulful journeys.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Explorer",
+      "description": "You don’t just travel—you architect experiences. With a clear vision, you blend adventure and purpose, whether chasing ancient ruins or futuristic cities. Your hidden skill? Turning abstract goals (like “understand local art”) into actionable plans that leave you with more than just photos.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Adaptive Problem-Solver",
+      "description": "Delays, lost luggage, wrong turns—none rattle you. You thrive in the unexpected, using quick thinking to turn mishaps into stories. A broken bike? You’ll fix it. A closed museum? You’ll find a hidden workshop instead. Your travel superpower? Making spontaneity look easy.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Sensory Wanderer",
+      "description": "You experience travel through every sense: the smell of street food, the texture of ancient stone, the rhythm of local music. You don’t rush—you savor. Your hidden trait? Finding beauty in the mundane, turning a simple market visit into a sensory masterpiece.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dreamy Voyager",
+      "description": "You travel with a head full of stories and a heart hungry for authenticity. A quiet village, a poet’s café, a starlit beach—these are your happy places. Your hidden strength? Seeing the world not as it is, but as it could be, turning trips into fuel for your imagination.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Analyst",
+      "description": "You’re the ultimate travel detective, diving into history, culture, and science with childlike wonder. A museum exhibit, a local debate, a ancient ruin—each becomes a puzzle to solve. Your hidden trait? Turning facts into stories, making even the most complex destinations feel approachable.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Bold Adventurer",
+      "description": "You live for the rush: zip-lining through rainforests, dancing at a street party, trying spicy food that makes your eyes water. Travel is your playground, and you’re always chasing the next thrill. Your hidden skill? Turning strangers into friends and ordinary days into legendary tales.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Social Catalyst",
+      "description": "You’re the life of the travel party, turning a quiet dinner into a laughter-filled feast or a solo walk into a group adventure. Locals and fellow travelers alike are drawn to your warmth. Your hidden trait? Making everyone feel like they belong, no matter how far from home.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Enthusiastic Explorer",
+      "description": "You see travel as a canvas, and every new place is a chance to paint a new story. A detour to a random village? Yes. A last-minute hike? Absolutely. Your hidden strength? Infecting others with your optimism, turning even the most routine trips into exciting adventures.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Innovative Trailblazer",
+      "description": "You don’t follow the crowd—you rewrite the map. Whether finding a hidden speakeasy or inventing a new travel game, you thrive on creativity. Your hidden trait? Turning travel norms on their head, proving there’s always a better way to see the world.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Organized Leader",
+      "description": "You’re the captain of the travel ship, keeping everyone on track with a mix of confidence and practicality. Group trips run smoothly because of you—reservations made, directions clear, fun guaranteed. Your hidden skill? Balancing structure and joy, making sure no one misses out.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Hospitable Guide",
+      "description": "You turn travel into a shared experience, organizing group dinners, cultural workshops, and inside jokes. Locals remember you for your kindness, and friends rely on you to make trips feel like home. Your hidden trait? Creating community wherever you go, one warm gesture at a time.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Connector",
+      "description": "You see the potential in every traveler, encouraging them to try new things and see the world differently. A shy friend? You’ll get them dancing. A curious mind? You’ll spark deep conversations. Your hidden strength? Uniting people through shared experiences, making travel a force for connection.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Visionary Voyager",
+      "description": "You travel with purpose, whether learning a new skill, supporting local communities, or chasing a big dream. Trips aren’t just getaways—they’re steps toward growth. Your hidden trait? Turning travel into transformation, proving the world is both your classroom and your playground.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "✈️",
     "🗺️",

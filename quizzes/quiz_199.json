@@ -2,20 +2,350 @@
   "quizId": 199,
   "title": "Which Food Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover your food personality!",
   "tags": [
     "Food",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Cuisine",
-    ",\n ",
     "Character"
   ],
-  "description": "Answer 12 questions to discover your food personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you usually plan your weekend meals?",
+      "options": [
+        {
+          "text": "Cook classic family recipes you’ve mastered",
+          "score": "S"
+        },
+        {
+          "text": "Explore new restaurants with friends",
+          "score": "E"
+        },
+        {
+          "text": "Try网红 fusion dishes you saw online",
+          "score": "N"
+        },
+        {
+          "text": "Prepare simple meals alone at home",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "What matters most when choosing takeout?",
+      "options": [
+        {
+          "text": "Recommendations from people you trust",
+          "score": "F"
+        },
+        {
+          "text": "Nutritional value and calorie count",
+          "score": "T"
+        },
+        {
+          "text": "Ordering on a whim when hunger strikes",
+          "score": "P"
+        },
+        {
+          "text": "Pre-scheduling delivery for exact mealtimes",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "At a potluck, you tend to...",
+      "options": [
+        {
+          "text": "Quietly savor each dish without much conversation",
+          "score": "I"
+        },
+        {
+          "text": "Discuss the cultural stories behind each recipe",
+          "score": "N"
+        },
+        {
+          "text": "Check if ingredients are fresh and well-cooked",
+          "score": "S"
+        },
+        {
+          "text": "Share your dish and chat with everyone",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "If you run out of an ingredient while cooking, you...",
+      "options": [
+        {
+          "text": "Stick to the recipe and find an exact substitute",
+          "score": "J"
+        },
+        {
+          "text": "Improvise with whatever’s in the fridge",
+          "score": "P"
+        },
+        {
+          "text": "Think about what your family would prefer",
+          "score": "F"
+        },
+        {
+          "text": "Analyze which substitute keeps the original flavor",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your idea of a perfect meal is...",
+      "options": [
+        {
+          "text": "A quiet dinner for one with your favorite dish",
+          "score": "I"
+        },
+        {
+          "text": "A lively feast with friends laughing around the table",
+          "score": "E"
+        },
+        {
+          "text": "A surprising combination of flavors you’ve never tried",
+          "score": "N"
+        },
+        {
+          "text": "A well-cooked meal with balanced textures",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When traveling, you choose meals by...",
+      "options": [
+        {
+          "text": "Following locals’ suggestions for authentic spots",
+          "score": "F"
+        },
+        {
+          "text": "Researching top-rated healthy restaurants in advance",
+          "score": "T"
+        },
+        {
+          "text": "Winging it and trying street food you stumble upon",
+          "score": "P"
+        },
+        {
+          "text": "Booking reservations at famous eateries weeks prior",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You’d recommend a restaurant to a friend based on...",
+      "options": [
+        {
+          "text": "How well it fits their dietary preferences",
+          "score": "F"
+        },
+        {
+          "text": "Its consistent quality and familiar menu",
+          "score": "S"
+        },
+        {
+          "text": "Unique flavor combinations they’ve never tasted",
+          "score": "N"
+        },
+        {
+          "text": "Reviews comparing price, portion, and taste",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After cooking, you...",
+      "options": [
+        {
+          "text": "Invite family to eat together right away",
+          "score": "E"
+        },
+        {
+          "text": "Clean the kitchen immediately to stay organized",
+          "score": "J"
+        },
+        {
+          "text": "Taste the dish alone and note what to improve",
+          "score": "I"
+        },
+        {
+          "text": "Leave the mess for later and relax first",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "The first thing you notice about a new dish is...",
+      "options": [
+        {
+          "text": "The creativity in its presentation and concept",
+          "score": "N"
+        },
+        {
+          "text": "How the ingredients feel and taste in your mouth",
+          "score": "S"
+        },
+        {
+          "text": "Whether it suits your personal flavor preferences",
+          "score": "F"
+        },
+        {
+          "text": "The complexity of its preparation steps",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "On a busy day, you eat...",
+      "options": [
+        {
+          "text": "A pre-made便当 you packed this morning",
+          "score": "J"
+        },
+        {
+          "text": "Snacks you grab from the pantry last minute",
+          "score": "P"
+        },
+        {
+          "text": "Lunch with colleagues at a nearby café",
+          "score": "E"
+        },
+        {
+          "text": "A simple meal alone at your desk",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite way to cook is...",
+      "options": [
+        {
+          "text": "Using traditional recipes passed down through family",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting with new techniques and flavors",
+          "score": "N"
+        },
+        {
+          "text": "Making dishes you know your loved ones will enjoy",
+          "score": "F"
+        },
+        {
+          "text": "Following scientific methods to optimize taste and nutrition",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "If a friend criticizes your cooking, you...",
+      "options": [
+        {
+          "text": "Listen carefully and adjust the recipe next time",
+          "score": "F"
+        },
+        {
+          "text": "Explain why you made certain choices logically",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your original method—you trust your experience",
+          "score": "J"
+        },
+        {
+          "text": "Shrug it off and try a completely different recipe next",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Pizza",
+      "description": "You’re the life of the party—versatile, outgoing, and always bringing people together. Like a pizza, you adapt to any crowd, whether it’s a casual night in or a big celebration. You’re warm, approachable, and full of energy, making everyone around you feel included. You’re an ESFP—spontaneous, friendly, and the heart of any gathering.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Sushi",
+      "description": "Elegant and thoughtful, you value precision and depth. Like sushi, you’re refined yet complex, with layers of personality that unfold slowly. You prefer quality over quantity, savoring meaningful connections and quiet moments. You’re an INFJ—insightful, creative, and deeply attuned to the emotions of others.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Pasta",
+      "description": "Warm and reliable, you’re the comfort food of personalities. Like a well-cooked pasta, you’re consistent, nurturing, and always there for the people you care about. You thrive on routine and take joy in making others feel at home. You’re an ISFJ—loyal, practical, and the glue that holds your community together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Burger",
+      "description": "Bold and straightforward, you live life with enthusiasm and confidence. Like a juicy burger, you’re unapologetically yourself—no frills, just genuine flavor. You’re action-oriented, love a good adventure, and aren’t afraid to take charge. You’re an ESTP—energetic, resourceful, and always ready for the next challenge.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Salad",
+      "description": "Healthy and detail-oriented, you approach life with balance and purpose. Like a fresh salad, you’re organized, mindful, and value structure. You pay attention to the small things, ensuring everything in your life is well put together. You’re an ISTJ—dependable, logical, and someone others can always count on.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Chocolate",
+      "description": "Sweet and passionate, you’re a bundle of warmth and creativity. Like chocolate, you bring joy to every moment, with a depth that surprises those who get to know you. You’re empathetic, imaginative, and see the beauty in life’s little pleasures. You’re an ENFP—optimistic, expressive, and always inspiring others.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Steak",
+      "description": "Strong and decisive, you’re a natural leader with a clear vision. Like a perfectly cooked steak, you’re bold, confident, and unafraid to take on challenges. You value excellence and work tirelessly to achieve your goals, inspiring those around you to aim higher. You’re an ENTJ—strategic, determined, and born to lead.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Ice Cream",
+      "description": "Cheerful and adaptable, you spread happiness wherever you go. Like ice cream, you’re sweet, versatile, and bring comfort on even the toughest days. You’re social, kind, and always willing to go out of your way to make someone smile. You’re an ESFJ—caring, outgoing, and the ultimate people-person.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Tacos",
+      "description": "Vibrant and inclusive, you embrace diversity and love connecting with different people. Like tacos, you’re a mix of bold flavors and cultures, making every interaction exciting. You’re open-minded, enthusiastic, and have a gift for bringing people from all walks of life together. You’re an ENFJ—charismatic, supportive, and a natural mediator.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Curry",
+      "description": "Complex and introspective, you have a rich inner world full of ideas. Like curry, you’re layered and deep, with a unique perspective that makes you stand out. You love learning, analyzing, and exploring abstract concepts, often losing yourself in thought. You’re an INTP—curious, logical, and a master of connecting ideas.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Soup",
+      "description": "Nurturing and gentle, you have a quiet strength that comforts those around you. Like soup, you’re warm, healing, and bring peace to chaotic moments. You’re artistic, sensitive, and find beauty in simplicity, often expressing yourself through creativity. You’re an ISFP—compassionate, creative, and deeply in tune with your senses.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Bread",
+      "description": "Reliable and down-to-earth, you’re the foundation of your relationships. Like bread, you’re practical, consistent, and essential to any “meal” of life. You’re hands-on, resourceful, and prefer action over words, quietly getting things done. You’re an ISTP—calm, practical, and a problem-solver at heart.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Cheese",
+      "description": "Warm and包容, you have a way of making everyone feel accepted. Like cheese, you’re rich, complex, and get better with time, revealing new layers to those who take the time to know you. You’re idealistic, empathetic, and believe in the goodness of people. You’re an INFP—compassionate, creative, and a dreamer at heart.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Fruit Salad",
+      "description": "Fresh and innovative, you’re always full of new ideas and energy. Like fruit salad, you’re a mix of bright, unexpected flavors, keeping life exciting. You love exploring new possibilities, challenging the status quo, and inspiring others to think differently. You’re an ENTP—clever, curious, and a natural innovator.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Smoothie",
+      "description": "Energetic and efficient, you approach life with purpose and drive. Like a smoothie, you’re a blend of productivity and health, always on the go and getting things done. You’re organized, goal-oriented, and thrive in structured environments. You’re an ESTJ—responsible, practical, and a natural planner.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Croissant",
+      "description": "Sophisticated and strategic, you have a sharp mind and a love for excellence. Like a croissant, you’re layers of precision and complexity, with a crisp exterior that hides a soft interior. You’re independent, visionary, and always thinking ahead, turning ideas into reality with focus and determination. You’re an INTJ—analytical, innovative, and a master of strategy.",
+      "mbti": "INTJ"
+    }
+  ],
   "emoji": [
     "🍕",
     "🍳",

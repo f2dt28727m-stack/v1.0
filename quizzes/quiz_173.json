@@ -2,20 +2,430 @@
   "quizId": 173,
   "title": "Which Harry Potter Character Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Harry Potter personality type!",
   "tags": [
     "Harry Potter",
-    ",\n ",
     "Hogwarts",
-    ",\n ",
     "Wizarding World",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your Harry Potter personality type!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "On a Hogwarts weekend, you typically...",
+      "options": [
+        {
+          "text": "Organize a game of Exploding Snap in the common room with friends",
+          "score": "E"
+        },
+        {
+          "text": "Find a quiet corner in the library to practice wand movements alone",
+          "score": "I"
+        },
+        {
+          "text": "Tend to your potted Mimbulus Mimbletonia, checking for new shoots",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about inventing a spell that lets you talk to Thestrals",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When brewing a difficult potion, you...",
+      "options": [
+        {
+          "text": "Ask your partner how they’re feeling about the steps before starting",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the exact temperature needed for each ingredient first",
+          "score": "T"
+        },
+        {
+          "text": "Follow the recipe step-by-step, double-checking measurements",
+          "score": "J"
+        },
+        {
+          "text": "Add a pinch of extra moonstone just to see what happens",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Before a Quidditch match, you feel most like...",
+      "options": [
+        {
+          "text": "Chatting with the team to boost morale and share jokes",
+          "score": "E"
+        },
+        {
+          "text": "Closing your eyes to visualize catching the Snitch perfectly",
+          "score": "I"
+        },
+        {
+          "text": "Polishing your broom’s handle until it shines like new",
+          "score": "S"
+        },
+        {
+          "text": "Imagining the crowd’s roar when you win the game",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If a friend breaks a school rule and gets caught, you...",
+      "options": [
+        {
+          "text": "Hug them and say, “I know you didn’t mean it—let’s fix this together”",
+          "score": "F"
+        },
+        {
+          "text": "List the rule they violated and explain why it exists logically",
+          "score": "T"
+        },
+        {
+          "text": "Draft an apology letter with them, making sure it’s sincere and structured",
+          "score": "J"
+        },
+        {
+          "text": "Suggest skipping detention to explore the Forbidden Forest instead",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite Hogwarts spot to relax is...",
+      "options": [
+        {
+          "text": "The Great Hall during mealtime, where everyone’s laughing and talking",
+          "score": "E"
+        },
+        {
+          "text": "The Room of Requirement, where you can be alone with your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "The Herbology greenhouses, studying the way sunlight hits each plant",
+          "score": "S"
+        },
+        {
+          "text": "The Astronomy Tower, staring at the stars and wondering about other worlds",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Solving a riddle to enter a secret chamber, you...",
+      "options": [
+        {
+          "text": "Ask your friends what they think the riddle means, valuing their input",
+          "score": "F"
+        },
+        {
+          "text": "Break the riddle into parts and analyze each word for hidden logic",
+          "score": "T"
+        },
+        {
+          "text": "Write down possible answers in order of likelihood, testing each one",
+          "score": "J"
+        },
+        {
+          "text": "Let your mind wander, connecting the riddle to random memories",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’d choose to master a magical object that...",
+      "options": [
+        {
+          "text": "Lets you send messages to multiple friends at once, like a enchanted quill",
+          "score": "E"
+        },
+        {
+          "text": "Stores your memories so you can revisit them privately, like a Pensieve",
+          "score": "I"
+        },
+        {
+          "text": "Shows you exactly where things are, like a Marauder’s Map (without the pranks)",
+          "score": "S"
+        },
+        {
+          "text": "Predicts alternate futures, like a crystal ball that shows “what-ifs”",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "In Dumbledore’s Army practice, you focus on...",
+      "options": [
+        {
+          "text": "Making sure everyone feels included, even if they’re slow to learn",
+          "score": "F"
+        },
+        {
+          "text": "Figuring out why a spell works, so you can adapt it for different situations",
+          "score": "T"
+        },
+        {
+          "text": "Creating a schedule that covers all essential defensive spells",
+          "score": "J"
+        },
+        {
+          "text": "Trying random spells from the book just to see what they do",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When you first got your Hogwarts letter, you...",
+      "options": [
+        {
+          "text": "Ran to tell your family and neighbors, yelling, “I’m a wizard!”",
+          "score": "E"
+        },
+        {
+          "text": "Sat on your bed, rereading the letter until you memorized every word",
+          "score": "I"
+        },
+        {
+          "text": "Started a list of school supplies, checking off each item as you packed",
+          "score": "S"
+        },
+        {
+          "text": "Imagined what your first flying lesson would be like, or which house you’d be in",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite class at Hogwarts is...",
+      "options": [
+        {
+          "text": "Care of Magical Creatures, because you love bonding with the animals",
+          "score": "F"
+        },
+        {
+          "text": "Arithmancy, where numbers and patterns reveal hidden truths",
+          "score": "T"
+        },
+        {
+          "text": "Transfiguration, where following precise steps turns frogs into teacups",
+          "score": "J"
+        },
+        {
+          "text": "Divination, where you interpret dreams and tarot cards intuitively",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At Hogsmeade, you spend most of your time...",
+      "options": [
+        {
+          "text": "Hanging out at the Three Broomsticks, laughing with friends over butterbeer",
+          "score": "E"
+        },
+        {
+          "text": "Exploring the Shrieking Shack alone, curious about its history",
+          "score": "I"
+        },
+        {
+          "text": "Browsing Zonko’s Joke Shop, examining each prank item carefully",
+          "score": "S"
+        },
+        {
+          "text": "Sitting on the hillside, wondering how the village was built with magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Facing a dark wizard, you believe the key to victory is...",
+      "options": [
+        {
+          "text": "Protecting the people you love, no matter the cost",
+          "score": "F"
+        },
+        {
+          "text": "Analyzing their weaknesses and planning a strategic attack",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to a battle plan you’ve practiced for weeks",
+          "score": "J"
+        },
+        {
+          "text": "Adapting quickly to their moves, trusting your instincts in the moment",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Harry Potter",
+      "description": "You’re brave, loyal, and driven by a strong sense of justice. Like Harry, you thrive in moments of action, care deeply for your friends, and never back down from what’s right—even when the odds are stacked against you. You’re an ESFP: energetic, practical, and always ready to fight for the people you love.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Hermione Granger",
+      "description": "You’re intelligent, organized, and fiercely determined. Like Hermione, you value knowledge, plan ahead, and use logic to solve problems. You care deeply about fairness and aren’t afraid to speak your mind—even if it means standing up to authority. You’re an INTJ: strategic, independent, and always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Ron Weasley",
+      "description": "You’re loyal, humorous, and the heart of your friend group. Like Ron, you’re quick to joke, slow to judge, and would do anything for the people you care about. You balance practicality with warmth, making you the glue that holds your friends together. You’re an ESFJ: social, reliable, and always there when someone needs a laugh or a hug.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Albus Dumbledore",
+      "description": "You’re wise, visionary, and see the big picture. Like Dumbledore, you understand that light and darkness coexist, and you use empathy and foresight to guide others. You’re a natural leader who inspires through quiet strength and unwavering hope. You’re an ENFJ: charismatic, insightful, and dedicated to helping others grow.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Severus Snape",
+      "description": "You’re complex, private, and driven by deep, hidden loyalties. Like Snape, you guard your emotions closely but care intensely for those you love. You’re sharp, analytical, and have a dry wit that masks a vulnerable heart. You’re an INTP: introspective, logical, and capable of great sacrifice for what matters most.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Luna Lovegood",
+      "description": "You’re creative, intuitive, and unapologetically yourself. Like Luna, you see the world through a unique lens, finding beauty in the unusual and magic in the mundane. You’re kind, open-minded, and unafraid to stand out from the crowd. You’re an INFP: idealistic, imaginative, and deeply connected to your inner world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Neville Longbottom",
+      "description": "You’re resilient, kind, and grow stronger with every challenge. Like Neville, you start quietly but discover your courage when it matters most. You value tradition, loyalty, and the little acts of bravery that change the world. You’re an ISFJ: dependable, compassionate, and the quiet hero everyone needs.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Draco Malfoy",
+      "description": "You’re ambitious, proud, and haunted by expectations. Like Draco, you struggle with identity and duty, but deep down, you’re capable of growth and redemption. You’re sharp, strategic, and have a complex sense of honor. You’re an ESTJ: driven, organized, and learning to redefine success on your own terms.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Minerva McGonagall",
+      "description": "You’re disciplined, fair, and a master of tough love. Like McGonagall, you value structure and excellence but have a soft spot for those who try their best. You’re a natural leader who commands respect through competence and integrity. You’re an ISTJ: responsible, practical, and the steady hand that keeps things running smoothly.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Sirius Black",
+      "description": "You’re bold, rebellious, and fiercely loyal to your chosen family. Like Sirius, you hate injustice, live life on your own terms, and have a charismatic energy that draws people to you. You’re brave, impulsive, and unafraid to break rules for what’s right. You’re an ESTP: adventurous, confident, and the life of any gathering.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Remus Lupin",
+      "description": "You’re gentle, wise, and carry the weight of hidden struggles with grace. Like Lupin, you’re a natural mentor who sees the best in others and helps them grow. You’re thoughtful, empathetic, and have a quiet strength that inspires trust. You’re an INFJ: intuitive, compassionate, and the calm voice of reason in chaos.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Nymphadora Tonks",
+      "description": "You’re energetic, playful, and unapologetically authentic. Like Tonks, you love to laugh, embrace change, and wear your heart on your sleeve. You’re adaptable, creative, and bring joy to even the darkest moments. You’re an ENFP: enthusiastic, spontaneous, and always ready for the next adventure.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Fred Weasley",
+      "description": "You’re a prankster, innovator, and the life of the party. Like Fred, you see the world as a playground for ideas, turning boredom into laughter and ordinary moments into magic. You’re quick-witted, bold, and thrive on sharing joy with others. You’re an ENTP: clever, resourceful, and the master of turning “what if” into “why not.”",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "George Weasley",
+      "description": "You’re the quieter half of the dynamic duo, with a dry wit and a knack for turning chaos into success. Like George, you balance humor with practicality, turning pranks into businesses and ideas into reality. You’re loyal, creative, and the steady force behind the fun. You’re an ESTP: action-oriented, clever, and always ready to execute the next big plan.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Cho Chang",
+      "description": "You’re sensitive, artistic, and deeply in touch with your emotions. Like Cho, you value connection, beauty, and the quiet moments that make life meaningful. You’re compassionate, intuitive, and have a gentle strength that shines through in difficult times. You’re an ISFP: creative, empathetic, and someone who finds magic in the details.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Rubeus Hagrid",
+      "description": "You’re kind, loyal, and have a heart as big as the Forbidden Forest. Like Hagrid, you see the good in everyone—even misunderstood creatures—and protect those you love with fierce devotion. You’re gentle, practical, and find joy in the simple things. You’re an ISFJ: nurturing, dependable, and the friend who makes everyone feel at home.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Enchanted Optimist",
+      "description": "You’re the spark of magic in any room! Like a Weasley twin with a heart of gold, you thrive in company, turning ordinary moments into adventures. Your creativity shines when brainstorming new spells, and you prioritize lifting others up—whether teaching a first-year or cheering for friends at Quidditch. Magic, to you, is about connection and joy. You’re an ENFP: warm, imaginative, and always ready to spread wonder.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Dreamy Spellweaver",
+      "description": "Magic lives in your quiet thoughts, where ancient prophecies and hidden meanings come alive. You’d rather lose yourself in a dusty spellbook than attend a noisy feast, finding solace in the whispers of history. Your kindness runs deep—you notice when a classmate is lonely and quietly leave encouraging notes. You’re an INFP: a gentle dreamer who weaves magic from empathy and imagination.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Cunning Innovator",
+      "description": "You’re the Dumbledore’s Army strategist, turning debates into spells and curiosity into breakthroughs. Magic is a puzzle to solve, and you love challenging the rules—like inventing a better Shield Charm or outsmarting a tricky riddle. Outgoing and quick-witted, you turn every study session into a lively discussion. You’re an ENTP: clever, adaptable, and never one to back down from a magical challenge.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Curious Arcane Scholar",
+      "description": "Alone in the library’s restricted section, you decode ancient runes and question spell origins—magic is a science to master. You care more about understanding *why* a charm works than using it, often losing track of time while experimenting with potion ingredients. Your mind is a labyrinth of theories, and you only share them with those who match your curiosity. You’re an INTP: a quiet genius who sees magic’s hidden patterns.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Lively Charmcaster",
+      "description": "You’re the life of the Great Hall, turning potions class into a laughter-filled experiment and Charms into a performance. Magic is meant to be felt—whether dancing at the Yule Ball or showing off a new levitation trick. You live in the moment, finding joy in small wonders: a butterfly charm, a friend’s surprised smile. You’re an ESFP: energetic, warm, and the first to turn any day into a magical memory.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Gentle Nature Enchanter",
+      "description": "You find magic in the quiet corners of Hogwarts: the rustle of the Whomping Willow, the glow of bioluminescent plants in the greenhouses. A skilled herbologist, you talk to your mandrakes and nurse injured bowtruckles back to health. You prefer small, meaningful moments—helping a friend tend to their garden or watching the sunset over the lake. You’re an ISFP: a gentle soul who magic flows through like a quiet stream.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Bold Adventure Seeker",
+      "description": "You’re the first to volunteer for a Forbidden Forest expedition or test a risky new broom. Magic is about action—dueling club, Quidditch chases, and sneaking into Hogsmeade. Quick-thinking and practical, you solve problems with a wave of your wand and a grin. You’d rather learn by doing than reading, turning every challenge into a story to tell. You’re an ESTP: bold, resourceful, and always up for a magical thrill.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Resourceful Spellsmith",
+      "description": "Give you a broken wand and a few potion vials, and you’ll create something extraordinary. You fix enchanted objects in your spare time, understanding magic through touch and trial. Quietly confident, you prefer solo projects—like crafting a custom broom or perfecting a silent Disillusionment Charm. You’re an ISTP: a hands-on wizard who turns tools into magic.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Wise Mentor Mage",
+      "description": "You’re the student others turn to for advice, whether it’s acing O.W.L.s or navigating friendship drama. Magic, to you, is about lifting others up—leading study groups, mentoring first-years, and mediating house conflicts. Warm and persuasive, you inspire loyalty and bring out the best in everyone. You’re an ENFJ: a natural leader who weaves magic through guidance and heart.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Insightful Seer",
+      "description": "You see magic in the unspoken: a classmate’s hidden talent, a spell’s unforeseen purpose. Often lost in thought, you intuitively understand people’s needs—leaving a healing potion for a stressed friend or suggesting a better spell for someone’s weakness. You guard your inner world but share your wisdom with those you trust. You’re an INFJ: a quiet seer who magic flows through with profound insight.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Magic Leader",
+      "description": "You’re the brains behind the D.A.’s battle plans, turning chaos into strategy. Magic is a tool to achieve goals—whether organizing a school fundraiser or outmaneuvering a rival house. Confident and decisive, you lead with logic, expecting excellence from yourself and others. You’re an ENTJ: a visionary leader who commands magic with purpose and power.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Visionary Arcane Architect",
+      "description": "You map out magic’s future: designing new spells, imagining enchanted cities, and solving problems no one else sees. A master planner, you spend hours in the library, connecting ancient magic to modern needs. You work alone but your ideas shape the wizarding world—quietly revolutionizing how magic is used. You’re an INTJ: a visionary architect who builds magic’s tomorrow.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Warmhearted Community Keeper",
+      "description": "You’re the glue that holds your house together—organizing Hogsmeade trips, decorating the common room, and remembering everyone’s birthdays. Magic is about community: baking cookies for the house elves, cheering at Quidditch matches, and making sure no one feels left out. You thrive on making others happy, turning ordinary days into shared memories. You’re an ESFJ: a nurturing soul who magic binds the community.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Devoted Protector of Magic",
+      "description": "You quietly guard Hogwarts’ traditions: polishing the armor in the corridors, helping younger students follow the rules, and preserving old spells. Reliable and loyal, you’re the first to help a friend in need—mending a torn robe, tutoring in Potions, or standing up to bullies. Magic, to you, is a trust to honor. You’re an ISFJ: a steadfast protector who magic flows through with quiet devotion.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Organized Order Enforcer",
+      "description": "You run the prefects’ office like a well-oiled clock: scheduling patrols, enforcing curfew, and ensuring every feast runs smoothly. Magic thrives on order—you color-code your spellbooks, label potion ingredients, and plan your week down to the minute. You take pride in structure, turning chaos into calm with a firm but fair hand. You’re an ESTJ: an organized leader who keeps magic running like clockwork.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Reliable Tradition Guardian",
+      "description": "You’re the keeper of Hogwarts’ history: memorizing the school song, preserving old Quidditch trophies, and respecting ancient rituals. Methodical and precise, you master spells through repetition, ensuring every wand movement is perfect. You prefer the tried-and-true, finding comfort in magic’s roots. You’re an ISTJ: a reliable guardian who magic flows through with unwavering tradition.",
+      "mbti": "ISTJ"
+    }
+  ],
   "emoji": [
     "⚡",
     "🧙",

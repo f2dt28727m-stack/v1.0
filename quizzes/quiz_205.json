@@ -2,20 +2,350 @@
   "quizId": 205,
   "title": "Which Mythical Creature Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover your mythical creature match!",
   "tags": [
     "Mythical Creature",
-    ",\n ",
     "Mythology",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Fantasy"
   ],
-  "description": "Answer 12 questions to discover your mythical creature match!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you prefer to spend a free weekend?",
+      "options": [
+        {
+          "text": "Spend time alone reading a book or working on a personal project",
+          "score": "I"
+        },
+        {
+          "text": "Plan a day trip to a nearby park or historical site to explore",
+          "score": "S"
+        },
+        {
+          "text": "Organize a gathering with friends to try a new activity together",
+          "score": "E"
+        },
+        {
+          "text": "Imagine and sketch ideas for a creative project or story",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When solving a challenging problem, you tend to...",
+      "options": [
+        {
+          "text": "Use logic to outsmart them strategically",
+          "score": "T"
+        },
+        {
+          "text": "Adapt your moves to the moment",
+          "score": "P"
+        },
+        {
+          "text": "Fight with emotion to protect others",
+          "score": "F"
+        },
+        {
+          "text": "Stick to your pre-planned battle strategy",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "At a social event, you’re most likely to...",
+      "options": [
+        {
+          "text": "Focus on one or two deep conversations with close friends",
+          "score": "I"
+        },
+        {
+          "text": "Observe the dynamics and analyze interactions objectively",
+          "score": "T"
+        },
+        {
+          "text": "Engage with multiple people, jumping between conversations",
+          "score": "E"
+        },
+        {
+          "text": "Notice if someone feels left out and try to include them",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When given a new task, you prefer to...",
+      "options": [
+        {
+          "text": "Brainstorm all possible approaches and big-picture goals",
+          "score": "N"
+        },
+        {
+          "text": "Set clear deadlines and stick to a structured timeline",
+          "score": "J"
+        },
+        {
+          "text": "Start by gathering concrete details and practical steps",
+          "score": "S"
+        },
+        {
+          "text": "Take your time and adapt as you learn more about the task",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a new environment, you first...",
+      "options": [
+        {
+          "text": "Introduce yourself to as many people as possible",
+          "score": "E"
+        },
+        {
+          "text": "Wonder about the history or potential of the place",
+          "score": "N"
+        },
+        {
+          "text": "Take time to observe and get a feel for the space quietly",
+          "score": "I"
+        },
+        {
+          "text": "Notice the physical details like layout and resources available",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When making an important decision, you prioritize...",
+      "options": [
+        {
+          "text": "How it aligns with your values and relationships",
+          "score": "F"
+        },
+        {
+          "text": "Having a clear plan with defined outcomes",
+          "score": "J"
+        },
+        {
+          "text": "What makes the most logical sense for long-term success",
+          "score": "T"
+        },
+        {
+          "text": "Leaving room for unexpected opportunities",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal leisure activity is...",
+      "options": [
+        {
+          "text": "Spending time solo hiking or painting",
+          "score": "I"
+        },
+        {
+          "text": "Volunteering to help a friend with a personal need",
+          "score": "F"
+        },
+        {
+          "text": "Joining a group class or team sport",
+          "score": "E"
+        },
+        {
+          "text": "Solving a puzzle or learning a new skill through research",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When learning something new, you focus on...",
+      "options": [
+        {
+          "text": "Practical applications and real-world examples",
+          "score": "S"
+        },
+        {
+          "text": "Exploring various angles without strict structure",
+          "score": "P"
+        },
+        {
+          "text": "Theories and connections to other ideas",
+          "score": "N"
+        },
+        {
+          "text": "Mastering one concept before moving to the next",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When stressed, you tend to...",
+      "options": [
+        {
+          "text": "Retreat to a quiet space to process your thoughts alone",
+          "score": "I"
+        },
+        {
+          "text": "Talk through your feelings with a friend or family member",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about a future where the stress is resolved",
+          "score": "N"
+        },
+        {
+          "text": "Do a hands-on activity like cooking or cleaning to distract",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you naturally take on the role of...",
+      "options": [
+        {
+          "text": "Analyst, evaluating the pros and cons of each idea",
+          "score": "T"
+        },
+        {
+          "text": "Mediator, ensuring everyone’s voice is heard",
+          "score": "F"
+        },
+        {
+          "text": "Innovator, suggesting creative solutions as problems arise",
+          "score": "P"
+        },
+        {
+          "text": "Organizer, keeping the team on track with deadlines",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your daily schedule is usually...",
+      "options": [
+        {
+          "text": "Filled with social plans and meetings",
+          "score": "E"
+        },
+        {
+          "text": "Structured to maximize productivity and efficiency",
+          "score": "T"
+        },
+        {
+          "text": "Flexible with time for solitude and reflection",
+          "score": "I"
+        },
+        {
+          "text": "Built around supporting others’ needs and commitments",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When thinking about the future, you focus on...",
+      "options": [
+        {
+          "text": "Imagining possibilities and potential adventures",
+          "score": "N"
+        },
+        {
+          "text": "Setting specific goals with actionable steps",
+          "score": "S"
+        },
+        {
+          "text": "Embracing uncertainty and enjoying the journey",
+          "score": "P"
+        },
+        {
+          "text": "Creating a detailed roadmap to achieve your dreams",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Dragon",
+      "description": "You’re a visionary with a fierce sense of independence, like a dragon guarding its hoard of knowledge. You analyze patterns, plan for the future, and value depth over triviality. Your quiet confidence and strategic mind make you a powerful force, though you may keep your true self hidden behind a calm exterior.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Phoenix",
+      "description": "Like the phoenix rising from ashes, you thrive on uplifting others and turning challenges into growth. You’re warm, charismatic, and intuitive, always attuned to the needs of those around you. Your ability to bring people together and ignite hope makes you a natural leader and a source of light in difficult times.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Unicorn",
+      "description": "Gentle and idealistic, you see beauty in the world others miss, much like the elusive unicorn. You value authenticity, empathy, and inner harmony, often losing yourself in creative pursuits or helping those in need. Your quiet strength lies in your unwavering belief in kindness and the power of dreams.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Centaur",
+      "description": "Practical and reliable, you balance logic with action, like a centaur’s mix of human wisdom and equine strength. You thrive on structure, responsibility, and ensuring things run smoothly. Your no-nonsense approach and loyalty make you a trusted leader who others turn to for guidance and stability.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Mermaid",
+      "description": "You’re deeply in tune with your emotions and the world’s beauty, like a mermaid connected to the ocean’s rhythms. You express yourself through creativity—art, music, or nature—and value experiences over material things. Your gentle presence and ability to find joy in small moments make you a calming, inspiring soul.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Griffin",
+      "description": "Powerful and decisive, you combine strength with strategic thinking, like a griffin’s blend of eagle and lion. You’re a natural leader, unafraid to take charge and turn big ideas into reality. Your confidence and determination drive you to achieve goals, though you may need to pause and listen to others’ perspectives.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Sphinx",
+      "description": "You’re a puzzle-solver at heart, drawn to mysteries and abstract ideas, much like the sphinx posing riddles. You love exploring theories, questioning assumptions, and connecting seemingly unrelated concepts. Your mind is a labyrinth of thoughts, and you find joy in the pursuit of knowledge for its own sake.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Werewolf",
+      "description": "Spontaneous and energetic, you thrive in the moment, like a werewolf embracing the wild. You love new experiences, physical challenges, and solving problems hands-on. Your quick reflexes and ability to think on your feet make you a fun, reliable companion in any adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Vampire",
+      "description": "Cool under pressure and practical, you approach life with a detached curiosity, like a vampire observing the world from the shadows. You excel at troubleshooting, fixing things, and mastering skills through hands-on experience. You value your independence and prefer action over words, letting your abilities speak for themselves.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Elf",
+      "description": "Wise beyond your years, you have a gift for understanding others and seeing the bigger picture, like an elf guarding ancient wisdom. You’re compassionate, intuitive, and driven by a desire to help others grow. Your quiet influence and ability to see potential in people make you a trusted confidant and mentor.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Dwarf",
+      "description": "Diligent and detail-oriented, you take pride in creating something lasting, like a dwarf crafting intricate stonework. You value tradition, loyalty, and hard work, approaching tasks with patience and precision. Your reliability and practicality make you the backbone of any team, ensuring projects are seen through to the end.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Goblin",
+      "description": "Quick-witted and resourceful, you thrive on debate and creative problem-solving, like a goblin finding unconventional solutions. You love challenging ideas, brainstorming new approaches, and turning limitations into opportunities. Your playful yet sharp mind keeps conversations lively and projects full of unexpected twists.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Siren",
+      "description": "Vibrant and expressive, you light up any room with your energy, like a siren captivating with song. You live in the moment, enjoying sensory experiences—music, art, laughter—and connecting with others through joy. Your warmth and spontaneity make you the life of the party, though you also care deeply about those you love.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Pegasus",
+      "description": "Imaginative and enthusiastic, you soar on the wings of possibility, like a pegasus flying through the clouds. You love exploring new ideas, meeting new people, and inspiring others with your passion. Your curiosity and optimism make you a magnet for creativity, though you may struggle with follow-through on all your exciting plans.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Minotaur",
+      "description": "Kind and dependable, you prioritize others’ well-being, like a minotaur guarding those in your care. You thrive in community, organizing events, and ensuring everyone feels included. Your warmth and practical support make you the heart of your social circle, always ready to lend a hand or a listening ear.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Hydra",
+      "description": "Quietly strong and dedicated, you care for others with unwavering devotion, like a hydra tending to its many needs. You anticipate others’ requirements, remember small details, and work behind the scenes to keep things harmonious. Your selflessness and reliability make you a pillar of support, though you may need to prioritize your own needs too.",
+      "mbti": "ISFJ"
+    }
+  ],
   "emoji": [
     "🐉",
     "🔥",

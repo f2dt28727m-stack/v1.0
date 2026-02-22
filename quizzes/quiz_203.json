@@ -2,20 +2,350 @@
   "quizId": 203,
   "title": "Which Love Language Type Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Love Language type!",
   "tags": [
     "Love Language",
-    ",\n ",
     "Relationships",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Emotions",
-    ",\n ",
     "Intimacy"
   ],
-  "description": "Answer 12 questions to discover your Love Language type!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When your partner shares a stressful day, you naturally...",
+      "options": [
+        {
+          "text": "Listen quietly, offering a reassuring hug or presence without needing words",
+          "score": "I"
+        },
+        {
+          "text": "Focus on specific details they mention, like a tough meeting, and suggest practical solutions",
+          "score": "S"
+        },
+        {
+          "text": "Lean in, ask follow-up questions, and talk through their feelings together",
+          "score": "E"
+        },
+        {
+          "text": "Connect their stress to bigger patterns, like their values or long-term goals, to validate their emotions",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "For you, a meaningful romantic gesture is...",
+      "options": [
+        {
+          "text": "A surprise weekend trip to a place they’ve always dreamed of visiting",
+          "score": "N"
+        },
+        {
+          "text": "Staying up late to help them finish a project, even if it means sacrificing your own plans",
+          "score": "F"
+        },
+        {
+          "text": "A handwritten note listing specific things you love about them",
+          "score": "S"
+        },
+        {
+          "text": "Creating a structured plan to support their career goals, with clear steps and deadlines",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When resolving a conflict with your partner, you prioritize...",
+      "options": [
+        {
+          "text": "Analyzing the root cause logically to find a fair, efficient resolution",
+          "score": "T"
+        },
+        {
+          "text": "Reaching a clear agreement with actionable steps to prevent future issues",
+          "score": "J"
+        },
+        {
+          "text": "Understanding their emotions and ensuring they feel loved, even if solutions take time",
+          "score": "F"
+        },
+        {
+          "text": "Exploring all perspectives and letting the conversation flow until both feel heard",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to express affection on a daily basis?",
+      "options": [
+        {
+          "text": "Sharing ideas or dreams for your future together, imagining possibilities",
+          "score": "N"
+        },
+        {
+          "text": "Initiating conversations about your day, hopes, and fears openly",
+          "score": "E"
+        },
+        {
+          "text": "Remembering their preferences, like their coffee order or favorite movie, and acting on them",
+          "score": "S"
+        },
+        {
+          "text": "Spending quiet time together, like reading side by side, without needing to talk",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When your partner is proud of an achievement, you respond by...",
+      "options": [
+        {
+          "text": "Reflecting on how this achievement aligns with their core strengths and values",
+          "score": "N"
+        },
+        {
+          "text": "Organizing a small gathering with friends to celebrate their win",
+          "score": "E"
+        },
+        {
+          "text": "Acknowledging their effort privately, with a sincere one-on-one conversation",
+          "score": "I"
+        },
+        {
+          "text": "Pointing out specific things they did well, like their hard work or attention to detail",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You feel most loved when your partner...",
+      "options": [
+        {
+          "text": "Adapts plans when you’re tired, suggesting a cozy night in instead of going out",
+          "score": "P"
+        },
+        {
+          "text": "Expresses how much you mean to them through heartfelt words or letters",
+          "score": "F"
+        },
+        {
+          "text": "Follows through on promises, like picking up groceries or keeping plans",
+          "score": "J"
+        },
+        {
+          "text": "Uses logic to support you, like helping you weigh pros and cons of a big decision",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In a long-distance relationship, you’d prefer to...",
+      "options": [
+        {
+          "text": "Send physical items, like photos, snacks, or a sweater that smells like you",
+          "score": "S"
+        },
+        {
+          "text": "Have scheduled video calls where you can see each other and talk for hours",
+          "score": "E"
+        },
+        {
+          "text": "Write long emails about your thoughts and dreams for your future together",
+          "score": "N"
+        },
+        {
+          "text": "Text spontaneously throughout the day, sharing little moments as they happen",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When planning a date night, you’re more likely to...",
+      "options": [
+        {
+          "text": "Opt for a quiet night at home, cooking together and enjoying each other’s company",
+          "score": "I"
+        },
+        {
+          "text": "Choose a new restaurant you’ve both been curious about, embracing the adventure",
+          "score": "P"
+        },
+        {
+          "text": "Prioritize an activity that lets you talk deeply, like a walk or dinner with no distractions",
+          "score": "E"
+        },
+        {
+          "text": "Stick to a tried-and-true spot you know you both love, ensuring comfort",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "You show you care by...",
+      "options": [
+        {
+          "text": "Problem-solving for them, like fixing a broken appliance or organizing their schedule",
+          "score": "T"
+        },
+        {
+          "text": "Doing small daily tasks for them, like making breakfast or folding their laundry",
+          "score": "S"
+        },
+        {
+          "text": "Making decisions that prioritize their happiness, even if it’s not what you initially wanted",
+          "score": "F"
+        },
+        {
+          "text": "Talking about how they inspire you and the impact they have on your life",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When your partner is upset, you first...",
+      "options": [
+        {
+          "text": "Share a similar experience of your own to build connection and understanding",
+          "score": "E"
+        },
+        {
+          "text": "Suggest specific actions to help, like making a to-do list or delegating tasks",
+          "score": "J"
+        },
+        {
+          "text": "Give them space to unwind, checking in quietly later to see if they need anything",
+          "score": "I"
+        },
+        {
+          "text": "Sit with them and let them guide how they want to handle it, no pressure",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "What makes you feel most connected in a relationship?",
+      "options": [
+        {
+          "text": "The deep conversations where you understand each other’s core beliefs",
+          "score": "N"
+        },
+        {
+          "text": "Knowing they’ll always support you emotionally, no matter what",
+          "score": "F"
+        },
+        {
+          "text": "The daily routines, like morning coffee together or saying goodnight every evening",
+          "score": "S"
+        },
+        {
+          "text": "Working together on a project, like decorating your home or planning a trip",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "When you want to apologize to your partner, you...",
+      "options": [
+        {
+          "text": "Have an open conversation, letting the discussion guide your apology naturally",
+          "score": "P"
+        },
+        {
+          "text": "Tell them how much they mean to you and how sorry you are for hurting them",
+          "score": "F"
+        },
+        {
+          "text": "Create a plan to fix the issue and prevent it from happening again",
+          "score": "J"
+        },
+        {
+          "text": "Acknowledge the mistake logically and offer concrete ways to make amends",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Reliable Devoted (ISTJ)",
+      "description": "You express love through unwavering reliability—showing up consistently, keeping promises, and handling life’s practical details so your partner feels secure. Your love language is rooted in action: fixing what’s broken, remembering commitments, and creating a stable foundation. You may not always use grand gestures, but your steady presence speaks volumes, making your partner feel safe and cherished in the rhythm of daily life.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Guardian (ISFJ)",
+      "description": "Your love is a quiet symphony of care—remembering their favorite meal, tending to their needs before your own, and wrapping them in warmth through small, consistent acts. You thrive on making your partner feel seen, whether by folding their laundry or listening endlessly to their worries. Your love language is service with a heart, turning everyday moments into a testament of devotion.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Compassionate Visionary (INFJ)",
+      "description": "You love deeply, intuitively sensing your partner’s unspoken needs and weaving connection through meaning. You cherish deep conversations about values and dreams, and your gestures—like a handwritten letter about your shared future—are steeped in purpose. Your love language is understanding, creating a space where they feel truly known, seen, and loved for who they are at their core.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategic Idealist (INTJ)",
+      "description": "You express love through strategic care—planning for their growth, solving problems before they arise, and engaging in intellectually stimulating conversations. Your gestures are intentional: a book that aligns with their goals, a well-researched solution to their stress. You may not be overly emotional, but your commitment to their success and your ability to see their potential make your love both profound and empowering.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Hands-On Companion (ISTP)",
+      "description": "You show love through quiet action—fixing their bike, teaching them a new skill, or adapting seamlessly to their needs. You’re present in the moment, using your practical skills to make their life easier. Your love language is doing: no grand speeches, just a steady willingness to roll up your sleeves and be there, making them feel supported through tangible, reliable care.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Gentle Artisan (ISFP)",
+      "description": "Your love is a sensory, heartfelt expression—crafting a playlist of their favorite songs, arranging flowers from your garden, or simply sitting with them in comfortable silence. You focus on the beauty of small moments, using creativity and presence to show you care. Your love language is authenticity, making them feel cherished through personal, meaningful gestures that reflect your unique connection.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Sincere Dreamer (INFP)",
+      "description": "You love with profound sincerity, connecting through shared values and emotional depth. You write poetry about their smile, remember the stories they’ve told, and create a safe space for their vulnerabilities. Your love language is authenticity: you show up fully, unafraid to be tender, and make them feel loved for their truest self, not just who they present to the world.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Curious Connector (INTP)",
+      "description": "You express love through intellectual connection—debating ideas, sharing fascinating facts, and helping them solve complex problems. You’re drawn to their mind, and your gestures often involve learning together or exploring new concepts. Your love language is curiosity: you show you care by engaging deeply with their thoughts, making them feel intellectually seen and valued.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Energetic Enthusiast (ESTP)",
+      "description": "You love with vibrant spontaneity—surprising them with a last-minute road trip, dragging them to a new concert, or turning a mundane errand into an adventure. Your energy is contagious, and you thrive on shared experiences. Your love language is excitement: you show you care by making every moment feel alive, ensuring they never feel bored when they’re with you.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Warm Celebrant (ESFP)",
+      "description": "You express love through joy and presence—throwing a impromptu party for their small win, laughing loudly at their jokes, and making every day feel like a celebration. You’re attuned to their mood, and your gestures are lively and immediate: a hug, a dance in the kitchen, or a silly gift that makes them smile. Your love language is warmth, wrapping them in positivity and making them feel cherished in the now.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Inspired Optimist (ENFP)",
+      "description": "Your love is a burst of inspiration—dreaming up future adventures, writing them love notes full of exclamation points, and seeing the best in them even when they doubt themselves. You thrive on emotional connection, and your gestures are creative and enthusiastic: a vision board of your shared goals, a surprise picnic with their favorite snacks. Your love language is possibility, making them believe anything is achievable with you by their side.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Witty Collaborator (ENTP)",
+      "description": "You love through playful intellect—debating ideas, challenging them to grow, and turning even the most mundane tasks into a game. Your humor is sharp, and you thrive on mental sparring that sparks connection. Your love language is banter with purpose: you show you care by engaging their mind, pushing them to think differently, and making them laugh until their sides hurt.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Loyal Organizer (ESTJ)",
+      "description": "You express love through structure and loyalty—planning family gatherings, ensuring their schedule runs smoothly, and standing by their side through thick and thin. You’re the rock they can count on, and your gestures are rooted in responsibility: remembering their appointments, advocating for them, and building a life together with intention. Your love language is dependability, making them feel secure in your unwavering commitment.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Generous Host (ESFJ)",
+      "description": "Your love is a warm embrace—hosting dinner parties for their friends, remembering their family’s birthdays, and making sure everyone feels included. You thrive on creating harmony, and your gestures are nurturing: cooking their favorite meal, listening to their day, and offering a shoulder to cry on. Your love language is generosity, making them feel loved not just through your care for them, but for the people and world around them.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Empathetic Leader (ENFJ)",
+      "description": "You love by lifting them up—encouraging their dreams, mediating conflicts, and seeing their potential even when they can’t. You’re a natural nurturer and motivator, and your gestures are heartfelt and purposeful: a pep talk before a big day, a plan to help them achieve their goals, or a quiet moment of understanding when they’re down. Your love language is inspiration, making them feel capable, loved, and ready to take on the world.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Confident Planner (ENTJ)",
+      "description": "You express love through strategic partnership—setting goals together, pushing them to grow, and leading with confidence. You’re a visionary, and your gestures are bold: planning a career advancement strategy for them, organizing a trip that aligns with their dreams, or taking charge when they feel overwhelmed. Your love language is ambition, making them feel like they can conquer anything with you as their teammate.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "❤️",
     "💕",

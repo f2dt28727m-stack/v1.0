@@ -2,20 +2,350 @@
   "quizId": 178,
   "title": "Which Travel Style Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover your travel style!",
   "tags": [
     "Travel",
-    ",\n ",
     "Travel Style",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Adventure"
   ],
-  "description": "Answer 12 questions to discover your travel style!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When planning a trip, you prefer to...",
+      "options": [
+        {
+          "text": "Research alone, savoring the quiet process of mapping out your journey",
+          "score": "I"
+        },
+        {
+          "text": "Focus on practical details like transport times and accommodation reviews",
+          "score": "S"
+        },
+        {
+          "text": "Collaborate with friends, enjoying group discussions to pick destinations and activities",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the stories and experiences you’ll gain from new places",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "During a trip, you feel most energized when...",
+      "options": [
+        {
+          "text": "Letting the day unfold—discovering hidden cafes or detours that catch your eye",
+          "score": "P"
+        },
+        {
+          "text": "Connecting deeply with locals, sharing stories over meals or walks",
+          "score": "F"
+        },
+        {
+          "text": "Use logic to outsmart them strategically",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to your daily schedule, ensuring you hit all planned highlights",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a travel activity, you’d pick...",
+      "options": [
+        {
+          "text": "Volunteering at a local community project, contributing to the place you’re visiting",
+          "score": "F"
+        },
+        {
+          "text": "A solo hike with quiet views, allowing you to reflect",
+          "score": "I"
+        },
+        {
+          "text": "A group cooking class where you can chat with other travelers",
+          "score": "E"
+        },
+        {
+          "text": "A workshop on local history or technology, learning practical knowledge",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal travel accommodation is...",
+      "options": [
+        {
+          "text": "A unique stay, like a treehouse or heritage villa, that feels like part of the adventure",
+          "score": "N"
+        },
+        {
+          "text": "A pre-booked place with strict check-in times and clear policies",
+          "score": "J"
+        },
+        {
+          "text": "A flexible Airbnb where you can arrive late and adjust your stay length easily",
+          "score": "P"
+        },
+        {
+          "text": "A cozy hotel with reliable amenities—clean rooms, good Wi-Fi, and a central location",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When packing for a trip, you...",
+      "options": [
+        {
+          "text": "Check the weather forecast and pack specific clothes for each activity",
+          "score": "S"
+        },
+        {
+          "text": "Ask friends for packing tips, making sure you have items to share or use in group settings",
+          "score": "E"
+        },
+        {
+          "text": "Pack light with only essentials, avoiding extra items that might weigh you down",
+          "score": "I"
+        },
+        {
+          "text": "Bring a journal or camera to capture moments you haven’t even imagined yet",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If your travel plans get canceled last minute, you...",
+      "options": [
+        {
+          "text": "Compare refund policies and reschedule options to minimize costs",
+          "score": "T"
+        },
+        {
+          "text": "See it as a chance to explore a nearby spot you hadn’t considered before",
+          "score": "P"
+        },
+        {
+          "text": "Call your travel companions to check in and brainstorm alternative plans together",
+          "score": "F"
+        },
+        {
+          "text": "Immediately create a new itinerary, sticking to a similar structure",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite travel memory involves...",
+      "options": [
+        {
+          "text": "A quiet morning watching the sunrise alone at a scenic overlook",
+          "score": "I"
+        },
+        {
+          "text": "Successfully navigating a complex train system to reach a remote landmark",
+          "score": "T"
+        },
+        {
+          "text": "A night out with new friends, dancing or laughing until dawn",
+          "score": "E"
+        },
+        {
+          "text": "Helping a local family with their daily tasks, feeling like part of the community",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "When researching a destination, you spend most time on...",
+      "options": [
+        {
+          "text": "Creating a color-coded spreadsheet with day-by-day activities",
+          "score": "J"
+        },
+        {
+          "text": "Reading reviews of restaurants and attractions to know exactly what to expect",
+          "score": "S"
+        },
+        {
+          "text": "Looking for off-the-beaten-path spots that few tourists visit",
+          "score": "N"
+        },
+        {
+          "text": "Scrolling through travel blogs for inspiration, keeping options open",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "On a long journey (e.g., a flight), you prefer to...",
+      "options": [
+        {
+          "text": "Daydream about the adventures ahead and the people you might meet",
+          "score": "N"
+        },
+        {
+          "text": "Listen to a podcast or read a book, enjoying your own company",
+          "score": "I"
+        },
+        {
+          "text": "Organize your travel documents and plan the first day’s activities",
+          "score": "S"
+        },
+        {
+          "text": "Strike up a conversation with your seatmate, learning about their travels",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When trying local food, you...",
+      "options": [
+        {
+          "text": "Wander around and pick a place that looks inviting in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Research the most popular dishes and compare prices to get the best value",
+          "score": "T"
+        },
+        {
+          "text": "Stick to a list of must-try restaurants you planned in advance",
+          "score": "J"
+        },
+        {
+          "text": "Ask locals for their favorite family-owned spots, valuing their personal recommendations",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your travel style can best be described as...",
+      "options": [
+        {
+          "text": "Empathetic—you prioritize experiences that let you understand local cultures",
+          "score": "F"
+        },
+        {
+          "text": "Social—you love meeting new people and joining group tours",
+          "score": "E"
+        },
+        {
+          "text": "Analytical—you plan trips to maximize learning and efficiency",
+          "score": "T"
+        },
+        {
+          "text": "Introspective—you prefer slow travel to connect deeply with one place",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "After a trip, you most look forward to...",
+      "options": [
+        {
+          "text": "Sharing photos and souvenirs with friends, reliving specific moments",
+          "score": "S"
+        },
+        {
+          "text": "Daydreaming about your next adventure, with no set plans yet",
+          "score": "P"
+        },
+        {
+          "text": "Writing about your experiences to capture the feelings and insights gained",
+          "score": "N"
+        },
+        {
+          "text": "Organizing your travel notes into a structured album or blog",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Organized Itinerant",
+      "description": "You thrive on structure and planning, turning travel into a well-oiled machine. From color-coded spreadsheets to pre-booked activities, you ensure every moment counts—no detail slips through the cracks. You prefer efficiency but still savor the satisfaction of a perfectly executed journey.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Hospitable Explorer",
+      "description": "Travel for you is about connection—with locals, fellow travelers, and the places you visit. You prioritize group experiences, ensuring everyone feels included, and return home with stories of the people who made your trip unforgettable.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Practical Voyager",
+      "description": "You’re the master of practicality, researching every detail to avoid surprises. Reliable accommodation, clear directions, and tried-and-true attractions are your go-to—you value comfort and certainty over spontaneity.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Traveler",
+      "description": "Your trips are rooted in care—for your companions, the local community, and the memories you create. You seek out cozy stays, meaningful interactions, and return with souvenirs that tell a story of connection.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Spontaneous Thrill-Seeker",
+      "description": "Rules? Plans? You’d rather wing it. Adventure is in the unplanned detours, last-minute hikes, and impromptu conversations. You thrive on the energy of the moment, turning travel into a series of exciting surprises.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Social Adventurer",
+      "description": "You’re the life of the travel party, drawn to festivals, group tours, and bustling markets. Laughter, shared meals, and new friendships fuel your journeys—you believe the best memories are made with others.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Hands-On Wanderer",
+      "description": "You learn by doing—hiking remote trails, fixing a flat tire, or mastering a local craft. Travel is your playground for practical skills, and you find joy in solving problems and navigating the unexpected.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Sojourner",
+      "description": "Beauty guides your path—whether it’s a sunset over a mountain, a hand-painted village, or the rhythm of local music. You move slowly, savoring sensory details, and capture moments through art, photos, or journaling.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Visionary Trailblazer",
+      "description": "You don’t follow the crowd—you map your own route. From uncharted hiking trails to underrated cities, you seek destinations with potential, turning travel into a quest for innovation and leadership.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Inspirational Guide",
+      "description": "You turn trips into transformative experiences, encouraging companions to dive deep into local culture. Your enthusiasm is contagious, and you leave places better than you found them—one meaningful connection at a time.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Explorer",
+      "description": "You approach travel like a puzzle, researching history, culture, and logistics to craft a journey with purpose. Depth over breadth is your motto—you’d rather master one destination than skim ten.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Empathetic Pilgrim",
+      "description": "Travel is a spiritual journey for you, seeking places that stir your soul—ancient temples, quiet villages, or stories of resilience. You connect with locals on a profound level, leaving with a deeper understanding of humanity.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Curious Innovator",
+      "description": "You’re drawn to the unconventional—quirky museums, experimental cuisine, or debates with locals about global ideas. Travel is your laboratory for new thoughts, and you thrive on challenging the status quo.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Dreamy Nomad",
+      "description": "Your suitcase is always half-packed—you crave new cultures, languages, and perspectives. Plans flex like putty, and you follow your heart to unexpected places, collecting stories that fuel your endless curiosity.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Analytical Wanderer",
+      "description": "You travel with a curious mind, diving into books, documentaries, and local experts to understand a destination’s ‘why.’ Solitude fuels your insights, and you return home with a head full of new knowledge.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Idealistic Roamer",
+      "description": "You seek travel that aligns with your values—sustainable stays, ethical tours, and quiet moments in nature. Your journeys are introspective, and you return with a renewed sense of purpose and wonder.",
+      "mbti": "INFP"
+    }
+  ],
   "emoji": [
     "✈️",
     "🗺️",

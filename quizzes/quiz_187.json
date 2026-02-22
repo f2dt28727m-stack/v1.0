@@ -2,20 +2,350 @@
   "quizId": 187,
   "title": "What's Your Disney Personality?",
   "category": "whatwould",
+  "description": "Answer 12 questions to discover your Disney personality!",
   "tags": [
     "Disney",
-    ",\n ",
     "Disney Characters",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "What Would You Do"
   ],
-  "description": "Answer 12 questions to discover your Disney personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "In a Disney park, while waiting in line, you're most likely to...",
+      "options": [
+        {
+          "text": "Strike up a conversation with nearby guests, sharing your favorite Disney memories",
+          "score": "E"
+        },
+        {
+          "text": "Put on headphones and listen to Disney soundtracks, enjoying the quiet time",
+          "score": "I"
+        },
+        {
+          "text": "Notice small details like the queue decorations or the number of turrets on Cinderella Castle",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about being a character in a Disney movie, imagining your own adventure",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite Disney character suddenly appears in front of you. You...",
+      "options": [
+        {
+          "text": "Ask them about the logical details of their story, like how their magic works",
+          "score": "T"
+        },
+        {
+          "text": "Hug them tightly and gush about how much their journey means to you",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow, reacting spontaneously to whatever they do or say",
+          "score": "P"
+        },
+        {
+          "text": "Pull out your phone to take a photo you’ve been planning since you arrived",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When planning a Disney day trip, you prefer to...",
+      "options": [
+        {
+          "text": "Invite a big group and make sure everyone’s favorite rides are included",
+          "score": "E"
+        },
+        {
+          "text": "Create a minute-by-minute schedule to maximize every moment",
+          "score": "J"
+        },
+        {
+          "text": "Keep it loose—just hit a few must-sees and see where the day takes you",
+          "score": "P"
+        },
+        {
+          "text": "Plan alone, focusing on your own pace and interests",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Which Disney movie moment tugs at your heart most?",
+      "options": [
+        {
+          "text": "A character using clever strategies to outsmart a villain",
+          "score": "T"
+        },
+        {
+          "text": "A hero sacrificing themselves to protect someone they love",
+          "score": "F"
+        },
+        {
+          "text": "A character realizing their true purpose through a meaningful conversation",
+          "score": "N"
+        },
+        {
+          "text": "A protagonist finally achieving a tangible goal, like fixing a broken ship",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A friend asks you to recommend a Disney story. You choose...",
+      "options": [
+        {
+          "text": "Zootopia, for its lively social dynamics and teamwork",
+          "score": "E"
+        },
+        {
+          "text": "Coco, for its deep exploration of family and memory",
+          "score": "I"
+        },
+        {
+          "text": "Moana, with its concrete航海 adventures and island exploration",
+          "score": "S"
+        },
+        {
+          "text": "Soul, which dives into abstract ideas about life’s purpose",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Taking a photo in front of Cinderella Castle, you...",
+      "options": [
+        {
+          "text": "Adjust the angle to ensure the castle is perfectly centered with good lighting",
+          "score": "T"
+        },
+        {
+          "text": "Let a friend snap a candid shot of you laughing naturally",
+          "score": "F"
+        },
+        {
+          "text": "Wander until you find a spot that feels right, no planning needed",
+          "score": "P"
+        },
+        {
+          "text": "Arrive an hour early to secure the best spot before crowds gather",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A sudden rainstorm hits the park. You...",
+      "options": [
+        {
+          "text": "Duck into a café and watch the rain while sipping hot cocoa alone",
+          "score": "I"
+        },
+        {
+          "text": "Pull out your raincoat and stick to the original schedule, hitting indoor rides",
+          "score": "J"
+        },
+        {
+          "text": "Join other guests in a shop, chatting about how magical the rain feels",
+          "score": "E"
+        },
+        {
+          "text": "Ditch plans and explore a random gift shop, discovering fun souvenirs",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a Disney souvenir, you prioritize...",
+      "options": [
+        {
+          "text": "Something with symbolic meaning, like a charm representing courage",
+          "score": "N"
+        },
+        {
+          "text": "A practical item you’ll use daily, like a Disney-themed water bottle",
+          "score": "S"
+        },
+        {
+          "text": "How much it reminds you of a specific emotional moment from the day",
+          "score": "F"
+        },
+        {
+          "text": "Its quality and price, making sure it’s worth the money",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At a Disney trivia game, you...",
+      "options": [
+        {
+          "text": "Recall exact lines from movies or character backstories",
+          "score": "S"
+        },
+        {
+          "text": "Debate answers loudly with teammates, feeding off the energy",
+          "score": "E"
+        },
+        {
+          "text": "Stay quiet, waiting to share your answer until you’re sure it’s right",
+          "score": "I"
+        },
+        {
+          "text": "Guess based on the story’s themes or character motivations",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend is upset after missing a fast pass for a popular ride. You...",
+      "options": [
+        {
+          "text": "Check the app for shorter lines and suggest a new plan immediately",
+          "score": "J"
+        },
+        {
+          "text": "Say, “Let’s get ice cream—maybe the line will be shorter later!”",
+          "score": "P"
+        },
+        {
+          "text": "Tell them, “We’ll find something else fun together—I’m just glad we’re here!”",
+          "score": "F"
+        },
+        {
+          "text": "Explain that this ride has the longest wait anyway, so it’s not a big loss",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "During the evening parade, you...",
+      "options": [
+        {
+          "text": "Stand back and enjoy the music and floats from a distance",
+          "score": "I"
+        },
+        {
+          "text": "Run to the front row, waving and high-fiving characters",
+          "score": "E"
+        },
+        {
+          "text": "Find a spot last minute and dance along to the music",
+          "score": "P"
+        },
+        {
+          "text": "Claim a spot an hour early with a blanket and snacks",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Looking back on your Disney day, you remember most vividly...",
+      "options": [
+        {
+          "text": "The way the castle lights sparkled, the taste of churros, and the parade music",
+          "score": "S"
+        },
+        {
+          "text": "The warm feeling of being with loved ones and sharing laughs",
+          "score": "F"
+        },
+        {
+          "text": "How the day made you feel—nostalgic, hopeful, or full of wonder",
+          "score": "N"
+        },
+        {
+          "text": "How efficiently the park ran, from ride wait times to staff helpfulness",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Woody (ISTJ)",
+      "description": "You're the reliable, responsible leader of your group, just like Woody! Practical and loyal, you value tradition and work hard to keep things in order. You’re always prepared, whether it’s planning a day trip or supporting friends in need. Your ISTJ traits make you the steady anchor everyone can count on—dependable, detail-oriented, and deeply committed to those you care about.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Winnie the Pooh (ISFJ)",
+      "description": "Warm and nurturing, you embody Pooh’s gentle spirit. You prioritize harmony and go out of your way to comfort others, often putting their needs before your own. With a kind heart and a keen eye for small joys (like a pot of honey or a friend’s smile), you create a sense of home wherever you go. Your ISFJ nature makes you the quiet caretaker who remembers everyone’s favorite things.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Elsa (INFJ)",
+      "description": "Mysterious and deeply intuitive, you share Elsa’s ability to see beyond the surface. You value authenticity and have a strong sense of purpose, often carrying the weight of others’ emotions with grace. Though you may keep parts of yourself hidden, your inner wisdom and compassion shine through when others need guidance. As an INFJ, you’re a visionary with quiet strength.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Mulan (INTJ)",
+      "description": "Strategic and independent, you’re a natural problem-solver like Mulan. You trust your own judgment, think outside the box, and aren’t afraid to challenge expectations to do what’s right. With a clear vision and decisive action, you turn obstacles into opportunities. Your INTJ traits—confidence, logic, and determination—make you a force to be reckoned with.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Merida (ISTP)",
+      "description": "Bold and hands-on, you thrive on adventure and practical challenges, just like Merida. You prefer action over words, solving problems with quick thinking and resourcefulness. Independent and unafraid to break rules, you value freedom and authenticity. Your ISTP nature makes you the go-to person for fixing things, exploring new places, and turning “impossible” into “let’s try.”",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Cinderella (ISFP)",
+      "description": "Gentle and artistic, you see beauty in the details, much like Cinderella. You approach life with patience and grace, finding joy in small, everyday moments—whether it’s arranging flowers or helping a stranger. Quietly resilient, you stay true to your values even when things are tough. Your ISFP traits—kindness, creativity, and love for harmony—make you a calming presence.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Aurora (INFP)",
+      "description": "Dreamy and idealistic, you have Aurora’s poetic soul. You believe in magic and the power of imagination, often getting lost in daydreams or creative pursuits. Compassionate and deeply empathetic, you care about others’ feelings and strive to make the world gentler. As an INFP, you’re guided by your values, finding purpose in authenticity and meaningful connections.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Belle (INTP)",
+      "description": "Curious and analytical, you’re a lifelong learner like Belle. You love exploring ideas, solving puzzles, and diving into books or complex concepts. Independent and open-minded, you see potential in people and ideas others overlook. Your INTP traits—logic, creativity, and hunger for knowledge—make you a thoughtful problem-solver who finds joy in understanding the world.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Aladdin (ESTP)",
+      "description": "Quick-witted and adaptable, you thrive in the moment like Aladdin. You love a good challenge, think on your feet, and turn everyday situations into adventures. Charismatic and action-oriented, you’re the life of the party and always up for trying something new. Your ESTP traits—confidence, resourcefulness, and love for excitement—make you the friend everyone wants for spontaneous fun.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Peter Pan (ESFP)",
+      "description": "Energetic and playful, you embody Peter Pan’s free spirit. You live in the moment, finding joy in laughter, games, and simple pleasures. Social and outgoing, you light up a room with enthusiasm and make even the ordinary feel magical. Your ESFP traits—spontaneity, warmth, and childlike wonder—make you the ultimate adventurer who refuses to let life get too serious.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Moana (ENFP)",
+      "description": "Adventurous and optimistic, you have Moana’s big heart and love for exploration. You’re driven by curiosity and a desire to make a difference, eager to discover new places and ideas. Inspiring and enthusiastic, you lift others with positivity and belief in their potential. As an ENFP, you’re a dreamer who turns passion into action, making the world vibrant.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Tinker Bell (ENTP)",
+      "description": "Clever and quick-thinking, you’re a natural innovator like Tinker Bell. You love debating ideas, solving problems with creative solutions, and challenging the status quo. Witty and resourceful, you turn setbacks into opportunities with your sharp mind. Your ENTP traits—curiosity, adaptability, and love for intellectual challenges—make you the friend with endless ideas.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Tiana (ESTJ)",
+      "description": "Hardworking and determined, you share Tiana’s strong work ethic and goal-oriented mindset. You thrive on structure and responsibility, turning dreams into reality through consistent effort. Practical and organized, you’re a natural leader who takes charge and ensures things get done right. Your ESTJ traits—discipline, reliability, and focus on results—make you the achiever who turns plans into success.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Mickey Mouse (ESFJ)",
+      "description": "Friendly and outgoing, you’re the heart of your social circle, just like Mickey. You love bringing people together, spreading joy, and making sure everyone feels included. Warm and reliable, you go out of your way to help others and create memorable moments. Your ESFJ traits—kindness, sociability, and talent for connecting—make every gathering feel like a celebration.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Rapunzel (ENFJ)",
+      "description": "Warm and inspiring, you have Rapunzel’s gift for lifting others up. You’re a natural encourager, seeing the best in people and helping them reach their potential. Empathetic and charismatic, you create deep connections and make others feel seen. As an ENFJ, you’re a born leader with a big heart, using your influence to bring out the best in everyone.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Simba (ENTJ)",
+      "description": "Confident and decisive, you’re a natural leader like Simba. You have a clear vision, take charge when needed, and inspire others to follow with passion and determination. Strategic and bold, you’re not afraid to take risks to achieve goals. Your ENTJ traits—leadership, ambition, and drive for success—make you the person who turns challenges into triumphs.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "👸",
     "🏰",

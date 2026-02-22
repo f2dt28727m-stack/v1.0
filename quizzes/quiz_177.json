@@ -2,20 +2,350 @@
   "quizId": 177,
   "title": "Which Travel Personality Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Travel personality!",
   "tags": [
     "Travel",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Travel Style",
-    ",\n ",
     "Wanderlust"
   ],
-  "description": "Answer 12 questions to discover your Travel personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "Travel出发前，你会？",
+      "options": [
+        {
+          "text": "只确定大致方向，到了再灵活安排",
+          "score": "P"
+        },
+        {
+          "text": "制定详细行程表和备选方案",
+          "score": "J"
+        },
+        {
+          "text": "独自研究攻略，默默做准备",
+          "score": "I"
+        },
+        {
+          "text": "召集朋友一起规划，分享期待",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "在陌生城市，你更喜欢？",
+      "options": [
+        {
+          "text": "随意漫步，发现意外惊喜",
+          "score": "N"
+        },
+        {
+          "text": "逛当地市场，和摊主聊天",
+          "score": "E"
+        },
+        {
+          "text": "按地图打卡必去景点",
+          "score": "S"
+        },
+        {
+          "text": "找个安静角落观察行人",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "旅行中遇到语言障碍，你会？",
+      "options": [
+        {
+          "text": "打开翻译软件精准交流",
+          "score": "T"
+        },
+        {
+          "text": "顺其自然，相信能解决",
+          "score": "P"
+        },
+        {
+          "text": "用肢体语言和微笑努力沟通",
+          "score": "F"
+        },
+        {
+          "text": "提前下载离线词典做好准备",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "选择旅行纪念品时，你倾向于？",
+      "options": [
+        {
+          "text": "有象征意义的手工艺品",
+          "score": "N"
+        },
+        {
+          "text": "只买对自己有价值的物品",
+          "score": "T"
+        },
+        {
+          "text": "实用的当地特产",
+          "score": "S"
+        },
+        {
+          "text": "给亲友带礼物分享快乐",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "旅行中的住宿，你会选？",
+      "options": [
+        {
+          "text": "设计独特的特色住处",
+          "score": "N"
+        },
+        {
+          "text": "独立的民宿，享受私密空间",
+          "score": "I"
+        },
+        {
+          "text": "热闹的青旅，方便认识旅伴",
+          "score": "E"
+        },
+        {
+          "text": "设施齐全的连锁酒店",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "面对突发天气变化（如下雨），你会？",
+      "options": [
+        {
+          "text": "按原计划冒雨出行",
+          "score": "J"
+        },
+        {
+          "text": "觉得雨中漫步也别有风味",
+          "score": "F"
+        },
+        {
+          "text": "临时改去室内景点",
+          "score": "P"
+        },
+        {
+          "text": "担心影响行程效率",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "旅行时，你通常如何安排一天？",
+      "options": [
+        {
+          "text": "列满行程，高效打卡",
+          "score": "J"
+        },
+        {
+          "text": "睡到自然醒，随心情安排",
+          "score": "P"
+        },
+        {
+          "text": "关注每个细节体验",
+          "score": "S"
+        },
+        {
+          "text": "想象下一个目的地的故事",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "旅途中，你更享受？",
+      "options": [
+        {
+          "text": "独自沉浸在风景中",
+          "score": "I"
+        },
+        {
+          "text": "分析当地历史文化背景",
+          "score": "T"
+        },
+        {
+          "text": "和同行人分享感受",
+          "score": "E"
+        },
+        {
+          "text": "感受当地的生活氛围",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "选择旅行目的地，你优先考虑？",
+      "options": [
+        {
+          "text": "自己挖掘的小众地方",
+          "score": "I"
+        },
+        {
+          "text": "有明确攻略的成熟路线",
+          "score": "J"
+        },
+        {
+          "text": "朋友推荐的热门地点",
+          "score": "E"
+        },
+        {
+          "text": "充满未知的探索之旅",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "旅行结束后，你会？",
+      "options": [
+        {
+          "text": "写私密日记记录心情",
+          "score": "I"
+        },
+        {
+          "text": "整理实用攻略供他人参考",
+          "score": "S"
+        },
+        {
+          "text": "发朋友圈分享照片和故事",
+          "score": "E"
+        },
+        {
+          "text": "创作旅行感悟或手账",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "旅行中做决策时，你习惯？",
+      "options": [
+        {
+          "text": "提前定好规则避免分歧",
+          "score": "J"
+        },
+        {
+          "text": "听取大家意见再决定",
+          "score": "F"
+        },
+        {
+          "text": "临时根据情况灵活决定",
+          "score": "P"
+        },
+        {
+          "text": "权衡利弊后理性选择",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "旅途中最让你满足的是？",
+      "options": [
+        {
+          "text": "对世界有了全新的想象与认知",
+          "score": "N"
+        },
+        {
+          "text": "解决了旅途中的复杂问题",
+          "score": "T"
+        },
+        {
+          "text": "感受到人与人之间的温暖连接",
+          "score": "F"
+        },
+        {
+          "text": "体验到当地的真实生活细节",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Organized Planner Traveler",
+      "description": "You thrive on detailed itineraries, researching every destination thoroughly to ensure no detail is missed. Reliable accommodations and strict schedules turn your trips into smooth, well-executed adventures. Your practicality and focus on tradition make you the go-to for stress-free, memorable journeys.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Caring Companion Traveler",
+      "description": "You prioritize others’ comfort, always ensuring companions feel included and cared for. You seek meaningful experiences that create shared memories, from local family meals to community events. Your warmth turns every trip into a heartwarming journey of connection.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Visionary Explorer Traveler",
+      "description": "You seek destinations with depth, drawn to hidden cultural gems and stories that challenge your perspective. You imagine the bigger picture, turning trips into journeys of self-discovery and understanding. Your intuition guides you to places that resonate with your soul.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Strategic Adventurer Traveler",
+      "description": "You approach travel with a strategic mindset, planning high-reward adventures that others might shy away from. Whether scaling a remote peak or navigating a complex city, you thrive on solving challenges and achieving goals with precision and logic.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Hands-On Explorer Traveler",
+      "description": "You learn by doing—whether cooking local dishes, fixing a broken bike, or navigating backroads. Spontaneous and adaptable, you turn unexpected detours into the best parts of your trip, relying on practical skills to make each day an adventure.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Artistic Wanderer Traveler",
+      "description": "You see the world as a canvas, drawn to vibrant colors, textures, and sounds. You wander without agenda, letting your senses guide you to hidden cafes, street art, or quiet beaches. Every moment is a chance to capture beauty in the ordinary.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Idealistic Dreamer Traveler",
+      "description": "You seek destinations that align with your values, drawn to stories of resilience, creativity, and human connection. You journal about your experiences, finding meaning in small interactions and imagining how travel can make the world kinder.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Curious Analyst Traveler",
+      "description": "You dive deep into a destination’s history, science, or culture, asking questions that uncover hidden patterns. Museums, libraries, and local experts are your favorite stops—you return home with a mind full of facts and new theories to explore.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Spontaneous Thrill-Seeker Traveler",
+      "description": "You live for the rush of unplanned adventures—booking a last-minute bus ticket, trying extreme sports, or joining a local festival. Your energy draws others in, turning strangers into friends and every day into a story worth telling.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Social Butterfly Traveler",
+      "description": "You thrive on meeting new people, from hostel roommates to street vendors. You’re the life of the group, organizing impromptu gatherings and turning every meal into a celebration. For you, travel is about the connections you make along the way.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Enthusiastic Explorer Traveler",
+      "description": "You approach every destination with childlike wonder, eager to try new foods, learn new phrases, and experience local traditions. Your optimism is contagious, turning even rainy days into opportunities for adventure and discovery.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Innovative Trailblazer Traveler",
+      "description": "You hate tourist traps—instead, you create your own path, whether by hiking unmarked trails or inventing unique itineraries. You love debating travel hacks and challenging the status quo, turning trips into experiments in creativity.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Practical Leader Traveler",
+      "description": "You take charge of group trips, ensuring everyone stays on schedule and within budget. Your organizational skills make complex logistics look easy, and you’re quick to solve problems, making you the most reliable travel companion.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Hosting Harmonizer Traveler",
+      "description": "You turn every trip into a community experience, organizing group meals, game nights, and cultural workshops. You remember everyone’s preferences, ensuring no one feels left out, and your warmth creates a home away from home.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Inspiring Guide Traveler",
+      "description": "You see travel as a tool to inspire others, sharing stories of local heroes, environmental efforts, or cultural resilience. You lead with empathy, encouraging companions to step outside their comfort zones and grow through new experiences.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Commanding Voyager Traveler",
+      "description": "You set ambitious travel goals—visiting 10 countries in a year, mastering a local language, or completing a challenging expedition. You make decisions quickly, stay focused on objectives, and turn dreams of adventure into reality with unwavering determination.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "✈️",
     "🗺️",

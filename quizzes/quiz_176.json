@@ -2,20 +2,350 @@
   "quizId": 176,
   "title": "Which Harry Potter Character Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover which Harry Potter character matches your personality!",
   "tags": [
     "Harry Potter",
-    ",\n ",
     "Hogwarts",
-    ",\n ",
     "Wizarding World",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover which Harry Potter character matches your personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "On a free Saturday morning at Hogwarts, you'd rather...",
+      "options": [
+        {
+          "text": "Organize your potion ingredients, sorting them by how often you use each one",
+          "score": "S"
+        },
+        {
+          "text": "Chat with friends in the common room, reliving the latest Quidditch match highlights",
+          "score": "E"
+        },
+        {
+          "text": "Stare out the window, daydreaming about hidden passageways Hogwarts might still hide",
+          "score": "N"
+        },
+        {
+          "text": "Browse the library for a book on Ancient Runes, reading quietly in a corner",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "In Potions class, your partner accidentally adds the wrong ingredient, making the cauldron smoke. You...",
+      "options": [
+        {
+          "text": "Improvise—mix water with a quick Obliviate charm to see if it clears the smoke",
+          "score": "P"
+        },
+        {
+          "text": "Comfort your flustered partner first, then work together to clean up the mess",
+          "score": "F"
+        },
+        {
+          "text": "Follow steps: put out the smoke, note the mistake, then inform the professor",
+          "score": "J"
+        },
+        {
+          "text": "Calmly figure out where they went wrong, flipping through the textbook for a fix",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The school hosts a debate on 'House-Elf Rights.' You...",
+      "options": [
+        {
+          "text": "Jot down notes quietly, then share thoughtful points in small group discussions",
+          "score": "I"
+        },
+        {
+          "text": "Analyze historical magical laws, debating rights vs. societal stability",
+          "score": "T"
+        },
+        {
+          "text": "Raise your hand to speak, using lively examples to argue your stance",
+          "score": "E"
+        },
+        {
+          "text": "Focus on their emotional needs, arguing freedom matters more than duty",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "During Quidditch practice, the captain asks for new战术 ideas. You suggest...",
+      "options": [
+        {
+          "text": "Letting everyone experiment with random plays—see what works naturally",
+          "score": "P"
+        },
+        {
+          "text": "A never-tried aerial pattern that uses wind shifts to surprise the opponent",
+          "score": "N"
+        },
+        {
+          "text": "Studying the other team's last match to target their weak spots with a defensive formation",
+          "score": "S"
+        },
+        {
+          "text": "A detailed practice schedule, drilling each part until the tactic is flawless",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "A friend's birthday is coming up. You gift them...",
+      "options": [
+        {
+          "text": "A carefully planned gift based on their hobbies, wrapped neatly and delivered on time",
+          "score": "J"
+        },
+        {
+          "text": "A small surprise party with all their close friends, full of laughter",
+          "score": "E"
+        },
+        {
+          "text": "A hand-sewn scarf with a warming charm—practical and useful for Hogsmeade trips",
+          "score": "S"
+        },
+        {
+          "text": "A heartfelt letter, listing your favorite memories of your time together",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "During summer break at home, you're most likely to...",
+      "options": [
+        {
+          "text": "Compare Muggle technology to magic, writing an analysis of their similarities",
+          "score": "T"
+        },
+        {
+          "text": "Reread your favorite magical theory book, adding detailed notes in the margins",
+          "score": "I"
+        },
+        {
+          "text": "Go with the flow—some days visit Diagon Alley, others mess with simple potions at home",
+          "score": "P"
+        },
+        {
+          "text": "Try inventing a new minor charm—even if it flops, it’s fun to experiment",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Hogwarts holds a 'Most Creative Magic' contest. You present...",
+      "options": [
+        {
+          "text": "An interactive show where you teach the audience a simple Transfiguration spell",
+          "score": "E"
+        },
+        {
+          "text": "Impromptu spell combinations with random ingredients to see what happens",
+          "score": "P"
+        },
+        {
+          "text": "A music box that plays memories—inviting others to share their happiest moments",
+          "score": "F"
+        },
+        {
+          "text": "A modified crystal ball that predicts weather using star charts and ancient magic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your group needs to write a research paper on dragons. You take charge of...",
+      "options": [
+        {
+          "text": "Making a strict schedule, assigning tasks so everyone finishes their part on time",
+          "score": "J"
+        },
+        {
+          "text": "Analyzing attack patterns of different breeds, creating a defense strategy chart",
+          "score": "T"
+        },
+        {
+          "text": "Digging through restricted section books alone, compiling precise dragon breed data",
+          "score": "I"
+        },
+        {
+          "text": "Visiting Hagrid’s hut to observe the Norwegian Ridgeback, noting its daily habits",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You encounter a tricky magical problem—like a locked door you can’t open. You...",
+      "options": [
+        {
+          "text": "Sit alone by the door, studying its carvings and surroundings for hidden clues",
+          "score": "I"
+        },
+        {
+          "text": "List all possible spells, rank them by success rate, and test them one by one",
+          "score": "J"
+        },
+        {
+          "text": "Gather friends to brainstorm, bouncing ideas off each other to find a solution",
+          "score": "E"
+        },
+        {
+          "text": "Grab random items nearby—feathers, stones—and see if they trigger the lock",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In Potions, you’re making Felix Felicis (Liquid Luck). You...",
+      "options": [
+        {
+          "text": "Check on your partner, offering to handle the trickier steps to ease their stress",
+          "score": "F"
+        },
+        {
+          "text": "Follow the textbook exactly, measuring each ingredient to the last drop",
+          "score": "S"
+        },
+        {
+          "text": "Swap one ingredient to see if it speeds up brewing without losing potency",
+          "score": "N"
+        },
+        {
+          "text": "Calculate reaction times for each step, reordering them to make the process faster",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "The school ball is approaching. How do you prepare?",
+      "options": [
+        {
+          "text": "Buy comfortable dancing shoes and a outfit that fits the theme and moves well",
+          "score": "S"
+        },
+        {
+          "text": "Decide that morning if you’ll go—find a partner on the spot and dance spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Ask a friend to be your date, planning to practice dances and pick outfits together",
+          "score": "E"
+        },
+        {
+          "text": "Study dance rhythms and techniques, figuring out which style suits you best",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "After graduation, your ideal career would be...",
+      "options": [
+        {
+          "text": "Inventing new magical objects that make witches’ and wizards’ lives easier",
+          "score": "N"
+        },
+        {
+          "text": "Researching ancient magic in the Department of Mysteries, working mostly alone",
+          "score": "I"
+        },
+        {
+          "text": "Running the Magical Law Enforcement Squad, creating clear rules for order",
+          "score": "J"
+        },
+        {
+          "text": "Teaching at Hogwarts, helping students discover their own magical strengths",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Hermione Granger",
+      "description": "You’re the strategic, quick-witted problem-solver of the wizarding world. Like Hermione, you value knowledge, plan meticulously, and never back down from a challenge. You combine logic with determination, turning research into action—whether it’s brewing Polyjuice Potion or leading a rebellion. Your mind is your greatest weapon, and you use it to protect what matters most.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Harry Potter",
+      "description": "You’re the quiet hero with a calm, practical spirit. Like Harry, you thrive in the moment, trusting your instincts to guide you through danger. You’re not one for grand speeches—you let your actions speak, whether disarming a Dark wizard or standing up for friends. Loyalty and courage define you, and you face adversity with a steady hand and unwavering heart.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Ron Weasley",
+      "description": "You’re the outgoing, down-to-earth friend everyone needs. Like Ron, you bring warmth and humor to every group, turning even the darkest days into adventures. You’re practical but adaptable, whether playing Quidditch or navigating the Chamber of Secrets. Your loyalty is unshakable, and you find joy in the simple things—like a good joke or a plate of treacle tart.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Albus Dumbledore",
+      "description": "You’re the wise, visionary leader who sees the best in others. Like Dumbledore, you inspire with quiet strength, guiding friends and strangers alike toward hope. You balance creativity with compassion, using your wisdom to tackle even the darkest magic. Your belief in love and courage is unwavering, and you know that light always prevails—even in the smallest acts of kindness.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Severus Snape",
+      "description": "You’re the complex, misunderstood soul with a depth few see. Like Snape, you guard your heart behind a stoic exterior, but your loyalty runs deep. You’re driven by a quiet purpose, willing to sacrifice everything for the ones you love. Your mind is sharp, your memory long, and you see truths others miss—even if the world never knows your full story.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Ginny Weasley",
+      "description": "You’re the bold, adventurous spirit who lives in the moment. Like Ginny, you’re confident and quick on your feet, whether dueling Death Eaters or scoring goals in Quidditch. You hate being underestimated, and you tackle life with a fearless energy that draws others to you. You’re fiercely independent, but your heart is always with your friends and family.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Luna Lovegood",
+      "description": "You’re the dreamy, creative soul who sees the world differently. Like Luna, you embrace your uniqueness, finding magic in the overlooked and beauty in the unusual. You’re kind and intuitive, offering wisdom that others dismiss—until they realize you’re right. Your faith in the impossible keeps you hopeful, and you remind everyone that being different is a gift, not a flaw.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Neville Longbottom",
+      "description": "You’re the steady, loyal friend who grows stronger with time. Like Neville, you’re quiet but resilient, standing firm when others falter. You value tradition and duty, whether tending to your Mimbulus Mimbletonia or leading the DA in battle. Your kindness and patience make you a rock for others, and your courage—though slow to bloom—shines brightest when it matters most.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Draco Malfoy",
+      "description": "You’re the ambitious, decisive leader who values order and legacy. Like Draco, you carry the weight of expectations but aren’t afraid to take charge. You’re practical and results-driven, whether navigating Hogwarts politics or protecting your family. Beneath the pride lies a complexity—you’re learning that true strength isn’t in power, but in choosing what’s right, even when it’s hard.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Sirius Black",
+      "description": "You’re the witty, rebellious free spirit who defies the rules. Like Sirius, you’re charming and quick with a joke, but you’re also fiercely protective of those you love. You hate being caged, whether by Azkaban walls or society’s expectations. You live boldly, embracing adventure and refusing to let the past define you—because to you, freedom is worth fighting for.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Remus Lupin",
+      "description": "You’re the thoughtful, analytical mind with a gentle heart. Like Lupin, you’re博学且内敛, sharing wisdom only when it matters most. You see the world through a lens of curiosity, whether studying werewolf lore or teaching Defense Against the Dark Arts. You’re humble about your strengths, but your ability to think critically and empathize makes you a trusted guide to those lucky enough to know you.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Nymphadora Tonks",
+      "description": "You’re the warm, energetic friend who lights up any room. Like Tonks, you’re social and adaptable, changing your hair color or mood to match the moment. You care deeply about others, going out of your way to make them smile—whether through a silly prank or a listening ear. Your loyalty and enthusiasm make you the glue that holds your friend group together, and your heart is always open.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Fred Weasley",
+      "description": "You’re the creative, optimistic prankster with a heart of gold. Like Fred, you see life as a playground, turning ordinary days into adventures with a well-timed joke or a new Weasley product. You’re passionate and quick to inspire others, whether rallying the DA or cheering up a friend. Your energy is contagious, and you believe that laughter is the best magic of all.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Minerva McGonagall",
+      "description": "You’re the disciplined, reliable leader who values structure and respect. Like McGonagall, you’re strict but fair, expecting the best from yourself and others. You take pride in tradition, whether upholding Hogwarts rules or teaching Transfiguration with precision. Beneath your stern exterior lies a deep care—you’ll fight fiercely to protect your students, even if you never say it out loud.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Rubeus Hagrid",
+      "description": "You’re the kind, hands-on soul who finds joy in the simple things. Like Hagrid, you’re practical and nurturing, whether tending to magical creatures or cooking rock cakes for friends. You see the good in everyone—even misunderstood beasts—and you believe in second chances. Your loyalty is unwavering, and your heart is as big as the Forbidden Forest, making you a friend to all who need one.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Cedric Diggory",
+      "description": "You’re the kind, honorable leader who puts others first. Like Cedric, you’re fair and compassionate, whether helping a first-year or sharing victory with a competitor. You value integrity above all, and your calm confidence makes others look up to you. You believe in teamwork and respect, proving that true strength lies in kindness—and that even in darkness, goodness can shine bright.",
+      "mbti": "ESFJ"
+    }
+  ],
   "emoji": [
     "⚡",
     "🧙",

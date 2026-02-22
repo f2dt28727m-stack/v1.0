@@ -2,20 +2,350 @@
   "quizId": 182,
   "title": "Which Travel Style Matches Your Personality?",
   "category": "pick",
+  "description": "Answer 12 questions to discover your Travel personality!",
   "tags": [
     "Travel",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Travel Preferences",
-    ",\n ",
     "Adventure"
   ],
-  "description": "Answer 12 questions to discover your Travel personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When choosing accommodation, you prefer...",
+      "options": [
+        {
+          "text": "A热闹的青年旅社，方便认识新朋友",
+          "score": "E"
+        },
+        {
+          "text": "安静的独立民宿，享受独处空间",
+          "score": "I"
+        },
+        {
+          "text": "设施齐全的连锁酒店，注重舒适度",
+          "score": "S"
+        },
+        {
+          "text": "特色主题民宿，充满独特设计感",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Planning a trip, you usually...",
+      "options": [
+        {
+          "text": "只确定大致目的地，每天随心情探索",
+          "score": "P"
+        },
+        {
+          "text": "提前制定详细行程，包括每日时间安排",
+          "score": "J"
+        },
+        {
+          "text": "对比多个平台，选择性价比最高的方案",
+          "score": "T"
+        },
+        {
+          "text": "优先考虑同伴的兴趣，让大家都开心",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite travel activity is...",
+      "options": [
+        {
+          "text": "在安静的咖啡馆看书，观察当地人生活",
+          "score": "I"
+        },
+        {
+          "text": "参加当地的市集或节庆活动，融入人群",
+          "score": "E"
+        },
+        {
+          "text": "参观历史博物馆或古迹，了解具体历史",
+          "score": "S"
+        },
+        {
+          "text": "徒步到山顶看日出，感受自然的壮丽",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When selecting a destination, you value...",
+      "options": [
+        {
+          "text": "是否有未知惊喜，喜欢即兴发现新地方",
+          "score": "P"
+        },
+        {
+          "text": "当地居民的友好程度，希望有温暖互动",
+          "score": "F"
+        },
+        {
+          "text": "交通便利性和安全指数，数据说话",
+          "score": "T"
+        },
+        {
+          "text": "景点开放时间和最佳游览季节，提前规划",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If your flight is delayed, you...",
+      "options": [
+        {
+          "text": "拿出备用计划，按备选方案行动",
+          "score": "J"
+        },
+        {
+          "text": "顺其自然，把它当作旅行的一部分体验",
+          "score": "P"
+        },
+        {
+          "text": "冷静分析原因，迅速寻找替代方案",
+          "score": "T"
+        },
+        {
+          "text": "安抚同行者情绪，一起想办法解决",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You prefer to travel with...",
+      "options": [
+        {
+          "text": "独自一人，自由安排，不受打扰",
+          "score": "I"
+        },
+        {
+          "text": "一群朋友，热闹有趣，分享体验",
+          "score": "E"
+        },
+        {
+          "text": "家人，熟悉的人一起更安心",
+          "score": "S"
+        },
+        {
+          "text": "志同道合的旅伴，能交流深度想法",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you record travel memories?",
+      "options": [
+        {
+          "text": "发社交动态，和朋友实时分享",
+          "score": "E"
+        },
+        {
+          "text": "默默记在心里，偶尔翻看照片回味",
+          "score": "I"
+        },
+        {
+          "text": "用相机拍详细照片，记录具体细节",
+          "score": "S"
+        },
+        {
+          "text": "写旅行日记，记录感受和思考",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Choosing transportation, you tend to...",
+      "options": [
+        {
+          "text": "考虑同伴是否舒适，选择大家都喜欢的",
+          "score": "F"
+        },
+        {
+          "text": "对比速度和价格，选择最优组合",
+          "score": "T"
+        },
+        {
+          "text": "提前订好直达航班，节省时间",
+          "score": "J"
+        },
+        {
+          "text": "随机选择火车或巴士，享受沿途风景",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your attitude towards travel food is...",
+      "options": [
+        {
+          "text": "体验融合料理，感受创新和文化碰撞",
+          "score": "N"
+        },
+        {
+          "text": "尝试当地特色小吃，注重口味和口感",
+          "score": "S"
+        },
+        {
+          "text": "和当地居民一起用餐，听他们讲美食故事",
+          "score": "E"
+        },
+        {
+          "text": "找安静的小店，独自品尝不被打扰",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How much preparation do you do before a trip?",
+      "options": [
+        {
+          "text": "只带少量行李，缺什么再当地买",
+          "score": "P"
+        },
+        {
+          "text": "列出详细清单，打包所有必需品",
+          "score": "J"
+        },
+        {
+          "text": "研究当地天气和习俗，做好实用准备",
+          "score": "T"
+        },
+        {
+          "text": "和去过的朋友聊天，获取感性建议",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You prefer which travel weather?",
+      "options": [
+        {
+          "text": "安静的秋日，适合独自散步思考",
+          "score": "I"
+        },
+        {
+          "text": "热闹的夏日，适合参加户外派对",
+          "score": "E"
+        },
+        {
+          "text": "有变化的天气，比如雨后彩虹或雾中风景",
+          "score": "N"
+        },
+        {
+          "text": "晴朗稳定的天气，适合户外活动",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "After the trip, you...",
+      "options": [
+        {
+          "text": "随性放着，等想回忆时再翻出来",
+          "score": "P"
+        },
+        {
+          "text": "整理照片和纪念品，归档成旅行手册",
+          "score": "J"
+        },
+        {
+          "text": "总结这次旅行的优缺点，为下次做参考",
+          "score": "T"
+        },
+        {
+          "text": "和亲友分享旅行中的暖心故事",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Organized Itinerary Planner",
+      "description": "You thrive on structure and efficiency—your travel plans are color-coded, with every minute accounted for. You prioritize practicality, from booking reliable transportation to choosing centrally located hotels. You love leading group trips, ensuring everyone stays on schedule while making sure no must-see landmark is missed. Your ideal trip blends productivity with tradition, like a well-planned European city tour with pre-booked museum tickets.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Warmhearted Group Coordinator",
+      "description": "Travel for you is about connection—you organize trips to bring people together, from family reunions to friend getaways. You remember everyone’s dietary needs, book group dinners, and make sure no one feels left out. You’re drawn to destinations with rich cultural experiences, where you can interact with locals and create shared memories. Your suitcase is packed with little gifts for new friends you’ll meet along the way.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Inspirational Journey Guide",
+      "description": "You see travel as a chance to uplift others—you plan trips with purpose, whether volunteering abroad or exploring places with meaningful stories. You’re the one researching local legends, arranging meetups with community leaders, and turning every walk into a lesson. Your travel style is warm and enthusiastic, and you thrive on helping companions see the world through a more empathetic lens.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Spontaneous Adventure Seeker",
+      "description": "You travel with a heart full of curiosity and a bag half-packed—you’d rather wing it than stick to a plan. You’re drawn to off-the-beaten-path destinations, where you can stumble upon hidden waterfalls or join a local festival last minute. You make friends with strangers on trains, change plans based on a random recommendation, and believe the best memories are the unplanned ones. Your ideal trip is a mix of chaos, creativity, and endless possibility.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Thrill-Seeking Explorer",
+      "description": "You live for the rush of new experiences—skydiving over a tropical island, hiking active volcanoes, or racing through a bustling night market. You’re practical but bold, preferring hands-on adventures over passive sightseeing. You adapt quickly to changes, turning flight delays into impromptu city tours, and love meeting locals who can show you the ‘real’ side of a place. Your travel motto: ‘Why watch when you can participate?’",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Vibrant Cultural Immerser",
+      "description": "You travel to feel alive—dancing at a street carnival, learning to cook local dishes, or joining a drum circle on the beach. You’re the life of the group, turning even a simple walk into a celebration. You prioritize sensory experiences: the smell of street food, the sound of live music, the feel of a bustling market. You rarely plan more than a day ahead, preferring to follow the energy of the moment.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Curious Idea Explorer",
+      "description": "You travel to challenge your mind—debating politics with a local philosopher, exploring futuristic architecture, or solving the ‘puzzle’ of a new city’s public transit. You’re drawn to destinations with intellectual history, like ancient libraries or innovation hubs. You love debating the best way to explore, turning map-reading into a strategy game, and thrive on unexpected detours that spark new ideas.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Strategic Visionary Traveler",
+      "description": "You approach travel like a mission—setting goals (climb a mountain, learn a phrase in 5 languages) and executing with precision. You research destinations for their long-term value, whether networking opportunities or cultural insights that boost your perspective. You lead group trips with confidence, turning vague ideas into actionable plans, and see travel as a way to expand your influence and knowledge.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Reliable Cultural Historian",
+      "description": "You travel to learn and preserve—you meticulously research a destination’s history before arriving, book tickets to heritage sites months in advance, and take detailed notes on every museum exhibit. You prefer low-key, predictable trips: a cozy bed and breakfast, a guided walking tour, and evenings spent reading about the day’s discoveries. Your suitcase is packed with a first-aid kit, travel adapter, and a well-worn guidebook.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturing Comfort Traveler",
+      "description": "You travel to create comfort for yourself and others—you book stays with homey touches (fresh flowers, homemade breakfast), pack familiar snacks for the journey, and remember to call family to check in. You prefer destinations with gentle pace, like a coastal village or a quiet mountain town, where you can connect with locals over tea and listen to their stories. Your favorite travel memories are the small, heartfelt moments: a shared laugh with a host, a sunset viewed from a porch.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Intuitive Soul Searcher",
+      "description": "You travel to connect with something deeper—whether a sacred forest, a historic temple, or a quiet beach where you can reflect. You’re drawn to destinations with spiritual or artistic significance, and often keep a travel journal to record your inner thoughts. You prefer small, meaningful interactions over crowded attractions, and might spend hours in a quiet café writing or sketching. Your ideal trip is a balance of solitude and soulful connection.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreamy Wanderer",
+      "description": "You travel with your head in the clouds and a heart full of wonder—you’re drawn to places that feel like they belong in a storybook: a cobblestone village in Tuscany, a misty mountain lake, or a bookstore-lined street in Paris. You prioritize experiences that feed your imagination, like stargazing in the desert or attending a poetry reading in a local library. You often get lost (on purpose) to discover hidden gems, and your travel memories are stored as vivid, emotional snapshots.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Hands-On Adventure Engineer",
+      "description": "You travel to tinker, fix, and experience—you’d rather rent a motorcycle and fix it yourself than take a guided tour, or build a campfire from scratch instead of staying in a hotel. You’re drawn to remote destinations where you can test your skills: backpacking through a rainforest, surfing big waves, or restoring an old cabin. You’re quiet but resourceful, turning travel challenges into puzzles to solve, and find joy in the process of figuring things out.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artistic Sensation Traveler",
+      "description": "You travel to soak in beauty—you notice the way light hits a mountain at dawn, the texture of handwoven textiles, or the melody of a street musician’s song. You’re drawn to destinations with vibrant art scenes, from street murals in Berlin to traditional crafts in Kyoto. You prefer slow travel: wandering a botanical garden, painting a landscape, or spending an afternoon in a pottery workshop. Your suitcase is full of art supplies and small treasures you’ve collected.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Analytical Explorer",
+      "description": "You travel to understand systems—how a city’s transportation network works, why a culture developed certain traditions, or the science behind a natural phenomenon. You’re drawn to destinations with unique geography or history, like Iceland’s geothermal fields or ancient ruins in Peru. You spend hours reading research papers before a trip, and your travel companions often turn to you for ‘fun facts’ about everything from local flora to architectural styles.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Visionary Solo Voyager",
+      "description": "You travel to expand your strategic vision—you plan trips to places that challenge your assumptions, whether a cutting-edge tech hub or a remote community with innovative solutions. You prefer solo travel, as it lets you dive deep into your interests without distractions. You set ambitious goals (hike the Inca Trail, learn basic coding in a foreign language) and map out every step to achieve them. Your travel journal is filled with diagrams, observations, and ideas for future projects inspired by your journey.",
+      "mbti": "INTJ"
+    }
+  ],
   "emoji": [
     "✈️",
     "🗺️",

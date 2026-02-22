@@ -2,20 +2,350 @@
   "quizId": 200,
   "title": "Which Food Personality Type Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Food Personality Type!",
   "tags": [
     "Food Personality",
-    ",\n ",
     "Culinary Habits",
-    ",\n ",
     "Eating Preferences",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Foodie"
   ],
-  "description": "Answer 12 questions to discover your Food Personality Type!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When choosing a restaurant for dinner, you prioritize...",
+      "options": [
+        {
+          "text": "A place known for fresh, high-quality ingredients",
+          "score": "S"
+        },
+        {
+          "text": "Going somewhere with friends to share dishes and chat",
+          "score": "E"
+        },
+        {
+          "text": "A new spot with unique fusion dishes you’ve never tried",
+          "score": "N"
+        },
+        {
+          "text": "A quiet spot where you can enjoy your meal alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When cooking at home, you tend to...",
+      "options": [
+        {
+          "text": "Throw together ingredients based on what’s in the fridge that day",
+          "score": "P"
+        },
+        {
+          "text": "Follow a strict recipe step by step to ensure perfection",
+          "score": "J"
+        },
+        {
+          "text": "Opt for meals with balanced macros and nutritional value",
+          "score": "T"
+        },
+        {
+          "text": "Choose recipes that remind you of childhood meals",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "At a potluck, you’re most likely to bring...",
+      "options": [
+        {
+          "text": "Something that has a story, like your grandma’s secret recipe",
+          "score": "F"
+        },
+        {
+          "text": "A bold, experimental recipe you just came up with",
+          "score": "N"
+        },
+        {
+          "text": "A dish you’ve made many times before, knowing it’s crowd-pleasing",
+          "score": "S"
+        },
+        {
+          "text": "Something that matches what others are bringing to avoid duplicates",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you decide what to eat on a busy day?",
+      "options": [
+        {
+          "text": "Stay in and eat something simple while watching a show alone",
+          "score": "I"
+        },
+        {
+          "text": "Stick to your pre-planned meal prep to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Call a friend to meet up for a quick bite together",
+          "score": "E"
+        },
+        {
+          "text": "Grab whatever looks good in the fridge, no plan needed",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When trying a new cuisine, you’re drawn to...",
+      "options": [
+        {
+          "text": "Researching online reviews to pick the most highly rated spot",
+          "score": "T"
+        },
+        {
+          "text": "Learning about its traditional cooking methods and history",
+          "score": "S"
+        },
+        {
+          "text": "Asking locals for their personal recommendations",
+          "score": "E"
+        },
+        {
+          "text": "Imagining how to combine it with your favorite flavors",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal weekend meal involves...",
+      "options": [
+        {
+          "text": "Having a set schedule: brunch at 10, picnic at 2, dinner at 7",
+          "score": "J"
+        },
+        {
+          "text": "Cooking an elaborate meal with family, sharing stories as you go",
+          "score": "F"
+        },
+        {
+          "text": "Eating alone in a cozy café with a book",
+          "score": "I"
+        },
+        {
+          "text": "Experimenting with a new recipe without worrying about the outcome",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When a friend suggests a new restaurant, you...",
+      "options": [
+        {
+          "text": "Hesitate, preferring to stick to places you know you’ll like",
+          "score": "I"
+        },
+        {
+          "text": "Get excited about the unique concept or chef’s background",
+          "score": "N"
+        },
+        {
+          "text": "Agree immediately—you love trying new places with others",
+          "score": "E"
+        },
+        {
+          "text": "Check the menu for familiar, reliable dishes first",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about leftovers?",
+      "options": [
+        {
+          "text": "You get sentimental—leftovers remind you of the fun meal you had",
+          "score": "F"
+        },
+        {
+          "text": "You rarely have leftovers since you cook just enough for the moment",
+          "score": "P"
+        },
+        {
+          "text": "You plan meals specifically to have leftovers for the next day",
+          "score": "J"
+        },
+        {
+          "text": "You calculate their nutritional value to avoid food waste",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "At a food festival, you spend most of your time...",
+      "options": [
+        {
+          "text": "Seeking out the most unusual or innovative food stalls",
+          "score": "N"
+        },
+        {
+          "text": "Talking to vendors and other attendees about their favorite dishes",
+          "score": "E"
+        },
+        {
+          "text": "Exploring quietly, focusing on trying as many samples as possible",
+          "score": "I"
+        },
+        {
+          "text": "Trying classic dishes you know you’ll enjoy",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When cooking for others, you...",
+      "options": [
+        {
+          "text": "Adjust ingredients based on what’s fresh that day",
+          "score": "P"
+        },
+        {
+          "text": "Make sure everyone’s dietary preferences are considered",
+          "score": "F"
+        },
+        {
+          "text": "Follow the recipe exactly to ensure it turns out well",
+          "score": "J"
+        },
+        {
+          "text": "Choose a recipe that’s efficient and easy to scale",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite food memories are tied to...",
+      "options": [
+        {
+          "text": "The stories and people you shared the meal with",
+          "score": "N"
+        },
+        {
+          "text": "Large gatherings where you laughed and ate with friends",
+          "score": "E"
+        },
+        {
+          "text": "Specific tastes and textures you can still vividly recall",
+          "score": "S"
+        },
+        {
+          "text": "Quiet moments alone with a comforting dish",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When planning a vacation, you prioritize...",
+      "options": [
+        {
+          "text": "Leaving meals unplanned to discover hidden local spots",
+          "score": "P"
+        },
+        {
+          "text": "Trying foods that reflect the destination’s culture and history",
+          "score": "T"
+        },
+        {
+          "text": "Booking restaurants in advance to ensure you don’t miss out",
+          "score": "J"
+        },
+        {
+          "text": "Choosing places where you can share meals with locals",
+          "score": "F"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Traditionalist",
+      "description": "You find comfort in timeless flavors and proven recipes. You value fresh, quality ingredients and stick to dishes that have stood the test of time. Whether it’s a family recipe or a classic dish, you believe the best meals are rooted in tradition and reliability.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Nurturer",
+      "description": "For you, food is a language of care. You love cooking for others, remembering their favorite flavors, and creating meals that warm both body and heart. You find joy in seeing loved ones savor every bite, turning ordinary meals into cherished moments.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Visionary",
+      "description": "You see food as a canvas for creativity and meaning. You’re drawn to dishes with stories, whether they’re tied to culture, innovation, or personal growth. You love exploring how food connects people and ideas, always seeking meals that inspire and resonate deeply.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Strategist",
+      "description": "You approach food with purpose and foresight. You plan meals for nutrition, efficiency, and long-term satisfaction, often researching recipes and ingredients to optimize every bite. For you, a well-designed meal is both practical and rewarding.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Craftsman",
+      "description": "You thrive on hands-on cooking and the art of technique. You enjoy experimenting with tools and methods, whether it’s perfecting a knife skill or mastering a complex cooking process. For you, the joy is in the process as much as the final dish.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Artist",
+      "description": "You experience food through the senses—colors, textures, and aromas guide your choices. You’re drawn to visually stunning dishes and unique flavor combinations, finding beauty in the way ingredients come together to create something memorable.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Idealist",
+      "description": "Food for you is a reflection of your values and imagination. You seek meals that align with your beliefs, whether it’s sustainability, ethical sourcing, or creative expression. You often daydream about new flavor pairings and the stories behind every ingredient.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Analyst",
+      "description": "You love dissecting food—its origins, chemistry, and cultural context. You’re curious about why certain flavors work together and enjoy researching the science behind cooking. For you, understanding the 'why' makes every meal more interesting.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Adventurer",
+      "description": "You live for the thrill of trying new foods. From street food in a foreign market to a bold new restaurant in your city, you’re always up for a culinary challenge. You thrive on spontaneity, letting your taste buds lead the way.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Entertainer",
+      "description": "Meals are a party, and you’re the host. You love lively restaurants, sharing plates, and trying new dishes with a group. For you, food is about connection and fun— the more laughter and shared bites, the better.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Campaigner",
+      "description": "You’re passionate about food as a source of joy and inspiration. You love discovering hidden gems, sharing your favorite spots with friends, and getting excited about new culinary trends. Every meal feels like an adventure waiting to be shared.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Debater",
+      "description": "You love debating food—Which cuisine is most innovative? What’s the best way to cook a steak? You thrive on intellectual discussions about flavors, techniques, and trends, always eager to challenge assumptions and explore new ideas.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Supervisor",
+      "description": "You’re the organized master of meal planning. You create weekly menus, shop efficiently, and ensure every meal is balanced and on schedule. For you, a well-run kitchen and consistent, satisfying meals are the keys to a happy life.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Consul",
+      "description": "You excel at bringing people together through food. You remember everyone’s dietary needs, plan menus that please a crowd, and turn gatherings into memorable events. For you, the best meals are those that make everyone feel welcome and cared for.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Protagonist",
+      "description": "You see food as a tool to unite and inspire. You love organizing potlucks, cooking classes, or community meals, using food to build connections and lift others up. For you, every meal is an opportunity to create positive change.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Commander",
+      "description": "You take charge in the kitchen and at the table. You’re decisive about what to cook or order, often introducing others to bold new flavors and pushing them to step outside their comfort zones. For you, food is a way to lead and inspire.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "🍕",
     "🍳",

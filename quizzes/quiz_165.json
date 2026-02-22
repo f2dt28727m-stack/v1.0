@@ -2,20 +2,350 @@
   "quizId": 165,
   "title": "Which BLACKPINK Personality Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your BLACKPINK personality!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "K-pop Idol"
   ],
-  "description": "Answer 12 questions to discover your BLACKPINK personality!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When hanging out with friends, you’d rather...",
+      "options": [
+        {
+          "text": "Host a lively game night with lots of laughter",
+          "score": "E"
+        },
+        {
+          "text": "Have a quiet dinner with 1-2 close friends",
+          "score": "I"
+        },
+        {
+          "text": "Plan a day trip to a nearby café or park",
+          "score": "S"
+        },
+        {
+          "text": "Discuss new ideas for a fun project together",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Before a big performance, you focus on...",
+      "options": [
+        {
+          "text": "Practicing each dance move until it’s perfect",
+          "score": "S"
+        },
+        {
+          "text": "Imagining how the audience will react to the energy",
+          "score": "N"
+        },
+        {
+          "text": "Checking off a to-do list of prep tasks",
+          "score": "J"
+        },
+        {
+          "text": "Going with the flow and trusting your instincts",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "When solving a group conflict, you...",
+      "options": [
+        {
+          "text": "Listen to everyone’s feelings to find common ground",
+          "score": "F"
+        },
+        {
+          "text": "Point out logical solutions to fix the issue",
+          "score": "T"
+        },
+        {
+          "text": "Suggest a structured plan to resolve it step by step",
+          "score": "J"
+        },
+        {
+          "text": "Let the conversation unfold naturally to find balance",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal weekend involves...",
+      "options": [
+        {
+          "text": "Exploring a new art exhibit or trying a dance class",
+          "score": "N"
+        },
+        {
+          "text": "Organizing your closet or cooking a detailed recipe",
+          "score": "S"
+        },
+        {
+          "text": "Calling a friend to catch up for hours",
+          "score": "E"
+        },
+        {
+          "text": "Reading a book or journaling in a quiet corner",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When creating music, you’re drawn to...",
+      "options": [
+        {
+          "text": "Writing lyrics that tell a specific, relatable story",
+          "score": "S"
+        },
+        {
+          "text": "Experimenting with unique sounds and futuristic beats",
+          "score": "N"
+        },
+        {
+          "text": "Collaborating with others to bounce ideas around",
+          "score": "E"
+        },
+        {
+          "text": "Working alone to refine every note until it feels right",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Facing a tight deadline, you...",
+      "options": [
+        {
+          "text": "Prioritize tasks and stick to a strict schedule",
+          "score": "J"
+        },
+        {
+          "text": "Stay calm and adjust plans as needed",
+          "score": "P"
+        },
+        {
+          "text": "Ask teammates for help to meet the goal together",
+          "score": "F"
+        },
+        {
+          "text": "Break the project into logical steps to stay on track",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "How do you recharge after a busy week?",
+      "options": [
+        {
+          "text": "Spending time with a large group of friends",
+          "score": "E"
+        },
+        {
+          "text": "Taking a long walk alone to clear your mind",
+          "score": "I"
+        },
+        {
+          "text": "Watching a movie or trying a new hobby",
+          "score": "S"
+        },
+        {
+          "text": "Daydreaming about future goals or creative ideas",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When giving feedback to a friend, you...",
+      "options": [
+        {
+          "text": "Focus on their feelings to avoid hurting them",
+          "score": "F"
+        },
+        {
+          "text": "Be honest about what needs improvement",
+          "score": "T"
+        },
+        {
+          "text": "Prepare specific examples to make your point clear",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow and keep the conversation casual",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you excel at...",
+      "options": [
+        {
+          "text": "Organizing tasks and keeping everyone on track",
+          "score": "J"
+        },
+        {
+          "text": "Adapting to changes and finding last-minute solutions",
+          "score": "P"
+        },
+        {
+          "text": "Connecting with teammates to boost morale",
+          "score": "F"
+        },
+        {
+          "text": "Analyzing problems to find the most efficient fix",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "What excites you most about a new opportunity?",
+      "options": [
+        {
+          "text": "The chance to meet new people and collaborate",
+          "score": "E"
+        },
+        {
+          "text": "The quiet focus of mastering a new skill alone",
+          "score": "I"
+        },
+        {
+          "text": "The concrete steps you can take to succeed",
+          "score": "S"
+        },
+        {
+          "text": "The potential to grow and explore new possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When choosing an outfit, you prioritize...",
+      "options": [
+        {
+          "text": "Comfort and practicality for the day’s activities",
+          "score": "S"
+        },
+        {
+          "text": "Expressing your unique style and creativity",
+          "score": "N"
+        },
+        {
+          "text": "Planning it the night before to avoid stress",
+          "score": "J"
+        },
+        {
+          "text": "Picking something on a whim based on your mood",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle criticism?",
+      "options": [
+        {
+          "text": "Reflect on how it can help you grow",
+          "score": "T"
+        },
+        {
+          "text": "Acknowledge the other person’s perspective first",
+          "score": "F"
+        },
+        {
+          "text": "Write down actionable steps to improve",
+          "score": "J"
+        },
+        {
+          "text": "Take time to process it before making changes",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Confident Leader",
+      "description": "You’re a natural leader with a bold presence, just like BLACKPINK’s stage energy. You thrive in the spotlight, inspire others with your passion, and balance logic with empathy to keep the team united. Your structured yet flexible approach makes you reliable, and your ability to think ahead ensures success in every challenge.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Visionary",
+      "description": "You see the world through a creative lens, always dreaming up new ideas and unique ways to express yourself. Like BLACKPINK’s innovative music, you blend imagination with purpose, turning abstract concepts into something tangible. You value deep connections and use your intuition to guide both personal and team goals.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Loyal Supporter",
+      "description": "You’re the heart of any group, always putting others first and creating a warm, inclusive environment. Like BLACKPINK’s bond, you prioritize harmony and go out of your way to lift teammates up. Your practical nature and attention to detail make you the person everyone turns to for reliability and care.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Strategic Thinker",
+      "description": "You approach life with calm logic and a focus on long-term goals, much like the precision in BLACKPINK’s performances. You analyze situations thoroughly, prefer structure, and excel at solving complex problems. Your quiet confidence and dedication make you a steady force in any team.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Free-Spirited Innovator",
+      "description": "You’re a spontaneous creator who thrives on new experiences and creative freedom. Like BLACKPINK’s dynamic stage presence, you adapt easily to change and find joy in exploring uncharted territory. Your ability to think outside the box and connect with others makes you a source of fresh energy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Sensitive Dreamer",
+      "description": "You have a deep inner world, filled with empathy and a love for meaningful connections. Like BLACKPINK’s emotional lyrics, you express yourself authentically and care deeply about others’ feelings. Your intuition guides you to see the beauty in small moments and inspire those around you.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Practical Artist",
+      "description": "You combine creativity with a grounded approach, turning ideas into reality through careful craftsmanship. Like BLACKPINK’s attention to detail in performances, you focus on the specifics, ensuring every project is both beautiful and functional. Your quiet passion and reliability make you a hidden gem in any team.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Analytical Explorer",
+      "description": "You’re a curious thinker who loves solving puzzles and understanding how things work. Like BLACKPINK’s experimental sound, you enjoy exploring new concepts and challenging the status quo. Your logical mind and independent spirit make you a problem-solver who thrives on intellectual challenges.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Energetic Performer",
+      "description": "You light up any room with your enthusiasm and love for connecting with others. Like BLACKPINK’s high-energy performances, you thrive in social settings and bring excitement to every project. Your adaptability and quick thinking make you a natural at keeping the momentum going, even in unexpected situations.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Charismatic Connector",
+      "description": "You’re a people-person who builds bridges and fosters community, much like BLACKPINK’s global appeal. You excel at bringing people together, using your warmth and empathy to create strong bonds. Your organized yet flexible approach ensures everyone feels valued and motivated.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Bold Experimenter",
+      "description": "You’re unafraid to take risks and push boundaries, always seeking new ways to innovate. Like BLACKPINK’s genre-blending music, you thrive on challenges and love debating ideas to spark creativity. Your quick wit and strategic mind make you a dynamic force in any collaborative setting.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Calm Problem-Solver",
+      "description": "You stay cool under pressure and excel at finding practical solutions, much like BLACKPINK’s ability to handle high-stakes performances. You prefer hands-on work, using your technical skills to fix issues and keep things running smoothly. Your independent nature and focus make you a reliable problem-solver.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Determined Achiever",
+      "description": "You set high goals and work tirelessly to reach them, driven by a strong sense of purpose. Like BLACKPINK’s dedication to their craft, you’re organized, efficient, and take pride in delivering results. Your logical approach and leadership skills make you a natural at guiding teams to success.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Adaptable Dynamo",
+      "description": "You thrive in fast-paced environments and love the thrill of new challenges. Like BLACKPINK’s ability to switch between concepts, you’re quick on your feet and excel at thinking on the spot. Your practicality and charisma make you a go-to for last-minute solutions and exciting adventures.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Compassionate Mentor",
+      "description": "You have a gift for lifting others up and helping them grow, much like BLACKPINK’s supportive team dynamic. You listen deeply, offer thoughtful advice, and create a safe space for vulnerability. Your empathy and intuition make you a trusted confidant and a source of inspiration.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Detail-Oriented Perfectionist",
+      "description": "You have an eye for precision and take pride in making everything count, like the intricate details in BLACKPINK’s choreography. You focus on the small things, ensuring quality in every task, and value structure to stay on track. Your dedication and reliability make you a cornerstone of any project.",
+      "mbti": "ISTJ"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

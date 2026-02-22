@@ -2,20 +2,350 @@
   "quizId": 170,
   "title": "Which BLACKPINK Vibe Matches Your Personality?",
   "category": "pick",
+  "description": "Answer 12 questions to discover which BLACKPINK vibe matches yours!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Vibe"
   ],
-  "description": "Answer 12 questions to discover which BLACKPINK vibe matches yours!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "How do you prefer to enjoy BLACKPINK's music?",
+      "options": [
+        {
+          "text": "Blast it with friends and sing along loudly",
+          "score": "E"
+        },
+        {
+          "text": "Listen alone with headphones, savoring every lyric",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the beat and choreography details",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the story or message behind the song",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When planning a group hangout to watch a BLACKPINK concert",
+      "options": [
+        {
+          "text": "Check what everyone else is in the mood for first",
+          "score": "F"
+        },
+        {
+          "text": "Pick the most convenient time and place for everyone",
+          "score": "T"
+        },
+        {
+          "text": "Create a detailed schedule with snacks and seating",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow and decide when everyone arrives",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You hear about a new BLACKPINK dance challenge online. You...",
+      "options": [
+        {
+          "text": "Gather friends to learn and film it together",
+          "score": "E"
+        },
+        {
+          "text": "Practice alone until you nail every move",
+          "score": "I"
+        },
+        {
+          "text": "Follow step-by-step tutorials to get it right",
+          "score": "S"
+        },
+        {
+          "text": "Add your own twists to make it unique",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "After a long day, you unwind by...",
+      "options": [
+        {
+          "text": "Calling a friend to chat about your day",
+          "score": "F"
+        },
+        {
+          "text": "Listing tasks to tackle tomorrow to feel in control",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to your usual routine like reading or stretching",
+          "score": "J"
+        },
+        {
+          "text": "Doing something random, like baking or exploring a new park",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Choosing an outfit for a BLACKPINK-themed party, you go for...",
+      "options": [
+        {
+          "text": "Something bold and eye-catching to stand out",
+          "score": "E"
+        },
+        {
+          "text": "Comfortable and simple, not too flashy",
+          "score": "I"
+        },
+        {
+          "text": "Practical pieces that let you dance and move easily",
+          "score": "S"
+        },
+        {
+          "text": "Unique accessories or colors that reflect your style",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend disagrees with your favorite BLACKPINK song. You...",
+      "options": [
+        {
+          "text": "Ask why they feel that way to understand their perspective",
+          "score": "F"
+        },
+        {
+          "text": "Explain the song's lyrics and production to back your choice",
+          "score": "T"
+        },
+        {
+          "text": "Suggest a compromise by listening to both songs",
+          "score": "J"
+        },
+        {
+          "text": "Laugh it off and change the subject to avoid conflict",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal weekend plans involve...",
+      "options": [
+        {
+          "text": "Going to a fan meetup or K-pop event with a group",
+          "score": "E"
+        },
+        {
+          "text": "Staying home to rewatch BLACKPINK interviews",
+          "score": "I"
+        },
+        {
+          "text": "Trying a new café that plays K-pop music",
+          "score": "S"
+        },
+        {
+          "text": "Planning a future trip to Seoul to see BLACKPINK live",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Learning a new skill, like playing a BLACKPINK song on guitar, you...",
+      "options": [
+        {
+          "text": "Ask a friend to learn with you for motivation",
+          "score": "F"
+        },
+        {
+          "text": "Focus on the most efficient techniques to progress fast",
+          "score": "T"
+        },
+        {
+          "text": "Set a daily practice time and track your progress",
+          "score": "J"
+        },
+        {
+          "text": "Play around with chords and see what sounds good",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A friend gives you a BLACKPINK merch as a surprise gift. You...",
+      "options": [
+        {
+          "text": "Hug them and gush about how much you love it",
+          "score": "E"
+        },
+        {
+          "text": "Thank them softly but genuinely, smiling warmly",
+          "score": "I"
+        },
+        {
+          "text": "Notice the quality and how you'll use it daily",
+          "score": "S"
+        },
+        {
+          "text": "Appreciate the thought and what it says about your friendship",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "In a team project about BLACKPINK's impact, you take charge of...",
+      "options": [
+        {
+          "text": "Leading group discussions and keeping everyone engaged",
+          "score": "E"
+        },
+        {
+          "text": "Researching data and facts quietly on your own",
+          "score": "I"
+        },
+        {
+          "text": "Organizing tasks and making sure deadlines are met",
+          "score": "S"
+        },
+        {
+          "text": "Brainstorming creative angles to present the topic",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When feeling stressed about a big event, you...",
+      "options": [
+        {
+          "text": "Talk to someone about your worries to feel better",
+          "score": "F"
+        },
+        {
+          "text": "Break down the problem into small steps to solve it",
+          "score": "T"
+        },
+        {
+          "text": "Stick to your pre-planned routine to stay calm",
+          "score": "J"
+        },
+        {
+          "text": "Take a short walk or listen to music to clear your head",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a BLACKPINK song to cover, you pick...",
+      "options": [
+        {
+          "text": "A popular hit that everyone will sing along to",
+          "score": "E"
+        },
+        {
+          "text": "A deep cut with lyrics that resonate personally",
+          "score": "I"
+        },
+        {
+          "text": "One with a catchy melody that's easy to learn",
+          "score": "S"
+        },
+        {
+          "text": "A song with complex emotions or storytelling",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Sparkling Performer",
+      "description": "You thrive in the spotlight, just like BLACKPINK’s dynamic stage presence. Energetic and outgoing, you light up any room with your enthusiasm. You love connecting with others, whether through music, dance, or laughter, and your spontaneous spirit makes every moment feel exciting. You’re an ESFP—vibrant, playful, and always ready to shine.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Quiet Dreamer",
+      "description": "You’re introspective and deeply in touch with your emotions, much like the soulful side of BLACKPINK’s music. You value meaning and authenticity, often lost in thought or daydreams. You care deeply about others but prefer quiet moments of connection over large crowds. You’re an INFP—idealistic, creative, and guided by your heart.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Practical Leader",
+      "description": "You’re organized, reliable, and take charge when needed, mirroring BLACKPINK’s disciplined work ethic. You focus on facts and efficiency, ensuring tasks get done right and on time. Others look to you for guidance, and you thrive in structured environments. You’re an ESTJ—decisive, responsible, and a natural leader.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Creative Visionary",
+      "description": "You see possibilities others miss, like BLACKPINK’s innovative concepts and bold artistry. Curious and quick-witted, you love brainstorming ideas and challenging the status quo. You’re always thinking ahead, turning abstract thoughts into exciting plans. You’re an ENTP—clever, adaptable, and a born innovator.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Nurturing Guardian",
+      "description": "You’re the heart of your group, offering support and care like BLACKPINK’s bond with their fans. You notice small details about others’ needs and go out of your way to help. Reliable and compassionate, you create a sense of warmth wherever you go. You’re an ISFJ—loyal, generous, and dedicated to others.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Strategic Architect",
+      "description": "You’re a big-picture thinker with a plan, much like BLACKPINK’s calculated rise to global stardom. Logical and independent, you thrive on solving complex problems and setting long-term goals. You’re confident in your ideas and work tirelessly to turn them into reality. You’re an INTJ—visionary, analytical, and determined.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Charismatic Mentor",
+      "description": "You inspire others with your warmth and vision, like BLACKPINK empowering their fans. You’re natural at bringing people together, encouraging growth, and making everyone feel valued. You blend empathy with leadership, creating a positive impact wherever you go. You’re an ENFJ—charismatic, supportive, and a catalyst for change.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Adaptable Craftsman",
+      "description": "You’re hands-on and quick to adapt, much like BLACKPINK’s ability to master diverse genres. You prefer action over words, solving problems with practical skills and a calm demeanor. You enjoy learning through experience and thrive in dynamic, unplanned situations. You’re an ISTP—resourceful, cool-headed, and a natural problem-solver.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Bold Risk-Taker",
+      "description": "You live for excitement and new challenges, mirroring BLACKPINK’s fearless approach to their craft. Spontaneous and confident, you’re always up for trying something new, whether it’s a dance trend or a bold fashion choice. You thrive in the moment and turn every experience into an adventure. You’re an ESTP—energetic, bold, and ready for anything.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Analytical Thinker",
+      "description": "You love diving into ideas and understanding how things work, like dissecting BLACKPINK’s music production. Curious and logical, you enjoy debating concepts and exploring new theories. You prefer deep conversations over small talk and value knowledge above all. You’re an INTP—intellectual, innovative, and a lifelong learner.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Reliable Organizer",
+      "description": "You’re the backbone of any team, with a knack for structure and precision, much like BLACKPINK’s polished performances. You take pride in being dependable, following through on promises, and keeping things in order. You value tradition and stability, making others feel secure. You’re an ISTJ—responsible, detail-oriented, and trustworthy.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Artistic Sensitive",
+      "description": "You see beauty in the world around you, like BLACKPINK’s visually stunning music videos. Creative and in touch with your senses, you express yourself through art, music, or style. You value authenticity and find joy in simple, meaningful moments. You’re an ISFP—artistic, gentle, and deeply in tune with your surroundings.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Warm Harmonizer",
+      "description": "You excel at bringing people together, creating harmony like BLACKPINK’s group chemistry. Friendly and approachable, you go out of your way to make others feel included. You’re the glue that holds your circle together, always ready to lend a listening ear. You’re an ESFJ—sociable, caring, and a natural peacemaker.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Enthusiastic Idealist",
+      "description": "You’re充满激情和乐观，就像BLACKPINK传递的正能量。你对新想法充满好奇，总是看到可能性，并用热情感染周围的人。你热爱探索和分享，让平凡的日子变得充满意义。你是ENFP——富有想象力、热情洋溢，是梦想的追求者。",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Decisive Commander",
+      "description": "You’re a natural leader with a clear vision, much like BLACKPINK’s bold artistic direction. Confident and strategic, you make tough decisions with ease and inspire others to follow. You’re driven by goals and thrive on achieving success. You’re an ENTJ—assertive, visionary, and a force to be reckoned with.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Insightful Counselor",
+      "description": "You have a deep understanding of people and their emotions, like BLACKPINK’s ability to connect with fans on a personal level. Intuitive and compassionate, you offer wise advice and create a safe space for others to open up. You’re guided by empathy and a desire to help others grow. You’re an INFJ—insightful, caring, and a quiet force of good.",
+      "mbti": "INFJ"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

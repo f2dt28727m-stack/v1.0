@@ -2,20 +2,350 @@
   "quizId": 198,
   "title": "Your Future Career: What Path Awaits You?",
   "category": "future",
+  "description": "Answer 12 questions to discover your future career!",
   "tags": [
     "Career",
-    ",\n ",
     "Future Career",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality",
-    ",\n ",
     "Career Path"
   ],
-  "description": "Answer 12 questions to discover your future career!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "Which work environment makes you feel most productive?",
+      "options": [
+        {
+          "text": "A quiet, independent office where you can focus without distractions",
+          "score": "I"
+        },
+        {
+          "text": "A vibrant open space with team members collaborating and sharing ideas",
+          "score": "E"
+        },
+        {
+          "text": "An environment with clear tools, resources, and practical workflows",
+          "score": "S"
+        },
+        {
+          "text": "A creative setting that encourages exploring new ideas and possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you approach solving a challenging work problem?",
+      "options": [
+        {
+          "text": "You adapt quickly, adjusting your strategy based on new information as it comes",
+          "score": "P"
+        },
+        {
+          "text": "You prioritize the team’s feelings, ensuring everyone feels heard in the solution",
+          "score": "F"
+        },
+        {
+          "text": "You follow a detailed plan, step-by-step, to avoid mistakes",
+          "score": "J"
+        },
+        {
+          "text": "You analyze the facts objectively to find the most logical solution",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "What drives your career goals?",
+      "options": [
+        {
+          "text": "Becoming a respected expert in your field through logical problem-solving",
+          "score": "T"
+        },
+        {
+          "text": "Making a positive difference in people’s lives through your work",
+          "score": "F"
+        },
+        {
+          "text": "Gaining recognition and influence as a leader in your industry",
+          "score": "E"
+        },
+        {
+          "text": "Achieving personal growth and mastery without seeking the spotlight",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to learn new skills?",
+      "options": [
+        {
+          "text": "By diving in and learning through hands-on trial and error",
+          "score": "P"
+        },
+        {
+          "text": "By studying theories and connecting ideas to see the bigger picture",
+          "score": "N"
+        },
+        {
+          "text": "By following a structured course with clear milestones and deadlines",
+          "score": "J"
+        },
+        {
+          "text": "By practicing with real-world examples to build practical expertise",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you naturally take on the role of...",
+      "options": [
+        {
+          "text": "The idea generator, suggesting innovative approaches and future possibilities",
+          "score": "N"
+        },
+        {
+          "text": "The quiet contributor, focusing on your tasks and offering support when needed",
+          "score": "I"
+        },
+        {
+          "text": "The organizer, keeping everyone on track with clear action steps",
+          "score": "S"
+        },
+        {
+          "text": "The motivator, encouraging collaboration and keeping the energy high",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle work-related stress?",
+      "options": [
+        {
+          "text": "You list tasks by priority and tackle them one by one to regain control",
+          "score": "J"
+        },
+        {
+          "text": "You step back, do something enjoyable, and return with a fresh perspective",
+          "score": "P"
+        },
+        {
+          "text": "You talk to a trusted colleague to vent and gain emotional support",
+          "score": "F"
+        },
+        {
+          "text": "You break down the problem to identify the root cause and fix it logically",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "What’s most important to you in a job?",
+      "options": [
+        {
+          "text": "A supportive team where people care about each other’s well-being",
+          "score": "F"
+        },
+        {
+          "text": "Opportunities to network and connect with influential people in your field",
+          "score": "E"
+        },
+        {
+          "text": "Clear growth paths and fair compensation for your skills",
+          "score": "T"
+        },
+        {
+          "text": "A role that lets you work independently with minimal interruptions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "How do you manage your daily work schedule?",
+      "options": [
+        {
+          "text": "You focus on the big picture, adjusting tasks based on what feels most important that day",
+          "score": "N"
+        },
+        {
+          "text": "You plan your week in advance, with set times for each task to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "You go with the flow, letting priorities shift as new tasks arise",
+          "score": "P"
+        },
+        {
+          "text": "You create a detailed to-do list, checking off items as you complete them",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When facing a career challenge, you...",
+      "options": [
+        {
+          "text": "Brainstorm creative, outside-the-box solutions to overcome it",
+          "score": "N"
+        },
+        {
+          "text": "Reach out to others for input and collaborate on finding a solution",
+          "score": "E"
+        },
+        {
+          "text": "Rely on past experiences to apply proven strategies",
+          "score": "S"
+        },
+        {
+          "text": "Spend time alone researching and analyzing to find the best approach",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "What makes you feel most accomplished at work?",
+      "options": [
+        {
+          "text": "Successfully solving a complex problem with logical precision",
+          "score": "T"
+        },
+        {
+          "text": "Completing a project exactly as planned, on time and error-free",
+          "score": "J"
+        },
+        {
+          "text": "Helping a colleague or client feel supported and valued",
+          "score": "F"
+        },
+        {
+          "text": "Discovering a new opportunity or idea while working flexibly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to communicate with colleagues?",
+      "options": [
+        {
+          "text": "Through concise messages that focus on facts and clear action items",
+          "score": "T"
+        },
+        {
+          "text": "In person or via video calls, where you can engage in dynamic conversations",
+          "score": "E"
+        },
+        {
+          "text": "Through written notes or emails, allowing you time to organize your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "With empathy, ensuring your tone makes others feel understood",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "What’s your ideal career growth path?",
+      "options": [
+        {
+          "text": "Exploring multiple fields to find unexpected passions and opportunities",
+          "score": "P"
+        },
+        {
+          "text": "Climbing a clear ladder with defined roles and promotions over time",
+          "score": "J"
+        },
+        {
+          "text": "Becoming a go-to expert in your current field through years of experience",
+          "score": "S"
+        },
+        {
+          "text": "Pursuing innovative roles that blend different skills and industries",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Financial Analyst",
+      "description": "Your future career as a Financial Analyst aligns with your detail-oriented and structured nature. You thrive on organizing data, ensuring accuracy, and creating reliable reports that guide business decisions. Your methodical approach and commitment to rules make you indispensable in managing budgets and forecasting trends. You find fulfillment in the tangible impact of your precise work.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Human Resources Advisor",
+      "description": "As a Human Resources Advisor, you’ll excel at supporting team well-being and fostering a positive workplace. Your empathetic nature and attention to others’ needs help you resolve conflicts and build strong relationships. You thrive in roles where you can nurture growth and ensure everyone feels valued, making the workplace a more harmonious space.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Counseling Psychologist",
+      "description": "Your future career as a Counseling Psychologist lets you channel your deep empathy and intuitive understanding of people. You help others navigate emotions and life challenges, using your insight to guide them toward growth. Your quiet compassion and ability to see others’ potential make you a trusted source of support and healing.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Strategic Planner",
+      "description": "As a Strategic Planner, you’ll leverage your visionary thinking and logical analysis to shape long-term goals. You excel at connecting big-picture ideas with actionable steps, anticipating future trends, and guiding organizations toward success. Your independent nature and love for complex problem-solving make you a key driver of innovation.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Mechanical Engineer",
+      "description": "Your future career as a Mechanical Engineer suits your hands-on problem-solving and practical mindset. You enjoy designing and building tangible solutions, using your technical skills to fix issues and optimize systems. Your adaptability and focus on real-world applications make you thrive in dynamic, project-based environments.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Art Therapist",
+      "description": "As an Art Therapist, you’ll blend creativity with empathy to help others express emotions through art. Your sensitive and flexible nature allows you to connect with people on a deep level, using creative expression as a tool for healing. You find joy in fostering self-discovery and growth in others through artistic exploration.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Creative Writer",
+      "description": "Your future career as a Creative Writer lets you explore ideas and emotions through storytelling. You thrive in quiet, reflective spaces, where you can dive into your imagination and craft narratives that resonate with others. Your idealistic nature and love for language make you a powerful voice for sharing meaningful stories.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Research Scientist",
+      "description": "As a Research Scientist, you’ll satisfy your curiosity by exploring theoretical concepts and solving complex problems. You enjoy delving into data, asking questions, and pushing the boundaries of knowledge. Your independent and analytical mind makes you excel at uncovering new insights and advancing scientific understanding.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Entrepreneur",
+      "description": "Your future career as an Entrepreneur suits your energetic and adaptable nature. You thrive on taking risks, seizing opportunities, and turning ideas into action. Your ability to think on your feet and connect with people makes you a natural leader, driving innovation and building ventures that make an impact.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Event Coordinator",
+      "description": "As an Event Coordinator, you’ll shine in dynamic, social environments, bringing people together through memorable experiences. Your outgoing nature and attention to detail help you plan and execute events that delight attendees. You thrive on the energy of live interactions and the satisfaction of seeing a vision come to life.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Your future career as a Marketing Specialist lets you blend creativity with people skills to tell brand stories. You excel at understanding audiences, brainstorming innovative campaigns, and adapting to changing trends. Your热情 and ability to inspire others make you a driving force in connecting brands with their communities.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Product Innovation Director",
+      "description": "As a Product Innovation Director, you’ll thrive on challenging the status quo and developing groundbreaking ideas. Your quick thinking and love for debate help you refine concepts, turning bold visions into tangible products. You excel in collaborative environments where creativity and logic intersect to drive progress.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Your future career as a Project Manager aligns with your organized and results-driven nature. You excel at leading teams, setting deadlines, and ensuring projects stay on track. Your practical approach and ability to enforce structure make you a reliable leader who delivers consistent, high-quality outcomes.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Educator",
+      "description": "As an Educator, you’ll nurture growth in others through patience and empathy. You thrive on creating supportive learning environments, adapting your teaching style to meet students’ needs. Your outgoing nature and passion for sharing knowledge make you a beloved mentor who inspires curiosity and confidence.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Leadership Coach",
+      "description": "Your future career as a Leadership Coach lets you guide others to reach their full potential. You excel at understanding people’s strengths, motivating teams, and fostering collaboration. Your charismatic and empathetic nature makes you a trusted advisor, helping leaders build inclusive and high-performing organizations.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Chief Executive Officer",
+      "description": "As a CEO, you’ll lead with vision and decisive action, driving organizations toward ambitious goals. Your strategic mindset and ability to inspire others make you a natural leader, balancing logic with big-picture thinking. You thrive on challenges, making tough decisions that shape the future of your company and industry.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "💼",
     "📈",

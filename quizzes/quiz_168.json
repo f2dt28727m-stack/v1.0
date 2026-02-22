@@ -2,20 +2,350 @@
   "quizId": 168,
   "title": "What's Your Hidden Trait Inspired by BLACKPINK?",
   "category": "hidden",
+  "description": "Answer 12 questions to discover your hidden trait inspired by BLACKPINK!",
   "tags": [
     "BLACKPINK",
-    ",\n ",
     "K-pop",
-    ",\n ",
     "Hidden Trait",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI"
   ],
-  "description": "Answer 12 questions to discover your hidden trait inspired by BLACKPINK!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "At a party with new people, you find yourself...",
+      "options": [
+        {
+          "text": "Naturally striking up conversations with strangers, feeding off the energy",
+          "score": "E"
+        },
+        {
+          "text": "Sticking to a small group, enjoying deeper chats over loud crowds",
+          "score": "I"
+        },
+        {
+          "text": "Noticing details like decor or music, focusing on the present moment",
+          "score": "S"
+        },
+        {
+          "text": "Imagining stories behind people’s outfits or personalities, lost in possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When working on a group project, you prioritize...",
+      "options": [
+        {
+          "text": "Making sure everyone feels heard and motivated",
+          "score": "F"
+        },
+        {
+          "text": "Setting clear goals and ensuring tasks are completed efficiently",
+          "score": "T"
+        },
+        {
+          "text": "Following the agreed timeline to avoid last-minute stress",
+          "score": "J"
+        },
+        {
+          "text": "Adapting to new ideas that pop up, even if it changes the plan",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If you had a free afternoon, you’d rather...",
+      "options": [
+        {
+          "text": "Try a new dance class with friends, craving shared excitement",
+          "score": "E"
+        },
+        {
+          "text": "Read a book or journal, savoring quiet time alone",
+          "score": "I"
+        },
+        {
+          "text": "Organize your closet or cook a meal from a recipe, enjoying hands-on tasks",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about future trips or write a story, exploring possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When solving a problem, you tend to...",
+      "options": [
+        {
+          "text": "Consider how each solution affects the people involved",
+          "score": "F"
+        },
+        {
+          "text": "Weigh the logic and practical outcomes of each choice",
+          "score": "T"
+        },
+        {
+          "text": "Break it down into steps and tackle one at a time",
+          "score": "J"
+        },
+        {
+          "text": "Brainstorm freely, letting ideas flow before narrowing down",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At a concert, you’re most likely to...",
+      "options": [
+        {
+          "text": "Sing along loudly, dancing and connecting with the crowd",
+          "score": "E"
+        },
+        {
+          "text": "Soak in the music quietly, focusing on the lyrics and emotions",
+          "score": "I"
+        },
+        {
+          "text": "Notice the stage design, lighting, and choreography details",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the story the performance is trying to tell",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When receiving feedback, you react by...",
+      "options": [
+        {
+          "text": "Wondering if the person feels heard, even if the feedback is critical",
+          "score": "F"
+        },
+        {
+          "text": "Asking for specific examples to understand how to improve",
+          "score": "T"
+        },
+        {
+          "text": "Creating a to-do list to fix the issues right away",
+          "score": "J"
+        },
+        {
+          "text": "Reflecting on it casually, taking time to process before acting",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a friend group, you’re known for...",
+      "options": [
+        {
+          "text": "Planning outings and keeping everyone connected",
+          "score": "E"
+        },
+        {
+          "text": "Listening more than talking, remembering small details about others",
+          "score": "I"
+        },
+        {
+          "text": "Bringing practical help, like snacks or directions",
+          "score": "S"
+        },
+        {
+          "text": "Coming up with creative ideas for new adventures",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When making a big decision, you...",
+      "options": [
+        {
+          "text": "Think about how it aligns with your values and relationships",
+          "score": "F"
+        },
+        {
+          "text": "Research facts and pros/cons to make a logical choice",
+          "score": "T"
+        },
+        {
+          "text": "Set a deadline and stick to it, avoiding拖延",
+          "score": "J"
+        },
+        {
+          "text": "Leave room for last-minute changes if better options arise",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "If you learn a new skill, you prefer to...",
+      "options": [
+        {
+          "text": "Practice with others, getting tips and feedback",
+          "score": "E"
+        },
+        {
+          "text": "Learn at your own pace, using tutorials alone",
+          "score": "I"
+        },
+        {
+          "text": "Follow step-by-step instructions to master the basics",
+          "score": "S"
+        },
+        {
+          "text": "Experiment and try new variations once you know the basics",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When stressed, you cope by...",
+      "options": [
+        {
+          "text": "Calling a friend to vent and feel supported",
+          "score": "F"
+        },
+        {
+          "text": "Analyzing the problem to find a solution quickly",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to your routine, like exercising or cleaning",
+          "score": "J"
+        },
+        {
+          "text": "Doing something spontaneous, like a walk or watching a random show",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a debate, you’re more likely to...",
+      "options": [
+        {
+          "text": "Focus on understanding the other person’s perspective",
+          "score": "F"
+        },
+        {
+          "text": "Present facts and logical arguments to support your point",
+          "score": "T"
+        },
+        {
+          "text": "Prepare notes beforehand to stay on track",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, responding to points as they come up",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal weekend involves...",
+      "options": [
+        {
+          "text": "Hosting a game night or going out with a big group",
+          "score": "E"
+        },
+        {
+          "text": "Staying in, maybe with one close friend or just yourself",
+          "score": "I"
+        },
+        {
+          "text": "Doing a tangible activity, like gardening or fixing something",
+          "score": "S"
+        },
+        {
+          "text": "Exploring a new hobby or brainstorming future goals",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Resilient Spark",
+      "description": "Beneath your calm exterior lies a fire that never fades. Like BLACKPINK’s ability to rise from challenges, you turn setbacks into fuel. You quietly persist, trusting your inner strength to carry you through. Your hidden trait? Unshakable resilience that inspires others without fanfare. You're an ISTJ—grounded, reliable, and a silent force of perseverance.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Creative Alchemist",
+      "description": "You see the world as a canvas, turning ordinary moments into magic. Like BLACKPINK’s innovative music and style, you blend ideas in unexpected ways. Your mind is a playground of possibilities, and you secretly craft beauty from chaos. Your hidden trait? A creative spark that transforms the mundane into something extraordinary. You're an ENFP—curious, imaginative, and a natural innovator.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Quiet Leader",
+      "description": "You don’t seek the spotlight, but others naturally follow. Like BLACKPINK’s members who lead with quiet confidence, you guide through example and empathy. You listen deeply, then step up when needed, making sure everyone’s voice matters. Your hidden trait? A leadership style that unites without command. You're an INFJ—insightful, compassionate, and a quiet catalyst for change.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Logical Dreamer",
+      "description": "You balance big dreams with sharp logic, like BLACKPINK’s mix of ambition and strategy. You imagine grand possibilities but ground them in practical steps. Others see you as realistic, but you’re secretly mapping out futures others can’t yet see. Your hidden trait? Bridging creativity and logic to turn vision into reality. You're an INTJ—strategic, visionary, and a master of execution.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Heartfelt Connector",
+      "description": "You’re the glue that holds people together, even when no one notices. Like BLACKPINK’s bond as a group, you remember birthdays, fears, and hopes, making others feel seen. Your warmth is quiet but profound, turning acquaintances into lifelong friends. Your hidden trait? An ability to nurture connections that last. You're an ISFJ—caring, loyal, and the heart of any circle.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Adaptive Chameleon",
+      "description": "Change doesn’t faze you—in fact, you thrive on it. Like BLACKPINK’s versatility across genres, you adapt to new environments, roles, and challenges with ease. You’re equally comfortable leading a team or supporting from the sidelines. Your hidden trait? A flexibility that makes you unshakable in any situation. You're an ESFP—spontaneous, adaptable, and a natural at rolling with the punches.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Analytical Empath",
+      "description": "You feel deeply but think clearly, a rare mix like BLACKPINK’s ability to balance emotion and precision. You understand others’ pain but also see solutions they miss. You’re the friend who offers both a hug and a plan. Your hidden trait? Merging heart and mind to heal and help. You're an INFP—idealistic, perceptive, and a bridge between feelings and action.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Bold Visionary",
+      "description": "You dream loudly and chase fiercely, unafraid to stand out. Like BLACKPINK’s fearless stage presence, you embrace your uniqueness and inspire others to do the same. You see limits as challenges to break, not barriers. Your hidden trait? A courage to be unapologetically yourself. You're an ESTP—confident, bold, and a trailblazer in your own right.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Steady Rock",
+      "description": "In chaos, you’re the calm center everyone leans on. Like BLACKPINK’s consistent work ethic, you show up reliably, no matter the pressure. You don’t seek praise, but your dependability makes you irreplaceable. Your hidden trait? A quiet strength that stabilizes those around you. You're an ISTP—practical, calm, and the problem-solver others turn to.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Joyful Catalyst",
+      "description": "You light up rooms without trying, spreading energy like BLACKPINK’s infectious performances. Your laughter is contagious, and you turn ordinary days into adventures. You see the bright side, even in tough times, lifting others up. Your hidden trait? A gift for turning moments into memories. You're an ESFJ—warm, outgoing, and the life of the party with a heart of gold.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Strategic Innovator",
+      "description": "You combine logic with creativity, like BLACKPINK’s ability to blend genres and business acumen. You see patterns others miss, turning ideas into actionable plans. You’re a quiet disruptor, redefining what’s possible. Your hidden trait? A mind that builds the future, one smart step at a time. You're an ENTJ—decisive, strategic, and a natural architect of success.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Gentle Rebel",
+      "description": "You march to your own beat, quietly challenging norms like BLACKPINK’s bold fashion and music choices. You don’t seek conflict, but you refuse to compromise your values. Your uniqueness is your strength, and you inspire others to embrace theirs. Your hidden trait? A quiet rebellion that reshapes the world around you. You're an INTP—analytical, independent, and a thinker who defies boxes.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Nurturing Dynamo",
+      "description": "You pour energy into lifting others up, like BLACKPINK’s support for each other. You balance passion with care, pushing friends to grow while wrapping them in warmth. You’re a force of positivity, turning setbacks into group triumphs. Your hidden trait? A ability to fuel collective success through kindness. You're an ENFJ—charismatic, supportive, and a natural mentor.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Curious Explorer",
+      "description": "You’re always hungry to learn, like BLACKPINK’s evolution across their career. You dive into new hobbies, cultures, and ideas, collecting experiences like treasures. You see life as an adventure, and your curiosity is endless. Your hidden trait? A mind that never stops growing, inspiring others to explore too. You're an ENTP—curious, witty, and a lover of intellectual adventures.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Sensitive Realist",
+      "description": "You feel the world deeply but stay grounded, like BLACKPINK’s ability to connect emotionally while staying focused. You notice small joys and sorrows, making you a compassionate friend. You balance empathy with practicality, offering both comfort and solutions. Your hidden trait? A heart that feels deeply and a mind that stays steady. You're an ISFP—artistic, empathetic, and a quiet observer of life’s beauty.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Driven Optimist",
+      "description": "You chase goals with unwavering positivity, like BLACKPINK’s rise to global stardom. You turn “I can’t” into “Watch me,” and your enthusiasm is contagious. You see challenges as opportunities, and you never lose sight of the finish line. Your hidden trait? A relentless optimism that turns dreams into reality. You're an ESTJ—driven, organized, and a leader who lights the path forward.",
+      "mbti": "ESTJ"
+    }
+  ],
   "emoji": [
     "🎤",
     "💃",

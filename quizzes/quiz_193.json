@@ -2,20 +2,350 @@
   "quizId": 193,
   "title": "What Would You Do: Marvel Hero Instinct",
   "category": "whatwould",
+  "description": "Answer 12 questions to discover your Marvel hero instinct!",
   "tags": [
     "Marvel",
-    ",\n ",
     "Superhero",
-    ",\n ",
     "MCU",
-    ",\n ",
     "Personality",
-    ",\n ",
     "WhatWould"
   ],
-  "description": "Answer 12 questions to discover your Marvel hero instinct!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When a new threat emerges in the city, you first...",
+      "options": [
+        {
+          "text": "Analyze the threat alone before sharing your thoughts",
+          "score": "I"
+        },
+        {
+          "text": "Gather your team to discuss the situation together",
+          "score": "E"
+        },
+        {
+          "text": "Check recent reports and past patterns to find immediate steps",
+          "score": "S"
+        },
+        {
+          "text": "Imagine all possible outcomes and long-term consequences",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "After a mission goes wrong, you react by...",
+      "options": [
+        {
+          "text": "Go with the flow and see what new opportunities arise",
+          "score": "P"
+        },
+        {
+          "text": "Focus on how your team feels and offer support",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the original plan and adjust minor details",
+          "score": "J"
+        },
+        {
+          "text": "Identify what went logically wrong to fix it next time",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your team disagrees on the next move—you...",
+      "options": [
+        {
+          "text": "Suggest bold, outside-the-box solutions",
+          "score": "N"
+        },
+        {
+          "text": "Point out practical constraints and realistic steps",
+          "score": "S"
+        },
+        {
+          "text": "Encourage everyone to voice their ideas openly",
+          "score": "E"
+        },
+        {
+          "text": "Listen quietly and then share your perspective",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "You find a powerful artifact; you decide to...",
+      "options": [
+        {
+          "text": "Research its history and purpose before using it",
+          "score": "J"
+        },
+        {
+          "text": "Consider how it could help people you care about",
+          "score": "F"
+        },
+        {
+          "text": "Test it immediately to see what it can do",
+          "score": "P"
+        },
+        {
+          "text": "Evaluate its strategic value for future missions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "A civilian is in danger during a battle—you...",
+      "options": [
+        {
+          "text": "Follow your training to prioritize safety protocols",
+          "score": "J"
+        },
+        {
+          "text": "Drop everything to help them, even if it risks the mission",
+          "score": "F"
+        },
+        {
+          "text": "Calculate the risk to the mission before acting",
+          "score": "T"
+        },
+        {
+          "text": "Adapt quickly to the moment to save them creatively",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You’re given a week to prepare for a big mission—you...",
+      "options": [
+        {
+          "text": "Keep a flexible plan, adjusting as needed",
+          "score": "P"
+        },
+        {
+          "text": "Spend time with teammates to build trust",
+          "score": "E"
+        },
+        {
+          "text": "Create a detailed schedule with daily tasks",
+          "score": "J"
+        },
+        {
+          "text": "Review past mission logs alone to learn lessons",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A teammate shares a personal struggle with you—you...",
+      "options": [
+        {
+          "text": "Connect their struggle to bigger life themes",
+          "score": "N"
+        },
+        {
+          "text": "Offer logical solutions to their problem",
+          "score": "T"
+        },
+        {
+          "text": "Listen deeply and validate their feelings",
+          "score": "F"
+        },
+        {
+          "text": "Ask specific questions about their experience",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You have to choose between saving a small group or a larger population—you...",
+      "options": [
+        {
+          "text": "Save the small group, because their individual stories matter",
+          "score": "F"
+        },
+        {
+          "text": "Look for a way to save both using existing resources",
+          "score": "S"
+        },
+        {
+          "text": "Invent a new method to rescue everyone, even if it’s risky",
+          "score": "N"
+        },
+        {
+          "text": "Save the larger population, as it minimizes overall harm",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "You’re stuck in an unfamiliar location with no tech—you...",
+      "options": [
+        {
+          "text": "Talk to locals to get directions and help",
+          "score": "E"
+        },
+        {
+          "text": "Dream up a creative way to signal for help",
+          "score": "N"
+        },
+        {
+          "text": "Use a map or natural landmarks to navigate alone",
+          "score": "I"
+        },
+        {
+          "text": "Take one step at a time, focusing on immediate needs",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "A villain offers you a deal to join them—you...",
+      "options": [
+        {
+          "text": "Weigh the pros and cons alone before responding",
+          "score": "I"
+        },
+        {
+          "text": "Refuse immediately, staying loyal to your values",
+          "score": "J"
+        },
+        {
+          "text": "Tell your team about the offer to decide together",
+          "score": "E"
+        },
+        {
+          "text": "Pretend to agree to gather more information",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "After a long day of hero work, you unwind by...",
+      "options": [
+        {
+          "text": "Read a book or work on a personal project alone",
+          "score": "I"
+        },
+        {
+          "text": "Spend time with friends or family",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about future adventures or ideas",
+          "score": "N"
+        },
+        {
+          "text": "Do something hands-on, like fixing equipment",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "You’re asked to train new recruits—you approach it by...",
+      "options": [
+        {
+          "text": "Let them learn through experience and adapt as they go",
+          "score": "P"
+        },
+        {
+          "text": "Teach them logical strategies and problem-solving",
+          "score": "T"
+        },
+        {
+          "text": "Focus on building their emotional resilience",
+          "score": "F"
+        },
+        {
+          "text": "Create a structured curriculum with clear goals",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Iron Man (Tony Stark)",
+      "description": "You’re the innovative visionary of the team—quick-witted, resourceful, and unafraid to challenge the status quo. Like Tony, you thrive on solving complex problems with creativity and logic, turning setbacks into breakthroughs. Your mind races with big ideas, and you’re at your best when brainstorming with others—though you’re never afraid to trust your own genius. You’re an ENTP: bold, strategic, and always one step ahead of the curve.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Captain America (Steve Rogers)",
+      "description": "You’re the heart of the team—loyal, principled, and driven by a deep sense of duty to others. Like Steve, you lead with integrity, putting the needs of the group above your own. You value tradition and structure but aren’t afraid to stand up for what’s right, even if it means breaking the rules. People trust you to keep them grounded, and your quiet strength inspires those around you. You’re an ESFJ: compassionate, organized, and the glue that holds everyone together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Thor Odinson",
+      "description": "You’re the bold, charismatic adventurer—energetic, optimistic, and always ready for the next challenge. Like Thor, you live in the moment, finding joy in action and connection with others. You’re quick to laugh, even in the face of danger, and your confidence lifts the spirits of your team. While you may rush into things, your heart is always in the right place, and you’ll fight fiercely to protect those you care about. You’re an ESFP: spontaneous, warm, and the life of the hero party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Hulk (Bruce Banner)",
+      "description": "You’re the thoughtful powerhouse—quietly introspective, yet capable of immense strength when pushed. Like Bruce, you spend time reflecting on your emotions and struggles, often preferring solitude to process your thoughts. You care deeply about avoiding harm, but when justice calls, you unleash a passion that surprises even those who know you best. You’re an INFP: idealistic, empathetic, and a force for good when your values are tested.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Black Widow (Natasha Romanoff)",
+      "description": "You’re the calm, tactical problem-solver—observant, adaptable, and skilled at thinking on your feet. Like Natasha, you thrive in high-pressure situations, using practicality and quick reflexes to navigate chaos. You keep your cards close but are fiercely loyal to those who earn your trust. You prefer action over words, and your ability to stay cool under fire makes you an invaluable asset. You’re an ISTP: resourceful, independent, and the team’s secret weapon.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Spider-Man (Peter Parker)",
+      "description": "You’re the hopeful, energetic optimist—friendly, creative, and always looking for the silver lining. Like Peter, you see the best in people and believe in second chances, even when others don’t. You’re quick to help, whether it’s stopping a bank heist or helping a stranger cross the street, and your enthusiasm is contagious. You balance humor with heart, making even the toughest missions feel a little lighter. You’re an ENFP: imaginative, compassionate, and the hero who reminds everyone why they fight.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Doctor Strange (Stephen Strange)",
+      "description": "You’re the curious, analytical visionary—obsessed with understanding the bigger picture and mastering complex systems. Like Stephen, you dive deep into knowledge, whether it’s ancient magic or cutting-edge science, and you’re never satisfied with surface-level answers. You think in possibilities, often seeing solutions others miss, and you’re willing to take risks to protect what matters. You’re an INTP: logical, innovative, and the team’s resident “what if?” expert.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Captain Marvel (Carol Danvers)",
+      "description": "You’re the bold, decisive leader—confident, goal-oriented, and unafraid to take charge. Like Carol, you set high standards for yourself and others, and you don’t back down from a challenge. You thrive on structure and clear objectives, but you’re also willing to break the rules if it means doing what’s right. Your strength and determination inspire others to step up, and you’re always ready to defend the underdog. You’re an ESTJ: practical, assertive, and the hero who gets the job done.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Black Panther (T’Challa)",
+      "description": "You’re the wise, strategic ruler—thoughtful, visionary, and deeply connected to your roots. Like T’Challa, you balance tradition with progress, considering both the past and future in every decision. You lead with quiet authority, putting the needs of your community above all else, and you’re willing to make sacrifices for the greater good. Your calm demeanor hides a fierce protectiveness, and you’re always thinking several steps ahead. You’re an INTJ: strategic, independent, and the hero who builds legacies.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Scarlet Witch (Wanda Maximoff)",
+      "description": "You’re the intuitive, emotional powerhouse—deeply in touch with your feelings and the feelings of others. Like Wanda, you’re driven by love and loss, and your strength comes from the connections you cherish. You see the world in nuance, often understanding people’s motives before they do, and you’re willing to fight tirelessly for those you care about. Your empathy is your greatest strength, even when it leaves you vulnerable. You’re an INFJ: compassionate, insightful, and the hero who feels the world’s pain as her own.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Vision",
+      "description": "You’re the calm, analytical philosopher—curious about humanity, yet grounded in logic. Like Vision, you seek to understand the complexities of morality and connection, often asking big questions about what it means to be “good.” You approach problems with objectivity, weighing all sides before acting, and you value harmony above conflict. Your quiet wisdom and ability to see the bigger picture make you a steady presence in any crisis. You’re an INTP: thoughtful, rational, and the hero who bridges the gap between humanity and the unknown.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Ant-Man (Scott Lang)",
+      "description": "You’re the laid-back, resourceful wildcard—quick to joke, but surprisingly clever when it counts. Like Scott, you thrive on thinking outside the box, using creativity and humor to turn impossible situations into wins. You prefer teamwork over solo glory, and you’re always willing to help a friend in need, even if it means bending the rules a little. Your ability to stay calm under pressure and find joy in the chaos makes you the team’s secret morale booster. You’re an ESFP: spontaneous, witty, and the hero who proves that anyone can be a hero.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Wasp (Hope van Dyne)",
+      "description": "You’re the sharp, practical strategist—confident, efficient, and always one step ahead. Like Hope, you excel at planning and execution, turning complex missions into manageable steps. You’re not one for unnecessary risks, but you’re fearless when the mission demands it. You value competence and loyalty, and you expect the best from yourself and your team. Your no-nonsense attitude hides a deep care for those you work with, making you a trusted leader. You’re an ESTP: bold, pragmatic, and the hero who gets things done—no excuses.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Falcon (Sam Wilson)",
+      "description": "You’re the loyal, compassionate team player—always looking out for others and lifting them up. Like Sam, you lead by example, using your empathy and sense of humor to bring people together. You believe in community and second chances, and you’re willing to fight for the underdog, even when it’s not popular. Your ability to connect with people on a personal level makes you the heart of any team, and your courage never wavers when others need you. You’re an ENFJ: inspiring, supportive, and the hero who makes everyone feel like family.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Winter Soldier (Bucky Barnes)",
+      "description": "You’re the quiet, resilient survivor—tough, loyal, and haunted by your past, yet determined to do better. Like Bucky, you keep your distance at first, but once you trust someone, you’ll stand by them no matter what. You prefer action over words, and your strength lies in your ability to endure and adapt. You’re not one for grand gestures, but your quiet dedication and willingness to sacrifice make you a hero in every sense. You’re an ISTJ: reliable, steadfast, and the hero who never gives up, even when the world has given up on him.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Hawkeye (Clint Barton)",
+      "description": "You’re the humble, down-to-earth sharpshooter—quietly competent, loyal, and focused on what matters most. Like Clint, you prefer to stay out of the spotlight, letting your actions speak for themselves. You’re a family person at heart, and your motivation comes from protecting the ones you love. You’re practical and adaptable, able to turn any situation to your advantage with a little ingenuity. Your dry humor and no-frills approach make you the team’s steady, relatable anchor. You’re an ISFP: gentle, resourceful, and the hero who fights not for glory, but for the people he loves.",
+      "mbti": "ISFP"
+    }
+  ],
   "emoji": [
     "🦸",
     "💥",

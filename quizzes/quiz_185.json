@@ -2,18 +2,349 @@
   "quizId": 185,
   "title": "Which Disney Character Type Are You?",
   "category": "which",
+  "description": "Answer 12 questions to discover your Disney Character Type!",
   "tags": [
     "Disney",
-    ",\n ",
     "Disney Character",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI"
   ],
-  "description": "Answer 12 questions to discover your Disney Character Type!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When you first enter a Disney park, you’re most excited to...",
+      "options": [
+        {
+          "text": "Stick to your detailed itinerary to hit all must-see rides",
+          "score": "S"
+        },
+        {
+          "text": "Chat with cast members and make new friends in line",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the stories behind the lands and create your own adventures",
+          "score": "N"
+        },
+        {
+          "text": "Explore hidden corners alone, taking in the details",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When a friend is upset after missing a Disney ride, you...",
+      "options": [
+        {
+          "text": "Suggest exploring a nearby attraction instead, keeping the day flexible",
+          "score": "P"
+        },
+        {
+          "text": "Comfort them with a hug and share your own similar story",
+          "score": "F"
+        },
+        {
+          "text": "Analyze why the ride was missed and plan a backup",
+          "score": "T"
+        },
+        {
+          "text": "Insist on following the original schedule to catch the next show",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "If you could design a Disney story, the plot would focus on...",
+      "options": [
+        {
+          "text": "A hero who stays true to their community and fulfills their duty",
+          "score": "J"
+        },
+        {
+          "text": "A group of friends working together to solve a local problem",
+          "score": "S"
+        },
+        {
+          "text": "A character discovering their unique purpose through unexpected challenges",
+          "score": "F"
+        },
+        {
+          "text": "A world where magic and imagination reshape reality",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When choosing a Disney movie to watch, you pick...",
+      "options": [
+        {
+          "text": "One with complex puzzles and strategic plot twists",
+          "score": "T"
+        },
+        {
+          "text": "A classic you’ve seen before, knowing exactly what to expect",
+          "score": "I"
+        },
+        {
+          "text": "A new release with innovative animation and bold ideas",
+          "score": "N"
+        },
+        {
+          "text": "Whatever your friends are watching, to join the conversation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At a Disney character meet-and-greet, you...",
+      "options": [
+        {
+          "text": "Ask the character about their ‘backstory’ and imagine their hidden adventures",
+          "score": "N"
+        },
+        {
+          "text": "Go with the flow, letting the interaction unfold naturally",
+          "score": "P"
+        },
+        {
+          "text": "Share a personal story that connects you to their journey",
+          "score": "F"
+        },
+        {
+          "text": "Strike up a lively conversation to make the moment memorable",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When planning a Disney-themed party, you...",
+      "options": [
+        {
+          "text": "Create a step-by-step checklist to ensure everything runs on time",
+          "score": "J"
+        },
+        {
+          "text": "Focus on practical details like food, decorations, and seating",
+          "score": "S"
+        },
+        {
+          "text": "Debate the best theme with friends based on logic and popularity",
+          "score": "T"
+        },
+        {
+          "text": "Prefer to let others take the lead and enjoy the process",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "If you were a Disney villain, your motivation would be...",
+      "options": [
+        {
+          "text": "A desire to prove your strategy is superior to others’",
+          "score": "T"
+        },
+        {
+          "text": "A need to control chaos and enforce order",
+          "score": "J"
+        },
+        {
+          "text": "Boredom with routine, craving excitement and new challenges",
+          "score": "P"
+        },
+        {
+          "text": "Wanting to share your vision with as many people as possible",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "When solving a problem in a Disney-themed escape room, you...",
+      "options": [
+        {
+          "text": "Trust your gut feeling about which clue to follow next",
+          "score": "F"
+        },
+        {
+          "text": "Organize the clues into categories to find patterns",
+          "score": "J"
+        },
+        {
+          "text": "Reflect quietly on the room’s story to uncover hidden meanings",
+          "score": "I"
+        },
+        {
+          "text": "Envision how the puzzle connects to a larger narrative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite Disney song is one that...",
+      "options": [
+        {
+          "text": "Makes you want to sing along with a crowd",
+          "score": "E"
+        },
+        {
+          "text": "Tells a personal story you can relate to emotionally",
+          "score": "F"
+        },
+        {
+          "text": "Has clever lyrics and a logical structure",
+          "score": "T"
+        },
+        {
+          "text": "You can listen to alone, getting lost in the melody",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When visiting a Disney hotel, you prioritize...",
+      "options": [
+        {
+          "text": "A flexible schedule to explore the hotel’s amenities at your own pace",
+          "score": "P"
+        },
+        {
+          "text": "Proximity to the parks and a clear morning routine",
+          "score": "J"
+        },
+        {
+          "text": "Unique decor that sparks your imagination about the hotel’s ‘story’",
+          "score": "N"
+        },
+        {
+          "text": "Comfortable beds and practical features like charging ports",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "If you could have a Disney sidekick, you’d want one who...",
+      "options": [
+        {
+          "text": "Notices small details you might miss",
+          "score": "S"
+        },
+        {
+          "text": "Challenges you to think outside the box",
+          "score": "N"
+        },
+        {
+          "text": "Loves group activities and meeting new characters",
+          "score": "E"
+        },
+        {
+          "text": "Enjoys quiet moments and deep conversations",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When reflecting on a Disney trip, you remember most...",
+      "options": [
+        {
+          "text": "How you adapted when plans changed unexpectedly",
+          "score": "P"
+        },
+        {
+          "text": "The logical flow of the day and how well you stuck to your goals",
+          "score": "T"
+        },
+        {
+          "text": "The emotions you felt during key moments, like watching a parade",
+          "score": "F"
+        },
+        {
+          "text": "The schedule you created and how efficiently you followed it",
+          "score": "J"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Cinderella Type",
+      "description": "You’re the compassionate, reliable heart of any group—much like Cinderella. You find joy in caring for others, stick to your values even when tested, and turn small acts of kindness into lasting connections. Your quiet strength and attention to detail make you a steady presence, always ready to support those around you. You’re an ISFJ—loyal, nurturing, and deeply rooted in what matters most.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Moana Type",
+      "description": "Adventurous and outgoing, you’re a natural explorer who thrives on new experiences—just like Moana. You trust your instincts, connect easily with others, and aren’t afraid to step outside your comfort zone to follow your heart. Your energy lights up a room, and you turn challenges into opportunities to grow. You’re an ESFP—spontaneous, warm, and always ready for the next adventure.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Simba Type",
+      "description": "Confident and action-oriented, you approach life with boldness and a love for excitement—much like Simba. You thrive in dynamic environments, think on your feet, and inspire others with your charisma. You learn from mistakes quickly and turn setbacks into fuel for growth. You’re an ESTP—practical, energetic, and always ready to take charge when the moment calls.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Belle Type",
+      "description": "Curious and idealistic, you see the beauty in stories and the potential in people—just like Belle. You value depth and meaning, lose yourself in books or creative pursuits, and believe in the power of empathy. You’re quiet but passionate, and your inner world is rich with ideas and dreams. You’re an INFP—compassionate, imaginative, and driven by your values.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Mulan Type",
+      "description": "Disciplined and responsible, you approach challenges with focus and a strong sense of duty—much like Mulan. You’re practical, detail-oriented, and thrive when following a clear plan. You stay calm under pressure and take pride in doing things right, even when it’s hard. You’re an ISTJ—reliable, organized, and committed to your goals.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Elsa Type",
+      "description": "Independent and visionary, you have a sharp mind and a knack for seeing the bigger picture—just like Elsa. You value your alone time to process ideas, and your creativity often leads to innovative solutions. You’re not afraid to stand apart from the crowd and trust your intuition. You’re an INTJ—strategic, imaginative, and driven by your own unique vision.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Tiana Type",
+      "description": "Hardworking and determined, you turn dreams into reality through grit and planning—much like Tiana. You’re organized, focused, and believe in the power of effort. You lead by example, inspire others with your work ethic, and never lose sight of your goals. You’re an ESTJ—practical, responsible, and a natural leader who gets things done.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Winnie the Pooh Type",
+      "description": "Gentle and artistic, you find joy in simple pleasures and deep connections—just like Pooh. You’re in tune with your emotions, appreciate the beauty of the moment, and care deeply for your loved ones. You’re quiet but warm, and your presence brings comfort to those around you. You’re an ISFP—compassionate, creative, and grounded in the present.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Aladdin Type",
+      "description": "Quick-witted and adaptable, you thrive on spontaneity and love a good challenge—much like Aladdin. You’re outgoing, think on your feet, and turn obstacles into opportunities with your clever ideas. You enjoy connecting with others and have a talent for turning ordinary moments into adventures. You’re an ENTP—curious, charismatic, and always ready to brainstorm something new.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Merida Type",
+      "description": "Independent and hands-on, you love solving problems with your own two hands—just like Merida. You’re practical, resourceful, and prefer action over endless planning. You value your freedom, tackle challenges head-on, and learn best by doing. You’re an ISTP—calm, logical, and a natural problem-solver who thrives in the moment.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Aurora Type",
+      "description": "Dreamy and intuitive, you have a deep understanding of others and a quiet wisdom—just like Aurora. You’re thoughtful, empathetic, and often lost in reflection or daydreams. You value harmony, see the best in people, and have a gift for bringing peace to those around you. You’re an INFJ—insightful, compassionate, and guided by a strong sense of purpose.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Hercules Type",
+      "description": "Warm and inspiring, you’re a natural leader who lifts others up—much like Hercules. You’re outgoing, passionate, and driven by a desire to make a difference. You connect deeply with people, thrive in community, and use your energy to motivate those around you. You’re an ENFJ—charismatic, empathetic, and dedicated to helping others grow.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Peter Pan Type",
+      "description": "Optimistic and imaginative, you see life as an endless adventure—just like Peter Pan. You’re outgoing, creative, and hate feeling stuck in routine. You inspire others with your enthusiasm, love exploring new ideas, and believe in the magic of possibility. You’re an ENFP—energetic, idealistic, and always chasing the next big dream.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Snow White Type",
+      "description": "Kind and nurturing, you’re the glue that holds your community together—much like Snow White. You’re outgoing, empathetic, and find joy in caring for others. You’re a natural peacemaker, bring people together, and create warmth wherever you go. You’re an ESFJ—generous, reliable, and deeply committed to the people you love.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Buzz Lightyear Type",
+      "description": "Ambitious and strategic, you aim for the stars and never settle for less—just like Buzz Lightyear. You’re confident, logical, and excel at leading others toward a shared goal. You thrive on challenges, think big, and have a clear vision of what success looks like. You’re an ENTJ—decisive, visionary, and a natural born leader.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Piglet Type",
+      "description": "Thoughtful and analytical, you approach life with curiosity and a love for learning—just like Piglet. You’re quiet, observant, and find joy in solving puzzles or exploring ideas. You value your alone time, think deeply about the world around you, and have a sharp mind for details. You’re an INTP—curious, logical, and always eager to understand how things work.",
+      "mbti": "INTP"
+    }
+  ],
   "emoji": [
     "👸",
     "🏰",

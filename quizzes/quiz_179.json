@@ -2,20 +2,350 @@
   "quizId": 179,
   "title": "How Adventurous Are You in Travel?",
   "category": "how",
+  "description": "Answer 12 questions to discover how adventurous you are in travel!",
   "tags": [
     "Travel",
-    ",\n ",
     "Adventure",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Travel Style"
   ],
-  "description": "Answer 12 questions to discover how adventurous you are in travel!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When planning a trip, you typically...",
+      "options": [
+        {
+          "text": "Figure out a rough destination and let each day unfold naturally",
+          "score": "P"
+        },
+        {
+          "text": "Research local history, food spots, and practical tips first",
+          "score": "S"
+        },
+        {
+          "text": "Create a detailed day-by-day itinerary with timings",
+          "score": "J"
+        },
+        {
+          "text": "Imagine the stories and experiences you might collect there",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "If you get lost in an unfamiliar city, you...",
+      "options": [
+        {
+          "text": "Pull out your map app and problem-solve alone",
+          "score": "I"
+        },
+        {
+          "text": "See it as a chance to explore—no rush to find your way",
+          "score": "F"
+        },
+        {
+          "text": "Strike up a conversation with locals to ask for directions (and chat)",
+          "score": "E"
+        },
+        {
+          "text": "Analyze street signs and nearby landmarks to deduce your location",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Choosing a travel destination, you lean toward...",
+      "options": [
+        {
+          "text": "A hidden gem with little tourist buzz",
+          "score": "N"
+        },
+        {
+          "text": "A place where you can join group activities and meet people",
+          "score": "E"
+        },
+        {
+          "text": "A well-reviewed spot with clear safety and logistics info",
+          "score": "S"
+        },
+        {
+          "text": "A quiet retreat where you can reflect and recharge alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Sudden rain ruins your outdoor plans—you...",
+      "options": [
+        {
+          "text": "Duck into a cozy café and savor the unplanned downtime",
+          "score": "P"
+        },
+        {
+          "text": "Evaluate the forecast and decide whether to reschedule or pivot",
+          "score": "T"
+        },
+        {
+          "text": "Switch to your backup indoor activity list immediately",
+          "score": "J"
+        },
+        {
+          "text": "Check in with your travel companions to make sure they’re okay",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "How do you capture travel memories?",
+      "options": [
+        {
+          "text": "Write down feelings and unexpected moments in a journal",
+          "score": "N"
+        },
+        {
+          "text": "Keep to yourself, mentally replaying highlights later",
+          "score": "I"
+        },
+        {
+          "text": "Jot down expenses, routes, and must-try spots for future trips",
+          "score": "S"
+        },
+        {
+          "text": "Laugh and relive stories with your travel group over dinner",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Picking accommodation, you prioritize...",
+      "options": [
+        {
+          "text": "A place with a warm vibe that feels like a home away from home",
+          "score": "F"
+        },
+        {
+          "text": "Booking a top-rated hotel weeks in advance to avoid stress",
+          "score": "J"
+        },
+        {
+          "text": "The best value and proximity to key attractions",
+          "score": "T"
+        },
+        {
+          "text": "Waiting to decide once you arrive—maybe a quirky boutique pops up",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Trying local food, you...",
+      "options": [
+        {
+          "text": "Sit with locals and ask them to order ‘the real deal’",
+          "score": "E"
+        },
+        {
+          "text": "Opt for the most unusual dish on the menu—why play it safe?",
+          "score": "N"
+        },
+        {
+          "text": "Stick to popular, well-reviewed dishes to avoid disappointment",
+          "score": "S"
+        },
+        {
+          "text": "Study the menu carefully and pick something that sounds reliable",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Needing to change plans last minute, you...",
+      "options": [
+        {
+          "text": "Think about how the change will affect everyone in your group",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow—whatever happens will be an adventure",
+          "score": "P"
+        },
+        {
+          "text": "List pros and cons to pick the most logical new plan",
+          "score": "T"
+        },
+        {
+          "text": "Refer to your backup options and lock in a decision quickly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal travel buddy is someone who...",
+      "options": [
+        {
+          "text": "Is upbeat and always up for a spontaneous detour",
+          "score": "E"
+        },
+        {
+          "text": "Loves brainstorming wild, off-the-map activities",
+          "score": "N"
+        },
+        {
+          "text": "Prefers to keep to themselves and respect your space",
+          "score": "I"
+        },
+        {
+          "text": "Sticks to the schedule and keeps things organized",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "After a trip, you...",
+      "options": [
+        {
+          "text": "Toss photos into a folder and revisit them when you feel like it",
+          "score": "P"
+        },
+        {
+          "text": "Note down lessons learned (e.g., ‘avoid this bus route’) for next time",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about the next trip and all the possibilities",
+          "score": "N"
+        },
+        {
+          "text": "Sort photos, label them, and compile a neat travel album",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "Your flight gets canceled—you...",
+      "options": [
+        {
+          "text": "Find a quiet corner to research alternative flights online",
+          "score": "I"
+        },
+        {
+          "text": "Stay calm and calculate the fastest way to reach your destination",
+          "score": "T"
+        },
+        {
+          "text": "Remind yourself that delays often lead to unexpected adventures",
+          "score": "F"
+        },
+        {
+          "text": "Chat with other stranded passengers to share tips and commiserate",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "The best part of traveling is when you...",
+      "options": [
+        {
+          "text": "Conquer a tough hike or challenge you’ve been training for",
+          "score": "T"
+        },
+        {
+          "text": "Stumble upon a breathtaking view you didn’t know existed",
+          "score": "N"
+        },
+        {
+          "text": "Connect with a local who shares stories about their culture",
+          "score": "F"
+        },
+        {
+          "text": "Check off every item on your pre-planned must-see list",
+          "score": "S"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Trailblazing Nomad",
+      "description": "You thrive on the unknown—unplanned detours, hidden villages, and spontaneous conversations fuel your wanderlust. Routine feels like a cage, and you’d rather get lost than follow a map. Your travel style is bold, curious, and unapologetically free-spirited. You’re an ENFP—adventurous, empathetic, and always chasing the next big story.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Strategic Explorer",
+      "description": "Adventure for you means calculated risks and purposeful discovery. You research destinations thoroughly, map out backup plans, and turn challenges into puzzles to solve. You balance structure with flexibility, ensuring every trip feels intentional yet full of surprises. You’re an ENTJ—decisive, visionary, and always one step ahead of the journey.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Quiet Wanderer",
+      "description": "You find adventure in stillness—sunrises over empty beaches, hidden libraries in old towns, and the slow rhythm of local life. Crowds drain you, but solitude fuels your curiosity. You prefer deep dives into a single place over rushed itineraries, savoring every subtle detail. You’re an INTP—analytical, introspective, and quietly fascinated by the world’s complexities.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Cultural Connoisseur",
+      "description": "Adventure for you is immersion—learning a local dialect, cooking with a family, or dancing at a village festival. You connect deeply with people, seeing travel as a bridge between cultures. You prioritize experiences that feel authentic, even if they’re messy or unplanned. You’re an ESFJ—warm, generous, and always eager to belong, no matter where you are.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Practical Adventurer",
+      "description": "You love adventure, but with a safety net. You pack a first-aid kit, study weather patterns, and book accommodations with good reviews—all so you can relax and enjoy the journey. You’re the friend everyone relies on to keep things on track, turning chaos into smooth sailing. You’re an ISTJ—dependable, detail-oriented, and ready for anything (as long as it’s on the itinerary).",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Dreamy Escapist",
+      "description": "Travel is your escape into beauty—sunset hikes, art galleries, and cozy mountain cabins. You seek moments that feel like poetry, prioritizing how a place makes you feel over what you check off a list. You’re happiest when lost in thought, letting the world inspire your imagination. You’re an INFP—idealistic, creative, and always chasing that ‘perfect moment’ on the horizon.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Dynamic Trailblazer",
+      "description": "You live for the rush—skydiving over fjords, backpacking through remote trails, or exploring bustling night markets at 2 a.m. Boredom is your worst enemy, and you’re always chasing the next adrenaline hit. You turn strangers into friends and mishaps into stories. You’re an ESTP—energetic, bold, and the life of any adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Curious Observer",
+      "description": "Adventure for you is learning—museums, historical sites, and local legends captivate you. You ask questions, take notes, and see every trip as a chance to expand your mind. You prefer small groups or solo travel, giving you space to absorb and reflect. You’re an INTJ—strategic, insightful, and always on a quest to understand the world’s patterns.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Social Voyager",
+      "description": "Travel is about connection—hostels, group tours, and spontaneous meetups are where you shine. You thrive on the energy of new people, turning a simple trip into a network of friends worldwide. You’re the one suggesting group dinners or impromptu karaoke nights. You’re an ESFP—outgoing, fun-loving, and the glue that turns strangers into travel buddies.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Organized Adventurer",
+      "description": "You plan adventures like a masterclass—color-coded itineraries, backup reservations, and a spreadsheet of must-see spots. But don’t mistake structure for rigidity: you love surprises, as long as they fit into your 2 p.m. ‘flexible slot.’ You’re the friend who makes sure everyone has a great time, no stress involved. You’re an ISFJ—caring, meticulous, and the unsung hero of group trips.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Free-Spirited Explorer",
+      "description": "You’re the definition of ‘go with the flow’—no plans, no expectations, just a backpack and a sense of wonder. You’ll sleep on a beach if the mood strikes or change countries because a local mentioned a cool festival. Chaos is your comfort zone, and you trust the journey to lead you where you need to go. You’re an ENTP—witty, adaptable, and always ready to rewrite the script.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Serene Solo Traveler",
+      "description": "Adventure for you is solitude—long walks, journaling in cafes, and the freedom to set your own pace. You avoid crowds, preferring quiet moments that let you connect with a place deeply. You return from trips feeling refreshed, with a heart full of small, meaningful memories. You’re an ISTP—self-reliant, calm, and perfectly content in your own company.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Compassionate Journeyer",
+      "description": "Travel for you is about impact—volunteering with local communities, supporting small businesses, and leaving places better than you found them. You prioritize ethical choices, from where you stay to what you eat, and see every trip as a chance to learn and give back. You’re an INFJ—idealistic, empathetic, and on a mission to make the world a little kinder.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Efficient Explorer",
+      "description": "You maximize every minute—early morning hikes, back-to-back museums, and strategic naps to keep energy high. You hate wasting time, so you research the ‘best of’ lists and optimize routes like a pro. You return home with a相册 full of photos and a brain full of facts. You’re an ESTJ—driven, practical, and determined to get the most out of every adventure.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Artistic Wanderer",
+      "description": "You see travel through a creative lens—capturing sunsets with a camera, sketching street scenes, or writing poetry about distant landscapes. You’re drawn to beauty in the mundane, finding magic in a local market or a crumbling old building. You travel to feel, not just to see. You’re an ISFP—sensitive, artistic, and deeply in tune with the world’s aesthetics.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Balanced Adventurer",
+      "description": "You’re the perfect mix of planner and dreamer—you book accommodations in advance but leave afternoons open for spontaneous detours. You enjoy both热闹的 markets and quiet hikes, knowing balance is key to a great trip. You’re adaptable, easygoing, and always up for whatever the journey brings. You’re an ENFJ—charismatic, organized, and the ultimate travel companion.",
+      "mbti": "ENFJ"
+    }
+  ],
   "emoji": [
     "✈️",
     "🗺️",

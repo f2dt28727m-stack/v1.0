@@ -2,20 +2,350 @@
   "quizId": 175,
   "title": "What Would Your Harry Potter Persona Be?",
   "category": "whatwould",
+  "description": "Answer 12 questions to discover your Harry Potter persona!",
   "tags": [
     "Harry Potter",
-    ",\n ",
     "Hogwarts",
-    ",\n ",
     "Wizarding World",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your Harry Potter persona!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When you receive your Hogwarts acceptance letter, you first...",
+      "options": [
+        {
+          "text": "Read it quietly to yourself, savoring the moment alone",
+          "score": "I"
+        },
+        {
+          "text": "Start listing items you’ll need: wand, cauldron, owl, and textbooks",
+          "score": "S"
+        },
+        {
+          "text": "Run to tell your family and friends, unable to contain your excitement",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the adventures you’ll have and the magic you’ll learn",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "In Potions class, your partner spills a smoking cauldron—you...",
+      "options": [
+        {
+          "text": "Check if they’re hurt and reassure them it’s okay",
+          "score": "F"
+        },
+        {
+          "text": "Follow the textbook’s emergency steps to neutralize the smoke",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the smoke’s color and texture to identify the potion",
+          "score": "T"
+        },
+        {
+          "text": "Try a few quick spells you remember to see what works",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "On a free weekend at Hogwarts, you choose to...",
+      "options": [
+        {
+          "text": "Practice new魁地奇 moves, imagining game-winning strategies",
+          "score": "N"
+        },
+        {
+          "text": "Hang out with friends at the Three Broomsticks for butterbeer",
+          "score": "E"
+        },
+        {
+          "text": "Tend to magical plants in the greenhouse, noting their growth",
+          "score": "S"
+        },
+        {
+          "text": "Browse the Restricted Section for ancient spell books alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A Dementor approaches—your first reaction is to...",
+      "options": [
+        {
+          "text": "Focus on the exact pronunciation of the Patronus Charm",
+          "score": "T"
+        },
+        {
+          "text": "Recall your happiest memory to fuel your courage",
+          "score": "F"
+        },
+        {
+          "text": "Stay calm and follow the steps your professor taught",
+          "score": "J"
+        },
+        {
+          "text": "Move instinctively while trying to cast the spell",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "In a Dumbledore’s Army meeting, you prefer to...",
+      "options": [
+        {
+          "text": "Suggest specific training drills, like practicing Shield Charms",
+          "score": "S"
+        },
+        {
+          "text": "Listen quietly, taking notes on key points",
+          "score": "I"
+        },
+        {
+          "text": "Lead a discussion on long-term strategies against dark magic",
+          "score": "N"
+        },
+        {
+          "text": "Encourage others to share ideas and build team spirit",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your friend is falsely accused of stealing a金杯—you...",
+      "options": [
+        {
+          "text": "Create a step-by-step plan to interview witnesses",
+          "score": "J"
+        },
+        {
+          "text": "Hug them and say, “I believe you—we’ll figure this out”",
+          "score": "F"
+        },
+        {
+          "text": "Ask questions to logically piece together the timeline",
+          "score": "T"
+        },
+        {
+          "text": "Chat with classmates casually to see what they noticed",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you spend summer break?",
+      "options": [
+        {
+          "text": "Attend a magic camp to meet other young wizards",
+          "score": "E"
+        },
+        {
+          "text": "Perfect basic spells like Wingardium Leviosa through practice",
+          "score": "S"
+        },
+        {
+          "text": "Research your family’s magical history in old journals",
+          "score": "I"
+        },
+        {
+          "text": "Experiment with creating a new minor charm",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A first-year is crying on the Hogwarts Express—you...",
+      "options": [
+        {
+          "text": "List train facilities and tips to help them feel prepared",
+          "score": "J"
+        },
+        {
+          "text": "Tell them about your first year to make them feel better",
+          "score": "F"
+        },
+        {
+          "text": "Ask why they’re upset and offer practical advice",
+          "score": "T"
+        },
+        {
+          "text": "Invite them to explore the train with you to distract them",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Learning a complex Transfiguration spell, you...",
+      "options": [
+        {
+          "text": "Break the spell into steps and practice each one slowly",
+          "score": "S"
+        },
+        {
+          "text": "Study the spell’s theory to understand how it transforms matter",
+          "score": "N"
+        },
+        {
+          "text": "Work alone, replaying the professor’s demo in your mind",
+          "score": "I"
+        },
+        {
+          "text": "Join a study group to practice and correct each other",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "Your Quidditch team is losing by 100 points—you...",
+      "options": [
+        {
+          "text": "Shout encouragement to boost team morale",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the original game plan, trusting it will turn around",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the other team’s weaknesses to adjust tactics",
+          "score": "T"
+        },
+        {
+          "text": "Try a risky new formation to catch the Snitch off guard",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "What does your ideal Room of Requirement look like?",
+      "options": [
+        {
+          "text": "A quiet library with cozy chairs and a crackling fireplace",
+          "score": "I"
+        },
+        {
+          "text": "A workshop filled with useful magical tools and potions",
+          "score": "S"
+        },
+        {
+          "text": "A space where friends can practice spells and laugh together",
+          "score": "E"
+        },
+        {
+          "text": "A room with portals to different magical eras and places",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "When you hear Voldemort has returned, you...",
+      "options": [
+        {
+          "text": "Start training daily in defensive magic and gathering allies",
+          "score": "J"
+        },
+        {
+          "text": "Worry about your loved ones and check in on them",
+          "score": "F"
+        },
+        {
+          "text": "Research his weaknesses and possible counterspells",
+          "score": "T"
+        },
+        {
+          "text": "Wait to see how events unfold before deciding your next move",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Hogwarts Archivist",
+      "description": "You’re the steady, detail-oriented guardian of Hogwarts’ history. Like a loyal librarian of the Restricted Section, you thrive on structure, follow rules with care, and ensure nothing is overlooked. You’re reliable, practical, and trusted to keep ancient magic safe—your wisdom lies in preserving what works, one scroll at a time.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Hufflepuff Healer",
+      "description": "The heart of Hufflepuff common room, you’re the friend who mends broken wands and bruised feelings alike. You notice when someone’s lonely, remember everyone’s favorite tea, and quietly make the castle feel like home. Your kindness is your magic—soft, steady, and full of warmth that never fades.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Seer of Secrets",
+      "description": "You see the unseen in the wizarding world—hidden motives, quiet dreams, the magic in small moments. Like a silent observer in the Owlery, you understand people deeply, guiding them with gentle wisdom. Your intuition feels almost prophetic, as if you’re tuned into the very heartbeat of Hogwarts.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Hogwarts Strategist",
+      "description": "A master of long-term vision, you’re the one mapping out battle plans in the Room of Requirement. You see patterns others miss, turning chaos into strategy, and your mind works like a well-crafted spell—precise, innovative, and always steps ahead. You don’t just react; you shape the future.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Wandsmith’s Apprentice",
+      "description": "Hands-on and quick-thinking, you’re the wizard who fixes a broken broom mid-flight or invents a new use for a forgotten charm. You learn by doing, thrive in the moment, and find magic in the tactile—whether it’s the weight of a wand or the spark of a well-cast spell.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Enchanted Artist",
+      "description": "You paint with magic, seeing beauty in the mundane—a floating quill, a sunset over the Black Lake, the way light filters through the Great Hall windows. You express yourself through small, meaningful acts, and your soul is as vibrant as a Flourish & Blotts book of magical art.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Dreamer of the Marauders",
+      "description": "You carry the spirit of the Marauders in your heart—idealistic, loyal, and hungry for a world where magic is kind. You believe in the power of stories, see the good in everyone, and your imagination turns even the darkest corridors into paths of hope.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Curious Alchemist",
+      "description": "You’re the wizard poring over ancient tomes in the library, asking “why?” about every spell. Logic is your wand, and curiosity your potion—you dismantle magic to understand it, then rebuild it in new, brilliant ways. The world is your lab, and you’re always on the verge of a breakthrough.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Quidditch Daredevil",
+      "description": "Adrenaline runs in your veins—you live for the rush of a Quidditch match, the thrill of a spontaneous adventure, or outsmarting a tricky boggart. You’re quick on your feet, charming, and turn every challenge into a game you’re determined to win.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Hogsmeade Reveler",
+      "description": "The life of the Three Broomsticks, you light up any room with laughter and energy. You love the joy of the moment—dancing at the Yule Ball, trying new sweets at Honeydukes, or cheering for your house at a Quidditch game. Magic, to you, is meant to be shared and celebrated.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Spellbound Storyteller",
+      "description": "You weave magic with words, turning ordinary days into tales of wonder. You inspire friends to dream bigger, see the magic in every corner of Hogwarts, and your enthusiasm is contagious—like a Patronus that lifts everyone’s spirits. The world is your canvas, and you paint it with possibility.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Wizarding Innovator",
+      "description": "You’re the prankster with a purpose, the mind behind the next Marauder’s Map. You thrive on debate, love challenging the status quo, and turn “impossible” into “just needs a better spell.” Your ideas are wild, your wit sharper than a well-honed wand, and you never stop asking, “What if?”",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Hogwarts Prefect",
+      "description": "The backbone of order in the castle, you keep the halls running smoothly with a fair hand and a sharp eye. You take pride in upholding rules that protect others, lead with confidence, and ensure everyone knows their place—all while earning respect, not fear.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Hogwarts Host",
+      "description": "You’re the one organizing the house feast, remembering every student’s name, and making sure no one feels left out. You thrive on bringing people together, turning the Great Hall into a home, and your warmth is the glue that holds your community tight.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Hogwarts Mentor",
+      "description": "A natural leader with a heart for others, you guide first-years through their first flying lesson, inspire peers to stand up for what’s right, and see the potential in everyone. You lead with empathy, turning followers into friends, and your belief in others is magic itself.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Ministry Visionary",
+      "description": "You’re the wizard with a plan to reshape the wizarding world—bold, decisive, and unafraid to lead. You turn big ideas into action, rally others to your cause, and your ambition is matched only by your ability to make things happen. The future isn’t just coming; you’re building it.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "⚡",
     "🧙",

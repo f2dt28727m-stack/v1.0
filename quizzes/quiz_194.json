@@ -2,20 +2,350 @@
   "quizId": 194,
   "title": "Which Career Path Matches Your Personality?",
   "category": "which",
+  "description": "Answer 12 questions to discover your ideal career path!",
   "tags": [
     "Career",
-    ",\n ",
     "Personality",
-    ",\n ",
     "MBTI",
-    ",\n ",
     "Career Path",
-    ",\n ",
     "Professional Growth"
   ],
-  "description": "Answer 12 questions to discover your ideal career path!",
-  "questions": [],
-  "results": [],
+  "questions": [
+    {
+      "text": "When planning your weekly work schedule, you prefer to...",
+      "options": [
+        {
+          "text": "List specific tasks with clear start/end times",
+          "score": "S"
+        },
+        {
+          "text": "Coordinate with teammates to align deadlines and share progress",
+          "score": "E"
+        },
+        {
+          "text": "Outline broad goals and leave room for unexpected opportunities",
+          "score": "N"
+        },
+        {
+          "text": "Block time for focused, independent work without interruptions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A colleague asks for feedback on their project. You respond by...",
+      "options": [
+        {
+          "text": "Discuss ideas openly and explore possibilities together",
+          "score": "P"
+        },
+        {
+          "text": "Highlight their efforts and suggest improvements gently",
+          "score": "F"
+        },
+        {
+          "text": "Structure your feedback with clear action steps",
+          "score": "J"
+        },
+        {
+          "text": "Point out logical flaws and offer data-backed suggestions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal work environment feels...",
+      "options": [
+        {
+          "text": "Quiet and calm, with space to focus and reflect",
+          "score": "I"
+        },
+        {
+          "text": "Dynamic and creative, with new challenges daily",
+          "score": "N"
+        },
+        {
+          "text": "Bustling with collaboration, chatter, and team activities",
+          "score": "E"
+        },
+        {
+          "text": "Organized, with tools and resources easily accessible",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "When solving a complex problem at work, you first...",
+      "options": [
+        {
+          "text": "Refer to past solutions and established protocols",
+          "score": "J"
+        },
+        {
+          "text": "Consider how the solution affects the team’s morale",
+          "score": "F"
+        },
+        {
+          "text": "Brainstorm multiple ideas without limiting possibilities",
+          "score": "P"
+        },
+        {
+          "text": "Break down the problem into logical components",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "What motivates you most in a career?",
+      "options": [
+        {
+          "text": "Exploring new ideas and pushing creative boundaries",
+          "score": "N"
+        },
+        {
+          "text": "Connecting with people and building relationships",
+          "score": "E"
+        },
+        {
+          "text": "Mastering a skill or expertise through deep focus",
+          "score": "I"
+        },
+        {
+          "text": "Seeing tangible results from your hard work",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "In a team project, you’re most likely to...",
+      "options": [
+        {
+          "text": "Analyze risks and make objective decisions",
+          "score": "T"
+        },
+        {
+          "text": "Mediate conflicts and ensure everyone feels heard",
+          "score": "F"
+        },
+        {
+          "text": "Adapt to changes and support where needed",
+          "score": "P"
+        },
+        {
+          "text": "Create a timeline and keep the team on track",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "text": "When learning a new skill for work, you prefer to...",
+      "options": [
+        {
+          "text": "Study independently with online courses or books",
+          "score": "I"
+        },
+        {
+          "text": "Understand the big picture before diving into details",
+          "score": "N"
+        },
+        {
+          "text": "Learn through group workshops and discussions",
+          "score": "E"
+        },
+        {
+          "text": "Practice hands-on with real examples and step-by-step guides",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle last-minute changes to a project?",
+      "options": [
+        {
+          "text": "Evaluate the impact and prioritize tasks logically",
+          "score": "T"
+        },
+        {
+          "text": "Revise the plan immediately to stay on schedule",
+          "score": "J"
+        },
+        {
+          "text": "Check in with the team to ease stress and adjust together",
+          "score": "F"
+        },
+        {
+          "text": "Embrace the flexibility and find creative workarounds",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your perfect workday ends with...",
+      "options": [
+        {
+          "text": "Completing all tasks on your to-do list",
+          "score": "S"
+        },
+        {
+          "text": "A team dinner or after-work social gathering",
+          "score": "E"
+        },
+        {
+          "text": "Feeling inspired by a new idea or project direction",
+          "score": "N"
+        },
+        {
+          "text": "Time alone to recharge and reflect on the day",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When setting career goals, you focus on...",
+      "options": [
+        {
+          "text": "Staying open to unexpected opportunities and growth",
+          "score": "P"
+        },
+        {
+          "text": "Finding purpose and making a positive impact",
+          "score": "F"
+        },
+        {
+          "text": "Creating a clear 5-year plan with milestones",
+          "score": "J"
+        },
+        {
+          "text": "Achieving measurable success and expertise",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "text": "In meetings, you tend to...",
+      "options": [
+        {
+          "text": "Take detailed notes and ask clarifying questions",
+          "score": "S"
+        },
+        {
+          "text": "Propose innovative concepts and future possibilities",
+          "score": "N"
+        },
+        {
+          "text": "Listen actively and speak up only when you have key insights",
+          "score": "I"
+        },
+        {
+          "text": "Share ideas openly and encourage others to contribute",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "text": "What type of work task energizes you most?",
+      "options": [
+        {
+          "text": "Organizing systems or processes to improve efficiency",
+          "score": "J"
+        },
+        {
+          "text": "Collaborating with others to support their success",
+          "score": "F"
+        },
+        {
+          "text": "Exploring new tools or approaches without strict guidelines",
+          "score": "P"
+        },
+        {
+          "text": "Solving complex puzzles or analytical challenges",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Accountant",
+      "description": "You thrive in structured environments where precision and reliability matter most. Like an ISTJ, you’re detail-oriented, methodical, and committed to accuracy—traits that make you indispensable in managing finances, ensuring compliance, and maintaining order. You prefer clear processes and take pride in delivering consistent, trustworthy results.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Nurse",
+      "description": "Your compassionate nature and focus on others make nursing your calling. As an ISFJ, you excel at providing care, anticipating needs, and creating a supportive environment. You’re patient, reliable, and deeply committed to helping people through difficult moments, turning everyday interactions into meaningful connections.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Counselor",
+      "description": "You have an innate ability to understand others’ emotions and guide them toward growth. As an INFJ, you’re insightful, empathetic, and driven by a desire to help people find purpose. Your intuitive nature lets you see beyond surface struggles, making you a trusted confidant and catalyst for positive change.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "You love solving complex problems with logic and innovation. As an INTJ, you’re strategic, analytical, and always looking for patterns others miss. You thrive on turning data into actionable insights, using your big-picture thinking to drive decisions and shape the future of industries.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Mechanical Engineer",
+      "description": "You’re a hands-on problem-solver who loves building and fixing things. As an ISTP, you’re practical, adaptable, and excel at troubleshooting. Whether designing machinery or optimizing processes, you combine technical skill with a calm, solution-focused mindset to turn ideas into tangible results.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "You see beauty in details and express ideas through creativity. As an ISFP, you’re artistic, flexible, and attuned to aesthetics. You thrive in environments where you can bring concepts to life visually, using color, form, and texture to evoke emotion and communicate messages effectively.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Writer",
+      "description": "You have a gift for storytelling and a deep inner world of ideas. As an INFP, you’re idealistic, creative, and driven by meaning. Whether crafting novels, articles, or poetry, you use words to explore human experiences, challenge perspectives, and inspire others to see the world differently.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Software Developer",
+      "description": "You’re a curious thinker who loves unraveling complex systems. As an INTP, you’re logical, innovative, and obsessed with understanding how things work. You thrive on coding challenges, experimenting with new technologies, and building solutions that push the boundaries of what’s possible.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Event Planner",
+      "description": "You thrive in dynamic, fast-paced environments where no two days are the same. As an ESTP, you’re energetic, adaptable, and love bringing people together. You excel at thinking on your feet, solving last-minute problems, and creating memorable experiences that leave a lasting impression.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Teacher",
+      "description": "You’re passionate about sharing knowledge and inspiring others to learn. As an ESFP, you’re outgoing, engaging, and have a natural ability to connect with students. You make learning fun through interactive activities, and your enthusiasm creates a classroom where everyone feels motivated to grow.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Marketing Strategist",
+      "description": "You’re a creative visionary who loves connecting ideas with people. As an ENFP, you’re energetic, imaginative, and excel at understanding audience needs. You thrive on brainstorming campaigns, telling brand stories, and finding innovative ways to make messages resonate in a crowded world.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Entrepreneur",
+      "description": "You’re a natural innovator who sees opportunities where others don’t. As an ENTP, you’re witty, resourceful, and love challenging the status quo. You thrive on building businesses, debating ideas, and turning bold concepts into reality—even when faced with uncertainty.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Project Manager",
+      "description": "You’re a natural leader who excels at keeping teams on track. As an ESTJ, you’re organized, decisive, and focused on results. You thrive on creating structure, setting clear goals, and ensuring projects are delivered on time and within budget—making you the backbone of any successful team.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Human Resources Manager",
+      "description": "You’re a people person who excels at building strong, cohesive teams. As an ESFJ, you’re supportive, organized, and deeply invested in employee well-being. You thrive on fostering a positive workplace culture, resolving conflicts, and helping others grow professionally.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Public Relations Specialist",
+      "description": "You’re a natural communicator who knows how to shape narratives. As an ENFJ, you’re charismatic, empathetic, and skilled at building relationships. You thrive on connecting organizations with their audiences, managing reputations, and inspiring others to believe in a shared vision.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "CEO",
+      "description": "You’re a strategic leader with a vision for the future. As an ENTJ, you’re decisive, ambitious, and excel at rallying teams toward a common goal. You thrive on making tough decisions, driving innovation, and building organizations that leave a lasting impact on the world.",
+      "mbti": "ENTJ"
+    }
+  ],
   "emoji": [
     "💼",
     "📈",
