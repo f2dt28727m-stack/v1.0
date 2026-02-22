@@ -188,6 +188,10 @@
             margin-bottom: 6px;
             line-height: 1.3;
         }
+        .card-icon {
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
         .card-meta {
             font-size: 11px;
             color: #555;
@@ -990,6 +994,7 @@
                         title: quiz.title,
                         category_id: category,
                         tags: tags,
+                        emoji: quiz.emoji || ['✨', '🌟', '💫'],
                         hot_count: tests
                     };
                 });
@@ -1241,7 +1246,9 @@
         
         function createCard(t) {
             const count = (t.hot_count / 10000).toFixed(1);
+            const emojis = t.emoji ? t.emoji.join('') : '✨';
             return `<div class="card" onclick="goQuiz('${t.test_id}')">
+                <div class="card-icon">${emojis}</div>
                 <div class="card-title">${t.title}</div>
                 <div class="card-meta">${count}W tests</div>
             </div>`;
