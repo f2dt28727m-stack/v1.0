@@ -166,8 +166,16 @@
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 12px;
-            padding: 0 10px;
-            max-width: 900px;
+            padding: 0;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        
+        @media (max-width: 768px) {
+            .card-list {
+                grid-template-columns: repeat(2, 1fr);
+                padding: 0 10px;
+            }
         }
         
         .card {
