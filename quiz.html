@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EQQ75D1GWK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EQQ75D1GWK');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quiz - QuizFig</title>
@@ -11,27 +20,27 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .container{max-width:600px;width:100%}
 .progress-wrap{margin-bottom:30px;width:100%}
 .progress-bar{height:6px;background:#333;border-radius:3px;overflow:hidden}
-.progress-fill{height:100%;background:linear-gradient(90deg,#00d4ff,#00ff88);transition:width .4s;border-radius:3px}
+.progress-fill{height:100%;background:linear-gradient(90deg,#A259FF,#FF7AB6);transition:width .4s;border-radius:3px}
 .progress-text{text-align:center;margin-top:8px;color:#888;font-size:14px}
 .question-card{background:#1a1a1a;border-radius:20px;padding:30px;margin-bottom:24px;border:1px solid #333;animation:slideIn .4s}
 @keyframes slideIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
-.question-number{color:#00d4ff;font-size:14px;font-weight:600;margin-bottom:12px}
+.question-number{color:#A259FF;font-size:14px;font-weight:600;margin-bottom:12px}
 .question-text{font-size:20px;font-weight:600;line-height:1.5;margin-bottom:24px}
 .option-list{display:flex;flex-direction:column;gap:12px}
 .option{background:#252525;border:2px solid #333;border-radius:14px;padding:16px 20px;cursor:pointer;transition:all .2s;font-size:16px}
 .option:hover{border-color:#444;background:#2a2a2a}
-.option.selected{border-color:#00d4ff;background:rgba(0,212,255,0.15)}
+.option.selected{border-color:#A259FF;background:rgba(162,89,255,0.15)}
 .back-question{margin-top:20px;text-align:center;color:#666;cursor:pointer;padding:12px;font-size:14px}
-.back-question:hover{color:#00d4ff}
+.back-question:hover{color:#A259FF}
 .result-card{background:linear-gradient(135deg,#1a1a2e,#16213e);border-radius:20px;padding:40px 30px;text-align:center;animation:fadeIn .6s}
 @keyframes fadeIn{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}
 .result-title{font-size:16px;color:#888;margin-bottom:12px}
-.result-name{font-size:32px;font-weight:700;color:#00d4ff;margin-bottom:16px}
+.result-name{font-size:32px;font-weight:700;color:#A259FF;margin-bottom:16px}
 .result-desc{font-size:16px;color:#aaa;line-height:1.6;margin-bottom:30px}
 .match-list{display:flex;flex-direction:column;gap:12px;margin-bottom:30px}
 .match-item{display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.05);padding:16px;border-radius:12px;margin-bottom:8px}
 .match-bar{flex:1;height:8px;background:#333;border-radius:4px;position:relative}
-.match-fill{height:100%;background:linear-gradient(90deg,#00d4ff,#00ff88);border-radius:4px;position:absolute;top:0}
+.match-fill{height:100%;background:linear-gradient(90deg,#A259FF,#FF7AB6);border-radius:4px;position:absolute;top:0}
 .m-name{width:70px;text-align:left;font-weight:500;font-size:13px}
 .m-pct{width:70px;text-align:right;font-weight:500;font-size:13px}
 .dim-label{text-align:center;font-size:11px;color:#666;margin-top:4px}
@@ -44,17 +53,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .mbti-dim{display:flex;flex-direction:column;gap:6px}
 .mbti-labels{display:flex;justify-content:space-between;font-size:12px;color:#888}
 .mbti-bar-wrap{position:relative;height:24px;background:#222;border-radius:12px;overflow:hidden}
-.mbti-bar{position:absolute;top:0;height:100%;background:linear-gradient(90deg,#00d4ff,#00ff88);transition:all .5s ease}
+.mbti-bar{position:absolute;top:0;height:100%;background:linear-gradient(90deg,#A259FF,#FF7AB6);transition:all .5s ease}
 .mbti-center{position:absolute;left:50%;top:0;bottom:0;width:2px;background:#444;transform:translateX(-50%)}
 .mbti-pct{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:11px;font-weight:700;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.8)}
 .vote-btn .icon{width:44px;height:44px;background:#1a1a1a;border:1px solid #333;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px}
 .vote-btn.liked .icon{border-color:#ff4757;color:#ff4757}
 .vote-btn.disliked .icon{border-color:#7bed9f;color:#7bed9f}
 .share-btn{padding:12px 24px;border-radius:25px;border:none;font-size:14px;font-weight:600;cursor:pointer;transition:all .2s}
-.share-btn.primary{background:#00d4ff;color:#000}
+.share-btn.primary{background:#A259FF;color:#000}
 .share-btn.secondary{background:#333;color:#fff}
 .back-btn{position:fixed;top:20px;left:20px;background:#1a1a1a;border:1px solid #333;color:#fff;width:44px;height:44px;border-radius:50%;font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center}
-.loading{display:flex;align-items:center;justify-content:center;height:50vh;font-size:18px;color:#00d4ff}
+.loading{display:flex;align-items:center;justify-content:center;height:50vh;font-size:18px;color:#A259FF}
 
 
 /* Responsive adjustments for small screens */
@@ -259,7 +268,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 }
 .footer-links { margin-bottom: 10px; }
 .footer-links span { cursor: pointer; color: #888; transition: color 0.2s; }
-.footer-links span:hover { color: #00d4ff; }
+.footer-links span:hover { color: #A259FF; }
 .about-modal { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.7); display: flex; align-items: center; justify-content: center; z-index: 1000; }
 .about-content { background: #1a1a2e; border-radius: 16px; padding: 24px; width: 320px; border: 1px solid #333; }
 .about-header { display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 20px; font-size: 16px; }
@@ -514,7 +523,7 @@ async function showR(){
             const rightPct = 100 - d.p;
             const barStyle = d.p <= 50 
                 ? `left:0;width:${rightPct}%;background:linear-gradient(90deg,#666,#888)`
-                : `left:${rightPct}%;width:${leftPct}%;background:linear-gradient(90deg,#00d4ff,#00ff88)`;
+                : `left:${rightPct}%;width:${leftPct}%;background:linear-gradient(90deg,#A259FF,#FF7AB6)`;
             const label = d.p > 50 ? d.left : d.right;
             const pct = Math.max(leftPct, rightPct);
             return `<div class="mbti-dim"><div class="mbti-labels"><span>${d.left}</span><span>${d.right}</span></div><div class="mbti-bar-wrap"><div class="mbti-bar" style="${barStyle}"></div><div class="mbti-center"></div><div class="mbti-pct">${pct}% ${label}</div></div></div>`;

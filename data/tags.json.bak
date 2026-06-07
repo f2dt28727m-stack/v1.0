@@ -1,0 +1,260 @@
+{
+  "Popular": {
+    "MBTI": [
+      "MBTI"
+    ],
+    "Travel": [
+      "Travel"
+    ],
+    "Genshin Impact": [
+      "Genshin Impact"
+    ],
+    "Taylor Swift": [
+      "Taylor Swift"
+    ]
+  },
+  "Music": {
+    "Taylor Swift": [
+      "Taylor Swift",
+      "taylor swift",
+      "TS",
+      "霉霉"
+    ],
+    "Olivia Rodrigo": [
+      "Olivia Rodrigo",
+      "olivia rodrigo",
+      "Olivia"
+    ],
+    "NewJeans": [
+      "NewJeans",
+      "Newjeans",
+      "newjeans",
+      "鲸鱼"
+    ],
+    "Sabrina Carpenter": [
+      "Sabrina Carpenter",
+      "sabrina carpenter",
+      "Sabrina"
+    ],
+    "K-pop": [
+      "K-pop",
+      "K-Pop",
+      "kpop",
+      "韩流",
+      "Korean Music"
+    ],
+    "BTS": [
+      "BTS",
+      "bts",
+      "防弹少年团"
+    ]
+  },
+  "Movies & TV": {
+    "Harry Potter": [
+      "Harry Potter",
+      "harry potter",
+      "Wizarding World",
+      "Hogwarts",
+      "霍格沃茨",
+      "哈利波特"
+    ],
+    "Marvel": [
+      "Marvel",
+      "marvel",
+      "MCU",
+      "漫威",
+      "Superhero",
+      "超级英雄"
+    ],
+    "Disney": [
+      "Disney",
+      "disney",
+      "迪士尼",
+      "Disney Princess",
+      "公主"
+    ],
+    "Euphoria": [
+      "Euphoria",
+      "euphoria",
+      "亢奋"
+    ],
+    "Bluey": [
+      "Bluey",
+      "bluey",
+      "布鲁伊"
+    ],
+    "Netflix": [
+      "Netflix",
+      "netflix",
+      "网飞"
+    ],
+    "Princess": [
+      "Princess",
+      "公主"
+    ],
+    "My Little Pony": [
+      "My Little Pony",
+      "MLP",
+      "小马宝莉",
+      "Pony"
+    ]
+  },
+  "Personality": {
+    "Hidden Trait": [
+      "Hidden Trait",
+      "hidden trait",
+      "Hidden Traits",
+      "隐藏特质",
+      "Inner Traits",
+      "Inner Self"
+    ],
+    "Aesthetic Personality": [
+      "Aesthetic Personality",
+      "aesthetic personality",
+      "审美人格",
+      "Aesthetic",
+      "审美",
+      "Aura",
+      "气场",
+      "氛围感"
+    ],
+    "Soulmate Match": [
+      "Soulmate Match",
+      "soulmate match",
+      "Soulmate",
+      "灵魂伴侣",
+      "匹配",
+      "配对",
+      "灵魂伴侣匹配"
+    ],
+    "Future Life": [
+      "Future Life",
+      "future life",
+      "未来人生",
+      "Future Destiny",
+      "Future Lifestyle",
+      "未来生活方式"
+    ],
+    "Love Language": [
+      "Love Language",
+      "love language",
+      "爱情语言"
+    ]
+  },
+  "Lifestyle": {
+    "Adventure": [
+      "Adventure",
+      "adventure",
+      "冒险",
+      "Future Adventure"
+    ],
+    "Relationships": [
+      "Relationships",
+      "relationships",
+      "人际关系",
+      "关系",
+      "Relationship"
+    ],
+    "Fantasy": [
+      "Fantasy",
+      "fantasy",
+      "奇幻",
+      "魔幻"
+    ],
+    "Friendship": [
+      "Friendship",
+      "friendship",
+      "友情",
+      "朋友",
+      "Friends"
+    ],
+    "Career": [
+      "Career",
+      "career",
+      "职业",
+      "工作",
+      "事业",
+      "Work"
+    ],
+    "Food": [
+      "Food",
+      "food",
+      "美食",
+      "食物",
+      "Eating",
+      "吃",
+      "饮食"
+    ],
+    "Fashion": [
+      "Fashion",
+      "fashion",
+      "时尚",
+      "穿搭"
+    ],
+    "Health": [
+      "Health",
+      "health",
+      "健康",
+      "养生",
+      "Healthy"
+    ]
+  },
+  "Gaming": {
+    "Fortnite": [
+      "Fortnite",
+      "fortnite",
+      "堡垒之夜"
+    ],
+    "Roblox": [
+      "Roblox",
+      "roblox",
+      "罗布乐思"
+    ],
+    "Minecraft": [
+      "Minecraft",
+      "minecraft",
+      "我的世界"
+    ],
+    "Genshin Impact": [
+      "Genshin Impact",
+      "genshin impact",
+      "原神",
+      "原"
+    ],
+    "League of Legends": [
+      "League of Legends",
+      "league of legends",
+      "LOL",
+      "英雄联盟",
+      "LoL"
+    ],
+    "Stardew Valley": [
+      "Stardew Valley",
+      "stardew valley",
+      "星露谷物语",
+      "星露谷"
+    ],
+    "Brawl Stars": [
+      "Brawl Stars",
+      "brawl stars",
+      "荒野乱斗"
+    ],
+    "Honkai Star Rail": [
+      "Honkai Star Rail",
+      "honkai star rail",
+      "崩坏：星穹铁道",
+      "崩坏星铁",
+      "星穹铁道"
+    ],
+    "Gaming": [
+      "Gaming",
+      "gaming",
+      "游戏"
+    ],
+    "Playstyle": [
+      "Playstyle",
+      "playstyle",
+      "玩法风格"
+    ]
+  }
+}

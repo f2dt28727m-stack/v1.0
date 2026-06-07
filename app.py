@@ -46,11 +46,12 @@ if os.path.exists(quizzes_directory):
 
 # Also load the original onequiz.json for backward compatibility
 onequiz_path = get_file_path('onequiz.json')
-with open(onequiz_path, 'r') as f:
-    onequiz_data = json.load(f)
-    if 'scoringRules' not in onequiz_data:
-        onequiz_data['scoringRules'] = config['scoringRules']
-    quizzes['onequiz'] = onequiz_data
+if os.path.exists(onequiz_path):
+    with open(onequiz_path, 'r') as f:
+        onequiz_data = json.load(f)
+        if 'scoringRules' not in onequiz_data:
+            onequiz_data['scoringRules'] = config['scoringRules']
+        quizzes['onequiz'] = onequiz_data
 
 API_KEY = config['commonSettings']['apiKey']
 
@@ -65,8 +66,12 @@ def validate_token(token):
 
 @app.route('/api/quizzes', methods=['GET'])
 def get_all_quizzes():
+    from flask import Response
+    import json as _json
     quizzes_list = []
     for quiz_id, quiz_data in quizzes.items():
+        if quiz_id == 'onequiz':
+            continue
         quizzes_list.append({
             'quiz_id': quiz_id,
             'title': quiz_data.get('title', 'Untitled Quiz'),
@@ -74,108 +79,130 @@ def get_all_quizzes():
             'tags': quiz_data.get('tags', []),
             'description': quiz_data.get('description', '')
         })
-    return jsonify({'quizzes': quizzes_list})
+    # Sort by quiz_id for stable, deterministic order (matches production)
+    quizzes_list.sort(key=lambda x: x['quiz_id'])
+    return Response(_json.dumps({'quizzes': quizzes_list}), mimetype='application/json')
 
 @app.route('/api/quizzes/<quiz_id>', methods=['GET'])
 def get_single_quiz(quiz_id):
+    from flask import Response
+    import json as _json
     quiz_data = quizzes.get(quiz_id)
     if not quiz_data:
         return jsonify({'error': 'Quiz not found'}), 404
-    
-    return jsonify({
+
+    return Response(_json.dumps({
         'quiz_id': quiz_id,
         'title': quiz_data.get('title', 'Untitled Quiz'),
         'category': quiz_data.get('category', 'General'),
         'tags': quiz_data.get('tags', []),
         'description': quiz_data.get('description', ''),
-        'total_questions': len(quiz_data.get('questions', []))
-    })
+        'emoji': quiz_data.get('emoji', ['❓', '✨', '🎯'])
+    }), mimetype='application/json')
 
 @app.route('/api/questions', methods=['POST'])
 def get_questions():
-    data = request.get_json()
-    api_key = data.get('api_key')
-    token = data.get('token')
-    quiz_id = data.get('quiz_id', 'onequiz')
-    
-    if not validate_api_key(api_key) or not validate_token(token):
-        return jsonify({'error': 'Unauthorized access'}), 401
-    
-    quiz_data = quizzes.get(quiz_id, quizzes.get('onequiz'))
-    shuffled_questions = random.sample(quiz_data['questions'], 12)
-    
-    for i, q in enumerate(shuffled_questions):
+    data = request.get_json() or {}
+    token = data.get('token', '')
+    quiz_id = data.get('quiz_id', 'quiz_1')
+
+    if len(token) != 64:
+        return jsonify({'error': 'Unauthorized'}), 401
+
+    quiz_data = quizzes.get(quiz_id)
+    if not quiz_data:
+        return jsonify({'error': 'Quiz not found', 'available': list(quizzes.keys())}), 404
+
+    questions = quiz_data.get('questions', [])
+    for i, q in enumerate(questions):
         q['temp_id'] = f'q{i+1}'
-    
+
     return jsonify({
-        'questions': shuffled_questions,
+        'questions': questions,
         'quiz_id': quiz_id,
-        'title': quiz_data['title']
+        'title': quiz_data.get('title', 'Quiz')
     })
 
 @app.route('/api/result', methods=['POST'])
 def get_result():
-    data = request.get_json()
-    api_key = data.get('api_key')
-    token = data.get('token')
+    from flask import Response
+    import json as _json
+    data = request.get_json() or {}
+    token = data.get('token', '')
     answers = data.get('answers', {})
-    quiz_id = data.get('quiz_id', 'onequiz')
-    
-    if not validate_api_key(api_key) or not validate_token(token):
-        return jsonify({'error': 'Unauthorized access'}), 401
-    
-    quiz_data = quizzes.get(quiz_id, quizzes.get('onequiz'))
-    
+    quiz_id = data.get('quiz_id', 'quiz_1')
+
+    if len(token) != 64:
+        return jsonify({'error': 'Unauthorized'}), 401
+
+    quiz_data = quizzes.get(quiz_id)
+    if not quiz_data:
+        return jsonify({'error': 'Quiz not found'}), 404
+
     dimension_scores = {'E': 0, 'I': 0, 'S': 0, 'N': 0, 'T': 0, 'F': 0, 'J': 0, 'P': 0}
-    
+
     for q_id, option_index in answers.items():
-        for question in quiz_data['questions']:
+        for question in quiz_data.get('questions', []):
             if str(question.get('qId')) == q_id or question.get('temp_id') == q_id:
-                if 0 <= int(option_index) < len(question['options']):
-                    option = question['options'][int(option_index)]
-                    score = option['score']
-                    if isinstance(score, dict):
-                        for dim, s in score.items():
-                            dimension_scores[dim] += s
-                    elif isinstance(score, str):
-                        opposite = {'E': 'I', 'I': 'E', 'S': 'N', 'N': 'S', 'T': 'F', 'F': 'T', 'J': 'P', 'P': 'J'}.get(score)
-                        if opposite:
+                opts = question.get('options', [])
+                try:
+                    if 0 <= int(option_index) < len(opts):
+                        score = opts[int(option_index)].get('score', '')
+                        if isinstance(score, str) and score in dimension_scores:
                             dimension_scores[score] += 1
+                        elif isinstance(score, dict):
+                            for k, v in score.items():
+                                if k in dimension_scores:
+                                    dimension_scores[k] += v
+                except (ValueError, TypeError):
+                    pass
                 break
-    
+
     mbti_type = ''
-    mbti_type += 'E' if dimension_scores['E'] > dimension_scores['I'] else 'I'
-    mbti_type += 'S' if dimension_scores['S'] > dimension_scores['N'] else 'N'
-    mbti_type += 'T' if dimension_scores['T'] > dimension_scores['F'] else 'F'
-    mbti_type += 'J' if dimension_scores['J'] > dimension_scores['P'] else 'P'
-    
+    mbti_type += 'E' if dimension_scores['E'] >= dimension_scores['I'] else 'I'
+    mbti_type += 'S' if dimension_scores['S'] >= dimension_scores['N'] else 'N'
+    mbti_type += 'T' if dimension_scores['T'] >= dimension_scores['F'] else 'F'
+    mbti_type += 'J' if dimension_scores['J'] >= dimension_scores['P'] else 'P'
+
     result = None
-    for r in quiz_data['results']:
+    for r in quiz_data.get('results', []):
         if r.get('mbtiType') == mbti_type or r.get('mbti') == mbti_type:
             result = r
             break
     if not result:
-        result = quiz_data['results'][0]
-    
-    total_ei = dimension_scores['E'] + dimension_scores['I']
-    total_sn = dimension_scores['S'] + dimension_scores['N']
-    total_tf = dimension_scores['T'] + dimension_scores['F']
-    total_jp = dimension_scores['J'] + dimension_scores['P']
-    
-    return jsonify({
+        result = quiz_data.get('results', [{}])[0]
+
+    total_ei = dimension_scores['E'] + dimension_scores['I'] if dimension_scores['E'] + dimension_scores['I'] > 0 else 1
+    total_sn = dimension_scores['S'] + dimension_scores['N'] if dimension_scores['S'] + dimension_scores['N'] > 0 else 1
+    total_tf = dimension_scores['T'] + dimension_scores['F'] if dimension_scores['T'] + dimension_scores['F'] > 0 else 1
+    total_jp = dimension_scores['J'] + dimension_scores['P'] if dimension_scores['J'] + dimension_scores['P'] > 0 else 1
+
+    return Response(_json.dumps({
         'mbti_type': mbti_type,
         'result': result,
         'percentages': {
-            'extrovert_introvert': round((dimension_scores['E'] / total_ei) * 100) if total_ei > 0 else 50,
-            'sensing_intuition': round((dimension_scores['S'] / total_sn) * 100) if total_sn > 0 else 50,
-            'thinking_feeling': round((dimension_scores['T'] / total_tf) * 100) if total_tf > 0 else 50,
-            'judging_perceiving': round((dimension_scores['J'] / total_jp) * 100) if total_jp > 0 else 50
+            'extrovert_introvert': int(dimension_scores['E'] * 100 / total_ei),
+            'sensing_intuition': int(dimension_scores['S'] * 100 / total_sn),
+            'thinking_feeling': int(dimension_scores['T'] * 100 / total_tf),
+            'judging_perceiving': int(dimension_scores['J'] * 100 / total_jp)
         }
-    })
+    }), mimetype='application/json')
 
 @app.route('/api/token', methods=['GET'])
 def get_token():
     return jsonify({'token': generate_token()})
+
+@app.route('/api/tags', methods=['GET'])
+def get_tags():
+    """Return tag library from data/tags.json (matches production)."""
+    from flask import Response
+    import json as _json
+    tags_path = os.path.join(BASE_DIR, 'data', 'tags.json')
+    if not os.path.exists(tags_path):
+        return Response('{}', mimetype='application/json')
+    with open(tags_path, 'r', encoding='utf-8') as f:
+        # Use json.dumps to preserve insertion order (matches Vercel api/index.py)
+        return Response(_json.dumps(_json.load(f)), mimetype='application/json')
 
 @app.route('/')
 def serve_index():
