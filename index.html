@@ -1598,6 +1598,16 @@
         checkFirstTime();
         loadData();
 
+        // Open About/Privacy modal when navigated from SSR detail page via hash
+        // e.g. /#about, /#contact, /#privacy
+        function openHashModal() {
+            var h = (window.location.hash || '').toLowerCase();
+            if (h === '#about' || h === '#contact') showAboutModal();
+            else if (h === '#privacy') showPrivacyModal();
+        }
+        openHashModal();
+        window.addEventListener('hashchange', openHashModal);
+
         // Initialize ads without waiting for full page load
         (function() {
             if (window.adsbygoogle) {

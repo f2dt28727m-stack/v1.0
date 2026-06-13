@@ -531,12 +531,6 @@ def build_quiz_html(quiz_id, summary):
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": category.replace('_', ' ').title() if category else "Quizzes",
-                "item": f"{SITE_URL}/?category={h(category)}",
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
                 "name": title,
                 "item": canonical,
             },
@@ -678,7 +672,6 @@ section{{padding:16px}}
 <div class="wrap">
   <nav class="breadcrumb" aria-label="Breadcrumb">
     <a href="/">Home</a> &rsaquo;
-    <a href="/?category={h(category)}">{h(category.replace('_', ' ').title())}</a> &rsaquo;
     <span>{h(title)}</span>
   </nav>
   <div class="hero">
@@ -718,8 +711,10 @@ section{{padding:16px}}
 </div>
 <footer>
   &copy; 2026 {h(SITE_NAME)} &middot;
-  <a href="/">Home</a>&middot;
-  <a href="/sitemap.xml">Sitemap</a>
+  <a href="/">Home</a> &middot;
+  <a href="/#about">About Us</a> &middot;
+  <a href="/#contact">Contact Us</a> &middot;
+  <a href="/#privacy">Privacy Policy</a>
 </footer>
 </body>
 </html>"""
