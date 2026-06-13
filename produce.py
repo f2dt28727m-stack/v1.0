@@ -481,7 +481,41 @@ def promote(staging_subdir: Path, dry_run: bool = False,
         promoted += 1
     print(f"\n  {'[dry-run] Would promote' if dry_run else '✓ Promoted'} "
           f"{promoted} quizzes. Live quiz IDs: {max_id - promoted + 1}..{max_id}")
+
+    # Auto-regenerate /quizzes.json (static file used by index.html) so
+    # the homepage listing picks up the new quizzes.
+    if not dry_run and promoted > 0:
+        print(f"\n  Regenerating static /quizzes.json (homepage listing)...")
+        rebuild_quizzes_json()
+    elif dry_run and promoted > 0:
+        print(f"\n  [dry-run] Would regenerate static /quizzes.json")
     return promoted
+
+
+# ============================================================
+# Rebuild /quizzes.json (static listing used by index.html)
+# ============================================================
+def rebuild_quizzes_json():
+    """Rebuild the static /quizzes.json from all quizzes/quiz_*.json files.
+    The homepage (index.html) preloads this file directly, so it must be
+    kept in sync whenever quizzes are added/removed/renamed."""
+    out = []
+    for f in sorted(QUIZZES_DIR.glob("quiz_*.json")):
+        with open(f) as fp:
+            q = json.load(fp)
+        out.append({
+            "quiz_id": f.stem,
+            "title": q.get("title", "Untitled"),
+            "category": q.get("category", "General"),
+            "tags": q.get("tags", []) or [],
+            "emoji": q.get("emoji", ["❓", "✨", "🎯"]),
+            "likes": q.get("likes", 0),
+        })
+    out_path = SCRIPT_DIR / "quizzes.json"
+    out_path.write_text(
+        json.dumps({"quizzes": out}, ensure_ascii=False, indent=2))
+    print(f"     → wrote {len(out)} quizzes to {out_path.relative_to(SCRIPT_DIR)}")
+    return len(out)
 
 
 # ============================================================
