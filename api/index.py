@@ -22,18 +22,21 @@ from collections import deque
 from datetime import datetime, timezone
 
 # ---------- Base dir resolution (works locally + on Vercel) ----------
+_api_dir = os.path.dirname(os.path.abspath(__file__))
 possible_dirs = [
-    os.path.dirname(os.path.abspath(__file__)),
-    '/var/task',
-    os.getcwd(),
+    _api_dir,                                    # /project/api/
+    os.path.dirname(_api_dir),                   # /project/
+    os.path.dirname(os.path.dirname(_api_dir)),  # /  (defensive)
+    '/var/task',                                 # Vercel default
+    os.getcwd(),                                 # last resort
 ]
 BASE_DIR = None
 for d in possible_dirs:
-    if os.path.exists(os.path.join(d, 'quizzes')):
+    if d and os.path.exists(os.path.join(d, 'quizzes')):
         BASE_DIR = d
         break
 if BASE_DIR is None:
-    BASE_DIR = possible_dirs[0]
+    BASE_DIR = _api_dir  # fall back to api/; downstream code will log 0 quizzes
 
 # ---------- Site config ----------
 # SITE_URL can be overridden via env var in Vercel (e.g. https://quizfig.com)
@@ -147,10 +150,10 @@ _rl_lock = threading.Lock()
 # Per-endpoint limits: (max_requests, window_seconds)
 RATE_LIMITS = {
     'token':     (10, 60),
-    'questions': (30, 60),
-    'result':    (30, 60),
-    'read':      (120, 60),
-    'global':    (240, 60),
+    'questions': (60, 60),
+    'result':    (60, 60),
+    'read':      (180, 60),
+    'global':    (300, 60),
 }
 UPSTASH_URL = os.environ.get('UPSTASH_REDIS_REST_URL', '')
 UPSTASH_TOKEN = os.environ.get('UPSTASH_REDIS_REST_TOKEN', '')
@@ -351,7 +354,10 @@ def build_quiz_html(quiz_id, summary):
             {
                 "@type": "Question",
                 "name": q.get('text', ''),
-                "acceptedAnswer": None,
+                "suggestedAnswer": [
+                    {"@type": "Answer", "text": o.get("text", "")}
+                    for o in (q.get('options', []) or [])[:4]
+                ],
             }
             for q in questions[:12]
         ],
@@ -449,6 +455,10 @@ def build_quiz_html(quiz_id, summary):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{h(title)} | {SITE_NAME}">
 <meta name="twitter:description" content="{h(description)}">
+<meta name="twitter:image" content="{SITE_URL}/og-default.png">
+<meta property="og:image" content="{SITE_URL}/og-default.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='52' font-size='52'%3E%F0%9F%A7%A9%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">{schema_ld}</script>
 <script type="application/ld+json">{breadcrumb_ld}</script>
@@ -567,11 +577,11 @@ section{{padding:16px}}
 # ---------- Sitemap & robots ----------
 def build_sitemap_xml():
     """Generate sitemap.xml with home + every quiz URL."""
-    lastmod = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+    home_lastmod = datetime.now(timezone.utc).strftime('%Y-%m-%d')
     urls = [
         f"""  <url>
     <loc>{SITE_URL}/</loc>
-    <lastmod>{lastmod}</lastmod>
+    <lastmod>{home_lastmod}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>"""
@@ -580,6 +590,13 @@ def build_sitemap_xml():
     for qid in sorted(_quizzes.keys()):
         if qid == 'onequiz':
             continue
+        # Use file mtime for accurate lastmod signal
+        fpath = os.path.join(BASE_DIR, 'quizzes', f'{qid}.json')
+        if os.path.exists(fpath):
+            mtime = datetime.fromtimestamp(os.path.getmtime(fpath), tz=timezone.utc)
+            lastmod = mtime.strftime('%Y-%m-%d')
+        else:
+            lastmod = home_lastmod
         urls.append(
             f"""  <url>
     <loc>{SITE_URL}/quiz/{h(qid)}</loc>

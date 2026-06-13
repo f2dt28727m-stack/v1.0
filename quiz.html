@@ -284,6 +284,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 <body>
 <button class="back-btn" onclick="goBack()">←</button>
 <div class="container" id="app"></div>
+<!-- Turnstile widget mount point (invisible). Server only enforces it if
+     TURNSTILE_SECRET is set in the deployment environment. -->
+<div id="cf-turnstile" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden"></div>
 
 <!-- Static AdSense ad unit - required for Googlebot to detect ads -->
 <div class="ad-container" style="margin: 20px auto; max-width: 600px;">
@@ -309,10 +312,66 @@ function getQuizId() {
 }
 
 // API Configuration
+// Auth is via a short-lived session token from /api/token; no shared secret
+// lives in the client. The baseUrl is the only thing we need on the client.
 const API_CONFIG = {
-    baseUrl: '/api',
-    apiKey: 'quiz_app_secret_key_2026' // In a real app, this would be more secure
+    baseUrl: '/api'
 };
+
+// Cloudflare Turnstile (anti-bot) — site key is PUBLIC, safe to expose.
+// Replace the placeholder with your real site key from
+// https://dash.cloudflare.com/?to=/:account/turnstile to enable bot protection.
+// If the key is still the placeholder, we skip rendering the widget entirely.
+const TURNSTILE_SITE_KEY = '0x4XXXXXXXX_REPLACE_WITH_REAL_SITE_KEY';
+const TURNSTILE_ENABLED = !TURNSTILE_SITE_KEY.includes('REPLACE_WITH_REAL_SITE_KEY');
+let turnstileToken = null;
+let turnstileWidgetId = null;
+let turnstileReady = null;
+
+function initTurnstile() {
+    if (!TURNSTILE_ENABLED) {
+        turnstileReady = Promise.resolve();
+        return;
+    }
+    turnstileReady = new Promise((resolve) => {
+        const script = document.createElement('script');
+        script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+        script.async = true;
+        script.defer = true;
+        script.onload = () => {
+            try {
+                if (!window.turnstile) { resolve(); return; }
+                turnstileWidgetId = window.turnstile.render('#cf-turnstile', {
+                    sitekey: TURNSTILE_SITE_KEY,
+                    size: 'invisible',
+                    callback: (token) => { turnstileToken = token; },
+                    'expired-callback': () => {
+                        turnstileToken = null;
+                        try { window.turnstile.reset(turnstileWidgetId); } catch (e) {}
+                    },
+                    'error-callback': () => {
+                        // Fail open: let the request go through, rate limit is the backup
+                        turnstileToken = null;
+                    },
+                });
+                resolve();
+            } catch (e) {
+                console.warn('Turnstile render failed:', e);
+                resolve();
+            }
+        };
+        script.onerror = () => {
+            console.warn('Turnstile script failed to load, proceeding without it');
+            resolve();
+        };
+        document.head.appendChild(script);
+    });
+}
+
+async function getTurnstileToken() {
+    if (turnstileReady) await turnstileReady;
+    return turnstileToken || '';
+}
 
 // Common config
 let commonConfig = null;
@@ -370,7 +429,12 @@ async function fetchWithTimeout(url, options, timeout = 10000) {
 // Get session token
 async function getToken() {
     try {
-        const response = await fetchWithTimeout(`${API_CONFIG.baseUrl}/token`);
+        const turnstile = await getTurnstileToken();
+        const response = await fetchWithTimeout(`${API_CONFIG.baseUrl}/token`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ turnstile_token: turnstile })
+        });
         if (!response.ok) {
             throw new Error('Failed to get token');
         }
@@ -387,9 +451,17 @@ async function getToken() {
 async function loadQuizData() {
     try {
         document.getElementById('app').innerHTML = '<div class="loading">Loading questions...</div>';
-        
-        // Get token
-        const tokenRes = await fetch('/api/token');
+
+        // Get token (POST, with Turnstile if configured)
+        const turnstile = await getTurnstileToken();
+        const tokenRes = await fetch('/api/token', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ turnstile_token: turnstile })
+        });
+        if (!tokenRes.ok) {
+            throw new Error('Failed to get token');
+        }
         const tokenData = await tokenRes.json();
         const token = tokenData.token;
         
@@ -400,9 +472,25 @@ async function loadQuizData() {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ token: token, quiz_id: quizId })
         });
-        
+
+        if (response.status === 429) {
+            // Rate limited — show friendlier message with retry-after
+            const retryAfter = parseInt(response.headers.get('Retry-After') || '60', 10);
+            const friendly = document.createElement('div');
+            friendly.className = 'loading';
+            friendly.style.flexDirection = 'column';
+            friendly.style.textAlign = 'center';
+            friendly.style.gap = '12px';
+            friendly.innerHTML = `<div>You're going a bit fast 😅</div>
+                <div style="font-size:14px;color:#888;">Try again in ${retryAfter}s.</div>
+                <button onclick="location.reload()" style="margin-top:8px;padding:8px 20px;background:#A259FF;color:#fff;border:none;border-radius:8px;cursor:pointer;">Retry</button>`;
+            document.getElementById('app').innerHTML = '';
+            document.getElementById('app').appendChild(friendly);
+            throw new Error('rate_limited');
+        }
+
         if (!response.ok) {
-            throw new Error('Failed to load quiz data');
+            throw new Error(`Failed to load quiz data (${response.status})`);
         }
         
         const data = await response.json();
@@ -419,6 +507,25 @@ async function loadQuizData() {
         }));
         
         quizData = { title: data.title, quizId: data.quiz_id, token: token };
+        
+        // Inject SEO/dynamic meta for this quiz
+        document.title = data.title + ' | QuizFig';
+        function setMeta(prop, content) {
+            var el = document.querySelector('meta[property="' + prop + '"]');
+            if (!el) { el = document.createElement('meta'); el.setAttribute('property', prop); document.head.appendChild(el); }
+            el.setAttribute('content', content);
+        }
+        var baseUrl = 'https://quizfig.com/quiz/' + data.quiz_id;
+        setMeta('og:title', data.title + ' | QuizFig');
+        setMeta('og:description', data.description || '');
+        setMeta('og:url', baseUrl);
+        setMeta('og:image', 'https://quizfig.com/og-default.png');
+        setMeta('twitter:title', data.title + ' | QuizFig');
+        setMeta('twitter:description', data.description || '');
+        setMeta('twitter:image', 'https://quizfig.com/og-default.png');
+        var link = document.querySelector('link[rel="canonical"]');
+        if (!link) { link = document.createElement('link'); link.rel = 'canonical'; document.head.appendChild(link); }
+        link.href = baseUrl;
         
     } catch (error) {
         console.error('Error loading quiz data:', error);
@@ -554,7 +661,7 @@ try {
     const data = await resp.json();
     const quizzes = data.quizzes || data;
     const randomQuiz = quizzes[Math.floor(Math.random() * quizzes.length)];
-    window.location.href = 'quiz-detail.html?id=' + randomQuiz.quiz_id;
+    window.location.href = '/quiz/' + randomQuiz.quiz_id;
 } catch(e) {
     // Fallback to index page
     window.location.href = 'index.html';
@@ -568,6 +675,9 @@ navigator.share?navigator.share({title:'My Result',text:t}):navigator.clipboard.
 // Initialize
 async function init() {
     try {
+        // Start Turnstile in parallel with the data load so it's ready by the
+        // time we need it for /api/token.
+        initTurnstile();
         await loadQuizData();
         renQ();
     } catch (error) {
