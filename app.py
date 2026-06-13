@@ -1,8 +1,17 @@
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, request, jsonify, send_from_directory, Response
 import json
 import random
 import hashlib
 import os
+import re
+import sys
+import time
+import threading
+from collections import deque
+
+# Make api/index.py importable as a module
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from api import index as seo  # noqa: E402  -- shares _quizzes, helpers, build_* functions
 
 app = Flask(__name__, static_folder='static')
 
@@ -21,53 +30,66 @@ def get_file_path(filename):
     """Get the correct file path whether locally or on Vercel"""
     return os.path.join(BASE_DIR, filename)
 
-# Load common config
-config_path = get_file_path('config.json')
-with open(config_path, 'r') as f:
-    config = json.load(f)
+# Reuse the quiz dict and helpers from api/index.py
+quizzes = seo._quizzes
 
-# Load all quizzes from quizzes directory
-quizzes = {}
-quizzes_directory = os.path.join(BASE_DIR, 'quizzes')
+# ---------- Rate limit (mirrors api/index.py) ----------
+_request_log: dict = {}
+_rl_lock = threading.Lock()
+RATE_LIMITS = seo.RATE_LIMITS
 
-if os.path.exists(quizzes_directory):
-    for filename in os.listdir(quizzes_directory):
-        if filename.endswith('.json'):
-            quiz_id = os.path.splitext(filename)[0]
-            try:
-                with open(os.path.join(quizzes_directory, filename), 'r') as f:
-                    quiz_data = json.load(f)
-                    if 'scoringRules' not in quiz_data:
-                        quiz_data['scoringRules'] = config['scoringRules']
-                    quizzes[quiz_id] = quiz_data
-                    print(f"Loaded quiz: {quiz_id}")
-            except Exception as e:
-                print(f"Error loading quiz {filename}: {e}")
 
-# Also load the original onequiz.json for backward compatibility
-onequiz_path = get_file_path('onequiz.json')
-if os.path.exists(onequiz_path):
-    with open(onequiz_path, 'r') as f:
-        onequiz_data = json.load(f)
-        if 'scoringRules' not in onequiz_data:
-            onequiz_data['scoringRules'] = config['scoringRules']
-        quizzes['onequiz'] = onequiz_data
+def _check_rate_limit(bucket):
+    """Return (allowed, headers, retry_after). Falls back to in-memory only;
+    api/index.py uses Upstash when env vars are set, this Flask version stays local."""
+    ip = request.headers.get('CF-Connecting-IP') or \
+         (request.headers.get('X-Forwarded-For', '').split(',')[0].strip() or None) or \
+         request.headers.get('X-Real-IP') or request.remote_addr or 'unknown'
+    max_req, window_s = RATE_LIMITS.get(bucket, (60, 60))
+    key = f"{bucket}:{ip}"
+    now = time.time()
+    with _rl_lock:
+        log = _request_log.setdefault(key, deque())
+        while log and log[0] < now - window_s:
+            log.popleft()
+        if len(log) >= max_req:
+            retry_after = int(window_s - (now - log[0])) if log else window_s
+            return False, {
+                'X-RateLimit-Limit': str(max_req),
+                'X-RateLimit-Remaining': '0',
+                'Retry-After': str(retry_after),
+            }, retry_after
+        log.append(now)
+        return True, {
+            'X-RateLimit-Limit': str(max_req),
+            'X-RateLimit-Remaining': str(max_req - len(log)),
+        }, 0
 
-API_KEY = config['commonSettings']['apiKey']
+
+def _enforce(bucket):
+    """Run global + bucket rate limit; if blocked, return a Flask response, else None."""
+    for b in ('global', bucket):
+        allowed, hdrs, _ = _check_rate_limit(b)
+        if not allowed:
+            resp = jsonify({'error': f'Rate limit exceeded ({b})'})
+            resp.status_code = 429
+            for k, v in hdrs.items():
+                resp.headers[k] = v
+            return resp
+    return None
+
 
 def generate_token():
     return hashlib.sha256(str(random.random()).encode()).hexdigest()
-
-def validate_api_key(api_key):
-    return api_key == API_KEY
 
 def validate_token(token):
     return len(token) == 64
 
 @app.route('/api/quizzes', methods=['GET'])
 def get_all_quizzes():
-    from flask import Response
-    import json as _json
+    blocked = _enforce('read')
+    if blocked:
+        return blocked
     quizzes_list = []
     for quiz_id, quiz_data in quizzes.items():
         if quiz_id == 'onequiz':
@@ -81,27 +103,33 @@ def get_all_quizzes():
         })
     # Sort by quiz_id for stable, deterministic order (matches production)
     quizzes_list.sort(key=lambda x: x['quiz_id'])
-    return Response(_json.dumps({'quizzes': quizzes_list}), mimetype='application/json')
+    return Response(json.dumps({'quizzes': quizzes_list}, ensure_ascii=False), mimetype='application/json')
 
 @app.route('/api/quizzes/<quiz_id>', methods=['GET'])
 def get_single_quiz(quiz_id):
-    from flask import Response
-    import json as _json
+    blocked = _enforce('read')
+    if blocked:
+        return blocked
+    if not re.match(r'^[A-Za-z0-9_]+$', quiz_id):
+        return jsonify({'error': 'Invalid id'}), 400
     quiz_data = quizzes.get(quiz_id)
     if not quiz_data:
         return jsonify({'error': 'Quiz not found'}), 404
 
-    return Response(_json.dumps({
+    return Response(json.dumps({
         'quiz_id': quiz_id,
         'title': quiz_data.get('title', 'Untitled Quiz'),
         'category': quiz_data.get('category', 'General'),
         'tags': quiz_data.get('tags', []),
         'description': quiz_data.get('description', ''),
         'emoji': quiz_data.get('emoji', ['❓', '✨', '🎯'])
-    }), mimetype='application/json')
+    }, ensure_ascii=False), mimetype='application/json')
 
 @app.route('/api/questions', methods=['POST'])
 def get_questions():
+    blocked = _enforce('questions')
+    if blocked:
+        return blocked
     data = request.get_json() or {}
     token = data.get('token', '')
     quiz_id = data.get('quiz_id', 'quiz_1')
@@ -125,8 +153,9 @@ def get_questions():
 
 @app.route('/api/result', methods=['POST'])
 def get_result():
-    from flask import Response
-    import json as _json
+    blocked = _enforce('result')
+    if blocked:
+        return blocked
     data = request.get_json() or {}
     token = data.get('token', '')
     answers = data.get('answers', {})
@@ -177,7 +206,7 @@ def get_result():
     total_tf = dimension_scores['T'] + dimension_scores['F'] if dimension_scores['T'] + dimension_scores['F'] > 0 else 1
     total_jp = dimension_scores['J'] + dimension_scores['P'] if dimension_scores['J'] + dimension_scores['P'] > 0 else 1
 
-    return Response(_json.dumps({
+    return Response(json.dumps({
         'mbti_type': mbti_type,
         'result': result,
         'percentages': {
@@ -186,23 +215,55 @@ def get_result():
             'thinking_feeling': int(dimension_scores['T'] * 100 / total_tf),
             'judging_perceiving': int(dimension_scores['J'] * 100 / total_jp)
         }
-    }), mimetype='application/json')
+    }, ensure_ascii=False), mimetype='application/json')
 
-@app.route('/api/token', methods=['GET'])
+@app.route('/api/token', methods=['POST'])
 def get_token():
+    blocked = _enforce('token')
+    if blocked:
+        return blocked
+    data = request.get_json(silent=True) or {}
+    turnstile_token = data.get('turnstile_token', '')
+    if not seo.verify_turnstile(turnstile_token,
+                                 remote_ip=request.headers.get('CF-Connecting-IP')):
+        return jsonify({'error': 'Turnstile verification failed'}), 401
     return jsonify({'token': generate_token()})
 
 @app.route('/api/tags', methods=['GET'])
 def get_tags():
     """Return tag library from data/tags.json (matches production)."""
-    from flask import Response
-    import json as _json
+    blocked = _enforce('read')
+    if blocked:
+        return blocked
     tags_path = os.path.join(BASE_DIR, 'data', 'tags.json')
     if not os.path.exists(tags_path):
         return Response('{}', mimetype='application/json')
     with open(tags_path, 'r', encoding='utf-8') as f:
         # Use json.dumps to preserve insertion order (matches Vercel api/index.py)
-        return Response(_json.dumps(_json.load(f)), mimetype='application/json')
+        return Response(json.dumps(json.load(f)), mimetype='application/json')
+
+# ---------- SEO routes (reuses build_* from api/index.py) ----------
+@app.route('/robots.txt')
+def robots():
+    return Response(seo.build_robots_txt(), mimetype='text/plain; charset=utf-8')
+
+@app.route('/sitemap.xml')
+def sitemap():
+    return Response(seo.build_sitemap_xml(), mimetype='application/xml; charset=utf-8')
+
+@app.route('/quiz/<path:rest>')
+def quiz_detail(rest):
+    """SSR detail page (reuses build_quiz_html from api/index.py)."""
+    rest = (rest or '').rstrip('/')
+    quiz_id = rest.split('-', 1)[0] if '-' in rest else rest
+    if not re.match(r'^[A-Za-z0-9_]+$', quiz_id):
+        return Response('Invalid quiz id', status=404, mimetype='text/plain')
+    summary = seo.get_quiz_summary(quiz_id)
+    if not summary:
+        return Response('<!doctype html><meta charset="utf-8"><title>Not found</title>'
+                        '<h1>Quiz not found</h1><p><a href="/">Back to home</a></p>',
+                        status=404, mimetype='text/html; charset=utf-8')
+    return Response(seo.build_quiz_html(quiz_id, summary), mimetype='text/html; charset=utf-8')
 
 @app.route('/')
 def serve_index():
@@ -210,6 +271,11 @@ def serve_index():
 
 @app.route('/<path:path>')
 def serve_file(path):
+    # /api/* and /quiz/* have explicit routes above; if they didn't match
+    # (e.g. wrong method, bad path), let Flask return 404/405 instead of
+    # shadowing them with this catch-all.
+    if path.startswith(('api/', 'quiz/')):
+        return jsonify({'error': 'Not found'}), 404
     if path.endswith('.html'):
         try:
             return send_from_directory(BASE_DIR, path)

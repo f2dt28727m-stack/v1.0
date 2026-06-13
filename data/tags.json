@@ -1,1 +1,277 @@
-{"Popular": {"MBTI": ["MBTI"], "Travel": ["Travel"], "Genshin Impact": ["Genshin Impact"], "Taylor Swift": ["Taylor Swift"]}, "Music": {"Taylor Swift": ["Taylor Swift", "taylor swift", "TS", "\u9709\u9709"], "Olivia Rodrigo": ["Olivia Rodrigo", "olivia rodrigo", "Olivia"], "NewJeans": ["NewJeans", "Newjeans", "newjeans", "\u9cb8\u9c7c"], "Sabrina Carpenter": ["Sabrina Carpenter", "sabrina carpenter", "Sabrina"], "K-pop": ["K-pop", "K-Pop", "kpop", "\u97e9\u6d41", "Korean Music"], "BTS": ["BTS", "bts", "\u9632\u5f39\u5c11\u5e74\u56e2"]}, "Movies & TV": {"Harry Potter": ["Harry Potter", "harry potter", "Wizarding World", "Hogwarts", "\u970d\u683c\u6c83\u8328", "\u54c8\u5229\u6ce2\u7279"], "Marvel": ["Marvel", "marvel", "MCU", "\u6f2b\u5a01", "Superhero", "\u8d85\u7ea7\u82f1\u96c4"], "Disney": ["Disney", "disney", "\u8fea\u58eb\u5c3c", "Disney Princess", "\u516c\u4e3b"], "Euphoria": ["Euphoria", "euphoria", "\u4ea2\u594b"], "Bluey": ["Bluey", "bluey", "\u5e03\u9c81\u4f0a"], "Netflix": ["Netflix", "netflix", "\u7f51\u98de"], "Princess": ["Princess", "\u516c\u4e3b"], "My Little Pony": ["My Little Pony", "MLP", "\u5c0f\u9a6c\u5b9d\u8389", "Pony"]}, "Personality": {"Hidden Trait": ["Hidden Trait", "hidden trait", "Hidden Traits", "\u9690\u85cf\u7279\u8d28", "Inner Traits", "Inner Self"], "Aesthetic Personality": ["Aesthetic Personality", "aesthetic personality", "\u5ba1\u7f8e\u4eba\u683c", "Aesthetic", "\u5ba1\u7f8e", "Aura", "\u6c14\u573a", "\u6c1b\u56f4\u611f"], "Soulmate Match": ["Soulmate Match", "soulmate match", "Soulmate", "\u7075\u9b42\u4f34\u4fa3", "\u5339\u914d", "\u914d\u5bf9", "\u7075\u9b42\u4f34\u4fa3\u5339\u914d"], "Future Life": ["Future Life", "future life", "\u672a\u6765\u4eba\u751f", "Future Destiny", "Future Lifestyle", "\u672a\u6765\u751f\u6d3b\u65b9\u5f0f"], "Love Language": ["Love Language", "love language", "\u7231\u60c5\u8bed\u8a00"]}, "Lifestyle": {"Adventure": ["Adventure", "adventure", "\u5192\u9669", "Future Adventure"], "Relationships": ["Relationships", "relationships", "\u4eba\u9645\u5173\u7cfb", "\u5173\u7cfb", "Relationship"], "Fantasy": ["Fantasy", "fantasy", "\u5947\u5e7b", "\u9b54\u5e7b"], "Friendship": ["Friendship", "friendship", "\u53cb\u60c5", "\u670b\u53cb", "Friends"], "Career": ["Career", "career", "\u804c\u4e1a", "\u5de5\u4f5c", "\u4e8b\u4e1a", "Work"], "Food": ["Food", "food", "\u7f8e\u98df", "\u98df\u7269", "Eating", "\u5403", "\u996e\u98df"], "Fashion": ["Fashion", "fashion", "\u65f6\u5c1a", "\u7a7f\u642d"], "Health": ["Health", "health", "\u5065\u5eb7", "\u517b\u751f", "Healthy"]}, "Gaming": {"Fortnite": ["Fortnite", "fortnite", "\u5821\u5792\u4e4b\u591c"], "Roblox": ["Roblox", "roblox", "\u7f57\u5e03\u4e50\u601d"], "Minecraft": ["Minecraft", "minecraft", "\u6211\u7684\u4e16\u754c"], "Genshin Impact": ["Genshin Impact", "genshin impact", "\u539f\u795e", "\u539f"], "League of Legends": ["League of Legends", "league of legends", "LOL", "\u82f1\u96c4\u8054\u76df", "LoL"], "Stardew Valley": ["Stardew Valley", "stardew valley", "\u661f\u9732\u8c37\u7269\u8bed", "\u661f\u9732\u8c37"], "Brawl Stars": ["Brawl Stars", "brawl stars", "\u8352\u91ce\u4e71\u6597"], "Honkai Star Rail": ["Honkai Star Rail", "honkai star rail", "\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053", "\u5d29\u574f\u661f\u94c1", "\u661f\u7a79\u94c1\u9053"], "Gaming": ["Gaming", "gaming", "\u6e38\u620f"], "Playstyle": ["Playstyle", "playstyle", "\u73a9\u6cd5\u98ce\u683c"]}}
+{
+  "Popular": {
+    "MBTI": [
+      "MBTI"
+    ],
+    "Travel": [
+      "Travel"
+    ],
+    "Genshin Impact": [
+      "Genshin Impact"
+    ],
+    "Taylor Swift": [
+      "Taylor Swift"
+    ]
+  },
+  "Music": {
+    "Taylor Swift": [
+      "Taylor Swift",
+      "taylor swift",
+      "TS",
+      "霉霉"
+    ],
+    "Olivia Rodrigo": [
+      "Olivia Rodrigo",
+      "olivia rodrigo",
+      "Olivia"
+    ],
+    "NewJeans": [
+      "NewJeans",
+      "Newjeans",
+      "newjeans",
+      "鲸鱼"
+    ],
+    "Sabrina Carpenter": [
+      "Sabrina Carpenter",
+      "sabrina carpenter",
+      "Sabrina"
+    ],
+    "K-pop": [
+      "K-pop",
+      "K-Pop",
+      "kpop",
+      "韩流",
+      "Korean Music"
+    ],
+    "BTS": [
+      "BTS",
+      "bts",
+      "防弹少年团"
+    ],
+    "Music": [
+      "Music"
+    ]
+  },
+  "Movies & TV": {
+    "Harry Potter": [
+      "Harry Potter",
+      "harry potter",
+      "Wizarding World",
+      "Hogwarts",
+      "霍格沃茨",
+      "哈利波特"
+    ],
+    "Marvel": [
+      "Marvel",
+      "marvel",
+      "MCU",
+      "漫威",
+      "Superhero",
+      "超级英雄"
+    ],
+    "Disney": [
+      "Disney",
+      "disney",
+      "迪士尼",
+      "Disney Princess",
+      "公主"
+    ],
+    "Euphoria": [
+      "Euphoria",
+      "euphoria",
+      "亢奋"
+    ],
+    "Bluey": [
+      "Bluey",
+      "bluey",
+      "布鲁伊"
+    ],
+    "Netflix": [
+      "Netflix",
+      "netflix",
+      "网飞"
+    ],
+    "Princess": [
+      "Princess",
+      "公主"
+    ],
+    "My Little Pony": [
+      "My Little Pony",
+      "MLP",
+      "小马宝莉",
+      "Pony"
+    ]
+  },
+  "Personality": {
+    "Hidden Trait": [
+      "Hidden Trait",
+      "hidden trait",
+      "Hidden Traits",
+      "隐藏特质",
+      "Inner Traits",
+      "Inner Self"
+    ],
+    "Aesthetic Personality": [
+      "Aesthetic Personality",
+      "aesthetic personality",
+      "审美人格",
+      "Aesthetic",
+      "审美",
+      "Aura",
+      "气场",
+      "氛围感"
+    ],
+    "Soulmate Match": [
+      "Soulmate Match",
+      "soulmate match",
+      "Soulmate",
+      "灵魂伴侣",
+      "匹配",
+      "配对",
+      "灵魂伴侣匹配"
+    ],
+    "Future Life": [
+      "Future Life",
+      "future life",
+      "未来人生",
+      "Future Destiny",
+      "Future Lifestyle",
+      "未来生活方式"
+    ],
+    "Love Language": [
+      "Love Language",
+      "love language",
+      "爱情语言"
+    ],
+    "Personality": [
+      "Personality"
+    ]
+  },
+  "Lifestyle": {
+    "Adventure": [
+      "Adventure",
+      "adventure",
+      "冒险",
+      "Future Adventure"
+    ],
+    "Relationships": [
+      "Relationships",
+      "relationships",
+      "人际关系",
+      "关系",
+      "Relationship"
+    ],
+    "Fantasy": [
+      "Fantasy",
+      "fantasy",
+      "奇幻",
+      "魔幻"
+    ],
+    "Friendship": [
+      "Friendship",
+      "friendship",
+      "友情",
+      "朋友",
+      "Friends"
+    ],
+    "Career": [
+      "Career",
+      "career",
+      "职业",
+      "工作",
+      "事业",
+      "Work"
+    ],
+    "Food": [
+      "Food",
+      "food",
+      "美食",
+      "食物",
+      "Eating",
+      "吃",
+      "饮食"
+    ],
+    "Fashion": [
+      "Fashion",
+      "fashion",
+      "时尚",
+      "穿搭"
+    ],
+    "Health": [
+      "Health",
+      "health",
+      "健康",
+      "养生",
+      "Healthy"
+    ]
+  },
+  "Gaming": {
+    "Fortnite": [
+      "Fortnite",
+      "fortnite",
+      "堡垒之夜"
+    ],
+    "Roblox": [
+      "Roblox",
+      "roblox",
+      "罗布乐思"
+    ],
+    "Minecraft": [
+      "Minecraft",
+      "minecraft",
+      "我的世界"
+    ],
+    "Genshin Impact": [
+      "Genshin Impact",
+      "genshin impact",
+      "原神",
+      "原"
+    ],
+    "League of Legends": [
+      "League of Legends",
+      "league of legends",
+      "LOL",
+      "英雄联盟",
+      "LoL"
+    ],
+    "Stardew Valley": [
+      "Stardew Valley",
+      "stardew valley",
+      "星露谷物语",
+      "星露谷"
+    ],
+    "Brawl Stars": [
+      "Brawl Stars",
+      "brawl stars",
+      "荒野乱斗"
+    ],
+    "Honkai Star Rail": [
+      "Honkai Star Rail",
+      "honkai star rail",
+      "崩坏：星穹铁道",
+      "崩坏星铁",
+      "星穹铁道"
+    ],
+    "Gaming": [
+      "Gaming",
+      "gaming",
+      "游戏"
+    ],
+    "Playstyle": [
+      "Playstyle",
+      "playstyle",
+      "玩法风格"
+    ]
+  },
+  "Other": {
+    "BLACKPINK": [
+      "BLACKPINK"
+    ],
+    "Fan Quiz": [
+      "Fan Quiz"
+    ],
+    "What Would You Do": [
+      "What Would You Do"
+    ]
+  }
+}

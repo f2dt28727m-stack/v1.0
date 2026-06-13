@@ -6,7 +6,6 @@
   },
   "commonSettings": {
     "questionsPerQuiz": 12,
-    "totalQuestions": 36,
-    "apiKey": "quiz_app_secret_key_2026"
+    "totalQuestions": 36
   }
 }

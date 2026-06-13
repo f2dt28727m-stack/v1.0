@@ -7,6 +7,7 @@
         "runtime": "python3.9",
         "includeFiles": [
           "quizzes/**",
+          "data/**",
           "config.json"
         ]
       }
@@ -55,6 +56,18 @@
   "routes": [
     {
       "src": "/api/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/quiz/(.+)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/sitemap.xml",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/robots.txt",
       "dest": "/api/index.py"
     },
     {
