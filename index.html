@@ -14,7 +14,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QuizFig - Personality Tests</title>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9900304220798571" crossorigin="anonymous"></script>
-    <style>
+<!-- Preload critical quiz data so the browser fetches it in parallel with parsing -->
+<link rel="preload" href="/quizzes.json" as="fetch" crossorigin="anonymous">
+<link rel="preload" href="/api/tags" as="fetch" crossorigin="anonymous">
+<style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -165,11 +168,43 @@
             display: flex;
             justify-content: center;
         }
-        
+
         .ad-container ins {
             max-width: 100%;
         }
-        
+
+        /* Skeleton loader - shown while data is loading */
+        @keyframes skeleton-pulse {
+            0% { opacity: 0.6; }
+            50% { opacity: 0.3; }
+            100% { opacity: 0.6; }
+        }
+        .skeleton-card {
+            background: #141414;
+            border-radius: 12px;
+            padding: 14px;
+            border: 1px solid #222;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            animation: skeleton-pulse 1.4s ease-in-out infinite;
+        }
+        .skeleton-icon {
+            width: 28px;
+            height: 28px;
+            background: #252525;
+            border-radius: 6px;
+            margin-right: 12px;
+            flex-shrink: 0;
+        }
+        .skeleton-line {
+            height: 10px;
+            background: #252525;
+            border-radius: 4px;
+            flex: 1;
+        }
+        .skeleton-line.short { width: 40%; margin-top: 6px; height: 8px; }
+
         /* Cards - 2 columns like All tab */
         .card-list {
             display: grid;
@@ -902,7 +937,13 @@
                 </div>
                 <div class="card-list" id="hot-list"></div>
             </div>
-            
+
+            <!-- Native Banner Ad -->
+            <div class="ad-container">
+                <script async="async" data-cfasync="false" src="https://pl29731036.effectivecpmnetwork.com/6bc25820f68ee9bb27fdcb9bae3aa8d9/invoke.js"></script>
+                <div id="container-6bc25820f68ee9bb27fdcb9bae3aa8d9"></div>
+            </div>
+
             <div class="ad-container">
                 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9900304220798571" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
             </div>
@@ -975,67 +1016,63 @@
     <script>
         // Data - Load from backend API
         let testList = [];
-        
+
+        // Render skeleton placeholders so the user sees structure immediately
+        function renderSkeletons(targetId, count) {
+            const el = document.getElementById(targetId);
+            if (!el) return;
+            const card = '<div class="skeleton-card"><div class="skeleton-icon"></div><div style="flex:1"><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>';
+            el.innerHTML = card.repeat(count);
+        }
+
+        // Paint skeletons synchronously (much faster perceived load)
+        renderSkeletons('hot-list', 6);
+        renderSkeletons('recommend-list', 6);
+        renderSkeletons('all-list', 8);
+
         // Load quiz data from backend API
         async function loadData() {
             try {
-                // Try to load from local API first (development)
-                const response = await fetch('/quizzes.json');
-                console.log('Fetch status:', response.status);
-                if (!response.ok) {
+                const t0 = performance.now();
+                const [quizzesRes, tagsRes] = await Promise.allSettled([
+                    fetch('/quizzes.json', { cache: 'force-cache' }),
+                    fetch('/api/tags', { cache: 'force-cache' })
+                ]);
+                if (quizzesRes.status !== 'fulfilled' || !quizzesRes.value.ok) {
                     throw new Error('Failed to load quiz data');
                 }
-                const data = await response.json();
-                console.log('Loaded quizzes:', data.quizzes.length);
-                
-                // Map API response to testList format
+                const data = await quizzesRes.value.json();
+                console.log('Loaded quizzes:', data.quizzes.length, 'in', (performance.now() - t0).toFixed(0) + 'ms');
                 testList = data.quizzes.map(quiz => {
-                    // Support both old format (quiz_id) and new format (id)
                     const quizId = quiz.quiz_id || quiz.id || '1';
-                    const category = quiz.category || quiz.categoryId || 'which_x';
-                    const tags = quiz.tags || quiz.userTags || [];
-                    
-                    const hash = quizId.split('').reduce((a, b) => ((a << 5) - a + b.charCodeAt(0)) | 0, 0);
-                    const absHash = Math.abs(hash);
-                    
-                    // Check tags for different ranges
-                    const isTrending = tags.some(t => ['trending', 'new ', '2024', '2025', 'viral', 'gummy', 'aura', 'poetcore', 'vamp', 'newest'].some(x => t.toLowerCase().includes(x)));
-                    const isPopular = tags.some(t => ['disney', 'harry potter', 'marvel', 'mbti', 'taylor swift', 'blackpink', 'my little pony'].some(x => t.toLowerCase().includes(x)));
-                    
-                    // Use pre-computed likes from quiz data
-                    let likes = quiz.likes || 0;
-                    
                     return {
                         test_id: quizId,
                         title: quiz.title,
-                        category_id: category,
-                        tags: tags,
+                        category_id: quiz.category || 'which_x',
+                        tags: quiz.tags || [],
                         emoji: quiz.emoji || ['✨', '🌟', '💫'],
-                        hot_count: likes
+                        hot_count: quiz.likes || 0
                     };
                 });
-                
-                // Initialize the page after data is loaded
-                
-                // Load tag categories from API
-                try {
-                    const tagsResponse = await fetch('/api/tags');
-                    console.log('Tags API status:', tagsResponse.status);
-                    if (tagsResponse.ok) {
-                        const tagsData = await tagsResponse.json();
-                        console.log('Tags loaded:', Object.keys(tagsData));
+                // Render Trending first so users see content ASAP
+                renderHome();
+                await new Promise(r => setTimeout(r, 0));
+                renderRecommended();
+                renderAll();
+                renderTags();
+                if (tagsRes.status === 'fulfilled' && tagsRes.value.ok) {
+                    try {
+                        const tagsData = await tagsRes.value.json();
                         buildTagCategoriesFromAPI(tagsData);
-                    } else {
-                        // Fallback to dynamic build from quiz data
-                        console.log('Tags API failed, using dynamic');
+                        renderTags();
+                    } catch (e) {
                         buildTagCategories();
+                        renderTags();
                     }
-                } catch (e) {
-                    console.log('Tags API error:', e);
+                } else {
                     buildTagCategories();
+                    renderTags();
                 }
-                
-                init();
             } catch (error) {
                 console.error('Error loading data:', error);
                 // Use fallback data if loading fails
@@ -1526,16 +1563,17 @@
         
         const tagCategories = {};
         
-        // Load data when page loads
-        window.onload = function() {
-            checkFirstTime();
-            loadData();
-            
-            // Initialize ads after page load
+        // Kick off data load as soon as the script runs (we're at the end of <body>,
+        // so the DOM is parsed). No need to wait for window.onload (images, ads, etc).
+        checkFirstTime();
+        loadData();
+
+        // Initialize ads without waiting for full page load
+        (function() {
             if (window.adsbygoogle) {
                 (adsbygoogle = window.adsbygoogle || []).push({});
             }
-        };
+        })();
         
         function showAboutModal() {
             document.getElementById('about-modal').style.display = 'flex';
@@ -1598,5 +1636,7 @@
             </div>
         </div>
     </div>
+<!-- Footer Ad Script -->
+<script src="https://pl29731037.effectivecpmnetwork.com/e9/6d/d8/e96dd8df6601a8ae07af1bd836296417.js"></script>
 </body>
 </html>

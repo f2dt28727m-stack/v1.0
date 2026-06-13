@@ -52,10 +52,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .mbti-dims{display:flex;flex-direction:column;gap:16px;margin:20px 0 30px}
 .mbti-dim{display:flex;flex-direction:column;gap:6px}
 .mbti-labels{display:flex;justify-content:space-between;font-size:12px;color:#888}
-.mbti-bar-wrap{position:relative;height:24px;background:#222;border-radius:12px;overflow:hidden}
+.mbti-bar-wrap{position:relative;height:24px;background:linear-gradient(90deg,rgba(162,89,255,0.10),rgba(255,122,182,0.10)),#1a1a1a;border-radius:12px;overflow:hidden}
 .mbti-bar{position:absolute;top:0;height:100%;background:linear-gradient(90deg,#A259FF,#FF7AB6);transition:all .5s ease}
 .mbti-center{position:absolute;left:50%;top:0;bottom:0;width:2px;background:#444;transform:translateX(-50%)}
 .mbti-pct{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:11px;font-weight:700;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.8)}
+.mbti-dim.is-tie .mbti-pct{color:#e0d4ff}
 .vote-btn .icon{width:44px;height:44px;background:#1a1a1a;border:1px solid #333;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px}
 .vote-btn.liked .icon{border-color:#ff4757;color:#ff4757}
 .vote-btn.disliked .icon{border-color:#7bed9f;color:#7bed9f}
@@ -278,8 +279,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .about-body p { color: #aaa; line-height: 1.6; }
 .about-content.privacy-content { width: 360px; max-height: 80vh; }
 .privacy-body { max-height: 60vh; overflow-y: auto; padding-right: 8px; font-size: 12px; line-height: 1.6; }
-    padding: 0 20px;
-}
 </style>
 </head>
 <body>
@@ -521,12 +520,23 @@ async function showR(){
         <div class="mbti-dims">${dims.map(d => {
             const leftPct = d.p;
             const rightPct = 100 - d.p;
-            const barStyle = d.p <= 50 
-                ? `left:0;width:${rightPct}%;background:linear-gradient(90deg,#666,#888)`
-                : `left:${rightPct}%;width:${leftPct}%;background:linear-gradient(90deg,#A259FF,#FF7AB6)`;
-            const label = d.p > 50 ? d.left : d.right;
-            const pct = Math.max(leftPct, rightPct);
-            return `<div class="mbti-dim"><div class="mbti-labels"><span>${d.left}</span><span>${d.right}</span></div><div class="mbti-bar-wrap"><div class="mbti-bar" style="${barStyle}"></div><div class="mbti-center"></div><div class="mbti-pct">${pct}% ${label}</div></div></div>`;
+            // Gradient bar always sits on the winning side; loser side is just the dark track.
+            // 50/50 ties get a symmetric "Balanced" look with no clear winner.
+            let barStyle, label, pct, isTie = (leftPct === rightPct);
+            if (isTie) {
+                barStyle = `left:0;width:100%;background:linear-gradient(90deg,rgba(162,89,255,0.45),rgba(255,122,182,0.45))`;
+                label = 'Balanced';
+                pct = '50 / 50';
+            } else if (leftPct > rightPct) {
+                barStyle = `left:0;width:${leftPct}%;background:linear-gradient(90deg,#A259FF,#FF7AB6)`;
+                label = d.left;
+                pct = leftPct + '%';
+            } else {
+                barStyle = `left:${leftPct}%;width:${rightPct}%;background:linear-gradient(90deg,#A259FF,#FF7AB6)`;
+                label = d.right;
+                pct = rightPct + '%';
+            }
+            return `<div class="mbti-dim${isTie ? ' is-tie' : ''}"><div class="mbti-labels"><span>${d.left}</span><span>${d.right}</span></div><div class="mbti-bar-wrap"><div class="mbti-bar" style="${barStyle}"></div><div class="mbti-center"></div><div class="mbti-pct">${pct} ${label}</div></div></div>`;
         }).join('')}</div>
         <div class="share-btns"><button class="share-btn primary" onclick="shareR()">📤 Share</button><button class="share-btn secondary" onclick="goBack()">🔄 Try Again</button><button class="share-btn secondary" onclick="goRandom()">🎲 Random</button></div>
         </div>`;
