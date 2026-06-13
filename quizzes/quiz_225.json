@@ -1,0 +1,361 @@
+{
+  "quizId": 225,
+  "title": "What would you do in the 2026 World Cup world?",
+  "category": "whatwould",
+  "tags": [
+    "World Cup",
+    "Soccer",
+    "Sports",
+    "Personality",
+    "Football"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired what-would-you-do archetype! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "If you faced a tense moment like Mbappé's run in the 2022 final, what would you do?",
+      "options": [
+        {
+          "text": "Execute a rehearsed dribble pattern you've drilled a hundred times",
+          "score": "S"
+        },
+        {
+          "text": "Charge forward and take on every defender yourself",
+          "score": "E"
+        },
+        {
+          "text": "Try a no-look pass or a nutmeg that no one expects",
+          "score": "N"
+        },
+        {
+          "text": "Hold back and wait for the perfect opening",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "If you had to take a Panenka penalty in a shootout, what would you do?",
+      "options": [
+        {
+          "text": "Stick to your pre-planned spot, no matter what",
+          "score": "J"
+        },
+        {
+          "text": "Try to read the keeper's body language and put it where he won't dive",
+          "score": "F"
+        },
+        {
+          "text": "Decide at the last second based on a gut feeling",
+          "score": "P"
+        },
+        {
+          "text": "Go with the cold hard stats—choose the side with highest probability",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "If you were subbed on in a World Cup semi-final, what would you do?",
+      "options": [
+        {
+          "text": "Sprint to support a tired teammate and lift the team morale",
+          "score": "F"
+        },
+        {
+          "text": "Find your spot and wait for the game to come to you",
+          "score": "I"
+        },
+        {
+          "text": "Analyze the formation and target the weak link",
+          "score": "T"
+        },
+        {
+          "text": "Immediately demand the ball and try to create a moment",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "If your team needed a goal in the 90th minute, what would you do?",
+      "options": [
+        {
+          "text": "Look for the same cross that worked in training all week",
+          "score": "S"
+        },
+        {
+          "text": "Stick to your tactical assignment and trust the system",
+          "score": "J"
+        },
+        {
+          "text": "Try an audacious backheel or a rabona out of nowhere",
+          "score": "N"
+        },
+        {
+          "text": "Abandon position and overload the box like it's a schoolyard game",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "If you were defending a one-goal lead in the final minutes, what would you do?",
+      "options": [
+        {
+          "text": "Become the loudest voice on the pitch, constantly encouraging and organizing",
+          "score": "E"
+        },
+        {
+          "text": "Instruct everyone to drop deep and waste time near the corner flag",
+          "score": "J"
+        },
+        {
+          "text": "Stay silent and focused, tracking every runner like a shadow",
+          "score": "I"
+        },
+        {
+          "text": "Keep your shape and clear the ball upfield—no risks",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "If you had to break down a parked bus defense like Morocco 2022, what would you do?",
+      "options": [
+        {
+          "text": "Try a visionary long ball to switch play and stretch them",
+          "score": "N"
+        },
+        {
+          "text": "Check the offside trap and time your run perfectly",
+          "score": "T"
+        },
+        {
+          "text": "Try a cheeky backheel flick or a dummy run to confuse them",
+          "score": "P"
+        },
+        {
+          "text": "Run at defenders to draw fouls and free kicks",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "If you were captaining your nation in a World Cup opener, what would you do?",
+      "options": [
+        {
+          "text": "Make sure everyone knows their set-piece roles down to the letter",
+          "score": "J"
+        },
+        {
+          "text": "Adjust the formation based on the opponent's lineup you studied",
+          "score": "T"
+        },
+        {
+          "text": "Pull a teammate aside for a quiet word before kickoff",
+          "score": "N"
+        },
+        {
+          "text": "Lead from the front with an early press and a statement tackle",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "If you were on the bench watching your team struggle, what would you do?",
+      "options": [
+        {
+          "text": "Warm up constantly and signal to the coach you're ready",
+          "score": "S"
+        },
+        {
+          "text": "Daydream about scoring a last-minute winner and how you'd celebrate",
+          "score": "P"
+        },
+        {
+          "text": "Cheer every tackle and lift the bench energy like a hype man",
+          "score": "F"
+        },
+        {
+          "text": "Study the game and mentally prepare for your moment",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "If you were facing a hostile away crowd at a World Cup, what would you do?",
+      "options": [
+        {
+          "text": "Let the moment take over and improvise a wild celebration",
+          "score": "P"
+        },
+        {
+          "text": "Shush the crowd after you score, feeding off their boos",
+          "score": "E"
+        },
+        {
+          "text": "Stay in your own head, blocking out the noise completely",
+          "score": "I"
+        },
+        {
+          "text": "Use the noise to gauge when to pass—quicker decisions under pressure",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you were in a 1v1 with the keeper like Messi vs Netherlands 2022, what would you do?",
+      "options": [
+        {
+          "text": "Try a chip or a dink over the keeper like a true artist",
+          "score": "N"
+        },
+        {
+          "text": "Stick to your pre-planned finish from the morning walkthrough",
+          "score": "J"
+        },
+        {
+          "text": "Go for the near post—it's the highest percentage shot",
+          "score": "S"
+        },
+        {
+          "text": "Look for a square ball to a teammate for a tap-in",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "If you had to celebrate a goal in a World Cup final, what would you do?",
+      "options": [
+        {
+          "text": "Point to the heavens or dedicate it to a loved one in the stands",
+          "score": "F"
+        },
+        {
+          "text": "Run to the corner flag and perform a rehearsed dance with teammates",
+          "score": "S"
+        },
+        {
+          "text": "Slide on your knees and scream at the sky like Ronaldo",
+          "score": "E"
+        },
+        {
+          "text": "Run to the bench to hug the coaching staff because it's a team effort",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If your team lost a penalty shootout like Italy 2022, what would you do?",
+      "options": [
+        {
+          "text": "Throw your shirt and kick a water bottle in frustration",
+          "score": "P"
+        },
+        {
+          "text": "Deconstruct the keeper's tactics and opponent's penalties",
+          "score": "T"
+        },
+        {
+          "text": "Analyze what went wrong and mentally file it for next time",
+          "score": "N"
+        },
+        {
+          "text": "Console teammates and stay on the pitch to thank the fans",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Showstopper - ENTJ.",
+      "description": "You are the main character energy of a World Cup final. No cap, you'd take over the game like Mbappé did in 2022—hat-trick and all. You thrive under pressure and demand the ball when it matters most. Your vibe is 'I'm built for this', and you'd absolutely eat the spotlight. Fans would make stan accounts dedicated to your every touch. You're not just a player; you're the moment.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Visionary - ENTP.",
+      "description": "Your playstyle is pure chaos, but it works. You'd attempt a Panenka in a shootout because 'why not?' and pull off a no-look pass that leaves defenders questioning reality. You're the type to analyze the game like a chess match, always three moves ahead. Your highlight reel would be a compilation of audacious tricks and nutmegs, and fans would call you 'that player' who tries anything once.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heart of the Team - ENFJ.",
+      "description": "You're the captain who hugs every teammate before kickoff and gives speeches that go viral. Like Messi in 2022, you lead with emotion and lift everyone around you. You'd be the one consoling a young player after a missed penalty, and your Instagram would be full of team-bonding stories. Fans adore you because you play for the crest, not yourself.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Flash - ENFP.",
+      "description": "You're pure joy on the pitch—dribbling with a smile, doing random flicks, and celebrating like you just won the lottery. Your energy is infectious, and you'd be the one dancing in the tunnel before the game. Fans would make edits of you laughing while nutmegging a defender set to pop music. You play like every match is a street football game with your friends.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Machine - ESTJ.",
+      "description": "You are the tactical backbone, the one who never misses a defensive assignment. Your game is built on discipline and repetition—like a well-oiled machine. You'd be the player shouting instructions and organizing the wall for free kicks. Coaches love you, and fans respect your relentless work rate. You're the reason the team doesn't crumble under pressure.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Showstopper - ESTP.",
+      "description": "You live for the big moment. When the game is on the line, you want the ball at your feet. You'd take on three defenders, nutmeg one, and slot it top bins—no fear. Your confidence is off the charts, and you'd celebrate with a backflip or a knee slide. Fans call you 'cold' because you never seem nervous, even in a penalty shootout.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Heartbeat - ESFJ.",
+      "description": "You're the glue that holds the team together. Before the match, you're making sure everyone has their pre-game meal and doing the team's laundry. On the pitch, you cover for tired teammates and always offer a hand to help them up. Fans would make compilations of you high-fiving ball boys and signing autographs after a loss. You're everyone's favorite teammate.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Party Starter - ESFP.",
+      "description": "You're the life of the World Cup—dancing in the warm-up, doing a TikTok celebration, and making the crowd roar. Your playstyle is flair: stepovers, rainbow flicks, and a smile that says 'I'm having the time of my life'. Fans would stan your vibe, and your post-match interviews would be legendary. You play football like it's a festival.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Architect - INTJ.",
+      "description": "You see the game like a grand strategy. Every pass, every run is calculated. You'd be the one analyzing opponents' weaknesses and exploiting them with surgical precision. Like a young Guardiola, you think three moves ahead. Fans would call you 'the professor' because you seem to have a PhD in football. Your quiet intensity is intimidating on the pitch.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analyst - INTP.",
+      "description": "You're the one who can explain why a certain formation works or why a player's first touch is off. On the pitch, you'd try an experimental pass that only you see. You love the theory of the game—spending hours watching replays and drawing diagrams. Fans appreciate your unique vision, even if your style looks unconventional. You're a football nerd, and proud of it.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Mystic - INFJ.",
+      "description": "You have an almost psychic sense of where the ball will land. Your passes seem to find teammates in impossible spaces. Off the pitch, you're the one who writes heartfelt letters to fans and remembers every ball boy's name. Like a quiet leader, you inspire without shouting. Fans would describe you as 'deep' and 'soulful', and your interviews are poetry.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poet - INFP.",
+      "description": "You play with pure emotion. Every goal is a story, every loss a tragedy. You'd be the one staying on the pitch after a defeat, tears streaming, because the game means that much to you. Your style is graceful—like a dancer with the ball. Fans would write essays about your 'beautiful' approach to football. You see the sport as art, not just a competition.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Rock - ISTJ.",
+      "description": "You are the reliable presence that every team needs. You never miss a training session, you always track back, and you take your defensive duties seriously. Like a veteran center-back, you organize the line and make crucial tackles. Fans respect your consistency—you might not be flashy, but you're the reason the team doesn't concede. You're the unsung hero.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Ninja - ISTP.",
+      "description": "You're a silent assassin on the pitch. You don't talk much, but your actions speak volumes. You'd make a perfectly timed tackle, then release a killer pass in the same motion. Your composure under pressure is unmatched—like a ninja in a storm. Fans love your 'ice in the veins' moments, like scoring a penalty with zero celebration. You're cool, calm, and deadly.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Guardian - ISFJ.",
+      "description": "You are the protector of the team. You'd be the one making a goal-line clearance or taking a hit for the team. Off the pitch, you remember everyone's birthday and bring snacks to training. Fans would call you 'the mom of the team' because you always put others first. Your loyalty is unwavering, and you'd run through a wall for your teammates.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artist - ISFP.",
+      "description": "Your football is a canvas. You'd dribble past defenders with grace, using feints and body swerves like brushstrokes. You play by instinct, not by the book. After scoring, you might do a quiet, artistic celebration—like a bow or a simple smile. Fans would call your style 'beautiful' and make slow-mo edits of your touches. You're a free spirit on the pitch.",
+      "mbti": "ISFP"
+    }
+  ]
+}

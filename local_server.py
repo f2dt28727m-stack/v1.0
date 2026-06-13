@@ -19,20 +19,26 @@ api_mod = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(api_mod)
 
 class Handler(SimpleHTTPRequestHandler):
+    # Paths handled by api/index.py (WSGI). Everything else is served as static files.
+    _WSGI_PREFIXES = ("/api/", "/quiz/", "/sitemap.xml", "/robots.txt")
+
+    def _is_wsgi_path(self):
+        return any(self.path.startswith(p) or self.path == p for p in self._WSGI_PREFIXES)
+
     def do_GET(self):
-        if self.path.startswith("/api/"):
+        if self._is_wsgi_path():
             self._proxy_to_wsgi("GET")
         else:
             super().do_GET()
 
     def do_POST(self):
-        if self.path.startswith("/api/"):
+        if self._is_wsgi_path():
             self._proxy_to_wsgi("POST")
         else:
             self.send_error(405)
 
     def do_OPTIONS(self):
-        if self.path.startswith("/api/"):
+        if self._is_wsgi_path():
             self._proxy_to_wsgi("OPTIONS")
         else:
             self.send_error(405)
