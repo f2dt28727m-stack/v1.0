@@ -8,6 +8,7 @@ Routes:
   - /robots.txt             robots policy
   - /                       serves index.html (handled by Vercel static)
 """
+import hmac
 import json
 import random
 import hashlib
@@ -19,7 +20,8 @@ import time
 import urllib.request
 import urllib.parse
 from collections import deque
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from io import StringIO
 
 # ---------- Base dir resolution (works locally + on Vercel) ----------
 _api_dir = os.path.dirname(os.path.abspath(__file__))
@@ -196,6 +198,156 @@ def _upstash_incr(key, window_s):
     except Exception as e:
         print(f"[upstash] error: {e}")
         return -1
+
+
+# ---------- Completion counter (T+1 reporting) ----------
+# 每天一个 hash: complete:YYYY-MM-DD -> { quiz_id: count }
+# 100 天 TTL，hash 内字段在第一次写入后由 HINCRBY 自动维护。
+# 这是 T+1 自建计数的数据层：写得轻、读得快、零额外依赖。
+COMPLETION_TTL_SECONDS = 86400 * 100  # 100 天
+
+
+def _record_completion(quiz_id):
+    """Record one quiz completion for today (UTC). Fire-and-forget:
+    never raises and never affects the /api/result response. Returns True
+    if Upstash was hit, False if skipped (not configured / errored)."""
+    if not UPSTASH_URL or not UPSTASH_TOKEN or not quiz_id:
+        return False
+    try:
+        date_key = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+        hash_key = f"complete:{date_key}"
+        # HINCRBY field quiz_id 1 + EXPIRE hash_key 100d. Pipeline = 1 round trip.
+        body = json.dumps([
+            ["HINCRBY", hash_key, quiz_id, 1],
+            ["EXPIRE", hash_key, COMPLETION_TTL_SECONDS],
+        ])
+        req = urllib.request.Request(
+            UPSTASH_URL.rstrip('/') + '/pipeline',
+            data=body.encode('utf-8'),
+            method='POST',
+            headers={
+                'Authorization': f'Bearer {UPSTASH_TOKEN}',
+                'Content-Type': 'application/json',
+            },
+        )
+        with urllib.request.urlopen(req, timeout=2) as resp:
+            resp.read()
+        return True
+    except Exception as e:
+        print(f"[upstash] completion counter error: {e}")
+        return False
+
+
+def _upstash_hgetall(key):
+    """HGETALL via Upstash pipeline. Returns dict {field: int_count}, or {} on
+    miss / error / not configured. Empty hash returns [] from Upstash."""
+    if not UPSTASH_URL or not UPSTASH_TOKEN:
+        return {}
+    try:
+        body = json.dumps([["HGETALL", key]])
+        req = urllib.request.Request(
+            UPSTASH_URL.rstrip('/') + '/pipeline',
+            data=body.encode('utf-8'),
+            method='POST',
+            headers={
+                'Authorization': f'Bearer {UPSTASH_TOKEN}',
+                'Content-Type': 'application/json',
+            },
+        )
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        if not data or 'result' not in data[0]:
+            return {}
+        flat = data[0]['result'] or []
+        out = {}
+        # HGETALL returns [field, value, field, value, ...]
+        for i in range(0, len(flat) - 1, 2):
+            try:
+                out[flat[i]] = int(flat[i + 1])
+            except (ValueError, TypeError):
+                pass
+        return out
+    except Exception as e:
+        print(f"[upstash] hgetall error: {e}")
+        return {}
+
+
+def _csv_escape(value):
+    """Escape a value for CSV per RFC 4180. Wraps in quotes if it contains
+    comma/quote/newline; doubles internal quotes."""
+    s = '' if value is None else str(value)
+    if any(c in s for c in (',', '"', '\n', '\r')):
+        return '"' + s.replace('"', '""') + '"'
+    return s
+
+
+def _build_admin_daily_csv(date_str):
+    """Build a CSV body for `date_str` (YYYY-MM-DD, must be < today UTC).
+    Includes all known quizzes (0 if no completions), sorted by count desc."""
+    counts = _upstash_hgetall(f"complete:{date_str}")
+    rows = []
+    for qid in sorted(_quizzes.keys()):
+        if qid == 'onequiz':
+            continue
+        title = _quizzes[qid].get('title', 'Untitled')
+        rows.append((qid, title, counts.get(qid, 0)))
+    rows.sort(key=lambda r: (-r[2], r[0]))
+
+    buf = StringIO()
+    buf.write('date,quiz_id,quiz_title,count\n')
+    for qid, title, cnt in rows:
+        buf.write(f'{date_str},{_csv_escape(qid)},{_csv_escape(title)},{cnt}\n')
+    return buf.getvalue()
+
+
+def _admin_daily_csv(environ, start_response):
+    """GET /api/admin/daily.csv?date=YYYY-MM-DD&key=XXX
+    T+1 daily completion report. `date` defaults to yesterday UTC.
+    Rejects today/future dates so reports stay reproducible.
+    Auth: ADMIN_KEY env var compared in constant time against ?key=.
+    """
+    qs = urllib.parse.parse_qs(environ.get('QUERY_STRING', ''))
+    provided_key = (qs.get('key') or [''])[0]
+    expected_key = os.environ.get('ADMIN_KEY', '')
+
+    if not expected_key:
+        return respond(start_response, '503 SERVICE UNAVAILABLE', api_headers('no'),
+                       json.dumps({'error': 'ADMIN_KEY env var is not set on server'}))
+    if not provided_key or not hmac.compare_digest(provided_key, expected_key):
+        return respond(start_response, '401 UNAUTHORIZED', api_headers('no'),
+                       json.dumps({'error': 'Invalid or missing key'}))
+
+    # Resolve target date (default = yesterday UTC)
+    date_str = (qs.get('date') or [''])[0].strip()
+    if not date_str:
+        date_str = (datetime.now(timezone.utc) - timedelta(days=1)).strftime('%Y-%m-%d')
+
+    try:
+        datetime.strptime(date_str, '%Y-%m-%d')
+    except ValueError:
+        return respond(start_response, '400 BAD REQUEST', api_headers('no'),
+                       json.dumps({'error': 'Invalid date format, use YYYY-MM-DD'}))
+
+    # T+1 enforcement: requested date must be strictly before today (UTC)
+    today_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+    if date_str >= today_utc:
+        return respond(start_response, '400 BAD REQUEST', api_headers('no'),
+                       json.dumps({'error': f'T+1 only: requested date must be before today UTC ({today_utc})'}))
+
+    if not UPSTASH_URL or not UPSTASH_TOKEN:
+        return respond(start_response, '503 SERVICE UNAVAILABLE', api_headers('no'),
+                       json.dumps({'error': 'Upstash not configured; no completion data available'}))
+
+    try:
+        csv_body = _build_admin_daily_csv(date_str)
+    except Exception as e:
+        return respond(start_response, '500 INTERNAL SERVER ERROR', api_headers('no'),
+                       json.dumps({'error': f'Build failed: {e}'}))
+
+    headers = api_headers('no')
+    headers['Content-Type'] = 'text/csv; charset=utf-8'
+    headers['Content-Disposition'] = f'attachment; filename="quizfig-completions-{date_str}.csv"'
+    return respond(start_response, '200 OK', headers, csv_body)
 
 
 def _check_rate_limit(environ, bucket):
@@ -850,6 +1002,9 @@ def app(environ, start_response):
         total_tf = scores['T'] + scores['F'] or 1
         total_jp = scores['J'] + scores['P'] or 1
 
+        # T+1 completion counter: fire-and-forget, never fails the result.
+        _record_completion(quiz_id)
+
         return respond(start_response, '200 OK', api_headers('no'),
                        json.dumps({
                            'mbti_type': mbti,
@@ -861,6 +1016,10 @@ def app(environ, start_response):
                                'judging_perceiving': int(scores['J'] * 100 / total_jp),
                            }
                        }, ensure_ascii=False))
+
+    # ---------- /api/admin/daily.csv (GET) — T+1 completion report ----------
+    if path == '/api/admin/daily.csv' and method == 'GET':
+        return _admin_daily_csv(environ, start_response)
 
     # ---------- 404 ----------
     return respond(start_response, '404 NOT FOUND', api_headers('no'),
