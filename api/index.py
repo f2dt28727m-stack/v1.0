@@ -498,6 +498,30 @@ def build_subject_section_html(full_quiz, tags):
             f"  </section>"
         )
 
+    # Character list (e.g. Harry Potter, Genshin roster): render every
+    # result's title + mbti so each character name + typing is indexable
+    # and can capture "<character> MBTI" searches.
+    if meta.get('is_character_list'):
+        results = full_quiz.get('results') or []
+        char_rows = [
+            r for r in results
+            if (r.get('title') or r.get('name')) and r.get('mbti')
+        ]
+        if not char_rows:
+            return ''
+        items_html = ''.join(
+            f"<li><strong>{h((r.get('title') or r.get('name', '')).strip())}</strong> &mdash; <strong>{h(r['mbti'].strip())}</strong></li>"
+            for r in char_rows
+        )
+        count = len(char_rows)
+        return (
+            f"  <section>\n"
+            f"    <h2>{h(subject)} Characters&rsquo; MBTI Types</h2>\n"
+            f"    <p>Each of the {count} {h(subject)} characters in this quiz has their own widely-discussed MBTI type in fan communities. This free quiz matches you to the character whose personality type most closely mirrors yours:</p>\n"
+            f"    <ul style=\"margin:8px 0 0 0;padding-left:18px;list-style:disc\">{items_html}</ul>\n"
+            f"  </section>"
+        )
+
     # Single celebrity
     primary = (meta.get('typing_primary') or '').strip()
     alternate = (meta.get('typing_alternate') or '').strip()
