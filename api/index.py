@@ -772,6 +772,8 @@ section{{padding:16px}}
   <a href="/#contact">Contact Us</a> &middot;
   <a href="/#privacy">Privacy Policy</a>
 </footer>
+<!-- Footer Ad Script (Adsterra Social Bar) -->
+<script src="https://pl29731037.effectivecpmnetwork.com/e9/6d/d8/e96dd8df6601a8ae07af1bd836296417.js"></script>
 </body>
 </html>"""
     return html_doc
