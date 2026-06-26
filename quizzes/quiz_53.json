@@ -352,5 +352,10 @@
     "⭐"
   ],
   "likes": 24464,
-  "tests": 2038712
+  "tests": 2038712,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFJ",
+    "typing_alternate": "ESFP or INFP"
+  }
 }

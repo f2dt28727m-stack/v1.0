@@ -1,5 +1,5 @@
 {
-  "quizId": 98765,
+  "quizId": 152,
   "title": "How Ice Spice Are You?",
   "category": "how",
   "tags": [
@@ -352,5 +352,10 @@
     "✨"
   ],
   "likes": 4754,
-  "tests": 297156
+  "tests": 297156,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ISFP",
+    "typing_alternate": "ESTP"
+  }
 }

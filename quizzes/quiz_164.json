@@ -352,5 +352,16 @@
     "✨"
   ],
   "likes": 46686,
-  "tests": 2457189
+  "tests": 2457189,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  }
 }

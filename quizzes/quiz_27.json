@@ -366,5 +366,10 @@
     "🎸"
   ],
   "likes": 28062,
-  "tests": 2158623
+  "tests": 2158623,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFP",
+    "typing_alternate": "INFP or INFJ"
+  }
 }

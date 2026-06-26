@@ -352,5 +352,17 @@
     "✨"
   ],
   "likes": 44087,
-  "tests": 4408740
+  "tests": 4408740,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "NewJeans",
+    "members": {
+      "Minji": "ESTJ",
+      "Hanni": "INFP",
+      "Danielle": "ENFP",
+      "Haerin": "ISTP",
+      "Hyein": "INFP"
+    }
+  }
 }

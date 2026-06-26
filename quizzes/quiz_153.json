@@ -1,5 +1,5 @@
 {
-  "quizId": 1001,
+  "quizId": 153,
   "title": "How Dua Lipa-Esque Are You?",
   "category": "how",
   "tags": [
@@ -352,5 +352,10 @@
     "✨"
   ],
   "likes": 5136,
-  "tests": 302157
+  "tests": 302157,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFJ",
+    "typing_alternate": "ESFP or ESTP"
+  }
 }

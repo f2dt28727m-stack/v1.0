@@ -352,5 +352,10 @@
     "🎤"
   ],
   "likes": 30221,
-  "tests": 2158654
+  "tests": 2158654,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ESFJ",
+    "typing_alternate": "INFP or ISFP"
+  }
 }

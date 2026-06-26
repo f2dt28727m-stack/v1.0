@@ -1,5 +1,5 @@
 {
-  "quizId": 1001,
+  "quizId": 155,
   "title": "How Billie Eilish-Coded Are You?",
   "category": "how",
   "tags": [
@@ -352,5 +352,10 @@
     "🎸"
   ],
   "likes": 5931,
-  "tests": 312159
+  "tests": 312159,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ISFP",
+    "typing_alternate": "INFP"
+  }
 }

@@ -470,6 +470,57 @@ def api_headers(cache='short'):
 
 
 # ---------- SSR: Quiz detail page ----------
+def build_subject_section_html(full_quiz, tags):
+    """Render the inner H2 section that surfaces the celebrity/group's
+    widely-discussed MBTI typing. Returns '' when subject_meta is absent.
+
+    Hedge language: "widely typed as", "fans and personality communities",
+    "with some discussions also citing". Uses 'or' between alternate typings.
+    """
+    meta = full_quiz.get('subject_meta') or {}
+    subject = (tags or ['Unknown'])[0]
+    if not subject:
+        return ''
+
+    # Group (e.g. BLACKPINK, NewJeans): list all self-disclosed members
+    if meta.get('is_group'):
+        members = meta.get('members') or {}
+        if not members:
+            return ''
+        member_html = ', '.join(
+            f"{h(name)} (<strong>{h(typing)}</strong>)"
+            for name, typing in members.items()
+        )
+        return (
+            f"  <section>\n"
+            f"    <h2>{h(subject)} Members&rsquo; MBTI Types</h2>\n"
+            f"    <p>Each {h(subject)} member has her own widely-discussed MBTI type in fan communities: {member_html}. This free quiz matches you to the member whose personality type most closely mirrors yours.</p>\n"
+            f"  </section>"
+        )
+
+    # Single celebrity
+    primary = (meta.get('typing_primary') or '').strip()
+    alternate = (meta.get('typing_alternate') or '').strip()
+    pronoun = meta.get('pronoun') or 'they'
+    if not primary:
+        return ''
+
+    # Build "with some discussions also citing <strong>X</strong> or <strong>Y</strong>"
+    alt_html = ''
+    if alternate:
+        parts = [f"<strong>{h(p.strip())}</strong>" for p in alternate.split(' or ')]
+        alt_html = ', with some discussions also citing ' + ' or '.join(parts)
+
+    pronoun_cap = {'she': 'She', 'he': 'He', 'they': 'They'}.get(pronoun, 'They')
+
+    return (
+        f"  <section>\n"
+        f"    <h2>{h(subject)}&rsquo;s MBTI: What Type Is {h(pronoun_cap)}?</h2>\n"
+        f"    <p>{h(subject)} is widely typed as <strong>{h(primary)}</strong> by fans and personality communities{alt_html}. This free quiz helps you discover your own type and see which one matches your traits.</p>\n"
+        f"  </section>"
+    )
+
+
 def build_quiz_html(quiz_id, summary):
     """Render a complete SEO-friendly HTML page for a single quiz."""
     title = summary['title']
@@ -582,7 +633,10 @@ def build_quiz_html(quiz_id, summary):
     if not related_html:
         related_html = '<li class="rel-empty">More quizzes coming soon.</li>'
 
-    # 7) Build full HTML
+    # 7) Subject MBTI section (only for real-person / real-group quizzes with subject_meta)
+    subject_section_html = build_subject_section_html(full, tags)
+
+    # 8) Build full HTML
     html_doc = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -687,6 +741,8 @@ section{{padding:16px}}
     </div>
     <a class="cta" href="/quiz.html?id={h(quiz_id)}" rel="nofollow">Start Now &rsaquo;</a>
   </div>
+
+{subject_section_html}
 
   <section>
     <h2>About This Quiz</h2>
@@ -979,10 +1035,25 @@ def app(environ, start_response):
                     break
 
         mbti = ''
-        mbti += 'E' if scores['E'] >= scores['I'] else 'I'
-        mbti += 'S' if scores['S'] >= scores['N'] else 'N'
-        mbti += 'T' if scores['T'] >= scores['F'] else 'F'
-        mbti += 'J' if scores['J'] >= scores['P'] else 'P'
+        # Resolve each pair; on ties, pick deterministically from a hash of
+        # the dimension scores so the same answers always yield the same MBTI,
+        # but there's no systematic bias toward E/S/T/J (the old `>=` behavior).
+        # Important: keep position stable so the output is always a valid MBTI.
+        _mbti_chars = ['', '', '', '']
+        _ties = []
+        for _i, (_left, _right) in enumerate((('E', 'I'), ('S', 'N'), ('T', 'F'), ('J', 'P'))):
+            if scores[_left] > scores[_right]:
+                _mbti_chars[_i] = _left
+            elif scores[_left] < scores[_right]:
+                _mbti_chars[_i] = _right
+            else:
+                _ties.append((_i, _left, _right))
+        if _ties:
+            _h = int(hashlib.md5(json.dumps(scores, sort_keys=True).encode()).hexdigest(), 16)
+            for _i, _left, _right in _ties:
+                _mbti_chars[_i] = _left if (_h & 1) else _right
+                _h >>= 1
+        mbti = ''.join(_mbti_chars)
 
         result = None
         for r in quiz.get('results', []):
