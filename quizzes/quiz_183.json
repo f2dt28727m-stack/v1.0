@@ -352,5 +352,8 @@
     "✨"
   ],
   "likes": 24272,
-  "tests": 2427250
+  "tests": 2427250,
+  "subject_meta": {
+    "is_character_list": true
+  }
 }

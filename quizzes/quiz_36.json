@@ -352,5 +352,8 @@
     "🌻"
   ],
   "likes": 27672,
-  "tests": 2128653
+  "tests": 2128653,
+  "subject_meta": {
+    "is_character_list": true
+  }
 }

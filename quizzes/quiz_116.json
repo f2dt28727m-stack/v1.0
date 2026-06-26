@@ -352,5 +352,8 @@
     "🏠"
   ],
   "likes": 5072,
-  "tests": 317036
+  "tests": 317036,
+  "subject_meta": {
+    "is_character_list": true
+  }
 }

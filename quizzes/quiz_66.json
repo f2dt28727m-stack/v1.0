@@ -352,5 +352,8 @@
     "👨‍👩‍👧"
   ],
   "likes": 34059,
-  "tests": 2128746
+  "tests": 2128746,
+  "subject_meta": {
+    "is_character_list": true
+  }
 }

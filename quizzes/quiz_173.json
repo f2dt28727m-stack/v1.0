@@ -432,5 +432,8 @@
     "🦉"
   ],
   "likes": 46117,
-  "tests": 2427219
+  "tests": 2427219,
+  "subject_meta": {
+    "is_character_list": true
+  }
 }

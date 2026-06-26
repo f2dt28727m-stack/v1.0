@@ -357,5 +357,8 @@
       "description": "Your football is a canvas. You'd dribble past defenders with grace, using feints and body swerves like brushstrokes. You play by instinct, not by the book. After scoring, you might do a quiet, artistic celebration—like a bow or a simple smile. Fans would call your style 'beautiful' and make slow-mo edits of your touches. You're a free spirit on the pitch.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_character_list": true
+  }
 }
