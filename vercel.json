@@ -21,10 +21,6 @@
       "use": "@vercel/static"
     },
     {
-      "src": "quiz-detail.html",
-      "use": "@vercel/static"
-    },
-    {
       "src": "quizzes/",
       "use": "@vercel/static"
     },
@@ -51,9 +47,34 @@
     {
       "src": "quizzes.json",
       "use": "@vercel/static"
+    },
+    {
+      "src": "og-default.png",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
+    {
+      "src": "/quiz-detail.html",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "(.+)"
+        }
+      ],
+      "status": 301,
+      "headers": {
+        "Location": "/quiz/$1"
+      }
+    },
+    {
+      "src": "/quiz-detail.html",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      }
+    },
     {
       "src": "/api/(.*)",
       "dest": "/api/index.py"

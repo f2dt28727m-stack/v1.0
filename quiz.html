@@ -576,7 +576,7 @@ async function submitAnswers() {
 
 function rnd(min,max){return Math.floor(Math.random()*(max-min+1))+min}
 function goHome(){window.location.href='index.html';}
-function goBack(){window.location.href='quiz-detail.html?id=' + getQuizId();}
+function goBack(){window.location.href='/quiz/' + getQuizId();}
 
 function renQ(){
 const q=questions[currentQ];
