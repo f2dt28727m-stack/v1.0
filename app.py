@@ -188,10 +188,25 @@ def get_result():
                 break
 
     mbti_type = ''
-    mbti_type += 'E' if dimension_scores['E'] >= dimension_scores['I'] else 'I'
-    mbti_type += 'S' if dimension_scores['S'] >= dimension_scores['N'] else 'N'
-    mbti_type += 'T' if dimension_scores['T'] >= dimension_scores['F'] else 'F'
-    mbti_type += 'J' if dimension_scores['J'] >= dimension_scores['P'] else 'P'
+    # Resolve each pair; on ties, pick deterministically from a hash of the
+    # dimension scores so the same answers always yield the same MBTI,
+    # but there's no systematic bias toward E/S/T/J (the old `>=` behavior).
+    # Important: keep position stable so the output is always a valid MBTI.
+    _mbti_chars = ['', '', '', '']
+    _ties = []
+    for _i, (_left, _right) in enumerate((('E', 'I'), ('S', 'N'), ('T', 'F'), ('J', 'P'))):
+        if dimension_scores[_left] > dimension_scores[_right]:
+            _mbti_chars[_i] = _left
+        elif dimension_scores[_left] < dimension_scores[_right]:
+            _mbti_chars[_i] = _right
+        else:
+            _ties.append((_i, _left, _right))
+    if _ties:
+        _h = int(hashlib.md5(json.dumps(dimension_scores, sort_keys=True).encode()).hexdigest(), 16)
+        for _i, _left, _right in _ties:
+            _mbti_chars[_i] = _left if (_h & 1) else _right
+            _h >>= 1
+    mbti_type = ''.join(_mbti_chars)
 
     result = None
     for r in quiz_data.get('results', []):

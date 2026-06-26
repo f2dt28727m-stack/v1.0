@@ -1,0 +1,236 @@
+[
+  {
+    "category": "match",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 9,
+        "engagement": 8,
+        "differentiation": 8,
+        "authenticity": 7,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "It name-drops actual players, tournaments, and eras like Pelé's 1970 or Messi's 2022, which is super specific and fire for fans.",
+        "engagement": "I'd def screenshot my result and tweet it, but some questions feel a bit long and could lose casual scrollers.",
+        "differentiation": "Results like Maradona vs. Cruyff feel distinct, but a few like Iniesta and Modrić blur together as 'quiet midfield genius'.",
+        "authenticity": "The questions use proper fan terms like 'penalty shootout' and 'fan zone', but the result descriptions have a slightly glossy, almost AI-like polish.",
+        "compliance_safety": "No weird 'true-world' or fake names, all real players and events, so no cap on safety."
+      },
+      "fixes": [
+        "Shorten Q5 options to be more punchy, like 'Gets everyone hyped' vs. 'Watches quietly' instead of full sentences.",
+        "Add more specific World Cup moments in questions, e.g., 'during the 1998 final' instead of generic 'tense World Cup final'.",
+        "Tweak result descriptions for Iniesta and Modrić to highlight different personality traits, like Iniesta as clutch underdog and Modrić as relentless worker.",
+        "Make Q3 options more distinct: option 3 'calmly executing game plan' is too similar to option 4 'feeling the emotion' - replace one with a tactical analysis angle."
+      ],
+      "what_worked": [
+        "Using iconic player comparisons like 'The Hand of God' and 'The Samba Star' makes results feel legendary.",
+        "Scoring with letters (E, I, S, N) ties into MBTI, which is huge for Gen-Z self-discovery quizzes.",
+        "Including both male and female players? Actually all male, but it covers different eras and styles well."
+      ],
+      "verdict": "REVISE",
+      "would_share": true
+    }
+  },
+  {
+    "category": "which",
+    "status": "NEEDS_REVIEW",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 1,
+        "engagement": 3,
+        "differentiation": 6,
+        "authenticity": 2,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "The quiz never mentions actual World Cup moments, teams, or players—it's all generic 'last-minute winner' and 'penalty shootout' without any real tournament flavor.",
+        "engagement": "I wouldn't screenshot or share this because it feels like a generic personality quiz slapped with a World Cup label, not something a fan would post.",
+        "differentiation": "Some results like 'Tactical General' and 'Stats Master' feel distinct, but many blur together as variations of 'passionate fan' with similar descriptions.",
+        "authenticity": "The language is too formal and the descriptions read like a marketing template, not a fan who lives and breathes World Cup.",
+        "compliance_safety": "No red flags here—no fake team names or weird disclaimers, just standard quiz stuff."
+      },
+      "fixes": [
+        "Add specific World Cup references like 'the 2014 final', 'Messi's run', 'Zidane's headbutt', or 'the 1998 World Cup' to make it feel real.",
+        "Make the questions more situational and less MBTI-translated; e.g., Q1 could ask about a specific match like 'Germany vs Brazil 2014'.",
+        "Inject slang and fan energy into descriptions: 'that feeling when your team chokes' or 'literally screaming at the TV'.",
+        "Reduce the number of results to 8 or 12 to make each more distinct and memorable.",
+        "Replace the MBTI letters with fun fan types like 'The Hype Man', 'The Stats Nerd', 'The Bandwagoner'."
+      ],
+      "what_worked": [
+        "The 4-option format per question is clean and easy to click through.",
+        "The score letters (E/I, S/N, etc.) give a sense of a system, even if not perfectly applied.",
+        "Some result titles like 'The Tactical General' have a nice ring to them."
+      ],
+      "verdict": "REJECT",
+      "would_share": false
+    }
+  },
+  {
+    "category": "type",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 3,
+        "engagement": 5,
+        "differentiation": 6,
+        "authenticity": 4,
+        "compliance_safety": 7
+      },
+      "reasoning": {
+        "ip_specificity": "The quiz uses generic soccer terms like 'match footage' and 'set piece' but never mentions actual World Cup matches, players, or moments, so it feels like it could be about any sport.",
+        "engagement": "I'd probably take it for fun but wouldn't screenshot or post because the results are too vague and don't have any meme-worthy or shareable lines.",
+        "differentiation": "The 16 results have distinct titles and descriptions, but many blur together—like 'The Captain' and 'The Rock' are both leaders, and 'The Poet' and 'The Mystic' are both dreamy.",
+        "authenticity": "The language tries to be casual but feels forced with random slang like 'no cap' and 'main character energy'—it reads like a marketer trying to sound Gen Z, not an actual fan.",
+        "compliance_safety": "No weird copyright hedges or disclaimers, but the lack of specific IP references makes it safe anyway—just boring."
+      },
+      "fixes": [
+        "Swap out generic soccer terms for actual World Cup references: mention specific tournaments (2018, 2022), iconic goals (e.g., Mbappé's 2018 final), or famous celebrations (e.g., Bebeto's cradle).",
+        "Add more distinct personality traits to the 16 results so they don't overlap; for example, make 'The Rock' more about reliability and 'The Captain' more about strategy.",
+        "Make the language more natural by using slang in context and not overloading it; have each question feel like a real fan experience, not a generic personality test.",
+        "Include a meme or TikTok-worthy phrase in the result descriptions, like 'This is your villain era' or 'You're giving main character energy' to boost shareability."
+      ],
+      "what_worked": [
+        "The 16-result structure with MBTI letters is a familiar and engaging format for personality quizzes.",
+        "The result descriptions have some fun, evocative phrases like 'cold as ice' and 'pure instinct' that could be built upon.",
+        "The quiz covers a good mix of scenarios (daily life, matchday, social media) that feel relevant to fans."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  },
+  {
+    "category": "how",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 3,
+        "engagement": 6,
+        "differentiation": 8,
+        "authenticity": 4,
+        "compliance_safety": 9
+      },
+      "reasoning": {
+        "ip_specificity": "The quiz never mentions specific players, teams, tournaments, or iconic moments like 'Maradona's Hand of God' or 'Zidane's headbutt'—it's all generic.",
+        "engagement": "I'd probably take it for fun but wouldn't post results because it doesn't feel like it captures my specific fandom vibe.",
+        "differentiation": "The 16 results actually feel distinct with different MBTI combos and descriptions, so props for that.",
+        "authenticity": "It reads like a Buzzfeed quiz written by someone who googled 'World Cup fan types'—no inside jokes or fan language.",
+        "compliance_safety": "No weird copyright stuff, just generic terms—safe but boring."
+      },
+      "fixes": [
+        "Add specific World Cup references: e.g., '1998 final', 'Messi's 2014 run', 'Japan vs Belgium 2018', 'Ronaldo's free kick vs Spain'.",
+        "Q1 options should include actual rituals like 'wearing a specific jersey of a player from 2002' or 'doing the vuvuzela chant'.",
+        "Q3: make options about discussing specific games or players, not just vague 'moments'.",
+        "Include fan slang like 'banter', 'classic', 'YT comment section' to sound more authentic.",
+        "Results should mention real teams or players to make them feel personalized."
+      ],
+      "what_worked": [
+        "The MBTI framework is a fun hook that fans engage with.",
+        "The 16-result variety is impressive and avoids overlap.",
+        "The casual scoring (E/I, S/N, etc.) is easy to understand."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  },
+  {
+    "category": "hidden",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 3,
+        "engagement": 6,
+        "differentiation": 8,
+        "authenticity": 4,
+        "compliance_safety": 9
+      },
+      "reasoning": {
+        "ip_specificity": "It mentions real players like Maradona and Zidane, but no specific World Cup moments or songs, so it's kinda generic for a hardcore fan.",
+        "engagement": "I'd probably take it and maybe share if the result was funny, but it's not super meme-worthy or unique enough to go viral.",
+        "differentiation": "The 16 results actually have distinct personalities based on MBTI, so they feel different from each other, which is cool.",
+        "authenticity": "The language is trying too hard to be deep and poetic, like a corporate ad wrote it, not a Gen Z fan who actually lives and breathes the World Cup.",
+        "compliance_safety": "No weird disclaimers or fake brand names, so it's fine on that front."
+      },
+      "fixes": [
+        "Add specific World Cup moments like 'the 2014 final' or 'Messi's goal vs Nigeria' to make it feel real.",
+        "Make the language more casual and slangy, like 'straight up fire' or 'no cap' instead of 'hidden trait is a strategic genius'.",
+        "Shorten the results descriptions to 1-2 sentences so they're easier to screenshot and share.",
+        "Include a result that references a specific meme or viral moment (e.g., 'vibes like that South Korea fan crying')."
+      ],
+      "what_worked": [
+        "Using MBTI types gives structure and makes results feel personalized.",
+        "The 16 results cover a wide range of personalities without overlapping too much.",
+        "The question options have clear ties to MBTI functions, which is smart for differentiation."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  },
+  {
+    "category": "whatwould",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 0,
+        "engagement": 4,
+        "differentiation": 7,
+        "authenticity": 2,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "No World Cup specific references at all—no real teams, players, matches, or moments, just generic football terms.",
+        "engagement": "I might answer it for fun but wouldn't screenshot or share because it lacks the inside jokes and drama that make fandom quizzes shareable.",
+        "differentiation": "Results do feel distinct with different playstyles and personalities, but they're all football archetypes not World Cup ones.",
+        "authenticity": "Sounds like a generic sports quiz written by someone who doesn't live and breathe World Cup fandom—no memes, no references to iconic moments or rivalries.",
+        "compliance_safety": "No copyright issues since it avoids real names and trademarks completely, but that also makes it feel sterile."
+      },
+      "fixes": [
+        "Replace generic football scenarios with specific World Cup moments (e.g., 'penalty kick in the final' could reference 1994 Baggio or 2006 Zidane).",
+        "Add iconic World Cup player names in questions or options (e.g., 'like Maradona in 1986' instead of just 'Maradona').",
+        "Include real World Cup eras with actual years and host countries (e.g., '2002 Korea/Japan' instead of '2002 Ronaldo').",
+        "Make options more dramatic and fandom-coded—use language like 'carry the team like Messi in 2022' or 'channel your inner Mbappé speed.'"
+      ],
+      "what_worked": [
+        "The 16 result archetypes are well-defined and cover a range of personalities.",
+        "The MBTI tie-in is a familiar hook that fans like to engage with.",
+        "The structure is clear and easy to follow."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  },
+  {
+    "category": "pick",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 2,
+        "engagement": 5,
+        "differentiation": 7,
+        "authenticity": 3,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "There's no mention of actual World Cup moments, players, or matches—it's all generic 'celebrating' and 'analyzing'.",
+        "engagement": "I'd probs screenshot the result if it was funny, but the questions are too basic to get me hyped.",
+        "differentiation": "The 16 results actually have distinct vibes, like Tactical Commander vs Poetic Dreamer, so that's solid.",
+        "authenticity": "The language is too formal and sounds like a generic personality quiz, not something a fan would write.",
+        "compliance_safety": "No weird legal disclaimers or fake names—just straight-up World Cup references, so it's safe."
+      },
+      "fixes": [
+        "Add specific World Cup moments like '94 final or '18 France vs Argentina to make it feel real.",
+        "Change Q1 options to reference actual fan experiences like 'singing in the stands' vs 'watching highlights'.",
+        "Make the options more contrasting—some are too similar like 'quietly at home' vs 'reflecting alone'.",
+        "Use more Gen-Z slang like 'that's a mood' or 'no cap' in the results descriptions.",
+        "Include a result that references a real iconic player or match, like 'the Zidane headbutt' or 'Messi's goal'."
+      ],
+      "what_worked": [
+        "The 16 results have clear personalities and are easy to differentiate.",
+        "The MBTI-like structure is familiar and shareable.",
+        "The quiz length (12 questions) is good for attention spans."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  }
+]

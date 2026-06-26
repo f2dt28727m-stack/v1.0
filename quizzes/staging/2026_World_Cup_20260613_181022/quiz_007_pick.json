@@ -1,0 +1,361 @@
+{
+  "quizId": 7000,
+  "title": "Which 2026 World Cup Fan Are You?",
+  "category": "pick",
+  "tags": [
+    "MBTI",
+    "Personality",
+    "Adventure",
+    "World Cup",
+    "Football"
+  ],
+  "description": "Answer 12 questions to discover your 2026 World Cup fan personality! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "You're watching the 2026 World Cup opening match. Do you...",
+      "options": [
+        {
+          "text": "Watch from a quiet pub, savoring the moment alone",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the tactical setup and player positions",
+          "score": "S"
+        },
+        {
+          "text": "Join a chanting crowd in the stadium, feeding off the energy",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the storylines and what this win would mean",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Your team gets a controversial red card. You...",
+      "options": [
+        {
+          "text": "Feel for the player and hope he stays strong",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the rulebook to see if it was justified",
+          "score": "T"
+        },
+        {
+          "text": "Immediately plan how to adjust the starting XI",
+          "score": "J"
+        },
+        {
+          "text": "Wait and see how the game unfolds before reacting",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During a penalty shootout, you...",
+      "options": [
+        {
+          "text": "Focus on the emotional pressure on the players",
+          "score": "F"
+        },
+        {
+          "text": "Hold your breath and watch in silence",
+          "score": "I"
+        },
+        {
+          "text": "Cheer loudly and try to distract the opponent",
+          "score": "E"
+        },
+        {
+          "text": "Calculate the probability of each kicker scoring",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "You're at a fan zone watching a match. You...",
+      "options": [
+        {
+          "text": "Notice the exact formation and player movements",
+          "score": "S"
+        },
+        {
+          "text": "Go with the flow, wherever the crowd takes you",
+          "score": "P"
+        },
+        {
+          "text": "Plan your next move: get food now or wait for halftime",
+          "score": "J"
+        },
+        {
+          "text": "Daydream about the team's journey to the final",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your team scores a last-minute winner. You...",
+      "options": [
+        {
+          "text": "Immediately think about the next match's implications",
+          "score": "J"
+        },
+        {
+          "text": "Jump into a stranger's arms and scream",
+          "score": "E"
+        },
+        {
+          "text": "Pump your fist quietly, a private celebration",
+          "score": "I"
+        },
+        {
+          "text": "Replay the goal in your head, analyzing the build-up",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "A star player gets injured early in the tournament. You...",
+      "options": [
+        {
+          "text": "Feel genuinely sad for the player and his fans",
+          "score": "F"
+        },
+        {
+          "text": "Assess the team's backup options and tactical shifts",
+          "score": "T"
+        },
+        {
+          "text": "Stay open to new underdog stories emerging",
+          "score": "P"
+        },
+        {
+          "text": "Think about how this changes the tournament narrative",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "You're predicting the 2026 World Cup winner. You...",
+      "options": [
+        {
+          "text": "Debate passionately with friends online and offline",
+          "score": "E"
+        },
+        {
+          "text": "Consider dark horse teams and unexpected factors",
+          "score": "N"
+        },
+        {
+          "text": "Lock in your prediction early and stick to it",
+          "score": "J"
+        },
+        {
+          "text": "Base it on stats, form, and head-to-head records",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "A match goes to extra time. You...",
+      "options": [
+        {
+          "text": "Notice the fatigue in players' legs and tactical shifts",
+          "score": "S"
+        },
+        {
+          "text": "Stay flexible, enjoying the unpredictability",
+          "score": "P"
+        },
+        {
+          "text": "Feel the tension and hope for a fair outcome",
+          "score": "F"
+        },
+        {
+          "text": "Watch alone, analyzing every pass and run",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "You're choosing a jersey to wear for the final. You...",
+      "options": [
+        {
+          "text": "Go with whatever feels right in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Choose based on which team has better odds",
+          "score": "T"
+        },
+        {
+          "text": "Pick the flashiest one to stand out in the crowd",
+          "score": "E"
+        },
+        {
+          "text": "Wear your lucky jersey, the one you've had for years",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Your team concedes a goal from a set piece. You...",
+      "options": [
+        {
+          "text": "Analyze the defensive setup that went wrong",
+          "score": "S"
+        },
+        {
+          "text": "Immediately start planning your post-match rant",
+          "score": "J"
+        },
+        {
+          "text": "Feel the disappointment and hope for a comeback",
+          "score": "F"
+        },
+        {
+          "text": "Think about how the manager will adjust strategy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "A young unknown player scores a stunning goal. You...",
+      "options": [
+        {
+          "text": "Predict he'll be a star and tell everyone you saw it first",
+          "score": "J"
+        },
+        {
+          "text": "Feel inspired by his story and underdog journey",
+          "score": "F"
+        },
+        {
+          "text": "Notice the technique and precision of the strike",
+          "score": "S"
+        },
+        {
+          "text": "Celebrate loudly and share the clip everywhere",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "The tournament ends. You...",
+      "options": [
+        {
+          "text": "Already looking forward to the next big match",
+          "score": "P"
+        },
+        {
+          "text": "Quietly reflect on the memories and moments",
+          "score": "I"
+        },
+        {
+          "text": "Critique the officiating and key decisions",
+          "score": "T"
+        },
+        {
+          "text": "Imagine what the next World Cup will bring",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Hype Leader.",
+      "description": "You're the one who starts the wave in Lusail Stadium and leads chants that echo through the concourse. Like a viral fan cam, your energy is infectious. When Mbappé scores, you're the first to tweet 'He's different.' You don't just watch the game—you become part of the spectacle. Your passion is the fuel that turns a match into a memory.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Tactical Mastermind.",
+      "description": "You're that fan who tweets the exact flaw in the opponent's backline before the match ends. Your match analysis is sharper than most pundits', and you've already mapped out how a 4-3-3 can counter a 3-5-2. When friends ask who'll win, you give a breakdown that makes them nod slowly. You see the game like a chessboard, and every move has a counter.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Creative Dribbler.",
+      "description": "Main character energy: you nutmeg a defender and then post the clip with a caption like 'easy work.' You love the flair players—the ones who try a rabona or a backheel in a crowded box. Your fantasy lineup is full of risk-takers. You'd rather see a audacious chip than a safe pass. Football, to you, is art, and you're the curator of the beautiful game's most daring moments.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Quiet Motivator.",
+      "description": "Like a captain who speaks before the match, you know that silence can be louder than a roar. You're the one who sends a thoughtful text to a friend after a tough loss, reminding them that 'it's just a game.' Your loyalty runs deep—you've stuck with your club through relegation and promotion. You believe in the power of unity, and your presence is a steady anchor in the chaos of extra time.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Stat Geek.",
+      "description": "You have xG, pass completion, and pressures per 90 memorized. When someone says 'he's clutch,' you pull up the data. Your Twitter timeline is a stream of Opta stats and tactical heatmaps. You appreciate the unsung heroes—the defensive midfielder who breaks up play, the fullback who makes overlapping runs. To you, football is a numbers game, and you've cracked the code.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Emotional Rollercoaster.",
+      "description": "You cry when your team wins the World Cup—and when they lose. Your heart is on your sleeve, and every goal feels like a personal triumph or tragedy. You wear your lucky jersey, the one you've had since 2010, and you swear it has magic. When a player scores, you feel their joy in your bones. Football isn't just a sport; it's a love story, and you're all in.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Pragmatic Fan.",
+      "description": "You know that football is ultimately about results. You don't get swept up in hype; you analyze the fixture list and predict outcomes with cold logic. When your team is down 2-0, you're already calculating the goal difference needed. You appreciate a well-organized defense as much as a flashy goal. Your matchday routine is efficient: arrive early, leave early if the game is dead.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Dreamer.",
+      "description": "You imagine the impossible: a 40-yard screamer in stoppage time, a kid from the academy scoring the winner. You love underdog stories and romantic narratives. When you watch a match, you're not just seeing the game—you're seeing the movie. You believe in fate and magic moments. Your favorite part of the World Cup is the opening ceremony, because it's pure spectacle and hope.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Lone Wolf.",
+      "description": "You watch the big matches alone, because you need to concentrate. You notice the subtle tactical shifts—the fullback tucking in, the striker dropping deep. You have your own theories about formations and you're not afraid to argue them. You don't need a crowd to validate your passion; your love for the game is deep and personal. You're the fan who writes long blog posts nobody reads, but you don't care.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Social Butterfly.",
+      "description": "For you, the World Cup is a global party. You're at every fan zone, making friends with strangers from different countries. You trade scarves, take selfies, and learn chants in new languages. You love the diversity of the tournament—the food, the flags, the cultures. You're the one who organizes viewing parties and ensures everyone has a good time. Football is just the excuse; the True joy is the connection.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Perfectionist.",
+      "description": "You notice when a player's first touch is slightly off, or when a pass is a few inches behind. You appreciate the beauty of a perfectly weighted through ball. You have a mental checklist of what makes a great performance, and you're rarely satisfied. You might criticize your own team even when they win, because you see the flaws. Your standards are high, but that's because you love the game too much to settle.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Loyalist.",
+      "description": "You support your country through thick and thin. You've been to every home game, and you know the national anthem by heart. Your social media is filled with flags and emojis. You believe in the power of the shirt, and you'll defend your team against any criticism. When they lose, you feel it deeply, but you're already planning for the next tournament. Your loyalty is unwavering, like a longtime fan.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Analyst.",
+      "description": "You watch the game with a notepad, jotting down observations. You break down each goal: the assist, the run, the defensive error. You love podcasts that dissect tactics, and you have strong opinions on player positioning. You're the one who says 'actually, the offside trap was mistimed' when everyone else is still celebrating. Your insight makes you a great conversation partner for deep football talks.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Showman.",
+      "description": "You love the drama of football: the last-minute winners, the penalty shootouts, the red cards. You're drawn to charismatic players who thrive under pressure. You'd rather watch a 4-3 thriller than a 1-0 tactical battle. You're the one who stands on your seat when a goal is scored. You live for the moments that make the highlights reel. Football is entertainment, and you're here for the show.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Meditator.",
+      "description": "You see football as a beautiful game, but you don't let it consume you. You can enjoy a match without screaming at the TV. You appreciate the artistry of a well-drilled team, but you also know there's more to life. You're the calm friend who de-escalates arguments about offside calls. Your favorite part of the World Cup is the cultural exchange, not just the competition. You find peace in the rhythm of the game.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Visionary.",
+      "description": "You're already thinking about the 2030 World Cup. You love the long-term strategy: youth development, tactical evolution, and how the game is changing. You see patterns across tournaments and predict future trends. When you watch a match, you're not just watching the present—you're watching the future. You have a mental model of how football will look in ten years, and you're excited to be proven right.",
+      "mbti": "ENTJ"
+    }
+  ]
+}

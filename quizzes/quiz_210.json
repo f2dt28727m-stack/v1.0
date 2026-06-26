@@ -1,0 +1,361 @@
+{
+  "quizId": 210,
+  "title": "What's your hidden BLACKPINK trait?",
+  "category": "hidden",
+  "tags": [
+    "MBTI",
+    "K-pop",
+    "Music",
+    "Hidden Trait",
+    "BLACKPINK"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired hidden trait! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When no one is watching during a BLACKPINK concert, you...",
+      "options": [
+        {
+          "text": "Observe the crowd's energy from a quiet spot",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the exact choreography moves",
+          "score": "S"
+        },
+        {
+          "text": "Dance along to every song, even the deep cuts",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the deeper meaning behind the lyrics",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Backstage after a music show, you...",
+      "options": [
+        {
+          "text": "Organize the next schedule step by step",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneously start a dance battle",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the performance's technical flaws",
+          "score": "T"
+        },
+        {
+          "text": "Comfort a nervous member with a hug",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During dance practice for 'How You Like That', you...",
+      "options": [
+        {
+          "text": "Encourage everyone with positive words",
+          "score": "F"
+        },
+        {
+          "text": "Perfect your moves in a corner alone",
+          "score": "I"
+        },
+        {
+          "text": "Critique the formation's precision",
+          "score": "T"
+        },
+        {
+          "text": "Lead the group with high energy",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "At a fan sign event, you...",
+      "options": [
+        {
+          "text": "Follow the event schedule strictly",
+          "score": "J"
+        },
+        {
+          "text": "Remember every fan's name from past events",
+          "score": "S"
+        },
+        {
+          "text": "Go with the flow and adapt to surprises",
+          "score": "P"
+        },
+        {
+          "text": "Imagine each fan's unique story",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When filming a music video in a grand set, you...",
+      "options": [
+        {
+          "text": "Make sure the shoot finishes on time",
+          "score": "J"
+        },
+        {
+          "text": "Check the props are exactly as planned",
+          "score": "S"
+        },
+        {
+          "text": "Find a quiet corner to rehearse alone",
+          "score": "I"
+        },
+        {
+          "text": "Socialize with the crew between takes",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Listening to 'Lovesick Girls' alone, you...",
+      "options": [
+        {
+          "text": "Jam out freely without a plan",
+          "score": "P"
+        },
+        {
+          "text": "Think about the song's narrative arc",
+          "score": "N"
+        },
+        {
+          "text": "Feel the emotion and cry a little",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the production techniques",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "During a break at 'The Album' recording sessions, you...",
+      "options": [
+        {
+          "text": "Plan the next day's recording order",
+          "score": "J"
+        },
+        {
+          "text": "Brainstorm new melodic ideas",
+          "score": "N"
+        },
+        {
+          "text": "Chat excitedly with the producers",
+          "score": "E"
+        },
+        {
+          "text": "Review the vocal takes for pitch",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Backstage before 'Coachella' performance, you...",
+      "options": [
+        {
+          "text": "Improvise new stage moves spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Meditate quietly to focus",
+          "score": "I"
+        },
+        {
+          "text": "Send good luck messages to the group",
+          "score": "F"
+        },
+        {
+          "text": "Check your outfit and stage setup",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When no one is watching you practice your 'Kill This Love' solo, you...",
+      "options": [
+        {
+          "text": "Let the music guide your freestyle",
+          "score": "P"
+        },
+        {
+          "text": "Perform as if on stage for a crowd",
+          "score": "E"
+        },
+        {
+          "text": "Time each move for perfection",
+          "score": "T"
+        },
+        {
+          "text": "Practice in front of a mirror silently",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "At a fan meeting, you notice a fan's handmade sign. You...",
+      "options": [
+        {
+          "text": "Mentally note to include the fan in a vlog",
+          "score": "J"
+        },
+        {
+          "text": "Feel touched and want to thank them personally",
+          "score": "F"
+        },
+        {
+          "text": "Imagine the story behind the sign's design",
+          "score": "N"
+        },
+        {
+          "text": "Recall similar signs from previous events",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "During a 'Ice Cream' photoshoot, you...",
+      "options": [
+        {
+          "text": "Compliment the stylist's color choices",
+          "score": "F"
+        },
+        {
+          "text": "Keep the shoot on schedule efficiently",
+          "score": "J"
+        },
+        {
+          "text": "Engage the whole team with fun banter",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the precise pose and lighting",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When no one is watching you listen to 'Stay', you...",
+      "options": [
+        {
+          "text": "Analyze the chord progression",
+          "score": "T"
+        },
+        {
+          "text": "Reflect on the song's themes of distance",
+          "score": "N"
+        },
+        {
+          "text": "Let your mind wander to other songs",
+          "score": "P"
+        },
+        {
+          "text": "Sing along quietly to yourself",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie-like Quiet Power",
+      "description": "You possess the understated confidence of Jennie during her SOLO era—calm, collected, yet fiercely impactful. Like her iconic cat-eye gaze, you observe before acting, making every move count. Your hidden side mirrors the duality of 'You Never Know': soft on the surface but unbreakable within. You thrive in the shadows, letting your work speak volumes, much like the way Jennie's 'Yeah Yeah Yeah' ad-libs steal the show without trying. This quiet power is your secret weapon.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Lisa-like Free Spirit",
+      "description": "Your hidden trait mirrors Lisa's untamed energy in 'LALISA'—bold, spontaneous, and endlessly creative. Like her iconic dance breaks that seem to defy gravity, you embrace the unexpected with infectious joy. You're the one who starts a dance battle backstage or freestyles during practice, embodying the 'Money' lyrics: 'I do what I wanna do.' Your free spirit thrives on the adrenaline of the moment, whether it's a surprise ad-lib or an improvised fan interaction. Rules are suggestions; the stage is your playground.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Jisoo-like Gentle Anchor",
+      "description": "You are the quiet stabilizer, like Jisoo's calming presence in 'Flower' era. Your hidden trait is the warmth that holds the group together—a soft smile, a reassuring word, or a perfectly timed hug. You remember the small details, like a fan's name or a lyric from 'Clarity,' and you make others feel seen. Like Jisoo's steady vocals in 'The Happiest Girl,' you bring harmony without seeking the spotlight. Your gentle strength is the foundation that others lean on, a secret anchor in the chaos.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Rosé-like Soulful Dreamer",
+      "description": "Your hidden side is pure Rosé—emotional, artistic, and deeply introspective. Like her soulful voice on 'Gone' or the raw vulnerability in 'On The Ground,' you feel music in your bones. You're the one who tears up during 'Stay' or loses yourself in a guitar riff. Your creativity flows like Rosé's signature hair flip—effortless yet intentional. You see the world through a poetic lens, finding meaning in the smallest moments. Your secret is the depth of your heart, a well of emotion that inspires those who catch a glimpse.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Hidden Healer",
+      "description": "You carry the empathetic soul of a healer, much like the supportive energy that flows through BLACKPINK's 'Hope Not' lyrics. Your hidden trait is the ability to sense when someone needs a kind word or a listening ear. You're the one who comforts a nervous member before a show or sends a thoughtful message after a tough day. Like the gentle piano in 'You Never Know,' you provide solace without fanfare. Your compassion is your quiet superpower, mending unseen wounds with every small gesture.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Strategic Mastermind",
+      "description": "Your hidden trait is the sharp, analytical mind behind the scenes—like the meticulous planning of a 'Kill This Love' stage. You deconstruct every performance, from choreography to lighting, seeking perfection. You're the one who notices a missed beat or suggests a formation tweak. Like the calculated moves in 'Playing with Fire,' you think three steps ahead. Your strategic nature ensures everything runs smoothly, even if no one sees the effort. You are the architect of success, quietly orchestrating greatness.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Spontaneous Spark",
+      "description": "You embody the unpredictable energy of a 'How You Like That' dance break—always ready to pivot and surprise. Your hidden trait is a love for improvisation, whether it's a new ad-lib in 'Whistle' or a sudden change in stage blocking. You thrive on the thrill of the unknown, much like the chaotic fun of the 'Ice Cream' MV. Rules are meant to be bent; your spontaneity brings fresh life to every moment. You're the spark that ignites excitement when things get too predictable.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Loyal Guardian",
+      "description": "Your hidden trait is unwavering loyalty, like the bond between the members during 'Forever Young.' You stand by your people through thick and thin, defending them fiercely. You're the one who remembers every fan's birthday or stays late to practice until everyone gets it. Your dedication mirrors the promise in 'Stay'—you're there when it matters most. Like the steady beat in 'Boombayah,' you provide a reliable foundation. Your loyalty is a fortress, protecting those you love with quiet strength.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Adventurous Explorer",
+      "description": "Your hidden side craves new experiences, much like the journey in 'Kick It.' You're always seeking the next thrill—a new dance style, a hidden travel spot, or an unconventional song structure. Like the eclectic sounds of 'Sour Candy,' you mix genres and ideas fearlessly. You're the one who suggests a random trip after a show or tries a daring stage move. Your adventurous spirit keeps life exciting, and your openness to the unknown inspires others to step out of their comfort zones.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Empathetic Listener",
+      "description": "Your hidden trait is a deep well of empathy, like the comfort in 'The Happiest Girl.' You listen without judgment, absorbing others' feelings as your own. You're the one who stays after practice to check on a tired member or writes heartfelt letters to fans. Your emotional intelligence is your guide, allowing you to connect on a level beyond words. Like the tender melody of 'Gone,' you offer solace. Your empathy is a gift that heals, even when you think no one notices.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Meticulous Perfectionist",
+      "description": "Your hidden trait is an eye for detail that rivals the precision of a 'DDU-DU DDU-DU' music video set. You notice the tiny flaws—a slightly off beat, a hair out of place, a lighting mismatch—and you fix them before anyone else sees. Your perfectionism drives you to rehearse until every move is flawless, like the sharp choreography of 'Kill This Love.' You take pride in your work, even if it means extra hours alone. Your secret is the relentless pursuit of excellence.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Intuitive Visionary",
+      "description": "Your hidden trait is a visionary mind that sees beyond the present. Like the futuristic concepts in 'Pink Venom,' you imagine new possibilities and dream big. You're the one who suggests a bold concept for the next comeback or envisions a fan project that goes viral. Your intuition guides you to patterns others miss, like the hidden meanings in 'Whistle.' You live in the realm of ideas, always reaching for what could be. Your secret is the power to dream the future into existence.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Adaptable Chameleon",
+      "description": "Your hidden trait is remarkable flexibility, like the genre-blending in 'As If It's Your Last.' You can switch from fierce to cute, from solo to group, without missing a beat. You thrive on change, easily adapting to new concepts like the shift from 'Boombayah' to 'Ice Cream.' You're the one who seamlessly transitions between roles—dancer, singer, leader—depending on what's needed. Your adaptability makes you indispensable in any situation. Your secret is your ability to be whatever the moment requires.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Cheerful Energizer",
+      "description": "Your hidden trait is an infectious positivity that lifts everyone around you. Like the bright energy in 'Ice Cream,' you bring joy to even the most stressful rehearsals. You're the one who cracks jokes during breaks, starts a random dance party, or hands out snacks to the crew. Your optimism is a beacon, reminiscent of the playful spirit in 'Bet You Wanna.' You make the hard days fun, and your laughter is contagious. Your secret is the power to turn any moment into a celebration.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Thoughtful Analyst",
+      "description": "Your hidden trait is a logical mind that thrives on understanding systems. Like the intricate production of 'Kick It,' you deconstruct songs, analyzing beats and lyrics. You're the one who debates the meaning of a bridge or calculates the perfect stage timing. Your curiosity drives you to learn every detail, from choreography notes to fan theories. Like the precision in 'Playing with Fire,' you value clarity and truth. Your secret is your ability to see the mechanics behind the magic.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Graceful Diplomat",
+      "description": "Your hidden trait is a natural grace in handling people, like the diplomacy of a 'How You Like That' peacemaker. You navigate conflicts with ease, finding common ground where others see division. You're the one who mediates between members, smooths over misunderstandings, and ensures everyone feels heard. Your composure mirrors the elegance of 'Flower'—poised even under pressure. You build harmony without force, using empathy and tact. Your secret is your ability to unite, creating a team that works as one.",
+      "mbti": "ISFP"
+    }
+  ]
+}

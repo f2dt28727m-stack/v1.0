@@ -15,19 +15,19 @@
       "text": "When choosing accommodation, you prefer...",
       "options": [
         {
-          "text": "A热闹的青年旅社，方便认识新朋友",
+          "text": "A lively youth hostel, easy to meet new friends",
           "score": "E"
         },
         {
-          "text": "安静的独立民宿，享受独处空间",
+          "text": "A quiet independent guesthouse, enjoying private space",
           "score": "I"
         },
         {
-          "text": "设施齐全的连锁酒店，注重舒适度",
+          "text": "A well-equipped chain hotel, focused on comfort",
           "score": "S"
         },
         {
-          "text": "特色主题民宿，充满独特设计感",
+          "text": "A themed boutique guesthouse, full of unique design",
           "score": "N"
         }
       ]
@@ -36,19 +36,19 @@
       "text": "Planning a trip, you usually...",
       "options": [
         {
-          "text": "只确定大致目的地，每天随心情探索",
+          "text": "Only set a general destination, then explore daily based on mood",
           "score": "P"
         },
         {
-          "text": "提前制定详细行程，包括每日时间安排",
+          "text": "Make a detailed itinerary in advance, including a daily schedule",
           "score": "J"
         },
         {
-          "text": "对比多个平台，选择性价比最高的方案",
+          "text": "Compare multiple platforms, choosing the most cost-effective option",
           "score": "T"
         },
         {
-          "text": "优先考虑同伴的兴趣，让大家都开心",
+          "text": "Prioritize your companions’ interests, making sure everyone has fun",
           "score": "F"
         }
       ]
@@ -57,19 +57,19 @@
       "text": "Your favorite travel activity is...",
       "options": [
         {
-          "text": "在安静的咖啡馆看书，观察当地人生活",
+          "text": "Reading in a quiet café, watching local life",
           "score": "I"
         },
         {
-          "text": "参加当地的市集或节庆活动，融入人群",
+          "text": "Joining local markets or festivals, blending into the crowd",
           "score": "E"
         },
         {
-          "text": "参观历史博物馆或古迹，了解具体历史",
+          "text": "Visiting history museums or ancient sites, learning the specific history",
           "score": "S"
         },
         {
-          "text": "徒步到山顶看日出，感受自然的壮丽",
+          "text": "Hiking up a mountain to see the sunrise, feeling the grandeur of nature",
           "score": "N"
         }
       ]
@@ -78,19 +78,19 @@
       "text": "When selecting a destination, you value...",
       "options": [
         {
-          "text": "是否有未知惊喜，喜欢即兴发现新地方",
+          "text": "Whether there are unknown surprises, enjoying improvising and discovering new places",
           "score": "P"
         },
         {
-          "text": "当地居民的友好程度，希望有温暖互动",
+          "text": "How friendly the local residents are, hoping for warm interactions",
           "score": "F"
         },
         {
-          "text": "交通便利性和安全指数，数据说话",
+          "text": "Transportation convenience and safety index, let the data speak",
           "score": "T"
         },
         {
-          "text": "景点开放时间和最佳游览季节，提前规划",
+          "text": "Attraction opening hours and best visiting seasons, planning in advance",
           "score": "J"
         }
       ]
@@ -99,19 +99,19 @@
       "text": "If your flight is delayed, you...",
       "options": [
         {
-          "text": "拿出备用计划，按备选方案行动",
+          "text": "Pull out a backup plan, act on the alternative",
           "score": "J"
         },
         {
-          "text": "顺其自然，把它当作旅行的一部分体验",
+          "text": "Go with the flow, treating it as part of the travel experience",
           "score": "P"
         },
         {
-          "text": "冷静分析原因，迅速寻找替代方案",
+          "text": "Calmly analyze the reason, quickly find a substitute",
           "score": "T"
         },
         {
-          "text": "安抚同行者情绪，一起想办法解决",
+          "text": "Comfort your travel companions’ emotions, figure out a solution together",
           "score": "F"
         }
       ]
@@ -120,19 +120,19 @@
       "text": "You prefer to travel with...",
       "options": [
         {
-          "text": "独自一人，自由安排，不受打扰",
+          "text": "Alone, free to arrange your schedule, undisturbed",
           "score": "I"
         },
         {
-          "text": "一群朋友，热闹有趣，分享体验",
+          "text": "A group of friends, lively and fun, sharing experiences",
           "score": "E"
         },
         {
-          "text": "家人，熟悉的人一起更安心",
+          "text": "Family, feeling more at ease with familiar people",
           "score": "S"
         },
         {
-          "text": "志同道合的旅伴，能交流深度想法",
+          "text": "Like-minded travel companions, able to exchange deep thoughts",
           "score": "N"
         }
       ]
@@ -141,19 +141,19 @@
       "text": "How do you record travel memories?",
       "options": [
         {
-          "text": "发社交动态，和朋友实时分享",
+          "text": "Post on social media, sharing in real-time with friends",
           "score": "E"
         },
         {
-          "text": "默默记在心里，偶尔翻看照片回味",
+          "text": "Quietly keep it in mind, occasionally looking through photos to reminisce",
           "score": "I"
         },
         {
-          "text": "用相机拍详细照片，记录具体细节",
+          "text": "Use a camera to take detailed photos, recording specific details",
           "score": "S"
         },
         {
-          "text": "写旅行日记，记录感受和思考",
+          "text": "Write a travel journal, recording feelings and thoughts",
           "score": "N"
         }
       ]
@@ -162,19 +162,19 @@
       "text": "Choosing transportation, you tend to...",
       "options": [
         {
-          "text": "考虑同伴是否舒适，选择大家都喜欢的",
+          "text": "Consider whether companions are comfortable, choosing what everyone likes",
           "score": "F"
         },
         {
-          "text": "对比速度和价格，选择最优组合",
+          "text": "Compare speed and price, choosing the optimal combination",
           "score": "T"
         },
         {
-          "text": "提前订好直达航班，节省时间",
+          "text": "Book direct flights in advance to save time",
           "score": "J"
         },
         {
-          "text": "随机选择火车或巴士，享受沿途风景",
+          "text": "Randomly choose a train or bus, enjoying the scenery along the way",
           "score": "P"
         }
       ]
@@ -183,19 +183,19 @@
       "text": "Your attitude towards travel food is...",
       "options": [
         {
-          "text": "体验融合料理，感受创新和文化碰撞",
+          "text": "Experience fusion cuisine, feeling innovation and cultural collision",
           "score": "N"
         },
         {
-          "text": "尝试当地特色小吃，注重口味和口感",
+          "text": "Try local specialty snacks, focusing on flavor and texture",
           "score": "S"
         },
         {
-          "text": "和当地居民一起用餐，听他们讲美食故事",
+          "text": "Dine with local residents, listening to their food stories",
           "score": "E"
         },
         {
-          "text": "找安静的小店，独自品尝不被打扰",
+          "text": "Find a quiet little shop, taste it alone without being disturbed",
           "score": "I"
         }
       ]
@@ -204,19 +204,19 @@
       "text": "How much preparation do you do before a trip?",
       "options": [
         {
-          "text": "只带少量行李，缺什么再当地买",
+          "text": "Bring only a small amount of luggage, buy whatever you need locally",
           "score": "P"
         },
         {
-          "text": "列出详细清单，打包所有必需品",
+          "text": "Make a detailed list, pack all the essentials",
           "score": "J"
         },
         {
-          "text": "研究当地天气和习俗，做好实用准备",
+          "text": "Research local weather and customs, make practical preparations",
           "score": "T"
         },
         {
-          "text": "和去过的朋友聊天，获取感性建议",
+          "text": "Chat with friends who’ve been there, getting personal advice",
           "score": "F"
         }
       ]
@@ -225,19 +225,19 @@
       "text": "You prefer which travel weather?",
       "options": [
         {
-          "text": "安静的秋日，适合独自散步思考",
+          "text": "Quiet autumn days, suitable for walking alone and thinking",
           "score": "I"
         },
         {
-          "text": "热闹的夏日，适合参加户外派对",
+          "text": "Lively summer days, perfect for outdoor parties",
           "score": "E"
         },
         {
-          "text": "有变化的天气，比如雨后彩虹或雾中风景",
+          "text": "Changing weather, like rainbows after rain or misty landscapes",
           "score": "N"
         },
         {
-          "text": "晴朗稳定的天气，适合户外活动",
+          "text": "Clear and stable weather, good for outdoor activities",
           "score": "S"
         }
       ]
@@ -246,19 +246,19 @@
       "text": "After the trip, you...",
       "options": [
         {
-          "text": "随性放着，等想回忆时再翻出来",
+          "text": "Leave them aside, pulling them out when you want to reminisce",
           "score": "P"
         },
         {
-          "text": "整理照片和纪念品，归档成旅行手册",
+          "text": "Organize photos and souvenirs, archiving them into a travel handbook",
           "score": "J"
         },
         {
-          "text": "总结这次旅行的优缺点，为下次做参考",
+          "text": "Summarize the pros and cons of this trip, for next time’s reference",
           "score": "T"
         },
         {
-          "text": "和亲友分享旅行中的暖心故事",
+          "text": "Share heartwarming stories from the trip with friends and family",
           "score": "F"
         }
       ]

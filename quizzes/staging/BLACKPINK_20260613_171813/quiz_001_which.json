@@ -1,0 +1,361 @@
+{
+  "quizId": 1000,
+  "title": "Which BLACKPINK vibe matches your personality?",
+  "category": "which",
+  "tags": [
+    "MBTI",
+    "K-pop",
+    "Music",
+    "Personality",
+    "BLACKPINK"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When the concert lights hit and the crowd roars, you...",
+      "options": [
+        {
+          "text": "Throw your hands up and scream along to every beat",
+          "score": "E"
+        },
+        {
+          "text": "Imagine new stage designs and set lists in your head",
+          "score": "N"
+        },
+        {
+          "text": "Absorb the energy quietly, letting the music wash over you",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the choreography, noting every move",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "During a fan sign event, a fan shares a heartfelt story. You...",
+      "options": [
+        {
+          "text": "Go with the flow and let the moment unfold naturally",
+          "score": "P"
+        },
+        {
+          "text": "Plan exactly what to say next to keep the line moving",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the structure of their story logically",
+          "score": "T"
+        },
+        {
+          "text": "Feel deeply moved and respond with empathy",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "At dance practice, learning a new routine, you...",
+      "options": [
+        {
+          "text": "Break down the counts and angles to get it precise",
+          "score": "T"
+        },
+        {
+          "text": "Feel the music and let emotion guide your moves",
+          "score": "F"
+        },
+        {
+          "text": "Lead the group with high energy and enthusiasm",
+          "score": "E"
+        },
+        {
+          "text": "Observe first, then practice alone to perfect it",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When discussing BLACKPINK's music video concepts, you focus on...",
+      "options": [
+        {
+          "text": "How the concept fits into their overall discography timeline",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneous ideas for future concepts and mashups",
+          "score": "P"
+        },
+        {
+          "text": "The specific outfits, props, and color palette used",
+          "score": "S"
+        },
+        {
+          "text": "The deeper meaning, symbolism, and storyline",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "At a listening party for a new album, you...",
+      "options": [
+        {
+          "text": "Dance and sing along with friends, feeding off their excitement",
+          "score": "E"
+        },
+        {
+          "text": "Find a cozy corner to listen deeply on your own",
+          "score": "I"
+        },
+        {
+          "text": "Notice the production details – ad-libs, beats, and transitions",
+          "score": "S"
+        },
+        {
+          "text": "Make a playlist ranking the tracks for future listening",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When a new BLACKPINK theory video pops up online, you...",
+      "options": [
+        {
+          "text": "Enjoy the speculation but don't commit to any one theory",
+          "score": "P"
+        },
+        {
+          "text": "Share it with your BLINK group to see their emotional reactions",
+          "score": "F"
+        },
+        {
+          "text": "Connect it to other theories and imagine alternate universes",
+          "score": "N"
+        },
+        {
+          "text": "Debate the evidence logically and point out flaws",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "At a BLACKPINK pop-up store, you...",
+      "options": [
+        {
+          "text": "Wander through imagining the stories behind each exhibit",
+          "score": "N"
+        },
+        {
+          "text": "Plan your route to hit every section efficiently",
+          "score": "J"
+        },
+        {
+          "text": "Calculate the best value for your money on merchandise",
+          "score": "T"
+        },
+        {
+          "text": "Chat excitedly with other fans and make new friends",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When a member posts a behind-the-scenes vlog, you...",
+      "options": [
+        {
+          "text": "Feel a warm connection and leave a supportive comment",
+          "score": "F"
+        },
+        {
+          "text": "Note the specific locations and outfits they wear",
+          "score": "S"
+        },
+        {
+          "text": "Watch intently to catch every detail of their routine",
+          "score": "I"
+        },
+        {
+          "text": "Let it play in the background while doing other things",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When organizing a BLACKPINK-themed party, you...",
+      "options": [
+        {
+          "text": "Curate a perfect playlist and decorate thoughtfully alone",
+          "score": "I"
+        },
+        {
+          "text": "Keep plans loose and let the night evolve naturally",
+          "score": "P"
+        },
+        {
+          "text": "Invite everyone and host a lively karaoke session",
+          "score": "E"
+        },
+        {
+          "text": "Create a schedule and stick to it for the event",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When reading about BLACKPINK's fashion eras, you are drawn to...",
+      "options": [
+        {
+          "text": "Organizing the looks into a timeline of best to worst",
+          "score": "J"
+        },
+        {
+          "text": "The emotional impact of the looks – which made you feel empowered",
+          "score": "F"
+        },
+        {
+          "text": "The specific fabrics, cuts, and accessories of each era",
+          "score": "S"
+        },
+        {
+          "text": "How the fashion reflects their artistic evolution and concepts",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "During a BLACKPINK concert livestream, you...",
+      "options": [
+        {
+          "text": "Text friends and post reactions in Live-time",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the stage design and technical execution",
+          "score": "S"
+        },
+        {
+          "text": "Feel every high note and heartfelt ment deeply",
+          "score": "F"
+        },
+        {
+          "text": "Decide on the best fan cams to rewatch later",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When learning a BLACKPINK dance cover, you...",
+      "options": [
+        {
+          "text": "Freestyle and add your own flair to the routine",
+          "score": "P"
+        },
+        {
+          "text": "Imagine your own version of the choreography with new formations",
+          "score": "N"
+        },
+        {
+          "text": "Break down the counts and angles to get it precise",
+          "score": "T"
+        },
+        {
+          "text": "Practice alone in your room, perfecting every move",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie - The Boss Energy.",
+      "description": "You exude a quiet confidence that commands attention without trying. Like Jennie's iconic 'SOLO' era, you know your worth and aren't afraid to take the lead. Your sharp intuition cuts through noise, and your presence feels like a statement. Whether it's a high-stakes performance or a casual hangout, you own the room with effortless grace. People look to you for direction, and you deliver with style.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Lisa - The Stage Fire.",
+      "description": "Walking into a room, you bring the explosive energy of a 'LALISA' performance. Your charisma is magnetic, and you thrive on spontaneity and fun. Like Lisa's iconic dance breaks, you live in the moment and inspire others to let loose. You're the life of the party, always ready to try something new. Your adventurous spirit makes every day feel like a concert.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Jisoo - The Warmhearted Anchor.",
+      "description": "You are the emotional backbone of your group, much like Jisoo's soothing presence in 'FLOWER'. Your empathy runs deep, and you naturally nurture those around you. People trust you with their secrets because you listen without judgment. Like Jisoo's gentle smile, you bring comfort and stability to chaotic moments. Your kindness is your superpower.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Rosé - The Soulful Dreamer.",
+      "description": "Your artistry flows like Rosé's vocals in 'GONE' – raw, emotional, and captivating. You feel things deeply and express yourself through creative outlets. Much like Rosé's guitar melodies, you turn emotions into beauty. You're introspective but not shy; your vulnerability is your strength. The world is your canvas, and you paint it with feeling.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Visionary Producer.",
+      "description": "When 'Kill This Love' drops, you're already analyzing its structure and imagining remixes. You see patterns others miss and love brainstorming future concepts. Like Teddy's production style, you blend innovation with precision. Your mind is a factory of ideas, always building the next big thing. You're not just a fan – you're a creator at heart.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Loyal Protector.",
+      "description": "Your dedication to BLACKPINK mirrors the fierce loyalty of a BLINK who's been there since 'BOOMBAYAH'. You remember every debut anniversary and defend the group with passion. Like a steadfast guardian, you value tradition and consistency. You're the friend who always shows up, armed with facts and unwavering support. Your loyalty is legendary.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Midnight Listener.",
+      "description": "Under the cover of night, you lose yourself in the haunting melodies of 'You Never Know'. Your quiet intensity allows you to absorb music on a spiritual level. Like the subtle bassline in 'Hope Not', you feel the undercurrents others miss. You're a deep thinker who finds solace in lyrics. The world may be loud, but you hear the whispers.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dance Machine.",
+      "description": "Your body moves to the rhythm of 'How You Like That' instinctively. You learn choreography by feel, not just steps. Like Lisa's precision in practice, you master moves through muscle memory. You're hands-on and practical, preferring action over theory. When the beat drops, you're already in the zone – pure kinetic energy.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Aesthetic Curator.",
+      "description": "Your style is a carefully curated mood board inspired by BLACKPINK's 'THE ALBUM' era. You notice every detail – from Jennie's cat-eye to Rosé's vintage tees. Like a visual artist, you blend colors and textures to create your own signature look. You're gentle but fierce, expressing yourself through fashion. Your aesthetic is your identity.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Strategic Mastermind.",
+      "description": "You analyze BLACKPINK's career moves like a chess game, predicting comebacks and chart performance. Like a behind-the-scenes planner, you think ten steps ahead. Your mind thrives on long-term goals and big-picture strategies. You're the one friends come to for advice on life plans. Your vision is always clear, even when others are lost.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Theory Architect.",
+      "description": "You connect dots between 'Pink Venom' and 'Shut Down' to build elaborate theories. Your mind loves abstract patterns and hidden meanings. Like a detective, you piece together clues from music videos and lyrics. You're more interested in the 'why' than the 'what'. Your curiosity drives you to explore every corner of the BLACKPINK universe.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Heartfelt Poet.",
+      "description": "Your soul resonates with the poetic lyrics of 'Stay' and 'Love to Hate Me'. You find beauty in melancholy and express your emotions through writing or art. Like Rosé's heartfelt ballads, you wear your heart on your sleeve. You're idealistic and value true-to-you above all. Your inner world is a rich tapestry of feelings and dreams.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Trendsetter.",
+      "description": "You're always ahead of the curve, discovering new BLACKPINK content before it goes viral. Like Jennie's fashion risks, you're not afraid to stand out. Your energy is infectious, and you love sharing your finds with others. You live for the thrill of the new and the now. Life is a runway, and you're walking it your way.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Supportive Fanbase.",
+      "description": "You're the heart of the fandom, always organizing streaming parties and fan projects. Like Jisoo's nurturing nature, you make everyone feel included. You remember birthdays and support each member equally. Your enthusiasm fuels the community. You believe in lifting others up, and your kindness creates a welcoming space for all BLINKs.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Golden Hour Dreamer.",
+      "description": "You chase the warm, nostalgic feeling of 'Ice Cream' and 'Bet You Wanna'. Life feels like a soft-focus music video when you're around. You see the magic in everyday moments and inspire others to dream big. Like Rosé's golden locks in the 'On The Ground' MV, you radiate a gentle glow. Your optimism is contagious.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Rebel with a Cause.",
+      "description": "You resonate with the defiant energy of 'DDU-DU DDU-DU' and 'Kick It'. You challenge norms and march to your own beat. Like Lisa's fearless attitude, you're unapologetically yourself. You stand up for what you believe in, even if it means standing alone. Your confidence inspires others to break free from expectations.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

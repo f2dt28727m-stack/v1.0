@@ -1,0 +1,361 @@
+{
+  "quizId": 222,
+  "title": "Which BLACKPINK soul matches yours?",
+  "category": "match",
+  "tags": [
+    "K-pop",
+    "Music",
+    "Personality",
+    "Soulmate Match",
+    "BLACKPINK"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired soulmate match! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "At a BLACKPINK concert, you're most likely to be...",
+      "options": [
+        {
+          "text": "Analyzing the choreography details",
+          "score": "S"
+        },
+        {
+          "text": "Imagining your own stage performance",
+          "score": "N"
+        },
+        {
+          "text": "Screaming along to every song in the front row",
+          "score": "E"
+        },
+        {
+          "text": "Enjoying the vibe quietly from the back",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When a new BLACKPINK MV drops, you first...",
+      "options": [
+        {
+          "text": "Check the comments for fan theories",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneously start dancing to the beat",
+          "score": "P"
+        },
+        {
+          "text": "Feel the emotional impact of the song",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the storyline and symbolism",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During dance practice, you prefer to...",
+      "options": [
+        {
+          "text": "Focus on technical precision",
+          "score": "T"
+        },
+        {
+          "text": "Lead the group with high energy",
+          "score": "E"
+        },
+        {
+          "text": "Perfect your moves alone in the corner",
+          "score": "I"
+        },
+        {
+          "text": "Sync with the emotional flow of the music",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "At a fan sign event, you'd most likely...",
+      "options": [
+        {
+          "text": "Compliment their specific outfit details",
+          "score": "S"
+        },
+        {
+          "text": "Go with the flow and see what happens",
+          "score": "P"
+        },
+        {
+          "text": "Share your personal interpretation of their lyrics",
+          "score": "N"
+        },
+        {
+          "text": "Plan exactly what to say in advance",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When discussing BLACKPINK's fashion, you...",
+      "options": [
+        {
+          "text": "Love recreating their stage looks",
+          "score": "E"
+        },
+        {
+          "text": "Note the specific brands and styles",
+          "score": "S"
+        },
+        {
+          "text": "Keep your admiration private",
+          "score": "I"
+        },
+        {
+          "text": "Plan your own outfit line inspired by them",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "If you could join BLACKPINK for a day, you'd...",
+      "options": [
+        {
+          "text": "Suggest an impromptu trip to a theme park",
+          "score": "P"
+        },
+        {
+          "text": "Cook a meal for the members to bond",
+          "score": "F"
+        },
+        {
+          "text": "Explore new music styles with them",
+          "score": "N"
+        },
+        {
+          "text": "Help organize their schedule efficiently",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "During a music video shoot, you'd be the one...",
+      "options": [
+        {
+          "text": "Ensuring the shoot stays on schedule",
+          "score": "T"
+        },
+        {
+          "text": "Suggesting abstract concepts for the visuals",
+          "score": "N"
+        },
+        {
+          "text": "Directing the storyboard with a clear vision",
+          "score": "J"
+        },
+        {
+          "text": "Motivating everyone with your energy",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When a new album is announced, you...",
+      "options": [
+        {
+          "text": "Pre-order the limited edition photobook",
+          "score": "S"
+        },
+        {
+          "text": "Wait to see the concept before deciding",
+          "score": "P"
+        },
+        {
+          "text": "Discuss it with friends in a listening party",
+          "score": "I"
+        },
+        {
+          "text": "Feel personally connected to the lyrics",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "At a BLACKPINK variety show appearance, you...",
+      "options": [
+        {
+          "text": "Observe their group dynamics quietly",
+          "score": "I"
+        },
+        {
+          "text": "Enjoy the unpredictable moments most",
+          "score": "P"
+        },
+        {
+          "text": "Laugh out loud at their jokes",
+          "score": "E"
+        },
+        {
+          "text": "Analyze their strategy in games",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Your favorite BLACKPINK era aesthetic is...",
+      "options": [
+        {
+          "text": "The dreamy, pastel 'Ice Cream' vibe",
+          "score": "N"
+        },
+        {
+          "text": "The bold, monochromatic 'Ddu-Du Ddu-Du' era",
+          "score": "S"
+        },
+        {
+          "text": "The polished, synchronized 'How You Like That'",
+          "score": "J"
+        },
+        {
+          "text": "The empowering message of 'Kill This Love'",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "When a fan theory goes viral, you...",
+      "options": [
+        {
+          "text": "Check the evidence from past MVs",
+          "score": "S"
+        },
+        {
+          "text": "Compare it to other theories systematically",
+          "score": "J"
+        },
+        {
+          "text": "Share it with your fandom circle",
+          "score": "E"
+        },
+        {
+          "text": "Get emotionally invested in the story",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "In a quiet moment backstage, you'd...",
+      "options": [
+        {
+          "text": "Strike up a conversation with a staff member",
+          "score": "I"
+        },
+        {
+          "text": "Review the setlist for timing adjustments",
+          "score": "T"
+        },
+        {
+          "text": "Improvise a new dance move for fun",
+          "score": "P"
+        },
+        {
+          "text": "Daydream about the next performance",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie - The Confidant.",
+      "description": "You are a perfect match for Jennie. Like her solo 'SOLO' era, you have a cool, cat-eye composure that masks a fierce independence. You value quality over quantity in relationships, just as Jennie's 'You & Me' duet-style intimacy suggests. Your inner world is as rich as her rap verses, and you know exactly when to shine and when to step back.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Lisa - The Adventure Buddy.",
+      "description": "Lisa would call you her 'Lalisa' energy twin. You share her love for bold performances, as seen in 'Money' and her dance covers. You're spontaneous and playful, always ready to try new things like Lisa's surprise appearances. Your vibrant personality lights up any room, and you value freedom and expression above all.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Rosé - The Soulmate.",
+      "description": "You resonate deeply with Rosé's soulful 'On The Ground' journey. Your artistic sensitivity mirrors her guitar-driven ballads and the emotional depth of 'Gone'. You appreciate the beauty in vulnerability and have a voice that carries your truth, just as Rosé's does in 'Hard to Love'. You seek genuine connection through shared emotions.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Jisoo - The Best Friend.",
+      "description": "Jisoo's 'Flower' elegance matches your nurturing yet strong character. You are the reliable anchor in any group, just as Jisoo is the unshakable unnie. Your humor is subtle but sharp, like her variety show wit. You value traditions and loyalty, and your presence brings comfort, much like her steady vocals in 'Stay'.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Jennie + Rosé - The Creative Partner.",
+      "description": "You blend Jennie's bold confidence with Rosé's artistic soul. Like their collaboration in 'Sour Candy', you can switch between fierce and vulnerable. You thrive in creative projects that require both innovation and emotion, and you value a partner who can match your intensity and sensitivity.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Lisa + Jisoo - The Work Partner.",
+      "description": "You combine Lisa's energetic drive with Jisoo's grounded reliability. Like their dynamic in dance practices, you execute tasks with both flair and precision. You're a natural leader who can both motivate and support, making you the perfect partner for any project. Your style is efficient but fun.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Rosé + Lisa - The Rival.",
+      "description": "You have the competitive spirit of Rosé and Lisa during their games. You thrive on challenge and push yourself to excel, just as they do in their solo stages. You're not afraid to go head-to-head, but you also respect a worthy opponent. Your energy is infectious and driven.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Jisoo + Jennie - The Mentor.",
+      "description": "You embody Jisoo's wisdom and Jennie's charisma. You guide others with a calm authority, much like Jisoo's unnie role and Jennie's stage presence. You have a clear vision and the patience to nurture talent. Your advice is sought after, and you inspire loyalty.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Dreamy Aesthetic Soul.",
+      "description": "Your vibe matches the ethereal concept of 'Ice Cream' and 'Kiss and Make Up'. You live in a world of soft pastels and heartfelt lyrics. You're a romantic at heart, always seeing the beauty in small moments. Your ideal match appreciates your dreamy nature and shares your love for imaginative storytelling.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Powerful Performer.",
+      "description": "You channel the fierce energy of 'Ddu-Du Ddu-Du' and 'Kill This Love'. You command attention with your presence and aren't afraid to take risks. Like BLACKPINK's signature power, you're assertive and ambitious. Your confidence inspires others, and you lead by example.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Analytical Theorist.",
+      "description": "You dive deep into BLACKPINK's lore, connecting dots between MVs like 'How You Like That' and 'Lovesick Girls'. You enjoy solving puzzles and understanding the bigger picture. Your logical mind is a treasure trove of insights, and you appreciate a partner who can keep up with your intellectual curiosity.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Spontaneous Dancer.",
+      "description": "You live in the moment, just like Lisa's freestyle dances. You're always ready to groove to 'Boombayah' or 'As If It's Your Last'. Your energy is contagious, and you value experiences over plans. You seek a partner who can match your playful spirit and love for adventure.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Loyal Supporter.",
+      "description": "You are the ultimate BLINK, always there to support BLACKPINK through every comeback. Your dedication mirrors Jisoo's steady presence. You value community and tradition, and you find joy in celebrating others' success. Your loyalty is unwavering, and you appreciate a partner who shares your commitment.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Quiet Observer.",
+      "description": "You prefer to watch and understand before jumping in, much like Jennie's calm demeanor offstage. You notice details others miss, like the symbolism in 'Whistle'. Your introspective nature allows you to form deep insights. You seek a connection that respects your need for space and quiet.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Adventurous Explorer.",
+      "description": "You're always looking for new experiences, like Rosé's travel vlogs and Lisa's adventures. You embrace change and love discovering new music, cultures, and styles. Your open-mindedness makes you a great travel buddy. You value a partner who is equally curious and spontaneous.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Bold Innovator.",
+      "description": "You push boundaries, just like BLACKPINK's genre-blending music. You're not afraid to experiment with your style, mixing 'Pretty Savage' with 'Kill This Love' aesthetics. Your creativity knows no bounds, and you inspire others to think outside the box. You seek a partner who challenges the norm with you.",
+      "mbti": "ISTP"
+    }
+  ]
+}

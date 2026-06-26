@@ -1,0 +1,361 @@
+{
+  "quizId": 1000,
+  "title": "Which 2026 World Cup soul matches yours?",
+  "category": "match",
+  "tags": [
+    "MBTI",
+    "Soulmate Match",
+    "Personality",
+    "Sports",
+    "World Cup"
+  ],
+  "description": "Answer 12 questions to discover your 2026 World Cup-inspired soulmate match! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In a stadium roaring with 90,000 fans, who do you turn to?",
+      "options": [
+        {
+          "text": "The one daydreaming about a last-minute goal",
+          "score": "N"
+        },
+        {
+          "text": "The one leading the chant, arm raised high",
+          "score": "E"
+        },
+        {
+          "text": "The one quietly watching the game flow",
+          "score": "I"
+        },
+        {
+          "text": "The one analyzing the formation and tactics",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Your ideal matchday partner is someone who...",
+      "options": [
+        {
+          "text": "Arrives early with a printed schedule",
+          "score": "J"
+        },
+        {
+          "text": "Debates every offside call with facts",
+          "score": "T"
+        },
+        {
+          "text": "Cheers wildly and hugs after every goal",
+          "score": "F"
+        },
+        {
+          "text": "Spontaneously buys tickets on a whim",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During a tense penalty shootout, you want a partner who...",
+      "options": [
+        {
+          "text": "Stands still, hands in pockets, focused",
+          "score": "I"
+        },
+        {
+          "text": "Paces and pumps up the crowd",
+          "score": "E"
+        },
+        {
+          "text": "Calculates the goalkeeper's dive patterns",
+          "score": "T"
+        },
+        {
+          "text": "Closes eyes and sends positive energy",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your dream post-match celebration involves...",
+      "options": [
+        {
+          "text": "Imagining what the team's victory parade will look like",
+          "score": "N"
+        },
+        {
+          "text": "Wandering the streets to find an afterparty",
+          "score": "P"
+        },
+        {
+          "text": "Planning the next match you'll attend together",
+          "score": "J"
+        },
+        {
+          "text": "Replaying the game's best moments on your phone",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When choosing a seat at the stadium, you prefer...",
+      "options": [
+        {
+          "text": "Close to the field to see player expressions",
+          "score": "S"
+        },
+        {
+          "text": "A quiet corner where you can see everything",
+          "score": "I"
+        },
+        {
+          "text": "A seat with a clear view of the entire pitch",
+          "score": "J"
+        },
+        {
+          "text": "Right behind the goal, with the ultras",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Your ideal travel buddy for a World Cup trip is someone who...",
+      "options": [
+        {
+          "text": "Brings homemade snacks for the whole group",
+          "score": "F"
+        },
+        {
+          "text": "Discusses the cultural impact of the tournament",
+          "score": "N"
+        },
+        {
+          "text": "Changes plans on a whim to explore a new city",
+          "score": "P"
+        },
+        {
+          "text": "Has a spreadsheet of all stadium logistics",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "During the national anthem, you want a partner who...",
+      "options": [
+        {
+          "text": "Sings loudly with hand on heart",
+          "score": "E"
+        },
+        {
+          "text": "Reflects on the journey of the team",
+          "score": "N"
+        },
+        {
+          "text": "Analyzes the lineup and substitutions",
+          "score": "T"
+        },
+        {
+          "text": "Stands at attention, fully present",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When your team is losing, your ideal companion would...",
+      "options": [
+        {
+          "text": "Suggest leaving early to beat the traffic",
+          "score": "P"
+        },
+        {
+          "text": "Recall a similar comeback from 4 years ago",
+          "score": "S"
+        },
+        {
+          "text": "Stay silent and process internally",
+          "score": "I"
+        },
+        {
+          "text": "Offer a comforting pat on the back",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "At a World Cup fan zone, you gravitate toward someone who...",
+      "options": [
+        {
+          "text": "Bounces from one game to another all day",
+          "score": "P"
+        },
+        {
+          "text": "Sits on the grass sketching the scene",
+          "score": "I"
+        },
+        {
+          "text": "Dances on the big screen and crowdsurfs",
+          "score": "E"
+        },
+        {
+          "text": "Debates the best goal in tournament history",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Your favorite way to follow a match is...",
+      "options": [
+        {
+          "text": "Imagining alternative outcomes and what-ifs",
+          "score": "N"
+        },
+        {
+          "text": "Watching every angle on multiple screens",
+          "score": "S"
+        },
+        {
+          "text": "Following player Instagram stories live",
+          "score": "F"
+        },
+        {
+          "text": "Tracking the bracket and planning ahead",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "When discussing a controversial call, you want a partner who...",
+      "options": [
+        {
+          "text": "Considers how the player must feel",
+          "score": "F"
+        },
+        {
+          "text": "Pulls up the rulebook on their phone",
+          "score": "S"
+        },
+        {
+          "text": "Shouts their opinion across the room",
+          "score": "E"
+        },
+        {
+          "text": "Decides the debate is over and moves on",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Your ideal World Cup memory would be...",
+      "options": [
+        {
+          "text": "Spontaneously flying to the final match",
+          "score": "P"
+        },
+        {
+          "text": "Dreaming of the next tournament's story",
+          "score": "N"
+        },
+        {
+          "text": "A quiet moment with the trophy at dawn",
+          "score": "I"
+        },
+        {
+          "text": "Analyzing the winning goal frame by frame",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactical Commander.",
+      "description": "You see the whole pitch before anyone else. Like a seasoned manager, you anticipate moves three plays ahead and never lose sight of the endgame. Your mind is a chessboard of formations and counter-strategies. When the pressure mounts, you stay calm and direct the action with quiet authority. Others look to you for the plan, and you always have one. Your soulmate is someone who trusts your vision and executes it without hesitation—a perfect midfield general who turns your strategies into goals.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Improv Genius.",
+      "description": "You thrive on the unexpected—a no-look pass, a nutmeg in the box, a goal out of nothing. Football is your playground, and you invent new rules as you go. Your creativity is contagious, inspiring teammates to try the impossible. You live for the gasp of the crowd when something magical happens. Your soulmate is someone who catches your wild ideas and turns them into reality, a striker who reads your mind and finishes your crosses with flair.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heart of the Team.",
+      "description": "You carry the emotional weight of every match. When a teammate misses, you're the first to console. When someone scores, you celebrate like it's your own. Your empathy creates a bond that lifts everyone around you. You remember birthdays, injuries, and quiet struggles. Your soulmate is a player who matches your passion and vulnerability—a captain who leads with love and inspires loyalty through sheer warmth.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Eternal Optimist.",
+      "description": "You believe in the impossible comeback until the final whistle. Your energy is a bright flame that never flickers, even in extra time. You see the beauty in every pass, every near-miss, every shared moment under the lights. Your enthusiasm is magnetic, drawing people into your orbit. Your soulmate is a fellow dreamer who shares your love for the beautiful game and dances with you in the rain after a draw, celebrating the joy of playing.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Dependable Anchor.",
+      "description": "You are the rock upon which victories are built. Every drill, every set piece, every defensive shift—you execute with precision and reliability. You don't seek glory, but without you, the team crumbles. Your discipline is your superpower, and your consistency earns respect from all. Your soulmate is a goalkeeper who trusts your last-ditch tackles and a coach who knows you'll never be late to training.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Spark.",
+      "description": "You live for the moment the ball hits the back of the net. Your energy is raw, instinctive, and irresistible. You're the first to start a wave, the loudest in the away end, the one who dances after a win. You don't overthink; you feel. Your presence makes every match an event. Your soulmate is a fellow thrill-seeker who dives into every tackle with abandon and celebrates every goal like it's the World Cup winner.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Loyal Supporter.",
+      "description": "You show up rain or shine, home or away. Your loyalty is unwavering, and you know every chant, every history, every player's story. You're the one who organizes travel, brings the banner, and stays after the game to clean up. Your love for the club is quiet but profound. Your soulmate is a player who gives their all for the badge and a fellow fan who shares your lifelong devotion through thick and thin.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Life of the Party.",
+      "description": "You are the heartbeat of the fan zone. Your laughter echoes, your dance moves are legendary, and you can turn any stranger into a friend. You bring joy to every matchday, making sure no one feels alone in the crowd. Your energy is a gift. Your soulmate is a performer on the pitch who plays with a smile and a trick up their sleeve—someone who entertains as much as they compete.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Master Strategist.",
+      "description": "You study the game like a grandmaster. Every formation, every substitution pattern, every statistical trend is cataloged in your mind. You see weaknesses others miss and devise plans that unfold over 90 minutes. Your analysis is sought after, your predictions eerily accurate. Your soulmate is a coach who values your insights and a player who executes your complex instructions with precision—a partnership of minds.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Tactical Analyst.",
+      "description": "You love to deconstruct the game into its components. Why did that through ball work? What formation neutralized the opponent's press? You're endlessly curious, always learning, always questioning. Your notebook is full of diagrams and theories. Your soulmate is a fellow thinker who debates tactics over coffee and a player who loves to experiment with new roles—a meeting of curious minds.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Inspirer.",
+      "description": "You see the potential in every player, every underdog story. Your belief in the human spirit fuels your quiet passion. You're the one who writes poetic match reports and notices the small gestures of sportsmanship. Your insight is deep and often prophetic. Your soulmate is a player who leads by example, not by volume—a humble genius who lifts others with their dedication and grace.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreaming Poet.",
+      "description": "To you, football is art. The arc of a long ball, the rhythm of a tiki-taka sequence, the drama of a last-minute winner—it all moves you deeply. You feel the game in your bones and express it through words, music, or pictures. Your soulmate is a player who plays with soul and a fan who reads your matchday poems aloud, understanding that the scoreline is just a footnote to the story.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Disciplined Guardian.",
+      "description": "You honor the traditions of the game. You know the history, the legends, the old stadiums. Your approach is methodical and respectful. You train hard, play fair, and never cut corners. Your reliability is legendary. Your soulmate is a defender who shares your sense of duty and a coach who values your experience—a partnership built on trust and hard work.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Fixer.",
+      "description": "You learn by doing. Show you a drill once, and you master it. Your instincts are sharp, and your reactions are lightning-fast. You're the first to volunteer for a new position or a tricky set piece. You thrive on action, not theory. Your soulmate is a versatile player who can adapt to any situation and a teammate who trusts your quick decisions under pressure.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Heart.",
+      "description": "You take care of everyone around you. You pack extra snacks, remember allergies, and make sure no one feels left out. Your warmth creates a home away from home in the stadium stands. You're the one who cheers for the underdog and comforts the heartbroken. Your soulmate is a player who gives back to the community and a fellow fan who shares your generous spirit.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Aesthetic Soul.",
+      "description": "You see the game as a canvas. The movement of players, the colors of the kits, the geometry of a free kick—it's all beautiful. Your style is effortless, your taste impeccable. You appreciate the artistry in a Cruyff turn as much as a goal. Your soulmate is a player with flair and grace, who plays with elegance and inspires you to see the world through a lens of beauty.",
+      "mbti": "ISFP"
+    }
+  ]
+}

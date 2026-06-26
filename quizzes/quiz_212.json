@@ -1,0 +1,361 @@
+{
+  "quizId": 212,
+  "title": "Which BLACKPINK style would you pick?",
+  "category": "pick",
+  "tags": [
+    "BLACKPINK",
+    "K-pop",
+    "Music",
+    "MBTI",
+    "Aesthetic Personality"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "At a BLACKPINK concert, you're most likely to:",
+      "options": [
+        {
+          "text": "Focus on the exact choreography and beats",
+          "score": "S"
+        },
+        {
+          "text": "Lead the fanchant wave with full energy",
+          "score": "E"
+        },
+        {
+          "text": "Observe the crowd's vibe from a comfortable spot",
+          "score": "I"
+        },
+        {
+          "text": "Imagine the storyline behind the setlist",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "During a dance practice video, you focus on:",
+      "options": [
+        {
+          "text": "The practice schedule and time management",
+          "score": "J"
+        },
+        {
+          "text": "The emotional expression in each member's face",
+          "score": "F"
+        },
+        {
+          "text": "Whether the moves are perfectly synchronized",
+          "score": "T"
+        },
+        {
+          "text": "The spontaneous freestyle moments",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Backstage before a music show, you would:",
+      "options": [
+        {
+          "text": "Check the stage setup for technical perfection",
+          "score": "T"
+        },
+        {
+          "text": "Chat with staff and other groups to boost morale",
+          "score": "E"
+        },
+        {
+          "text": "Write a heartfelt note to fans on social media",
+          "score": "F"
+        },
+        {
+          "text": "Find a quiet corner to mentally prepare alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When listening to 'How You Like That', you:",
+      "options": [
+        {
+          "text": "Let the song flow and dance however feels right",
+          "score": "P"
+        },
+        {
+          "text": "Interpret the lyrics as a metaphor for rising up",
+          "score": "N"
+        },
+        {
+          "text": "Tap along to the exact beat and bass drop",
+          "score": "S"
+        },
+        {
+          "text": "Plan a choreography video to post later",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "At a fan sign event, your approach is:",
+      "options": [
+        {
+          "text": "Make eye contact and share a quick laugh with each member",
+          "score": "E"
+        },
+        {
+          "text": "Prepare a specific message about their latest performance",
+          "score": "S"
+        },
+        {
+          "text": "Keep the interaction brief but meaningful to avoid overwhelming them",
+          "score": "I"
+        },
+        {
+          "text": "Arrive early to secure a spot and plan your route",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "During a music video shoot for 'Kill This Love', you:",
+      "options": [
+        {
+          "text": "Cheer on the members between takes to keep spirits high",
+          "score": "F"
+        },
+        {
+          "text": "Suggest spontaneous improvisations for extra flair",
+          "score": "P"
+        },
+        {
+          "text": "Envision the MV's narrative and hidden clues",
+          "score": "N"
+        },
+        {
+          "text": "Analyze the camera angles and lighting efficiency",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When a new BLACKPINK era is announced, you:",
+      "options": [
+        {
+          "text": "Mark your calendar and prepare a countdown",
+          "score": "J"
+        },
+        {
+          "text": "Imagine the concept photos and aesthetic direction",
+          "score": "N"
+        },
+        {
+          "text": "Analyze the teaser schedule and predict release dates",
+          "score": "T"
+        },
+        {
+          "text": "Immediately discuss theories with other fans online",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "At a 'The Album' listening party, you prefer to:",
+      "options": [
+        {
+          "text": "Skip around to different tracks based on mood",
+          "score": "P"
+        },
+        {
+          "text": "Note the production details and sound layers",
+          "score": "S"
+        },
+        {
+          "text": "Feel the emotions each song evokes in you",
+          "score": "F"
+        },
+        {
+          "text": "Listen with a small group and share reactions",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When covering a BLACKPINK dance, you:",
+      "options": [
+        {
+          "text": "Add your own style and variations to the routine",
+          "score": "P"
+        },
+        {
+          "text": "Practice alone until each move is precise",
+          "score": "I"
+        },
+        {
+          "text": "Film with friends and post it online",
+          "score": "E"
+        },
+        {
+          "text": "Break down the counts and formations logically",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Regarding Lisa's rap verses, you appreciate:",
+      "options": [
+        {
+          "text": "The deeper meaning and wordplay in the lyrics",
+          "score": "N"
+        },
+        {
+          "text": "The clear pronunciation and rhythm pattern",
+          "score": "S"
+        },
+        {
+          "text": "How it makes you feel empowered and inspired",
+          "score": "F"
+        },
+        {
+          "text": "The way she sticks to the beat and structure",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "At a BLACKPINK pop-up store, you would:",
+      "options": [
+        {
+          "text": "Browse with friends and share opinions loudly",
+          "score": "E"
+        },
+        {
+          "text": "Examine each merchandise item's quality carefully",
+          "score": "S"
+        },
+        {
+          "text": "Plan your purchase list in advance to be efficient",
+          "score": "J"
+        },
+        {
+          "text": "Buy a gift for a fellow fan to show appreciation",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "After a long day of BLACKPINK content, you wind down by:",
+      "options": [
+        {
+          "text": "Scrolling through fan edits without a plan",
+          "score": "P"
+        },
+        {
+          "text": "Daydreaming about future comebacks and concepts",
+          "score": "N"
+        },
+        {
+          "text": "Re-watching your favorite fancams alone",
+          "score": "I"
+        },
+        {
+          "text": "Rating each song or performance objectively",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie - The Chic Leader",
+      "description": "You embody Jennie's cool confidence and natural charisma. Like her iconic 'SOLO' stage presence, you command attention without trying. You appreciate the finer details in BLACKPINK's music videos, from the luxury fashion in 'How You Like That' to the sleek choreography in 'Kill This Love'. Your leadership style is subtle yet powerful—you let your actions speak. You're drawn to Jennie's duality: fierce on stage, but warm in behind-the-scenes moments. Your taste reflects a blend of elegance and edge, much like her 'You & Me' special stage. You value quality over quantity, and your opinions are well-considered.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Rosé - The Soulful Artist",
+      "description": "You share Rosé's emotive and artistic soul. Her 'R' album's raw emotion resonates with you, especially tracks like 'On The Ground' and 'Gone'. You find beauty in vulnerability and express yourself through music and art. In BLACKPINK's group dynamics, you're the one who feels the lyrics deeply and connects with fans on a personal level. Your style is elegant yet effortless, like Rosé's signature blonde waves and acoustic covers. You appreciate the storytelling in songs like 'Lovesick Girls' and 'Stay'. Your creative spirit shines in everything you do, from your fashion choices to your heartfelt interactions.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Lisa - The Dynamic Performer",
+      "description": "You embody Lisa's unstoppable energy and fearless attitude. Like her 'LALISA' solo debut, you're bold, charismatic, and always ready to steal the spotlight. Your dance moves are sharp, and your stage presence is undeniable. You thrive on challenges and love to push boundaries, much like Lisa's iconic 'Money' choreography. In group activities, you're the one who brings the hype and keeps the energy high. Your style is trendy and experimental, mixing streetwear with high fashion. You're inspired by Lisa's versatility, from her rap verses to her graceful ballet background.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Jisoo - The Graceful Support",
+      "description": "You mirror Jisoo's warm, nurturing nature and understated elegance. Like her solo track 'Flower', you bloom with quiet confidence and grace. In BLACKPINK, you're the steady presence that holds the group together, always offering a kind word or a comforting smile. You appreciate the softer moments in their discography, like 'Stay' and 'Hope Not'. Your style is classic and refined, favoring timeless pieces over trends. You're loyal and protective of those you love, and your inner strength is as beautiful as Jisoo's visual reputation.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Born Pink Strategist",
+      "description": "You analyze BLACKPINK's every move like a seasoned strategist. You study album sales, chart positions, and marketing tactics with keen interest. Your favorite era is 'Born Pink' because of its bold concept and calculated rollout. You admire how YG Entertainment builds anticipation with teasers, and you often predict comeback themes correctly. Your personality is logical and result-oriented, much like the group's global domination plan. You appreciate the business side of K-pop and enjoy discussing industry trends. Your approach to fandom is methodical—you stream with purpose and organize fan projects efficiently.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Ice Cream Free Spirit",
+      "description": "You have the playful, carefree vibe of 'Ice Cream' era BLACKPINK. You love collaborations that blend different styles, like their hit with Selena Gomez. Your personality is spontaneous and fun—you're always up for a new adventure or a last-minute concert trip. You enjoy the lighter side of BLACKPINK, from their variety show appearances to their silly behind-the-scenes moments. Your style is colorful and eclectic, mixing patterns and accessories without fear. You're open-minded and curious, always exploring new music genres and art forms. Life is a party, and you're the host.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Whistle Mystic",
+      "description": "You're drawn to the mysterious, minimalist aesthetic of BLACKPINK's debut 'Whistle'. You appreciate the subtlety in their early sound, the hip-hop undertones, and the understated music videos. Your personality is introspective and intuitive—you notice hidden meanings in lyrics and symbolism in visuals. You're not one for flashy trends; instead, you prefer timeless, quality pieces. Like the whistling melody, you leave a lasting impression without being loud. You value deep connections and intellectual conversations. Your favorite BLACKPINK moments are the quiet ones, like acoustic versions or intimate interviews.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Boombayah Firecracker",
+      "description": "You explode with energy like BLACKPINK's debut hit 'Boombayah'. You're bold, confident, and unapologetically yourself. You love high-energy performances, powerful beats, and in-your-face choreography. Your personality is extroverted and assertive—you take charge in group settings and aren't afraid to speak your mind. You're drawn to BLACKPINK's most intense eras, like 'Ddu-Du Ddu-Du' and 'Kill This Love'. Your style is fierce and edgy, with a penchant for leather, chains, and dark colors. You're a natural leader who inspires others with your passion and drive.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Stay Romantic",
+      "description": "You're a hopeless romantic who cherishes BLACKPINK's softer ballads like 'Stay' and 'You Never Know'. You value emotional connection and true-to-you in music and relationships. Your personality is gentle and empathetic—you're the friend everyone turns to for comfort. You appreciate the group's vulnerable moments, like their heartfelt letters to fans or emotional concert speeches. Your style is soft and feminine, favoring pastels and flowing fabrics. You believe in true love and happy endings, and you're not afraid to show your sensitive side. Your favorite BLACKPINK member is probably the one who makes you cry.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The As If It's Your Last Adventurer",
+      "description": "You live in the moment with a 'YOLO' attitude, much like the carefree spirit of 'As If It's Your Last'. You're spontaneous, fun-loving, and always chasing the next thrill. You love BLACKPINK's upbeat, summer tracks and their vibrant music videos. Your personality is adaptable and open to change—you're comfortable with uncertainty and enjoy exploring new places and ideas. Your style is casual and comfortable, with a touch of sporty chic. You're the friend who suggests impromptu trips and dance parties. Life is an adventure, and you're determined to enjoy every second.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Playing With Fire Rebel",
+      "description": "You have a rebellious streak, drawn to the edgy, dark concept of 'Playing With Fire'. You're not afraid to take risks and challenge conventions. Your personality is bold and independent—you march to the beat of your own drum. You love BLACKPINK's more experimental tracks and their fearless fashion choices. Your style is a mix of grunge and glam, with a preference for leather jackets and dark lipstick. You're passionate and intense, but you also have a soft side that few get to see. You admire members who break the mold, especially when they speak their minds.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Forever Young Dreamer",
+      "description": "You're an eternal optimist, inspired by the youthful energy of 'Forever Young'. You believe in chasing dreams and living life to the fullest. Your personality is enthusiastic and idealistic—you see the best in people and situations. You love BLACKPINK's anthems of empowerment and their messages of self-love. Your style is bright and playful, often incorporating cheerful colors and fun accessories. You're a loyal friend who always encourages others to pursue their passions. Your favorite BLACKPINK moments are the ones that make you feel invincible, like the climax of a concert.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Pink Venom Strategist",
+      "description": "You're sharp and calculating, like the cunning concept of 'Pink Venom'. You study BLACKPINK's moves with a critical eye, always analyzing their strategic choices. Your personality is logical and decisive—you make plans and stick to them. You appreciate the group's evolution from 'Square One' to 'Born Pink', noting how they've refined their image. Your style is sleek and sophisticated, favoring tailored fits and monochrome palettes. You're not easily swayed by trends; you prefer timeless elegance. In fan discussions, you're the voice of reason, offering well-reasoned arguments.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Lovesick Girls Healer",
+      "description": "You're a healer at heart, moved by the vulnerability in 'Lovesick Girls'. You understand pain and know how to comfort others. Your personality is compassionate and nurturing—you put others' needs before your own. You love BLACKPINK's emotional depth, especially songs that deal with heartache and resilience. Your style is cozy and approachable, often wearing soft sweaters and warm tones. You're a great listener and give thoughtful advice. Your favorite BLACKPINK moments are the ones where members show their human side, like crying during concerts or sharing personal stories.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Ddu-Du Ddu-Du Powerhouse",
+      "description": "You're a force to be reckoned with, just like the iconic 'Ddu-Du Ddu-Du'. You're confident, powerful, and always in control. Your personality is assertive and ambitious—you set high goals and achieve them. You love BLACKPINK's most fierce concepts and their commanding stage presence. Your style is bold and glamorous, with a preference for statement pieces and dramatic makeup. You're a natural leader who inspires loyalty and respect. You admire the members' work ethic and their ability to dominate the global stage. You're not afraid to show your strength.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Kick It Rebel",
+      "description": "You have a rebellious edge, drawn to the hip-hop swagger of 'Kick It'. You're confident, cool, and unbothered by others' opinions. Your personality is independent and adventurous—you love exploring new sounds and styles. You appreciate BLACKPINK's rap-heavy tracks and their bold fashion choices. Your style is urban and edgy, often incorporating streetwear and sneakers. You're not one for rules; you prefer to make your own path. You admire the members' individuality and their ability to stay true to themselves. Your favorite BLACKPINK moments are the ones that showcase their attitude.",
+      "mbti": "INTP"
+    }
+  ]
+}

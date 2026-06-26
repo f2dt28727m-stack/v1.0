@@ -1,0 +1,361 @@
+{
+  "quizId": 215,
+  "title": "Which BLACKPINK vibe matches your personality?",
+  "category": "which",
+  "tags": [
+    "K-pop",
+    "MBTI",
+    "Music",
+    "BLACKPINK",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired which X are you quiz! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When the final chorus of 'How You Like That' drops at a concert, you would...",
+      "options": [
+        {
+          "text": "Imagine a whole new remix in your head",
+          "score": "N"
+        },
+        {
+          "text": "Watch the performance intently, soaking in every detail",
+          "score": "I"
+        },
+        {
+          "text": "Nod along to the beat, focused on the choreography",
+          "score": "S"
+        },
+        {
+          "text": "Bounce with the crowd, feeding off the energy",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "During a music video shoot for 'Kill This Love', you would...",
+      "options": [
+        {
+          "text": "Ensure everyone feels comfortable and motivated",
+          "score": "F"
+        },
+        {
+          "text": "Suggest spontaneous changes to capture raw moments",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the storyboard without deviation",
+          "score": "J"
+        },
+        {
+          "text": "Analyze how each shot contributes to the narrative",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "When learning a new dance for 'Ddu-Du Ddu-Du', you would...",
+      "options": [
+        {
+          "text": "Perfect the moves alone in a practice room",
+          "score": "I"
+        },
+        {
+          "text": "Break down the steps logically, counting each beat",
+          "score": "T"
+        },
+        {
+          "text": "Feel the music and add your own flair",
+          "score": "F"
+        },
+        {
+          "text": "Practice with a group to get the energy right",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "At a fan sign event, you would...",
+      "options": [
+        {
+          "text": "Plan exactly what you'll say and stick to it",
+          "score": "J"
+        },
+        {
+          "text": "Compliment their outfit or a specific detail",
+          "score": "S"
+        },
+        {
+          "text": "Go with the flow and see what happens",
+          "score": "P"
+        },
+        {
+          "text": "Wonder about the story behind the lyrics you love",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When a new album like 'THE ALBUM' drops, you would...",
+      "options": [
+        {
+          "text": "Create a playlist and analyze the album's themes",
+          "score": "J"
+        },
+        {
+          "text": "Host a listening party with friends",
+          "score": "E"
+        },
+        {
+          "text": "Listen alone with headphones to catch every nuance",
+          "score": "I"
+        },
+        {
+          "text": "Focus on the lyrics and production details",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "During a behind-the-scenes vlog, you would...",
+      "options": [
+        {
+          "text": "Feel the bond between members and their hard work",
+          "score": "F"
+        },
+        {
+          "text": "Imagine the concepts for the next comeback",
+          "score": "N"
+        },
+        {
+          "text": "Notice the technical aspects like lighting and sound",
+          "score": "T"
+        },
+        {
+          "text": "Enjoy the spontaneous moments and bloopers",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "If you were designing a stage for 'Ice Cream', you would...",
+      "options": [
+        {
+          "text": "Imagine a dreamy, surreal concept",
+          "score": "N"
+        },
+        {
+          "text": "Focus on practical logistics and budget",
+          "score": "T"
+        },
+        {
+          "text": "Involve a big team to brainstorm ideas",
+          "score": "E"
+        },
+        {
+          "text": "Plan a strict timeline and check off tasks",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When a fan theory about 'Pink Venom' goes viral, you would...",
+      "options": [
+        {
+          "text": "Compare it to the actual MV frames for clues",
+          "score": "S"
+        },
+        {
+          "text": "Feel excited and share it with fellow fans",
+          "score": "F"
+        },
+        {
+          "text": "Brainstorm alternative interpretations",
+          "score": "P"
+        },
+        {
+          "text": "Quietly read it and keep your thoughts to yourself",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "At a concert's encore, you would...",
+      "options": [
+        {
+          "text": "Scream along and wave your light stick high",
+          "score": "E"
+        },
+        {
+          "text": "Move to wherever the moment takes you",
+          "score": "P"
+        },
+        {
+          "text": "Stand back and take in the full atmosphere",
+          "score": "I"
+        },
+        {
+          "text": "Analyze the setlist and stage transitions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When listening to 'Lovesick Girls', you would...",
+      "options": [
+        {
+          "text": "Create a detailed playlist for different moods",
+          "score": "J"
+        },
+        {
+          "text": "Relate the lyrics to your own experiences",
+          "score": "S"
+        },
+        {
+          "text": "Feel the emotion behind the vocals",
+          "score": "F"
+        },
+        {
+          "text": "Think about the music video's symbolism",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "During a dance practice for 'Whistle', you would...",
+      "options": [
+        {
+          "text": "Encourage everyone to give their best energy",
+          "score": "E"
+        },
+        {
+          "text": "Organize a strict schedule for the practice",
+          "score": "J"
+        },
+        {
+          "text": "Express the song's playful vibe through your moves",
+          "score": "F"
+        },
+        {
+          "text": "Focus on perfecting each arm angle and footwork",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When a new BLACKPINK era is teased, you would...",
+      "options": [
+        {
+          "text": "Spontaneously discuss theories with friends",
+          "score": "P"
+        },
+        {
+          "text": "Calmly wait for announcements",
+          "score": "I"
+        },
+        {
+          "text": "Research the producers and songwriters involved",
+          "score": "T"
+        },
+        {
+          "text": "Dream up possible concepts and aesthetics",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie - The Boss Energy.",
+      "description": "You carry yourself with the quiet confidence of Jennie's 'SOLO' era. Like her iconic cat-eye, you command attention without saying a word. You're a natural leader who values independence and style, much like her 'You Never Know' resilience. Your presence is both fierce and elegant, making you the center of any room.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Lisa - The Stage Fire.",
+      "description": "Your energy is pure Lisa: explosive and charismatic. You light up the stage like her 'LALISA' dance breaks, with moves that are sharp and captivating. You're adventurous and fearless, always ready to try something new, whether it's a risky choreo or a bold fashion statement. You inspire others with your passion.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Jisoo - The Warm Heart.",
+      "description": "Like Jisoo's gentle smile in 'Flower', you radiate warmth and kindness. You're the emotional anchor of your group, always caring for others. Your thoughtful nature mirrors her lyrical delivery in 'You Never Know'. You find beauty in simple moments and prefer harmony over conflict.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Rosé - The Golden Hour Dreamer.",
+      "description": "You have Rosé's ethereal, soulful energy. Like her 'On The Ground' journey, you're introspective and passionate about your dreams. Your voice, whether singing or speaking, carries a unique tone that touches hearts. You appreciate art and beauty, often getting lost in music and emotions.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Jennie + Rosé - The Chic Visionary.",
+      "description": "You blend Jennie's sharp ambition with Rosé's artistic soul. Like the 'Kill This Love' era, you're both powerful and sensitive. You have a clear vision for your future but also appreciate the beauty in vulnerability. Your style is effortlessly cool, mixing high fashion with personal flair.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Lisa + Jisoo - The Dynamic Duo.",
+      "description": "You combine Lisa's boldness with Jisoo's stability. Like their 'Ice Cream' chemistry, you're fun yet reliable. You love adventure but always have a grounded side. You're the friend who suggests spontaneous trips while also making sure everyone has a plan. Your energy is infectious and comforting.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Midnight Listener.",
+      "description": "You're the one who stays up late, headphones on, with 'Lovesick Girls' on repeat. You feel deeply and think in metaphors. Your world is painted with emotions and music, much like the melancholic yet hopeful vibe of 'Stay'. You're a dreamer who finds solace in lyrics and late-night thoughts.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Pink Venom.",
+      "description": "You have a sharp, strategic mind like the concept of 'Pink Venom'. You're not afraid to speak your truth, even if it stings. You're confident and calculated, always thinking a few steps ahead. Your presence is powerful and unforgettable, much like the song's iconic beat drop.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Boombayah Spirit.",
+      "description": "Your energy is explosive and unstoppable, just like the debut era of 'Boombayah'. You're a natural performer who thrives on attention and excitement. You love to party and bring people together. Your enthusiasm is contagious, and you're always the life of the party.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Whistle Melody.",
+      "description": "You have a subtle, captivating charm like the whistle in 'Whistle'. You're observant and detail-oriented, noticing the little things others miss. Your style is understated but impactful. You prefer meaningful connections over small talk, and your presence is calming yet intriguing.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Ddu-Du Ddu-Du Beat.",
+      "description": "You're all about rhythm and precision, like the iconic beat of 'Ddu-Du Ddu-Du'. You have a no-nonsense attitude and a strong work ethic. You get things done efficiently and expect the same from others. Your focus is laser-sharp, and you don't let distractions derail you.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The How You Like That Vibe.",
+      "description": "You're resilient and confident, turning setbacks into comebacks like 'How You Like That'. You have a bold, unapologetic style and aren't afraid to stand out. You thrive on challenges and prove your haters wrong. Your energy is empowering and motivating to those around you.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Ice Cream Sweetheart.",
+      "description": "You're sweet, playful, and charming, like the 'Ice Cream' era. You love to have fun and bring joy to others. Your personality is bubbly and light, but you have a deeper side that values loyalty and friendship. You're the friend who always knows how to cheer everyone up.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Shutdown Mystic.",
+      "description": "You have an enigmatic aura, like the 'Shutdown' era's sleek and mysterious vibe. You're introspective and deep, often lost in your own thoughts. You value privacy and selective sharing. Your style is minimalist yet powerful, and you have a quiet confidence that draws people in.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The As If It's Your Last Optimist.",
+      "description": "You live life with a carpe diem attitude, like the urgency of 'As If It's Your Last'. You're spontaneous, joyful, and always ready for an adventure. You cherish every moment and spread positivity. Your enthusiasm is infectious, and you remind others to enjoy the present.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Playing With Fire Rebel.",
+      "description": "You're daring and passionate, like the intensity of 'Playing With Fire'. You're not afraid to take risks and challenge norms. Your emotions run deep, and you're drawn to the dramatic and exciting. You have a rebellious streak but also a loyal heart for those you love.",
+      "mbti": "INTP"
+    }
+  ]
+}

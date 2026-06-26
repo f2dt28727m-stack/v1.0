@@ -1,0 +1,361 @@
+{
+  "quizId": 217,
+  "title": "How BLACKPINK are you, really?",
+  "category": "how",
+  "tags": [
+    "K-pop",
+    "BLACKPINK",
+    "Personality",
+    "Music",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How often do you lead the fanchant at a concert?",
+      "options": [
+        {
+          "text": "Only if my bias notices me",
+          "score": "I"
+        },
+        {
+          "text": "Always, I'm the loudest",
+          "score": "E"
+        },
+        {
+          "text": "I create new chants spontaneously",
+          "score": "N"
+        },
+        {
+          "text": "Follow the beat, not the chant",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "How often do you analyze song lyrics for hidden meanings?",
+      "options": [
+        {
+          "text": "I go with whatever feels right at the moment",
+          "score": "P"
+        },
+        {
+          "text": "I focus on the emotional vibe",
+          "score": "F"
+        },
+        {
+          "text": "I fact-check every line",
+          "score": "T"
+        },
+        {
+          "text": "I make a theory chart",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How often do you dance along to BLACKPINK choreography?",
+      "options": [
+        {
+          "text": "I dance to express the song's feeling",
+          "score": "F"
+        },
+        {
+          "text": "In front of the mirror, full energy",
+          "score": "E"
+        },
+        {
+          "text": "In my room with the door closed",
+          "score": "I"
+        },
+        {
+          "text": "I practice the exact moves step by step",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How often do you recreate iconic BLACKPINK music video outfits?",
+      "options": [
+        {
+          "text": "I plan the outfit weeks ahead",
+          "score": "J"
+        },
+        {
+          "text": "I use pieces I already own",
+          "score": "S"
+        },
+        {
+          "text": "I design a completely new look",
+          "score": "N"
+        },
+        {
+          "text": "I throw together something last minute",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "How often do you post about BLACKPINK on social media?",
+      "options": [
+        {
+          "text": "I share content and updates",
+          "score": "S"
+        },
+        {
+          "text": "Only when I have something special",
+          "score": "I"
+        },
+        {
+          "text": "Multiple times a day",
+          "score": "E"
+        },
+        {
+          "text": "I curate aesthetic edits and theories",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How often do you imagine BLACKPINK's next era concept?",
+      "options": [
+        {
+          "text": "I picture futuristic, cyber themes",
+          "score": "N"
+        },
+        {
+          "text": "I analyze what would be commercially smart",
+          "score": "T"
+        },
+        {
+          "text": "I hope for a sentimental, emotional comeback",
+          "score": "F"
+        },
+        {
+          "text": "I'm open to anything, no expectations",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How often do you engage in fan wars to defend BLACKPINK?",
+      "options": [
+        {
+          "text": "I counter with logical arguments",
+          "score": "T"
+        },
+        {
+          "text": "I debate using data and achievements",
+          "score": "N"
+        },
+        {
+          "text": "I lead the defense squad",
+          "score": "E"
+        },
+        {
+          "text": "I organize systematic counter-attacks",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How often do you enjoy solo activities related to BLACKPINK?",
+      "options": [
+        {
+          "text": "I spontaneously watch random clips",
+          "score": "P"
+        },
+        {
+          "text": "I get emotional watching their concert videos alone",
+          "score": "F"
+        },
+        {
+          "text": "I prefer listening alone to focus",
+          "score": "I"
+        },
+        {
+          "text": "I collect physical albums and photocards",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How often do you attend BLACKPINK fan meetings?",
+      "options": [
+        {
+          "text": "I go but stay quiet in the back",
+          "score": "I"
+        },
+        {
+          "text": "I go to every one I can",
+          "score": "E"
+        },
+        {
+          "text": "I prepare questions and analyze answers",
+          "score": "T"
+        },
+        {
+          "text": "I go with no plan, see what happens",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How often do you interpret BLACKPINK's music video symbolism?",
+      "options": [
+        {
+          "text": "I write detailed breakdowns and theories",
+          "score": "J"
+        },
+        {
+          "text": "I look for references to their past MVs",
+          "score": "S"
+        },
+        {
+          "text": "I focus on the emotional narrative",
+          "score": "F"
+        },
+        {
+          "text": "I connect it to broader cultural themes",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How often do you hype up BLACKPINK to non-fans?",
+      "options": [
+        {
+          "text": "I talk about how their music makes me feel",
+          "score": "F"
+        },
+        {
+          "text": "I share specific facts and achievements",
+          "score": "S"
+        },
+        {
+          "text": "I create a scheduled introduction plan",
+          "score": "J"
+        },
+        {
+          "text": "I introduce them to everyone I meet",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How often do you reflect on BLACKPINK's impact on your life?",
+      "options": [
+        {
+          "text": "I evaluate how they've influenced my goals",
+          "score": "T"
+        },
+        {
+          "text": "I think about how they inspire my creativity",
+          "score": "N"
+        },
+        {
+          "text": "I let their music guide my mood freely",
+          "score": "P"
+        },
+        {
+          "text": "I journal about it privately",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Ultimate BLINK - Lisa's Energy.",
+      "description": "You radiate the same unstoppable energy as Lisa during her 'LALISA' stage—confident, bold, and always the center of attention. Like her iconic dance breaks, you lead with charisma and never hold back. Your fanchant is heard across the stadium, and you live by the motto 'You never know until you try.' Whether it's nailing the 'How You Like That' choreography or hyping up the crowd, you're the embodiment of BLACKPINK's fierce spirit. Your presence is as electrifying as a Coachella performance, and you inspire others to join the revolution. Keep shining like a diamond—you're the true heart of the fandom.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Visionary - Jennie's Elegance.",
+      "description": "You embody Jennie's sophisticated charm from the 'SOLO' era—graceful yet powerful, with a touch of mystery. Like her iconic 'cat-eye' look, you captivate without trying. You see patterns in BLACKPINK's artistry that others miss, connecting 'Kill This Love' to 'Pink Venom' with ease. Your thoughtful analyses of music videos and lyrics are as refined as Jennie's Chanel outfits. You lead with quiet confidence, preferring meaningful interactions over loud fanfare. Your style is a curated blend of elegance and edge, much like Jennie's solo stages. You're the intellectual force behind the fandom, always one step ahead.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Heartfelt Supporter - Rosé's Soul.",
+      "description": "You carry Rosé's emotional depth from her 'R' album—every lyric resonates with you, and you feel the music in your bones. Like her powerful vocals in 'Gone,' you express vulnerability with strength. You're the one who cries during 'Stay' and finds comfort in 'Hard to Love.' Your love for BLACKPINK is deeply personal, and you connect with other fans on an emotional level. You appreciate the artistry behind each comeback, from the 'Ice Cream' aesthetics to the raw emotion in 'The Album.' Your warmth makes you the heart of any fan community, and you spread love like Rosé's guitar melodies.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Free Spirit - Jisoo's Grace.",
+      "description": "You mirror Jisoo's gentle yet resilient nature from 'ME' era—calm, grounded, and surprisingly fierce. Like her in 'Flower,' you bloom with grace under pressure. You enjoy the simple pleasures of being a fan: collecting photocards, rewatching 'Lovesick Girls' MV, and sharing laughs with fellow BLINKs. You're not one for fan wars; instead, you spread positivity and kindness. Your favorite BLACKPINK moments are the behind-the-scenes giggles and the genuine friendship between members. You remind everyone that at the core, K-pop is about joy and connection. Your spirit is as refreshing as Jisoo's smile.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Dedicated Collector - Lisa's Precision.",
+      "description": "You approach BLACKPINK fandom with the same precision Lisa brings to her dance routines. You own every album version, track every chart update, and analyze every performance detail. Your collection is meticulously organized, much like Lisa's iconic dance practices. You thrive on facts and figures—streaming goals, award records, and comeback schedules. Your dedication is unwavering, and you share your knowledge to educate other fans. You're the go-to source for BLACKPINK trivia, and your commitment mirrors Lisa's work ethic. You prove that being a fan is an art form in itself.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Trendsetter - Jennie's Style.",
+      "description": "You have Jennie's fashion-forward eye—always ahead of the curve, setting trends rather than following them. You recreate her iconic looks from 'How You Like That' to 'Pink Venom' with your own twist. Your social media is a curated gallery of BLACKPINK-inspired aesthetics, and you influence others with your unique style. You understand the visual language of each era, from 'The Album' teasers to 'Born Pink' concepts. Like Jennie, you blend high fashion with street style effortlessly. You're not just a fan; you're a trendsetter who brings BLACKPINK's vibe into everyday life.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Analytical Mind - Rosé's Depth.",
+      "description": "You dive into BLACKPINK's discography with the analytical depth of Rosé's songwriting. You dissect lyrics, production choices, and vocal arrangements, finding layers others miss. Your favorite activity is comparing the 'The Album' tracks to 'Born Pink' and debating the artistic evolution. You appreciate the technical skill behind each member's performance, from Rosé's guitar riffs to Jennie's rap flow. You engage in thoughtful discussions about musicality and genre fusion. Your mind is a treasure trove of insights, and you help others see BLACKPINK's music as the sophisticated art it is.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Loyal Guardian - Jisoo's Warmth.",
+      "description": "You embody Jisoo's protective and loving nature—always looking out for fellow BLINKs and defending BLACKPINK with gentle strength. Like Jisoo's comforting presence in variety shows, you create a safe space for fans. You're the first to welcome new BLINKs and share your knowledge. Your favorite era is 'Kill This Love' for its powerful message, but you cherish every moment. You organize fan projects and support groups, ensuring no one feels alone. Your loyalty is as steadfast as Jisoo's unwavering smile. You are the guardian of the fandom's heart.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Adventurous Explorer - Lisa's Boldness.",
+      "description": "You channel Lisa's adventurous spirit—always seeking new experiences and pushing boundaries. Like her solo debut 'LALISA,' you're not afraid to take risks. You travel to concerts, explore different cultures through BLACKPINK's global influence, and embrace every opportunity. Your playlist ranges from 'Boombayah' to 'Money,' and you love discovering hidden gems. You approach life with the same energy Lisa brings to her dance covers—bold, fearless, and full of joy. You inspire others to step out of their comfort zones and experience the world with open arms.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Dreamy Idealist - Rosé's Vision.",
+      "description": "You share Rosé's dreamy idealism—you see BLACKPINK as a source of inspiration and hope. Like her lyrics in 'On The Ground,' you believe in starting anew and reaching for the stars. You imagine the future of the group with optimism, envisioning new concepts and collaborations. Your favorite moments are the emotional ballads and heartfelt messages from the members. You connect with the deeper meaning behind songs like 'Hope Not' and 'You Never Know.' Your idealistic nature fuels your creativity, and you inspire others to dream big, just as BLACKPINK inspires you.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Strategic Planner - Jennie's Composure.",
+      "description": "You approach fandom with the strategic composure of Jennie—calculated, composed, and always in control. You plan your comeback streams, coordinate fan projects, and analyze the best times to trend hashtags. Like Jennie's solo stages, your execution is flawless. You keep calm during fan wars and focus on long-term goals. Your favorite BLACKPINK song is 'Kill This Love' for its strategic structure. You're the mastermind behind successful fan initiatives, and your leadership ensures the fandom thrives. You prove that being a fan is a strategic endeavor.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Harmonious Connector - Jisoo's Diplomacy.",
+      "description": "You possess Jisoo's diplomatic grace—you bring harmony to fan communities and bridge gaps between different opinions. Like Jisoo's role as the unnie, you mediate conflicts with a gentle touch. You appreciate all members equally and celebrate their individual strengths. Your favorite BLACKPINK memories are the group interactions, like the 'BLACKPINK Diaries' and their playful bickering. You organize events that foster unity and understanding. Your ability to connect people makes the fandom a warmer place. You are the glue that holds BLINKs together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Independent Thinker - Lisa's Individuality.",
+      "description": "You celebrate Lisa's individuality—you're unapologetically yourself and encourage others to do the same. Like Lisa's unique dance style and fashion sense, you stand out from the crowd. You enjoy solo activities like learning choreography or creating fan art. Your favorite BLACKPINK era is 'How You Like That' for its message of resilience. You don't follow trends; you set your own path. Your independence inspires others to embrace their uniqueness. You show that being a fan is about self-expression, not conformity.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Empathetic Listener - Rosé's Sensitivity.",
+      "description": "You have Rosé's empathetic ear—you listen deeply to others and offer comfort through understanding. Like Rosé's emotional performances, you connect with people on a profound level. You're the one who notices when a fellow fan is struggling and reaches out. Your favorite BLACKPINK songs are the emotional ones, like 'Stay' and 'Hard to Love.' You create safe spaces for discussion and emotional support. Your sensitivity is your strength, and you foster a caring community. You remind everyone that behind the glitz, there's heart.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Energetic Performer - Jisoo's Spark.",
+      "description": "You channel Jisoo's surprising spark—bubbly, playful, and full of life. Like her iconic 'DDU-DU DDU-DU' expressions, you bring joy to every interaction. You love dance challenges, fan chants, and live performances. Your energy is contagious, and you get everyone hyped during comebacks. Your favorite era is 'The Album' for its vibrant energy. You're the life of fan parties and online events. Your enthusiasm reminds everyone that fandom is about fun and celebration. You light up the room like Jisoo's smile.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Organized Archivist - Jennie's Precision.",
+      "description": "You mirror Jennie's meticulous nature—you keep detailed records of BLACKPINK's history, from debut to the latest release. Your collection includes rare photocards, concert tickets, and limited editions, all catalogued with care. Like Jennie's perfect stage presence, your organization is impeccable. You create timelines of comebacks, track chart performances, and document every achievement. Your favorite activity is updating your BLACKPINK database. You're the historian of the fandom, preserving memories for future BLINKs. Your dedication ensures that no detail is forgotten.",
+      "mbti": "ESTJ"
+    }
+  ]
+}

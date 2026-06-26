@@ -1,0 +1,240 @@
+[
+  {
+    "category": "match",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 6,
+        "engagement": 8,
+        "differentiation": 9,
+        "authenticity": 5,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "No real 2026 World Cup specifics like specific players, matches, or iconic moments—just generic soccer tropes.",
+        "engagement": "The MBTI angle and fun scenarios make it shareable, but it lacks the inside jokes that make a fan quiz go viral.",
+        "differentiation": "16 distinct MBTI types with unique descriptions—actually feels like different personalities, not just reworded same thing.",
+        "authenticity": "Feels more like a general soccer personality quiz than a fan-made 2026 World Cup one; the language is clean but not fandom-coded.",
+        "compliance_safety": "No weird disclaimers or forced copyright hedges—feels safe and natural."
+      },
+      "fixes": [
+        "Replace generic 'stadium' with '2026 World Cup host city like Mexico City, Toronto, or LA'.",
+        "Add actual 2026 World Cup players like Mbappé, Messi, or Pulisic in examples.",
+        "Include a question about favorite 2026 kits or anthem.",
+        "Use more slang like 'no cap' or 'ate that' in descriptions.",
+        "Mention specific 2026 qualifying matches or controversies."
+      ],
+      "what_worked": [
+        "MBTI-based results make it easy to identify and share.",
+        "Scenarios are relatable to any soccer fan.",
+        "16 results with unique descriptions avoid overlap.",
+        "No cringey legal disclaimers."
+      ],
+      "verdict": "REVISE",
+      "would_share": true
+    }
+  },
+  {
+    "category": "which",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 1,
+        "engagement": 6,
+        "differentiation": 8,
+        "authenticity": 3,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "The quiz never mentions any real 2026 World Cup specifics like host cities, actual teams, players, or iconic moments—it's all generic football vibes.",
+        "engagement": "I'd probably take it and share my result in a group chat for fun, but it's not screenshot-worthy for social media because it lacks that personal connection.",
+        "differentiation": "The 16 results actually feel pretty distinct with different MBTI flavors, which is impressive for such a broad topic.",
+        "authenticity": "It reads like a marketer's idea of a fan quiz—no inside jokes, no fandom-specific slang, no references to real tournament drama; feels very corporate.",
+        "compliance_safety": "No red flags at all—no trademark issues, no weird disclaimers, just clean generic football language."
+      },
+      "fixes": [
+        "Add real 2026 World Cup host cities (e.g., Mexico City, Toronto, New York) and specific teams (e.g., USA, Canada, Mexico) to make it feel authentic.",
+        "Reference actual iconic moments from past World Cups (e.g., Messi's 2022 final, Mbappé's hat-trick) to build hype for 2026.",
+        "Replace generic options like 'wave flags' with fandom-specific actions like 'start a 'Dos a cero' chant' or 'post match threads on Twitter'.",
+        "Include real player names or positions in the questions to show you know the sport, not just the vibe."
+      ],
+      "what_worked": [
+        "The MBTI tie-in is clever and gives each result a unique identity beyond just 'fan type'.",
+        "The 16 results cover a wide range of personalities, so almost everyone finds something that fits.",
+        "The tone of the descriptions is energetic and positive, matching the excitement of a World Cup."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  },
+  {
+    "category": "type",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 9,
+        "engagement": 8,
+        "differentiation": 8,
+        "authenticity": 7,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "The quiz nails actual players, moments like Mbappé's 2018 run and Messi's 2022 triumph, and specific details like Haaland's 2022-23 season and Modrić's 2018 run.",
+        "engagement": "I'd def share my result on Twitter, but the 12 questions might feel a bit long for some; still, the results are fun and tweetable.",
+        "differentiation": "Each result has a distinct player and vibe, but some like the 'Silent Killer' and 'Silent Magician' overlap a bit in quietness.",
+        "authenticity": "The language is mostly fan-coded with slang like 'no cap' and 'ate that', but a few phrasing feels a bit formal like 'your football IQ is second to none'.",
+        "compliance_safety": "No weird hedges or disclaimers, all real player names and events used straightforwardly."
+      },
+      "fixes": [
+        "Q3 option 4 is generic 'motivational speeches'—make it about a specific player like 'Ronaldo's 'SIUUU' before kickoff'",
+        "Q5 option 3 and 4 are both 'tracking back' and 'organizing'—reword option 4 to be more about tactics",
+        "Add a bit more Gen-Z slang in the results like 'main character energy' for Mbappé or 'down bad' for a loss",
+        "Consider shortening the quiz to 10 questions for higher engagement",
+        "Differentiate the 'Silent' types more: maybe change one to 'The Ghost' or give them contrasting secondary traits"
+      ],
+      "what_worked": [
+        "Specific player references with iconic moments (Mbappé's run, Messi's 2022, etc.)",
+        "Results tie closely to real player personalities and playing styles",
+        "The MBTI link adds a layer of shareability and personalization",
+        "Options include both tactical and emotional choices, covering different decision-making styles"
+      ],
+      "verdict": "REVISE",
+      "would_share": true
+    }
+  },
+  {
+    "category": "how",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 3,
+        "engagement": 5,
+        "differentiation": 7,
+        "authenticity": 2,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "Literally zero mention of actual 2026 World Cup stuff like host cities, specific teams, or players—just generic football references.",
+        "engagement": "I'd probably take it for fun but wouldn't post my result because it's too vague and doesn't feel like a real personality thing.",
+        "differentiation": "Some results are distinct like 'Tactical Commander' vs 'Spontaneous Celebrator' but a few blend together like the feeler types.",
+        "authenticity": "This reads like a generic sports quiz with World Cup slapped on—no inside jokes, no fan lingo, no specific tournament moments.",
+        "compliance_safety": "No red flags—no trademark issues, disclaimers are hidden, and it's clearly fan content."
+      },
+      "fixes": [
+        "Add specific 2026 World Cup references like host cities (USA, Canada, Mexico) or teams that qualified.",
+        "Include real player names or iconic moments from previous World Cups to make it feel authentic.",
+        "Q3 and Q6 options are too similar—differentiate them more, e.g., one about sharing memes vs discussing tactics.",
+        "Change result descriptions to mention actual World Cup eras or matches, like '2014 German machine' is good but needs more.",
+        "Add fan-specific language like 'stan' or 'streaming party' to match Gen-Z tone."
+      ],
+      "what_worked": [
+        "The MBTI tie-in is clever and makes results feel personal.",
+        "The 16 result structure gives variety and replay value.",
+        "The use of historical team analogies (e.g., '1998 French squad') adds depth."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  },
+  {
+    "category": "hidden",
+    "status": "NEEDS_REVIEW",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 2,
+        "engagement": 4,
+        "differentiation": 7,
+        "authenticity": 1,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "It barely references any actual World Cup moments, players, or inside jokes, just generic soccer stuff.",
+        "engagement": "I wouldn't share this because it's too vague and feels like a generic personality test, not a fun fandom thing.",
+        "differentiation": "The results actually have distinct vibes, like Tactical Mastermind vs. Dreamy Romantic, so that's decent.",
+        "authenticity": "This reads like someone who googled 'World Cup' wrote it, not a fan who's been through the trenches of Twitter stan culture.",
+        "compliance_safety": "No red flags, it uses 'World Cup' freely and doesn't have weird disclaimers."
+      },
+      "fixes": [
+        "Add specific players (Messi, Ronaldo, Mbappé) and iconic matches (2014 Germany vs Brazil, 2018 France vs Croatia) to questions.",
+        "Use fan terms like 'stan', 'main character energy', 'ate that' in options and results to make it feel like a fan made it.",
+        "Make the questions more about actual fandom behavior like 'When your favorite player gets subbed off, you...' instead of super generic scenarios.",
+        "Include references to 2026 specifics like host cities (Mexico City, New York) or teams (Argentina, France) to make it timely.",
+        "Add a couple of results that are clearly 'stan Twitter' archetypes like 'The Delusional Fan' or 'The Edits Queen'."
+      ],
+      "what_worked": [
+        "The 16 result types have clear personality differences, which is good for a quiz.",
+        "The scoring system with E/I/S/N etc. feels like a proper MBTI mashup, which is fun for fans who like that."
+      ],
+      "verdict": "REJECT",
+      "would_share": false
+    }
+  },
+  {
+    "category": "whatwould",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 6,
+        "engagement": 7,
+        "differentiation": 7,
+        "authenticity": 5,
+        "compliance_safety": 9
+      },
+      "reasoning": {
+        "ip_specificity": "It mentions Mbappé, Messi, Morocco 2022, and Italy 2022 which are real moments, but the questions are pretty generic and could apply to any football fan, not just 2026 World Cup stans.",
+        "engagement": "The results have fun titles and descriptions that could make for a good TikTok share, but the quiz is long (12 questions) and some options feel repetitive, which might make people drop off.",
+        "differentiation": "The 16 results have distinct archetypes with clear MBTI connections, but some like 'Showstopper' (ESTP) and 'Showstopper' (ENTJ) overlap in name and vibe, which is confusing.",
+        "authenticity": "The language tries to be Gen-Z with 'no cap' and 'main character energy', but it feels forced and not how I'd actually text my friends—more like a brand trying to sound young.",
+        "compliance_safety": "No weird disclaimers or copyright hedges, it uses real player names and events freely, which is fine for a fan quiz."
+      },
+      "fixes": [
+        "Rename the two 'Showstopper' results to something distinct, like 'The Star' and 'The Maestro'.",
+        "Add more specific 2026 World Cup references like host cities (USA, Mexico, Canada) or qualifying moments to make it IP-specific.",
+        "Shorten the quiz to 8 questions and combine redundant options (e.g., Q1 options 1 and 3 are both attacking moves).",
+        "Make the language more casual and less try-hard; replace 'no cap' with 'fr' or 'literally' where it fits naturally.",
+        "Include a result for 'The Hype Beast' or 'The Streamer' to match Gen-Z fan culture beyond just playing styles."
+      ],
+      "what_worked": [
+        "The MBTI integration gives each result a deeper personality hook that fans love to debate.",
+        "The descriptions have quotable lines like 'I'm built for this' that could be turned into memes.",
+        "Using iconic World Cup moments (Mbappé hat-trick, Messi assist, Italy shootout) grounds the quiz in real football lore.",
+        "The 'would you share' factor is high because the results are aspirational and positive."
+      ],
+      "verdict": "REVISE",
+      "would_share": true
+    }
+  },
+  {
+    "category": "pick",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 3,
+        "engagement": 5,
+        "differentiation": 6,
+        "authenticity": 4,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "No specific 2026 World Cup moments, players, or references—just generic football scenarios that could apply to any tournament.",
+        "engagement": "I'd probably take it but wouldn't post my result cause it feels too generic and not funny or relatable enough to share.",
+        "differentiation": "Some results like The Hype Leader and The Tactical Mastermind feel distinct, but a few like The Analyst and The Stat Geek overlap too much.",
+        "authenticity": "The language tries to be casual but misses the mark—sounds like a corporate writer trying to sound young instead of an actual fan.",
+        "compliance_safety": "No red flags—uses 'World Cup' and real player names like Mbappé, no weird disclaimers."
+      },
+      "fixes": [
+        "Add specific 2026 host cities, stadiums, or teams (e.g., 'You're at the Azteca for a quarterfinal') to ground it in the actual event.",
+        "Make the questions more meme-worthy: include scenarios like 'Your fave player gets a stupid yellow card for taking his shirt off—do you defend him or clown him?'",
+        "Change result names to be more playful and specific: 'The Hype Leader' is okay, but 'The Tactical Mastermind' sounds like a LinkedIn profile. Try 'The Backseat Manager' or 'The xG Warrior'.",
+        "Include more Gen-Z slang in the questions themselves, not just the intro—like 'You catch the ref doing the most. Do you...'"
+      ],
+      "what_worked": [
+        "The 16 result structure with MBTI letters is a nice touch that fans love to share.",
+        "The use of 'main character energy' and 'no cap' in the intro feels authentic.",
+        "Some result descriptions like 'The Emotional Rollercoaster' and 'The Showman' capture real fan archetypes well."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  }
+]

@@ -1,0 +1,361 @@
+{
+  "quizId": 4000,
+  "title": "How 2026 World Cup are you, really?",
+  "category": "how",
+  "tags": [
+    "MBTI",
+    "Sports",
+    "World Cup",
+    "Soccer",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How often do you rally your friends to watch a big match together?",
+      "options": [
+        {
+          "text": "I focus on following the game stats and strategies",
+          "score": "S"
+        },
+        {
+          "text": "Always, I'm the one organizing viewing parties",
+          "score": "E"
+        },
+        {
+          "text": "Rarely, I prefer watching alone or with one close friend",
+          "score": "I"
+        },
+        {
+          "text": "I love discussing the narratives and what-ifs of the tournament",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "How often do you analyze team formations and tactics during a match?",
+      "options": [
+        {
+          "text": "I go with the flow, watching spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "I get emotional and cheer for my favorite players",
+          "score": "F"
+        },
+        {
+          "text": "I plan my schedule around match days",
+          "score": "J"
+        },
+        {
+          "text": "Constantly, I break down every play",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How often do you engage with other fans online during the World Cup?",
+      "options": [
+        {
+          "text": "I share emotional reactions and support posts",
+          "score": "F"
+        },
+        {
+          "text": "I fact-check news and stats before sharing",
+          "score": "T"
+        },
+        {
+          "text": "I'm active in fan forums and live chats",
+          "score": "E"
+        },
+        {
+          "text": "I lurk and read posts without commenting",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How often do you memorize player stats and historical data?",
+      "options": [
+        {
+          "text": "I imagine future tournaments and dream lineups",
+          "score": "N"
+        },
+        {
+          "text": "I create a strict viewing schedule",
+          "score": "J"
+        },
+        {
+          "text": "I watch matches as they happen, no planning",
+          "score": "P"
+        },
+        {
+          "text": "I recall specific goals and matches from past tournaments",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "How often do you host World Cup-themed parties or events?",
+      "options": [
+        {
+          "text": "I plan the whole event down to the minute",
+          "score": "J"
+        },
+        {
+          "text": "Frequently, I love bringing people together",
+          "score": "E"
+        },
+        {
+          "text": "Seldom, I prefer intimate gatherings",
+          "score": "I"
+        },
+        {
+          "text": "I focus on decorating and making themed snacks",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How often do you speculate about underdog teams making a run?",
+      "options": [
+        {
+          "text": "I enjoy the unpredictability of the tournament",
+          "score": "P"
+        },
+        {
+          "text": "I analyze the odds and probabilities",
+          "score": "T"
+        },
+        {
+          "text": "I root for teams with emotional stories",
+          "score": "F"
+        },
+        {
+          "text": "Often, I enjoy imagining Cinderella stories",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How often do you take charge of a group to watch a match?",
+      "options": [
+        {
+          "text": "I suggest creative viewing themes",
+          "score": "N"
+        },
+        {
+          "text": "I lead the group and keep the energy high",
+          "score": "E"
+        },
+        {
+          "text": "I ensure everyone follows the rules of the game",
+          "score": "T"
+        },
+        {
+          "text": "I make sure everything is organized beforehand",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How often do you prefer watching matches alone?",
+      "options": [
+        {
+          "text": "I watch spontaneously, sometimes alone, sometimes with others",
+          "score": "P"
+        },
+        {
+          "text": "I follow the action on a live ticker or stats page",
+          "score": "S"
+        },
+        {
+          "text": "Often, I need quiet to focus",
+          "score": "I"
+        },
+        {
+          "text": "I get emotionally invested and need space",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How often do you debate controversial referee calls?",
+      "options": [
+        {
+          "text": "I keep my opinions to myself",
+          "score": "I"
+        },
+        {
+          "text": "I break down the rules logically",
+          "score": "T"
+        },
+        {
+          "text": "I enjoy lively debates with friends",
+          "score": "E"
+        },
+        {
+          "text": "I accept whatever happens and move on",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How often do you track team lineups and injuries?",
+      "options": [
+        {
+          "text": "I think about how different strategies could play out",
+          "score": "N"
+        },
+        {
+          "text": "I feel for injured players and their fans",
+          "score": "F"
+        },
+        {
+          "text": "I keep detailed notes on every team",
+          "score": "S"
+        },
+        {
+          "text": "I update my predictions regularly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How often do you attend public viewing events?",
+      "options": [
+        {
+          "text": "I focus on the game details, not the crowd",
+          "score": "S"
+        },
+        {
+          "text": "I plan which matches to attend in advance",
+          "score": "J"
+        },
+        {
+          "text": "I'm always at the fan zones, soaking in the atmosphere",
+          "score": "E"
+        },
+        {
+          "text": "I cheer loudly and celebrate with strangers",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How often do you reflect on a match's deeper meaning?",
+      "options": [
+        {
+          "text": "I enjoy the moment without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "I analyze the tactical decisions made",
+          "score": "T"
+        },
+        {
+          "text": "I think about how the game reflects broader trends",
+          "score": "N"
+        },
+        {
+          "text": "I keep my thoughts private",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactical Commander - ENTJ.",
+      "description": "You orchestrate World Cup experiences like a seasoned manager. Your strategic mind sees the big picture, from group stage pairings to knockout bracket probabilities. Like the 2014 German machine, you build systems that deliver. You're the one friends turn to for pre-match analysis and post-match breakdowns. Your confidence is palpable, and you inspire others to elevate their game. Whether organizing viewing parties or debating formations, you lead with authority and vision. Your approach to the tournament mirrors the precision of a well-executed counterattack.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Tactician - ENTP.",
+      "description": "You see the World Cup as a canvas for bold ideas. Your mind jumps between wild formations and hypothetical scenarios—what if a team played a 2-3-5? You love debating controversial calls and unconventional strategies. Like the Dutch Total Football philosophy, you value fluidity and innovation. You're the one who suggests themed viewing parties or fantasy leagues with obscure rules. Your energy is infectious, sparking conversations that last long after the final whistle. You thrive on the intellectual sparring that the tournament provides.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Inspirational Captain - ENFJ.",
+      "description": "You embody the spirit of a team captain who lifts everyone around you. Your passion for the World Cup is rooted in unity and shared emotion. You organize gatherings that feel like family reunions, ensuring every fan feels included. Your empathy allows you to sense the mood of the crowd and adjust the energy accordingly. Like the 1998 French squad, you blend talent with heart. You're the one who comforts a friend after a heartbreaking loss and celebrates wildly after a victory. Your leadership is warm, yet commanding.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Passionate Supporter - ENFP.",
+      "description": "Your love for the World Cup is pure, unfiltered joy. You dive into each match with childlike enthusiasm, cheering for underdogs and celebrating every goal as if it were your own. Your creativity shows in your match-day rituals—face paint, custom jerseys, and spontaneous chants. Like the 2002 South Korean Red Devils, you create an electric atmosphere. You connect with fans from all nations, sharing stories and snacks. Your optimism is contagious, reminding everyone why football is called the beautiful game.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Anchor - ESTJ.",
+      "description": "You bring structure and reliability to World Cup fandom. Your encyclopedic knowledge of past tournaments, from 1930 to today, is legendary. You plan viewing schedules with military precision, ensuring no kickoff is missed. Like the disciplined Italian defenses of old, you value order and tradition. You're the one who keeps the group on track, reminding everyone of match times and referee decisions. Your practicality ensures that every party has enough snacks and a clear view of the screen. You are the backbone of any fan group.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Celebrator - ESTP.",
+      "description": "You live for the adrenaline of a live match. Your World Cup experience is all about the moment—the roar of the crowd, the last-minute goal, the unexpected upset. You're the first to jump up and high-five strangers in a bar. Like the 1998 French flair players, you bring excitement and unpredictability. You have no fixed schedule; you go where the energy takes you. Your quick reflexes and sharp observations make you a great drinking game partner. You embody the thrill of the tournament.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Loyal Companion - ESFJ.",
+      "description": "You make the World Cup a communal experience. Your home becomes the neighborhood hub for matches, with homemade snacks and a warm welcome. You remember everyone's favorite team and player, checking in on them after games. Like the 2014 Costa Rican squad, you surprise people with your dedication. You create traditions—matching shirts, pre-game playlists, and victory dances. Your kindness and attention to detail ensure that every fan feels valued. You are the heart of the viewing party, keeping spirits high.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Energetic Showstopper - ESFP.",
+      "description": "You turn every match into a spectacle. Your exuberance is magnetic, drawing people into your orbit. You're the one dancing during halftime, leading chants, and pulling shy friends onto the dance floor. Like the Brazilian samba style, your love for the game is rhythmic and joyful. You have an innate ability to read the room and amp up the energy when needed. Your wardrobe is a rotating display of national team jerseys. For you, the World Cup is a carnival, and you are the star performer.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Mastermind - INTJ.",
+      "description": "You approach the World Cup like a grand chessboard. Your analysis goes beyond the pitch, considering political, economic, and historical factors. You predict tournament outcomes with uncanny accuracy, often betting on long shots. Like the 1970 Brazilian team's tactical evolution, you appreciate the long game. You prefer to watch matches alone, where you can focus on patterns and strategies. Your insights are sharp and often surprising. You don't just watch football; you decode it.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analytical Theorist - INTP.",
+      "description": "Your mind dissects the World Cup into systems and probabilities. You're fascinated by the underlying algorithms of the game—pass networks, expected goals, and tactical shifts. You spend hours on forums debating the merits of a false nine versus a target man. Like the 2010 Spanish tiki-taka, you appreciate complex structures. You often lose track of time while researching historical match data. Your ideas are innovative, even if you keep them to yourself. You see the tournament as a living laboratory of football theory.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Visionary - INFJ.",
+      "description": "You feel the World Cup on a deeper level. You're drawn to the narratives—the redemption arcs, the underdog stories, the legacy of legends. Your empathy allows you to connect with players' journeys, feeling their triumphs and heartbreaks. Like the 1999 US Women's World Cup team, you value unity and purpose. You often watch alone, but your reflections are profound. You might write poetry about a match or compose a playlist that captures its emotion. Your insights inspire others to see the game differently.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreamy Idealist - INFP.",
+      "description": "Your World Cup experience is a tapestry of dreams and ideals. You root for the romance of football—the perfect pass, the last-minute winner, the fairytale run. You imagine yourself on the pitch, scoring the winning goal in a final. Like the 1954 'Miracle of Bern', you believe in magic. You collect stories of players who overcame adversity. Your match-day rituals are personal and meaningful. You might cry during anthems or feel a lump in your throat during a tribute. Your love for the game is pure and poetic.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Disciplined Guardian - ISTJ.",
+      "description": "You honor the traditions and records of the World Cup. Your knowledge of past winners, top scorers, and historic matches is encyclopedic. You approach each tournament with a sense of duty, keeping detailed notes and statistics. Like the 1966 English team's stoic defense, you value reliability. You prefer to watch matches in a calm, organized environment. You're the one who corrects others' facts and ensures accuracy. Your loyalty to your national team is unwavering, and you pass down your knowledge to younger fans.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Problem Solver - ISTP.",
+      "description": "You experience the World Cup through action. You're the one fixing the TV signal, setting up the sound system, or grilling burgers during halftime. Your practical skills make you the go-to person for any technical issue. Like the 2006 Italian defenders, you're calm under pressure. You analyze plays by focusing on mechanics—how a player's body position affects a shot. You enjoy watching matches alone or with a small group where you can discuss tactics without distraction. Your insights are grounded and useful.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Caretaker - ISFJ.",
+      "description": "You create a warm, welcoming environment for World Cup viewing. You remember everyone's favorite snacks and make sure no one goes hungry. Your attention to detail ensures that the party runs smoothly, from seating arrangements to clean-up. Like the 1991 US Women's team's supportive culture, you foster community. You're the one who checks on friends during tense matches, offering comfort. Your loyalty to your team is quiet but fierce. You might knit scarves or bake themed treats. Your love is expressed through acts of service.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artistic Aesthete - ISFP.",
+      "description": "You experience the World Cup through its beauty and artistry. You appreciate the elegance of a well-struck volley, the choreography of a team celebration, the vibrant colors of the fans. Like the 1970 Brazilian team's flair, you value expression. You might create art inspired by the tournament—paintings, photographs, or playlists. You watch matches with a sense of wonder, often pausing to admire a moment. Your preferences are personal; you might support a team because of their kit design. Your passion is quiet but deeply felt.",
+      "mbti": "ISFP"
+    }
+  ]
+}

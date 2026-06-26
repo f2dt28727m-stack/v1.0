@@ -1,0 +1,361 @@
+{
+  "quizId": 226,
+  "title": "How BLACKPINK are you, really?",
+  "category": "how",
+  "tags": [
+    "K-pop",
+    "BLACKPINK",
+    "Music",
+    "Personality",
+    "Aesthetic Personality"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How often do you take charge during dance practice?",
+      "options": [
+        {
+          "text": "I focus on nailing each step precisely",
+          "score": "S"
+        },
+        {
+          "text": "I lead the group and assign formations",
+          "score": "E"
+        },
+        {
+          "text": "I perfect my moves in the back corner",
+          "score": "I"
+        },
+        {
+          "text": "I improvise and add my own flair",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "How often do you analyze the lyrics before a comeback?",
+      "options": [
+        {
+          "text": "I feel the emotion and connect personally",
+          "score": "F"
+        },
+        {
+          "text": "I plan which parts to sing at fan signs",
+          "score": "J"
+        },
+        {
+          "text": "I just enjoy the song without overthinking",
+          "score": "P"
+        },
+        {
+          "text": "I dissect every word for hidden meaning",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How often do you hype up the members during recording?",
+      "options": [
+        {
+          "text": "I compliment their tone and delivery",
+          "score": "F"
+        },
+        {
+          "text": "I point out tempo issues objectively",
+          "score": "T"
+        },
+        {
+          "text": "I give quiet nods of approval",
+          "score": "I"
+        },
+        {
+          "text": "I cheer loudly and keep energy high",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How often do you stick to the choreography exactly?",
+      "options": [
+        {
+          "text": "I repeat the same moves until muscle memory",
+          "score": "S"
+        },
+        {
+          "text": "I add subtle variations each time",
+          "score": "N"
+        },
+        {
+          "text": "I map out a practice schedule",
+          "score": "J"
+        },
+        {
+          "text": "I go with the flow and freestyle",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "How often do you engage with fans during a concert?",
+      "options": [
+        {
+          "text": "I focus on my performance and zone out",
+          "score": "I"
+        },
+        {
+          "text": "I remember the fan chants and sing along",
+          "score": "S"
+        },
+        {
+          "text": "I plan which fan interactions to do next",
+          "score": "J"
+        },
+        {
+          "text": "I wave and make eye contact with the crowd",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How often do you imagine the music video concept before filming?",
+      "options": [
+        {
+          "text": "I wait to see what the director has in mind",
+          "score": "P"
+        },
+        {
+          "text": "I envision a storyline and symbolism",
+          "score": "N"
+        },
+        {
+          "text": "I calculate camera angles and lighting",
+          "score": "T"
+        },
+        {
+          "text": "I feel the vibe and get emotional",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How often do you initiate group discussions about the next era?",
+      "options": [
+        {
+          "text": "I set deadlines and assign tasks",
+          "score": "J"
+        },
+        {
+          "text": "I brainstorm future trends and aesthetics",
+          "score": "N"
+        },
+        {
+          "text": "I evaluate pros and cons of each idea",
+          "score": "T"
+        },
+        {
+          "text": "I pitch bold concepts and rally everyone",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How often do you rehearse in front of a mirror alone?",
+      "options": [
+        {
+          "text": "I practice solo to perfect my expression",
+          "score": "I"
+        },
+        {
+          "text": "I imagine how fans will react",
+          "score": "F"
+        },
+        {
+          "text": "I check my angles and spacing",
+          "score": "S"
+        },
+        {
+          "text": "I let loose and try new moves",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How often do you suggest changes to the setlist?",
+      "options": [
+        {
+          "text": "I analyze which songs flow best",
+          "score": "T"
+        },
+        {
+          "text": "I pick songs that match my mood",
+          "score": "P"
+        },
+        {
+          "text": "I keep suggestions to myself",
+          "score": "I"
+        },
+        {
+          "text": "I speak up and argue for my picks",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How often do you notice details in the stage design?",
+      "options": [
+        {
+          "text": "I plan how to use the space effectively",
+          "score": "J"
+        },
+        {
+          "text": "I feel the atmosphere and emotion",
+          "score": "F"
+        },
+        {
+          "text": "I see the exact colors and props used",
+          "score": "S"
+        },
+        {
+          "text": "I interpret the symbolic meaning",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How often do you share behind-the-scenes stories with fans?",
+      "options": [
+        {
+          "text": "I express gratitude and affection",
+          "score": "F"
+        },
+        {
+          "text": "I organize a Q&A schedule",
+          "score": "J"
+        },
+        {
+          "text": "I describe the exact sequence of events",
+          "score": "S"
+        },
+        {
+          "text": "I tell fun anecdotes during live streams",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How often do you reflect on your performance after a show?",
+      "options": [
+        {
+          "text": "I critique each member's timing",
+          "score": "T"
+        },
+        {
+          "text": "I go with the moment and don't dwell",
+          "score": "P"
+        },
+        {
+          "text": "I think about new ways to improve",
+          "score": "N"
+        },
+        {
+          "text": "I replay my mistakes in my head",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Legendary Dancer - Lisa-level.",
+      "description": "You light up the stage like Lisa in her 'LALISA' solo, commanding every beat with precision and charisma. Your energy is unmistakable, and you thrive on leading the group with bold moves and fierce eye contact. Much like BLACKPINK's iconic Coachella performance, you draw the crowd into your world. You're not just a performer—you're a spectacle. The way you own the spotlight mirrors Lisa's signature swagger, and your presence alone can shift the energy of any room. You embody the fearless spirit of 'Kill This Love'—unstoppable and unforgettable.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Strong Dancer - Jennie-level.",
+      "description": "Walking on stage, you channel an energy that demands attention, much like Jennie's 'SOLO' era. You have a magnetic confidence that pulls people in, but you also know when to retreat into your own space. Your style is a mix of fierce and refined—think Jennie's iconic 'How You Like That' look. You're not the loudest, but your presence is felt. Like the chorus of 'Shut Down,' you don't play by anyone else's rules. You balance leadership with a cool, collected demeanor, making you a natural center of attention without even trying.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Hidden Dancer - Jisoo-level.",
+      "description": "BORN PINK is your default state—bold, unapologetic, yet with a softness that surprises. Like Jisoo's heartfelt 'Flower' performance, you blend elegance with strength. You're the quiet force that holds the group together, always ready with a warm smile and a thoughtful word. Your dance moves are precise but gentle, much like Jisoo's signature 'DDU-DU DDU-DU' choreography. You have a natural grace that makes people feel at ease. When you speak, it's with the sincerity of 'Stay'—genuine and deeply felt.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Aspiring Dancer - Rosé-level.",
+      "description": "Quiet on the outside, but inside you're running a full production. Like Rosé's raw emotion in 'Gone,' you pour your soul into every move. You're deeply passionate about your craft, often lost in the music during practice. Your style is fluid and emotional, reminiscent of Rosé's 'On The Ground' era. You feel every lyric and translate it into movement. When you perform, it's not just about the steps—it's about telling a story. You connect with fans on a personal level, much like Rosé's intimate fan meetings.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Performer - Jennie's Right Hand.",
+      "description": "Much like the backbone of BLACKPINK's live shows, you are the one who ensures everything runs smoothly. You have a meticulous approach to practice, always drilling the choreography until it's perfect. Your style is grounded and dependable, like the steady beat of 'Whistle.' You're not one for flashy improvisation; you prefer to execute flawlessly. Your reliability makes you the member others trust for a solid performance. You embody the discipline of 'As If It's Your Last'—giving 100% every time.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Star - Lisa's Wild Side.",
+      "description": "When the music drops, you become someone else entirely. Like Lisa's freestyle moments in dance practices, you thrive on spontaneity and surprise. Your moves are sharp and unpredictable, keeping everyone on their toes. You love to experiment with new styles, much like BLACKPINK's genre-blending discography. Your energy is infectious, and you often lead impromptu dance sessions. You're the life of the party, always ready to turn a practice into a jam session. Your creativity is your superpower.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Heart of the Group - Jisoo's Warmth.",
+      "description": "Like Jisoo's comforting presence during variety shows, you are the emotional anchor of any team. You remember birthdays, bring snacks to practice, and always check on others. Your dance style is fluid and nurturing, focusing on harmony rather than power. You embody the caring spirit of 'STAY'—always there for the members. Fans adore your genuine warmth, and you have a way of making everyone feel included. Your strength lies in your ability to connect and uplift those around you.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Energetic Muse - Rosé's Playfulness.",
+      "description": "Hardcore fans would point at you and say 'that's a Rosé kind of energy.' You're bubbly, expressive, and always in the moment. Your dance moves are loose and joyful, like Rosé's playful 'Ice Cream' choreography. You love to interact with fans, blowing kisses and smiling during performances. You bring a lightness to the stage that balances intensity. Your optimism is contagious, and you find joy in the little things—like the glitter on your outfit. You're the embodiment of 'Forever Young.'.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Mastermind - The Architect.",
+      "description": "Like the mind behind BLACKPINK's iconic 'Kill This Love' concept, you think in grand schemes. You analyze every detail—from lighting to lyrics—to create a cohesive vision. Your approach to dance is calculated, focusing on the big picture. You're not just a performer; you're a director. Your quiet intensity mirrors Jennie's focused gaze during rehearsals. You plan for the long game, always thinking about the next era. Your style is minimalist but powerful, like the black-and-white aesthetic of 'Whistle.'.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Innovator - The Theorist.",
+      "description": "You're the one who comes up with fan theories about the 'Pink Venom' music video. Your mind is constantly exploring new ideas, questioning why certain moves work and how to improve them. You love to deconstruct choreography and rebuild it with innovative twists. Like Rosé's experimental guitar riffs, you bring a unique flavor to everything you do. Your curiosity drives you to learn every dance style, from hip-hop to contemporary. You're always asking 'what if?' and pushing boundaries.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Empath - The Deep Connector.",
+      "description": "Much like Jisoo's ability to read a room, you intuitively understand others' emotions. You're the member who notices when someone is struggling and offers a quiet word of encouragement. Your dance style is subtle but expressive, conveying deep emotion without grand gestures. You're drawn to ballads like 'You Never Know' and interpret them with heartfelt movement. Your presence is calming, like the soft piano in 'Stay.' People trust you with their secrets, and you never betray that trust.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poetic Soul - The Dreamer.",
+      "description": "Like the lyrics of 'Lovesick Girls,' you feel everything deeply. Your dance is an extension of your inner world—romantic, melancholic, and beautiful. You often get lost in the music, imagining yourself in a music video. Your style is inspired by Rosé's ethereal 'Gone' performances. You value true-to-you and self-expression above all. You write poetry in your free time and see the world through a filter of emotion. Your sensitivity is your strength, allowing you to connect on a profound level.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Disciplined Executor - The Backbone.",
+      "description": "Much like the punctuality of BLACKPINK's rehearsal schedule, you are reliable and methodical. You memorize every step and execute it with precision. Your practice routine is as disciplined as Jennie's vocal warm-ups. You value tradition and consistency, often sticking to proven choreography. Your style is clean and sharp, like the crisp lines of 'DDU-DU DDU-DU.' You're the member the group can count on to never miss a beat. Your dedication is the foundation of every performance.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Problem Solver - The Technician.",
+      "description": "When the stage setup malfunctions, you're the first to jump in and fix it. Your approach to dance is practical—you learn by doing, not by theorizing. Like Lisa's quick adaptation during live shows, you improvise seamlessly when things go wrong. You're skilled with your hands, whether it's adjusting a mic pack or styling your outfit. Your moves are efficient and powerful, with no wasted energy. You thrive in the backstage chaos, solving problems with calm confidence.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Caretaker - The Supporter.",
+      "description": "Like Jisoo's role as the unnie of the group, you take care of everyone's needs. You remember the small details—like who prefers which water brand—and make sure everyone is comfortable. Your dance style is gentle and supportive, always in sync with your partner. You find joy in helping others shine, much like Jisoo's encouraging words during 'Kill This Love' practices. Your loyalty is unwavering, and you'll defend your group fiercely. You embody the warmth of 'Stay.'.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Aesthetic Artist - The Free Spirit.",
+      "description": "Like the avant-garde fashion in BLACKPINK's 'How You Like That' era, you have a unique artistic vision. Your dance is fluid and expressive, often incorporating elements of contemporary and modern. You're drawn to aesthetics—the color palette of 'Pink Venom,' the glitter of 'Ice Cream.' You express yourself through every movement, making each performance a work of art. Your style is unpredictable and captivating, like Rosé's solo stages. You live in the moment, letting your emotions guide you.",
+      "mbti": "ISFP"
+    }
+  ]
+}

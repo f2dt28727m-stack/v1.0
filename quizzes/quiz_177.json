@@ -12,253 +12,253 @@
   ],
   "questions": [
     {
-      "text": "Travel出发前，你会？",
+      "text": "Before setting off on a trip, you usually...",
       "options": [
         {
-          "text": "只确定大致方向，到了再灵活安排",
+          "text": "Only set a general direction, then plan flexibly when you arrive",
           "score": "P"
         },
         {
-          "text": "制定详细行程表和备选方案",
+          "text": "Make a detailed itinerary and backup plans",
           "score": "J"
         },
         {
-          "text": "独自研究攻略，默默做准备",
+          "text": "Research travel tips alone, quietly preparing",
           "score": "I"
         },
         {
-          "text": "召集朋友一起规划，分享期待",
+          "text": "Gather friends to plan together, sharing the excitement",
           "score": "E"
         }
       ]
     },
     {
-      "text": "在陌生城市，你更喜欢？",
+      "text": "In an unfamiliar city, you prefer to...",
       "options": [
         {
-          "text": "随意漫步，发现意外惊喜",
+          "text": "Wander aimlessly, discovering unexpected surprises",
           "score": "N"
         },
         {
-          "text": "逛当地市场，和摊主聊天",
+          "text": "Browse the local market, chatting with the vendors",
           "score": "E"
         },
         {
-          "text": "按地图打卡必去景点",
+          "text": "Check off must-visit spots from the map",
           "score": "S"
         },
         {
-          "text": "找个安静角落观察行人",
+          "text": "Find a quiet corner to watch the people pass by",
           "score": "I"
         }
       ]
     },
     {
-      "text": "旅行中遇到语言障碍，你会？",
+      "text": "When facing a language barrier during travel, you...",
       "options": [
         {
-          "text": "打开翻译软件精准交流",
+          "text": "Open a translation app for accurate communication",
           "score": "T"
         },
         {
-          "text": "顺其自然，相信能解决",
+          "text": "Go with the flow, trusting that it will work out",
           "score": "P"
         },
         {
-          "text": "用肢体语言和微笑努力沟通",
+          "text": "Use body language and smiles to communicate",
           "score": "F"
         },
         {
-          "text": "提前下载离线词典做好准备",
+          "text": "Download an offline dictionary in advance to prepare",
           "score": "J"
         }
       ]
     },
     {
-      "text": "选择旅行纪念品时，你倾向于？",
+      "text": "When choosing travel souvenirs, you tend to...",
       "options": [
         {
-          "text": "有象征意义的手工艺品",
+          "text": "Pick symbolic handicrafts",
           "score": "N"
         },
         {
-          "text": "只买对自己有价值的物品",
+          "text": "Only buy items of personal value to you",
           "score": "T"
         },
         {
-          "text": "实用的当地特产",
+          "text": "Go for practical local specialties",
           "score": "S"
         },
         {
-          "text": "给亲友带礼物分享快乐",
+          "text": "Bring gifts for friends and family to share the joy",
           "score": "F"
         }
       ]
     },
     {
-      "text": "旅行中的住宿，你会选？",
+      "text": "For travel accommodation, you choose...",
       "options": [
         {
-          "text": "设计独特的特色住处",
+          "text": "A uniquely designed specialty stay",
           "score": "N"
         },
         {
-          "text": "独立的民宿，享受私密空间",
+          "text": "An independent guesthouse, enjoying private space",
           "score": "I"
         },
         {
-          "text": "热闹的青旅，方便认识旅伴",
+          "text": "A lively hostel, easy to meet travel companions",
           "score": "E"
         },
         {
-          "text": "设施齐全的连锁酒店",
+          "text": "A well-equipped chain hotel",
           "score": "S"
         }
       ]
     },
     {
-      "text": "面对突发天气变化（如下雨），你会？",
+      "text": "When facing sudden weather changes (like rain), you...",
       "options": [
         {
-          "text": "按原计划冒雨出行",
+          "text": "Stick to the original plan and head out in the rain",
           "score": "J"
         },
         {
-          "text": "觉得雨中漫步也别有风味",
+          "text": "Feel that a walk in the rain has its own charm",
           "score": "F"
         },
         {
-          "text": "临时改去室内景点",
+          "text": "Switch to an indoor attraction on the fly",
           "score": "P"
         },
         {
-          "text": "担心影响行程效率",
+          "text": "Worry about how it affects the trip’s efficiency",
           "score": "T"
         }
       ]
     },
     {
-      "text": "旅行时，你通常如何安排一天？",
+      "text": "While traveling, how do you usually plan your day?",
       "options": [
         {
-          "text": "列满行程，高效打卡",
+          "text": "Fill the schedule, efficiently checking off spots",
           "score": "J"
         },
         {
-          "text": "睡到自然醒，随心情安排",
+          "text": "Sleep until you wake up naturally, plan based on mood",
           "score": "P"
         },
         {
-          "text": "关注每个细节体验",
+          "text": "Pay close attention to every detailed experience",
           "score": "S"
         },
         {
-          "text": "想象下一个目的地的故事",
+          "text": "Imagine the stories of the next destination",
           "score": "N"
         }
       ]
     },
     {
-      "text": "旅途中，你更享受？",
+      "text": "During the trip, what do you enjoy more?",
       "options": [
         {
-          "text": "独自沉浸在风景中",
+          "text": "Immersing yourself in the scenery alone",
           "score": "I"
         },
         {
-          "text": "分析当地历史文化背景",
+          "text": "Analyzing the local historical and cultural background",
           "score": "T"
         },
         {
-          "text": "和同行人分享感受",
+          "text": "Sharing feelings with your travel companions",
           "score": "E"
         },
         {
-          "text": "感受当地的生活氛围",
+          "text": "Feeling the atmosphere of local life",
           "score": "F"
         }
       ]
     },
     {
-      "text": "选择旅行目的地，你优先考虑？",
+      "text": "When choosing a travel destination, you prioritize...",
       "options": [
         {
-          "text": "自己挖掘的小众地方",
+          "text": "Off-the-beaten-path places you’ve discovered yourself",
           "score": "I"
         },
         {
-          "text": "有明确攻略的成熟路线",
+          "text": "Well-established routes with clear travel guides",
           "score": "J"
         },
         {
-          "text": "朋友推荐的热门地点",
+          "text": "Popular spots recommended by friends",
           "score": "E"
         },
         {
-          "text": "充满未知的探索之旅",
+          "text": "Exploratory journeys full of the unknown",
           "score": "P"
         }
       ]
     },
     {
-      "text": "旅行结束后，你会？",
+      "text": "After the trip ends, you...",
       "options": [
         {
-          "text": "写私密日记记录心情",
+          "text": "Write a private journal to record your feelings",
           "score": "I"
         },
         {
-          "text": "整理实用攻略供他人参考",
+          "text": "Organize practical travel tips for others to reference",
           "score": "S"
         },
         {
-          "text": "发朋友圈分享照片和故事",
+          "text": "Post on social media to share photos and stories",
           "score": "E"
         },
         {
-          "text": "创作旅行感悟或手账",
+          "text": "Create travel reflections or a scrapbook",
           "score": "N"
         }
       ]
     },
     {
-      "text": "旅行中做决策时，你习惯？",
+      "text": "When making decisions during travel, you tend to...",
       "options": [
         {
-          "text": "提前定好规则避免分歧",
+          "text": "Set rules in advance to avoid disagreements",
           "score": "J"
         },
         {
-          "text": "听取大家意见再决定",
+          "text": "Listen to everyone’s opinion before deciding",
           "score": "F"
         },
         {
-          "text": "临时根据情况灵活决定",
+          "text": "Decide flexibly on the fly based on the situation",
           "score": "P"
         },
         {
-          "text": "权衡利弊后理性选择",
+          "text": "Weigh the pros and cons, then make a rational choice",
           "score": "T"
         }
       ]
     },
     {
-      "text": "旅途中最让你满足的是？",
+      "text": "What satisfies you most during a trip?",
       "options": [
         {
-          "text": "对世界有了全新的想象与认知",
+          "text": "A whole new imagination and understanding of the world",
           "score": "N"
         },
         {
-          "text": "解决了旅途中的复杂问题",
+          "text": "Solving complex problems during the journey",
           "score": "T"
         },
         {
-          "text": "感受到人与人之间的温暖连接",
+          "text": "Feeling the warm connection between people",
           "score": "F"
         },
         {
-          "text": "体验到当地的真实生活细节",
+          "text": "Experiencing the authentic details of local life",
           "score": "S"
         }
       ]

@@ -1,0 +1,361 @@
+{
+  "quizId": 228,
+  "title": "What would you do in the BLACKPINK world?",
+  "category": "whatwould",
+  "tags": [
+    "K-pop",
+    "BLACKPINK",
+    "Personality",
+    "Music",
+    "Aesthetic Personality"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired action archetype! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "If you faced a chaotic fan sign event where fans are screaming and pushing, what would you do?",
+      "options": [
+        {
+          "text": "Follow the schedule strictly, signing quickly and efficiently",
+          "score": "S"
+        },
+        {
+          "text": "Stay calm and focused, making eye contact only with a few",
+          "score": "I"
+        },
+        {
+          "text": "Wave and smile to every fan, feeding off their energy",
+          "score": "E"
+        },
+        {
+          "text": "Imagine each fan's story and try to give a unique moment",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "If you were choosing the next BLACKPINK comeback concept, what would you do?",
+      "options": [
+        {
+          "text": "Keep options open and adapt as ideas flow",
+          "score": "P"
+        },
+        {
+          "text": "Go with a concept that evokes strong emotions and connection",
+          "score": "F"
+        },
+        {
+          "text": "Analyze market trends and data to pick a hit concept",
+          "score": "T"
+        },
+        {
+          "text": "Plan a detailed timeline with clear milestones",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "If you were at a BLACKPINK after-party with the members, what would you do?",
+      "options": [
+        {
+          "text": "Discuss the logistics of the next tour schedule",
+          "score": "T"
+        },
+        {
+          "text": "Share heartfelt stories and listen to others' feelings",
+          "score": "F"
+        },
+        {
+          "text": "Dance and mingle with everyone, making new friends",
+          "score": "E"
+        },
+        {
+          "text": "Find a cozy corner and chat one-on-one with a member",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "If you were tasked with designing BLACKPINK's next stage outfit, what would you do?",
+      "options": [
+        {
+          "text": "Experiment with multiple sketches and decide last minute",
+          "score": "P"
+        },
+        {
+          "text": "Draw inspiration from past iconic looks like the 'How You Like That' era",
+          "score": "S"
+        },
+        {
+          "text": "Invent a completely futuristic concept never seen before",
+          "score": "N"
+        },
+        {
+          "text": "Create a cohesive collection with a strict color palette and theme",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "If you were at a BLACKPINK concert and the crowd started a wave, what would you do?",
+      "options": [
+        {
+          "text": "Focus on the choreography and sing every lyric perfectly",
+          "score": "S"
+        },
+        {
+          "text": "Jump in and lead the wave with energy",
+          "score": "E"
+        },
+        {
+          "text": "Enjoy the moment quietly, taking mental pictures",
+          "score": "I"
+        },
+        {
+          "text": "Plan your own fan project to surprise the members",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "If you were writing a fan theory about BLACKPINK's next album, what would you do?",
+      "options": [
+        {
+          "text": "Connect hidden clues from previous MVs like 'Kill This Love'",
+          "score": "N"
+        },
+        {
+          "text": "Brainstorm multiple wild possibilities without committing",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the emotional journey the album might take",
+          "score": "F"
+        },
+        {
+          "text": "Use logic to debunk unlikely theories",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "If you were invited to a BLACKPINK dance practice session, what would you do?",
+      "options": [
+        {
+          "text": "Analyze each move for precision and improve efficiency",
+          "score": "T"
+        },
+        {
+          "text": "Insist on following the original choreography to the letter",
+          "score": "J"
+        },
+        {
+          "text": "Visualize new formations and creative transitions",
+          "score": "N"
+        },
+        {
+          "text": "Energize the room with your enthusiasm and loud cheers",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "If you were backstage before a BLACKPINK show and saw a technical issue, what would you do?",
+      "options": [
+        {
+          "text": "Quietly find the stage manager and report it",
+          "score": "I"
+        },
+        {
+          "text": "Brainstorm alternative ways to work around the issue",
+          "score": "P"
+        },
+        {
+          "text": "Reassure the members that everything will be okay",
+          "score": "F"
+        },
+        {
+          "text": "Try to fix it yourself using whatever is on hand",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "If you were asked to create a new BLACKPINK fan chant, what would you do?",
+      "options": [
+        {
+          "text": "Write it alone, perfecting every syllable in your head",
+          "score": "I"
+        },
+        {
+          "text": "Leave room for improvisation and ad-libs during live shows",
+          "score": "P"
+        },
+        {
+          "text": "Gather a group to practice and perform it together",
+          "score": "E"
+        },
+        {
+          "text": "Make it rhythmic and easy to follow for maximum impact",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you were choosing the setlist for a BLACKPINK fan meeting, what would you do?",
+      "options": [
+        {
+          "text": "Stick to fan-favorite hits like 'DDU-DU DDU-DU'",
+          "score": "S"
+        },
+        {
+          "text": "Organize the setlist in a logical flow with clear transitions",
+          "score": "J"
+        },
+        {
+          "text": "Choose songs that create an emotional rollercoaster",
+          "score": "F"
+        },
+        {
+          "text": "Include a rare B-side that tells a story",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "If you were at a BLACKPINK fansign and a fan is too shy to speak, what would you do?",
+      "options": [
+        {
+          "text": "Start a conversation to make them feel comfortable",
+          "score": "E"
+        },
+        {
+          "text": "Have a structured plan to thank each fan efficiently",
+          "score": "J"
+        },
+        {
+          "text": "Tell them how much their support means to the group",
+          "score": "F"
+        },
+        {
+          "text": "Notice their nervousness and give them a reassuring smile",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you were in a BLACKPINK music video shoot with a complex storyline, what would you do?",
+      "options": [
+        {
+          "text": "Embrace spontaneity and react naturally to the scene",
+          "score": "P"
+        },
+        {
+          "text": "Imagine the deeper meaning behind the story and add your own flair",
+          "score": "N"
+        },
+        {
+          "text": "Observe the director's instructions and execute them precisely",
+          "score": "I"
+        },
+        {
+          "text": "Focus on hitting every mark and staying on schedule",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The One Who Commands the Stage.",
+      "description": "You light up a room with quiet confidence. Like Jennie during her SOLO era, you own every moment with a fierce, unapologetic presence. When the beat drops, you don't just dance—you tell a story. Your energy is magnetic, drawing everyone in without effort. You're a natural leader who inspires loyalty and awe.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The One Who Connects the Dots.",
+      "description": "You see patterns where others see noise. Much like the intricate symbolism in BLACKPINK's 'Pink Venom' MV, you piece together hidden meanings and future possibilities. You thrive on brainstorming wild theories about comebacks and love discussing the lore behind each era. Your mind is a web of creativity.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The One Who Heals with a Smile.",
+      "description": "When a fan is nervous at a fansign, you're the first to offer a warm, reassuring word. Your empathy mirrors Jisoo's gentle demeanor—always putting others at ease. You believe in the power of kindness and often go out of your way to make everyone feel seen and valued.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The One Who Dances Like No One's Watching.",
+      "description": "You live for spontaneous dance breaks and joyful chaos. Your free spirit channels Lisa's playful energy from her LALISA era. You're the heartbeat of every party, turning ordinary moments into unforgettable memories. Rules are suggestions; fun is the priority. It's the kind of presence that quietly turns heads.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The One Who Never Misses a Beat.",
+      "description": "You're the reliable backbone every team needs. Like the precise choreography in 'How You Like That', you execute plans flawlessly. You remember every fan's name and every lyric by heart. Your dedication ensures that everything runs smoothly, from concerts to casual hangouts.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The One Who Thrives in the Spotlight.",
+      "description": "You crave the rush of a live audience and feed off their energy. Your charisma rivals Rosé's during her 'On The Ground' performances. You're quick-witted, adaptable, and always ready to improvise. The stage is your playground, and you play to win.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The One Who Remembers Every Detail.",
+      "description": "You notice the little things—the subtle change in a member's hairstyle, the hidden reference in a lyric. Your caring nature mirrors Jisoo's thoughtful personality. You're the friend who always remembers birthdays and sends heartfelt messages. Loyalty is your superpower. It's the kind of presence that quietly turns heads.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The One Who Brings the Party.",
+      "description": "You're the life of every gathering, much like the vibrant energy of BLACKPINK's 'Boombayah'. You love being surrounded by people, laughing loudly, and creating memories. Your enthusiasm is contagious, and you have a knack for making everyone feel included. You bring your own color to the story, every single time.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The One Who Plans Ten Steps Ahead.",
+      "description": "You think strategically, like a mastermind crafting the perfect comeback. Your vision is long-term, and you're always three moves ahead. When others see obstacles, you see opportunities. Your quiet confidence and sharp mind make you a force to be reckoned with.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The One Who Explores Every Theory.",
+      "description": "You're endlessly curious about how things work. From deconstructing the production of 'Kill This Love' to analyzing fan theories, you thrive on intellectual exploration. You love diving into rabbit holes and emerging with unique insights that surprise everyone. It's the kind of presence that quietly turns heads.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The One Who Sees the Unseen.",
+      "description": "You possess a deep, intuitive understanding of people and emotions. Like the poetic lyrics of 'Stay', you feel the weight of every word. You're drawn to meaningful connections and often sense what others need before they say it. Your empathy runs deep.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The One Who Dreams in Music Videos.",
+      "description": "You live in a world of imagination and emotion. Your heart beats to the melancholic melody of 'You Never Know'. You find beauty in vulnerability and express yourself through art. Your ideals are your compass, guiding you toward true-to-you. No one else carries quite the same signature you do.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The One Who Keeps the Beat.",
+      "description": "You are the steady rhythm that holds everything together. Like the reliable bassline in 'Whistle', you provide structure and dependability. You value tradition and discipline, and you take pride in doing things right. Your consistency is your strength. That energy is unmistakably, refreshingly yours.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The One Who Fixes Things Quietly.",
+      "description": "You're a hands-on problem solver who prefers action over words. When the sound system fails backstage, you're the one who calmly gets it working. Your practical skills and cool head make you invaluable in a crisis. You let your results speak for themselves.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The One Who Supports from the Shadows.",
+      "description": "You are the quiet guardian who ensures everyone is okay. Much like the unwavering support of a BLINK, you stand by your loved ones through thick and thin. You remember the small details that make people feel special, and your loyalty is unshakable.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The One Who Paints with Sound.",
+      "description": "You have an artistic soul that finds beauty in every moment. Your aesthetic mirrors the dreamy visuals of 'Ice Cream'—playful yet profound. You express yourself through style, music, and creativity. Your gentle strength inspires those around you. It's the kind of presence that quietly turns heads.",
+      "mbti": "ISFP"
+    }
+  ]
+}

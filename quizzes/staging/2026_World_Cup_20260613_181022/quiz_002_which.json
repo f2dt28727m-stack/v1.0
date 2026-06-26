@@ -1,0 +1,361 @@
+{
+  "quizId": 2000,
+  "title": "Which 2026 World Cup vibe matches your personality?",
+  "category": "which",
+  "tags": [
+    "MBTI",
+    "Travel",
+    "Adventure",
+    "Sports",
+    "World Cup"
+  ],
+  "description": "Answer 12 questions to discover your 2026 World Cup-inspired vibe! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When the opening ceremony begins, you would...",
+      "options": [
+        {
+          "text": "Imagine the symbolism behind each act",
+          "score": "N"
+        },
+        {
+          "text": "Focus on the exact choreography and timing",
+          "score": "S"
+        },
+        {
+          "text": "Join the crowd waving flags and chanting",
+          "score": "E"
+        },
+        {
+          "text": "Find a quiet spot to watch and analyze the performance",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When discussing team strategies, you would...",
+      "options": [
+        {
+          "text": "Cheer for the underdog's emotional story",
+          "score": "F"
+        },
+        {
+          "text": "Plan a detailed schedule to watch every match",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow and join spontaneous watch parties",
+          "score": "P"
+        },
+        {
+          "text": "Debate the tactical pros and cons",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "When your favorite team scores a goal, you would...",
+      "options": [
+        {
+          "text": "Analyze the replay to understand the play",
+          "score": "T"
+        },
+        {
+          "text": "Feel a rush of pride and joy for the players",
+          "score": "F"
+        },
+        {
+          "text": "High-five strangers and celebrate loudly",
+          "score": "E"
+        },
+        {
+          "text": "Smile quietly and nod in satisfaction",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When exploring a host city's culture, you would...",
+      "options": [
+        {
+          "text": "Let the day unfold with no set plans",
+          "score": "P"
+        },
+        {
+          "text": "Follow a strict itinerary to maximize your time",
+          "score": "J"
+        },
+        {
+          "text": "Wander off the beaten path to discover hidden gems",
+          "score": "N"
+        },
+        {
+          "text": "Visit famous landmarks and try local food",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When watching a match at a packed stadium, you would...",
+      "options": [
+        {
+          "text": "Sing along and start waves in the stands",
+          "score": "E"
+        },
+        {
+          "text": "Observe the crowd dynamics and player body language",
+          "score": "I"
+        },
+        {
+          "text": "Keep track of stats and game clock",
+          "score": "S"
+        },
+        {
+          "text": "Decide which post-match celebration to attend",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When predicting the tournament winner, you would...",
+      "options": [
+        {
+          "text": "Consider historical patterns and dark horse stories",
+          "score": "N"
+        },
+        {
+          "text": "Root for the team with the most heart",
+          "score": "F"
+        },
+        {
+          "text": "Make a bracket with last-minute changes",
+          "score": "P"
+        },
+        {
+          "text": "Evaluate squad depth and head-to-head records",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When a controversial referee call happens, you would...",
+      "options": [
+        {
+          "text": "Consider how the rule could be improved",
+          "score": "N"
+        },
+        {
+          "text": "Argue loudly with fellow fans around you",
+          "score": "E"
+        },
+        {
+          "text": "Check the rulebook to see if the call was correct",
+          "score": "T"
+        },
+        {
+          "text": "Insist that the match be replayed fairly",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When your team loses a crucial game, you would...",
+      "options": [
+        {
+          "text": "Turn off your phone and process alone",
+          "score": "I"
+        },
+        {
+          "text": "Recall the exact moment it went wrong",
+          "score": "S"
+        },
+        {
+          "text": "Send comforting messages to your team's fan group",
+          "score": "F"
+        },
+        {
+          "text": "Switch to another match and move on quickly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When planning to watch the final match, you would...",
+      "options": [
+        {
+          "text": "Watch alone to focus completely",
+          "score": "I"
+        },
+        {
+          "text": "Host a big watch party with friends",
+          "score": "E"
+        },
+        {
+          "text": "Decide last minute based on your mood",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the odds and make predictions",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When remembering a legendary goal from the tournament, you would...",
+      "options": [
+        {
+          "text": "Talk about the moment's emotional impact",
+          "score": "N"
+        },
+        {
+          "text": "Celebrate the underdog story behind the player",
+          "score": "F"
+        },
+        {
+          "text": "Describe the exact sequence of passes",
+          "score": "S"
+        },
+        {
+          "text": "Rank it among the greatest goals of all time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "When meeting fans from other countries, you would...",
+      "options": [
+        {
+          "text": "Learn a few phrases in their language",
+          "score": "S"
+        },
+        {
+          "text": "Trade jerseys and take group selfies",
+          "score": "E"
+        },
+        {
+          "text": "Make plans to meet up for future tournaments",
+          "score": "J"
+        },
+        {
+          "text": "Share stories about your favorite players",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When the tournament ends, you would...",
+      "options": [
+        {
+          "text": "Start researching the next World Cup host and innovations",
+          "score": "N"
+        },
+        {
+          "text": "Compile a spreadsheet of all stats and highlights",
+          "score": "T"
+        },
+        {
+          "text": "Reflect on your personal journey through the games",
+          "score": "I"
+        },
+        {
+          "text": "Spontaneously travel to the next big football event",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Stadium Roar - ENTJ.",
+      "description": "You command attention like a captain rallying the team before a penalty shootout. Your energy is the anthem that unites thousands—think of the iconic 'Waka Waka' spirit but with a strategic edge. You're the one organizing watch parties, debating formations, and inspiring others to bring their A-game. Like the 2026 World Cup's grand opening, you are bold, ambitious, and impossible to ignore.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Tactical Genius - ENTP.",
+      "description": "You see the game like a chess match on grass, questioning every formation and predicting counterattacks. While others cheer, you're already debating the merits of a false nine. Your curiosity is as boundless as the tournament's global reach—you'd analyze the host cities' infrastructure as eagerly as the matches. You're the person who makes watching the World Cup a brain-teasing adventure.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heart of the Team - ENFJ.",
+      "description": "You're the fan who brings homemade banners and learns the anthems of every team. Your empathy is your superpower—you feel the joy of a last-minute goal as deeply as the players. Like the unifying power of the World Cup, you bridge cultures and create a sense of belonging. Your watch party is where everyone feels like family, with snacks from each competing nation.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Dream Chaser - ENFP.",
+      "description": "You live for the stories behind the game: the kid from a small town who scores on the biggest stage. Your enthusiasm is contagious, like the first wave of the tournament's opening match. You're always planning to travel to the next World Cup, sketching itineraries that include local festivals and street football. To you, the World Cup is a canvas for human triumph.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Unshakable Fan - ESTJ.",
+      "description": "You're the backbone of the fanbase—you've had your tickets since the draw, memorized the group stage schedule, and know the referee's track record. Your loyalty is as solid as the stadium foundations. You watch every match with a notepad, tracking stats and ensuring your predictions are precise. The World Cup runs like clockwork because of fans like you.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Party - ESTP.",
+      "description": "When a goal is scored, you're the first to jump into a crowd of strangers, high-fiving and chanting. You thrive on the adrenaline of the live experience—the roar of the crowd, the smell of grass, the tension of extra time. You're the one who books a flight to the host country on a whim. The World Cup is your playground, and you play to win the moment.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Loyal Supporter - ESFJ.",
+      "description": "You remember every player's birthday and organize the fan club's potluck. Your hospitality is legendary—you welcome international fans with open arms and homemade dishes. Like the World Cup's opening ceremony, you bring warmth and tradition. You're the person who ensures everyone has a seat, a flag, and a smile, making the tournament a shared celebration.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Life of the Match - ESFP.",
+      "description": "You're the fan in the stands doing the dance cam, the one who paints their face in team colors and leads the chants. Your energy is electric, like the stadium lights before kickoff. You live in the moment, savoring every near-miss and goal. The World Cup is your stage, and you perform with unabashed joy, making even the most tense match feel like a festival.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Observer - INTJ.",
+      "description": "You watch the World Cup from a bird's-eye view, analyzing team dynamics and long-term tournament arcs. While others get caught up in single matches, you're calculating the knockout bracket's probabilities. Your insights are sharp, like a coach's halftime talk. You appreciate the game's deeper patterns—the way a team's philosophy evolves across the tournament fascinates you.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Analyst - INTP.",
+      "description": "You're the fan who pauses the replay to discuss the physics of a curved shot. You devour documentaries about the tournament's history and technology. Your mind wanders to 'what if' scenarios: what if the offside rule changed? The World Cup is a puzzle you love to solve, and your theories are as intricate as the host city's metro map.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Believer - INFJ.",
+      "description": "You feel the World Cup's power to unite humanity, often getting emotional during the anthems. You watch with a quiet intensity, sensing the players' hopes and fears. Your favorite moments are the underdog victories that inspire millions. Like a hidden gem of a host city, you have a depth that reveals itself slowly—your passion for the game runs deep and pure.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poetic Wanderer - INFP.",
+      "description": "You see the World Cup as a tapestry of stories—the veteran player's last dance, the young star's debut. You're drawn to the beauty of the game: a perfectly weighted pass, a goal celebrated with a backflip. Your ideal experience is watching a match at a local pub in the host city, writing in your journal about the emotions each goal stirs.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Dutiful Organizer - ISTJ.",
+      "description": "You've had your World Cup wall chart filled out since the draw. You watch every match on time, with your lucky jersey and a notebook for stats. Your reliability is like the tournament's schedule—unwavering. You respect the traditions of the game and ensure your fan group stays informed. The World Cup is a well-oiled machine, and you're a key gear.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Fan - ISTP.",
+      "description": "You're the one fixing the broken flagpole at the fan zone, or building a makeshift goal for street football. You prefer action over words—you'd rather play a pickup game than debate tactics. Your calm under pressure mirrors a penalty taker's composure. The World Cup's physicality and precision resonate with you, and you appreciate the craftsmanship of a well-struck ball.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Caring Steward - ISFJ.",
+      "description": "You bring extra snacks to share, know the nearest first aid station, and comfort friends when their team loses. Your memory for details is impeccable—you recall past World Cup moments that others forgot. Like the volunteers who make the tournament run smoothly, you quietly ensure everyone has a great experience. Your kindness is the unsung hero of the stands.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Aesthetic Seeker - ISFP.",
+      "description": "You capture the World Cup's beauty through photos of silhouetted players, colorful fan costumes, and stadium architecture. Your favorite moments are the ones that feel like art—a rainbow flick, a goalkeeper's dive, the sunset over the host city. You experience the tournament with your senses, savoring the taste of local cuisine and the sound of vuvuzelas in the distance.",
+      "mbti": "ISFP"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "quizId": 3000,
+  "title": "What's your World Cup personality type?",
+  "category": "type",
+  "tags": [
+    "MBTI",
+    "Personality",
+    "World Cup",
+    "Sports",
+    "Soccer"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In your daily life, you tend to...",
+      "options": [
+        {
+          "text": "Lead the squad with hype and energy",
+          "score": "E"
+        },
+        {
+          "text": "Stay in your zone, focused on your own game",
+          "score": "I"
+        },
+        {
+          "text": "Dream up new plays that no one's tried before",
+          "score": "N"
+        },
+        {
+          "text": "Study match footage to perfect your technique",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When your team is down, you...",
+      "options": [
+        {
+          "text": "Stick to the game plan no matter what",
+          "score": "J"
+        },
+        {
+          "text": "Analyze what went wrong and plan the fix",
+          "score": "T"
+        },
+        {
+          "text": "Rally everyone with a heartfelt speech",
+          "score": "F"
+        },
+        {
+          "text": "Improvise and go with the flow",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "At a matchday party, you're the one who...",
+      "options": [
+        {
+          "text": "Checks on everyone's vibes and makes sure they're good",
+          "score": "F"
+        },
+        {
+          "text": "Watches the game intensely from the corner",
+          "score": "I"
+        },
+        {
+          "text": "Debates tactics and stats with fellow fans",
+          "score": "T"
+        },
+        {
+          "text": "Gets the crowd chanting and jumping",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your go-to move in a clutch moment is...",
+      "options": [
+        {
+          "text": "Freestyle and trust your instincts",
+          "score": "P"
+        },
+        {
+          "text": "Stick to the strategy you rehearsed all week",
+          "score": "J"
+        },
+        {
+          "text": "Try a trick that's never been seen before",
+          "score": "N"
+        },
+        {
+          "text": "Execute a drilled set piece to perfection",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When celebrating a goal, you...",
+      "options": [
+        {
+          "text": "Smile quietly and soak in the moment alone",
+          "score": "I"
+        },
+        {
+          "text": "Recreate a classic celebration you've practiced",
+          "score": "S"
+        },
+        {
+          "text": "Make a cool, calculated nod—you've been here before",
+          "score": "J"
+        },
+        {
+          "text": "Run to the fans and feed off their roar",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "In training, you're all about...",
+      "options": [
+        {
+          "text": "Trying different positions and styles on a whim",
+          "score": "P"
+        },
+        {
+          "text": "Inventing new drills that challenge everyone",
+          "score": "N"
+        },
+        {
+          "text": "Perfecting every pass and shot with data",
+          "score": "T"
+        },
+        {
+          "text": "Building team spirit and lifting each other up",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Your pre-game ritual is...",
+      "options": [
+        {
+          "text": "Pump up the whole locker room with music and chants",
+          "score": "E"
+        },
+        {
+          "text": "Visualize your best moments and future glory",
+          "score": "N"
+        },
+        {
+          "text": "Set your playlist, your gear, your focus—everything in order",
+          "score": "J"
+        },
+        {
+          "text": "Review the opponent's weaknesses meticulously",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "After a tough loss, you...",
+      "options": [
+        {
+          "text": "Shrug it off and hit the town to reset",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the next game and drill the basics",
+          "score": "S"
+        },
+        {
+          "text": "Talk it out with teammates to heal together",
+          "score": "F"
+        },
+        {
+          "text": "Process it alone, replaying every mistake",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "On social media, you're the type to...",
+      "options": [
+        {
+          "text": "Post memes and spontaneous reactions",
+          "score": "P"
+        },
+        {
+          "text": "Share tactical breakdowns and analysis",
+          "score": "T"
+        },
+        {
+          "text": "Scroll quietly and rarely post anything",
+          "score": "I"
+        },
+        {
+          "text": "Post stories of every behind-the-scenes moment",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Your favorite part of the World Cup is...",
+      "options": [
+        {
+          "text": "The emotional stories of players overcoming odds",
+          "score": "F"
+        },
+        {
+          "text": "The intricate choreography of the opening ceremony",
+          "score": "S"
+        },
+        {
+          "text": "The unexpected upsets that rewrite history",
+          "score": "N"
+        },
+        {
+          "text": "The strict schedule and bracket predictions",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "If you were a player walkout song, you'd be...",
+      "options": [
+        {
+          "text": "A well-composed orchestral piece that builds anticipation",
+          "score": "J"
+        },
+        {
+          "text": "A heartfelt ballad that gives you goosebumps",
+          "score": "F"
+        },
+        {
+          "text": "A classic, timeless tune that everyone knows the words to",
+          "score": "S"
+        },
+        {
+          "text": "A high-energy anthem that gets the whole stadium jumping",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Your dream World Cup moment is...",
+      "options": [
+        {
+          "text": "Making a perfectly timed tackle to save the goal",
+          "score": "T"
+        },
+        {
+          "text": "Scoring the winning penalty in a shootout alone",
+          "score": "I"
+        },
+        {
+          "text": "Coming off the bench and changing the game with pure instinct",
+          "score": "P"
+        },
+        {
+          "text": "Inventing a celebration that goes viral worldwide",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Captain - Tactical Mastermind.",
+      "description": "You're the one who studies every opponent's weakness like Messi analyzing a defense. Your pre-game rituals are legendary—from your playlist to your gear setup. When the pressure's on, you stay cold as ice, just like Mbappé in the 2018 final. No cap, you're the leader the team looks to when it matters most.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Magician - Creative Genius.",
+      "description": "You see plays others don't, like Neymar's flair or Ronaldinho's no-look passes. Your mind is always five moves ahead, dreaming up inventions that leave defenders guessing. You're the type to try a rabona in a friendly just for the vibes. 'That's that me, espresso' energy—unpredictable and unstoppable.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heart - Inspirational Leader.",
+      "description": "You rally your team with words that hit like a Kante tackle—firm but fair. Your emotional intelligence is off the charts, reading the room like a coach in the 2014 Germany camp. You're the first to hug a teammate after a mistake and the last to leave the pitch. Pure main character energy, but you lift everyone up.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Vibe - Spontaneous Star.",
+      "description": "You bring the party wherever you go, like a young Neymar during his Santos days. Your celebrations are iconic—think Mbappé's arms-folded pose or Bebeto's cradle. You live in the moment, and your energy is contagious. 'Slay' is your default mode, and you make every match feel like a festival.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Rock - Reliable Anchor.",
+      "description": "You're the Sergio Ramos of your group—consistent, tough, and always there. Your discipline is unmatched; you follow the game plan to the letter and never miss a training session. Like Busquets, you read the game so well that you make the impossible look easy. Your teammates trust you with their lives.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Showman - Daring Performer.",
+      "description": "You thrive under the spotlight like Zlatan Ibrahimovic, always ready with a bold statement or a audacious goal. Your confidence is off the charts, and you love taking risks that others wouldn't dare. Think of your style as a mix of Cristiano Ronaldo's flair and Mbappé's speed—flashy but effective.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Supporter - Loyal Teammate.",
+      "description": "You're the glue that holds the squad together, much like Andrés Iniesta's quiet leadership. You remember everyone's birthday and always bring snacks to the locker room. Your loyalty is unwavering, and you're the first to celebrate others' successes. 'You're my world' is what your teammates would say about you.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Entertainer - Life of the Party.",
+      "description": "You're the life of every post-match celebration, like a young Ronaldinho at a carnival. Your dance moves are legendary, and your laughter is contagious. You bring joy to the game, and your energy lifts everyone's spirits. 'I'm the problem, it's me' but in the best way—you're the fun everyone wants.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Architect - Strategic Planner.",
+      "description": "You think several moves ahead like a chess grandmaster, much like Xavi orchestrating the midfield. Your decisions are calculated, and you always have a contingency plan. You're the one who predicts the opponent's formation and adjusts accordingly. 'I'm not like other girls' energy—you're in a league of your own.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analyst - Curious Thinker.",
+      "description": "You love breaking down the game into its components, like a video analyst for Guardiola. Your curiosity about tactics is endless, and you enjoy debating the merits of a 4-3-3 vs a 3-5-2. You're the one who asks 'what if' and explores every possibility. 'Theorize' is your middle name.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Mystic - Deep Empath.",
+      "description": "You feel the game on a spiritual level, like a quiet observer who understands the flow. Your intuition is razor-sharp, and you can sense the mood of the team before anyone else. You're the one who gives a hug after a loss, channeling the compassion of a player like Firmino. 'I'm not like other girls' but in a deep, soulful way.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poet - Dreamy Idealist.",
+      "description": "You see beauty in the game's poetry—the perfect through ball, the stadium's roar, the drama of a penalty shootout. Your values guide you, and you play with passion over profit. Like a young Messi, you let your feet speak for themselves. 'You're my everything' is your anthem, and you play for love.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Guardian - Dependable Defender.",
+      "description": "You're the Giorgio Chiellini of your circle—tough, reliable, and always on time. Your discipline is second to none, and you take your responsibilities seriously. You remember every detail from team meetings and execute your duties flawlessly. 'I'm the captain now' is your vibe—steady and strong.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Mechanic - Hands-On Fixer.",
+      "description": "You're the one who can fix anything, from a broken cleat to a broken play. Your hands-on approach is like a kit man who knows every tool. You learn by doing, not by reading, and you're always ready to jump in and solve problems. 'I'm not like other girls'—you're practical and resourceful.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Caretaker - Nurturing Soul.",
+      "description": "You're the mom friend of the team, always making sure everyone is hydrated and has their gear. You remember everyone's preferred pre-game snack and offer a shoulder to cry on after a tough match. Your loyalty is like a player who stays at one club their whole career. 'You're my world' is what your teammates feel.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artist - Aesthetic Player.",
+      "description": "You approach the game as an art form, like a player who cares about the beauty of a pass more than the result. Your style is fluid and graceful, and you find joy in the aesthetics of the game. You're drawn to players like Zidane who made football look effortless. 'Slay' is your mantra—every touch is a brushstroke.",
+      "mbti": "ISFP"
+    }
+  ]
+}

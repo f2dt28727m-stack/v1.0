@@ -57,7 +57,7 @@
       "text": "On a free weekend at Hogwarts, you choose to...",
       "options": [
         {
-          "text": "Practice new魁地奇 moves, imagining game-winning strategies",
+          "text": "Practice new Quidditch moves, imagining game-winning strategies",
           "score": "N"
         },
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "text": "Your friend is falsely accused of stealing a金杯—you...",
+      "text": "Your friend is falsely accused of stealing a golden cup—you...",
       "options": [
         {
           "text": "Create a step-by-step plan to interview witnesses",

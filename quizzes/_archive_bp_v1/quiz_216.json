@@ -1,0 +1,360 @@
+{
+  "quizId": 216,
+  "title": "What's your BLACKPINK personality type?",
+  "category": "type",
+  "tags": [
+    "MBTI",
+    "K-pop",
+    "BLACKPINK",
+    "Music"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In your daily life at a BLACKPINK concert, you tend to...",
+      "options": [
+        {
+          "text": "Focus on the choreography and stage setup details",
+          "score": "S"
+        },
+        {
+          "text": "Watch the performance quietly from a distance",
+          "score": "I"
+        },
+        {
+          "text": "Dance and sing along with the crowd from the front row",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the deeper meaning behind the stage design",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When discussing BLACKPINK song lyrics, you tend to...",
+      "options": [
+        {
+          "text": "Check the release schedule for new songs",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneously rewrite your own version for fun",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the logical structure and wordplay",
+          "score": "T"
+        },
+        {
+          "text": "Connect with the emotional message and vibe",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "In a dance practice session for a BLACKPINK cover, you tend to...",
+      "options": [
+        {
+          "text": "Lead the group and encourage everyone to keep up",
+          "score": "E"
+        },
+        {
+          "text": "Feel the music and express the emotion through movement",
+          "score": "F"
+        },
+        {
+          "text": "Break down the steps methodically to get them right",
+          "score": "T"
+        },
+        {
+          "text": "Perfect your moves alone in a corner",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When looking at BLACKPINK's music video aesthetics, you tend to...",
+      "options": [
+        {
+          "text": "Let your mind wander to new creative ideas inspired by the visuals",
+          "score": "P"
+        },
+        {
+          "text": "Notice the specific outfits and props used",
+          "score": "S"
+        },
+        {
+          "text": "Contemplate the symbolic themes and story arcs",
+          "score": "N"
+        },
+        {
+          "text": "Organize your favorite scenes into a ranked list",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "At a BLACKPINK fan sign event, you tend to...",
+      "options": [
+        {
+          "text": "Engage in lively conversation with the members",
+          "score": "E"
+        },
+        {
+          "text": "Plan your schedule days in advance to be prepared",
+          "score": "J"
+        },
+        {
+          "text": "Bring a specific photo or item to get signed",
+          "score": "S"
+        },
+        {
+          "text": "Wait patiently and observe the interactions of others",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When theorizing about BLACKPINK's next comeback, you tend to...",
+      "options": [
+        {
+          "text": "Analyze teaser images for hidden clues logically",
+          "score": "T"
+        },
+        {
+          "text": "Imagine a futuristic concept with new sounds",
+          "score": "N"
+        },
+        {
+          "text": "Keep your options open and wait for the actual release",
+          "score": "P"
+        },
+        {
+          "text": "Feel excited about the potential emotional impact",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "During a BLACKPINK music video shoot, you tend to...",
+      "options": [
+        {
+          "text": "Brainstorm creative angles and innovative shots",
+          "score": "N"
+        },
+        {
+          "text": "Critically review the footage for technical flaws",
+          "score": "T"
+        },
+        {
+          "text": "Interact energetically with the crew and members",
+          "score": "E"
+        },
+        {
+          "text": "Follow the shooting schedule meticulously",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Backstage before a BLACKPINK concert, you tend to...",
+      "options": [
+        {
+          "text": "Comfort nervous members with encouraging words",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow and adapt to last-minute changes",
+          "score": "P"
+        },
+        {
+          "text": "Find a quiet spot to mentally prepare alone",
+          "score": "I"
+        },
+        {
+          "text": "Check the equipment and stage setup for accuracy",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When organizing a BLACKPINK fan project, you tend to...",
+      "options": [
+        {
+          "text": "Mobilize other fans and delegate tasks actively",
+          "score": "E"
+        },
+        {
+          "text": "Leave room for spontaneous ideas and improvisation",
+          "score": "P"
+        },
+        {
+          "text": "Plan the logistics and budget efficiently",
+          "score": "T"
+        },
+        {
+          "text": "Work independently on your own contribution",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "In discussions about BLACKPINK's era aesthetics, you tend to...",
+      "options": [
+        {
+          "text": "Argue for a cohesive theme that ties everything together",
+          "score": "J"
+        },
+        {
+          "text": "Discuss the conceptual evolution across albums",
+          "score": "N"
+        },
+        {
+          "text": "Describe the specific colors and fabrics used",
+          "score": "S"
+        },
+        {
+          "text": "Express how the aesthetics make you feel personally",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "When sharing your love for BLACKPINK on social media, you tend to...",
+      "options": [
+        {
+          "text": "Share high-quality photos of the members' outfits",
+          "score": "S"
+        },
+        {
+          "text": "Post frequently and engage with other fans",
+          "score": "E"
+        },
+        {
+          "text": "Write heartfelt messages about the music's impact",
+          "score": "F"
+        },
+        {
+          "text": "Create curated highlight reels of iconic moments",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "While listening to BLACKPINK's 'The Album', you tend to...",
+      "options": [
+        {
+          "text": "Notice the intricate production and genre-blending",
+          "score": "N"
+        },
+        {
+          "text": "Reflect on how the songs relate to your personal journey",
+          "score": "I"
+        },
+        {
+          "text": "Judge which tracks are most cohesive artistically",
+          "score": "T"
+        },
+        {
+          "text": "Skip around based on your current mood",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie - The Solo Icon.",
+      "description": "You have the magnetic charisma of Jennie from her 'SOLO' era, commanding attention with an effortless blend of confidence and chic. Like her iconic cat-eye look and powerful stage presence in 'How You Like That', you thrive under the spotlight. You balance a fierce independence with a nurturing side, much like her role in the group. Your style is a mix of bold fashion statements and subtle elegance, reminiscent of her 'Ice Cream' phase. You're a natural leader who inspires others without trying, just like Jennie's influence on BLINKs worldwide.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Lisa - The Dance Dynamo.",
+      "description": "Your energy is infectious, just like Lisa's electrifying dance breaks in 'LALISA' and her iconic 'Money' choreography. You love to explore new possibilities and are always up for a creative challenge, whether it's learning a new dance or diving into a new project. Your enthusiasm is contagious, and you bring a playful, adventurous spirit to everything you do. Like Lisa's Thai-inspired solo stage and her love for trying new things, you're a free spirit who inspires others to step out of their comfort zones.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Rosé - The Soulful Voice.",
+      "description": "You possess the soulful depth of Rosé, whose emotive voice in 'On The Ground' and 'Gone' touches hearts. You're empathetic and deeply connected to your emotions, often expressing yourself through art or music. Like Rosé's signature guitar strumming and her heartfelt lyrics, you value true-to-you and vulnerability. You create a warm, inviting atmosphere wherever you go, and your friends appreciate your genuine care and support. Your style is a blend of soft elegance and raw passion, much like Rosé's on-stage presence.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Jisoo - The Gentle Leader.",
+      "description": "You embody Jisoo's graceful and nurturing leadership, evident in her calm demeanor and supportive nature. Like her role as the unnie who looks after the others, you prioritize harmony and the well-being of those around you. Your practical wisdom and attention to detail shine in group settings, similar to Jisoo's steady vocals in 'Lovesick Girls'. You have a classic elegance, much like her fashion sense, and you value tradition and loyalty. Your quiet strength is a pillar for your community.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Rebel with a Cause.",
+      "description": "You channel the rebellious spirit of BLACKPINK's 'DDU-DU DDU-DU' era, unafraid to break rules and challenge norms. You're a strategic thinker who loves to debate and innovate, much like the clever wordplay in their lyrics. You enjoy intellectual banter and are drawn to unconventional ideas. Your style is edgy and bold, reminiscent of the group's fierce fashion in 'Kill This Love'. You're a natural challenger who pushes boundaries, but you also have a playful side that loves to explore new concepts.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Backstage Strategist.",
+      "description": "Like the meticulous planning behind BLACKPINK's world tours, you thrive on organization and efficiency. You're the one who ensures everything runs smoothly, from logistics to schedules. Your practical mindset is reminiscent of the precision in their choreography and stage setups. You appreciate structure and reliability, and you're a master of time management. Your style is clean and functional, much like the behind-the-scenes crew that makes the magic happen. You're the backbone of any team effort.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Performer.",
+      "description": "You live in the moment, just like the ad-libs and improvisations in BLACKPINK's live performances. You're adaptable and love to entertain, often the life of the party. Your charm is effortless, similar to the group's playful interactions with fans. You're a natural performer who thrives on excitement and new experiences. Your style is trendy and fun, reflecting your vibrant personality. You're always ready for a good time and bring energy to any gathering.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Deep Thinker.",
+      "description": "You're the INTJ mastermind, akin to the strategic concepts behind BLACKPINK's albums like 'THE ALBUM'. You love analyzing patterns and envisioning long-term goals. Your independent nature is like Jennie's quiet confidence off-stage. You're drawn to complex ideas and enjoy solving puzzles. Your style is understated but intentional, much like the minimalist aesthetics in some of their music videos. You have a vision that others may not see, and you work steadily to bring it to life.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analytical Observer.",
+      "description": "You approach BLACKPINK's music with a critical ear, analyzing production techniques like the intricate beats in 'Typa Girl'. You're logical and objective, often deconstructing performances to understand the craft. Your reserved nature is like Lisa's focused practice sessions. You value precision and are drawn to systematic thinking. Your style is practical and comfortable, prioritizing function over fashion. You're the one who notices the small details that others miss.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Quiet Artist.",
+      "description": "You have the introspective creativity of Rosé when she's composing alone. You express yourself through subtle, meaningful gestures, much like her delicate vocals. You're deeply in tune with your inner world and enjoy solitary activities like drawing or writing. Your style is artistic and unique, reflecting your personal taste. You appreciate the beauty in simplicity, like the acoustic versions of BLACKPINK songs. You bring a calm, thoughtful presence to your surroundings.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Conceptual Visionary.",
+      "description": "You're the INFJ dreamer, envisioning the overarching narratives in BLACKPINK's eras like 'THE ALBUM' storyline. You're empathetic and insightful, often understanding the deeper meanings behind their lyrics. Your quiet determination is like Jisoo's steady growth. You're drawn to creative projects that have a purpose, and you inspire others with your ideas. Your style is elegant and meaningful, reflecting your inner depth. You see the big picture and work towards a better future.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Adventurous Explorer.",
+      "description": "You're the ISFP free spirit, much like Lisa's love for travel and new experiences in her vlogs. You're spontaneous and artistic, expressing yourself through fashion and dance. You have a keen eye for beauty and enjoy sensory pleasures, like the vibrant colors in 'How You Like That' MV. Your style is bold and expressive, always changing. You're in tune with your feelings and live true-to-you, inspiring others to embrace their true selves.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Logical Analyst.",
+      "description": "You approach BLACKPINK's discography with a systematic mindset, like analyzing the chord progressions in 'Stay'. You're calm and reserved, but your mind is sharp and analytical. You value competence and efficiency, much like the group's precise choreography. Your style is streamlined and functional, reflecting your no-nonsense attitude. You're the one who solves problems logically and keeps a level head in crises. Your insights are invaluable to your team.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Charming Innovator.",
+      "description": "You're the ENTP's playful and inventive spirit, akin to the creative twists in BLACKPINK's music videos. You love brainstorming ideas and challenging conventions. Your wit and charm are like the members' variety show appearances. You're adaptable and love to explore new concepts. Your style is eclectic and trendy, always ahead of the curve. You bring a sense of fun and innovation to every project, and people are drawn to your magnetic personality.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Harmonious Mediator.",
+      "description": "You're the ISFJ's supportive and nurturing nature, similar to Jisoo's caring role within BLACKPINK. You're attentive to others' needs and create a harmonious environment. You value tradition and loyalty, like the group's bond. Your style is classic and warm, reflecting your gentle personality. You're the one who remembers birthdays and organizes gatherings. Your quiet dedication is the glue that holds your community together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Visionary Architect.",
+      "description": "You're the INTP's analytical and inventive mind, like the conceptual design behind BLACKPINK's stage sets. You love exploring abstract ideas and theoretical concepts. Your curiosity is endless, much like the group's exploration of different genres. Your style is unconventional and intellectual. You're the one who asks 'what if' and devises innovative solutions. Your deep insights often lead to breakthroughs.",
+      "mbti": "INTP"
+    }
+  ]
+}

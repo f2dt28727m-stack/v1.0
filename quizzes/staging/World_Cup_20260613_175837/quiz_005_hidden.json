@@ -1,0 +1,361 @@
+{
+  "quizId": 5000,
+  "title": "What's your hidden World Cup trait?",
+  "category": "hidden",
+  "tags": [
+    "World Cup",
+    "Hidden Trait",
+    "Personality",
+    "Soccer",
+    "Football"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired hidden trait! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Mark the exact spot where the ball crossed the line on a mental map",
+          "score": "S"
+        },
+        {
+          "text": "Dream up a new formation that could have changed the entire match",
+          "score": "N"
+        },
+        {
+          "text": "Replay the winning goal in your head, imagining the crowd's roar",
+          "score": "E"
+        },
+        {
+          "text": "Quietly practice your signature celebration in front of the mirror",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Plan your next move to dominate the group stage, step by step",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the referee's controversial call with cold logic",
+          "score": "T"
+        },
+        {
+          "text": "Spontaneously juggle a crumpled paper ball, lost in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Feel a pang of empathy for the losing team's captain",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Rehearse your victory speech in front of the bathroom mirror",
+          "score": "E"
+        },
+        {
+          "text": "Calculate the exact angle needed for a perfect free kick",
+          "score": "T"
+        },
+        {
+          "text": "Write a heartfelt letter to your childhood football hero",
+          "score": "F"
+        },
+        {
+          "text": "Sneak a peek at the opposing team's training session from a distance",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Invent a new rule that would make the game more exciting",
+          "score": "N"
+        },
+        {
+          "text": "Organize your jersey collection by year and tournament",
+          "score": "J"
+        },
+        {
+          "text": "Trace the patterns of grass on the pitch with your finger",
+          "score": "S"
+        },
+        {
+          "text": "Let your mind wander to what it would be like to play on the moon",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Study the footwork of a legendary dribbler in slow motion",
+          "score": "I"
+        },
+        {
+          "text": "Memorize the exact dimensions of every World Cup stadium",
+          "score": "S"
+        },
+        {
+          "text": "Practice your goal celebration with an invisible crowd",
+          "score": "E"
+        },
+        {
+          "text": "Set a 10-year plan to become a coach for your national team",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Sketch a revolutionary new play in your notebook",
+          "score": "N"
+        },
+        {
+          "text": "Try a trick shot you saw in a viral video, just for fun",
+          "score": "P"
+        },
+        {
+          "text": "Argue with a friend online about offside rule interpretations",
+          "score": "T"
+        },
+        {
+          "text": "Get teary-eyed watching compilations of underdog victories",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Make a detailed schedule of every match you'll watch this month",
+          "score": "J"
+        },
+        {
+          "text": "Break down the statistics of penalty kick success rates",
+          "score": "T"
+        },
+        {
+          "text": "Daydream about inventing a new position that changes the game",
+          "score": "N"
+        },
+        {
+          "text": "Lead a chant in your living room, imagining you're in the stands",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Practice your first touch against a wall for hours",
+          "score": "S"
+        },
+        {
+          "text": "Replay a memorable save from a classic final in your mind",
+          "score": "I"
+        },
+        {
+          "text": "Feel a deep connection to the fans who paint their faces for the game",
+          "score": "F"
+        },
+        {
+          "text": "Spontaneously start a dance-off with your friends during halftime",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Let your thoughts drift to the next match without any plan",
+          "score": "P"
+        },
+        {
+          "text": "Silently observe the body language of players during the national anthem",
+          "score": "I"
+        },
+        {
+          "text": "Design a flawless counter-attack strategy on a napkin",
+          "score": "T"
+        },
+        {
+          "text": "Host an imaginary press conference after a big win",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Write a poem about the beauty of a perfectly executed pass",
+          "score": "F"
+        },
+        {
+          "text": "Recall the exact feel of the grass from the last game you played",
+          "score": "S"
+        },
+        {
+          "text": "Conceptualize a fantasy league with mythical creatures as players",
+          "score": "N"
+        },
+        {
+          "text": "Create a binder of all your favorite World Cup moments in order",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Feel a surge of pride when your national team's anthem plays",
+          "score": "F"
+        },
+        {
+          "text": "Rearrange your football memorabilia collection by tournament year",
+          "score": "J"
+        },
+        {
+          "text": "Practice your ball control with a hacky sack",
+          "score": "S"
+        },
+        {
+          "text": "Mimic the commentary of a famous announcer for a goal you scored",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Imagine a World Cup where every match is played with a different shaped ball",
+          "score": "N"
+        },
+        {
+          "text": "Reflect on the legacy of a player who inspired you as a child",
+          "score": "I"
+        },
+        {
+          "text": "Calculate the probability of a hat-trick in extra time",
+          "score": "T"
+        },
+        {
+          "text": "Let the rhythm of the crowd's chants guide your movements",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactician's Soul.",
+      "description": "You see the game as a chess match. Like Pep Guardiola analyzing a formation, you break down every pass and run. Your mind is a library of classic matches—Maradona's 'Hand of God', Zidane's volley—and you can recite the stats of every World Cup final. When others celebrate, you're already planning the next move. Your hidden trait is a strategic genius that turns chaos into control.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Improviser's Heart.",
+      "description": "You thrive on spontaneity, like a street footballer who turns a broken pass into a nutmeg. When no one's watching, you're trying a rainbow flick or a rabona, just to see if it works. You love the unpredictability of the game—a last-minute goal, a penalty shootout, a red card that shifts the tide. Your hidden trait is a playful creativity that keeps the beautiful game alive.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Inspirer's Spirit.",
+      "description": "You feel the emotion of the game deeply. Like a captain lifting a teammate after a miss, you believe football is about heart. You remember the tears of 1998, the joy of 2014, the unity of a stadium singing together. Your hidden trait is empathy that fuels team spirit, making you the one who brings people together, on and off the pitch.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Dreamer's Fire.",
+      "description": "You see football as a canvas for imagination. Like a child pretending to be Ronaldo in the backyard, you dream of impossible goals. You love underdog stories—Leicester's Premier League win, Iceland's Viking clap—and you believe magic can happen. Your hidden trait is a boundless optimism that turns every match into a fairy tale.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Anchor's Strength.",
+      "description": "You are the reliable defender who never misses a tackle. Like a classic sweeper, you value discipline and tradition. You know the history of the World Cup by heart—the first tournament, the Golden Boot winners—and you respect the game's roots. Your hidden trait is a steadfast loyalty that holds the team together when the pressure is on.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Showman's Pulse.",
+      "description": "You live for the big moment. Like a striker celebrating with a backflip, you crave the spotlight. When no one's watching, you practice your signature move—a step-over, a dummy, a no-look pass. You love the roar of the crowd and the adrenaline of a clutch goal. Your hidden trait is a magnetic charisma that makes you the life of every match.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Caretaker's Touch.",
+      "description": "You are the one who brings oranges at halftime and remembers everyone's jersey number. Like a dedicated kit manager, you ensure the team is comfortable. You feel a deep sense of duty to support the players, celebrating their wins and consoling their losses. Your hidden trait is a nurturing spirit that creates a family atmosphere wherever you go.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Entertainer's Spark.",
+      "description": "You love the spectacle of football—the flags, the chants, the tifos. Like a fan leading a stadium-wide wave, you bring energy to every match. When no one's watching, you're practicing a new chant or painting your face in team colors. Your hidden trait is a contagious enthusiasm that turns any game into a party.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Architect's Vision.",
+      "description": "You see the game in patterns and systems. Like a legendary manager drawing up a set piece, you plan three moves ahead. You study the tactical evolution from catenaccio to gegenpressing and apply it to your own life. Your hidden trait is a strategic foresight that builds success from the ground up, quietly and methodically.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analyst's Curiosity.",
+      "description": "You are obsessed with how the game works. Like a data analyst pouring over xG stats, you want to understand every nuance. You debate the merits of different formations, the physics of a knuckleball, the psychology of penalty takers. Your hidden trait is a thirst for knowledge that makes you a walking encyclopedia of football trivia.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Mystic's Depth.",
+      "description": "You feel the spiritual side of football. Like a fan gazing at the floodlights before kickoff, you sense the history in the stadium. You believe in the magic of a lucky jersey or a pre-match ritual. When no one's watching, you write poetry about the game's beauty. Your hidden trait is a quiet intuition that connects you to the soul of the World Cup.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poet's Sanctuary.",
+      "description": "You find meaning in the game's fleeting moments. Like a filmmaker capturing a tear on a fan's face, you cherish the emotional highs and lows. You love the narratives—the rivalries, the redemption arcs, the farewells. When no one's watching, you journal about the match's poetry. Your hidden trait is a romantic heart that sees football as art.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Guardian's Code.",
+      "description": "You are the keeper of tradition. Like a fan who never misses a match, you value consistency and reliability. You know the rules inside out and respect the game's history—the original Jules Rimet trophy, the iconic kits. When no one's watching, you organize your collection of programs and tickets. Your hidden trait is a quiet dedication that preserves the game's legacy.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Mechanic's Hands.",
+      "description": "You learn by doing. Like a player practicing free kicks after dark, you believe in muscle memory. You love the craft of the game—the perfect first touch, the weighted pass, the sliding tackle. When no one's watching, you're fixing a worn-out ball or adjusting your boots. Your hidden trait is a hands-on problem-solving that keeps the game running smoothly.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Healer's Embrace.",
+      "description": "You are the team's emotional backbone. Like a physio who remembers every player's injury, you care for others' well-being. You feel a deep responsibility to support your teammates, whether it's a pep talk or a shoulder to cry on. When no one's watching, you check on the quiet ones. Your hidden trait is a gentle strength that mends broken spirits.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artist's Touch.",
+      "description": "You see the beauty in the game's flow. Like a painter inspired by a curving free kick, you appreciate aesthetics over stats. You love the flair of Brazilian footwork, the elegance of a Cruyff turn. When no one's watching, you sketch a player in motion or hum the World Cup anthem. Your hidden trait is a serene creativity that finds art in every match.",
+      "mbti": "ISFP"
+    }
+  ]
+}

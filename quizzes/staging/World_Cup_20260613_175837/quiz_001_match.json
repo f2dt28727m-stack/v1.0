@@ -1,0 +1,361 @@
+{
+  "quizId": 1000,
+  "title": "Which World Cup soul matches yours?",
+  "category": "match",
+  "tags": [
+    "World Cup",
+    "Football",
+    "Soulmate Match",
+    "Personality",
+    "Sports"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired soulmate match! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In the stands during a penalty shootout, who do you turn to?",
+      "options": [
+        {
+          "text": "The one imagining the perfect outcome and celebrating early",
+          "score": "N"
+        },
+        {
+          "text": "The one silently gripping the seat, eyes locked on the goal",
+          "score": "I"
+        },
+        {
+          "text": "The one jumping and chanting with the crowd",
+          "score": "E"
+        },
+        {
+          "text": "The one analyzing the goalkeeper's positioning",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Your ideal pre-match ritual is...",
+      "options": [
+        {
+          "text": "Going with the flow and improvising drills",
+          "score": "P"
+        },
+        {
+          "text": "Sharing motivational words with teammates",
+          "score": "F"
+        },
+        {
+          "text": "Analyzing stats and opponent weaknesses",
+          "score": "T"
+        },
+        {
+          "text": "Sticking to a strict warm-up routine",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During a tense World Cup final, you'd rather be...",
+      "options": [
+        {
+          "text": "Focused in your own zone, blocking out noise",
+          "score": "I"
+        },
+        {
+          "text": "Calmly executing the game plan step by step",
+          "score": "T"
+        },
+        {
+          "text": "Feeling the emotion of the moment and inspiring others",
+          "score": "F"
+        },
+        {
+          "text": "Leading the team huddle with a rallying cry",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your favorite part of the World Cup experience is...",
+      "options": [
+        {
+          "text": "The roar of the crowd after a goal",
+          "score": "S"
+        },
+        {
+          "text": "The structured tournament bracket",
+          "score": "J"
+        },
+        {
+          "text": "The storylines and drama that unfold",
+          "score": "N"
+        },
+        {
+          "text": "The unexpected upsets and surprises",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "At a World Cup viewing party, you're the one who...",
+      "options": [
+        {
+          "text": "Remembers every goal from the last tournament",
+          "score": "S"
+        },
+        {
+          "text": "Gets everyone hyped with chants and songs",
+          "score": "E"
+        },
+        {
+          "text": "Watches quietly but knows every player's name",
+          "score": "I"
+        },
+        {
+          "text": "Makes sure the snacks and drinks are perfectly organized",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When your team is down at halftime, you...",
+      "options": [
+        {
+          "text": "Spontaneously suggest a bold substitution",
+          "score": "P"
+        },
+        {
+          "text": "Feel the disappointment but stay hopeful",
+          "score": "F"
+        },
+        {
+          "text": "Think of a new formation that could turn the game around",
+          "score": "N"
+        },
+        {
+          "text": "Calmly assess the data to find weaknesses",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Your ideal World Cup souvenir is...",
+      "options": [
+        {
+          "text": "A ticket stub from the final match",
+          "score": "J"
+        },
+        {
+          "text": "A detailed match program with statistics",
+          "score": "T"
+        },
+        {
+          "text": "A rare, limited-edition commemorative coin",
+          "score": "N"
+        },
+        {
+          "text": "A jersey signed by the whole team",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "In a post-match interview, you'd rather...",
+      "options": [
+        {
+          "text": "Talk about the flow of the game and what could have been",
+          "score": "P"
+        },
+        {
+          "text": "Thank the fans and teammates for their support",
+          "score": "F"
+        },
+        {
+          "text": "Highlight a specific tackle or save you made",
+          "score": "S"
+        },
+        {
+          "text": "Let your performance speak for itself",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "During a World Cup anthem sing-along, you...",
+      "options": [
+        {
+          "text": "Focus on the lyrics and the meaning behind them",
+          "score": "T"
+        },
+        {
+          "text": "Let the melody carry you away, swaying along",
+          "score": "P"
+        },
+        {
+          "text": "Sing loudly with your arm around a friend",
+          "score": "E"
+        },
+        {
+          "text": "Quietly mouth the words, feeling the pride",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When choosing a World Cup team to support, you go for...",
+      "options": [
+        {
+          "text": "The team with an inspiring underdog story",
+          "score": "N"
+        },
+        {
+          "text": "The team that has a clear, strategic game plan",
+          "score": "J"
+        },
+        {
+          "text": "The team that plays with heart and passion",
+          "score": "F"
+        },
+        {
+          "text": "The team with the most skilled individual players",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "At a World Cup fan zone, you're drawn to...",
+      "options": [
+        {
+          "text": "The giant screen where the crowd is cheering",
+          "score": "E"
+        },
+        {
+          "text": "The schedule board with match times and locations",
+          "score": "J"
+        },
+        {
+          "text": "The area where fans are hugging and crying together",
+          "score": "F"
+        },
+        {
+          "text": "The booth showing classic match highlights",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you could swap lives with any World Cup figure, you'd choose...",
+      "options": [
+        {
+          "text": "The superfan who travels to every match",
+          "score": "P"
+        },
+        {
+          "text": "The goalkeeper who makes the match-winning save",
+          "score": "I"
+        },
+        {
+          "text": "The coach who devises the winning strategy",
+          "score": "N"
+        },
+        {
+          "text": "The referee who ensures fair play",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Pelé - The Eternal Champion.",
+      "description": "You radiate the joy and brilliance of Pelé during his 1970 World Cup triumph. Like his iconic 'Jogo Bonito' style, you approach life with flair and an irresistible smile. Your leadership is natural, inspiring those around you to reach higher. When the pressure mounts, you deliver moments of magic that become legend. Your soulmate is someone who matches your zest for life and shares your belief that the beautiful game is meant to be played with heart and soul.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Maradona - The Hand of God.",
+      "description": "Much like Maradona's 1986 run, you combine raw talent with an unbreakable will. Your path is marked by both divine moments and gritty determination. You thrive on chaos and can turn a game around with a single burst of genius. Your soulmate understands that your intensity comes from a deep passion, and they stand by you through the highs and lows. Together, you create a legacy that defies all odds.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Messi - The Quiet Maestro.",
+      "description": "In the style of Messi's 2022 campaign, you let your actions speak louder than words. You move with grace and precision, reading the game like no one else. Your humility belies a fierce competitiveness. When the world watches, you rise to the occasion with a calmness that inspires. Your soulmate appreciates your subtle brilliance and the quiet way you lead, celebrating your victories as their own.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Ronaldo - The Driven Icon.",
+      "description": "You embody the relentless ambition of Cristiano Ronaldo, from his 2016 Euro triumph to his World Cup quests. Your work ethic is legendary, and you demand excellence from yourself and others. You thrive under the spotlight and use criticism as fuel. Your soulmate is someone who matches your drive and isn't afraid to push you further, knowing that together you can conquer any challenge.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Zidane - The Elegant General.",
+      "description": "Like Zidane's masterful 1998 final, you combine artistry with authority. Your moves are deliberate, each touch purposeful. You command respect without raising your voice, and your vision sees plays others miss. Your soulmate is drawn to your quiet confidence and the way you make the complex look effortless. Together, you orchestrate symphonies on the pitch of life.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Neymar - The Samba Star.",
+      "description": "You bring the carnival to the field, much like Neymar's flair in 2014 and beyond. Your creativity knows no bounds, and you love to entertain. You dance through challenges with a smile, but beneath the showmanship lies a fierce competitor. Your soulmate is someone who enjoys the spectacle and supports your artistic expression, joining you in the joyful pursuit of the beautiful game.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Beckenbauer - The Kaiser.",
+      "description": "With the poise of Franz Beckenbauer, you redefine your position. You see the whole field from a higher perspective, orchestrating play with elegance and intelligence. Your calm under pressure makes you a natural leader. Your soulmate respects your strategic mind and your ability to stay composed when others panic. Together, you build empires on solid foundations.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Cruyff - The Total Footballer.",
+      "description": "You embody Johan Cruyff's philosophy of total football: fluid, intelligent, and revolutionary. You break molds and expect everyone to adapt. Your creativity is matched by your discipline in the system. Your soulmate is a fellow thinker who appreciates your innovative spirit and can keep up with your constant evolution. Together, you change the game.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Ronaldinho - The Smiling Magician.",
+      "description": "Like Ronaldinho's 2002 World Cup, you play with pure joy and infectious energy. Your skills are dazzling, but your smile is your true weapon. You connect with people effortlessly and lift everyone's spirits. Your soulmate is someone who shares your love for fun and spontaneity, and who reminds you that the game is meant to be enjoyed.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Buffon - The Last Line.",
+      "description": "You stand like Gianluigi Buffon, a guardian of the goal with unwavering focus. Your reliability is your hallmark; you make the impossible saves look routine. You lead by example, with a dignity that commands respect. Your soulmate is someone who values loyalty and steadfastness, knowing that with you, the fortress is secure.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Iniesta - The Architect.",
+      "description": "You orchestrate the midfield like Andrés Iniesta, with subtle passes that unlock defenses. Your vision is exceptional, and you make those around you better. You are humble yet indispensable. Your soulmate recognizes your quiet genius and the way you control the tempo of life. Together, you build beautiful plays that end in triumph.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Kahn - The Titan.",
+      "description": "With the ferocity of Oliver Kahn, you are an imposing presence. Your intensity is palpable, and you demand the best from everyone. You are not afraid to roar when needed, but your team knows you have their back. Your soulmate is someone who can handle your fire and matches your passion, creating an unbreakable bond.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Mbappé - The Speedster.",
+      "description": "You burst onto the scene like Kylian Mbappé, with electrifying speed and fearless ambition. You thrive in high-stakes moments, using your pace to leave opponents behind. Your confidence is sky-high, and you aim for the stars. Your soulmate is someone who can keep up with your fast-paced life and shares your hunger for greatness.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Modrić - The Maestro.",
+      "description": "Like Luka Modrić, you control the game with intelligence and grace. Your passes are precise, and your work rate is relentless. You may not be the loudest, but your influence is undeniable. Your soulmate appreciates your subtle leadership and the way you make the complex look simple. Together, you weave magic in the midfield of life.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Lineker - The Gentleman.",
+      "description": "You embody Gary Lineker's sportsmanship and clinical finishing. You play fair and lead with integrity. Your focus is on the goal, but you never lose your cool. Your soulmate is someone who values honesty and decency, someone who stands by you in victory and defeat. Together, you set an example of how the game should be played.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Salah - The Egyptian King.",
+      "description": "With the determination of Mohamed Salah, you rise from humble beginnings to global stardom. Your humility endears you to millions, but your skill strikes fear into opponents. You are a symbol of hope. Your soulmate is someone who believes in your dreams and supports your journey, celebrating every goal as a shared triumph.",
+      "mbti": "ESFJ"
+    }
+  ]
+}

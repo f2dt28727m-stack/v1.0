@@ -1,0 +1,72 @@
+[
+  {
+    "category": "which",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 8,
+        "engagement": 7,
+        "differentiation": 6,
+        "authenticity": 7,
+        "compliance_safety": 10
+      },
+      "reasoning": {
+        "ip_specificity": "Lots of real song references and member traits, but some options are generic enough to fit any group.",
+        "engagement": "I'd probably take it and share if my result was funny or spot-on, but not all results feel share-worthy.",
+        "differentiation": "Some results (like ENTP vs INTP) blur together; a few feel like the same 'quiet creative' type.",
+        "authenticity": "The language is pretty fan-like but a few options sound like they were written by someone who read a wiki instead of being a stan.",
+        "compliance_safety": "No weird disclaimers or fake names, it's all real BLACKPINK stuff - feels safe."
+      },
+      "fixes": [
+        "Q1 options 2 and 3 are both 'quiet and observant' - make one about something else like hyping others.",
+        "Q3 options 1 and 4 overlap (both high energy) - rewrite option 4 to be more about improvisation.",
+        "Results like ENTP and INTP are too similar - give ENTP a more 'hype producer' vibe and INTP a 'lore nerd' vibe.",
+        "Add a few more recent references like 'The Girls' or 'Born Pink' era to feel current.",
+        "Some result descriptions are too long - trim to two snappy lines for better shareability."
+      ],
+      "what_worked": [
+        "Using actual member names and their iconic eras (SOLO, LALISA, etc.) makes it feel real.",
+        "The MBTI tie-in is perfect for Gen-Z stan culture, people love typing themselves.",
+        "Including specific moments like concert lights, fan signs, and dance practice makes it relatable.",
+        "The 'would you share this?' factor is high for results like 'Boss Energy' or 'Stage Fire'."
+      ],
+      "verdict": "REVISE",
+      "would_share": true
+    }
+  },
+  {
+    "category": "how",
+    "status": "VERDICT_REVISE",
+    "persona_review": {
+      "scores": {
+        "ip_specificity": 8,
+        "engagement": 7,
+        "differentiation": 6,
+        "authenticity": 5,
+        "compliance_safety": 9
+      },
+      "reasoning": {
+        "ip_specificity": "It references real songs like 'How You Like That' and members like Jennie and Lisa, which is great, but some descriptions feel a bit generic.",
+        "engagement": "I'd probably post my result if it was funny or spot-on, but the results are a little wordy and not super meme-able.",
+        "differentiation": "A few results blur together, like ENFJ and ESFJ both being 'caring leaders'—they need more distinct quirks.",
+        "authenticity": "The language is okay but feels a bit like a quiz generator, not like a real fan wrote it—missing inside jokes or stan culture slang.",
+        "compliance_safety": "No weird disclaimers or fake names, all real references used naturally."
+      },
+      "fixes": [
+        "Make Q3's options more distinct—'Energize everyone' and 'Suggest ideas that evoke feelings' are too similar.",
+        "Add a question about bias or bias-wrecker to increase personal connection.",
+        "Give each result a catchy nickname or meme phrase (e.g., 'The Main Slayer' for ENTJ) to boost shareability.",
+        "Tone down the formal descriptions in results—use more casual language like 'You're the vibe of the group'.",
+        "Include a reference to a specific iconic moment (e.g., Jennie's 'Solo' stage presence) to make it feel more insider."
+      ],
+      "what_worked": [
+        "Using actual song titles and member names makes it feel legit.",
+        "The MBTI tie-in is clever and encourages sharing.",
+        "12 questions is a good length—not too long, not too short.",
+        "The score letter system is simple and easy to understand."
+      ],
+      "verdict": "REVISE",
+      "would_share": false
+    }
+  }
+]

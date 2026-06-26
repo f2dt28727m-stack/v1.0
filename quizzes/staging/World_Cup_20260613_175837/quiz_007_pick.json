@@ -1,0 +1,361 @@
+{
+  "quizId": 7000,
+  "title": "Which World Cup moment would you pick?",
+  "category": "pick",
+  "tags": [
+    "World Cup",
+    "Soccer",
+    "Sports",
+    "Personality",
+    "Pick One"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired picking style! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "You must pick one: celebrating with the crowd or analyzing tactics?",
+      "options": [
+        {
+          "text": "Imagining alternate outcomes",
+          "score": "N"
+        },
+        {
+          "text": "Celebrating with the crowd",
+          "score": "E"
+        },
+        {
+          "text": "Analyzing tactics",
+          "score": "I"
+        },
+        {
+          "text": "Watching the game live",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "You must pick one: debating a controversial call or feeling for the losing team?",
+      "options": [
+        {
+          "text": "Feeling for the losing team",
+          "score": "F"
+        },
+        {
+          "text": "Debating a controversial call",
+          "score": "T"
+        },
+        {
+          "text": "Spontaneous viewing parties",
+          "score": "P"
+        },
+        {
+          "text": "Following the bracket schedule",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "You must pick one: cheering loudly in a fan zone or quietly at home?",
+      "options": [
+        {
+          "text": "Cheering loudly in a fan zone",
+          "score": "E"
+        },
+        {
+          "text": "Quietly at home",
+          "score": "I"
+        },
+        {
+          "text": "Sharing emotional reactions",
+          "score": "F"
+        },
+        {
+          "text": "Arguing stats with friends",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "You must pick one: remembering past World Cup goals or predicting future stars?",
+      "options": [
+        {
+          "text": "Predicting future stars",
+          "score": "N"
+        },
+        {
+          "text": "Going with the flow of matches",
+          "score": "P"
+        },
+        {
+          "text": "Remembering past World Cup goals",
+          "score": "S"
+        },
+        {
+          "text": "Planning watch schedules",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "You must pick one: partying after a win or reflecting alone?",
+      "options": [
+        {
+          "text": "Planning next match strategies",
+          "score": "J"
+        },
+        {
+          "text": "Reflecting alone",
+          "score": "I"
+        },
+        {
+          "text": "Re-watching key plays",
+          "score": "S"
+        },
+        {
+          "text": "Partying after a win",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "You must pick one: imagining if underdogs win or analyzing team formations?",
+      "options": [
+        {
+          "text": "Getting emotional over national pride",
+          "score": "F"
+        },
+        {
+          "text": "Analyzing team formations",
+          "score": "T"
+        },
+        {
+          "text": "Imagining if underdogs win",
+          "score": "N"
+        },
+        {
+          "text": "Spontaneous game-watching",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "You must pick one: leading a chant in the stands or inventing a new tactic?",
+      "options": [
+        {
+          "text": "Leading a chant in the stands",
+          "score": "E"
+        },
+        {
+          "text": "Inventing a new tactic",
+          "score": "N"
+        },
+        {
+          "text": "Debating referee decisions",
+          "score": "T"
+        },
+        {
+          "text": "Organizing a tournament bracket",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "You must pick one: quietly observing players' body language or discussing fouls?",
+      "options": [
+        {
+          "text": "Switching channels during halftime",
+          "score": "P"
+        },
+        {
+          "text": "Empathizing with injured players",
+          "score": "F"
+        },
+        {
+          "text": "Quietly observing players' body language",
+          "score": "I"
+        },
+        {
+          "text": "Discussing fouls",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "You must pick one: singing the national anthem loudly or analyzing penalty stats?",
+      "options": [
+        {
+          "text": "Arguing about offside calls",
+          "score": "T"
+        },
+        {
+          "text": "Watching multiple games at once",
+          "score": "P"
+        },
+        {
+          "text": "Analyzing penalty stats",
+          "score": "I"
+        },
+        {
+          "text": "Singing the national anthem loudly",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "You must pick one: remembering iconic goals or dreaming of new rivalries?",
+      "options": [
+        {
+          "text": "Dreaming of new rivalries",
+          "score": "N"
+        },
+        {
+          "text": "Planning a World Cup party schedule",
+          "score": "J"
+        },
+        {
+          "text": "Remembering iconic goals",
+          "score": "S"
+        },
+        {
+          "text": "Cheering for the underdog's story",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "You must pick one: high-fiving strangers after a goal or soaking in the atmosphere?",
+      "options": [
+        {
+          "text": "Organizing a viewing order",
+          "score": "J"
+        },
+        {
+          "text": "Sharing emotional moments with friends",
+          "score": "F"
+        },
+        {
+          "text": "High-fiving strangers after a goal",
+          "score": "E"
+        },
+        {
+          "text": "Soaking in the atmosphere",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "You must pick one: analyzing a player's technique or connecting with a fan story?",
+      "options": [
+        {
+          "text": "Connecting with a fan story",
+          "score": "N"
+        },
+        {
+          "text": "Enjoying the game spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Analyzing a player's technique",
+          "score": "I"
+        },
+        {
+          "text": "Debating tactics",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Tactical Commander.",
+      "description": "You approach the World Cup like a master strategist, mapping out every possible scenario. Like Pep Guardiola analyzing opponents, you break down formations and predict substitutions. Your match notes are detailed, and you often spot the key tactical shift before the commentators. Friends rely on you for pre-game predictions, and your bracket is meticulously researched. You appreciate the beauty in a well-executed counter-attack and can discuss the evolution of the offside trap for hours. Your World Cup experience is intellectual, analytical, and deeply satisfying.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Analyst.",
+      "description": "You watch the World Cup with a thirst for understanding how the game works. Like a football scientist, you deconstruct set pieces and wonder about the physics of a curling free kick. You enjoy debating the merits of different playing styles and exploring historical data. Your curiosity leads you to read about training methods and the psychology of penalty shootouts. While others cheer, you ask 'why'. Your World Cup is a fascinating puzzle, and you love sharing your discoveries with anyone who will listen.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Empathetic Observer.",
+      "description": "You feel the World Cup on a deep emotional level, connecting with the stories of players and nations. Like a fan who cried when Italy won in 2006, you are moved by the human drama. You notice the tears of joy and despair, and you empathize with the underdog's journey. Your favorite moments are the emotional embraces after a penalty shootout. You follow players' personal stories and celebrate their triumphs as your own. The World Cup for you is a tapestry of shared humanity.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poetic Dreamer.",
+      "description": "You see the World Cup as a beautiful narrative, full of poetic moments and symbolic victories. Like a writer inspired by Maradona's 'Hand of God', you find meaning in the drama. You love the romance of a last-minute goal and the fairy tale of a small nation rising. Your match commentary is filled with metaphors and emotions. You cherish the cultural exchange and the unifying power of the sport. For you, the World Cup is a moving story that transcends the game.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Loyal Traditionalist.",
+      "description": "You honor the traditions of the World Cup with unwavering loyalty. Like a fan who has watched every tournament since childhood, you value the rituals: the national anthems, the iconic stadiums, the classic rivalries. You defend the history of the game and respect its legends. Your viewing is disciplined, and you keep a scrapbook of memorable moments. You believe in the purity of the sport and are skeptical of modern changes. The World Cup is a sacred event you celebrate with reverence.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Adventurer.",
+      "description": "You experience the World Cup through action and spontaneity. Like a fan who travels to host countries, you dive into the local culture. You love the energy of street celebrations and the thrill of watching in a crowded pub. You're quick to join a pickup game or try a new food from the host nation. Your approach is practical: you know the best viewing spots and how to get the best seats. The World Cup for you is a live, hands-on adventure.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Supportive Host.",
+      "description": "You make the World Cup a communal experience, ensuring everyone feels included. Like a host who throws the best viewing parties, you prepare themed snacks and decorate with flags. You remember who supports which team and make sure no one watches alone. Your empathy shines when you comfort disappointed fans. You create a warm, welcoming atmosphere that turns strangers into friends. The World Cup is about togetherness for you, and you are the glue that holds the group together.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Aesthetic Fan.",
+      "description": "You appreciate the World Cup for its beauty and artistry. Like a photographer capturing the grace of a goal celebration, you notice the elegance in movement. You love the vibrant kits, the choreographed celebrations, and the passion of the fans. Your social media is filled with stunning match photos and artistic edits. You are drawn to the aesthetics of the tournament – the stadium architecture, the flags, the emotions. For you, the World Cup is a visual and emotional feast.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Charismatic Leader.",
+      "description": "You are the natural leader of the World Cup watch party, rallying everyone with your enthusiasm. Like a captain motivating a team, you lead chants and keep the energy high. You make decisive predictions and command attention. Your confidence inspires others to join the celebration. You thrive on the big moments and are not afraid to voice your opinions. The World Cup is your stage, and you orchestrate the experience with flair and authority.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Innovative Debater.",
+      "description": "You love to explore new ideas and challenge conventional wisdom during the World Cup. Like a pundit who thinks outside the box, you propose wild theories about tactics and player potential. You enjoy spirited debates and can argue both sides. Your curiosity leads you to experiment with different viewing formats. You are open to new technologies and love discussing hypothetical scenarios. The World Cup for you is a playground for the mind.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Inspiring Cheerleader.",
+      "description": "You are the heart of the World Cup experience, lifting spirits with your unwavering optimism. Like a coach who believes in miracles, you inspire everyone around you. You celebrate every goal as if it were the winner, and your positive energy is contagious. You comfort the disappointed and amplify the joy. Your favorite moments are the underdog victories and the stories of perseverance. The World Cup is a source of hope, and you are its ambassador.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Spontaneous Celebrator.",
+      "description": "You dive into the World Cup with unbridled joy and spontaneity. Like a fan who dances in the streets after a win, you live in the moment. You love the unexpected thrill of a last-minute goal and the chaos of a penalty shootout. Your plans are flexible, and you're always up for an impromptu viewing party. You express your emotions freely and connect with strangers over shared excitement. The World Cup is a carnival, and you are its life of the party.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Organizer.",
+      "description": "You ensure the World Cup runs smoothly with your meticulous planning. Like a tournament director, you schedule every match and coordinate viewing times. You keep track of scores and standings, and your bracket is always updated. You are the go-to person for information and logistics. Your friends appreciate your reliability and attention to detail. The World Cup is an orderly event for you, and you take pride in a well-executed plan.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Thrill-Seeking Fan.",
+      "description": "You crave the adrenaline of the World Cup's biggest moments. Like a fan who travels to the final, you seek the highest stakes. You love the tension of a close match and the roar of the crowd. You are drawn to the drama of rivalries and the spectacle of the tournament. Your energy is infectious, and you often find yourself at the center of the action. The World Cup is a thrilling ride, and you want the most intense experience.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Warm Host.",
+      "description": "You create a welcoming World Cup environment where everyone feels like family. Like a host who remembers everyone's favorite snacks, you cater to your guests' preferences. You ensure no one feels left out and foster a sense of belonging. Your gatherings are filled with laughter and shared memories. You value harmony and go out of your way to make the experience enjoyable for all. The World Cup is about community for you, and you are its heart.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Vibrant Performer.",
+      "description": "You bring the World Cup to life with your vibrant energy and showmanship. Like a fan who paints their face and waves a giant flag, you are the center of attention. You celebrate with dramatic flair and love to entertain. Your enthusiasm is contagious, and you turn every match into a party. You are not afraid to express your passion loudly and proudly. The World Cup is your stage, and you perform with all your heart.",
+      "mbti": "ESFP"
+    }
+  ]
+}

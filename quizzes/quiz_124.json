@@ -1,5 +1,5 @@
 {
-  "quizId": 1001,
+  "quizId": 124,
   "title": "What’s your Hidden Fortnite Trait Type?",
   "category": "hidden",
   "tags": [
@@ -342,7 +342,8 @@
     },
     {
       "title": "Flexible Adapter (ESFJ)",
-      "description": "You’re the chameleon of your Fortnite squad, able to switch roles seamlessly depending on what your team needs. You can be a healer, a builder, or a fighter, adapting to any situation with ease. You’re always checking in on your teammates and making sure everyone is comfortable with the strategy. Your hidden trait is versatile teamwork—you make sure your team is always prepared for anything."
+      "description": "You’re the chameleon of your Fortnite squad, able to switch roles seamlessly depending on what your team needs. You can be a healer, a builder, or a fighter, adapting to any situation with ease. You’re always checking in on your teammates and making sure everyone is comfortable with the strategy. Your hidden trait is versatile teamwork—you make sure your team is always prepared for anything.",
+      "mbti": "ESFJ"
     }
   ],
   "emoji": [

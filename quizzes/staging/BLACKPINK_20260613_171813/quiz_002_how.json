@@ -1,0 +1,361 @@
+{
+  "quizId": 2000,
+  "title": "How BLACKPINK are you, really?",
+  "category": "how",
+  "tags": [
+    "K-pop",
+    "BLACKPINK",
+    "Music",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How often do you lead the dance formation during practice?",
+      "options": [
+        {
+          "text": "Follow the choreography exactly, step by step",
+          "score": "S"
+        },
+        {
+          "text": "Prefer to practice alone, perfecting moves",
+          "score": "I"
+        },
+        {
+          "text": "Experiment with new variations and flows",
+          "score": "N"
+        },
+        {
+          "text": "Always at the front, setting the pace",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "How often do you analyze the meaning behind a song's lyrics?",
+      "options": [
+        {
+          "text": "Plan a choreography to match the beat",
+          "score": "J"
+        },
+        {
+          "text": "Freestyle and let the mood guide you",
+          "score": "P"
+        },
+        {
+          "text": "Break down the structure and production",
+          "score": "T"
+        },
+        {
+          "text": "Feel the emotion and connect deeply",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How often do you take charge in a group discussion about concepts?",
+      "options": [
+        {
+          "text": "Focus on what works practically",
+          "score": "T"
+        },
+        {
+          "text": "Suggest ideas that evoke strong feelings",
+          "score": "F"
+        },
+        {
+          "text": "Listen first, then share a refined thought",
+          "score": "I"
+        },
+        {
+          "text": "Energize everyone with ideas",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How often do you notice the small details in a music video?",
+      "options": [
+        {
+          "text": "Plan your own version of the video",
+          "score": "J"
+        },
+        {
+          "text": "Enjoy the spontaneity of each scene",
+          "score": "P"
+        },
+        {
+          "text": "Interpret the storyline and symbolism",
+          "score": "N"
+        },
+        {
+          "text": "Count the outfit changes and props",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "How often do you initiate fan projects or events?",
+      "options": [
+        {
+          "text": "Follow established fan traditions",
+          "score": "S"
+        },
+        {
+          "text": "Organize large-scale streaming parties",
+          "score": "E"
+        },
+        {
+          "text": "Set goals and timelines for fan projects",
+          "score": "J"
+        },
+        {
+          "text": "Create fan art quietly on your own",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How often do you come up with theories about future comebacks?",
+      "options": [
+        {
+          "text": "Analyze teaser patterns logically",
+          "score": "T"
+        },
+        {
+          "text": "Wait and see, enjoying the surprise",
+          "score": "P"
+        },
+        {
+          "text": "Feel excited and share with friends",
+          "score": "F"
+        },
+        {
+          "text": "Imagine new concepts and aesthetics",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How often do you take the spotlight during a performance?",
+      "options": [
+        {
+          "text": "Invent new moves that steal the show",
+          "score": "N"
+        },
+        {
+          "text": "Decide the setlist order ahead of time",
+          "score": "J"
+        },
+        {
+          "text": "Strategically position yourself for impact",
+          "score": "T"
+        },
+        {
+          "text": "Thrive on the crowd's energy",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How often do you practice in front of a mirror alone?",
+      "options": [
+        {
+          "text": "Imagine the emotional delivery",
+          "score": "F"
+        },
+        {
+          "text": "Rarely, prefer group practices",
+          "score": "I"
+        },
+        {
+          "text": "Experiment with different styles",
+          "score": "P"
+        },
+        {
+          "text": "Focus on perfecting each movement",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How often do you share your fan theories online?",
+      "options": [
+        {
+          "text": "Let theories flow and evolve naturally",
+          "score": "P"
+        },
+        {
+          "text": "Post frequently and engage with others",
+          "score": "E"
+        },
+        {
+          "text": "Keep theories to yourself or a small group",
+          "score": "I"
+        },
+        {
+          "text": "Debate and fact-check with evidence",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How often do you notice the fashion trends in each era?",
+      "options": [
+        {
+          "text": "Feel inspired to recreate the looks",
+          "score": "F"
+        },
+        {
+          "text": "Plan your own wardrobe around concepts",
+          "score": "J"
+        },
+        {
+          "text": "Imagine the story behind each outfit",
+          "score": "N"
+        },
+        {
+          "text": "Spot the recurring styles and colors",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How often do you hype up the group before a show?",
+      "options": [
+        {
+          "text": "Lead the cheer and get everyone pumped",
+          "score": "E"
+        },
+        {
+          "text": "Focus on technical sound checks",
+          "score": "S"
+        },
+        {
+          "text": "Check in on everyone's feelings",
+          "score": "F"
+        },
+        {
+          "text": "Make a detailed run sheet",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How often do you reflect on the meaning of a song after listening?",
+      "options": [
+        {
+          "text": "Analyze the production techniques",
+          "score": "T"
+        },
+        {
+          "text": "Let the music wash over you freely",
+          "score": "P"
+        },
+        {
+          "text": "Think about the creative process",
+          "score": "N"
+        },
+        {
+          "text": "Discuss interpretations with others",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Born Pink Boss - ENTJ.",
+      "description": "You command the stage like a general, with the strategic precision of 'How You Like That' and the boldness of 'Kill This Love'. When the music drops, you're already planning the next move. Your energy is infectious, and you lead with a vision that rivals Jennie's iconic 'Solo' era. Just like the 'Born Pink' album, you are unapologetically powerful.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Maverick - ENTP.",
+      "description": "You thrive on brainstorming new concepts, much like the experimental 'Pink Venom' fusion of sounds. Your mind is a whirlwind of ideas, from fan theories about the 'The Album' to imagining alternate music video storylines. You love a good debate about which era is best, and your spontaneity keeps everyone on their toes.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heartfelt Leader - ENFJ.",
+      "description": "You embody the caring spirit of Jisoo, always checking on your fellow fans and coordinating group projects with warmth. Your favorite moments are the emotional fan chants during 'Stay', and you make sure everyone feels included. You believe in the power of music to connect, just like 'As If It's Your Last' unites crowds.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Vibrant Performer - ENFP.",
+      "description": "You radiate the bubbly energy of Lisa's 'LALISA' era, always ready to dance and laugh. Your creativity knows no bounds, and you love exploring each comeback with fresh excitement. Like 'Boombayah', you bring explosive joy to every fan meet. Your enthusiasm is contagious, and you inspire others to embrace their unique flair.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Backbone - ESTJ.",
+      "description": "You are the fan who ensures everything runs smoothly, from organizing group orders to memorizing choreography perfectly. Your dedication mirrors the discipline behind 'DDU-DU DDU-DU' formations. You value tradition and structure, making you the go-to person for event planning. Just like the consistent beat of 'Whistle', you keep things steady.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Entertainer - ESTP.",
+      "description": "You live for the thrill of live performances, channeling the fearless attitude of 'Pretty Savage'. Your quick reflexes and adaptability shine during impromptu dance battles. You're the one who starts a fan chant out of nowhere, much like Rosé's ad-libs in concerts. Every moment is a chance to shine.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Dedicated Supporter - ESFJ.",
+      "description": "You are the heart of the fandom, always remembering birthdays and organizing fan support events. Your loyalty echoes the devotion in 'Forever Young'. You take pride in group achievements and cherish the community spirit. Like the harmony in 'Playing with Fire', you bring people together.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Life of the Party - ESFP.",
+      "description": "You are the embodiment of the 'Ice Cream' vibe: sweet, fun, and ready to have a good time. Your energy lights up any room, and you love sharing your passion for BLACKPINK through dance covers and fan art. You live in the moment, savoring each beat of 'Lovesick Girls'.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Visionary - INTJ.",
+      "description": "You approach fandom with a master plan, analyzing teasers like a chess game. Your long-term thinking mirrors the meticulous concept crafting of 'The Album'. You see the big picture, from comeback strategies to the evolution of their sound. Your quiet confidence is as sharp as Jennie's gaze in 'Solo'.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Theorist - INTP.",
+      "description": "You love dissecting the symbolism in music videos, from the 'Kill This Love' hunting concept to the 'Pink Venom' serpent imagery. Your mind is a library of fan theories and production notes. You enjoy understanding how each song is constructed, much like a producer analyzing Rosé's vocal layers.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Empath - INFJ.",
+      "description": "You feel the lyrics of 'Stay' and 'You Never Know' on a deep level, connecting with the emotions behind the music. Your insight into the members' personalities is uncanny, and you often sense the meaning behind their interviews. You are the silent supporter who understands the struggles behind the spotlight.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreamy Romantic - INFP.",
+      "description": "Your heart belongs to the poetic side of BLACKPINK, like the wistful 'Hope Not' and the dreamy 'Love to Hate Me'. You create fan fiction and art that capture the emotional depth of the songs. Your ideal world is one where music speaks the language of the soul, much like Rosé's 'GONE'.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Devoted Traditionalist - ISTJ.",
+      "description": "You are the fan who has every album in order and knows every debut detail. Your loyalty is as steadfast as the kick drum in 'Whistle'. You appreciate the journey from 'Square One' to 'Born Pink', and you ensure that fan events follow proper protocols. Your reliability is the foundation of the fandom.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Creator - ISTP.",
+      "description": "You prefer to express your fandom through action: editing dance covers, remixing tracks, or building fan sites. Your practical skills echo the precision of Lisa's dance moves. You love figuring out how to recreate the 'How You Like That' choreography step by step. You are the problem-solver of the group.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Guardian - ISFJ.",
+      "description": "You remember every detail about the members, from their favorite colors to their solo debut dates. Your care extends to new fans, welcoming them like family. You embody the gentle strength of 'Stay' and the warmth of Jisoo's smile. You are the safe space in the fandom.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Gentle Artist - ISFP.",
+      "description": "Your aesthetic sense is as refined as the 'Ice Cream' music video, and you express your love through creative outlets like drawing or photography. You appreciate the beauty in each era, from the edgy 'Kill This Love' to the chic 'How You Like That'. Your art speaks volumes without words.",
+      "mbti": "ISFP"
+    }
+  ]
+}

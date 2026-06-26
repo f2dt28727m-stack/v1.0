@@ -1,0 +1,361 @@
+{
+  "quizId": 213,
+  "title": "What does your BLACKPINK future hold?",
+  "category": "future",
+  "tags": [
+    "MBTI",
+    "K-pop",
+    "BLACKPINK",
+    "Future Life",
+    "Music"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired future! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Leading a stadium tour, commanding the crowd like a born star.",
+          "score": "E"
+        },
+        {
+          "text": "Perfecting your craft in a private studio, away from the spotlight.",
+          "score": "I"
+        },
+        {
+          "text": "Replicating your signature moves with flawless precision night after night.",
+          "score": "S"
+        },
+        {
+          "text": "Inventing a whole new genre of performance that blends art and technology.",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Having a meticulously planned schedule for world tours and fan meetings.",
+          "score": "J"
+        },
+        {
+          "text": "Spontaneously dropping surprise singles and pop-up performances.",
+          "score": "P"
+        },
+        {
+          "text": "Analyzing streaming data to optimize your next album release strategy.",
+          "score": "T"
+        },
+        {
+          "text": "Writing heartfelt lyrics that comfort fans going through tough times.",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Thriving on the energy of a thousand fans singing along to your hits.",
+          "score": "E"
+        },
+        {
+          "text": "Strategically negotiating contracts and partnerships for your brand.",
+          "score": "T"
+        },
+        {
+          "text": "Finding solace in quiet moments backstage, recharging before the next encore.",
+          "score": "I"
+        },
+        {
+          "text": "Donating a portion of your concert revenue to support youth music education.",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Envisioning futuristic music videos that transport viewers to other worlds.",
+          "score": "N"
+        },
+        {
+          "text": "Mastering every detail of your stage outfits, from fabric to choreography.",
+          "score": "S"
+        },
+        {
+          "text": "Running your own entertainment company with strict creative control.",
+          "score": "J"
+        },
+        {
+          "text": "Collaborating with artists from different genres on a whim.",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Hosting global fan events where you personally meet thousands of BLINKs.",
+          "score": "E"
+        },
+        {
+          "text": "Setting up a foundation to support aspiring dancers and singers.",
+          "score": "J"
+        },
+        {
+          "text": "Recreating iconic BLACKPINK choreography down to the last beat.",
+          "score": "S"
+        },
+        {
+          "text": "Working on a solo project that reflects your inner world, like Jennie's 'SOLO'.",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Developing a new music production software used by industry professionals.",
+          "score": "T"
+        },
+        {
+          "text": "Living out of a suitcase, traveling to every continent for impromptu performances.",
+          "score": "P"
+        },
+        {
+          "text": "Creating a safe space for fans to share their stories and feel heard.",
+          "score": "F"
+        },
+        {
+          "text": "Pushing boundaries with experimental sounds, like 'Pink Venom' meets classical.",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Performing at Coachella again, but this time as the headliner.",
+          "score": "E"
+        },
+        {
+          "text": "Creating a documentary series analyzing the business behind K-pop success.",
+          "score": "T"
+        },
+        {
+          "text": "Launching a fashion label that releases seasonal collections on a strict schedule.",
+          "score": "J"
+        },
+        {
+          "text": "Designing a line of futuristic stage wear inspired by 'Kill This Love' aesthetics.",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Writing a memoir about your journey from trainee to global icon.",
+          "score": "I"
+        },
+        {
+          "text": "Organizing charity concerts to support mental health awareness.",
+          "score": "F"
+        },
+        {
+          "text": "Perfecting the art of live vocals while dancing, like Rosé's 'Gone' stages.",
+          "score": "S"
+        },
+        {
+          "text": "Spontaneously joining a friend's world tour just for fun.",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Investing in tech startups that revolutionize concert experiences.",
+          "score": "T"
+        },
+        {
+          "text": "Engaging with fans on live streams, feeding off their energy.",
+          "score": "E"
+        },
+        {
+          "text": "Letting your mood guide your setlist, never planning too far ahead.",
+          "score": "P"
+        },
+        {
+          "text": "Meditating before every show to maintain your calm, like Lisa's pre-stage ritual.",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Writing a sci-fi musical inspired by the 'HYLT' music video universe.",
+          "score": "N"
+        },
+        {
+          "text": "Recreating the exact choreography from 'Ddu-Du Ddu-Du' with perfect timing.",
+          "score": "S"
+        },
+        {
+          "text": "Establishing a scholarship for underprivileged kids to attend music academies.",
+          "score": "F"
+        },
+        {
+          "text": "Managing a tight schedule of album releases, tours, and brand deals.",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Building a community center named after a BLACKPINK song to empower youth.",
+          "score": "F"
+        },
+        {
+          "text": "Releasing a podcast series that shares behind-the-scenes stories from your career.",
+          "score": "J"
+        },
+        {
+          "text": "Headlining a global tour with interactive fan experiences at every stop.",
+          "score": "E"
+        },
+        {
+          "text": "Preserving traditional Korean elements in your music, like in 'Shut Down'.",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "In 10 years, you see yourself...",
+      "options": [
+        {
+          "text": "Directing a short film that explores parallel universes, like 'Ice Cream' visuals.",
+          "score": "N"
+        },
+        {
+          "text": "Curating a personal art gallery featuring your favorite music video props.",
+          "score": "I"
+        },
+        {
+          "text": "Embracing the unexpected, taking a year off to travel and find new inspiration.",
+          "score": "P"
+        },
+        {
+          "text": "Creating a data-driven platform to predict music trends.",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Stage Dominator - ENTJ",
+      "description": "Your future is a grand stadium tour, commanding millions with a presence as fierce as Jennie's 'SOLO' era. You orchestrate every detail—from the 'Kill This Love' choreography to the 'How You Like That' beat drops—with ruthless efficiency. Like a true leader, you inspire loyalty in your crew and awe in your fans. Your path is paved with strategic decisions and bold moves, much like BLACKPINK's global takeover. You don't just perform; you conquer. The stage is your empire, and every encore is a victory lap. Your life is a testament to ambition and execution, a living legacy of the 'Pink Venom' that stuns the world.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Visionary Producer - ENTP",
+      "description": "Your future is a whirlwind of innovation, constantly pushing the boundaries of music and performance. You thrive on experimenting with sounds like 'Pink Venom' meets classical, and you're always the one suggesting a futuristic stage design. Your mind is a playground of ideas—remixing 'Ddu-Du Ddu-Du' with jazz or creating a holographic concert experience. You're the creative force behind the scenes, debating possibilities and challenging norms. Your path is unpredictable, but that's how you like it. You're the architect of the next big thing, always one step ahead, much like BLACKPINK's genre-defying evolution.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heartfelt Mentor - ENFJ",
+      "description": "Your future is a sanctuary for fans, a place where they feel seen and heard. You write lyrics that heal, like Rosé's 'Gone' but with your own twist. You host charity concerts and establish scholarships, embodying the warmth of Jisoo's caring nature. Your life is a series of meaningful connections—mentoring young artists, speaking at fan events, and using your platform for good. You're the glue that holds your community together, the one who ensures no one feels alone. Your path is illuminated by empathy and purpose, a legacy of love that echoes beyond the music.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Free-Spirited Artist - ENFP",
+      "description": "Your future is a colorful mosaic of collaborations and spontaneous adventures. You might drop a surprise single inspired by 'Ice Cream' or join a friend's tour on a whim. Your creativity knows no bounds—you paint, you dance, you write poetry. You're the life of the party, the one who brings unexpected joy. Your path is a joyful chaos, much like Lisa's playful energy. You embrace every opportunity to express yourself, and your fans adore your true-to-you. Your life is a celebration of freedom, a testament to living in the moment with a heart full of dreams.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Leader - ESTJ",
+      "description": "Your future is a well-oiled machine, a testament to discipline and hard work. You run your own entertainment company with the precision of a military operation. Every schedule is set, every detail approved. You're the one who ensures the 'How You Like That' choreography is flawless and the tour runs on time. Your fans trust your consistency, and your team respects your no-nonsense approach. Your path is built on tradition and order, much like the structured training that produced BLACKPINK. You are the pillar of reliability, a leader who gets things done.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Charismatic Performer - ESTP",
+      "description": "Your future is an adrenaline-fueled ride of live performances and spontaneous decisions. You thrive on the energy of a crowd, feeding off their cheers like a 'Kill This Love' encore. You're the one who improvises on stage, adding a new dance move or a cheeky ad-lib. Your life is a series of bold moves—investing in a nightclub, launching a fashion line, or starring in a reality show. You're the life of the party, the center of attention, always chasing the next thrill. Your path is a high-octane adventure, a testament to living life to the fullest.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Nurturing Supporter - ESFJ",
+      "description": "Your future is a warm embrace, a community built on care and tradition. You organize fan meetings with the same dedication as a 'Stay' lyric, ensuring every BLINK feels special. You're the one who remembers birthdays, sends handwritten notes, and creates a family-like atmosphere. Your life is about preserving the legacy of BLACKPINK's early days while nurturing new talent. You host charity events and support local causes. Your path is one of service and connection, a gentle reminder that the heart of K-pop is love. You are the caretaker of dreams.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Social Butterfly - ESFP",
+      "description": "Your future is a never-ending party, filled with laughter and spontaneous fun. You're the one who brings the energy to every room, whether it's a backstage hangout or a fan sign. You love to entertain, to make people smile, and to create memories. Your style is bold and playful, like Lisa's stage outfits. You might host a variety show or start a fun vlog series. Your path is all about enjoying the moment, embracing new experiences, and sharing joy. You're the heart of every celebration, a ray of sunshine in the K-pop world.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Quiet Strategist - INTJ",
+      "description": "Your future is a master plan unfolding in the shadows. You analyze data to predict trends, much like a chess grandmaster. You're the one behind the scenes, crafting the perfect album rollout or designing an innovative concert experience. Your mind is a fortress of ideas—'Pink Venom' is just the beginning. You value efficiency and precision, never wasting a move. Your path is solitary but powerful, a testament to the strength of quiet determination. You are the architect of your destiny, a visionary whose influence is felt but not always seen.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Thinker - INTP",
+      "description": "Your future is a laboratory of possibilities, where you explore the mechanics of music and performance. You deconstruct songs like 'Ddu-Du Ddu-Du' to understand their magic. You're fascinated by the science of sound, the psychology of fandom, and the art of production. Your life is a quest for knowledge—you might write a book on K-pop's global rise or develop a new mixing technique. Your path is intellectual, driven by curiosity. You're the one who asks 'why' and 'how,' always seeking to understand the universe of BLACKPINK on a deeper level.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Mystic Poet - INFJ",
+      "description": "Your future is a quiet revolution, a gentle but profound impact on the world. You write lyrics that touch the soul, like Rosé's 'On The Ground' but with a mystical twist. You're drawn to the spiritual side of performance, creating rituals backstage to center yourself. Your path is one of purpose—you might start a foundation for mental health or create art that heals. You see the big picture, the interconnectedness of all things. Your life is a serene journey, a reflection of the calm wisdom of Jisoo. You are the quiet force that changes hearts.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Dreamy Idealist - INFP",
+      "description": "Your future is a canvas of dreams, painted with the colors of your imagination. You write poetry inspired by 'Stay' and compose melodies that speak to the heart. Your life is a gentle pursuit of beauty and meaning—you might open a small art gallery or teach music to children. You're the one who sees the magic in everyday moments, who believes in a better world. Your path is soft but resilient, like the delicate strength of a flower. You are the dreamer, the idealist, the soul who reminds us all to keep believing.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Steadfast Guardian - ISTJ",
+      "description": "Your future is a fortress of reliability, built on years of dedication. You're the one who remembers every fan's name, who ensures the concert runs without a hitch. Your life is a testament to duty—you might manage a record label or oversee the production of music videos. You value tradition and order, much like the disciplined training of K-pop idols. Your path is steady and sure, a quiet strength that supports the entire structure. You are the guardian of the legacy, the one who ensures that BLACKPINK's flame never dims.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Creator - ISTP",
+      "description": "Your future is a workshop of creation, where you build and fix things with your hands. You're the one behind the scenes, designing stage props or editing music videos. You love the mechanics of performance—the lighting, the sound, the choreography. Your life is practical and adventurous, like a road trip in a van with your crew. You're the problem-solver, the one who can improvise when something breaks. Your path is independent and resourceful, a testament to the skill of a true artisan. You are the maker, the doer, the quiet force behind the magic.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Loyal Guardian - ISFJ",
+      "description": "Your future is a warm haven, a place of comfort and tradition. You're the one who ensures every fan feels welcomed, who remembers the little details that make a difference. Your life is about service—you might run a fan club or organize charity events. You embody the caring spirit of Jisoo, always putting others first. Your path is steady and nurturing, a quiet strength that holds the community together. You are the guardian of memories, the keeper of the flame. Your legacy is love, and your impact is felt in every heart you touch.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Gentle Artist - ISFP",
+      "description": "Your future is a canvas of quiet expression, a world of beauty created in solitude. You paint, you dance, you write songs that capture the essence of a moment. Your life is a gentle flow, like the melody of 'Stay' or the soft hues of a sunset. You're the one who finds inspiration in nature and translates it into art. Your path is personal and true-to-you, a reflection of your unique soul. You might release an album of acoustic covers or start a small boutique. You are the quiet artist, the one whose work speaks volumes without words.",
+      "mbti": "ISFP"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "quizId": 218,
+  "title": "What's your hidden BLACKPINK trait?",
+  "category": "hidden",
+  "tags": [
+    "MBTI",
+    "K-pop",
+    "BLACKPINK",
+    "Hidden Trait",
+    "Personality"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired hidden trait! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Scroll through fan theories about the 'Pink Venom' MV",
+          "score": "I"
+        },
+        {
+          "text": "Rehearse your own version of 'Kill This Love' solo dance",
+          "score": "E"
+        },
+        {
+          "text": "Imagine a new storyline for the next BLACKPINK comeback",
+          "score": "N"
+        },
+        {
+          "text": "Perfect a specific move from 'How You Like That' step by step",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "During a break at a dance practice session, you...",
+      "options": [
+        {
+          "text": "Comfort a fellow dancer who's struggling with the 'Ice Cream' choreo",
+          "score": "F"
+        },
+        {
+          "text": "Plan the exact timeline to review each part of 'Ddu-Du Ddu-Du'",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the formation changes in 'Lovesick Girls' for efficiency",
+          "score": "T"
+        },
+        {
+          "text": "Spontaneously freestyle to 'Whistle' while waiting",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "At a fan sign event, when a fan is too nervous to speak, you...",
+      "options": [
+        {
+          "text": "Quickly assess the best way to move the line efficiently",
+          "score": "T"
+        },
+        {
+          "text": "Write a personal note inspired by 'Stay' lyrics to comfort them",
+          "score": "F"
+        },
+        {
+          "text": "Give a gentle smile and wait patiently, recalling Jennie's calm presence",
+          "score": "I"
+        },
+        {
+          "text": "Start a fun chant to 'Boombayah' to lighten the mood",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Backstage before a concert, you...",
+      "options": [
+        {
+          "text": "Go with the flow, ready to adapt to any last-minute changes like in concerts",
+          "score": "P"
+        },
+        {
+          "text": "Ensure every prop is in place for the 'HYLT' performance",
+          "score": "J"
+        },
+        {
+          "text": "Imagine the crowd's energy and how to surprise them during 'Playing with Fire'",
+          "score": "N"
+        },
+        {
+          "text": "Check the setlist and sound levels like you're preparing 'As If It's Your Last'",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When listening to 'The Album' alone, you...",
+      "options": [
+        {
+          "text": "Focus on the beat drops and choreography points in 'Crazy Over You'",
+          "score": "S"
+        },
+        {
+          "text": "Get lost in the production details of 'Love To Hate Me'",
+          "score": "I"
+        },
+        {
+          "text": "Sing along loudly to 'How You Like That' as if on stage",
+          "score": "E"
+        },
+        {
+          "text": "Plan to learn the full dance for 'Pretty Savage' by next week",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "During a music video shoot for a comeback, you...",
+      "options": [
+        {
+          "text": "Think of creative ways to use the 'Kill This Love' props",
+          "score": "N"
+        },
+        {
+          "text": "Improvise a new move that fits the 'Pink Venom' vibe spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Make sure everyone on set feels appreciated, like in 'Stay' moments",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the lighting to match the mood of 'Lovesick Girls'",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When discussing BLACKPINK's legacy with friends, you...",
+      "options": [
+        {
+          "text": "Ponder the deeper meanings in 'You Never Know' lyrics",
+          "score": "N"
+        },
+        {
+          "text": "Suggest a detailed plan to celebrate their anniversary",
+          "score": "J"
+        },
+        {
+          "text": "Enthusiastically share theories about their next world tour",
+          "score": "E"
+        },
+        {
+          "text": "Compare their chart performances using data from 'Ddu-Du Ddu-Du' onwards",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "At a listening party for 'BORN PINK', you...",
+      "options": [
+        {
+          "text": "Notice the subtle sound effects in 'Typa Girl' that others miss",
+          "score": "S"
+        },
+        {
+          "text": "Let the playlist flow without a set plan, enjoying 'Shut Down' on repeat",
+          "score": "P"
+        },
+        {
+          "text": "Share how 'Yeah Yeah Yeah' makes you feel with a fellow fan",
+          "score": "F"
+        },
+        {
+          "text": "Find a quiet corner to absorb 'The Happiest Girl' alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "While waiting for a concert to start, you...",
+      "options": [
+        {
+          "text": "Observe the crowd's energy, feeling the collective anticipation",
+          "score": "I"
+        },
+        {
+          "text": "Start a fan chant for 'Boombayah' to hype the crowd",
+          "score": "E"
+        },
+        {
+          "text": "Decide to spontaneously film the opening moments without a plan",
+          "score": "P"
+        },
+        {
+          "text": "Calculate the best time to record your favorite part of 'Kill This Love'",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When designing a fan project for a comeback, you...",
+      "options": [
+        {
+          "text": "Ensure every fan feels included, writing messages inspired by 'Stay'",
+          "score": "F"
+        },
+        {
+          "text": "Organize a timeline for the project to be ready before release day",
+          "score": "J"
+        },
+        {
+          "text": "Gather materials and follow a step-by-step guide like for 'Ice Cream' props",
+          "score": "S"
+        },
+        {
+          "text": "Conceptualize a unique theme blending 'Pink Venom' and 'Shut Down' aesthetics",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "During a dance cover challenge, you...",
+      "options": [
+        {
+          "text": "Plan to film a polished version with specific camera angles",
+          "score": "J"
+        },
+        {
+          "text": "Lead a group cover of 'How You Like That', energizing everyone",
+          "score": "E"
+        },
+        {
+          "text": "Focus on mastering the exact footwork from 'Ddu-Du Ddu-Du'",
+          "score": "S"
+        },
+        {
+          "text": "Cheer on participants and highlight each person's unique style",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "After a long day of BLACKPINK activities, you unwind by...",
+      "options": [
+        {
+          "text": "Letting the day's events sink in without a plan, like in 'Whistle'",
+          "score": "P"
+        },
+        {
+          "text": "Reflecting alone on the emotional lyrics of 'Hope Not'",
+          "score": "I"
+        },
+        {
+          "text": "Daydreaming about new concepts for their next era",
+          "score": "N"
+        },
+        {
+          "text": "Analyzing the vocal arrangements in 'Playing with Fire'",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Stage Dominator.",
+      "description": "You have the commanding presence of a headliner, much like Jennie's iconic 'SOLO' era. When the lights hit, you own the stage with a fierce energy that echoes 'Kill This Love' and 'Boombayah'. Your hidden drive to lead and perform makes you a natural-born star, always ready to captivate an audience with your powerful aura.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Strategist.",
+      "description": "Your mind is a whirlwind of ideas, much like the innovative concepts behind 'Pink Venom' and 'Lovesick Girls'. You thrive on brainstorming new storylines and choreography that push boundaries. Like Lisa's fearless creativity, you see every challenge as a chance to invent something fresh. Your hidden talent lies in turning wild ideas into iconic moments.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heartfelt Connector.",
+      "description": "You radiate warmth and empathy, reminiscent of Rosé's soulful performances in 'On The Ground' and 'Gone'. Your ability to make others feel seen and valued is your superpower. At fan meetings or backstage, you're the one offering genuine comfort, just like the lyrics of 'Stay'. Your hidden trait is creating deep emotional bonds that last.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Enthusiastic Dreamer.",
+      "description": "Your energy is infectious, much like Jisoo's bright smile during 'How You Like That' stages. You inspire those around you with your optimism and spontaneity, always ready to start a fan chant or try a new dance move. Your hidden trait is turning ordinary moments into celebrations, reminiscent of the carefree spirit in 'Ice Cream'.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Practical Performer.",
+      "description": "You are the backbone of any production, ensuring every detail is perfect—like the flawless execution of 'Ddu-Du Ddu-Du' choreography. Your hidden strength lies in your reliability and attention to logistics, making you the go-to person for organizing fan projects or concert setups. You mirror the grounded energy of 'As If It's Your Last'.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Entertainer.",
+      "description": "You live in the moment, much like Lisa's freestyle dance breaks that wow fans. Your hidden talent is your ability to adapt and improvise, whether it's a new move to 'Whistle' or a funny interaction at a fan sign. You bring the unexpected joy that makes every BLACKPINK event unforgettable.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Supportive Guardian.",
+      "description": "You are the gentle caretaker of the group, always ensuring harmony like Rosé's calming presence during stressful practices. Your hidden trait is your unwavering loyalty and nurturing spirit, often putting others first. You embody the comforting message of 'Stay', making everyone feel like they belong.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Joyful Performer.",
+      "description": "You light up any room with your playful energy, reminiscent of Jisoo's cheerful moments in 'Ice Cream' and variety shows. Your hidden trait is your ability to spread happiness effortlessly, turning even a rehearsal into a party. You live for the fun and connection that music brings, just like the vibe of 'Lovesick Girls'.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Quiet Visionary.",
+      "description": "You have a deep, introspective side akin to Jennie's reflective moments in 'SOLO' and 'You Never Know'. Your hidden strength is your ability to see the big picture and craft intricate plans behind the scenes. You analyze every detail of a comeback, from lyrical depth to visual storytelling, making you the mastermind of concepts.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Analytical Explorer.",
+      "description": "Your mind is a maze of curiosity, much like the layered production of 'Pink Venom' and 'Kill This Love'. You love to dissect music videos and lyrics, uncovering hidden meanings that others miss. Your hidden trait is your thirst for knowledge and innovation, always exploring new angles to understand BLACKPINK's artistry.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Mysterious Healer.",
+      "description": "You possess a quiet wisdom and empathy, reminiscent of Rosé's emotional delivery in 'Gone' and 'Hard to Love'. Your hidden trait is your ability to heal through understanding, offering solace with just a few words. You connect on a deep level, like the poignant lyrics of 'The Happiest Girl', making you a source of comfort.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Sensitive Dreamer.",
+      "description": "Your imagination knows no bounds, much like the whimsical aesthetics of 'Ice Cream' and 'Playing with Fire'. You find beauty in the details and often get lost in daydreams about future eras. Your hidden trait is your poetic soul, channeling emotions into creative expressions that resonate with others.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Loyal Perfectionist.",
+      "description": "You are the dependable one, always mastering every detail like the precise choreography of 'How You Like That'. Your hidden trait is your unwavering dedication and sense of duty, making you the rock of any team. You honor tradition and excellence, much like the disciplined practice behind BLACKPINK's iconic performances.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Adventurer.",
+      "description": "You learn by doing, much like Lisa's fearless approach to learning new dances. Your hidden trait is your practical, hands-on nature—you'd rather try a move from 'Whistle' than talk about it. You thrive in action, enjoying the thrill of live performances and the adrenaline of a concert.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Gentle Protector.",
+      "description": "You are a quiet source of strength, akin to Jisoo's supportive role in the group. Your hidden trait is your nurturing and protective instinct, always looking out for others' well-being. You create a safe space for fans and members alike, embodying the comforting spirit of 'Stay' and 'Hope Not'.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Artistic Observer.",
+      "description": "You see the world through a creative lens, much like the visual artistry of 'Pink Venom' and 'Kill This Love' MVs. Your hidden trait is your ability to appreciate beauty in the subtle details, from fashion to set design. You express yourself through art and music, finding inspiration in every BLACKPINK era.",
+      "mbti": "ISFP"
+    }
+  ]
+}

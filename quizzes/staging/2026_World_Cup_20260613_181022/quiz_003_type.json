@@ -1,0 +1,361 @@
+{
+  "quizId": 3000,
+  "title": "What's your 2026 World Cup personality type?",
+  "category": "type",
+  "tags": [
+    "Personality",
+    "Adventure",
+    "Sports",
+    "Football",
+    "World Cup"
+  ],
+  "description": "Answer 12 questions to discover your 2026 World Cup-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In your daily life, you tend to...",
+      "options": [
+        {
+          "text": "Observe first, then make a sharp pass when least expected",
+          "score": "I"
+        },
+        {
+          "text": "Stick to your pre-game playlist and lucky socks routine",
+          "score": "S"
+        },
+        {
+          "text": "Lead group chats with non-stop energy, like Mbappé sprinting at defenders",
+          "score": "E"
+        },
+        {
+          "text": "Daydream about scoring the winning goal in a brand new way",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When a teammate misses a sitter, you...",
+      "options": [
+        {
+          "text": "Analyze the angles and suggest a better shooting technique",
+          "score": "T"
+        },
+        {
+          "text": "Pat them on the back and say 'next time, bro'",
+          "score": "F"
+        },
+        {
+          "text": "Immediately plan the next attack, no time to dwell",
+          "score": "J"
+        },
+        {
+          "text": "Laugh it off and try a crazy trick play instead",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Your pre-match ritual is...",
+      "options": [
+        {
+          "text": "Reviewing opponent stats until the very last minute",
+          "score": "T"
+        },
+        {
+          "text": "Finding a quiet corner to visualize each set piece",
+          "score": "I"
+        },
+        {
+          "text": "Leading the team huddle with a roar like a stadium announcer",
+          "score": "E"
+        },
+        {
+          "text": "Listening to motivational speeches to get hyped up",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "During a tense 0-0 draw like the 2018 final, you'd...",
+      "options": [
+        {
+          "text": "Go with the flow and adapt to whatever the ref doesn't see",
+          "score": "P"
+        },
+        {
+          "text": "Try an audacious chip from 30 yards out",
+          "score": "N"
+        },
+        {
+          "text": "Insist on sticking to the game plan no matter what",
+          "score": "J"
+        },
+        {
+          "text": "Focus on maintaining possession and tiring out the defense",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Your teammates would describe you as...",
+      "options": [
+        {
+          "text": "The one who tracks back every time and covers every run",
+          "score": "S"
+        },
+        {
+          "text": "The cool head who barely speaks but never loses the ball",
+          "score": "I"
+        },
+        {
+          "text": "The organizer who sets up the whole team's formation",
+          "score": "J"
+        },
+        {
+          "text": "The hype man who never stops running and celebrating",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When you watch Haaland's runs, you think most about...",
+      "options": [
+        {
+          "text": "How pumped he must feel after smashing it top bins",
+          "score": "F"
+        },
+        {
+          "text": "Trying that same move in your next game, no matter the odds",
+          "score": "P"
+        },
+        {
+          "text": "The exact foot placement and power behind each finish",
+          "score": "T"
+        },
+        {
+          "text": "His timing and how he reads the defender's body language",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Your ideal playing style is...",
+      "options": [
+        {
+          "text": "Dictating the tempo and making everyone play your rhythm",
+          "score": "J"
+        },
+        {
+          "text": "Studying replays to exploit the weakest link in the defense",
+          "score": "T"
+        },
+        {
+          "text": "Finding pockets of space that don't exist on the tactics board",
+          "score": "N"
+        },
+        {
+          "text": "Box-to-box, always available for the ball, like a young Gerrard",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "After a tough loss like Croatia's 2018 semi, you'd...",
+      "options": [
+        {
+          "text": "Write a heartfelt message to the fans on social media",
+          "score": "F"
+        },
+        {
+          "text": "Go home and replay every mistake in your head silently",
+          "score": "I"
+        },
+        {
+          "text": "Already be planning your comeback for the next tournament",
+          "score": "P"
+        },
+        {
+          "text": "Hit the gym and practice free kicks until your legs give out",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "In a crucial penalty shootout, you...",
+      "options": [
+        {
+          "text": "Prefer to be the last one, with the weight of the world",
+          "score": "I"
+        },
+        {
+          "text": "Calculate the keeper's tendencies before stepping up",
+          "score": "T"
+        },
+        {
+          "text": "Volunteer to take the first pen and set the tone",
+          "score": "E"
+        },
+        {
+          "text": "Just pick a corner and blast it, no overthinking",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When your team is down 1-0 like France in 2018 final, you...",
+      "options": [
+        {
+          "text": "Try a formation switch no one's ever seen before",
+          "score": "N"
+        },
+        {
+          "text": "Keep doing what got you there, trust the process",
+          "score": "S"
+        },
+        {
+          "text": "Give a speech about pride and fighting for the badge",
+          "score": "F"
+        },
+        {
+          "text": "Calmly remind everyone of their roles and adjust",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Your celebration style is...",
+      "options": [
+        {
+          "text": "A simple fist pump and a nod to the crowd",
+          "score": "S"
+        },
+        {
+          "text": "Running to the bench to hug the kit man",
+          "score": "F"
+        },
+        {
+          "text": "Pointing to the sky and then getting back in position fast",
+          "score": "J"
+        },
+        {
+          "text": "Slide on your knees and roar like a lion, arms wide",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Your football philosophy is closest to...",
+      "options": [
+        {
+          "text": "Defensive solidity first, then hit on the counter",
+          "score": "T"
+        },
+        {
+          "text": "Total football where everyone can play anywhere",
+          "score": "N"
+        },
+        {
+          "text": "Score more than the opponent, no matter what",
+          "score": "P"
+        },
+        {
+          "text": "Control the midfield, control the game — like Modrić",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Mbappé - The Speed Demon.",
+      "description": "You're the kind of player who leaves defenders in the dust. Like Kylian Mbappé's 2018 World Cup final run, you combine lightning pace with ruthless finishing. When the game's on the line, you don't hesitate — you burst through the backline and slot it home. Your energy is infectious, and fans love your fearless style. You live for the big stage and the roar of the crowd, just like the Parisian superstar who took the world by storm at 19.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Messi - The Silent Magician.",
+      "description": "You don't need to shout to be heard. Like Messi's 2022 World Cup triumph, you let your feet do the talking. With a low center of gravity and impossible dribbling, you glide past opponents as if they're not there. You see passes others can't even imagine, and your game intelligence is off the charts. Despite being quiet off the pitch, on it you're a maestro who can turn a game in a split second. Your legacy is written in the magic you create.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Ronaldo - The Relentless Machine.",
+      "description": "You are the embodiment of hard work and determination. Like Cristiano Ronaldo's iconic 2018 hat-trick against Spain, you never give up, no matter the odds. Your training regimen is legendary, and your focus is laser-sharp. You demand excellence from yourself and your teammates, and you lead by example. Every free kick is a chance to prove yourself, and you thrive under pressure. Your will to win is unmatched.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Neymar - The Showman.",
+      "description": "You play with flair and joy, like Neymar's rainbow flicks and no-look passes. The pitch is your stage, and you love to entertain. Your creativity knows no bounds — you'll try a rabona, a backheel, or a nutmeg just to put a smile on fans' faces. But beneath the tricks lies a fierce competitor who wants to win at all costs. You bring samba to the World Cup, and your style is unforgettable.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Modrić - The Maestro.",
+      "description": "You are the calm in the storm, like Luka Modrić orchestrating Croatia's 2018 run. With impeccable vision and passing range, you dictate the tempo of the game. You rarely lose possession and always seem to have time on the ball. Your leadership is quiet but absolute — teammates look to you for guidance. You prove that you don't need to be the fastest or strongest to be the most influential player on the pitch.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Haaland - The Terminator.",
+      "description": "You are a machine built for scoring goals. Like Erling Haaland's 2022-23 season, you combine speed, strength, and clinical finishing. Your movement off the ball is terrifying for defenders, and you always seem to be in the right place at the right time. You don't celebrate much — you expect to score. Your focus is single-minded: put the ball in the net. And you do it with terrifying consistency.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "De Bruyne - The Visionary.",
+      "description": "You see the game three steps ahead, like Kevin De Bruyne's laser-guided assists. Your passing is a weapon — you can switch play with a 60-yard diagonal or thread a through ball through the eye of a needle. You're always scanning, always thinking, always looking for the killer pass. Your football brain is your greatest asset, and you use it to unlock even the most stubborn defenses.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Kanté - The Engine.",
+      "description": "You cover every blade of grass, like N'Golo Kanté's 2018 World Cup midfield domination. Your work rate is phenomenal — you win the ball back, break up play, and then start attacks. You don't seek glory; you do the dirty work that allows your teammates to shine. Your humility is as impressive as your stamina. You are the heart of the team, always running, always smiling, always ready to help.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Vinicius Jr - The Trickster.",
+      "description": "You love to take on defenders, like Vinicius Jr's dazzling runs for Brazil. With quick feet and even quicker thinking, you leave full-backs in knots. You're not afraid to try something audacious — a stepover, a elastico, a nutmeg. Your confidence is sky-high, and you thrive on the adoration of the crowd. You play with a smile, but when it's time to score, you're ice cold.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Bellingham - The Leader.",
+      "description": "You have maturity beyond your years, like Jude Bellingham's commanding presence in midfield. You lead by example, with tireless running and intelligent passing. You're not afraid to take responsibility, whether it's scoring a crucial goal or organizing the defense. Your charisma inspires those around you, and you seem destined for greatness. You are the future of football, and you know it.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Salah - The Silent Killer.",
+      "description": "You are deadly in front of goal, like Mohamed Salah's 2018 Champions League final — even when injured, you're a threat. You don't say much, but your actions speak volumes. You drift in from the wing and cut inside with devastating effect. Your finishing is precise, and you have a knack for scoring in big moments. You remain calm under pressure and let your goals do the talking.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Griezmann - The Tactician.",
+      "description": "You are always thinking, like Antoine Griezmann's 2018 World Cup performances. You study the game obsessively, analyzing opponents' weaknesses and your own teammates' strengths. You're more than a player — you're a coach on the pitch, constantly communicating and adjusting. Your versatility allows you to play anywhere in attack, and your football IQ is second to none.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Pogba - The Entertainer.",
+      "description": "You bring flair and personality to the game, like Paul Pogba's iconic 2018 World Cup celebration. You love to express yourself with fancy flicks, long-range passes, and the occasional audacious shot. Your confidence can sometimes be mistaken for arrogance, but you back it up with moments of brilliance. You're a social media star off the pitch and a showman on it.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Neuer - The Sweeper Keeper.",
+      "description": "You redefine your position, like Manuel Neuer's sweeper-keeper style. You're not content to stay on your line — you come out to clear danger, start attacks with precise throws, and even dribble past strikers. Your bravery is unmatched, and your decision-making under pressure is superb. You see the whole pitch and command your area with authority.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Kane - The Finisher.",
+      "description": "You are the ultimate goal-poacher, like Harry Kane's Golden Boot-winning 2018 World Cup. You have an instinct for being in the right place at the right time. Your finishing is clinical — whether it's a header, a volley, or a penalty, you rarely miss. You drop deep to link play and bring others into the game, but your primary job is to score, and you do it better than almost anyone.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Hazard - The Magician.",
+      "description": "You glide past defenders like they're not there, like Eden Hazard's 2018 World Cup dribbling displays. Your low center of gravity and quick feet make you almost impossible to dispossess. You play with a smile and a swagger, creating chances out of nothing. You're a joy to watch, and your teammates love playing with you because you make the game look easy.",
+      "mbti": "INFP"
+    }
+  ]
+}

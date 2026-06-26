@@ -1,0 +1,361 @@
+{
+  "quizId": 216,
+  "title": "Which BLACKPINK vibe matches your personality?",
+  "category": "which",
+  "tags": [
+    "K-pop",
+    "Music",
+    "Personality",
+    "BLACKPINK",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your BLACKPINK-inspired personality match! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When the concert crowd roars and the lights hit the stage, you would...",
+      "options": [
+        {
+          "text": "Focus on the choreography and perfect execution",
+          "score": "S"
+        },
+        {
+          "text": "Find a spot where you can enjoy the show quietly",
+          "score": "I"
+        },
+        {
+          "text": "Lead the chant and hype everyone up",
+          "score": "E"
+        },
+        {
+          "text": "Imagine the story behind each song and performance",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "During a heated dance practice debate on formations, you would...",
+      "options": [
+        {
+          "text": "Suggest a formation that makes everyone feel included",
+          "score": "F"
+        },
+        {
+          "text": "Go with the flow and adjust on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Map out a precise schedule to nail the transitions",
+          "score": "J"
+        },
+        {
+          "text": "Argue for the most efficient spacing and timing",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "When brainstorming a fan sign event concept, you would...",
+      "options": [
+        {
+          "text": "Pitch an interactive game that gets everyone moving",
+          "score": "E"
+        },
+        {
+          "text": "Focus on making each fan feel personally welcomed",
+          "score": "F"
+        },
+        {
+          "text": "Design a calm, intimate Q&A session",
+          "score": "I"
+        },
+        {
+          "text": "Create a detailed timeline with exact minute-by-minute plans",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "While filming a music video in a stunning location, you would...",
+      "options": [
+        {
+          "text": "Insist on sticking to the storyboard without changes",
+          "score": "J"
+        },
+        {
+          "text": "Suggest spontaneous shots that capture the moment",
+          "score": "P"
+        },
+        {
+          "text": "Notice the texture of the props and lighting setup",
+          "score": "S"
+        },
+        {
+          "text": "Think about the symbolic meaning of each scene",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "During a long rehearsal for a comeback stage, you would...",
+      "options": [
+        {
+          "text": "Set a clear goal to finish each run by a certain time",
+          "score": "J"
+        },
+        {
+          "text": "Perfect every hand movement and foot placement",
+          "score": "S"
+        },
+        {
+          "text": "Take quiet breaks to recharge alone",
+          "score": "I"
+        },
+        {
+          "text": "Keep the energy high with jokes and group cheers",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When discussing a new song's concept, you would...",
+      "options": [
+        {
+          "text": "Debate the technical quality of the production",
+          "score": "T"
+        },
+        {
+          "text": "Suggest how the concept can connect emotionally with fans",
+          "score": "F"
+        },
+        {
+          "text": "Brainstorm multiple concept versions and see what sticks",
+          "score": "P"
+        },
+        {
+          "text": "Explore how the concept can evolve across future eras",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "At a fan meeting where you have to interact with many Blinks, you would...",
+      "options": [
+        {
+          "text": "Have deep, one-on-one conversations with a few fans",
+          "score": "N"
+        },
+        {
+          "text": "Analyze which fan questions are most thoughtful",
+          "score": "T"
+        },
+        {
+          "text": "Plan a structured activity to keep things organized",
+          "score": "J"
+        },
+        {
+          "text": "Work the room, making sure to greet as many as possible",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When preparing for a surprise stage, you would...",
+      "options": [
+        {
+          "text": "Practice in a private studio to avoid distractions",
+          "score": "I"
+        },
+        {
+          "text": "Memorize the exact blocking and camera angles",
+          "score": "S"
+        },
+        {
+          "text": "Leave room for improvisation if the crowd reacts strongly",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the emotional delivery to move the audience",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "During a live stream with fans, you would...",
+      "options": [
+        {
+          "text": "Go off-script and do whatever feels fun in the moment",
+          "score": "P"
+        },
+        {
+          "text": "Read comments aloud and engage with fans directly",
+          "score": "E"
+        },
+        {
+          "text": "Share behind-the-scenes facts about the production",
+          "score": "T"
+        },
+        {
+          "text": "Listen more than you talk, absorbing the chat vibe",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When curating a playlist for a 'Pink' vs 'Black' concept, you would...",
+      "options": [
+        {
+          "text": "Prioritize songs that evoke a strong emotional response",
+          "score": "F"
+        },
+        {
+          "text": "Choose tracks that tell a story across the playlist",
+          "score": "N"
+        },
+        {
+          "text": "Arrange the playlist in a specific order to build a narrative",
+          "score": "J"
+        },
+        {
+          "text": "Select songs with distinct beats and hooks for each mood",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "During a photo shoot for a new album cover, you would...",
+      "options": [
+        {
+          "text": "Pay close attention to the lighting and outfit details",
+          "score": "S"
+        },
+        {
+          "text": "Direct the team with energetic poses and expressions",
+          "score": "E"
+        },
+        {
+          "text": "Ensure everyone feels comfortable and confident",
+          "score": "F"
+        },
+        {
+          "text": "Stick to the planned shot list to save time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When analyzing fan theories about your group's lore, you would...",
+      "options": [
+        {
+          "text": "Quietly read theories and enjoy the creativity",
+          "score": "I"
+        },
+        {
+          "text": "Debate the logical consistency of each theory",
+          "score": "T"
+        },
+        {
+          "text": "Encourage multiple theories and see which ones stick",
+          "score": "P"
+        },
+        {
+          "text": "Come up with new interpretations that connect different eras",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Jennie - The Boss.",
+      "description": "You command attention like Jennie in her SOLO era—effortlessly cool and fiercely independent. Your confidence is quiet but undeniable, much like her iconic 'cat-eye' gaze on stage. When challenges arise, you tackle them head-on, channeling the same determination that made her debut a cultural moment. You don't follow trends; you set them.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Lisa + Jennie: Stage Fire.",
+      "description": "Walking into a room, you bring the explosive energy of a BLACKPINK concert opener. Like Lisa's LALISA confidence meets Jennie's cool composure, you're both a powerhouse performer and a strategic thinker. Your presence is magnetic, and you thrive when the spotlight hits—whether it's a dance break or a high-stakes project.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Jisoo - The Warm Heart.",
+      "description": "You're the gentle anchor in any group, just like Jisoo's soothing voice in 'Stay.' Your empathy runs deep, and you naturally put others at ease. When a friend needs support, you're the first to offer a comforting word, reminiscent of her nurturing personality during variety shows. Your loyalty is your superpower.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Rosé - The Dreamy Artist.",
+      "description": "Your soul is tuned to the poetic waves of Rosé's 'On The Ground.' You find beauty in the small moments—a sunset, a lyric, a shared laugh. You're deeply creative and expressive, often lost in thought, composing melodies in your head. Your artistic spirit is both your sanctuary and your gift to the world.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Lisa - The Dynamo.",
+      "description": "Like Lisa's electrifying dance breaks, you move through life with unstoppable energy and precision. You're a natural performer who thrives on action, always ready to learn a new choreography or tackle a challenge. Your discipline is legendary, mirroring her rigorous practice ethic that turns every move into art.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Jisoo + Rosé: Gentle Grace.",
+      "description": "You blend Jisoo's calming presence with Rosé's emotional depth, creating a serene yet passionate energy. In a chaotic world, you're the one who brings harmony, much like their duet in 'Hope Not.' You appreciate both the quiet moments and the heartfelt connections, making you a beloved friend and confidant.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Midnight Listener.",
+      "description": "When the world quiets down, you come alive. Like the introspective mood of 'You Never Know,' you find clarity in solitude. You're a deep thinker, often analyzing patterns and meanings others miss. Your quiet strength is your foundation, and you use it to understand the world on your own terms.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Concept Theorist.",
+      "description": "You're fascinated by the hidden connections in BLACKPINK's lore, from 'Pink' to 'Black' eras. Your mind is a web of ideas, always exploring 'what if' scenarios. Like the intricate fan theories about their music videos, you enjoy unraveling complex systems and sharing your insights with fellow enthusiasts.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Protector.",
+      "description": "You have a gentle but firm presence, much like Jisoo's role as the unshakable unnie. You sense what others need before they say it, and you act with quiet determination. Your empathy is your guide, and you're driven by a deep desire to make the world a little warmer, one kind act at a time.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Lyric Poet.",
+      "description": "Your heart beats to the rhythm of Rosé's 'Gone.' You express your deepest feelings through words, art, or music, always seeking true-to-you. You're a dreamer with a tender soul, finding meaning in the bittersweet. Your inner world is rich and colorful, and you share it generously with those who listen.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Perfect Executioner.",
+      "description": "Like Lisa's flawless dance formations, you believe in precision and reliability. You're the one who ensures every detail is accounted for, from choreography to schedules. Your dedication to excellence is unwavering, and you take pride in delivering results that exceed expectations. Tradition and order ground you.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Creator.",
+      "description": "You learn by doing, much like Jennie's hands-on approach to her SOLO stage design. You're practical, resourceful, and always ready to fix a problem with your own two hands. When something breaks, you're the first to figure out how it works and make it better. Action speaks louder than words for you.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Backstage Angel.",
+      "description": "You're the unsung hero who remembers everyone's coffee order and birthday. Like Jisoo's nurturing nature, you create a safe, warm environment wherever you go. Your attention to detail makes others feel seen and cared for. You're the glue that holds the team together, quietly making everything run smoothly.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Aesthetic Wanderer.",
+      "description": "Your style is a living mood board, inspired by Rosé's effortless elegance and Lisa's bold fashion. You appreciate beauty in all forms—from a perfectly curated Instagram feed to a spontaneous sunset. You live in the moment, guided by your senses, and your creativity flows freely without constraints.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Golden Hour Dreamer.",
+      "description": "You're captivated by the warmth of golden hour, much like the aesthetic of 'Ice Cream.' You radiate positivity and charm, drawing people in with your genuine enthusiasm. You're a natural storyteller, always ready to share a laugh or a heartfelt moment. Your optimism is contagious, lighting up every room.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Trendsetter.",
+      "description": "Like Lisa's iconic bangs and Jennie's chic style, you have an innate sense of what's next. You're bold, experimental, and unafraid to stand out. Your energy is infectious, and you inspire others to step out of their comfort zones. You live for the thrill of trying something new and making it your own.",
+      "mbti": "ENTP"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "quizId": 6000,
+  "title": "What would you do in the World Cup world?",
+  "category": "whatwould",
+  "tags": [
+    "World Cup",
+    "Soccer",
+    "Sports",
+    "Personality",
+    "Adventure"
+  ],
+  "description": "Answer 12 questions to discover your World Cup-inspired fan quiz! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "If you faced a crucial penalty kick in the World Cup final, what would you do?",
+      "options": [
+        {
+          "text": "Visualize a new angle the keeper won't expect",
+          "score": "N"
+        },
+        {
+          "text": "Focus on your breathing, block out the crowd",
+          "score": "I"
+        },
+        {
+          "text": "Step up confidently, ignoring the pressure",
+          "score": "E"
+        },
+        {
+          "text": "Remember the exact spot you practice every day",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "If your teammate missed a sitter, what would you do?",
+      "options": [
+        {
+          "text": "Pat them on the back and say 'next time'",
+          "score": "F"
+        },
+        {
+          "text": "Analyze the technical flaw in their approach",
+          "score": "T"
+        },
+        {
+          "text": "Immediately organize the team to regroup",
+          "score": "J"
+        },
+        {
+          "text": "Shrug it off and keep playing fluidly",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "If you were named captain for the tournament, what would you do?",
+      "options": [
+        {
+          "text": "Lead from the front, motivating everyone loudly",
+          "score": "E"
+        },
+        {
+          "text": "Focus on team morale and emotional connection",
+          "score": "F"
+        },
+        {
+          "text": "Lead by example, speaking only when necessary",
+          "score": "I"
+        },
+        {
+          "text": "Review opponent stats to plan the best strategy",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "If you had to choose a pre-match ritual, what would you do?",
+      "options": [
+        {
+          "text": "Listen to the same playlist you've used for years",
+          "score": "S"
+        },
+        {
+          "text": "Stick to a strict routine: same meal, same warm-up",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, whatever feels right that day",
+          "score": "P"
+        },
+        {
+          "text": "Try a new visualization technique you read about",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "If your team was down 2-0 at halftime, what would you do?",
+      "options": [
+        {
+          "text": "Retreat to a corner and silently recalibrate",
+          "score": "I"
+        },
+        {
+          "text": "Point out specific defensive lapses to fix",
+          "score": "S"
+        },
+        {
+          "text": "Propose a bold formation change immediately",
+          "score": "J"
+        },
+        {
+          "text": "Give an impassioned speech to fire up the team",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "If you scored the winning goal, how would you celebrate?",
+      "options": [
+        {
+          "text": "Invent a brand new celebration on the spot",
+          "score": "N"
+        },
+        {
+          "text": "Run to the fans and hug your teammates",
+          "score": "F"
+        },
+        {
+          "text": "Calmly pick the ball out of the net, no fuss",
+          "score": "T"
+        },
+        {
+          "text": "Slide on your knees, then do a backflip",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "If you had to describe your playing style, what would you say?",
+      "options": [
+        {
+          "text": "I create chances others don't see",
+          "score": "E"
+        },
+        {
+          "text": "I adjust my role as the game unfolds",
+          "score": "J"
+        },
+        {
+          "text": "I always make the statistically optimal pass",
+          "score": "T"
+        },
+        {
+          "text": "I read the game two moves ahead",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "If a teammate made a mistake that cost a goal, what would you do?",
+      "options": [
+        {
+          "text": "Improvise a new defensive shape on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Focus on what you could have done to help",
+          "score": "S"
+        },
+        {
+          "text": "Tell them it's okay, we'll get it back",
+          "score": "F"
+        },
+        {
+          "text": "Pull them aside privately to discuss it later",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "If you were a coach for a day, what would you emphasize?",
+      "options": [
+        {
+          "text": "Data-driven tactics and set-piece analysis",
+          "score": "T"
+        },
+        {
+          "text": "Perfecting individual technique in quiet focus",
+          "score": "I"
+        },
+        {
+          "text": "Letting players express creativity freely",
+          "score": "P"
+        },
+        {
+          "text": "High-intensity drills and constant movement",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you had to pick a World Cup legend to learn from, who would it be?",
+      "options": [
+        {
+          "text": "Pele: timeless skill and natural flair",
+          "score": "S"
+        },
+        {
+          "text": "Zidane: calm under pressure, always in control",
+          "score": "J"
+        },
+        {
+          "text": "Messi: humble and team-first despite greatness",
+          "score": "F"
+        },
+        {
+          "text": "Maradona: genius that defies explanation",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "If you could choose any World Cup era to play in, which would it be?",
+      "options": [
+        {
+          "text": "The physical battles of 1990s Italy",
+          "score": "S"
+        },
+        {
+          "text": "The golden age of 1970s total football",
+          "score": "E"
+        },
+        {
+          "text": "The artistic beauty of 2002 Ronaldo",
+          "score": "F"
+        },
+        {
+          "text": "The tactical revolution of 2014 Germany",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you were watching a match with a friend, what would you focus on?",
+      "options": [
+        {
+          "text": "Analyzing player stats and historical data",
+          "score": "T"
+        },
+        {
+          "text": "Getting caught up in the emotional highs and lows",
+          "score": "P"
+        },
+        {
+          "text": "Debating what the manager should change",
+          "score": "N"
+        },
+        {
+          "text": "Silently observing tactical shifts",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Strategist General.",
+      "description": "You command the pitch like a general planning a campaign. Your mind works like a chess grandmaster, always three moves ahead. When the team needs a plan, you're the one drawing plays in the dirt. Like Pep Guardiola, you see patterns others miss and demand precision. Your leadership isn't loud, but it's absolute.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Creative Maverick.",
+      "description": "You see the game as a canvas. Your passes are unexpected, your dribbles defy logic. Like Ronaldinho, you smile when others stress, inventing tricks that leave defenders dizzy. You believe football is art first, sport second. Rules are just suggestions for new possibilities.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heart of the Team.",
+      "description": "You're the glue that holds the locker room together. Like Cafu, you lead with warmth and tireless energy. You remember every teammate's birthday and know when someone needs a pep talk. Your passion is contagious; you cry at anthems and hug after goals.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Joyful Dancer.",
+      "description": "You play with the freedom of a child in a schoolyard. Your game is pure joy — like Jay-Jay Okocha, you nutmeg opponents just for fun. You believe football should make people smile. Every touch is playful, every celebration a dance. You remind everyone why they fell in love with the game.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Reliable Pillar.",
+      "description": "You're the defender every team needs: never flashy, always dependable. Like Paolo Maldini, you make defending look effortless through discipline and positioning. You arrive early to training and stay late. Your teammates trust you to be where you're needed, every single time.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Showman.",
+      "description": "You thrive on the big stage. When the crowd roars, you come alive. Like Zlatan Ibrahimović, you attempt the audacious and pull it off. Your confidence is magnetic — you take risks others wouldn't dare. You're the one who scores a bicycle kick in a final.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Supportive Rock.",
+      "description": "You're the teammate who never complains, always covers the extra yard. Like Xabi Alonso, you're the calm distributor, connecting defense to attack. You remember every assist matters as much as a goal. Your quiet dedication makes the team function. You bring your own color to the story, every single time.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Electric Entertainer.",
+      "description": "You're the life of the party on the pitch. Like Neymar, you bring flair, tricks, and personality. You thrive in one-on-one situations, leaving defenders in the dust. Your smile is as bright as your skills. You play to entertain, and the fans love you for it.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Mastermind.",
+      "description": "You see the game like a grandmaster sees a chessboard. Like Andrea Pirlo, you dictate tempo from deep, spraying passes with surgical precision. You're always analyzing, always planning. Others panic; you stay ice-cold. Your vision is your weapon. No one else carries quite the same signature you do.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Tactical Philosopher.",
+      "description": "You deconstruct football like a scientist. Like Johan Cruyff, you understand the underlying principles that make systems work. You love debating formations, discussing inverted fullbacks, and theorizing about total football. For you, the game is a beautiful problem to solve.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Inspirer.",
+      "description": "You lead not with words but with presence. Like Franz Beckenbauer, you glide across the field with elegance, making the complex look simple. You sense when a teammate needs a wordless nod of encouragement. Your calmness is contagious; in chaos, you are the eye of the storm.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poetic Dreamer.",
+      "description": "You see football as poetry in motion. Like Roberto Baggio, your touches are delicate, your runs full of grace. You feel the game deeply — each win is ecstasy, each loss a heartbreak. You play with emotion, not calculation. Your artistry moves those who watch.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Disciplined Guardian.",
+      "description": "You are the last line of defense, literally. Like Gianluigi Buffon, you command your box with authority and consistency. You are a student of the game, studying opponents' penalties. Your teammates sleep easier knowing you're behind them. Tradition and duty guide you.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Silent Operator.",
+      "description": "You let your feet do the talking. Like Garrincha, you're unpredictable and naturally gifted. You don't overthink; you react. When the ball comes to you, instinct takes over. You're the quiet one who suddenly produces a moment of magic, then goes back to business.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Loyal Anchor.",
+      "description": "You're the one who stays at one club for life. Like Paolo Maldini (again, as an ISFJ), you embody loyalty. You take care of the young players, make sure everyone has water, and organize team dinners. Your love for the game is expressed through service.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Graceful Artist.",
+      "description": "You move like a dancer on the pitch. Like Eden Hazard, your close control is mesmerizing. You find beauty in simplicity — a perfect first touch, a disguised pass. You value aesthetics over statistics. Your game is a work of art, appreciated by connoisseurs.",
+      "mbti": "ISFP"
+    }
+  ]
+}
