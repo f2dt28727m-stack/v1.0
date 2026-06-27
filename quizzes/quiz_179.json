@@ -352,5 +352,10 @@
     "🧭"
   ],
   "likes": 39108,
-  "tests": 2607225
+  "tests": 2607225,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Travel"
+  },
+  "share_hook": "Ever wonder which traveler archetype you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation about your hidden adventurous side."
 }

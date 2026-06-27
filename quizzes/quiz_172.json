@@ -355,5 +355,6 @@
   "tests": 2397218,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be the brave Gryffindor, the cunning Slytherin, or a wildcard based on your True personality dimensions. Curious which one?"
 }

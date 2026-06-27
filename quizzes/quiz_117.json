@@ -355,5 +355,6 @@
   "tests": 2547037,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be a Builder, Explorer, Fighter, or Crafter based on True personality dimensions. Curious which one matches your Minecraft style?"
 }

@@ -352,5 +352,18 @@
     "✨"
   ],
   "likes": 69881,
-  "tests": 4658745
+  "tests": 4658745,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "NewJeans",
+    "members": {
+      "Minji": "ESTJ",
+      "Hanni": "INFP",
+      "Danielle": "ENFP",
+      "Haerin": "ISTP",
+      "Hyein": "INFP"
+    }
+  },
+  "share_hook": "Ever wonder which NewJeans-aligned future self you'll become? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

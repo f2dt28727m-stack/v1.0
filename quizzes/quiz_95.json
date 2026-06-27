@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 37779,
-  "tests": 2098838
+  "tests": 2098838,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFP",
+    "typing_alternate": "INFJ or ESFJ"
+  },
+  "share_hook": "Ever wonder which Taylor Swift-inspired soulmate you'd vibe with? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

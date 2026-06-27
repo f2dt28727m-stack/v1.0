@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 40447,
-  "tests": 2128839
+  "tests": 2128839,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFP",
+    "typing_alternate": "INFJ or ESFJ"
+  },
+  "share_hook": "Ever wonder which Taylor Swift era you'd actually belong to? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

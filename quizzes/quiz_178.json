@@ -352,5 +352,10 @@
     "🧭"
   ],
   "likes": 36081,
-  "tests": 2577224
+  "tests": 2577224,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Travel"
+  },
+  "share_hook": "Ever wonder which travel style you'd match? Most people guess wrong on the first try, and the result usually sparks a fun conversation about your next adventure."
 }

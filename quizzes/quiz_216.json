@@ -357,5 +357,10 @@
       "description": "Like Lisa's iconic bangs and Jennie's chic style, you have an innate sense of what's next. You're bold, experimental, and unafraid to stand out. Your energy is infectious, and you inspire others to step out of their comfort zones. You live for the thrill of trying something new and making it your own.",
       "mbti": "ENTP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "K-pop"
+  },
+  "share_hook": "Ever wonder which BLACKPINK vibe you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

@@ -354,5 +354,6 @@
   "tests": 327131,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be a Trailblazer, a Stellaron Hunter, or a Nameless based on True personality dimensions. Curious which one?"
 }

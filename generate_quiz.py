@@ -559,6 +559,7 @@ The JSON must have this exact structure (numbers may vary):
   "category": "{category}",
   "tags": ["tag1", "tag2", "tag3"],
   "description": "...",
+  "share_hook": "..." (20-40 words, "you" voice, no self-centered words),
   "questions": [
     {{"qId": 1, "text": "...", "options": [
       {{"text": "...", "score": "E"}},
@@ -574,6 +575,18 @@ The JSON must have this exact structure (numbers may vary):
   ]
 }}
 
+IX. SHARE HOOK
+- Output ONE short hook (1-2 sentences, 20-40 words) in the JSON's "share_hook" field.
+- Use "you" voice — about the RECEIVER, not the sharer. Create curiosity about what
+  THEY would get, not what the sharer already got.
+- Be specific to "{topic}" and "{type_en}" — never generic.
+- BANNED words (case-insensitive, any form): "I", "me", "my", "myself",
+  "I got", "I scored", "just finished", "just took", "my result".
+  Do NOT use any of these in the hook.
+- A good example: "This 3-min quiz matches you to a {topic} character based on
+  your personality. Most people guess wrong on which one fits them best."
+- A bad example: "I just got matched with Jennie. Try it!" (self-centered).
+
 REMINDER:
 - 12 questions × 4 options = 48 scores, each letter 6 times.
 - 16 results, each MBTI used exactly once.
@@ -585,6 +598,8 @@ REMINDER:
 - 16 result descriptions should use AT LEAST 5 different sentence-opening
   patterns (not all "You have..." or "Like [Member]...").
 - The 8 I-dominant results must each be distinct (not all "quiet observer").
+- share_hook must be 20-40 words, use "you" voice, and contain NO self-centered
+  words ("I", "me", "my", "just finished", "I got", "I scored").
 """
     return prompt
 
@@ -771,6 +786,15 @@ def postprocess_quiz(quiz: dict, _compliance_mode: str = "light") -> tuple[dict,
         if quiz["description"] != old:
             fixes.append("cleaned/normalized quiz.description")
 
+    # share_hook: same clean_text pipeline. Banned-word replacements
+    # (e.g. "Real" -> "True") will also run, which is fine — the hook
+    # is short and self-contained.
+    if "share_hook" in quiz and isinstance(quiz["share_hook"], str):
+        old = quiz["share_hook"]
+        quiz["share_hook"] = clean_text(old)
+        if quiz["share_hook"] != old:
+            fixes.append("cleaned/normalized share_hook")
+
     # Results: clean text AND strip disclaimer (the disclaimer fix is
     # separate so we can label it clearly in the fix log).
     for i, r in enumerate(quiz.get("results", [])):
@@ -840,7 +864,7 @@ def validate_quiz(quiz: dict, compliance_mode: str,
     """Validate a generated quiz. Returns (valid, error_msg, stats)."""
     # Required top-level keys
     for key in ("quizId", "title", "category", "tags", "description",
-                "questions", "results"):
+                "questions", "results", "share_hook"):
         if key not in quiz:
             return False, f"Missing key: {key}", {}
 
@@ -951,6 +975,21 @@ def validate_quiz(quiz: dict, compliance_mode: str,
     if bad_tags:
         return False, f"Tags contain trend/year words: {bad_tags}", {}
 
+    # Validate share_hook (must be 20-40 words, "you" voice, no self-centered words)
+    hook = quiz.get("share_hook", "")
+    if not isinstance(hook, str) or not hook.strip():
+        return False, "share_hook is empty", {}
+    hook_wc = len(hook.split())
+    if hook_wc < 20 or hook_wc > 40:
+        return False, f"share_hook has {hook_wc} words, need 20-40", {}
+    selfish_re = (r"(?i)\b(i|me|my|myself|just\s+(finished|took|got)|"
+                  r"i\s+(got|scored))\b")
+    selfish_hits = re.findall(selfish_re, hook)
+    if selfish_hits:
+        return False, (f"share_hook contains self-centered word(s) "
+                       f"{[h[0] if isinstance(h, tuple) else h for h in selfish_hits]!r}; "
+                       f"rewrite in 'you' voice"), {}
+
     stats = {
         "score_distribution": dict(dist),
         "mbti_coverage": sorted(mbtis),
@@ -967,6 +1006,242 @@ def shuffle_options(quiz: dict) -> None:
     for q in quiz["questions"]:
         opts = q["options"]
         random.shuffle(opts)
+
+
+# ============================================================
+# SEO H2 subject_meta injection
+# ------------------------------------------------------------
+# Renders the inner H2 block in api/index.py's
+# build_subject_section_html() (member/group/single-celebrity MBTI
+# or character-list variants). This function is the single point of
+# truth: it decides which H2 variant a new quiz gets based on the
+# topic, and writes subject_meta onto the quiz dict right before
+# the JSON is persisted. Idempotent: a pre-existing subject_meta
+# is never overwritten.
+# ============================================================
+# Real-person / group MBTI typings (used as the "widely typed as
+# X" / "{group} Members' MBTI Types" H2). Keyed by tags[0] (the
+# canonical topic name). Migrated from inject_subject_meta.py.
+CELEBRITY_TYPINGS = {
+    "SZA":             {"pronoun": "she", "typing_primary": "ENFP", "typing_alternate": "INFP or INFJ"},
+    "Olivia Rodrigo":  {"pronoun": "she", "typing_primary": "ESFJ", "typing_alternate": "INFP or ISFP"},
+    "Sabrina Carpenter":{"pronoun": "she", "typing_primary": "ENFJ", "typing_alternate": "ESFP or INFP"},
+    "Taylor Swift":    {"pronoun": "she", "typing_primary": "ENFP", "typing_alternate": "INFJ or ESFJ"},
+    "Ice Spice":       {"pronoun": "she", "typing_primary": "ISFP", "typing_alternate": "ESTP"},
+    "Dua Lipa":        {"pronoun": "she", "typing_primary": "ENFJ", "typing_alternate": "ESFP or ESTP"},
+    "Billie Eilish":   {"pronoun": "she", "typing_primary": "ISFP", "typing_alternate": "INFP"},
+    "Lana Del Rey":    {"pronoun": "she", "typing_primary": "INFP", "typing_alternate": "ISFP or INFJ"},
+    "NewJeans": {
+        "pronoun": "they", "is_group": True, "group_name": "NewJeans",
+        "members": {
+            "Minji":    "ESTJ",
+            "Hanni":    "INFP",
+            "Danielle": "ENFP",
+            "Haerin":   "ISTP",
+            "Hyein":    "INFP",
+        },
+    },
+    "BLACKPINK": {
+        "pronoun": "they", "is_group": True, "group_name": "BLACKPINK",
+        "members": {
+            "Jisoo": "ISTP",
+            "Jennie": "INFJ",  # INFP also cited
+            "Rosé":  "ENFP",
+            "Lisa":  "ISFP",
+        },
+    },
+}
+
+# Franchise / character-list tags. A quiz whose first tag (or whose
+# topic) matches this set gets subject_meta = {"is_character_list":
+# True}, which renders the "{topic} Characters' MBTI Types" H2 with
+# every result row. Migrated from enable_franchise_character_list.py.
+FRANCHISE_TAGS = {
+    "Fortnite", "Roblox", "Minecraft", "Brawl Stars",
+    "Genshin Impact", "Honkai: Star Rail", "Valorant",
+    "Wednesday", "Yellowjackets", "Stranger Things",
+    "Harry Potter", "Disney", "Marvel", "Stardew Valley",
+    "League of Legends", "LOL", "Bluey", "Euphoria", "World Cup",
+}
+
+
+def inject_subject_meta(quiz: dict, topic: str) -> tuple[dict, str]:
+    """Auto-attach subject_meta so the SEO H2 section renders.
+
+    Returns (quiz, action_label) for logging. Idempotent: if the
+    quiz already has a subject_meta field, leave it alone so manual
+    edits / re-runs never clobber curated data.
+
+    Decision order:
+      1. topic (case-insensitive) in CELEBRITY_TYPINGS -> full meta
+         (single celebrity or member group)
+      2. topic OR quiz.tags[0] in FRANCHISE_TAGS -> character list
+      3. otherwise -> GENERIC FALLBACK: inject is_generic meta using
+         tags[0] (or title) as the subject. This guarantees the SEO
+         H2 always renders — the renderer picks a generic template
+         when it sees is_generic=True. The H2 still surfaces the
+         topic name for search; it just doesn't claim curated data
+         we don't have. Idempotent: re-runs are no-ops.
+
+    Rationale (was a bug): the old behaviour was to silently skip
+    meta and log a reminder, leaving quizzes without an SEO H2. The
+    generic fallback closes that gap so the system NEVER gives up
+    on rendering a subject section. Users who want richer curated
+    data (single-MBTI, member list, character list) can still opt
+    in via --register-celebrity / --register-group or by adding to
+    FRANCHISE_TAGS; that data is layered on top of the generic meta
+    by setting subject_meta explicitly (the function is idempotent).
+    """
+    if "subject_meta" in quiz and quiz["subject_meta"]:
+        return quiz, "skipped (already set)"
+
+    norm = (topic or "").strip()
+    # 1) Real celebrity / group lookup (case-insensitive). Table is
+    #    built-in defaults merged with data/celebrity_typings.json
+    #    sidecar (sidecar wins on key collision), so newly registered
+    #    celebrities/groups work without a code edit.
+    table = load_celebrity_typings()
+    for key, meta in table.items():
+        if norm and norm.lower() == key.lower():
+            # dict() shallow-copies so re-runs don't share references
+            quiz["subject_meta"] = {k: (dict(v) if isinstance(v, dict) else v)
+                                    for k, v in meta.items()}
+            return quiz, f"celebrity/group meta applied ({key})"
+
+    # 2) Franchise / character list (check topic first, then tags[0])
+    first_tag = (quiz.get("tags") or [None])[0]
+    candidate = norm or (first_tag or "")
+    for fr in FRANCHISE_TAGS:
+        if candidate and candidate.lower() == fr.lower():
+            quiz["subject_meta"] = {"is_character_list": True}
+            return quiz, f"character_list meta applied ({fr})"
+
+    # 3) Generic fallback — always inject, never give up. Use
+    #    tags[0] as the canonical subject so the H2 still surfaces
+    #    the topic. If tags are missing too, fall back to the quiz
+    #    title (last resort — still better than no H2 at all).
+    generic_subject = (first_tag or "").strip() or (quiz.get("title") or "").strip()
+    if not generic_subject:
+        # Truly nothing to work with. Skip; renderer will return ''.
+        return quiz, "no SEO meta (no tags and no title to anchor on)"
+    quiz["subject_meta"] = {"is_generic": True, "topic": generic_subject}
+    return quiz, f"generic fallback meta applied (topic={generic_subject!r})"
+
+
+# ============================================================
+# Celebrity typing registry (sidecar JSON + CLI helpers)
+# ------------------------------------------------------------
+# CELEBRITY_TYPINGS above holds the *curated default* (8 entries
+# reviewed by hand). New entries added via --register-celebrity /
+# --register-group live in data/celebrity_typings.json (this file
+# is gitignored-friendly: diffable JSON, no code edit). At lookup
+# time the sidecar is merged on top of the default, so sidecar
+# entries win on key collision (lets you override a default without
+# touching the script).
+# ============================================================
+CELEBRITY_TYPINGS_SIDECAR = DATA_DIR / "celebrity_typings.json"
+
+
+def load_celebrity_typings() -> dict:
+    """Return the merged typing table (defaults + sidecar overrides)."""
+    merged = {k: v for k, v in CELEBRITY_TYPINGS.items()}
+    if CELEBRITY_TYPINGS_SIDECAR.exists():
+        try:
+            with open(CELEBRITY_TYPINGS_SIDECAR, encoding="utf-8") as f:
+                side = json.load(f)
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"  [warn] could not read {CELEBRITY_TYPINGS_SIDECAR}: {e}")
+            return merged
+        if isinstance(side, dict):
+            merged.update(side)
+    return merged
+
+
+def _read_sidecar() -> dict:
+    if not CELEBRITY_TYPINGS_SIDECAR.exists():
+        return {}
+    with open(CELEBRITY_TYPINGS_SIDECAR, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _write_sidecar(data: dict) -> None:
+    CELEBRITY_TYPINGS_SIDECAR.parent.mkdir(parents=True, exist_ok=True)
+    with open(CELEBRITY_TYPINGS_SIDECAR, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def register_celebrity(topic: str, pronoun: str,
+                       typing_primary: str,
+                       typing_alternate: str = "") -> str:
+    """Append a single-celebrity entry to the sidecar. Returns status."""
+    topic = topic.strip()
+    if not topic:
+        return "ERROR: --register-celebrity requires a non-empty TOPIC"
+    if pronoun not in ("she", "he", "they"):
+        return f"ERROR: --pronoun must be one of she/he/they (got {pronoun!r})"
+    primary = typing_primary.strip().upper()
+    if primary not in MBTI_TYPES:
+        return f"ERROR: --typing-primary must be a valid MBTI (got {typing_primary!r})"
+    alternate = typing_alternate.strip()
+    if alternate:
+        for part in [p.strip().upper() for p in alternate.split(" or ")]:
+            if part not in MBTI_TYPES:
+                return (f"ERROR: alternate MBTI {part!r} (in "
+                        f"{typing_alternate!r}) is not a valid MBTI type")
+
+    merged = load_celebrity_typings()
+    if topic in merged:
+        return f"SKIP: {topic!r} already in registry (remove from sidecar to override)"
+
+    side = _read_sidecar()
+    side[topic] = {
+        "pronoun": pronoun,
+        "typing_primary": primary,
+        "typing_alternate": alternate,
+    }
+    _write_sidecar(side)
+    return f"OK: registered {topic!r} -> {primary}" + (f" / alt: {alternate}" if alternate else "")
+
+
+def register_group(topic: str, pronoun: str,
+                   members_json: str) -> str:
+    """Append a member-group entry to the sidecar.
+
+    members_json: a JSON object string like
+        '{"Member A": "MBTI1", "Member B": "MBTI2"}'
+    """
+    topic = topic.strip()
+    if not topic:
+        return "ERROR: --register-group requires a non-empty TOPIC"
+    if pronoun not in ("she", "he", "they"):
+        return f"ERROR: --pronoun must be one of she/he/they (got {pronoun!r})"
+
+    try:
+        members = json.loads(members_json)
+    except json.JSONDecodeError as e:
+        return f"ERROR: --members-json is not valid JSON: {e}"
+    if not isinstance(members, dict) or not members:
+        return "ERROR: --members-json must be a non-empty object"
+    for name, mbti in members.items():
+        if not isinstance(name, str) or not name.strip():
+            return f"ERROR: invalid member name {name!r}"
+        if not isinstance(mbti, str) or mbti.strip().upper() not in MBTI_TYPES:
+            return f"ERROR: member {name!r} has invalid MBTI {mbti!r}"
+
+    merged = load_celebrity_typings()
+    if topic in merged:
+        return f"SKIP: {topic!r} already in registry (remove from sidecar to override)"
+
+    side = _read_sidecar()
+    side[topic] = {
+        "pronoun": pronoun,
+        "is_group": True,
+        "group_name": topic,
+        "members": {n: m.strip().upper() for n, m in members.items()},
+    }
+    _write_sidecar(side)
+    return f"OK: registered group {topic!r} with {len(members)} members"
 
 
 # ============================================================
@@ -1009,6 +1284,16 @@ def process_one_category(topic: str, category: str,
     if dry_run:
         quiz = make_sample_quiz(topic, category, quiz_id_int)
         result["retry_count"] = 0
+        # Pre-populate stats so the post-LLM pipeline (tag add,
+        # score_distribution print, etc.) doesn't KeyError. The
+        # sample is deterministic: SAMPLE_QUESTION_LETTERS gives
+        # 6 of each MBTI letter, and make_sample_quiz covers all
+        # 16 MBTI types.
+        result["stats"] = {
+            "score_distribution": {L: 6 for L in MBTI_LETTERS},
+            "mbti_coverage": list(MBTI_TYPES),
+            "new_tags": [],
+        }
     else:
         prompt = build_prompt(topic, category, compliance_mode, existing_tags)
         print(f"  [{idx+1}/{len(next_ids)}] {category:10s} → generating...")
@@ -1096,6 +1381,20 @@ def process_one_category(topic: str, category: str,
                                 "Each of the 16 MBTI types (ENTJ, ENTP, ..., ISFP) must "
                                 "appear EXACTLY once across the 16 results.\n"
                             )
+                        elif "share_hook" in err:
+                            if "self-centered" in err:
+                                feedback += (
+                                    "share_hook MUST be written in 'you' voice about the "
+                                    "RECEIVER, not the sharer. BANNED words: 'I', 'me', 'my', "
+                                    "'myself', 'I got', 'I scored', 'just finished', 'just took', "
+                                    "'my result'. Rewrite the hook so the subject is the person "
+                                    "who will receive the share, not the person doing the sharing.\n"
+                                )
+                            else:
+                                feedback += (
+                                    "share_hook must be 20-40 words (count them). Use 'you' voice "
+                                    "and no self-centered words. See section IX in the prompt.\n"
+                                )
                         wait = 2 ** attempt
                         print(f"    [retry {attempt+1}] validation: {err[:60]}... "
                               f"sleep {wait}s")
@@ -1131,6 +1430,10 @@ def process_one_category(topic: str, category: str,
         if add_tag_if_missing(tag_lib, new_tag):
             log_new_tag(conn, -1, new_tag)
             print(f"    + new tag: {new_tag}")
+
+    # 3.5) Auto-attach SEO H2 subject_meta (idempotent)
+    quiz, seo_action = inject_subject_meta(quiz, topic)
+    print(f"    [seo-h2] {seo_action}")
 
     # 4) Write file
     file_path = write_quiz_file(QUIZZES_DIR, quiz_id_int, quiz)
@@ -1181,6 +1484,11 @@ def make_sample_quiz(topic: str, category: str, quiz_id: int) -> dict:
         "description": (f"Answer 12 questions to discover your {topic}-inspired "
                         f"{category}! This is a fan quiz for entertainment "
                         f"purposes only."),
+        # 20-40 words, "you" voice, no self-centered words.
+        "share_hook": (f"Curious which {topic} character matches your personality? "
+                       f"Most people guess wrong on the first try, and the "
+                       f"results tend to spark some pretty fun conversations "
+                       f"with friends."),
         "questions": questions,
         "results": results,
     }
@@ -1189,11 +1497,287 @@ def make_sample_quiz(topic: str, category: str, quiz_id: int) -> dict:
 # ============================================================
 # CLI
 # ============================================================
+# ============================================================
+# share_hook backfill (one-shot for legacy quizzes)
+# ============================================================
+SHARE_HOOK_SELFISH_RE = (
+    r"(?i)\b(i|me|my|myself|just\s+(finished|took|got)|"
+    r"i\s+(got|scored))\b"
+)
+
+
+def _validate_share_hook(hook: str) -> tuple[bool, str]:
+    """Standalone share_hook validator. Used by the backfill path where we
+    only have a hook string, not a full quiz. Returns (valid, error_msg).
+    Mirrors the 3 conditions in validate_quiz's share_hook block:
+    non-empty, 20-40 words, no self-centered words.
+    """
+    if not isinstance(hook, str) or not hook.strip():
+        return False, "empty"
+    wc = len(hook.split())
+    if wc < 20 or wc > 40:
+        return False, f"{wc} words (need 20-40)"
+    if re.search(SHARE_HOOK_SELFISH_RE, hook):
+        return False, "self-centered"
+    return True, ""
+
+
+BACKFILL_HOOK_PROMPT = """You are writing a short "share hook" sentence for a personality quiz result.
+
+Quiz context:
+- Title: {title}
+- Topic: {topic}
+- Category: {category}
+- Type of quiz: a {category} quiz about {topic}
+
+Write ONE short hook (1-2 sentences, 20-40 words) that:
+- Uses "you" voice — about the RECEIVER of the share, not the sharer
+- Creates curiosity about what THE READER would get
+- Is specific to this topic and category, never generic
+- For real-person topics, prefer "vibe / era / archetype / energy" over "character"
+  (the word "character" implies a fictional IP, which misleads readers)
+- BANNED words (case-insensitive, any form): "I", "me", "my", "myself",
+  "I got", "I scored", "just finished", "just took", "my result"
+  Do NOT use any of these in the hook.
+
+DIVERSITY (important for batched regeneration):
+When multiple hooks are generated in a row for the same IP, the LLM tends
+to converge on the same opening structure ("This 3-min quiz matches you
+to..."). To break that pattern, pick ONE of these 5 opening patterns and
+build the hook around it. Don't default to #1 unless the topic truly fits
+no other pattern:
+  1. "This 3-min quiz matches you to a {topic} X based on your personality..."
+     (works for any quiz with a clear match element)
+  2. "Ever wonder which {topic} X you'd be? Most people guess wrong on the
+     first try, and the result usually sparks a fun conversation."
+     (curiosity + social proof; works for match/which/hidden)
+  3. "There's a quick quiz that says you might be X, Y, or Z based on real
+     personality dimensions. Curious which one?"
+     (observation + uncertainty; works for type/which)
+  4. "Most people score the same result on this {topic} quiz, but about
+     one in five ends up in a totally different bucket."
+     (challenge + surprise; works for match/type)
+  5. "{topic} fans keep talking about this quiz, and the result usually
+     matches them in a way they didn't expect."
+     (social proof + curiosity; works for any category)
+
+Pick the pattern that fits the category best. If running as a batch,
+rotate through the patterns (1, 3, 5, 2, 4, 1, 3, 5, ...) so consecutive
+hooks don't share an opening structure.
+
+Output ONLY a single valid JSON object, no markdown, no commentary:
+{{"share_hook": "..."}}
+"""
+
+
+def retrofit_seo_meta(quizzes_dir: str = str(QUIZZES_DIR),
+                      dry_run: bool = False,
+                      only: str = "") -> dict:
+    """Walk quizzes_dir and apply inject_subject_meta() to any quiz
+    that doesn't have a subject_meta field. No LLM calls — runs the
+    same 3-tier decision the main pipeline uses, locally.
+
+    Use case: legacy quizzes generated before the generic-fallback
+    patch were saved without subject_meta. Re-running this over the
+    whole directory fills the gap with generic meta (Tier B) so the
+    SEO H2 renders for every quiz, not just curated ones.
+
+    Idempotent: quizzes that already have a subject_meta (curated
+    data) are skipped — never clobber. With --only, only files
+    whose name contains the substring are processed (for testing).
+
+    Returns {"total", "scanned", "skipped", "fixed", "failed", "dry_run"}.
+    """
+    p = Path(quizzes_dir)
+    json_files = sorted(p.glob("*.json"))
+    if only:
+        json_files = [f for f in json_files if only in f.name]
+
+    skipped = 0
+    targets = []
+    for path in json_files:
+        try:
+            quiz = json.loads(path.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"  [READ-ERR] {path.name}: {e}")
+            continue
+        if quiz.get("subject_meta"):
+            skipped += 1
+            continue
+        targets.append((path, quiz))
+
+    print(f"\n=== SEO meta retrofit ===")
+    print(f"  total quizzes scanned : {len(json_files)}")
+    print(f"  already have meta     : {skipped}")
+    print(f"  need retrofit         : {len(targets)}")
+
+    if dry_run:
+        for path, _ in targets[:20]:
+            first_tag = None
+            try:
+                q = json.loads(path.read_text(encoding="utf-8"))
+                first_tag = (q.get("tags") or [None])[0]
+            except Exception:
+                pass
+            print(f"    - {path.name}: tags[0]={first_tag!r}")
+        if len(targets) > 20:
+            print(f"    ... and {len(targets) - 20} more")
+        print(f"  (dry run — no writes)")
+        return {"total": len(json_files), "scanned": len(json_files),
+                "skipped": skipped, "fixed": 0, "failed": 0,
+                "dry_run": True}
+
+    fixed = 0
+    failed = 0
+    for i, (path, quiz) in enumerate(targets, 1):
+        # Try to derive topic from quiz fields. Use first tag, or fall
+        # back to the first word of the title. The LLM is gone now —
+        # we're doing local retrofits on data we already have.
+        tags = quiz.get("tags") or []
+        first_tag = (tags[0] if tags else "").strip()
+        topic = first_tag or (quiz.get("title") or "").split(":")[0].strip()
+        try:
+            quiz, label = inject_subject_meta(quiz, topic)
+            path.write_text(json.dumps(quiz, ensure_ascii=False, indent=2),
+                            encoding="utf-8")
+            print(f"    [{i}/{len(targets)}] {path.name}: {label}")
+            fixed += 1
+        except Exception as e:
+            print(f"    [{i}/{len(targets)}] {path.name}: FAIL ({e})")
+            failed += 1
+
+    print(f"\n  retrofit done: fixed={fixed} failed={failed} skipped={skipped}")
+    return {"total": len(json_files), "scanned": len(json_files),
+            "skipped": skipped, "fixed": fixed, "failed": failed,
+            "dry_run": False}
+
+
+def backfill_share_hooks(quizzes_dir: str = str(QUIZZES_DIR),
+                         dry_run: bool = False,
+                         base_url: str = None,
+                         api_key: str = None,
+                         model: str = None,
+                         only: str = "",
+                         force: bool = False) -> dict:
+    """Walk quizzes_dir and add a valid share_hook to any quiz that
+    doesn't have one (or has an invalid one). One LLM call per quiz,
+    reuses the standard retry+validation pipeline.
+
+    `only` is an optional filename substring filter; if set, only files
+    whose name contains the substring are processed. Useful for testing
+    on a single quiz.
+
+    `force=True` regenerates share_hooks for ALL matching files, even
+    ones that already have a valid hook. Used when the prompt has been
+    updated (e.g. diversity constraint added) and you want to refresh
+    existing hooks. Idempotent in the sense that the new hook is
+    validated before write, so a force pass never produces a worse hook
+    than the existing one.
+
+    Returns {"total", "skipped", "fixed", "failed", "dry_run"}.
+    """
+    p = Path(quizzes_dir)
+    json_files = sorted(p.glob("*.json"))
+    if only:
+        json_files = [f for f in json_files if only in f.name]
+
+    # First pass: classify
+    targets = []  # list of (path, quiz, reason)
+    skipped = 0
+    for path in json_files:
+        try:
+            quiz = json.loads(path.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"  [READ-ERR] {path.name}: {e}")
+            continue
+        existing = (quiz.get("share_hook") or "").strip()
+        ok, reason = _validate_share_hook(existing) if existing else (False, "missing")
+        if ok and not force:
+            skipped += 1
+            continue
+        reason = "force-regenerate" if force and ok else reason
+        targets.append((path, quiz, reason))
+
+    print(f"\n=== share_hook backfill ===")
+    print(f"  total quizzes scanned : {len(json_files)}")
+    print(f"  already valid (skip)  : {skipped}")
+    print(f"  need backfill         : {len(targets)}"
+          + (" (force=True)" if force and skipped == 0 else ""))
+    if dry_run:
+        for path, _, reason in targets[:20]:
+            print(f"    - {path.name}: {reason}")
+        if len(targets) > 20:
+            print(f"    ... and {len(targets) - 20} more")
+        print(f"  (dry run — no LLM calls, no writes)")
+        return {"total": len(json_files), "scanned": len(json_files),
+                "skipped": skipped, "fixed": 0, "failed": 0,
+                "dry_run": True}
+
+    if not targets:
+        return {"total": len(json_files), "scanned": len(json_files),
+                "skipped": skipped, "fixed": 0, "failed": 0,
+                "dry_run": False}
+
+    fixed = 0
+    failed = 0
+    for i, (path, quiz, reason) in enumerate(targets, 1):
+        topic = quiz.get("title", "this topic")
+        category = quiz.get("category", "general")
+        # Use first part of title as a friendlier "topic" for the prompt
+        topic_short = topic.split(":")[0].split("|")[0].strip()
+        prompt = BACKFILL_HOOK_PROMPT.format(
+            title=topic, topic=topic_short, category=category)
+
+        new_hook = None
+        for attempt in range(3):
+            try:
+                content, _, _ = call_llm(prompt, max_retries=1,
+                                         base_url=base_url, api_key=api_key,
+                                         model=model)
+                parsed = parse_llm_json(content)
+                hook = (parsed.get("share_hook") or "").strip()
+                # Run the same clean pipeline postprocess_quiz uses
+                # for the share_hook field.
+                quiz_tmp = {"share_hook": hook}
+                postprocess_quiz(quiz_tmp)
+                hook = quiz_tmp["share_hook"]
+                ok, verr = _validate_share_hook(hook)
+                if not ok:
+                    raise ValueError(f"validation: {verr}")
+                new_hook = hook
+                break
+            except Exception as e:
+                wait = 2 ** attempt
+                print(f"    [{i}/{len(targets)}] {path.name}: "
+                      f"attempt {attempt+1}/3 failed: {e}; sleep {wait}s")
+                time.sleep(wait)
+
+        if not new_hook:
+            print(f"    [{i}/{len(targets)}] {path.name}: GIVING UP "
+                  f"(was: {reason})")
+            failed += 1
+            continue
+
+        quiz["share_hook"] = new_hook
+        path.write_text(json.dumps(quiz, ensure_ascii=False, indent=2),
+                        encoding="utf-8")
+        print(f"    [{i}/{len(targets)}] {path.name}: OK — "
+              f"{new_hook[:60]}{'...' if len(new_hook) > 60 else ''}")
+        fixed += 1
+
+    print(f"\n  backfill done: fixed={fixed} failed={failed} skipped={skipped}")
+    return {"total": len(json_files), "scanned": len(json_files),
+            "skipped": skipped, "fixed": fixed, "failed": failed,
+            "dry_run": False}
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="AIGC quiz generator for QuizFig")
-    parser.add_argument("--topic", required=True,
-                        help="Topic/IP, e.g. 'BLACKPINK'")
+    parser.add_argument("--topic",
+                        help="Topic/IP, e.g. 'BLACKPINK' (required for generation)")
+
+    # Generation flags
     parser.add_argument("--compliance", default="light",
                         choices=["light", "medium", "strict"],
                         help="Compliance mode (default: light)")
@@ -1204,7 +1788,107 @@ def main():
     parser.add_argument("--base-url", default=None)
     parser.add_argument("--api-key", default=None)
     parser.add_argument("--model", default=None)
+
+    # Celebrity-typing registry subcommands. When any of these is
+    # set, the script writes to data/celebrity_typings.json and
+    # exits — no LLM call, no quiz generation.
+    parser.add_argument("--register-celebrity", metavar="TOPIC",
+                        help="Register a single-celebrity MBTI typing "
+                             "and exit. Pair with --pronoun, "
+                             "--typing-primary, optional --typing-alternate.")
+    parser.add_argument("--register-group", metavar="TOPIC",
+                        help="Register a member-group MBTI typing and "
+                             "exit. Pair with --pronoun and --members-json.")
+    parser.add_argument("--pronoun", choices=["she", "he", "they"],
+                        help="Pronoun for --register-* (required when "
+                             "registering)")
+    parser.add_argument("--typing-primary", metavar="MBTI",
+                        help="Primary MBTI for --register-celebrity")
+    parser.add_argument("--typing-alternate", default="", metavar="MBTI",
+                        help="Alternate MBTI(s) for --register-celebrity, "
+                             "joined with ' or ' (e.g. 'INFP or INFJ')")
+    parser.add_argument("--members-json", metavar="JSON",
+                        help='JSON object of member->MBTI for '
+                             '--register-group, e.g. \'{"A":"ENTJ","B":"INFP"}\'')
+
+    # Backfill: re-generate share_hook for legacy quizzes. Mutually
+    # exclusive with the other modes; runs the backfill function and
+    # exits. --backfill-dry-run previews scope without making LLM calls.
+    parser.add_argument("--backfill-share-hooks", action="store_true",
+                        help="Generate a share_hook for every quiz that "
+                             "doesn't have a valid one. One LLM call per quiz.")
+    parser.add_argument("--backfill-dry-run", action="store_true",
+                        help="With --backfill-share-hooks, only report what "
+                             "would be backfilled (no LLM calls, no writes).")
+    parser.add_argument("--backfill-only", default="", metavar="SUBSTR",
+                        help="With --backfill-share-hooks, only process files "
+                             "whose name contains SUBSTR. Useful for testing.")
+    parser.add_argument("--backfill-force", action="store_true",
+                        help="With --backfill-share-hooks, regenerate hooks for "
+                             "ALL matching files (don't skip valid ones). Use "
+                             "after a prompt update to refresh existing hooks.")
+
+    # Retrofit: fill in generic subject_meta for legacy quizzes that
+    # were generated before the Tier B fallback existed. No LLM calls.
+    parser.add_argument("--retrofit-seo-meta", action="store_true",
+                        help="Apply inject_subject_meta() locally to any quiz "
+                             "missing subject_meta. Closes the SEO-H2-silent-"
+                             "failure gap. Idempotent: existing meta is kept.")
+    parser.add_argument("--retrofit-dry-run", action="store_true",
+                        help="With --retrofit-seo-meta, only report what "
+                             "would be processed (no writes).")
+    parser.add_argument("--retrofit-only", default="", metavar="SUBSTR",
+                        help="With --retrofit-seo-meta, only process files "
+                             "whose name contains SUBSTR. Useful for testing.")
+
     args = parser.parse_args()
+
+    # ---- Celebrity-typing registry subcommands ----
+    if args.register_celebrity or args.register_group:
+        if args.register_celebrity and args.register_group:
+            parser.error("--register-celebrity and --register-group are "
+                         "mutually exclusive")
+        if args.register_celebrity:
+            if not args.pronoun or not args.typing_primary:
+                parser.error("--register-celebrity requires --pronoun and "
+                             "--typing-primary")
+            msg = register_celebrity(
+                args.register_celebrity, args.pronoun,
+                args.typing_primary, args.typing_alternate)
+        else:
+            if not args.pronoun or not args.members_json:
+                parser.error("--register-group requires --pronoun and "
+                             "--members-json")
+            msg = register_group(
+                args.register_group, args.pronoun, args.members_json)
+        print(msg)
+        if msg.startswith("OK:"):
+            print(f"  sidecar: {CELEBRITY_TYPINGS_SIDECAR}")
+        raise SystemExit(0 if msg.startswith(("OK:", "SKIP:")) else 1)
+
+    # ---- share_hook backfill ----
+    if args.backfill_share_hooks:
+        result = backfill_share_hooks(
+            dry_run=args.backfill_dry_run,
+            base_url=args.base_url, api_key=args.api_key, model=args.model,
+            only=args.backfill_only,
+            force=args.backfill_force,
+        )
+        raise SystemExit(0 if (result["failed"] == 0 and not result["dry_run"]) or result["dry_run"] else 1)
+
+    # ---- subject_meta retrofit ----
+    if args.retrofit_seo_meta:
+        result = retrofit_seo_meta(
+            dry_run=args.retrofit_dry_run,
+            only=args.retrofit_only,
+        )
+        raise SystemExit(0 if result["failed"] == 0 else 1)
+
+    # ---- Quiz generation (topic now required) ----
+    if not args.topic:
+        parser.error("--topic is required for quiz generation "
+                     "(or use --register-celebrity / --register-group / "
+                     "--backfill-share-hooks)")
 
     # Categories
     if args.only:

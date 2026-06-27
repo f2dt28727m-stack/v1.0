@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 34539,
-  "tests": 2158716
+  "tests": 2158716,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFJ",
+    "typing_alternate": "ESFP or INFP"
+  },
+  "share_hook": "Ever wonder which Sabrina Carpenter-inspired scenario you'd actually live out? Most people guess wrong, and the result might surprise you."
 }

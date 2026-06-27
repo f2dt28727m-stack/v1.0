@@ -355,5 +355,6 @@
   "tests": 2577162,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be a gothic romantic, dark academia scholar, or whimsical macabre based on your personality. Curious which one fits you best?"
 }

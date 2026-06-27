@@ -352,5 +352,10 @@
     "🎯"
   ],
   "likes": 41236,
-  "tests": 2577286
+  "tests": 2577286,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Career"
+  },
+  "share_hook": "Most people score the same result on this future career quiz, but about one in five ends up in a totally unexpected field. Curious which path awaits you?"
 }

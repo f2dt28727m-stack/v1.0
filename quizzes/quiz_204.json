@@ -352,5 +352,10 @@
     "💌"
   ],
   "likes": 4311,
-  "tests": 307964
+  "tests": 307964,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Love Language"
+  },
+  "share_hook": "Ever wonder which hidden love language trait you'd have? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

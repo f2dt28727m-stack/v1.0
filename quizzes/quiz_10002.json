@@ -1,0 +1,366 @@
+{
+  "quizId": 10002,
+  "title": "What's your Chappell Roan personality type?",
+  "category": "type",
+  "tags": [
+    "Chappell Roan",
+    "Music",
+    "MBTI",
+    "Personality",
+    "Pop"
+  ],
+  "description": "Answer 12 questions to discover your Chappell Roan-inspired personality type! This is a fan quiz for entertainment purposes only.",
+  "share_hook": "Ever wonder which Chappell Roan vibe you'd radiate? Most people guess wrong on the first try, and the result usually sparks a fun conversation.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "In your daily life, when you're at a concert, you tend to...",
+      "options": [
+        {
+          "text": "Dance and sing along with the crowd",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the technical aspects like sound and lights",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the story behind each song",
+          "score": "N"
+        },
+        {
+          "text": "Observe the performance quietly from a spot",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When discussing music with friends, you usually...",
+      "options": [
+        {
+          "text": "Analyze the song structure and production",
+          "score": "T"
+        },
+        {
+          "text": "Share how the lyrics make you feel",
+          "score": "F"
+        },
+        {
+          "text": "Plan which songs to put in a playlist",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow and see what comes up",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "At a fan sign event, you tend to...",
+      "options": [
+        {
+          "text": "Wait patiently and enjoy the moment alone",
+          "score": "I"
+        },
+        {
+          "text": "Express how much the music means to you",
+          "score": "F"
+        },
+        {
+          "text": "Ask about the creative process behind the album",
+          "score": "T"
+        },
+        {
+          "text": "Chat with other fans and make new friends",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When listening to a new album, you prefer to...",
+      "options": [
+        {
+          "text": "Interpret the overall theme and message",
+          "score": "N"
+        },
+        {
+          "text": "Notice the specific instruments and beats",
+          "score": "S"
+        },
+        {
+          "text": "Decide which songs are your favorites quickly",
+          "score": "J"
+        },
+        {
+          "text": "Let the album play through without skipping",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "During a dance practice session, you are more likely to...",
+      "options": [
+        {
+          "text": "Lead the group and energize everyone",
+          "score": "E"
+        },
+        {
+          "text": "Plan the practice schedule in advance",
+          "score": "J"
+        },
+        {
+          "text": "Perfect your own moves in a corner",
+          "score": "I"
+        },
+        {
+          "text": "Focus on getting the steps exactly right",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When creating a fan theory, you tend to...",
+      "options": [
+        {
+          "text": "Connect dots between different songs and videos",
+          "score": "N"
+        },
+        {
+          "text": "Focus on the emotional journey of the artist",
+          "score": "F"
+        },
+        {
+          "text": "Enjoy the mystery without needing answers",
+          "score": "P"
+        },
+        {
+          "text": "Look for evidence in the lyrics and interviews",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "At a music video shoot, you would likely...",
+      "options": [
+        {
+          "text": "Imagine different interpretations of the scene",
+          "score": "N"
+        },
+        {
+          "text": "Pay attention to the director's instructions",
+          "score": "T"
+        },
+        {
+          "text": "Interact with the crew and other extras",
+          "score": "E"
+        },
+        {
+          "text": "Help keep the schedule on track",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When analyzing song lyrics, you prefer to...",
+      "options": [
+        {
+          "text": "Explore different possible meanings",
+          "score": "P"
+        },
+        {
+          "text": "Highlight specific lines that stand out",
+          "score": "S"
+        },
+        {
+          "text": "Read them alone to form your own interpretation",
+          "score": "I"
+        },
+        {
+          "text": "Relate them to your own experiences",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "In a discussion about concert outfits, you...",
+      "options": [
+        {
+          "text": "Enthusiastically share your favorite looks",
+          "score": "E"
+        },
+        {
+          "text": "Analyze the practicality of the outfits",
+          "score": "T"
+        },
+        {
+          "text": "Prefer to listen and observe others' opinions",
+          "score": "I"
+        },
+        {
+          "text": "Suggest mixing and matching styles spontaneously",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When exploring a new era's aesthetic, you...",
+      "options": [
+        {
+          "text": "Notice the colors and textures used",
+          "score": "S"
+        },
+        {
+          "text": "Think about the story the aesthetic tells",
+          "score": "N"
+        },
+        {
+          "text": "Organize your favorite elements into a mood board",
+          "score": "J"
+        },
+        {
+          "text": "Feel a personal connection to the vibe",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "During a fan meet-and-greet, you are more likely to...",
+      "options": [
+        {
+          "text": "Share how their music impacted your life",
+          "score": "F"
+        },
+        {
+          "text": "Plan what you'll say beforehand",
+          "score": "J"
+        },
+        {
+          "text": "Compliment the artist's specific outfit details",
+          "score": "S"
+        },
+        {
+          "text": "Engage in lively conversation",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When listening to a song on repeat, you...",
+      "options": [
+        {
+          "text": "Let the song take you where it wants",
+          "score": "P"
+        },
+        {
+          "text": "Enjoy the solitude of your own listening space",
+          "score": "I"
+        },
+        {
+          "text": "Imagine different scenarios the song could fit",
+          "score": "N"
+        },
+        {
+          "text": "Dissect the production and songwriting",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Pink Pony Club Diva.",
+      "description": "You light up the stage with a magnetic energy, much like the anthem 'Pink Pony Club' captures a bold, unapologetic spirit. Your confidence draws people in, and you thrive on expressing yourself freely. The 'Naked in Manhattan' vibe resonates with your fearless approach to life. You're a natural leader who inspires others to embrace their true selves.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Femininomenon Theorist.",
+      "description": "Your mind races with ideas, always connecting dots between songs and eras. Like the clever wordplay in 'Femininomenon', you deconstruct concepts and find hidden meanings. You enjoy debating interpretations of 'My Kink is Karma' and love when a theory clicks into place. Your curiosity is endless, and you thrive on intellectual play.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Kaleidoscope Heart.",
+      "description": "Much like the emotional depth of 'Kaleidoscope', you feel everything deeply and seek harmony in connections. You're the friend who remembers the lyrics that hit hardest and offers comfort. Your empathy mirrors the vulnerability in 'Casual', and you inspire others to open up. You believe in the power of shared feeling.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Super Graphic Ultra Modern Girl.",
+      "description": "You radiate vibrant creativity, always exploring new aesthetics and ideas. Like the playful energy of 'Super Graphic Ultra Modern Girl', you mix styles fearlessly and inspire those around you. Your enthusiasm is contagious, and you see life as a canvas. The 'Pink Pony Club' spirit runs through your veins.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The After Midnight Organizer.",
+      "description": "You excel at turning chaos into order, much like the meticulous planning behind a tour. Your reliability is your superpower, and you take pride in executing details flawlessly. The discipline in 'After Midnight' mirrors your work ethic. People count on you to get things done, and you never let them down.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Naked in Manhattan Adventurer.",
+      "description": "Bold and spontaneous, you live for the thrill of the moment. Like the daring lyrics in 'Naked in Manhattan', you're not afraid to take risks and explore new experiences. Your charisma draws people in, and you know how to have a good time. Life is an adventure, and you're always ready for the next ride.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Casual Heart.",
+      "description": "You value deep connections and take care of those around you. Like the tender moments in 'Casual', you prioritize relationships and create a warm, welcoming atmosphere. Your attention to detail makes others feel special, and you're the glue that holds your circle together. You find joy in nurturing others.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Pink Pony Club Performer.",
+      "description": "You're the life of the party, always ready to entertain and be entertained. Like the vibrant energy of 'Pink Pony Club', you love being in the spotlight and making people smile. Your spontaneity and charm make you unforgettable. You live for moments of joy and connection, and you bring others along for the ride.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The My Kink is Karma Strategist.",
+      "description": "You see the big picture and plan several moves ahead. Like the calculated revenge in 'My Kink is Karma', you understand cause and effect deeply. Your strategic mind excels at long-term goals, and you rarely show your hand. Quiet but formidable, you let your actions speak louder than words.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Femininomenon Analyst.",
+      "description": "You love pulling apart ideas to see how they work. The clever layers in 'Femininomenon' fascinate you, and you enjoy discussing abstract concepts. Your curiosity is insatiable, and you often dive into rabbit holes about song meanings or production techniques. You value knowledge for its own sake.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Kaleidoscope Dreamer.",
+      "description": "Your inner world is rich with emotion and idealism. Like the poetic imagery in 'Kaleidoscope', you see beauty in complexity and yearn for deeper meaning. You're highly intuitive about others' feelings, often sensing what's unspoken. Your quiet empathy makes you a trusted confidant, and you inspire through gentle understanding.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Casual Romantic.",
+      "description": "You feel things intensely and express yourself through art and words. The bittersweet longing in 'Casual' resonates with your romantic soul. You're guided by your values and seek true-to-you in all you do. Your creativity flows from deep emotions, and you cherish the beauty in everyday moments.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The After Midnight Anchor.",
+      "description": "You are the reliable backbone of any group, always showing up and following through. Like the steady rhythm in 'After Midnight', you bring stability and order. Your loyalty is unwavering, and you take pride in your responsibilities. People trust you to keep things running smoothly, and you never disappoint.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Super Graphic Ultra Modern Mechanic.",
+      "description": "You're a hands-on problem solver who learns by doing. Like the DIY ethos of 'Super Graphic Ultra Modern Girl', you tinker and build with your own hands. You're practical and resourceful, always finding a way to fix things. Your calm under pressure and ability to adapt make you invaluable in a crisis.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Pink Pony Club Caretaker.",
+      "description": "You nurture others with quiet dedication, remembering the little things that matter. Like the supportive community in 'Pink Pony Club', you create a safe space for everyone. Your thoughtfulness shows in every gesture, and you're always there to lend a hand. Your kindness is your strength, and others feel your warmth.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Naked in Manhattan Artist.",
+      "description": "You express yourself through aesthetics and sensory experiences. The bold, unfiltered vibe of 'Naked in Manhattan' reflects your artistic soul. You're drawn to beauty in all forms, whether fashion, music, or visual art. Your gentle but fierce spirit inspires others to embrace their own creativity.",
+      "mbti": "ISFP"
+    }
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Chappell Roan"
+  }
+}

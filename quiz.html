@@ -506,7 +506,11 @@ async function loadQuizData() {
             }))
         }));
         
-        quizData = { title: data.title, quizId: data.quiz_id, token: token };
+        quizData = { title: data.title, quizId: data.quiz_id, token: token,
+                     description: data.description || '',
+                     category: data.category || 'general',
+                     tags: data.tags || [],
+                     share_hook: data.share_hook || '' };
         
         // Inject SEO/dynamic meta for this quiz
         document.title = data.title + ' | QuizFig';
@@ -668,8 +672,60 @@ try {
 }
 }
 function shareR(){
-const t='I got '+document.querySelector('.result-name').textContent+'! Take quiz: '+window.location.href;
-navigator.share?navigator.share({title:'My Result',text:t}):navigator.clipboard.writeText(t)&&alert('Link copied!');
+    // 1) 拿 quiz factory 生成的 share_hook（每个 quiz IP-specific 的钩子句）
+    const hook = (quizData.share_hook || '').trim();
+    // 兜底：老 quiz 没 share_hook 字段时用一个 generic 钩子
+    const finalHook = hook ||
+        "Curious what personality type you'd get? Most people guess wrong on the first try.";
+    const url = window.location.href;
+
+    // 2) 三个模板，按 quizData.category 做简单 hash 选一个固定模板
+    //    (同 quiz 连点不会跳文案；不同 quiz 会用不同模板)
+    const tplIdx = simpleHash(quizData.category || 'default') % SHARE_TEMPLATES.length;
+    const text = SHARE_TEMPLATES[tplIdx](finalHook, url);
+
+    // 3) 埋点：onClick 就打，fire-and-forget，不影响分享流程
+    //    keepalive 确保用户分享后页面关闭也能把数据送出去
+    if (navigator.sendBeacon) {
+        try {
+            navigator.sendBeacon('/api/share',
+                new Blob([JSON.stringify({ quiz_id: quizData.quizId })],
+                         { type: 'application/json' }));
+        } catch (e) { /* ignore */ }
+    } else {
+        fetch('/api/share', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ quiz_id: quizData.quizId }),
+            keepalive: true,
+        }).catch(() => {});
+    }
+
+    // 4) 调分享 API（mobile → Web Share；desktop → clipboard 兜底）
+    if (navigator.share) {
+        navigator.share({ title: 'My Quiz Result', text: text }).catch(() => {
+            navigator.clipboard.writeText(text);
+            alert('Link copied!');
+        });
+    } else {
+        navigator.clipboard.writeText(text);
+        alert('Link copied!');
+    }
+}
+
+// 模板库：全部"利他 + 低承诺"。每个 (hook, url) => string。
+// 三个角度：好奇钩子 + 低承诺 / 信息差 / 朋友挑战
+const SHARE_TEMPLATES = [
+    (h, url) => `${h}\n\n3-min, free, no sign-up. Curious what you'd get 👉\n${url}`,
+    (h, url) => `Took this quiz and got a result I didn't expect — ${h}\n\n${url}`,
+    (h, url) => `Most of my friends got the same result. Wonder which one you'd match 👉\n${url}`,
+];
+
+// 简单 string hash，输出非负 int。用来把 category 映射到 SHARE_TEMPLATES 索引。
+function simpleHash(s){
+    let h = 0;
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+    return Math.abs(h);
 }
 
 // Initialize

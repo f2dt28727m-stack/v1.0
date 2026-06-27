@@ -355,5 +355,6 @@
   "tests": 2457096,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "Ever wonder which Brawl Stars brawler you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

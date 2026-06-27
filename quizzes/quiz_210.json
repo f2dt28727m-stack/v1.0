@@ -357,5 +357,10 @@
       "description": "Your hidden trait is a natural grace in handling people, like the diplomacy of a 'How You Like That' peacemaker. You navigate conflicts with ease, finding common ground where others see division. You're the one who mediates between members, smooths over misunderstandings, and ensures everyone feels heard. Your composure mirrors the elegance of 'Flower'—poised even under pressure. You build harmony without force, using empathy and tact. Your secret is your ability to unite, creating a team that works as one.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "MBTI"
+  },
+  "share_hook": "There's a quick quiz that says you might be the charismatic leader, the fierce dancer, or the soulful vocalist based on your True personality. Curious which one?"
 }

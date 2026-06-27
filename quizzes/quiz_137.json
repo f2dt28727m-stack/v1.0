@@ -355,5 +355,6 @@
   "tests": 2547099,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "Which Genshin Impact character type matches your personality? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

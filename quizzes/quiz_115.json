@@ -355,5 +355,6 @@
   "tests": 312035,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be a Creeper, an Enderman, or a Villager based on True personality dimensions. Curious which one?"
 }

@@ -352,5 +352,18 @@
     "✨"
   ],
   "likes": 49046,
-  "tests": 4458741
+  "tests": 4458741,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "NewJeans",
+    "members": {
+      "Minji": "ESTJ",
+      "Hanni": "INFP",
+      "Danielle": "ENFP",
+      "Haerin": "ISTP",
+      "Hyein": "INFP"
+    }
+  },
+  "share_hook": "Ever wonder which NewJeans vibe matches your personality? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

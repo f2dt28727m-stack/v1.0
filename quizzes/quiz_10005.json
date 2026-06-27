@@ -1,0 +1,365 @@
+{
+  "quizId": 10005,
+  "title": "What Would You Do in the Chappell Roan World?",
+  "category": "whatwould",
+  "tags": [
+    "Music",
+    "Personality",
+    "Pop",
+    "Fandom"
+  ],
+  "description": "Answer 12 questions to discover your Chappell Roan-inspired What Would You Do archetype! This is a fan quiz for entertainment purposes only.",
+  "share_hook": "There's a quick quiz that says you might channel the drama of a Pink Pony Club diva, the whimsy of a Femininomenon, or the edge of a Good Luck, Babe! rebel. Curious which one?",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "If you faced a chaotic backstage moment before a show, what would you do?",
+      "options": [
+        {
+          "text": "Find a quiet corner to mentally prepare alone",
+          "score": "I"
+        },
+        {
+          "text": "Check the equipment and ensure everything is in order",
+          "score": "S"
+        },
+        {
+          "text": "Gather everyone and delegate tasks with high energy",
+          "score": "E"
+        },
+        {
+          "text": "Visualize the performance and imagine new stage moves",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "If you were designing a music video concept, what would you focus on?",
+      "options": [
+        {
+          "text": "The emotional impact and connection with the audience",
+          "score": "F"
+        },
+        {
+          "text": "The logical sequence and narrative structure",
+          "score": "T"
+        },
+        {
+          "text": "Leaving room for spontaneous improvisation on set",
+          "score": "P"
+        },
+        {
+          "text": "Sticking to the original storyboard timeline",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "If you were rehearsing a new dance routine, how would you approach it?",
+      "options": [
+        {
+          "text": "Lead the group and practice in a lively session",
+          "score": "E"
+        },
+        {
+          "text": "Break down the steps logically and focus on technique",
+          "score": "T"
+        },
+        {
+          "text": "Feel the music and let emotion guide your movements",
+          "score": "F"
+        },
+        {
+          "text": "Practice alone to perfect each move quietly",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "If you were attending a fan sign event, how would you interact?",
+      "options": [
+        {
+          "text": "Go with the flow and adapt to the room's energy",
+          "score": "P"
+        },
+        {
+          "text": "Follow the event schedule and stay organized",
+          "score": "J"
+        },
+        {
+          "text": "Notice the small details about each fan's outfit or sign",
+          "score": "S"
+        },
+        {
+          "text": "Imagine the stories behind each fan's life and dreams",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "If you were planning a themed concert outfit, what would you prioritize?",
+      "options": [
+        {
+          "text": "A cohesive look that fits the era's aesthetic perfectly",
+          "score": "J"
+        },
+        {
+          "text": "Bold, eye-catching designs that stand out on stage",
+          "score": "E"
+        },
+        {
+          "text": "A unique style that reflects your personal taste",
+          "score": "I"
+        },
+        {
+          "text": "Comfortable, practical fabrics that allow movement",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "If you were writing song lyrics, what would inspire you?",
+      "options": [
+        {
+          "text": "Structured verses and a clear message",
+          "score": "T"
+        },
+        {
+          "text": "Open-ended phrases that leave room for interpretation",
+          "score": "P"
+        },
+        {
+          "text": "Abstract concepts and imaginative worlds",
+          "score": "N"
+        },
+        {
+          "text": "Personal experiences and raw emotions",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "If you were leading a group discussion about album themes, what would you do?",
+      "options": [
+        {
+          "text": "Create a structured agenda and keep the discussion on track",
+          "score": "J"
+        },
+        {
+          "text": "Energize the room and encourage everyone to share ideas",
+          "score": "E"
+        },
+        {
+          "text": "Analyze the pros and cons of each suggestion logically",
+          "score": "T"
+        },
+        {
+          "text": "Propose innovative concepts and future possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "If you were handling a technical issue during a live stream, how would you react?",
+      "options": [
+        {
+          "text": "Calmly troubleshoot the problem step by step alone",
+          "score": "I"
+        },
+        {
+          "text": "Improvise a creative solution on the fly",
+          "score": "P"
+        },
+        {
+          "text": "Check the physical cables and equipment for faults",
+          "score": "S"
+        },
+        {
+          "text": "Reassure the audience with heartfelt words while fixing it",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "If you were promoting a new single on social media, what would you do?",
+      "options": [
+        {
+          "text": "Analyze engagement metrics and optimize posting times",
+          "score": "T"
+        },
+        {
+          "text": "Experiment with different content formats spontaneously",
+          "score": "P"
+        },
+        {
+          "text": "Post interactive stories and go live to engage fans",
+          "score": "E"
+        },
+        {
+          "text": "Craft thoughtful captions and respond to DMs personally",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "If you were decorating your tour bus, what would you include?",
+      "options": [
+        {
+          "text": "Vision boards and posters of dream destinations",
+          "score": "N"
+        },
+        {
+          "text": "Sensory items like cozy blankets and fairy lights",
+          "score": "S"
+        },
+        {
+          "text": "A neat, organized layout with designated spaces",
+          "score": "J"
+        },
+        {
+          "text": "Personal photos and mementos from fans",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "If you were meeting a fan who was nervous, what would you do?",
+      "options": [
+        {
+          "text": "Politely guide them through the scheduled photo op",
+          "score": "J"
+        },
+        {
+          "text": "Share a personal story to make them feel comfortable",
+          "score": "F"
+        },
+        {
+          "text": "Give them a big hug and start a lively conversation",
+          "score": "E"
+        },
+        {
+          "text": "Notice their favorite merchandise and compliment it",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "If you were asked to create a surprise performance, how would you prepare?",
+      "options": [
+        {
+          "text": "Brainstorm a unique concept that tells a story",
+          "score": "N"
+        },
+        {
+          "text": "Rehearse quietly alone to perfect every detail",
+          "score": "I"
+        },
+        {
+          "text": "Focus on flawless execution and technical precision",
+          "score": "T"
+        },
+        {
+          "text": "Keep the plan flexible and adapt to the audience's vibe",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Dramatic Showstopper.",
+      "description": "You light up the stage with unapologetic confidence, channeling the fierce energy of Chappell Roan's 'Pink Pony Club' era. Whether you're belting out a ballad or commanding a room, you thrive on being the center of attention. Your style is bold, your presence undeniable, and you're not afraid to take risks. Like Chappell's glittery eye shadow and cowboy boots, you blend glamour with grit. You're the one who makes every moment a performance.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Visionary Dreamer.",
+      "description": "Imagination is your superpower. You see the world through the lens of Chappell Roan's 'California' dreams — wide-eyed, hopeful, and full of possibility. You're always brainstorming the next big idea, from music video concepts to stage designs. Your mind wanders to fantastical places, and you inspire others to think bigger. Like Chappell's whimsical lyrics, you turn everyday life into a storybook.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Heartfelt Connector.",
+      "description": "Empathy flows through you like a Chappell Roan ballad. You connect deeply with others, remembering the little things that matter. When a fan shares a story, you listen with your whole heart. Your warmth creates a safe space, much like the intimate vibe of her 'School Nights' era. You're the one who makes people feel seen and loved, leaving a trail of genuine connections wherever you go.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Bold Innovator.",
+      "description": "Rules are meant to be broken, and you're the one breaking them. Your style is eclectic, your ideas are fresh, and you're always experimenting. Chappell Roan's 'Femininomenon' spirit lives in you — unapologetically weird and wonderfully unique. You thrive on provocation and surprise, turning the ordinary into something extraordinary. You're not following trends; you're setting them.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Dependable Anchor.",
+      "description": "You're the rock everyone relies on, backstage and beyond. Like Chappell's grounded moments between performances, you keep things running smoothly. Your attention to detail ensures every event is flawless, from sound checks to meet-and-greets. You value tradition and loyalty, and you're always there to lend a hand. In a world of chaos, you're the steady heartbeat.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Spark.",
+      "description": "You live in the moment, embracing every thrill like a surprise encore. Your energy is contagious, and you love to get the crowd moving. Chappell's 'Love Me Anyway' playfulness is your anthem — you're always up for a dance-off or a laugh. You bring joy and excitement wherever you go, turning ordinary days into adventures. Life's too short to plan every step.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Gracious Host.",
+      "description": "You make everyone feel welcome, whether it's a fan meet or a backstage hang. Your warmth is genuine, and you remember names, favorite songs, and inside jokes. Like Chappell's inclusive 'Casual' vibe, you create a sense of belonging. You're the one who brings the group together, making sure no one feels left out. Your kindness is your superpower.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Vibrant Performer.",
+      "description": "The stage is your playground, and you shine brightest under the lights. You're all about sensory thrills — glitter, confetti, and high-energy choreography. Chappell's 'My Kink Is Karma' boldness resonates with you; you're not afraid to be loud, proud, and unapologetically extra. You live for the adrenaline of a live show and the roar of the crowd.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Mastermind.",
+      "description": "You think ten moves ahead, crafting long-term plans with precision. Like a director behind the scenes, you orchestrate success with quiet determination. Chappell's rise from small venues to big stages mirrors your own strategic climb. You analyze every detail, from marketing to setlists, ensuring nothing is left to chance. Your vision is clear, and you execute flawlessly.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Theorist.",
+      "description": "Ideas are your currency. You love diving deep into song meanings, fan theories, and the 'why' behind art. Chappell's cryptic lyrics and evolving persona fascinate you. You spend hours analyzing patterns, connecting dots, and imagining alternate universes. Your mind is a library of concepts, and you're always hungry to learn more. You question everything, and that's your strength.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Empath.",
+      "description": "You feel deeply, often sensing what others need before they say it. In a crowded room, you notice the one person who's struggling. Your intuition is sharp, like Chappell's ability to convey raw emotion in her songs. You're the confidant, the listener, the one who offers a shoulder. Your quiet presence is a healing force.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poetic Soul.",
+      "description": "Your inner world is rich with emotion and beauty. You find magic in the mundane — a sunset, a lyric, a stranger's smile. Chappell's 'Naked in Manhattan' vulnerability speaks to your soul. You express yourself through art, journaling, or simply feeling. Your sensitivity is your gift, allowing you to create and connect in ways others can't.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Reliable Backbone.",
+      "description": "Duty calls, and you answer. You're the one who shows up early, stays late, and gets the job done. Your discipline mirrors the work ethic behind every Chappell Roan tour — countless rehearsals, endless dedication. You value tradition and consistency, and you never let your team down. Your loyalty is unwavering, and your actions speak louder than words.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Fixer.",
+      "description": "When something breaks, you're the first to grab a tool. You're practical, resourceful, and action-oriented. Whether it's a faulty amp or a wardrobe malfunction, you solve problems with calm efficiency. Like a roadie who keeps the show going, you thrive on hands-on challenges. You don't overthink; you just do.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Protector.",
+      "description": "You care for others like a guardian angel. You remember birthdays, bring snacks to rehearsals, and offer a warm hug after a tough show. Your nurturing spirit echoes Chappell's 'Kinda Gay' inclusivity — you make space for everyone. Your attention to detail in caring for others is unmatched. You're the heart of the group, always putting others first.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Gentle Artist.",
+      "description": "You see the world as a canvas. Your aesthetic is subtle but powerful, like the soft glow of fairy lights at a Chappell concert. You express yourself through fashion, decor, or movement. You're in tune with your senses, finding joy in textures, colors, and sounds. Your gentle spirit creates beauty wherever you go, inspiring others to pause and appreciate.",
+      "mbti": "ISFP"
+    }
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Music"
+  }
+}

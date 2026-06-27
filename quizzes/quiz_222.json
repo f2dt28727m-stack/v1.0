@@ -357,5 +357,10 @@
       "description": "Your mind is a kaleidoscope of ideas, always spinning new concepts for songs, videos, or performances. You're inspired by the innovation of 'Pink Venom' and the creativity of the entire BLACKPINK discography. In 10 years, you might be a director, a producer, or a multimedia artist. You see connections others miss, and you're not afraid to take risks to bring your visions to life. The future is your canvas.",
       "mbti": "ENTP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "K-pop"
+  },
+  "share_hook": "Ever wonder which BLACKPINK future vibe you'd match? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

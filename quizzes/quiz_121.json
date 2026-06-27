@@ -355,5 +355,6 @@
   "tests": 2367062,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "Ever wonder which Fortnite character matches your vibe? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

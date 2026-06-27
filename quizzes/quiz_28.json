@@ -436,5 +436,10 @@
     "💌"
   ],
   "likes": 4460,
-  "tests": 318624
+  "tests": 318624,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Romance"
+  },
+  "share_hook": "There's a quick quiz that says you might be a secret romantic, a hopeless romantic, or a practical romantic based on True personality dimensions. Curious which one?"
 }

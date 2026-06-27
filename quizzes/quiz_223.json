@@ -357,5 +357,10 @@
       "description": "You see the game as a canvas. The movement of players, the colors of the kits, the geometry of a free kick—it's all beautiful. Your style is effortless, your taste impeccable. You appreciate the artistry in a Cruyff turn as much as a goal. Your soulmate is a player with flair and grace, who plays with elegance and inspires you to see the world through a lens of beauty.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "MBTI"
+  },
+  "share_hook": "There's a quick quiz that says you might be a fiery Argentina, a tactical Germany, or an unpredictable Brazil based on your personality. Curious which one?"
 }

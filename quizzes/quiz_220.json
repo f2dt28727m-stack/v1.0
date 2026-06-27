@@ -357,5 +357,10 @@
       "description": "You have an artistic soul that finds beauty in every moment. Your aesthetic mirrors the dreamy visuals of 'Ice Cream'—playful yet profound. You express yourself through style, music, and creativity. Your gentle strength inspires those around you. It's the kind of presence that quietly turns heads.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "K-pop"
+  },
+  "share_hook": "Ever wonder which BLACKPINK world scenario you'd actually live out? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

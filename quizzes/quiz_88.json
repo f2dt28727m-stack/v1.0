@@ -355,5 +355,6 @@
   "tests": 2188810,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "Ever wonder which League of Legends champion you'd be based on your personality? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

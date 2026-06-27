@@ -352,5 +352,10 @@
     "🧭"
   ],
   "likes": 42610,
-  "tests": 2367248
+  "tests": 2367248,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Travel"
+  },
+  "share_hook": "Most people score the same result on this What Would You Do quiz, but about one in five ends up in a totally different bucket."
 }

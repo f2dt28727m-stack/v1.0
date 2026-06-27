@@ -352,5 +352,11 @@
     "🎤"
   ],
   "likes": 22425,
-  "tests": 2038681
+  "tests": 2038681,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ESFJ",
+    "typing_alternate": "INFP or ISFP"
+  },
+  "share_hook": "Ever wonder which future creative life path you'd vibe with? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

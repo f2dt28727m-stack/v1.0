@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 26626,
-  "tests": 2218842
+  "tests": 2218842,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFP",
+    "typing_alternate": "INFJ or ESFJ"
+  },
+  "share_hook": "Ever wonder which Taylor Swift era matches your hidden personality? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

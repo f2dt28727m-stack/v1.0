@@ -352,5 +352,17 @@
     "✨"
   ],
   "likes": 24871,
-  "tests": 2487190
+  "tests": 2487190,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Most people match with Jennie's chic confidence, but about one in five ends up with Lisa's fearless energy. Curious which BLACKPINK vibe fits you?"
 }

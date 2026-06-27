@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 26893,
-  "tests": 2068713
+  "tests": 2068713,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFJ",
+    "typing_alternate": "ESFP or INFP"
+  },
+  "share_hook": "Ever wonder which Sabrina Carpenter-aligned energy you'd radiate? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

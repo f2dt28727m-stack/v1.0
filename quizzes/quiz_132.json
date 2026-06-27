@@ -355,5 +355,6 @@
   "tests": 2397094,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be a sneaky assassin, a fearless tank, or a strategic support based on your hidden traits. Curious which one fits you?"
 }

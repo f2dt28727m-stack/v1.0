@@ -352,5 +352,10 @@
     "💫"
   ],
   "likes": 23670,
-  "tests": 2367000
+  "tests": 2367000,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Wilderkind"
+  },
+  "share_hook": "Ever wonder which Wilderkind personality archetype you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

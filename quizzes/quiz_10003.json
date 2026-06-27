@@ -1,0 +1,366 @@
+{
+  "quizId": 10003,
+  "title": "How Chappell Roan are you, really?",
+  "category": "how",
+  "tags": [
+    "Music",
+    "Personality",
+    "Chappell Roan",
+    "Pop",
+    "Aesthetic Personality"
+  ],
+  "description": "Answer 12 questions to discover your Chappell Roan-inspired personality! This is a fan quiz for entertainment purposes only.",
+  "share_hook": "Most people match a classic Chappell Roan vibe, but about one in five ends up with a completely unexpected archetype. Curious which one you'd get?",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "How often do you find yourself singing along to Chappell's songs during a concert, even when you're not sure of all the lyrics?",
+      "options": [
+        {
+          "text": "I imagine the story behind the lyrics and create my own meaning",
+          "score": "N"
+        },
+        {
+          "text": "Sometimes, I quietly mouth along",
+          "score": "I"
+        },
+        {
+          "text": "Always, I belt every word with full confidence",
+          "score": "E"
+        },
+        {
+          "text": "I listen carefully, focusing on the melody and beat",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "How often do you analyze the deeper meaning behind Chappell's lyrics, like in 'Pink Pony Club'?",
+      "options": [
+        {
+          "text": "I feel the emotion and connect it to my own experiences",
+          "score": "F"
+        },
+        {
+          "text": "I just enjoy the vibe and let the meaning wash over me",
+          "score": "P"
+        },
+        {
+          "text": "I break down the structure and wordplay",
+          "score": "T"
+        },
+        {
+          "text": "I read fan theories and compare them to interviews",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "How often do you engage with other fans online after a new Chappell Roan release?",
+      "options": [
+        {
+          "text": "I read others' opinions but rarely comment",
+          "score": "I"
+        },
+        {
+          "text": "I fact-check the lyrics and production credits",
+          "score": "T"
+        },
+        {
+          "text": "I immediately post my reactions and start discussions",
+          "score": "E"
+        },
+        {
+          "text": "I share how the song made me feel and ask for similar recommendations",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "How often do you recreate Chappell's iconic looks, like her glittery eye makeup or cowboy hats?",
+      "options": [
+        {
+          "text": "I use her style as inspiration but add my own twist",
+          "score": "N"
+        },
+        {
+          "text": "I throw on something at the last minute that feels right",
+          "score": "P"
+        },
+        {
+          "text": "I plan my outfit days in advance for a themed event",
+          "score": "J"
+        },
+        {
+          "text": "I follow tutorials to get every detail right",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "How often do you introduce new people to Chappell Roan's music?",
+      "options": [
+        {
+          "text": "I make playlists and share them with everyone I meet",
+          "score": "E"
+        },
+        {
+          "text": "I only share with close friends who might appreciate it",
+          "score": "I"
+        },
+        {
+          "text": "I plan a listening party to introduce them at the right moment",
+          "score": "J"
+        },
+        {
+          "text": "I explain her discography era by era, with key songs",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "How often do you speculate about Chappell's future musical direction or next era?",
+      "options": [
+        {
+          "text": "I create detailed theories based on hints from her posts",
+          "score": "N"
+        },
+        {
+          "text": "I analyze her career moves like a business strategy",
+          "score": "T"
+        },
+        {
+          "text": "I just wait and see what comes—I'm open to surprises",
+          "score": "P"
+        },
+        {
+          "text": "I hope she continues to write songs that make me feel seen",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "How often do you defend Chappell Roan against negative comments online?",
+      "options": [
+        {
+          "text": "I report the comments and move on without engaging",
+          "score": "J"
+        },
+        {
+          "text": "I jump into debates and rally other fans",
+          "score": "E"
+        },
+        {
+          "text": "I point out the facts and data about her success",
+          "score": "T"
+        },
+        {
+          "text": "I craft a well-reasoned argument about her artistry",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "How often do you rewatch old Chappell Roan performances, like from her early 'The Rise and Fall' era?",
+      "options": [
+        {
+          "text": "I skip around, watching only my favorite parts",
+          "score": "P"
+        },
+        {
+          "text": "I watch alone and take notes on her stage presence",
+          "score": "I"
+        },
+        {
+          "text": "I rewatch to relive the emotional highs I felt",
+          "score": "F"
+        },
+        {
+          "text": "I focus on the choreography and set design details",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "How often do you create fan content for Chappell Roan, like edits or fan art?",
+      "options": [
+        {
+          "text": "I start many projects but finish only a few",
+          "score": "P"
+        },
+        {
+          "text": "I share my creations on multiple platforms and engage with feedback",
+          "score": "E"
+        },
+        {
+          "text": "I make things for myself but rarely post",
+          "score": "I"
+        },
+        {
+          "text": "I focus on technical perfection, like timing edits to the beat",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "How often do you attend Chappell Roan's concerts or live events?",
+      "options": [
+        {
+          "text": "I go to every show within driving distance and record key moments",
+          "score": "S"
+        },
+        {
+          "text": "I imagine the concert experience and create a story around it",
+          "score": "N"
+        },
+        {
+          "text": "I plan my attendance months in advance, ensuring VIP packages",
+          "score": "J"
+        },
+        {
+          "text": "I go mainly to connect with the community and share the experience",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "How often do you incorporate Chappell Roan's fashion into your daily style?",
+      "options": [
+        {
+          "text": "I coordinate my outfits to match the vibe of each season or era",
+          "score": "J"
+        },
+        {
+          "text": "I wear something inspired by her every day, even if subtle",
+          "score": "E"
+        },
+        {
+          "text": "I wear her style to feel confident and express my personality",
+          "score": "F"
+        },
+        {
+          "text": "I pick one signature piece, like a cowboy hat or glitter, and make it mine",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "How often do you dive into Chappell Roan's interviews to understand her creative process?",
+      "options": [
+        {
+          "text": "I analyze her production choices and songwriting techniques",
+          "score": "T"
+        },
+        {
+          "text": "I connect her stories to broader artistic movements",
+          "score": "N"
+        },
+        {
+          "text": "I listen to her interviews while doing other things, multitasking",
+          "score": "P"
+        },
+        {
+          "text": "I read or watch them alone, taking mental notes",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Phenomenal Showstopper.",
+      "description": "You own the stage like Chappell in her 'Pink Pony Club' era—unapologetically bold and magnetic. When the lights hit, you transform into a force that commands every eye. Your confidence isn't loud; it's a quiet storm that fills the room. You live for the thrill of a live crowd, feeding off their energy and giving it back tenfold. Much like Chappell's glitter-drenched performances, you blend vulnerability with power. People remember you long after the show ends because you leave a piece of yourself on that stage.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Visionary Dreamer.",
+      "description": "Your mind is a kaleidoscope of ideas, much like the whimsical worlds Chappell paints in 'California' and 'Love Me Anyway.' You see possibilities where others see limits, and you're always sketching the next big concept. In discussions about her music, you're the one who connects the dots between her lyrics and broader cultural narratives. You inspire others to think bigger, even if your visions sometimes feel too grand for the moment. Your creativity is your superpower, and you wield it with playful genius.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Heartfelt Connector.",
+      "description": "You feel Chappell's songs deep in your bones, especially the aching honesty of 'I Don't Want It' and the euphoria of 'Pink Pony Club.' Your empathy is your compass, guiding you to create spaces where others feel safe to be themselves. At a concert, you're the one making eye contact with strangers, sharing a knowing smile during a vulnerable lyric. You believe music is a bridge between souls, and you walk that bridge every day. Your warmth is a quiet revolution that heals as much as it inspires.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Joyful Spark.",
+      "description": "You radiate the infectious energy of a Chappell Roan dance break—pure, uncontainable joy. Whether you're belting 'School Nights' at karaoke or twirling in a glittery dress, you live in the moment and invite everyone to join. Your enthusiasm is contagious, turning ordinary days into mini celebrations. You don't overthink; you feel and act. Like Chappell's most carefree performances, you remind people that life is meant to be a party. Your laugh is the chorus everyone wants to hear.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Dedicated Fan Archivist.",
+      "description": "You approach fandom like a historian, cataloging every detail of Chappell's journey from 'The Rise and Fall of a Midwest Princess' to now. You know the setlists, the B-sides, the interview quotes by heart. Your loyalty manifests in action: organizing listening parties, curating playlists, and defending her legacy with data. You're the person others turn to for facts and context. Your dedication is a quiet, steady flame that ensures nothing about her artistry is forgotten.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Spontaneous Adventurer.",
+      "description": "You're the friend who buys last-minute concert tickets and drives hours just to hear Chappell live. Like the free-spirited energy of 'Pink Pony Club,' you thrive on spontaneity and new experiences. You don't need a plan to have the best night of your life. In fan discussions, you bring fresh perspectives and a willingness to try anything—from dance challenges to fan projects. Your impulsiveness is your gift, turning every moment into a story worth telling.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Loyal Heart.",
+      "description": "You're the backbone of the Chappell Roan fan community, always showing up with a warm smile and a helping hand. Like the nurturing spirit in 'Love Me Anyway,' you prioritize connection over competition. You remember birthdays, send supportive messages, and make sure no fan feels left out. At shows, you're the one passing out water or sharing a blanket. Your kindness is the quiet melody that keeps the fandom harmonious. You understand that the True magic is in the people.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Life of the Party.",
+      "description": "When Chappell's beat drops, you're the first one dancing—no inhibitions, just pure expression. You live for the sensory overload of a live show: the bass vibrating through your chest, the flash of lights, the roar of the crowd. You're not afraid to be a little extra, wearing your boldest outfit and singing at the top of your lungs. Your presence is a catalyst for fun, turning strangers into a chorus. You remind everyone that music is meant to be felt, not just heard.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Strategic Mastermind.",
+      "description": "You approach Chappell's career like a chess game, analyzing her moves from indie darling to pop sensation. Your mind sees patterns in her releases, interviews, and social media that others miss. You're the one predicting her next single or era with eerie accuracy. In fan debates, you stay calm and logical, presenting evidence like a lawyer. Your long-term vision means you're always thinking three steps ahead. You may be quiet, but your influence is felt in every strategic discussion.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Curious Theorist.",
+      "description": "You love dissecting Chappell's lyrics like a puzzle, uncovering hidden meanings in 'California' or connecting themes across albums. Your mind wanders through abstract ideas, and you're happiest when you're learning something new—whether it's a production technique or a cultural reference. In fan spaces, you're the one asking 'what if' questions that spark fascinating conversations. Your curiosity is endless, and you never settle for surface-level understanding. The mystery itself is the joy.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Quiet Empath.",
+      "description": "You feel Chappell's songs like a private diary, especially the raw vulnerability of 'I Don't Want It.' You're deeply attuned to the emotions of others, often sensing what they need before they say it. At concerts, you hang back, absorbing the atmosphere and the collective feeling. Your empathy is a quiet superpower that allows you to connect with people on a soul level. You may not be the loudest fan, but your understanding runs deeper than most.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Poetic Soul.",
+      "description": "You see Chappell's music as poetry set to melody, and you often write your own verses inspired by her storytelling. Your inner world is rich with emotion, and you value true-to-you above all. Like the dreamy nostalgia of 'School Nights,' you find beauty in bittersweet moments. In fan communities, you share heartfelt interpretations that move others. Your sensitivity is your strength—it allows you to create art that resonates. You believe that the most honest songs are the ones that heal.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Reliable Archivist.",
+      "description": "You are the keeper of Chappell's history, meticulously preserving every poster, ticket stub, and setlist. Your approach is methodical and disciplined—you never miss a release date and you catalog everything in order. Like the steady backbone of a tour crew, you ensure that nothing falls through the cracks. In fan projects, you're the one who organizes spreadsheets and timelines. Your dedication may not be flashy, but it's the foundation that holds the fandom together. Tradition matters to you.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hands-On Creator.",
+      "description": "You express your fandom through action—building a Chappell-inspired costume, learning her choreography, or crafting fan merchandise. You prefer doing over talking, and your skills are practical and tangible. In fan meetups, you're the one fixing a broken prop or setting up the sound system. You admire Chappell's DIY roots and channel that same resourcefulness. Your creativity is expressed in projects that others can see and touch. You let your work speak for itself.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Nurturing Supporter.",
+      "description": "You take care of the Chappell Roan fandom like a garden, watering every relationship with kindness and attention. You remember small details about other fans—their favorite songs, their birthdays—and you check in on them. Like the comforting warmth of 'Love Me Anyway,' you create a safe space for everyone. At shows, you're the one making sure everyone has a good view and feels included. Your loyalty is fierce but gentle, and your presence makes the community feel like home.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Gentle Artist.",
+      "description": "Your fandom is expressed in subtle, beautiful ways—a sketch of Chappell's silhouette, a mood board of her aesthetics, a carefully curated playlist. You're sensitive to beauty in all forms, and you find inspiration in the smallest details. Like the ethereal quality of 'California,' you appreciate the soft, dreamy side of her music. You may not be the loudest voice, but your artistic contributions add depth and color to the community. You create not for applause, but because you must.",
+      "mbti": "ISFP"
+    }
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Music"
+  }
+}

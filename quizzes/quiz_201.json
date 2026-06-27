@@ -352,5 +352,10 @@
     "🍽️"
   ],
   "likes": 3222,
-  "tests": 292961
+  "tests": 292961,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Food"
+  },
+  "share_hook": "Ever wonder which food obsession level you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

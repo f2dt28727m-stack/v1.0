@@ -352,5 +352,17 @@
     "✨"
   ],
   "likes": 30566,
-  "tests": 2547192
+  "tests": 2547192,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "There's a quick quiz that says you might be a BLACKPINK member based on your True personality dimensions. Curious which one?"
 }

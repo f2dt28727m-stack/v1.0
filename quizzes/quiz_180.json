@@ -352,5 +352,10 @@
     "🧭"
   ],
   "likes": 39733,
-  "tests": 2337247
+  "tests": 2337247,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Travel"
+  },
+  "share_hook": "Most people score the same result on this hidden travel personality quiz, but about one in five ends up in a totally different bucket. Which one would you be?"
 }

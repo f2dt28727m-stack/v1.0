@@ -352,5 +352,17 @@
     "✨"
   ],
   "likes": 37395,
-  "tests": 2337216
+  "tests": 2337216,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "There's a quick quiz that says you might be Rosé's romantic energy, Jennie's chic vibe, Lisa's bold spirit, or Jisoo's classic charm. Curious which one matches your personality?"
 }

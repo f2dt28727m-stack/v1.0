@@ -352,5 +352,10 @@
     "🎯"
   ],
   "likes": 29487,
-  "tests": 2457282
+  "tests": 2457282,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Career"
+  },
+  "share_hook": "Ever wonder which career path truly fits you? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

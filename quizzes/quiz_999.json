@@ -1,1 +1,18 @@
-{"title":"TEST_QUIZ","category":"t","tags":["test"],"description":"test desc","questions":[],"results":[],"emoji":["?"]}
+{
+  "title": "TEST_QUIZ",
+  "category": "t",
+  "tags": [
+    "test"
+  ],
+  "description": "test desc",
+  "questions": [],
+  "results": [],
+  "emoji": [
+    "?"
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "test"
+  },
+  "share_hook": "There's a quick quiz that says you might be a classic, a rebel, or a wildcard based on True personality dimensions. Curious which one?"
+}

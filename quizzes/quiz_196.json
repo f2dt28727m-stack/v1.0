@@ -352,5 +352,10 @@
     "🎯"
   ],
   "likes": 35241,
-  "tests": 2517284
+  "tests": 2517284,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Career"
+  },
+  "share_hook": "Most people assume they're career-savvy, but this quiz reveals a maturity level you might not expect. Curious where you stand?"
 }

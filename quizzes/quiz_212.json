@@ -357,5 +357,17 @@
       "description": "You have a rebellious edge, drawn to the hip-hop swagger of 'Kick It'. You're confident, cool, and unbothered by others' opinions. Your personality is independent and adventurous—you love exploring new sounds and styles. You appreciate BLACKPINK's rap-heavy tracks and their bold fashion choices. Your style is urban and edgy, often incorporating streetwear and sneakers. You're not one for rules; you prefer to make your own path. You admire the members' individuality and their ability to stay true to themselves. Your favorite BLACKPINK moments are the ones that showcase their attitude.",
       "mbti": "INTP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Ever wonder which BLACKPINK style you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

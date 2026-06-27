@@ -1,0 +1,366 @@
+{
+  "quizId": 10000,
+  "title": "Which Chappell Roan soul matches yours?",
+  "category": "match",
+  "tags": [
+    "Music",
+    "Soulmate Match",
+    "Personality",
+    "Fantasy",
+    "Aesthetic Personality"
+  ],
+  "description": "Answer 12 questions to discover your Chappell Roan-inspired soulmate match! This is a fan quiz for entertainment purposes only.",
+  "share_hook": "Most people match a specific Chappell Roan soul, but about one in five ends up with a totally unexpected one—curious which soul resonates with you?",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "At a Chappell Roan concert, you're the one who...",
+      "options": [
+        {
+          "text": "Gets lost imagining the stories behind each song",
+          "score": "N"
+        },
+        {
+          "text": "Finds a spot near the edge, vibing in your own world",
+          "score": "I"
+        },
+        {
+          "text": "Keeps an eye on the setlist and stage details",
+          "score": "S"
+        },
+        {
+          "text": "Sings every word and dances with strangers",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When listening to 'My Kink is Karma', you most connect with...",
+      "options": [
+        {
+          "text": "The structured beat and catchy hook",
+          "score": "J"
+        },
+        {
+          "text": "The bold, unapologetic energy",
+          "score": "T"
+        },
+        {
+          "text": "The raw emotion and vulnerability",
+          "score": "F"
+        },
+        {
+          "text": "The free-flowing, spontaneous vibe",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During a music video shoot, you'd be the one...",
+      "options": [
+        {
+          "text": "Directing the whole scene with infectious energy",
+          "score": "E"
+        },
+        {
+          "text": "Making sure every prop and costume is perfect",
+          "score": "T"
+        },
+        {
+          "text": "Ensuring everyone feels comfortable and heard",
+          "score": "F"
+        },
+        {
+          "text": "Observing from the monitor, planning the next angle",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Your ideal way to experience Chappell Roan's eras is...",
+      "options": [
+        {
+          "text": "Theorizing about hidden meanings in the lyrics",
+          "score": "N"
+        },
+        {
+          "text": "Letting the mood guide which songs you play",
+          "score": "P"
+        },
+        {
+          "text": "Following the  timeline and releases",
+          "score": "J"
+        },
+        {
+          "text": "Studying every detail of the album art and liner notes",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When a new single drops, you're most likely to...",
+      "options": [
+        {
+          "text": "Listen alone to absorb it fully",
+          "score": "I"
+        },
+        {
+          "text": "Share it with everyone and discuss",
+          "score": "E"
+        },
+        {
+          "text": "Add it to your playlist and move on",
+          "score": "J"
+        },
+        {
+          "text": "Analyze the production and lyrics carefully",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "In a fan theory debate, you rely on...",
+      "options": [
+        {
+          "text": "Keeping an open mind, exploring all angles",
+          "score": "P"
+        },
+        {
+          "text": "Emotional resonance with the story",
+          "score": "F"
+        },
+        {
+          "text": "Logical consistency and evidence",
+          "score": "T"
+        },
+        {
+          "text": "Creative interpretations and possibilities",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "At a fan sign event, you'd be the one...",
+      "options": [
+        {
+          "text": "Organizing the schedule and keeping things on track",
+          "score": "J"
+        },
+        {
+          "text": "Quietly observing the dynamics of the room",
+          "score": "N"
+        },
+        {
+          "text": "Cheerfully engaging with every fan in line",
+          "score": "E"
+        },
+        {
+          "text": "Strategizing how to make the event run smoothly",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "When learning Chappell Roan's choreography, you...",
+      "options": [
+        {
+          "text": "Feel the music and let emotion guide you",
+          "score": "F"
+        },
+        {
+          "text": "Experiment with your own style and flair",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the precise steps and formations",
+          "score": "S"
+        },
+        {
+          "text": "Practice alone until you nail each move",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "During an interview, you'd rather...",
+      "options": [
+        {
+          "text": "Let the conversation flow naturally",
+          "score": "P"
+        },
+        {
+          "text": "Ask pointed questions to get clear answers",
+          "score": "T"
+        },
+        {
+          "text": "Listen carefully and respond thoughtfully",
+          "score": "I"
+        },
+        {
+          "text": "Lead the conversation with charisma",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When styling for a 'Chappell Roan night', you choose...",
+      "options": [
+        {
+          "text": "An outfit inspired by a specific era or look",
+          "score": "S"
+        },
+        {
+          "text": "A conceptual ensemble that tells a story",
+          "score": "N"
+        },
+        {
+          "text": "Something that makes you feel confident and radiant",
+          "score": "F"
+        },
+        {
+          "text": "A planned, cohesive look from head to toe",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "At a dance practice, you're the one...",
+      "options": [
+        {
+          "text": "Keeping the session structured and productive",
+          "score": "J"
+        },
+        {
+          "text": "Perfecting the small details of each move",
+          "score": "S"
+        },
+        {
+          "text": "Energizing the group with your enthusiasm",
+          "score": "E"
+        },
+        {
+          "text": "Checking in on everyone's morale",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When analyzing 'Red Wine Supernova', you focus on...",
+      "options": [
+        {
+          "text": "The overall vibe and how it makes you feel",
+          "score": "P"
+        },
+        {
+          "text": "The narrative arc and character development",
+          "score": "N"
+        },
+        {
+          "text": "The hidden layers and symbolism",
+          "score": "I"
+        },
+        {
+          "text": "The technical aspects of production",
+          "score": "T"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Supernova Soul.",
+      "description": "Much like Chappell Roan's 'Red Wine Supernova' persona, you command attention with a magnetic blend of confidence and vulnerability. You lead with charisma, whether on stage or in conversation, and your strategic mind ensures you're always two steps ahead. Your ideal match is someone who can keep up with your ambitious vision and appreciates the bold, unapologetic energy you bring to every room.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Kaleidoscope Dreamer.",
+      "description": "Like the kaleidoscopic imagery in Chappell Roan's music videos, you see the world through a lens of endless possibilities. Your mind is a playground of abstract connections and creative theories. You thrive on exploring new ideas and enjoy playful debates about fan interpretations. Your soulmate is a fellow explorer who revels in the journey as much as the destination.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Pink Pony Club Heart.",
+      "description": "From the 'Pink Pony Club' era, you embody inclusive warmth and emotional depth. You naturally create safe spaces where everyone feels seen and valued. Your empathy is your superpower, and you're drawn to stories that celebrate individuality. Your perfect match cherishes your nurturing spirit and joins you in building a world where everyone belongs.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Femininomenon Flame.",
+      "description": "Channeling the vibrant energy of 'Femininomenon', you're a burst of color and enthusiasm. You live true-to-you, embracing every facet of your personality. Your optimism is contagious, and you inspire others to express themselves freely. Your soulmate is someone who matches your zest for life and celebrates your unapologetic joy.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Casual Fan Favorite.",
+      "description": "You appreciate the polished, professional side of Chappell Roan's artistry. Like a fan who knows every track by heart, you value reliability and tradition. You're the one who keeps the group grounded, ensuring plans are executed flawlessly. Your ideal partner respects your dedication and shares your appreciation for the classics.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Barefoot in the Park Adventurer.",
+      "description": "Inspired by the carefree spirit of 'Barefoot in the Park', you live in the moment and seek new thrills. You're spontaneous, action-oriented, and love to be where the energy is high. You charm others with your daring nature. Your match is an adventure buddy who's always ready for the next escapade.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The After Midnight Glow.",
+      "description": "Like the intimate vibe of 'After Midnight', you're a loyal friend who thrives in close-knit circles. You're deeply attuned to others' needs and remember the little things that matter. Your warmth creates a comforting presence. Your soulmate is someone who values your steadfast loyalty and shares your love for quiet, meaningful connections.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Guilty Pleasure Star.",
+      "description": "With the playful charm of 'Guilty Pleasure', you bring fun and spontaneity wherever you go. You're the life of the party, effortlessly drawing people in with your radiant energy. You love to entertain and be entertained. Your perfect match is someone who can keep up with your lively spirit and enjoys the spotlight as much as you do.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Naked in Manhattan Architect.",
+      "description": "Much like the raw introspection of 'Naked in Manhattan', you approach life with strategic precision. You're a planner who sees the big picture and works diligently toward long-term goals. Your independence is your strength. Your ideal partner respects your need for autonomy and engages your mind with deep, meaningful conversations.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Love Me Anyway Theorist.",
+      "description": "Echoing the complexities of 'Love Me Anyway', you're driven by curiosity about how systems work. You love to deconstruct songs, theories, and ideas. Your analytical mind is always seeking patterns. Your soulmate is a fellow thinker who enjoys intellectual sparring and shares your passion for uncovering hidden truths.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The School Nights Dreamer.",
+      "description": "From the nostalgic 'School Nights' era, you possess a quiet empathy that reads between the lines. You're idealistic and deeply committed to your values. You often feel the weight of the world but remain hopeful. Your perfect match sees your inner world and walks beside you with gentle understanding.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Kaleidoscope Poet.",
+      "description": "Like the poetic imagery in 'Kaleidoscope', you experience emotions with profound intensity. You're a dreamer guided by your heart, finding beauty in melancholy. Your creativity flows from deep wells of feeling. Your soulmate is someone who honors your sensitivity and joins you in painting the world with emotion.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Pink Pony Club Traditionalist.",
+      "description": "You connect with the grounded elements of Chappell Roan's world, valuing consistency and duty. You're the reliable friend who always follows through. Your attention to detail ensures nothing slips through the cracks. Your ideal partner appreciates your steadfastness and shares your respect for tradition.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The California Mechanic.",
+      "description": "Inspired by the hands-on energy of 'California', you learn by doing and fix problems with practical solutions. You're calm under pressure and resourceful. You prefer action over words. Your soulmate is someone who values your competence and joins you in tackling real-world challenges with a can-do attitude.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Femininomenon Caretaker.",
+      "description": "Like the nurturing undertones of 'Femininomenon', you're a quiet pillar of support. You remember birthdays, favorite songs, and inside jokes. Your loyalty is unwavering, and you express love through acts of service. Your perfect match is someone who notices your efforts and reciprocates with heartfelt appreciation.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Naked in Manhattan Artist.",
+      "description": "Echoing the vulnerability of 'Naked in Manhattan', you experience the world through your senses. You're an artist in how you dress, decorate, and move. Your aesthetic is a reflection of your inner self. Your soulmate is someone who sees the world as you do—a canvas of colors and emotions.",
+      "mbti": "ISFP"
+    }
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Music"
+  }
+}

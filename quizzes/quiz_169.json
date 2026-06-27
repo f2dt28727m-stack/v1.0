@@ -352,5 +352,17 @@
     "✨"
   ],
   "likes": 36500,
-  "tests": 2607194
+  "tests": 2607194,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Ever wonder which BLACKPINK member you'd vibe with most? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

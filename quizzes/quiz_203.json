@@ -352,5 +352,10 @@
     "💌"
   ],
   "likes": 3938,
-  "tests": 302963
+  "tests": 302963,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Love Language"
+  },
+  "share_hook": "There's a quick quiz that says you might be a Words of Affirmation, Acts of Service, or Quality Time type based on True personality dimensions. Curious which one?"
 }

@@ -352,5 +352,17 @@
     "✨"
   ],
   "likes": 33503,
-  "tests": 2577193
+  "tests": 2577193,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Ever wonder which BLACKPINK-inspired hidden trait you'd have? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

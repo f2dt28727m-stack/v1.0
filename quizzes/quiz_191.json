@@ -355,5 +355,6 @@
   "tests": 2367279,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "Ever wonder which heroic archetype you'd embody in the Marvel Universe? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

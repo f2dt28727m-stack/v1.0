@@ -357,5 +357,17 @@
       "description": "You see the world as a canvas, and your creativity flows like the visuals in 'Ice Cream'. Your aesthetic is your own, inspired by the bold fashion of BLACKPINK's eras. You express yourself through art, music, or style, and you're not afraid to be different. Your gentle spirit is matched by a fierce determination to create beauty.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Most people score the same result on this hidden BLACKPINK trait quiz, but about one in five ends up in a totally different bucket."
 }

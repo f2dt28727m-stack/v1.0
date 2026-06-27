@@ -355,5 +355,6 @@
   "tests": 2367124,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "This 3-min quiz matches you to a Genshin Impact adventure type based on your personality—curious which champion of Teyvat you'd be?"
 }

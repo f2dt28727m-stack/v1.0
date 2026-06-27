@@ -352,5 +352,11 @@
     "🎤"
   ],
   "likes": 20086,
-  "tests": 2008680
+  "tests": 2008680,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ESFJ",
+    "typing_alternate": "INFP or ISFP"
+  },
+  "share_hook": "Ever wonder which Olivia Rodrigo era you'd be in? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

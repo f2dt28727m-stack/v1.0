@@ -352,5 +352,10 @@
     "🎯"
   ],
   "likes": 32334,
-  "tests": 2487283
+  "tests": 2487283,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Career"
+  },
+  "share_hook": "There's a quick quiz that says you might be a Leader, Creator, or Helper based on True career personality dimensions. Curious which one fits you?"
 }

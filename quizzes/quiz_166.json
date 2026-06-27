@@ -353,5 +353,17 @@
     "✨"
   ],
   "likes": 27689,
-  "tests": 2517191
+  "tests": 2517191,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Ever wonder which BLACKPINK member's energy you naturally match? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

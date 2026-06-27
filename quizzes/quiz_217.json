@@ -357,5 +357,17 @@
       "description": "You express yourself through art, capturing the aesthetic of 'Pink Venom' in your own style. Your sensitivity to beauty is reflected in how you curate your space with BLACKPINK posters and colors. You live in the moment, inspired by the visual storytelling of 'How You Like That'. You are quietly passionate, with a fierce inner fire that emerges in your creative work. Like Rosé's soulful voice, your art touches hearts. You value true-to-you and freedom, creating without constraints.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "BLACKPINK",
+    "members": {
+      "Jisoo": "ISTP",
+      "Jennie": "INFJ",
+      "Rosé": "ENFP",
+      "Lisa": "ISFP"
+    }
+  },
+  "share_hook": "Ever wonder which BLACKPINK member's energy you'd vibe with? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

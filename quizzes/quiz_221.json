@@ -357,5 +357,10 @@
       "description": "You express yourself through creativity and aesthetics. Like the dreamy visuals of 'Lovesick Girls', you see beauty in the world. You're gentle, sensitive, and in tune with your surroundings. Your style is unique and personal. You find joy in small details, like the colors in a music video. Your art is a reflection of your soul.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "MBTI"
+  },
+  "share_hook": "There's a quick quiz that says you might match the vibe of Jennie, Lisa, Rosé, or Jisoo based on your True personality. Curious which one?"
 }

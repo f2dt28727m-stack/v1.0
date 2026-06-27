@@ -355,5 +355,6 @@
   "tests": 2337278,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might be Iron Man, Captain America, or Black Widow based on True personality dimensions. Curious which one?"
 }

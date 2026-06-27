@@ -352,5 +352,18 @@
     "✨"
   ],
   "likes": 54104,
-  "tests": 4508742
+  "tests": 4508742,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "NewJeans",
+    "members": {
+      "Minji": "ESTJ",
+      "Hanni": "INFP",
+      "Danielle": "ENFP",
+      "Haerin": "ISTP",
+      "Hyein": "INFP"
+    }
+  },
+  "share_hook": "There's a quick quiz that says you might be a NewJeans-inspired type based on your True personality. Curious which member's energy matches yours?"
 }

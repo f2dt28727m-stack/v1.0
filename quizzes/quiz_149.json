@@ -355,5 +355,6 @@
   "tests": 2607132,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "This 3-min quiz matches you to a Honkai: Star Rail aesthetic type based on your personality—find out if you're a bold Trailblazer or a mysterious Stellaron Hunter."
 }

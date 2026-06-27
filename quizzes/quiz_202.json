@@ -352,5 +352,10 @@
     "🍽️"
   ],
   "likes": 28775,
-  "tests": 2397962
+  "tests": 2397962,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Food"
+  },
+  "share_hook": "Ever wonder which hidden food personality trait you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

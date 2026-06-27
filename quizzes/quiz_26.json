@@ -366,5 +366,10 @@
     "🚀"
   ],
   "likes": 25543,
-  "tests": 2128622
+  "tests": 2128622,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "ChatGPT"
+  },
+  "share_hook": "Ever wonder which ChatGPT personality type you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

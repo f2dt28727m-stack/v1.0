@@ -357,5 +357,10 @@
       "description": "You glide past defenders like they're not there, like Eden Hazard's 2018 World Cup dribbling displays. Your low center of gravity and quick feet make you almost impossible to dispossess. You play with a smile and a swagger, creating chances out of nothing. You're a joy to watch, and your teammates love playing with you because you make the game look easy.",
       "mbti": "INFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Personality"
+  },
+  "share_hook": "Most people score the same result on this World Cup personality quiz, but about one in five ends up in a totally different bucket."
 }

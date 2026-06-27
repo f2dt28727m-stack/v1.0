@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 29381,
-  "tests": 2098714
+  "tests": 2098714,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFJ",
+    "typing_alternate": "ESFP or INFP"
+  },
+  "share_hook": "Curious which Sabrina Carpenter era matches your vibe? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

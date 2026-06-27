@@ -1,0 +1,365 @@
+{
+  "quizId": 9999,
+  "title": "Which Taylor Swift soul matches yours?",
+  "category": "match",
+  "tags": [
+    "Taylor Swift",
+    "Personality",
+    "MBTI"
+  ],
+  "description": "Answer 12 questions to discover your Taylor Swift-inspired match! This is a fan quiz for entertainment purposes only.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "Sample question 1 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option C for question 1",
+          "score": "E"
+        },
+        {
+          "text": "Sample option B for question 1",
+          "score": "I"
+        },
+        {
+          "text": "Sample option A for question 1",
+          "score": "S"
+        },
+        {
+          "text": "Sample option D for question 1",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Sample question 2 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option B for question 2",
+          "score": "F"
+        },
+        {
+          "text": "Sample option A for question 2",
+          "score": "T"
+        },
+        {
+          "text": "Sample option C for question 2",
+          "score": "J"
+        },
+        {
+          "text": "Sample option D for question 2",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "Sample question 3 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option A for question 3",
+          "score": "I"
+        },
+        {
+          "text": "Sample option C for question 3",
+          "score": "E"
+        },
+        {
+          "text": "Sample option B for question 3",
+          "score": "T"
+        },
+        {
+          "text": "Sample option D for question 3",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "Sample question 4 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option B for question 4",
+          "score": "N"
+        },
+        {
+          "text": "Sample option C for question 4",
+          "score": "S"
+        },
+        {
+          "text": "Sample option D for question 4",
+          "score": "J"
+        },
+        {
+          "text": "Sample option A for question 4",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "Sample question 5 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option D for question 5",
+          "score": "I"
+        },
+        {
+          "text": "Sample option B for question 5",
+          "score": "S"
+        },
+        {
+          "text": "Sample option A for question 5",
+          "score": "J"
+        },
+        {
+          "text": "Sample option C for question 5",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "Sample question 6 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option A for question 6",
+          "score": "T"
+        },
+        {
+          "text": "Sample option B for question 6",
+          "score": "F"
+        },
+        {
+          "text": "Sample option C for question 6",
+          "score": "P"
+        },
+        {
+          "text": "Sample option D for question 6",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "Sample question 7 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option B for question 7",
+          "score": "J"
+        },
+        {
+          "text": "Sample option D for question 7",
+          "score": "N"
+        },
+        {
+          "text": "Sample option A for question 7",
+          "score": "T"
+        },
+        {
+          "text": "Sample option C for question 7",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "Sample question 8 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option B for question 8",
+          "score": "S"
+        },
+        {
+          "text": "Sample option A for question 8",
+          "score": "I"
+        },
+        {
+          "text": "Sample option D for question 8",
+          "score": "P"
+        },
+        {
+          "text": "Sample option C for question 8",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "Sample question 9 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option A for question 9",
+          "score": "E"
+        },
+        {
+          "text": "Sample option B for question 9",
+          "score": "P"
+        },
+        {
+          "text": "Sample option D for question 9",
+          "score": "T"
+        },
+        {
+          "text": "Sample option C for question 9",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "Sample question 10 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option B for question 10",
+          "score": "S"
+        },
+        {
+          "text": "Sample option D for question 10",
+          "score": "F"
+        },
+        {
+          "text": "Sample option A for question 10",
+          "score": "N"
+        },
+        {
+          "text": "Sample option C for question 10",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "Sample question 11 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option B for question 11",
+          "score": "F"
+        },
+        {
+          "text": "Sample option D for question 11",
+          "score": "E"
+        },
+        {
+          "text": "Sample option A for question 11",
+          "score": "J"
+        },
+        {
+          "text": "Sample option C for question 11",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "Sample question 12 about Taylor Swift?",
+      "options": [
+        {
+          "text": "Sample option C for question 12",
+          "score": "P"
+        },
+        {
+          "text": "Sample option B for question 12",
+          "score": "N"
+        },
+        {
+          "text": "Sample option D for question 12",
+          "score": "T"
+        },
+        {
+          "text": "Sample option A for question 12",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Sample Result ENTJ",
+      "description": "This is a sample result description for ENTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Sample Result ENTP",
+      "description": "This is a sample result description for ENTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Sample Result ENFJ",
+      "description": "This is a sample result description for ENFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Sample Result ENFP",
+      "description": "This is a sample result description for ENFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ENFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Sample Result ESTJ",
+      "description": "This is a sample result description for ESTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Sample Result ESTP",
+      "description": "This is a sample result description for ESTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Sample Result ESFJ",
+      "description": "This is a sample result description for ESFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Sample Result ESFP",
+      "description": "This is a sample result description for ESFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ESFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Sample Result INTJ",
+      "description": "This is a sample result description for INTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Sample Result INTP",
+      "description": "This is a sample result description for INTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Sample Result INFJ",
+      "description": "This is a sample result description for INFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Sample Result INFP",
+      "description": "This is a sample result description for INFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for INFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Sample Result ISTJ",
+      "description": "This is a sample result description for ISTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISTJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Sample Result ISTP",
+      "description": "This is a sample result description for ISTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISTP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Sample Result ISFJ",
+      "description": "This is a sample result description for ISFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISFJ in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Sample Result ISFP",
+      "description": "This is a sample result description for ISFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. This is a sample result description for ISFP in the match category about Taylor Swift. It needs to be between 70 and 112 words long to pass validation. ",
+      "mbti": "ISFP"
+    }
+  ],
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFP",
+    "typing_alternate": "INFJ or ESFJ"
+  },
+  "share_hook": "Most people match with a Reputation-era Taylor, but about one in five ends up with a soul from Folklore. Which era would surprise you?"
+}

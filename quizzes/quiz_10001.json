@@ -1,0 +1,366 @@
+{
+  "quizId": 10001,
+  "title": "Which Chappell Roan vibe matches your personality?",
+  "category": "which",
+  "tags": [
+    "Chappell Roan",
+    "Music",
+    "Personality",
+    "Aesthetic Personality",
+    "Hidden Trait"
+  ],
+  "description": "Answer 12 questions to discover your Chappell Roan-inspired vibe! This is a fan quiz for entertainment purposes only.",
+  "share_hook": "Ever wonder which Chappell Roan vibe you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When the opening chords of 'Pink Pony Club' hit at a concert, you would...",
+      "options": [
+        {
+          "text": "Stand still, absorbing the moment with your eyes closed",
+          "score": "I"
+        },
+        {
+          "text": "Nod along, focusing on the exact beat and melody",
+          "score": "S"
+        },
+        {
+          "text": "Let your mind wander to the story behind the song",
+          "score": "N"
+        },
+        {
+          "text": "Sing along at the top of your lungs, dancing with strangers",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "Backstage after a show, when a fan hands you a handwritten letter, you would...",
+      "options": [
+        {
+          "text": "Fold it neatly and put it in your bag for later",
+          "score": "J"
+        },
+        {
+          "text": "Tuck it into your pocket and forget about it for a week",
+          "score": "P"
+        },
+        {
+          "text": "Read it right away, eyes tearing up",
+          "score": "F"
+        },
+        {
+          "text": "Thank them and quickly move to the next fan",
+          "score": "T"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "When learning choreography for 'Casual', you would...",
+      "options": [
+        {
+          "text": "Focus on the technical precision of each step",
+          "score": "T"
+        },
+        {
+          "text": "Lead the group, encouraging everyone to go bigger",
+          "score": "E"
+        },
+        {
+          "text": "Focus on the emotional expression of the dance",
+          "score": "F"
+        },
+        {
+          "text": "Practice alone in the corner to get every move perfect",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "During a photoshoot for the 'Naked in Manhattan' era, you would...",
+      "options": [
+        {
+          "text": "Stick to the planned poses the director gives you",
+          "score": "S"
+        },
+        {
+          "text": "Suggest a completely new concept on the spot",
+          "score": "N"
+        },
+        {
+          "text": "Make sure the shoot finishes exactly on schedule",
+          "score": "J"
+        },
+        {
+          "text": "Go with the flow, trying different ideas spontaneously",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "When a fan theory about 'Femininomenon' goes viral, you would...",
+      "options": [
+        {
+          "text": "Decide on a definitive meaning and stick to it",
+          "score": "J"
+        },
+        {
+          "text": "Quietly read the theories, keeping your thoughts private",
+          "score": "I"
+        },
+        {
+          "text": "Fact-check the theory against the  lyrics",
+          "score": "S"
+        },
+        {
+          "text": "Engage with fans online, sharing your own interpretation",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "At a songwriting session for a new track, you would...",
+      "options": [
+        {
+          "text": "Experiment with different genres and structures",
+          "score": "P"
+        },
+        {
+          "text": "Analyze what worked in past hits and replicate that",
+          "score": "T"
+        },
+        {
+          "text": "Start with a abstract concept and build from there",
+          "score": "N"
+        },
+        {
+          "text": "Write lyrics that tell a personal, emotional story",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When designing a new outfit for a music video, you would...",
+      "options": [
+        {
+          "text": "Plan every detail meticulously in advance",
+          "score": "J"
+        },
+        {
+          "text": "Go bold and colorful, making a statement",
+          "score": "E"
+        },
+        {
+          "text": "Prioritize comfort and practicality",
+          "score": "T"
+        },
+        {
+          "text": "Choose a look that tells a story or has a hidden meaning",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "During a quiet moment after a fan sign event, you would...",
+      "options": [
+        {
+          "text": "Scroll through photos and videos from the event",
+          "score": "S"
+        },
+        {
+          "text": "Feel deeply touched by the fans' stories and messages",
+          "score": "F"
+        },
+        {
+          "text": "Already thinking about what to do next",
+          "score": "P"
+        },
+        {
+          "text": "Reflect alone on the interactions you had",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When deciding the setlist for a tour, you would...",
+      "options": [
+        {
+          "text": "Change the order on a whim each night",
+          "score": "P"
+        },
+        {
+          "text": "Include high-energy songs to keep the crowd hype",
+          "score": "E"
+        },
+        {
+          "text": "Organize the list logically by album order",
+          "score": "T"
+        },
+        {
+          "text": "Add a few deep cuts for the dedicated fans",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "When a fan asks about the meaning of 'California', you would...",
+      "options": [
+        {
+          "text": "Share how the song makes you feel personally",
+          "score": "F"
+        },
+        {
+          "text": "Describe specific memories from your time there",
+          "score": "S"
+        },
+        {
+          "text": "Outline the song's structure and how it builds",
+          "score": "J"
+        },
+        {
+          "text": "Explain the broader theme of seeking a new life",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "At a meet-and-greet, a shy fan approaches you. You would...",
+      "options": [
+        {
+          "text": "Ask about their favorite song and why it means so much",
+          "score": "F"
+        },
+        {
+          "text": "Notice their outfit and compliment a specific detail",
+          "score": "S"
+        },
+        {
+          "text": "Give them a big hug and start a lively conversation",
+          "score": "E"
+        },
+        {
+          "text": "Sign their album and make sure they feel seen",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When listening to a new demo alone in the studio, you would...",
+      "options": [
+        {
+          "text": "Imagine the full arrangement in your head",
+          "score": "N"
+        },
+        {
+          "text": "Critique the lyrics and melody objectively",
+          "score": "T"
+        },
+        {
+          "text": "Think about how it will sound live",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the production and mixing details",
+          "score": "I"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Pure Chappell Roan - Pink Pony Club Energy.",
+      "description": "You light up every room like the neon sign of a dive bar. Much like Chappell's breakout anthem, you're all about self-discovery and dancing through life with unapologetic joy. Your confidence is infectious, and you inspire others to embrace their quirks. Whether you're belting out lyrics or leading a crowd, your energy is pure, vibrant, and impossible to ignore.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "Kaleidoscope Dreamer - Naked in Manhattan.",
+      "description": "Walking through life like a kaleidoscope, you see beauty in every shattered piece. Like Chappell's intimate ballad, you find magic in vulnerability and raw emotion. You're a romantic at heart, always searching for connection in the chaos. Your world is painted in soft pastels and deep feelings, and you're not afraid to show your true colors.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Midnight Rambler - Casual.",
+      "description": "When the world sleeps, you come alive. Your vibe mirrors the laid-back yet intense energy of 'Casual' - effortless but deeply passionate. You're the type who finds meaning in late-night conversations and quiet moments. People are drawn to your mysterious aura, and you keep them guessing with your cool, collected demeanor.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Femininomenon Force - School Nights.",
+      "description": "You're a force of nature, much like the rebellious spirit of 'School Nights'. You challenge norms and embrace your femininity as a superpower. Bold, unapologetic, and fiercely independent, you lead with confidence and inspire change. Your presence is a statement, and you're not here to play small.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Golden Hour Dreamer - Love Me Anyway.",
+      "description": "Your heart is a safe haven, just like the warmth of 'Love Me Anyway'. You're deeply empathetic and protective of those you care about. You see the best in people and nurture their growth. Your gentle strength makes you a pillar of support, and your loyalty is unwavering.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Barefoot Rebel - Pink Pony Club.",
+      "description": "Free-spirited and untamed, you march to the beat of your own drum. Like the carefree essence of 'Pink Pony Club', you reject conformity and celebrate individuality. You're adventurous, spontaneous, and always ready for the next thrill. Life is a playground, and you're here to have fun.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Quiet Architect - Naked in Manhattan.",
+      "description": "Behind your calm exterior lies a master planner. You analyze every angle, much like the layered storytelling in 'Naked in Manhattan'. You're strategic and deliberate, but your creativity knows no bounds. You build worlds in your mind and bring them to life with precision and care.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Velvet Voice - Casual.",
+      "description": "Your presence is smooth and soothing, like the sultry tones of 'Casual'. You have a way with words that captivates and comforts. People trust you with their secrets because you listen without judgment. You're the calm in the storm, offering peace and understanding.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Electric Pulse - School Nights.",
+      "description": "You crackle with energy, like the electrifying beat of 'School Nights'. Quick-witted and spontaneous, you thrive on excitement and new experiences. You're the life of the party, always bringing a spark to every gathering. Your enthusiasm is contagious, and you make everything more fun.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Starlight Wanderer - Love Me Anyway.",
+      "description": "You drift through life with a sense of wonder, guided by intuition. Like the dreamy quality of 'Love Me Anyway', you're idealistic and always searching for deeper meaning. You're a philosopher at heart, pondering the big questions. Your imagination is vast, and you see poetry in the mundane.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Crimson Flame - Femininomenon.",
+      "description": "Passion burns bright in you, just like the fiery anthem 'Femininomenon'. You're intense, driven, and unafraid to speak your mind. You lead with conviction and inspire others to stand up for what they believe. Your determination is unstoppable, and you leave a lasting impression.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Moonlit Muse - Naked in Manhattan.",
+      "description": "You're a dreamer under the moonlight, inspired by the intimacy of 'Naked in Manhattan'. You're artistic and sensitive, finding beauty in solitude. Your creativity flows from deep emotion, and you express yourself through art, music, or writing. You're a gentle soul with a fierce inner world.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Concrete Jungle Heart - Pink Pony Club.",
+      "description": "You thrive in the chaos of the city, much like the urban energy of 'Pink Pony Club'. You're adaptable, resourceful, and always on the move. You love the hustle and bustle, and you find opportunities where others see obstacles. Your street smarts and charisma make you a natural leader.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Honeyed Whisper - Casual.",
+      "description": "Your words are sweet and comforting, like the soft melody of 'Casual'. You're a natural peacemaker, always finding common ground. You value harmony and go out of your way to make others feel included. Your warmth and kindness create a safe space for everyone.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Midnight Bloom - School Nights.",
+      "description": "You come alive in the quiet hours, like the nocturnal essence of 'School Nights'. You're introspective and thoughtful, often lost in your own world. Your creativity flourishes in solitude, and you have a rich inner life. You're mysterious and intriguing, drawing people in with your depth.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Ethereal Echo - Love Me Anyway.",
+      "description": "You're otherworldly and serene, like the haunting beauty of 'Love Me Anyway'. You exist in a realm of your own, guided by intuition and empathy. You're deeply connected to the emotions of others, often sensing what they feel before they say it. Your presence is calming and magical.",
+      "mbti": "ENFJ"
+    }
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Chappell Roan"
+  }
+}

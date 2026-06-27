@@ -1,0 +1,366 @@
+{
+  "quizId": 10004,
+  "title": "What's your hidden Chappell Roan trait?",
+  "category": "hidden",
+  "tags": [
+    "Chappell Roan",
+    "Music",
+    "Hidden Trait",
+    "Personality",
+    "Aesthetic Personality"
+  ],
+  "description": "Answer 12 questions to discover your Chappell Roan-inspired hidden trait! This is a fan quiz for entertainment purposes only.",
+  "share_hook": "Ever wonder which Chappell Roan vibe you'd secretly embody? Most people guess wrong on the first try, and the result usually sparks a fun conversation.",
+  "questions": [
+    {
+      "qId": 1,
+      "text": "When no one is watching, you...",
+      "options": [
+        {
+          "text": "Practice the choreography from 'Pink Pony Club' until it's perfect",
+          "score": "S"
+        },
+        {
+          "text": "Sit alone, replaying lyrics in your head, lost in thought",
+          "score": "I"
+        },
+        {
+          "text": "Crank up 'Casual' and belt every word like you're on stage",
+          "score": "E"
+        },
+        {
+          "text": "Imagine new music video concepts for your favorite songs",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 2,
+      "text": "When you're backstage before a show, you...",
+      "options": [
+        {
+          "text": "Stick to a pre-show ritual: warm-ups, costume check, vocal exercises",
+          "score": "J"
+        },
+        {
+          "text": "Go with the vibe—maybe change a song or add an impromptu cover",
+          "score": "P"
+        },
+        {
+          "text": "Analyze the setlist for tempo and emotional flow",
+          "score": "T"
+        },
+        {
+          "text": "Feel the energy of the crowd and let it guide your performance",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "qId": 3,
+      "text": "During a dance practice for your new era, you...",
+      "options": [
+        {
+          "text": "Feel the emotion of the song and let it move your body",
+          "score": "F"
+        },
+        {
+          "text": "Find a corner to perfect your moves alone, focused on details",
+          "score": "I"
+        },
+        {
+          "text": "Break down each step logically to optimize the routine",
+          "score": "T"
+        },
+        {
+          "text": "Lead the group, hyping everyone up with high energy",
+          "score": "E"
+        }
+      ]
+    },
+    {
+      "qId": 4,
+      "text": "When designing your own 'Chappell Roan' aesthetic, you...",
+      "options": [
+        {
+          "text": "Plan every outfit detail weeks in advance",
+          "score": "J"
+        },
+        {
+          "text": "Experiment with bold, spontaneous looks that change daily",
+          "score": "P"
+        },
+        {
+          "text": "Draw inspiration from vintage 70s glam and disco balls",
+          "score": "S"
+        },
+        {
+          "text": "Invent a futuristic fantasy world where you're the queen",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 5,
+      "text": "At a fan sign event, when no one's watching, you...",
+      "options": [
+        {
+          "text": "Observe the crowd from the side, noting each fan's vibe",
+          "score": "I"
+        },
+        {
+          "text": "Chat with fans after the line ends, snapping selfies",
+          "score": "E"
+        },
+        {
+          "text": "Sign each poster with a unique, thoughtful message",
+          "score": "S"
+        },
+        {
+          "text": "Make a mental list of which songs to perform at the next show",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 6,
+      "text": "When writing lyrics for a new song, you...",
+      "options": [
+        {
+          "text": "Let personal emotions pour out, raw and unfiltered",
+          "score": "F"
+        },
+        {
+          "text": "Write spontaneously, often changing directions mid-song",
+          "score": "P"
+        },
+        {
+          "text": "Focus on the structure—verses, chorus, bridge—like a puzzle",
+          "score": "T"
+        },
+        {
+          "text": "Start with a concept about love, loss, or fantasy",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "qId": 7,
+      "text": "When you're on a music video shoot, you...",
+      "options": [
+        {
+          "text": "Direct the extras and crew, making sure everyone's energized",
+          "score": "E"
+        },
+        {
+          "text": "Check the lighting and angles for technical perfection",
+          "score": "T"
+        },
+        {
+          "text": "Dream up surreal visual metaphors for each scene",
+          "score": "N"
+        },
+        {
+          "text": "Follow the shot list strictly to finish on time",
+          "score": "J"
+        }
+      ]
+    },
+    {
+      "qId": 8,
+      "text": "After a long day of promotions, you...",
+      "options": [
+        {
+          "text": "Call a friend to talk about how the day felt",
+          "score": "F"
+        },
+        {
+          "text": "Spontaneously decide to go out and explore the city",
+          "score": "P"
+        },
+        {
+          "text": "Retreat to your room to recharge in silence",
+          "score": "I"
+        },
+        {
+          "text": "Cook a comfort meal and watch old tour vlogs",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 9,
+      "text": "When a fan theory about your lyrics goes viral, you...",
+      "options": [
+        {
+          "text": "Debunk it with a logical explanation in an interview",
+          "score": "T"
+        },
+        {
+          "text": "Share it on your story with a playful wink",
+          "score": "E"
+        },
+        {
+          "text": "Quietly enjoy the interpretation, but keep your True meaning secret",
+          "score": "I"
+        },
+        {
+          "text": "Let the mystery live—maybe even add clues in the next song",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "qId": 10,
+      "text": "While designing your concert set, you...",
+      "options": [
+        {
+          "text": "Finalize the playlist a month before, no changes allowed",
+          "score": "J"
+        },
+        {
+          "text": "Create a storyline that connects every song into an epic journey",
+          "score": "N"
+        },
+        {
+          "text": "Prioritize moments that make the audience feel seen and loved",
+          "score": "F"
+        },
+        {
+          "text": "Choose props that fans can touch and remember",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 11,
+      "text": "When you're offstage and no one's watching, you...",
+      "options": [
+        {
+          "text": "Host an impromptu karaoke session with your crew",
+          "score": "E"
+        },
+        {
+          "text": "Organize your tour schedule and plan the next month",
+          "score": "J"
+        },
+        {
+          "text": "Write a heartfelt note to a fan who touched your heart",
+          "score": "F"
+        },
+        {
+          "text": "Perfect a new dance move in the mirror, over and over",
+          "score": "S"
+        }
+      ]
+    },
+    {
+      "qId": 12,
+      "text": "When reflecting on your musical journey, you...",
+      "options": [
+        {
+          "text": "Let your next steps be guided by serendipity and gut feeling",
+          "score": "P"
+        },
+        {
+          "text": "Think about how far you've come, but keep your plans private",
+          "score": "I"
+        },
+        {
+          "text": "Analyze which songs had the biggest impact and why",
+          "score": "T"
+        },
+        {
+          "text": "Brainstorm a whole new genre blend for your next album",
+          "score": "N"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Pink Pony Rebel.",
+      "description": "You light up a room with quiet confidence, much like Chappell Roan's 'Pink Pony Club' era. Your hidden trait is a fearless drive to chase dreams, even when no one's watching. Like the song's protagonist, you leave small-town expectations behind for glittering stages. Your rebellious heart balances vulnerability with sass, turning every setback into a disco ball moment. You're not just a performer—you're a movement waiting to happen.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Casual Dreamer.",
+      "description": "Walking on stage, you channel an energy that demands attention, but your secret is a deep well of emotion. Mirroring Chappell Roan's 'Casual' rawness, you blend sharp wit with tender heart. You analyze feelings like lyrics—every word matters. Your hidden side is a strategic romantic, planning grand gestures while seeming effortless. Like a pop anthem wrapped in indie vibes, you're more complex than anyone guesses.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Femininomenon Force.",
+      "description": "BORN TO BE ALIVE is your anthem—you radiate unapologetic joy. Your hidden trait mirrors the chaotic, colorful energy of 'Femininomenon.' You're a whirlwind of glitter and guts, turning everyday moments into dance parties. When no one's watching, you practice your bows and catchphrases, perfecting the art of being unforgettable. Your secret? You work harder than anyone sees, making magic look effortless.",
+      "mbti": "ESFP"
+    },
+    {
+      "title": "The Secret Lyricist.",
+      "description": "Much like Chappell Roan's songwriting process, your mind is a notebook of half-finished poems and stolen melodies. Your hidden trait is a poetic soul that observes the world in metaphors. While others see a party, you see a story. You collect feelings like vintage records, playing them back in quiet moments. Your depth is your superpower—you feel everything, and that's what makes you unforgettable.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Backstage Architect.",
+      "description": "You're the one who knows every lighting cue and set change, even if you're not on stage. Like Chappell Roan's meticulous production, your hidden trait is a love for structure behind the glamour. You thrive on checklists and timelines, ensuring every show runs smoothly. When no one's watching, you're mapping out next year's tour in a spreadsheet. Your reliability is the backbone of every great performance.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Kaleidoscope Heart.",
+      "description": "Your hidden side is a kaleidoscope of emotions, much like the layered sounds in Chappell Roan's discography. You switch from vulnerable ballads to fierce anthems in a heartbeat. When alone, you explore every shade of feeling, from the highs of 'Naked in Manhattan' to the lows of 'California.' Your secret is that you feel in technicolor, and you're not afraid to let it show—eventually.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Disco Detective.",
+      "description": "Like a fan decoding Chappell Roan's Easter eggs, your hidden trait is a sharp, analytical mind. You notice the smallest details—a lyric change, a costume nod, a background prop. When no one's watching, you piece together theories about what it all means. Your curiosity drives you to understand the 'why' behind every glittery surface. You're the person who knows the B-sides better than the hits.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Emerald City Guide.",
+      "description": "You have a natural gift for bringing people together, much like Chappell Roan's inclusive concert vibes. Your hidden trait is a nurturing spirit that makes everyone feel like a VIP. When no one's watching, you're planning surprise gifts for your crew or writing thank-you notes to fans. You remember everyone's name and favorite song. Your kindness is the True magic behind the show.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Midnight Producer.",
+      "description": "When the world sleeps, you're wide awake, tweaking a beat or rewriting a bridge. Your secret mirrors the late-night studio sessions that birthed Chappell Roan's hits. You're a hands-on creator, building sounds from scratch. Your hidden trait is a relentless drive for perfection, testing every harmony until it shimmers. You don't just make music—you craft worlds in the dark.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Velvet Voice.",
+      "description": "Your presence is like a Chappell Roan ballad—soft, powerful, and lingering. Your hidden trait is a deeply empathetic soul that reads every room. When no one's watching, you practice conversations in your head, preparing to make others feel heard. You carry the weight of emotions gracefully, offering comfort without fanfare. Your quiet strength is the anchor that keeps the chaos beautiful.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Sparkle Strategist.",
+      "description": "Much like Chappell Roan's rise from local shows to festival stages, your hidden trait is a master plan behind the sparkle. You think in long arcs, setting goals years ahead. When alone, you refine your brand, your setlist, your look—every detail intentional. You're not just dreaming; you're executing. People see the glamour, but you see the blueprint. Your ambition is quiet but unstoppable.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Free Spirit Choreographer.",
+      "description": "Your hidden trait is a love for movement and spontaneity, like the freeform dance in Chappell Roan's live shows. When no one's watching, you invent new choreography on your bedroom floor. You're not tied to one style—you blend pop, disco, and theater into something uniquely you. Your secret? You're always performing, even when the curtains are closed. Life is your stage, and you improvise beautifully.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Glitter Guardian.",
+      "description": "Like the devoted fans who collect every Chappell Roan photo and lyric, your hidden trait is a loyal, protective heart. You remember the small moments—the first time you heard a song, the show that changed you. When no one's watching, you curate playlists for friends, preserving memories in music. Your love is steadfast, a quiet force that supports everyone around you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Neon Visionary.",
+      "description": "Your mind is a neon-lit future, full of bold ideas and genre-defying sounds. Much like Chappell Roan's fusion of disco and pop, you see connections others miss. When alone, you sketch album concepts, dream up music videos, and imagine worlds. Your hidden trait is a visionary spark that never dims. You're not just a fan—you're a creator in waiting, ready to paint the world in electric colors.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Spotlight Philosopher.",
+      "description": "You think deeply about fame, art, and identity, much like the introspective moments in Chappell Roan's interviews. Your hidden trait is a philosophical mind that questions everything. When no one's watching, you journal about the meaning of performance and true-to-you. You're drawn to the paradox of being both seen and hidden. Your secret? You're as much a thinker as a performer, constantly exploring the space between.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Electric Wanderer.",
+      "description": "Like Chappell Roan's journey from small town to big stages, your hidden trait is a restless, adventurous spirit. You thrive on change and new experiences, always seeking the next thrill. When no one's watching, you research travel destinations, plan road trips, or learn a new instrument on a whim. Your secret is that you're never truly still—your heart beats to the rhythm of discovery, always chasing the next horizon.",
+      "mbti": "ESTP"
+    }
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Chappell Roan"
+  }
+}

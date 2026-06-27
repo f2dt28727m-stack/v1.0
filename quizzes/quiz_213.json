@@ -357,5 +357,10 @@
       "description": "Your future is a canvas of quiet expression, a world of beauty created in solitude. You paint, you dance, you write songs that capture the essence of a moment. Your life is a gentle flow, like the melody of 'Stay' or the soft hues of a sunset. You're the one who finds inspiration in nature and translates it into art. Your path is personal and true-to-you, a reflection of your unique soul. You might release an album of acoustic covers or start a small boutique. You are the quiet artist, the one whose work speaks volumes without words.",
       "mbti": "ISFP"
     }
-  ]
+  ],
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "MBTI"
+  },
+  "share_hook": "Ever wonder which BLACKPINK future vibe you'd match? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

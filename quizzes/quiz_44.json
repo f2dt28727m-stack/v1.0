@@ -352,5 +352,11 @@
     "⭐"
   ],
   "likes": 24824,
-  "tests": 2068682
+  "tests": 2068682,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ENFP",
+    "typing_alternate": "INFJ or ESFJ"
+  },
+  "share_hook": "There's a quick quiz that says you might be a fearless, folklore, or 1989 energy based on True personality dimensions. Curious which one?"
 }

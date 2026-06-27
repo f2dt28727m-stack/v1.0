@@ -352,5 +352,11 @@
     "🎤"
   ],
   "likes": 32829,
-  "tests": 2188655
+  "tests": 2188655,
+  "subject_meta": {
+    "pronoun": "she",
+    "typing_primary": "ESFJ",
+    "typing_alternate": "INFP or ISFP"
+  },
+  "share_hook": "Ever wonder which Olivia Rodrigo archetype you'd be? Most people guess wrong on the first try, and the result usually sparks a fun conversation."
 }

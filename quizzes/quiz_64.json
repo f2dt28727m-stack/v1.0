@@ -352,5 +352,18 @@
     "✨"
   ],
   "likes": 64522,
-  "tests": 4608744
+  "tests": 4608744,
+  "subject_meta": {
+    "pronoun": "they",
+    "is_group": true,
+    "group_name": "NewJeans",
+    "members": {
+      "Minji": "ESTJ",
+      "Hanni": "INFP",
+      "Danielle": "ENFP",
+      "Haerin": "ISTP",
+      "Hyein": "INFP"
+    }
+  },
+  "share_hook": "There's a quick quiz that says you might be a Minji, Hanni, or Hyein aesthetic based on True personality dimensions. Curious which one matches your vibe?"
 }

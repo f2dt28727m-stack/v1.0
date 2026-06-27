@@ -155,6 +155,7 @@ RATE_LIMITS = {
     'questions': (60, 60),
     'result':    (60, 60),
     'read':      (180, 60),
+    'share':     (120, 60),
     'global':    (300, 60),
 }
 UPSTASH_URL = os.environ.get('UPSTASH_REDIS_REST_URL', '')
@@ -235,6 +236,41 @@ def _record_completion(quiz_id):
         return True
     except Exception as e:
         print(f"[upstash] completion counter error: {e}")
+        return False
+
+
+def _record_share(quiz_id):
+    """Record one share intent for today (UTC). Fire-and-forget:
+    never raises and never affects the /api/share response. Returns True
+    if Upstash was hit, False if skipped (not configured / errored).
+
+    Same data shape as _record_completion but stored under a separate
+    hash namespace (share:YYYY-MM-DD) so the two metrics don't mix.
+    """
+    if not UPSTASH_URL or not UPSTASH_TOKEN or not quiz_id:
+        return False
+    try:
+        date_key = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+        hash_key = f"share:{date_key}"
+        # HINCRBY field quiz_id 1 + EXPIRE hash_key 100d. Pipeline = 1 round trip.
+        body = json.dumps([
+            ["HINCRBY", hash_key, quiz_id, 1],
+            ["EXPIRE", hash_key, COMPLETION_TTL_SECONDS],
+        ])
+        req = urllib.request.Request(
+            UPSTASH_URL.rstrip('/') + '/pipeline',
+            data=body.encode('utf-8'),
+            method='POST',
+            headers={
+                'Authorization': f'Bearer {UPSTASH_TOKEN}',
+                'Content-Type': 'application/json',
+            },
+        )
+        with urllib.request.urlopen(req, timeout=2) as resp:
+            resp.read()
+        return True
+    except Exception as e:
+        print(f"[upstash] share counter error: {e}")
         return False
 
 
@@ -347,6 +383,77 @@ def _admin_daily_csv(environ, start_response):
     headers = api_headers('no')
     headers['Content-Type'] = 'text/csv; charset=utf-8'
     headers['Content-Disposition'] = f'attachment; filename="quizfig-completions-{date_str}.csv"'
+    return respond(start_response, '200 OK', headers, csv_body)
+
+
+def _build_admin_share_csv(date_str):
+    """Build a CSV body for `date_str` (YYYY-MM-DD, must be < today UTC).
+    Includes all known quizzes (0 if no shares), sorted by count desc.
+    Mirror of _build_admin_daily_csv but reads from share: namespace."""
+    counts = _upstash_hgetall(f"share:{date_str}")
+    rows = []
+    for qid in sorted(_quizzes.keys()):
+        if qid == 'onequiz':
+            continue
+        title = _quizzes[qid].get('title', 'Untitled')
+        rows.append((qid, title, counts.get(qid, 0)))
+    rows.sort(key=lambda r: (-r[2], r[0]))
+
+    buf = StringIO()
+    buf.write('date,quiz_id,quiz_title,share_count\n')
+    for qid, title, cnt in rows:
+        buf.write(f'{date_str},{_csv_escape(qid)},{_csv_escape(title)},{cnt}\n')
+    return buf.getvalue()
+
+
+def _admin_share_csv(environ, start_response):
+    """GET /api/admin/share.csv?date=YYYY-MM-DD&key=XXX
+    T+1 daily share-intent report. `date` defaults to yesterday UTC.
+    Rejects today/future dates so reports stay reproducible.
+    Auth: ADMIN_KEY env var compared in constant time against ?key=.
+
+    Same shape and auth as _admin_daily_csv. Lets you read daily share
+    counts per quiz alongside the completion counts in daily.csv.
+    """
+    qs = urllib.parse.parse_qs(environ.get('QUERY_STRING', ''))
+    provided_key = (qs.get('key') or [''])[0]
+    expected_key = os.environ.get('ADMIN_KEY', '')
+
+    if not expected_key:
+        return respond(start_response, '503 SERVICE UNAVAILABLE', api_headers('no'),
+                       json.dumps({'error': 'ADMIN_KEY env var is not set on server'}))
+    if not provided_key or not hmac.compare_digest(provided_key, expected_key):
+        return respond(start_response, '401 UNAUTHORIZED', api_headers('no'),
+                       json.dumps({'error': 'Invalid or missing key'}))
+
+    date_str = (qs.get('date') or [''])[0].strip()
+    if not date_str:
+        date_str = (datetime.now(timezone.utc) - timedelta(days=1)).strftime('%Y-%m-%d')
+
+    try:
+        datetime.strptime(date_str, '%Y-%m-%d')
+    except ValueError:
+        return respond(start_response, '400 BAD REQUEST', api_headers('no'),
+                       json.dumps({'error': 'Invalid date format, use YYYY-MM-DD'}))
+
+    today_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+    if date_str >= today_utc:
+        return respond(start_response, '400 BAD REQUEST', api_headers('no'),
+                       json.dumps({'error': f'T+1 only: requested date must be before today UTC ({today_utc})'}))
+
+    if not UPSTASH_URL or not UPSTASH_TOKEN:
+        return respond(start_response, '503 SERVICE UNAVAILABLE', api_headers('no'),
+                       json.dumps({'error': 'Upstash not configured; no share data available'}))
+
+    try:
+        csv_body = _build_admin_share_csv(date_str)
+    except Exception as e:
+        return respond(start_response, '500 INTERNAL SERVER ERROR', api_headers('no'),
+                       json.dumps({'error': f'Build failed: {e}'}))
+
+    headers = api_headers('no')
+    headers['Content-Type'] = 'text/csv; charset=utf-8'
+    headers['Content-Disposition'] = f'attachment; filename="quizfig-shares-{date_str}.csv"'
     return respond(start_response, '200 OK', headers, csv_body)
 
 
@@ -472,10 +579,21 @@ def api_headers(cache='short'):
 # ---------- SSR: Quiz detail page ----------
 def build_subject_section_html(full_quiz, tags):
     """Render the inner H2 section that surfaces the celebrity/group's
-    widely-discussed MBTI typing. Returns '' when subject_meta is absent.
+    widely-discussed MBTI typing. Returns '' only when subject_meta is
+    absent AND there's no topic to anchor a generic H2 on.
 
     Hedge language: "widely typed as", "fans and personality communities",
     "with some discussions also citing". Uses 'or' between alternate typings.
+
+    Tier A — curated (full MBTI / member list / character list) renders rich
+    H2s with typed data. Tier B — generic fallback — renders a topic-anchored
+    H2 from subject_meta.topic (or tags[0]) when the topic isn't in
+    CELEBRITY_TYPINGS / FRANCHISE_TAGS. Generic H2s don't claim curated data
+    (no MBTI, no members, no characters), but they DO surface the topic name
+    for SEO so the page is indexable for "{topic} personality quiz"-style
+    queries. The renderer never returns '' for Tier B: a quiz that reaches
+    the factory should always get an H2 back. The old behaviour (silent
+    return '' for any topic without curated meta) was the bug.
     """
     meta = full_quiz.get('subject_meta') or {}
     subject = (tags or ['Unknown'])[0]
@@ -519,6 +637,31 @@ def build_subject_section_html(full_quiz, tags):
             f"    <h2>{h(subject)} Characters&rsquo; MBTI Types</h2>\n"
             f"    <p>Each of the {count} {h(subject)} characters in this quiz has their own widely-discussed MBTI type in fan communities. This free quiz matches you to the character whose personality type most closely mirrors yours:</p>\n"
             f"    <ul style=\"margin:8px 0 0 0;padding-left:18px;list-style:disc\">{items_html}</ul>\n"
+            f"  </section>"
+        )
+
+    # Generic fallback (Tier B) — applies when the topic isn't in
+    # CELEBRITY_TYPINGS / FRANCHISE_TAGS. Renderer ALWAYS produces an
+    # H2 here (no claim of curated data, but topic-anchored for SEO).
+    # Prefer subject_meta.topic (set by inject_subject_meta) over
+    # tags[0] so the topic name in the H2 is consistent with what
+    # the factory decided. Old behaviour: returned '' for any quiz
+    # without curated meta → bug. New: always renders a Tier B H2.
+    if meta.get('is_generic'):
+        # Build a topic-anchored, no-MBTi-claim H2. Pull category from
+        # the quiz if available, default to "personality" as a safe
+        # generic. question_count comes from results count if missing.
+        topic_name = (meta.get('topic') or subject or '').strip()
+        if not topic_name:
+            return ''
+        category_hint = (full_quiz.get('category') or 'personality').strip()
+        results = full_quiz.get('results') or []
+        n_results = len(results)
+        n_q = len(full_quiz.get('questions') or [])
+        return (
+            f"  <section>\n"
+            f"    <h2>{h(topic_name)} Personality Quiz: What Type Matches You?</h2>\n"
+            f"    <p>This free {h(category_hint)} quiz walks you through {n_q} quick questions and matches you to one of {n_results} personality types inspired by {h(topic_name)}. Answer honestly to see which one fits you best &mdash; most people find the result is something they want to share with friends.</p>\n"
             f"  </section>"
         )
 
@@ -1019,7 +1162,11 @@ def app(environ, start_response):
         return respond(start_response, '200 OK', api_headers('no'),
                        json.dumps({'questions': questions,
                                    'quiz_id': quiz_id,
-                                   'title': quiz.get('title', 'Quiz')},
+                                   'title': quiz.get('title', 'Quiz'),
+                                   'description': quiz.get('description', ''),
+                                   'category': quiz.get('category', 'general'),
+                                   'tags': quiz.get('tags', []),
+                                   'share_hook': quiz.get('share_hook', '')},
                                   ensure_ascii=False))
 
     # ---------- /api/result (POST) ----------
@@ -1109,9 +1256,33 @@ def app(environ, start_response):
                            }
                        }, ensure_ascii=False))
 
+    # ---------- /api/share (POST) — T+1 share intent counter ----------
+    # Mirrors /api/result's _record_completion pattern. Called from the
+    # result page on share-button click. We count INTENT (not completion),
+    # so we fire on the click itself, not on navigator.share's promise.
+    if path == '/api/share' and method == 'POST':
+        blocked = _enforce_rate_limit(environ, start_response, 'share')
+        if blocked is not None:
+            return respond(start_response, blocked[1], blocked[2], blocked[0])
+        try:
+            data = json.loads(body) if body else {}
+        except Exception:
+            data = {}
+        quiz_id = (data.get('quiz_id') or '').strip()
+        if not quiz_id or not re.match(r'^[A-Za-z0-9_]+$', quiz_id):
+            return respond(start_response, '400 BAD REQUEST', api_headers('no'),
+                           json.dumps({'error': 'Invalid quiz_id'}))
+        _record_share(quiz_id)
+        return respond(start_response, '200 OK', api_headers('no'),
+                       json.dumps({'ok': True}))
+
     # ---------- /api/admin/daily.csv (GET) — T+1 completion report ----------
     if path == '/api/admin/daily.csv' and method == 'GET':
         return _admin_daily_csv(environ, start_response)
+
+    # ---------- /api/admin/share.csv (GET) — T+1 share report ----------
+    if path == '/api/admin/share.csv' and method == 'GET':
+        return _admin_share_csv(environ, start_response)
 
     # ---------- 404 ----------
     return respond(start_response, '404 NOT FOUND', api_headers('no'),

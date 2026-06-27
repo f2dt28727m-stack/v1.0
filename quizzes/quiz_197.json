@@ -352,5 +352,10 @@
     "🎯"
   ],
   "likes": 38209,
-  "tests": 2547285
+  "tests": 2547285,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Career"
+  },
+  "share_hook": "Most people score the same result on this hidden career trait quiz, but about one in five ends up in a totally different bucket. Curious where you'd land?"
 }

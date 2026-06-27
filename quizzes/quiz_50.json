@@ -355,5 +355,6 @@
   "tests": 1948709,
   "subject_meta": {
     "is_character_list": true
-  }
+  },
+  "share_hook": "There's a quick quiz that says you might face Euphoria's raw moments with Rue's defiance, Jules's vulnerability, or Cassie's desperation. Curious which one?"
 }
