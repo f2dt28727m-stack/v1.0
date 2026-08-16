@@ -84,6 +84,30 @@
       "dest": "/api/index.py"
     },
     {
+      "src": "/mbti-types",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/mbti-types/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/characters",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/characters/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/llms-full.txt",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/llms.txt",
+      "dest": "/api/index.py"
+    },
+    {
       "src": "/sitemap.xml",
       "dest": "/api/index.py"
     },

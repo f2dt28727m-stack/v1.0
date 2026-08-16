@@ -50,6 +50,97 @@ SITE_DESC = (
     'character matches. Take a quiz, share with friends, and discover yourself.'
 )
 
+# ---------- GEO: Entity canonical references ----------
+# Curated map from quiz subject (the first tag, lowercased) to canonical
+# Wikipedia + Wikidata URLs. GEO needs `sameAs` on Person/MusicGroup schema so
+# AI engines can resolve "QuizFig's Taylor Swift" to the canonical entity.
+# Only well-known subjects are included — for unknown ones we omit sameAs
+# rather than hallucinate a URL.
+SUBJECT_SAMEAS = {
+    'taylor swift': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Taylor_Swift',
+        'wikidata':  'https://www.wikidata.org/wiki/Q26876',
+        'kind':      'Person',
+    },
+    'sza': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/SZA',
+        'wikidata':  'https://www.wikidata.org/wiki/Q15273932',
+        'kind':      'Person',
+    },
+    'olivia rodrigo': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Olivia_Rodrigo',
+        'wikidata':  'https://www.wikidata.org/wiki/Q96372810',
+        'kind':      'Person',
+    },
+    'sabrina carpenter': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Sabrina_Carpenter',
+        'wikidata':  'https://www.wikidata.org/wiki/Q22128117',
+        'kind':      'Person',
+    },
+    'ice spice': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Ice_Spice',
+        'wikidata':  'https://www.wikidata.org/wiki/Q110272164',
+        'kind':      'Person',
+    },
+    'dua lipa': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Dua_Lipa',
+        'wikidata':  'https://www.wikidata.org/wiki/Q28109438',
+        'kind':      'Person',
+    },
+    'billie eilish': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Billie_Eilish',
+        'wikidata':  'https://www.wikidata.org/wiki/Q56737814',
+        'kind':      'Person',
+    },
+    'lana del rey': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Lana_Del_Rey',
+        'wikidata':  'https://www.wikidata.org/wiki/Q18444288',
+        'kind':      'Person',
+    },
+    'chappell roan': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Chappell_Roan',
+        'wikidata':  'https://www.wikidata.org/wiki/Q106524586',
+        'kind':      'Person',
+    },
+    'blackpink': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/Blackpink',
+        'wikidata':  'https://www.wikidata.org/wiki/Q20909934',
+        'kind':      'MusicGroup',
+    },
+    'newjeans': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/NewJeans',
+        'wikidata':  'https://www.wikidata.org/wiki/Q111160994',
+        'kind':      'MusicGroup',
+    },
+    'bts': {
+        'wikipedia': 'https://en.wikipedia.org/wiki/BTS',
+        'wikidata':  'https://www.wikidata.org/wiki/Q20881830',
+        'kind':      'MusicGroup',
+    },
+}
+
+# ---------- GEO: 16 MBTI type definitions ----------
+# Used by the /mbti-types/ hub page and DefinedTerm JSON-LD on quiz pages.
+MBTI_TYPES = [
+    {'name': 'INTJ', 'title': 'The Architect',      'group': 'Analysts',   'description': 'Strategic, independent, and driven by long-term vision. INTJs value competence and prefer systems over chaos.'},
+    {'name': 'INTP', 'title': 'The Logician',       'group': 'Analysts',   'description': 'Curious, theoretical, and idea-driven. INTPs love exploring abstract concepts and building mental models.'},
+    {'name': 'ENTJ', 'title': 'The Commander',      'group': 'Analysts',   'description': 'Decisive, ambitious, and natural leaders. ENTJs turn vision into plan and plan into action.'},
+    {'name': 'ENTP', 'title': 'The Debater',        'group': 'Analysts',   'description': 'Inventive, outspoken, and quick-witted. ENTPs love debate for its own sake and thrive on new ideas.'},
+    {'name': 'INFJ', 'title': 'The Advocate',       'group': 'Diplomats',  'description': 'Insightful, principled, and quietly intense. INFJs are guided by deep values and a strong sense of purpose.'},
+    {'name': 'INFP', 'title': 'The Mediator',       'group': 'Diplomats',  'description': 'Imaginative, empathetic, and value-driven. INFPs live in their inner world of feelings and ideals.'},
+    {'name': 'ENFJ', 'title': 'The Protagonist',    'group': 'Diplomats',  'description': 'Charismatic, warm, and natural mentors. ENFJs lead with empathy and inspire others to grow.'},
+    {'name': 'ENFP', 'title': 'The Campaigner',     'group': 'Diplomats',  'description': 'Enthusiastic, creative, and socially intuitive. ENFPs see possibilities everywhere and lift the energy of any room.'},
+    {'name': 'ISTJ', 'title': 'The Logistician',    'group': 'Sentinels',  'description': 'Reliable, methodical, and dutiful. ISTJs honor commitments and prefer proven methods over experiments.'},
+    {'name': 'ISFJ', 'title': 'The Defender',       'group': 'Sentinels',  'description': 'Warm, attentive, and quietly loyal. ISFJs care for people in practical, often unnoticed ways.'},
+    {'name': 'ESTJ', 'title': 'The Executive',      'group': 'Sentinels',  'description': 'Organized, direct, and grounded. ESTJs bring order and accountability to groups and projects.'},
+    {'name': 'ESFJ', 'title': 'The Consul',         'group': 'Sentinels',  'description': 'Sociable, conscientious, and community-minded. ESFJs hold groups together through care and coordination.'},
+    {'name': 'ISTP', 'title': 'The Virtuoso',       'group': 'Explorers',  'description': 'Cool-headed, observant, and hands-on. ISTPs learn by doing and excel at troubleshooting under pressure.'},
+    {'name': 'ISFP', 'title': 'The Adventurer',     'group': 'Explorers',  'description': 'Gentle, aesthetic, and present. ISFPs live in the moment and express themselves through action and art.'},
+    {'name': 'ESTP', 'title': 'The Entrepreneur',   'group': 'Explorers',  'description': 'Energetic, perceptive, and action-oriented. ESTPs read rooms fast and move first.'},
+    {'name': 'ESFP', 'title': 'The Entertainer',    'group': 'Explorers',  'description': 'Spontaneous, fun-loving, and warm. ESFPs make the moment brighter and pull others into it.'},
+]
+MBTI_TYPE_MAP = {t['name']: t for t in MBTI_TYPES}
+
 # ---------- Quiz data load (cold start) ----------
 _quizzes = {}
 _config = {}
@@ -155,7 +246,6 @@ RATE_LIMITS = {
     'questions': (60, 60),
     'result':    (60, 60),
     'read':      (180, 60),
-    'share':     (120, 60),
     'global':    (300, 60),
 }
 UPSTASH_URL = os.environ.get('UPSTASH_REDIS_REST_URL', '')
@@ -236,41 +326,6 @@ def _record_completion(quiz_id):
         return True
     except Exception as e:
         print(f"[upstash] completion counter error: {e}")
-        return False
-
-
-def _record_share(quiz_id):
-    """Record one share intent for today (UTC). Fire-and-forget:
-    never raises and never affects the /api/share response. Returns True
-    if Upstash was hit, False if skipped (not configured / errored).
-
-    Same data shape as _record_completion but stored under a separate
-    hash namespace (share:YYYY-MM-DD) so the two metrics don't mix.
-    """
-    if not UPSTASH_URL or not UPSTASH_TOKEN or not quiz_id:
-        return False
-    try:
-        date_key = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-        hash_key = f"share:{date_key}"
-        # HINCRBY field quiz_id 1 + EXPIRE hash_key 100d. Pipeline = 1 round trip.
-        body = json.dumps([
-            ["HINCRBY", hash_key, quiz_id, 1],
-            ["EXPIRE", hash_key, COMPLETION_TTL_SECONDS],
-        ])
-        req = urllib.request.Request(
-            UPSTASH_URL.rstrip('/') + '/pipeline',
-            data=body.encode('utf-8'),
-            method='POST',
-            headers={
-                'Authorization': f'Bearer {UPSTASH_TOKEN}',
-                'Content-Type': 'application/json',
-            },
-        )
-        with urllib.request.urlopen(req, timeout=2) as resp:
-            resp.read()
-        return True
-    except Exception as e:
-        print(f"[upstash] share counter error: {e}")
         return False
 
 
@@ -383,77 +438,6 @@ def _admin_daily_csv(environ, start_response):
     headers = api_headers('no')
     headers['Content-Type'] = 'text/csv; charset=utf-8'
     headers['Content-Disposition'] = f'attachment; filename="quizfig-completions-{date_str}.csv"'
-    return respond(start_response, '200 OK', headers, csv_body)
-
-
-def _build_admin_share_csv(date_str):
-    """Build a CSV body for `date_str` (YYYY-MM-DD, must be < today UTC).
-    Includes all known quizzes (0 if no shares), sorted by count desc.
-    Mirror of _build_admin_daily_csv but reads from share: namespace."""
-    counts = _upstash_hgetall(f"share:{date_str}")
-    rows = []
-    for qid in sorted(_quizzes.keys()):
-        if qid == 'onequiz':
-            continue
-        title = _quizzes[qid].get('title', 'Untitled')
-        rows.append((qid, title, counts.get(qid, 0)))
-    rows.sort(key=lambda r: (-r[2], r[0]))
-
-    buf = StringIO()
-    buf.write('date,quiz_id,quiz_title,share_count\n')
-    for qid, title, cnt in rows:
-        buf.write(f'{date_str},{_csv_escape(qid)},{_csv_escape(title)},{cnt}\n')
-    return buf.getvalue()
-
-
-def _admin_share_csv(environ, start_response):
-    """GET /api/admin/share.csv?date=YYYY-MM-DD&key=XXX
-    T+1 daily share-intent report. `date` defaults to yesterday UTC.
-    Rejects today/future dates so reports stay reproducible.
-    Auth: ADMIN_KEY env var compared in constant time against ?key=.
-
-    Same shape and auth as _admin_daily_csv. Lets you read daily share
-    counts per quiz alongside the completion counts in daily.csv.
-    """
-    qs = urllib.parse.parse_qs(environ.get('QUERY_STRING', ''))
-    provided_key = (qs.get('key') or [''])[0]
-    expected_key = os.environ.get('ADMIN_KEY', '')
-
-    if not expected_key:
-        return respond(start_response, '503 SERVICE UNAVAILABLE', api_headers('no'),
-                       json.dumps({'error': 'ADMIN_KEY env var is not set on server'}))
-    if not provided_key or not hmac.compare_digest(provided_key, expected_key):
-        return respond(start_response, '401 UNAUTHORIZED', api_headers('no'),
-                       json.dumps({'error': 'Invalid or missing key'}))
-
-    date_str = (qs.get('date') or [''])[0].strip()
-    if not date_str:
-        date_str = (datetime.now(timezone.utc) - timedelta(days=1)).strftime('%Y-%m-%d')
-
-    try:
-        datetime.strptime(date_str, '%Y-%m-%d')
-    except ValueError:
-        return respond(start_response, '400 BAD REQUEST', api_headers('no'),
-                       json.dumps({'error': 'Invalid date format, use YYYY-MM-DD'}))
-
-    today_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-    if date_str >= today_utc:
-        return respond(start_response, '400 BAD REQUEST', api_headers('no'),
-                       json.dumps({'error': f'T+1 only: requested date must be before today UTC ({today_utc})'}))
-
-    if not UPSTASH_URL or not UPSTASH_TOKEN:
-        return respond(start_response, '503 SERVICE UNAVAILABLE', api_headers('no'),
-                       json.dumps({'error': 'Upstash not configured; no share data available'}))
-
-    try:
-        csv_body = _build_admin_share_csv(date_str)
-    except Exception as e:
-        return respond(start_response, '500 INTERNAL SERVER ERROR', api_headers('no'),
-                       json.dumps({'error': f'Build failed: {e}'}))
-
-    headers = api_headers('no')
-    headers['Content-Type'] = 'text/csv; charset=utf-8'
-    headers['Content-Disposition'] = f'attachment; filename="quizfig-shares-{date_str}.csv"'
     return respond(start_response, '200 OK', headers, csv_body)
 
 
@@ -579,21 +563,10 @@ def api_headers(cache='short'):
 # ---------- SSR: Quiz detail page ----------
 def build_subject_section_html(full_quiz, tags):
     """Render the inner H2 section that surfaces the celebrity/group's
-    widely-discussed MBTI typing. Returns '' only when subject_meta is
-    absent AND there's no topic to anchor a generic H2 on.
+    widely-discussed MBTI typing. Returns '' when subject_meta is absent.
 
     Hedge language: "widely typed as", "fans and personality communities",
     "with some discussions also citing". Uses 'or' between alternate typings.
-
-    Tier A — curated (full MBTI / member list / character list) renders rich
-    H2s with typed data. Tier B — generic fallback — renders a topic-anchored
-    H2 from subject_meta.topic (or tags[0]) when the topic isn't in
-    CELEBRITY_TYPINGS / FRANCHISE_TAGS. Generic H2s don't claim curated data
-    (no MBTI, no members, no characters), but they DO surface the topic name
-    for SEO so the page is indexable for "{topic} personality quiz"-style
-    queries. The renderer never returns '' for Tier B: a quiz that reaches
-    the factory should always get an H2 back. The old behaviour (silent
-    return '' for any topic without curated meta) was the bug.
     """
     meta = full_quiz.get('subject_meta') or {}
     subject = (tags or ['Unknown'])[0]
@@ -613,55 +586,6 @@ def build_subject_section_html(full_quiz, tags):
             f"  <section>\n"
             f"    <h2>{h(subject)} Members&rsquo; MBTI Types</h2>\n"
             f"    <p>Each {h(subject)} member has her own widely-discussed MBTI type in fan communities: {member_html}. This free quiz matches you to the member whose personality type most closely mirrors yours.</p>\n"
-            f"  </section>"
-        )
-
-    # Character list (e.g. Harry Potter, Genshin roster): render every
-    # result's title + mbti so each character name + typing is indexable
-    # and can capture "<character> MBTI" searches.
-    if meta.get('is_character_list'):
-        results = full_quiz.get('results') or []
-        char_rows = [
-            r for r in results
-            if (r.get('title') or r.get('name')) and r.get('mbti')
-        ]
-        if not char_rows:
-            return ''
-        items_html = ''.join(
-            f"<li><strong>{h((r.get('title') or r.get('name', '')).strip())}</strong> &mdash; <strong>{h(r['mbti'].strip())}</strong></li>"
-            for r in char_rows
-        )
-        count = len(char_rows)
-        return (
-            f"  <section>\n"
-            f"    <h2>{h(subject)} Characters&rsquo; MBTI Types</h2>\n"
-            f"    <p>Each of the {count} {h(subject)} characters in this quiz has their own widely-discussed MBTI type in fan communities. This free quiz matches you to the character whose personality type most closely mirrors yours:</p>\n"
-            f"    <ul style=\"margin:8px 0 0 0;padding-left:18px;list-style:disc\">{items_html}</ul>\n"
-            f"  </section>"
-        )
-
-    # Generic fallback (Tier B) — applies when the topic isn't in
-    # CELEBRITY_TYPINGS / FRANCHISE_TAGS. Renderer ALWAYS produces an
-    # H2 here (no claim of curated data, but topic-anchored for SEO).
-    # Prefer subject_meta.topic (set by inject_subject_meta) over
-    # tags[0] so the topic name in the H2 is consistent with what
-    # the factory decided. Old behaviour: returned '' for any quiz
-    # without curated meta → bug. New: always renders a Tier B H2.
-    if meta.get('is_generic'):
-        # Build a topic-anchored, no-MBTi-claim H2. Pull category from
-        # the quiz if available, default to "personality" as a safe
-        # generic. question_count comes from results count if missing.
-        topic_name = (meta.get('topic') or subject or '').strip()
-        if not topic_name:
-            return ''
-        category_hint = (full_quiz.get('category') or 'personality').strip()
-        results = full_quiz.get('results') or []
-        n_results = len(results)
-        n_q = len(full_quiz.get('questions') or [])
-        return (
-            f"  <section>\n"
-            f"    <h2>{h(topic_name)} Personality Quiz: What Type Matches You?</h2>\n"
-            f"    <p>This free {h(category_hint)} quiz walks you through {n_q} quick questions and matches you to one of {n_results} personality types inspired by {h(topic_name)}. Answer honestly to see which one fits you best &mdash; most people find the result is something they want to share with friends.</p>\n"
             f"  </section>"
         )
 
@@ -686,6 +610,647 @@ def build_subject_section_html(full_quiz, tags):
         f"    <p>{h(subject)} is widely typed as <strong>{h(primary)}</strong> by fans and personality communities{alt_html}. This free quiz helps you discover your own type and see which one matches your traits.</p>\n"
         f"  </section>"
     )
+
+
+# ---------- GEO: FAQPage, entity, defined-term, hub builders ----------
+def _subject_lookup(tags):
+    if not tags:
+        return ''
+    return (tags[0] or '').strip().lower()
+
+
+def _quiz_subject_kind(quiz_id, tags, full_quiz):
+    meta = (full_quiz or {}).get('subject_meta') or {}
+    if meta.get('is_group'):
+        return 'MusicGroup'
+    if meta.get('is_character_list'):
+        return 'Thing'
+    if meta.get('is_generic'):
+        return ''
+    sub = _subject_lookup(tags)
+    if sub in SUBJECT_SAMEAS:
+        return SUBJECT_SAMEAS[sub]['kind']
+    return ''
+
+
+def build_faq_for_quiz(quiz_id, summary, full_quiz, canonical):
+    title = summary['title']
+    meta  = (full_quiz or {}).get('subject_meta') or {}
+    sub   = _subject_lookup(summary.get('tags') or [])
+    qcount = summary.get('question_count', 12)
+    rcount = summary.get('result_count', 16)
+
+    faqs = []
+    faqs.append({
+        '@type': 'Question',
+        'name': f"How long does the {title} take?",
+        'acceptedAnswer': {'@type': 'Answer', 'text': f"Most people finish in about 3 minutes. The quiz has {qcount} short questions, each with 4 answer options. You can retake it any time."},
+    })
+    faqs.append({
+        '@type': 'Question',
+        'name': f"How accurate is the {title}?",
+        'acceptedAnswer': {'@type': 'Answer', 'text': "The quiz uses MBTI-style trait mapping for entertainment and self-reflection. It is not a clinical or psychological assessment and should not be used to make life decisions. Treat your result as a starting point, not a verdict."},
+    })
+
+    if meta.get('is_group') and sub:
+        members = meta.get('members') or {}
+        member_list = ', '.join(f"{n} ({t})" for n, t in list(members.items())[:6]) if members else 'the group members'
+        sub_title = sub.title()
+        faqs.append({
+            '@type': 'Question',
+            'name': f"Which {sub_title} member matches my personality?",
+            'acceptedAnswer': {'@type': 'Answer', 'text': f"Take the quiz to find out. {sub_title} members and their widely-discussed MBTI types include: {member_list}. The quiz maps your answers to the member whose personality profile is closest to yours."},
+        })
+    elif meta.get('is_character_list') and sub:
+        results = full_quiz.get('results') or []
+        names = [r.get('title') or r.get('name') or '' for r in results[:3]]
+        names = [n for n in names if n]
+        sample = ', '.join(names) if names else 'a roster of characters'
+        sub_title = sub.title()
+        faqs.append({
+            '@type': 'Question',
+            'name': f"Which {sub_title} character am I most like?",
+            'acceptedAnswer': {'@type': 'Answer', 'text': f"Answer {qcount} questions and the quiz matches you to the {sub_title} character whose personality mirrors yours. Possible matches include: {sample}."},
+        })
+    elif sub in SUBJECT_SAMEAS:
+        sub_title = sub.title()
+        kind_label = 'artist' if SUBJECT_SAMEAS[sub]['kind'] == 'Person' else 'group'
+        primary = (meta.get('typing_primary') or '').strip()
+        alt = (meta.get('typing_alternate') or '').strip()
+        typing_line = ''
+        if primary:
+            typing_line = f" Fans and personality communities widely type {sub_title} as {primary}"
+            if alt:
+                typing_line += f", with some discussions also citing {alt}"
+            typing_line += '.'
+        faqs.append({
+            '@type': 'Question',
+            'name': f"What is {sub_title}'s MBTI type?",
+            'acceptedAnswer': {'@type': 'Answer', 'text': f"{sub_title} is a {kind_label} whose personality type is widely discussed in fan communities.{typing_line} This free quiz helps you discover your own type and see which one matches your traits."},
+        })
+    else:
+        faqs.append({
+            '@type': 'Question',
+            'name': f"What personality types does the {title} include?",
+            'acceptedAnswer': {'@type': 'Answer', 'text': f"The quiz maps your answers to {rcount} personality results. Each result combines the four MBTI dimensions (E/I, S/N, T/F, J/P) into a distinct profile. Take the quiz to see which one matches you."},
+        })
+
+    faqs.append({
+        '@type': 'Question',
+        'name': f"Can I share my {title} result?",
+        'acceptedAnswer': {'@type': 'Answer', 'text': "Yes. After finishing, tap the share button to send your result to friends via your phone's share menu, or copy a link. Sharing works without an account."},
+    })
+
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        'url': canonical,
+        'mainEntity': faqs,
+    }
+
+
+def build_subject_entity_schema(quiz_id, summary, full_quiz, canonical):
+    kind = _quiz_subject_kind(quiz_id, summary.get('tags') or [], full_quiz)
+    if kind not in ('Person', 'MusicGroup'):
+        return {}
+    sub = _subject_lookup(summary.get('tags') or [])
+    if not sub:
+        return {}
+    refs = SUBJECT_SAMEAS.get(sub, {})
+    meta = (full_quiz or {}).get('subject_meta') or {}
+    primary = (meta.get('typing_primary') or '').strip()
+    alternate = (meta.get('typing_alternate') or '').strip()
+    desc = summary.get('description') or ''
+    same_as = []
+    if refs.get('wikipedia'):
+        same_as.append(refs['wikipedia'])
+    if refs.get('wikidata'):
+        same_as.append(refs['wikidata'])
+    entity = {
+        '@type': kind,
+        'name': sub.title(),
+        'url': refs.get('wikipedia') or canonical,
+        'description': desc,
+    }
+    if same_as:
+        entity['sameAs'] = same_as
+    if primary:
+        entity['additionalProperty'] = [{'@type': 'PropertyValue', 'name': 'MBTI type (widely discussed)', 'value': primary}]
+    if alternate:
+        ap = entity.get('additionalProperty') or []
+        ap.append({'@type': 'PropertyValue', 'name': 'MBTI alternates (also discussed)', 'value': alternate.replace(' or ', ', ')})
+        entity['additionalProperty'] = ap
+    return entity
+
+
+def build_defined_term_schema(quiz_id, summary, full_quiz, canonical):
+    out = []
+    seen = set()
+    for r in (full_quiz.get('results') or []):
+        code = (r.get('mbtiType') or r.get('mbti') or '').strip().upper()
+        if not code or code in seen:
+            continue
+        seen.add(code)
+        meta = MBTI_TYPE_MAP.get(code)
+        if not meta:
+            continue
+        out.append({
+            '@context': 'https://schema.org',
+            '@type': 'DefinedTerm',
+            'name': code,
+            'alternateName': meta['title'],
+            'description': meta['description'],
+            'inDefinedTermSet': {
+                '@type': 'DefinedTermSet',
+                'name': 'Myers-Briggs Type Indicator (MBTI)',
+                'url': 'https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator',
+            },
+            'url': f"{SITE_URL}/mbti-types/#{code.lower()}",
+        })
+    return out
+
+
+def build_llms_txt():
+    lines = []
+    lines.append(f"# {SITE_NAME}")
+    lines.append('')
+    lines.append(f"> {SITE_TAGLINE}")
+    lines.append('')
+    lines.append(f"{SITE_NAME} is a free personality-quiz site with ~{len(_quizzes)} MBTI-style quizzes across celebrity matches, character picks, pop-culture typings, and self-discovery games. Each quiz is 12 questions, takes ~3 minutes, and returns a 4-letter MBTI result with a shareable description.")
+    lines.append('')
+    lines.append(f"## Main URLs")
+    lines.append('')
+    lines.append(f"- [Homepage]({SITE_URL}/): browse all quizzes")
+    lines.append(f"- [MBTI Types Hub]({SITE_URL}/mbti-types/): all 16 personality types with definitions")
+    lines.append(f"- [Characters Hub]({SITE_URL}/characters/): character-based quizzes by franchise")
+    lines.append(f"- [Sitemap]({SITE_URL}/sitemap.xml): full quiz index")
+    lines.append(f"- [Full content dump]({SITE_URL}/llms-full.txt): every quiz title, description, tags, and result list")
+    lines.append('')
+    lines.append("## Categories")
+    lines.append('')
+    cat_counts = {}
+    for qid, q in _quizzes.items():
+        if qid == 'onequiz':
+            continue
+        cat = (q.get('category') or 'general').strip() or 'general'
+        cat_counts[cat] = cat_counts.get(cat, 0) + 1
+    cat_label = {
+        'which':       '"Which X Are You?" personality tests',
+        'which_x':     '"Which X Are You?" personality tests',
+        'how':         '"How X are you?" style quizzes',
+        'whatwould':   '"What would X do?" scenario quizzes',
+        'hidden':      '"Hidden X" or surprise-trait quizzes',
+        'type':        'Type classifier quizzes',
+        'match':       'Match / pairing quizzes',
+        'pick':        'Pick / choose quizzes',
+        'future':      'Future / projection quizzes',
+        'degree':      '"What degree of X" intensity quizzes',
+        'character':   'Character match quizzes',
+        'mbti':        'MBTI tests',
+        'personality': 'General personality',
+        'trivia':      'Trivia',
+        'aesthetic':   'Aesthetic & vibe quizzes',
+    }
+    for cat in sorted(cat_counts.keys(), key=lambda c: -cat_counts[c]):
+        label = cat_label.get(cat, cat.replace('_', ' ').title() + ' quizzes')
+        lines.append(f"- {label} ({cat_counts[cat]} quizzes)")
+    lines.append('')
+    lines.append("## Featured Quizzes")
+    lines.append('')
+    sorted_quizzes = sorted(
+        ((qid, q) for qid, q in _quizzes.items() if qid != 'onequiz'),
+        key=lambda kv: -(int(kv[1].get('likes') or 0)),
+    )[:50]
+    for qid, q in sorted_quizzes:
+        title = (q.get('title') or 'Untitled').strip()
+        desc = (q.get('description') or '').strip()
+        if len(desc) > 140:
+            desc = desc[:137] + '...'
+        lines.append(f"- [{title}]({SITE_URL}/quiz/{qid}): {desc}")
+    lines.append('')
+    lines.append("## Optional")
+    lines.append('')
+    lines.append(f"- [Full content dump for AI training]({SITE_URL}/llms-full.txt)")
+    lines.append(f"- [Sitemap for crawlers]({SITE_URL}/sitemap.xml)")
+    lines.append(f"- [Robots policy]({SITE_URL}/robots.txt)")
+    lines.append('')
+    lines.append("## Common MBTI Comparisons (X vs Y)")
+    lines.append('')
+    lines.append(f"Each link points to a side-by-side comparison on the MBTI Types Hub with a `Comparison` schema.org block.")
+    lines.append('')
+    cmp_pairs = [
+        ('INTJ', 'INTP'), ('INTJ', 'INFJ'), ('INFP', 'INFJ'), ('ENFP', 'ENTP'),
+        ('ISTJ', 'ISFJ'), ('ENFJ', 'ENFP'), ('ESTJ', 'ENTJ'), ('ESFJ', 'ISFJ'),
+    ]
+    for a, b in cmp_pairs:
+        anchor = f"{a.lower()}-vs-{b.lower()}"
+        lines.append(f"- [{a} vs {b}]({SITE_URL}/mbti-types/#{anchor}): side-by-side traits and key difference")
+    return '\n'.join(lines) + '\n'
+
+
+def build_llms_full_txt():
+    lines = []
+    lines.append(f"# {SITE_NAME} \u2014 Full Content Dump")
+    lines.append('')
+    lines.append(f"> Generated {datetime.now(timezone.utc).strftime('%Y-%m-%d')} \u2014 {len(_quizzes)} quizzes total.")
+    lines.append('')
+    lines.append(f"{SITE_DESC}")
+    lines.append('')
+    lines.append("---")
+    lines.append('')
+    for qid in sorted(_quizzes.keys()):
+        if qid == 'onequiz':
+            continue
+        q = _quizzes.get(qid, {})
+        title = (q.get('title') or 'Untitled').strip()
+        desc = (q.get('description') or '').strip()
+        cat = (q.get('category') or '').strip()
+        tags = q.get('tags') or []
+        meta = q.get('subject_meta') or {}
+        results = q.get('results') or []
+        url = f"{SITE_URL}/quiz/{qid}"
+        lines.append(f"## {title}")
+        lines.append('')
+        lines.append(f"- URL: {url}")
+        if cat:
+            lines.append(f"- Category: {cat}")
+        if tags:
+            lines.append(f"- Tags: {', '.join(str(t) for t in tags)}")
+        if desc:
+            lines.append('')
+            lines.append(desc)
+        if meta.get('is_group'):
+            members = meta.get('members') or {}
+            if members:
+                lines.append('')
+                lines.append("**Members and MBTI types:**")
+                for n, t in members.items():
+                    lines.append(f"- {n}: {t}")
+        elif meta.get('is_character_list'):
+            char_lines = []
+            for r in results:
+                nm = (r.get('title') or r.get('name') or '').strip()
+                mbti = (r.get('mbti') or '').strip()
+                if nm and mbti:
+                    char_lines.append(f"  - {nm}: {mbti}")
+            if char_lines:
+                lines.append('')
+                lines.append("**Characters and MBTI types:**")
+                lines.extend(char_lines)
+        elif meta.get('typing_primary'):
+            line = f"**MBTI (widely discussed):** {meta['typing_primary']}"
+            if meta.get('typing_alternate'):
+                line += f" (alternates: {meta['typing_alternate']})"
+            lines.append('')
+            lines.append(line)
+        if results:
+            lines.append('')
+            lines.append("**Results:**")
+            for r in results:
+                nm = (r.get('title') or r.get('name') or r.get('mbtiType') or r.get('mbti') or '').strip()
+                ds = (r.get('description') or '').strip()
+                if nm:
+                    if ds and len(ds) < 240:
+                        lines.append(f"- {nm} \u2014 {ds}")
+                    else:
+                        lines.append(f"- {nm}")
+        lines.append('')
+    return '\n'.join(lines)
+
+
+def _hub_style_block():
+    return (
+        "*{margin:0;padding:0;box-sizing:border-box}"
+        "body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0f0f0f;color:#fff;line-height:1.6;-webkit-font-smoothing:antialiased}"
+        "a{color:#A259FF;text-decoration:none}"
+        "a:hover{text-decoration:underline}"
+        ".wrap{max-width:880px;margin:0 auto;padding:0 20px 60px}"
+        ".site-header{position:sticky;top:0;background:rgba(15,15,15,.92);backdrop-filter:blur(8px);border-bottom:1px solid #222;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;z-index:10}"
+        ".site-header .logo{font-size:18px;font-weight:800;background:linear-gradient(90deg,#A259FF,#FF7AB6);-webkit-background-clip:text;-webkit-text-fill-color:transparent}"
+        ".site-header a.home{color:#888;font-size:13px}"
+        ".breadcrumb{font-size:12px;color:#666;padding:14px 0 4px}"
+        ".breadcrumb a{color:#888}"
+        ".breadcrumb span{color:#aaa}"
+        "h1{font-size:30px;line-height:1.2;font-weight:800;margin:18px 0 8px}"
+        ".lede{color:#bbb;font-size:16px;margin:6px 0 22px}"
+        "h2{font-size:20px;margin:30px 0 14px;font-weight:700}"
+        ".group-label{font-size:12px;color:#888;text-transform:uppercase;letter-spacing:1px;margin:24px 0 10px}"
+        ".grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;list-style:none;padding:0}"
+        ".grid li{background:#141414;border:1px solid #222;border-radius:12px;padding:14px 16px;list-style:none}"
+        ".grid li h3{font-size:18px;margin-bottom:4px;font-weight:700}"
+        ".grid li h3 a{color:#fff}"
+        ".grid li p{color:#aaa;font-size:13px;line-height:1.55;margin:0}"
+        "table{width:100%;border-collapse:collapse;margin:14px 0;font-size:14px}"
+        "th,td{text-align:left;padding:8px 10px;border-bottom:1px solid #222}"
+        "th{background:#1a1a1a;color:#ddd;font-weight:600}"
+        "td{color:#bbb}"
+        ".cmp-card{background:#141414;border:1px solid #222;border-radius:14px;padding:18px 20px;margin:14px 0}"
+        ".cmp-card h3{font-size:18px;margin-bottom:12px;font-weight:700}"
+        ".cmp-card h3 a{color:#fff}"
+        ".cmp-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:12px}"
+        ".cmp-side{background:#1a1a1a;border:1px solid #262626;border-radius:10px;padding:12px 14px}"
+        ".cmp-name{font-size:15px;font-weight:700;margin-bottom:6px;color:#fff}"
+        ".cmp-title{color:#A259FF;font-weight:500;font-size:13px}"
+        ".cmp-side p{color:#bbb;font-size:13px;line-height:1.55;margin:0}"
+        ".cmp-focus{color:#ddd;font-size:14px;line-height:1.65;margin:8px 0 0;padding-top:10px;border-top:1px solid #262626}"
+        "footer{text-align:center;color:#555;font-size:12px;padding:24px 0;border-top:1px solid #1a1a1a;margin-top:40px}"
+        "footer a{color:#888;margin:0 6px}"
+        "@media (max-width:480px){.grid{grid-template-columns:1fr 1fr}.cmp-grid{grid-template-columns:1fr}h1{font-size:24px}}"
+    )
+
+
+def build_mbti_types_hub_html():
+    title = f"All 16 MBTI Types Explained | {SITE_NAME}"
+    desc = ("A complete guide to all 16 Myers-Briggs personality types \u2014 what each "
+            "type means, its core traits, and which QuizFig quizzes match that type. "
+            "INTJ, INFP, ENFP, ISTJ, ESFP, and more.")
+    canonical = f"{SITE_URL}/mbti-types/"
+
+    groups = {}
+    for t in MBTI_TYPES:
+        groups.setdefault(t['group'], []).append(t)
+
+    type_to_quizzes = {t['name']: [] for t in MBTI_TYPES}
+    for qid, q in _quizzes.items():
+        if qid == 'onequiz':
+            continue
+        for r in (q.get('results') or []):
+            code = (r.get('mbtiType') or r.get('mbti') or '').strip().upper()
+            if code in type_to_quizzes and len(type_to_quizzes[code]) < 3:
+                type_to_quizzes[code].append({'qid': qid, 'title': q.get('title', 'Untitled')})
+
+    itemlist = {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        'name': 'All 16 MBTI Personality Types',
+        'url': canonical,
+        'itemListOrder': 'https://schema.org/ItemListOrderAscending',
+        'numberOfItems': len(MBTI_TYPES),
+        'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'name': t['name'], 'url': f"{canonical}#{t['name'].lower()}"} for i, t in enumerate(MBTI_TYPES)],
+    }
+    itemlist_ld = json.dumps(itemlist, ensure_ascii=False)
+
+    dts = {
+        '@context': 'https://schema.org',
+        '@type': 'DefinedTermSet',
+        'name': 'Myers-Briggs Type Indicator (MBTI) \u2014 16 Types',
+        'description': desc,
+        'url': canonical,
+        'hasDefinedTerm': [{'@type': 'DefinedTerm', 'name': t['name'], 'alternateName': t['title'], 'description': t['description']} for t in MBTI_TYPES],
+    }
+    dts_ld = json.dumps(dts, ensure_ascii=False)
+
+    # ---------- GEO: Top MBTI comparisons (Comparison JSON-LD + side-by-side cards) ----------
+    # Each pair is a high-volume "X vs Y" search. The AI can cite these directly
+    # when users ask "what's the difference between INTJ and INTP".
+    mbti_comparisons = [
+        {'a': 'INTJ', 'b': 'INTP', 'focus': 'Both are quiet, idea-driven Analysts who prize competence. The split is J vs P: INTJs commit to a single long-term plan and execute it, while INTPs keep exploring alternatives. INTJ asks "what should we build?"; INTP asks "what else could this be?"'},
+        {'a': 'INTJ', 'b': 'INFJ', 'focus': 'Both Ni-dominant and future-oriented, but INTJ leads with T (systems, logic) and INFJ with F (values, people). INTJ optimizes for what works; INFJ optimizes for what is right. The two often mistype each other in online tests.'},
+        {'a': 'INFP', 'b': 'INFJ', 'focus': 'Both Diplomats with a rich inner world. INFPs are Fi-dom — their feelings lead. INFJs are Ni-dom with Fe — they intuit outcomes for others. INFPs express; INFJs advise. They are the most commonly confused NF pair.'},
+        {'a': 'ENFP', 'b': 'ENTP', 'focus': 'Both energetic, idea-rich, quick-witted Extraverts. ENFPs are feeling-first — they champion people and possibilities. ENTPs are thinking-first — they love debate and dismantling ideas. ENFPs ask "what if?"; ENTPs ask "does that hold up?"'},
+        {'a': 'ISTJ', 'b': 'ISFJ', 'focus': 'Both quiet, dependable Sentinels. ISTJs lead with Sensing-Thinking: rules, order, duty. ISFJs lead with Sensing-Feeling: care, memory, loyalty. ISTJ maintains the system; ISFJ maintains the people inside it.'},
+        {'a': 'ENFJ', 'b': 'ENFP', 'focus': 'Both warm, sociable Diplomats. ENFJs (Fe-dom) organize people around a vision and feel responsible for group harmony. ENFPs (Ne-dom) chase novelty and pull others into possibilities. ENFJ is the mentor; ENFP is the spark.'},
+        {'a': 'ESTJ', 'b': 'ENTJ', 'focus': 'Both decisive Judgers who lead. ESTJs manage what is — operations, policy, and accountability today. ENTJs (Ni aux) design what could be — strategy, structure, and long-horizon plans. ESTJ is the executor; ENTJ is the architect.'},
+        {'a': 'ESFJ', 'b': 'ISFJ', 'focus': 'Both caring Sentinels. ESFJs are extraverted — they host, coordinate, and host the social web. ISFJs are introverted — they remember the small things and care quietly. Same value (care for people), different reach.'},
+    ]
+    comparison_sections_html = ''
+    comparison_ld_blocks = []
+    for c in mbti_comparisons:
+        ca = MBTI_TYPE_MAP.get(c['a'])
+        cb = MBTI_TYPE_MAP.get(c['b'])
+        if not ca or not cb:
+            continue
+        anchor = f"{c['a'].lower()}-vs-{c['b'].lower()}"
+        comparison_sections_html += (
+            f'<div class="cmp-card" id="{h(anchor)}">\n'
+            f'  <h3><a href="#{h(anchor)}">{h(c["a"])} vs {h(c["b"])}</a></h3>\n'
+            f'  <div class="cmp-grid">\n'
+            f'    <div class="cmp-side">\n'
+            f'      <div class="cmp-name">{h(c["a"])} <span class="cmp-title">\u2014 {h(ca["title"])}</span></div>\n'
+            f'      <p>{h(ca["description"])}</p>\n'
+            f'    </div>\n'
+            f'    <div class="cmp-side">\n'
+            f'      <div class="cmp-name">{h(c["b"])} <span class="cmp-title">\u2014 {h(cb["title"])}</span></div>\n'
+            f'      <p>{h(cb["description"])}</p>\n'
+            f'    </div>\n'
+            f'  </div>\n'
+            f'  <p class="cmp-focus"><strong>Key difference:</strong> {h(c["focus"])}</p>\n'
+            f'</div>\n'
+        )
+        comparison_ld_blocks.append({
+            '@context': 'https://schema.org',
+            '@type': 'Comparison',
+            'name': f"{c['a']} vs {c['b']} \u2014 MBTI Personality Type Comparison",
+            'description': c['focus'],
+            'url': f"{canonical}#{anchor}",
+            'about': [
+                {'@type': 'DefinedTerm', 'name': c['a'], 'alternateName': ca['title'], 'description': ca['description'], 'url': f"{canonical}#{c['a'].lower()}"},
+                {'@type': 'DefinedTerm', 'name': c['b'], 'alternateName': cb['title'], 'description': cb['description'], 'url': f"{canonical}#{c['b'].lower()}"},
+            ],
+        })
+    comparison_ld_html = '\n'.join(
+        f'<script type="application/ld+json">{json.dumps(b, ensure_ascii=False)}</script>'
+        for b in comparison_ld_blocks
+    )
+
+    group_order = ['Analysts', 'Diplomats', 'Sentinels', 'Explorers']
+    sections_html = ''
+    for g in group_order:
+        types_g = groups.get(g, [])
+        if not types_g:
+            continue
+        sections_html += f'<div class="group-label">{h(g)}</div>\n'
+        sections_html += '<ul class="grid">\n'
+        for t in types_g:
+            related = type_to_quizzes.get(t['name']) or []
+            related_html = ''
+            if related:
+                related_html = '<p style="margin-top:8px;font-size:12px;color:#888">Quizzes: ' + ', '.join(f'<a href="/quiz/{h(r["qid"])}">{h(r["title"])}</a>' for r in related) + '</p>'
+            sections_html += (
+                f'<li id="{h(t["name"].lower())}">\n'
+                f'  <h3><a href="#{h(t["name"].lower())}">{h(t["name"])}</a> &mdash; {h(t["title"])}</h3>\n'
+                f'  <p>{h(t["description"])}</p>\n'
+                f'  {related_html}\n'
+                f'</li>\n'
+            )
+        sections_html += '</ul>\n'
+
+    table_rows = ''
+    for t in MBTI_TYPES:
+        table_rows += (
+            f'<tr>'
+            f'<td><a href="#{h(t["name"].lower())}"><strong>{h(t["name"])}</strong></a></td>'
+            f'<td>{h(t["title"])}</td>'
+            f'<td>{h(t["group"])}</td>'
+            f'<td>{h(t["description"])}</td>'
+            f'</tr>\n'
+        )
+
+    html_doc = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{h(title)}</title>
+<meta name="description" content="{h(desc)}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="{canonical}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{h(title)}">
+<meta property="og:description" content="{h(desc)}">
+<meta property="og:url" content="{canonical}">
+<meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:image" content="{SITE_URL}/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{h(title)}">
+<meta name="twitter:description" content="{h(desc)}">
+<script type="application/ld+json">{itemlist_ld}</script>
+<script type="application/ld+json">{dts_ld}</script>
+{comparison_ld_html}
+<style>{_hub_style_block()}</style>
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="logo">{h(SITE_NAME)}</a>
+  <a href="/" class="home">All Quizzes</a>
+</header>
+<div class="wrap">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a> &rsaquo; <span>MBTI Types</span>
+  </nav>
+  <h1>All 16 MBTI Personality Types Explained</h1>
+  <p class="lede">{h(desc)}</p>
+
+  <h2>Quick Reference: All 16 Types</h2>
+  <table>
+    <thead><tr><th>Type</th><th>Title</th><th>Group</th><th>Core Description</th></tr></thead>
+    <tbody>{table_rows}</tbody>
+  </table>
+
+  <h2>Browse by Group</h2>
+  {sections_html}
+
+  <h2>Common MBTI Comparisons</h2>
+  <p style="color:#bbb;font-size:14px;line-height:1.7;margin-bottom:14px">Side-by-side comparisons of the MBTI pairs people most often ask about. Each card highlights the core difference and links to the full type description.</p>
+  {comparison_sections_html}
+
+  <h2>How to use this page</h2>
+  <p style="color:#bbb;font-size:14px;line-height:1.7">Each card above summarizes one of the 16 MBTI types and links to QuizFig quizzes that map to it. The four groups (Analysts, Diplomats, Sentinels, Explorers) come from the 16Personalities framework. MBTI is a popular self-reflection tool, not a clinical diagnosis &mdash; treat your result as a starting point, not a label.</p>
+</div>
+<footer>
+  &copy; 2026 {h(SITE_NAME)} &middot;
+  <a href="/">Home</a> &middot;
+  <a href="/mbti-types/">MBTI Types</a> &middot;
+  <a href="/characters/">Characters</a> &middot;
+  <a href="/#about">About</a>
+</footer>
+</body>
+</html>"""
+    return html_doc
+
+
+def build_characters_hub_html():
+    title = f"Character Personality Quizzes \u2014 Match Yourself | {SITE_NAME}"
+    desc = ("Free personality quizzes that match you to a fictional character. "
+            "From Harry Potter to Genshin Impact, BLACKPINK to Roblox, find the "
+            "character whose personality mirrors yours.")
+    canonical = f"{SITE_URL}/characters/"
+
+    by_subject = {}
+    for qid, q in _quizzes.items():
+        if qid == 'onequiz':
+            continue
+        meta = q.get('subject_meta') or {}
+        if not meta.get('is_character_list'):
+            continue
+        tags = q.get('tags') or []
+        if not tags:
+            continue
+        subject = tags[0]
+        by_subject.setdefault(subject, []).append({
+            'qid': qid,
+            'title': q.get('title', 'Untitled'),
+            'description': q.get('description', ''),
+            'rcount': len(q.get('results', []) or []),
+        })
+
+    sorted_subjects = sorted(by_subject.items(), key=lambda kv: (-len(kv[1]), kv[0].lower()))
+    sections_html = ''
+    for subject, quizzes in sorted_subjects:
+        sections_html += f'<div class="group-label">{h(subject)}</div>\n'
+        sections_html += '<ul class="grid">\n'
+        for q in quizzes:
+            sections_html += (
+                f'<li>\n'
+                f'  <h3><a href="/quiz/{h(q["qid"])}">{h(q["title"])}</a></h3>\n'
+                f'  <p>{h(q["description"])}</p>\n'
+                f'  <p style="margin-top:6px;font-size:12px;color:#888">{q["rcount"]} possible characters</p>\n'
+                f'</li>\n'
+            )
+        sections_html += '</ul>\n'
+
+    itemlist = {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        'name': 'Character Personality Quizzes by Franchise',
+        'url': canonical,
+        'numberOfItems': sum(len(v) for _, v in sorted_subjects),
+        'itemListElement': [
+            {'@type': 'ListItem', 'position': i + 1, 'name': q['title'], 'url': f"{SITE_URL}/quiz/{q['qid']}"}
+            for i, (_, quizzes) in enumerate(sorted_subjects) for q in quizzes[:1]
+        ],
+    }
+    itemlist_ld = json.dumps(itemlist, ensure_ascii=False)
+
+    html_doc = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{h(title)}</title>
+<meta name="description" content="{h(desc)}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="{canonical}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{h(title)}">
+<meta property="og:description" content="{h(desc)}">
+<meta property="og:url" content="{canonical}">
+<meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:image" content="{SITE_URL}/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{h(title)}">
+<meta name="twitter:description" content="{h(desc)}">
+<script type="application/ld+json">{itemlist_ld}</script>
+<style>{_hub_style_block()}</style>
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="logo">{h(SITE_NAME)}</a>
+  <a href="/" class="home">All Quizzes</a>
+</header>
+<div class="wrap">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a> &rsaquo; <span>Character Quizzes</span>
+  </nav>
+  <h1>Character Personality Quizzes</h1>
+  <p class="lede">{h(desc)}</p>
+
+  <h2>Browse by Franchise</h2>
+  {sections_html}
+
+  <h2>About these quizzes</h2>
+  <p style="color:#bbb;font-size:14px;line-height:1.7">Each quiz on this page maps your answers to a character whose personality type is widely discussed by fans. Results use the MBTI framework for comparison; they're meant for fun and self-reflection, not as a clinical assessment.</p>
+</div>
+<footer>
+  &copy; 2026 {h(SITE_NAME)} &middot;
+  <a href="/">Home</a> &middot;
+  <a href="/mbti-types/">MBTI Types</a> &middot;
+  <a href="/characters/">Characters</a> &middot;
+  <a href="/#about">About</a>
+</footer>
+</body>
+</html>"""
+    return html_doc
 
 
 def build_quiz_html(quiz_id, summary):
@@ -734,6 +1299,20 @@ def build_quiz_html(quiz_id, summary):
     }
     schema = {k: v for k, v in schema.items() if v is not None}
     schema_ld = json.dumps(schema, ensure_ascii=False)
+
+    # 1b) GEO: FAQPage JSON-LD
+    faq_ld = json.dumps(build_faq_for_quiz(quiz_id, summary, full, canonical), ensure_ascii=False)
+
+    # 1c) GEO: Person / MusicGroup entity JSON-LD (only if we have a canonical subject)
+    entity_obj = build_subject_entity_schema(quiz_id, summary, full, canonical)
+    entity_ld = json.dumps(entity_obj, ensure_ascii=False) if entity_obj else ''
+
+    # 1d) GEO: DefinedTerm[] for each MBTI result on the page
+    defined_terms = build_defined_term_schema(quiz_id, summary, full, canonical)
+    defined_terms_ld = '\n'.join(
+        f'<script type="application/ld+json">{json.dumps(t, ensure_ascii=False)}</script>'
+        for t in defined_terms
+    )
 
     # 2) Breadcrumb JSON-LD
     breadcrumb = {
@@ -829,6 +1408,9 @@ def build_quiz_html(quiz_id, summary):
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='52' font-size='52'%3E%F0%9F%A7%A9%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">{schema_ld}</script>
 <script type="application/ld+json">{breadcrumb_ld}</script>
+<script type="application/ld+json">{faq_ld}</script>
+{('<script type="application/ld+json">' + entity_ld + '</script>') if entity_ld else ''}
+{defined_terms_ld}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EQQ75D1GWK"></script>
 <script>
@@ -948,7 +1530,7 @@ section{{padding:16px}}
 
 # ---------- Sitemap & robots ----------
 def build_sitemap_xml():
-    """Generate sitemap.xml with home + every quiz URL."""
+    """Generate sitemap.xml with home + every quiz URL + GEO hub pages."""
     home_lastmod = datetime.now(timezone.utc).strftime('%Y-%m-%d')
     urls = [
         f"""  <url>
@@ -956,7 +1538,33 @@ def build_sitemap_xml():
     <lastmod>{home_lastmod}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>"""
+  </url>""",
+        # GEO: hub pages for AI discoverability
+        f"""  <url>
+    <loc>{SITE_URL}/mbti-types/</loc>
+    <lastmod>{home_lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>""",
+        f"""  <url>
+    <loc>{SITE_URL}/characters/</loc>
+    <lastmod>{home_lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>""",
+        # GEO: machine-readable entry points (also link from robots.txt)
+        f"""  <url>
+    <loc>{SITE_URL}/llms.txt</loc>
+    <lastmod>{home_lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>""",
+        f"""  <url>
+    <loc>{SITE_URL}/llms-full.txt</loc>
+    <lastmod>{home_lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>""",
     ]
     # Iterate deterministically by quiz id
     for qid in sorted(_quizzes.keys()):
@@ -985,13 +1593,56 @@ def build_sitemap_xml():
 
 
 def build_robots_txt():
-    return (
-        "User-agent: *\n"
-        "Allow: /\n"
-        "Disallow: /api/\n"
-        "\n"
-        f"Sitemap: {SITE_URL}/sitemap.xml\n"
-    )
+    # GEO: explicitly allow major AI crawlers. The wildcard above already permits
+    # them, but listing them as named agents signals intent and survives more
+    # conservative parsers (e.g. Cloudflare bot rules that match by exact name).
+    lines = [
+        "# Default policy",
+        "User-agent: *",
+        "Allow: /",
+        "Disallow: /api/",
+        "",
+        "# AI crawlers (GEO) — keep allowed so generative engines can index us",
+        "User-agent: GPTBot",
+        "Allow: /",
+        "",
+        "User-agent: ChatGPT-User",
+        "Allow: /",
+        "",
+        "User-agent: OAI-SearchBot",
+        "Allow: /",
+        "",
+        "User-agent: ClaudeBot",
+        "Allow: /",
+        "",
+        "User-agent: Claude-Web",
+        "Allow: /",
+        "",
+        "User-agent: anthropic-ai",
+        "Allow: /",
+        "",
+        "User-agent: PerplexityBot",
+        "Allow: /",
+        "",
+        "User-agent: Perplexity-User",
+        "Allow: /",
+        "",
+        "User-agent: Google-Extended",
+        "Allow: /",
+        "",
+        "User-agent: Applebot-Extended",
+        "Allow: /",
+        "",
+        "User-agent: Amazonbot",
+        "Allow: /",
+        "",
+        "User-agent: cohere-ai",
+        "Allow: /",
+        "",
+        f"Sitemap: {SITE_URL}/sitemap.xml",
+        f"Sitemap: {SITE_URL}/llms.txt",
+    ]
+    return "\n".join(lines) + "\n"
 
 
 # ---------- Response helper ----------
@@ -1061,6 +1712,38 @@ def app(environ, start_response):
             start_response, '200 OK',
             base_headers('text/html; charset=utf-8', 'short'),
             build_quiz_html(quiz_id, summary),
+        )
+
+    # ---------- GEO: /llms.txt ----------
+    if path == '/llms.txt':
+        return respond(
+            start_response, '200 OK',
+            base_headers('text/plain; charset=utf-8', 'static'),
+            build_llms_txt(),
+        )
+
+    # ---------- GEO: /llms-full.txt ----------
+    if path == '/llms-full.txt':
+        return respond(
+            start_response, '200 OK',
+            base_headers('text/plain; charset=utf-8', 'static'),
+            build_llms_full_txt(),
+        )
+
+    # ---------- GEO: /mbti-types/ hub ----------
+    if path in ('/mbti-types', '/mbti-types/'):
+        return respond(
+            start_response, '200 OK',
+            base_headers('text/html; charset=utf-8', 'static'),
+            build_mbti_types_hub_html(),
+        )
+
+    # ---------- GEO: /characters/ hub ----------
+    if path in ('/characters', '/characters/'):
+        return respond(
+            start_response, '200 OK',
+            base_headers('text/html; charset=utf-8', 'static'),
+            build_characters_hub_html(),
         )
 
     # ---------- /api/token (POST, with optional Turnstile) ----------
@@ -1162,11 +1845,7 @@ def app(environ, start_response):
         return respond(start_response, '200 OK', api_headers('no'),
                        json.dumps({'questions': questions,
                                    'quiz_id': quiz_id,
-                                   'title': quiz.get('title', 'Quiz'),
-                                   'description': quiz.get('description', ''),
-                                   'category': quiz.get('category', 'general'),
-                                   'tags': quiz.get('tags', []),
-                                   'share_hook': quiz.get('share_hook', '')},
+                                   'title': quiz.get('title', 'Quiz')},
                                   ensure_ascii=False))
 
     # ---------- /api/result (POST) ----------
@@ -1256,33 +1935,9 @@ def app(environ, start_response):
                            }
                        }, ensure_ascii=False))
 
-    # ---------- /api/share (POST) — T+1 share intent counter ----------
-    # Mirrors /api/result's _record_completion pattern. Called from the
-    # result page on share-button click. We count INTENT (not completion),
-    # so we fire on the click itself, not on navigator.share's promise.
-    if path == '/api/share' and method == 'POST':
-        blocked = _enforce_rate_limit(environ, start_response, 'share')
-        if blocked is not None:
-            return respond(start_response, blocked[1], blocked[2], blocked[0])
-        try:
-            data = json.loads(body) if body else {}
-        except Exception:
-            data = {}
-        quiz_id = (data.get('quiz_id') or '').strip()
-        if not quiz_id or not re.match(r'^[A-Za-z0-9_]+$', quiz_id):
-            return respond(start_response, '400 BAD REQUEST', api_headers('no'),
-                           json.dumps({'error': 'Invalid quiz_id'}))
-        _record_share(quiz_id)
-        return respond(start_response, '200 OK', api_headers('no'),
-                       json.dumps({'ok': True}))
-
     # ---------- /api/admin/daily.csv (GET) — T+1 completion report ----------
     if path == '/api/admin/daily.csv' and method == 'GET':
         return _admin_daily_csv(environ, start_response)
-
-    # ---------- /api/admin/share.csv (GET) — T+1 share report ----------
-    if path == '/api/admin/share.csv' and method == 'GET':
-        return _admin_share_csv(environ, start_response)
 
     # ---------- 404 ----------
     return respond(start_response, '404 NOT FOUND', api_headers('no'),

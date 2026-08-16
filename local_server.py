@@ -20,10 +20,23 @@ spec.loader.exec_module(api_mod)
 
 class Handler(SimpleHTTPRequestHandler):
     # Paths handled by api/index.py (WSGI). Everything else is served as static files.
-    _WSGI_PREFIXES = ("/api/", "/quiz/", "/sitemap.xml", "/robots.txt")
+    _WSGI_PREFIXES = (
+        "/api/",
+        "/quiz/",
+        "/sitemap.xml",
+        "/robots.txt",
+        "/llms.txt",
+        "/llms-full.txt",
+        "/mbti-types",
+        "/characters",
+    )
+    _WSGI_EXACT = ("/llms.txt", "/llms-full.txt", "/mbti-types", "/mbti-types/",
+                   "/characters", "/characters/")
 
     def _is_wsgi_path(self):
-        return any(self.path.startswith(p) or self.path == p for p in self._WSGI_PREFIXES)
+        if self.path in self._WSGI_EXACT:
+            return True
+        return any(self.path.startswith(p) for p in self._WSGI_PREFIXES)
 
     def do_GET(self):
         if self._is_wsgi_path():
