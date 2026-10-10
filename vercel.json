@@ -30,7 +30,7 @@
       "use": "@vercel/static"
     },
     {
-      "src": "js/",
+      "src": "js/**",
       "use": "@vercel/static"
     },
     {
@@ -54,7 +54,7 @@
       "use": "@vercel/static"
     },
     {
-      "src": "og/",
+      "src": "og/**",
       "use": "@vercel/static"
     }
   ],

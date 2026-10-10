@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { background:#0b0817; overflow:hidden; }
+  #wrap { position:absolute; top:0; left:0; transform-origin:top left; }
+  #card {
+    width:1200px; height:630px; position:relative; overflow:hidden;
+    background:
+      radial-gradient(560px 420px at 12% 8%, rgba(162,89,255,.40), transparent 62%),
+      radial-gradient(620px 480px at 92% 96%, rgba(255,122,182,.36), transparent 60%),
+      linear-gradient(160deg,#150f2e 0%,#0b0817 55%,#1a0d2e 100%);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:#fff;
+  }
+  .grain { position:absolute; inset:0; opacity:.10;
+    background-image:radial-gradient(rgba(255,255,255,.5) .6px, transparent .7px);
+    background-size:26px 26px; }
+  .brand { position:absolute; top:52px; left:64px; display:flex; align-items:center; gap:14px; }
+  .logo { width:46px; height:46px; border-radius:13px;
+    background:linear-gradient(135deg,#A259FF,#FF7AB6);
+    display:flex; align-items:center; justify-content:center;
+    font-size:25px; font-weight:800; box-shadow:0 8px 24px rgba(162,89,255,.5); }
+  .brandname { font-size:26px; font-weight:800; letter-spacing:3px; }
+  .tagline { position:absolute; top:60px; right:64px; font-size:17px; opacity:.66; font-weight:600; }
+  .title { position:absolute; top:188px; left:64px; width:780px;
+    font-size:52px; line-height:1.16; font-weight:800; letter-spacing:-.5px;
+    background:linear-gradient(90deg,#ffffff 30%,#e9dcff 100%);
+    -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; }
+  .meta { position:absolute; top:430px; left:64px; font-size:22px; opacity:.78; font-weight:600; }
+  .cta { position:absolute; bottom:58px; left:64px;
+    background:linear-gradient(135deg,#A259FF,#FF7AB6); color:#15101f;
+    padding:18px 42px; border-radius:999px; font-size:26px; font-weight:800;
+    white-space:nowrap; box-shadow:0 16px 44px rgba(255,122,182,.40); }
+  .url { position:absolute; bottom:72px; right:64px;
+    font-size:22px; font-weight:800; letter-spacing:2px; opacity:.78; }
+  .emoji-ring { position:absolute; right:70px; top:215px;
+    width:240px; height:240px; border-radius:50%;
+    background:rgba(255,255,255,.06); border:2px solid rgba(255,255,255,.18);
+    display:flex; align-items:center; justify-content:center; font-size:120px;
+    box-shadow:0 26px 70px rgba(162,89,255,.32), inset 0 0 50px rgba(255,122,182,.22); }
+</style>
+</head>
+<body>
+<div id="wrap"><div id="card">
+  <div class="grain"></div>
+  <div class="brand"><div class="logo">Q</div><div class="brandname">QUIZFIG</div></div>
+  <div class="tagline">One More Quiz, Know Yourself Better</div>
+  <div class="title" id="title"></div>
+  <div class="meta">12 questions · 3 minutes · Free · No sign-up</div>
+  <div class="emoji-ring" id="emoji">✨</div>
+  <div class="cta">Take the Quiz →</div>
+  <div class="url">QUIZFIG.COM</div>
+</div></div>
+<script>
+  try {
+    var p = new URLSearchParams(location.search).get('d');
+    var d = p ? JSON.parse(p) : {};
+    document.getElementById('title').textContent = d.t || '';
+    document.getElementById('emoji').textContent = d.e || '✨';
+    var s = parseFloat(new URLSearchParams(location.search).get('s') || '1');
+    document.getElementById('wrap').style.transform = 'scale(' + s + ')';
+    document.body.style.width = (1200 * s) + 'px';
+    document.body.style.height = (630 * s) + 'px';
+  } catch (e) {}
+</script>
+</body>
+</html>
