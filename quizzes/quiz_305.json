@@ -1,0 +1,230 @@
+{
+  "quizId": 305,
+  "title": "What Aesthetic Are You? 16 Viral Vibe Types",
+  "category": "pick",
+  "tags": [
+    "Aesthetic",
+    "Vibe",
+    "Personality",
+    "MBTI",
+    "Style"
+  ],
+  "description": "Asking \"what aesthetic am I\"? Answer 12 questions about your closet, your room and your mood to match one of 16 viral vibe types — Coquette, Mob Wife, Clean Girl, Dark Academia and more.",
+  "questions": [
+    {
+      "text": "It's Friday night and your friends are texting about plans. You...",
+      "options": [
+        { "text": "Are out the door before the second text — a full house is where you wake up", "score": "E" },
+        { "text": "Say yes only if it's small; a crowded room drains you by 10pm", "score": "I" },
+        { "text": "Host the pre-drinks and end up running the whole night's itinerary", "score": "E" },
+        { "text": "Politely ghost the group chat and light a candle for your own evening", "score": "I" }
+      ]
+    },
+    {
+      "text": "You put together an outfit you're obsessed with. You...",
+      "options": [
+        { "text": "Need it seen — you compliment strangers' outfits and want yours noticed too", "score": "E" },
+        { "text": "Wear it entirely for yourself; being stared at kind of ruins it", "score": "I" },
+        { "text": "Suggest a group mirror pic before anyone even leaves", "score": "E" },
+        { "text": "Take one quiet full-body selfie for your camera roll, never to be posted", "score": "I" }
+      ]
+    },
+    {
+      "text": "Your ideal Sunday is...",
+      "options": [
+        { "text": "Brunch with six people, then vintage shopping with whoever's free", "score": "E" },
+        { "text": "Rearranging your room alone with a podcast, exactly on your own schedule", "score": "I" },
+        { "text": "A spontaneous day trip you organized in the group chat last night", "score": "E" },
+        { "text": "A long solitary walk, then a book and tea without a single notification", "score": "I" }
+      ]
+    },
+    {
+      "text": "When you're shopping, the piece that gets you is...",
+      "options": [
+        { "text": "A classic — great fabric, timeless cut, you know exactly when you'll wear it", "score": "S" },
+        { "text": "Something that makes you imagine an entire alter ego and life story", "score": "N" },
+        { "text": "A better version of something you already wear constantly", "score": "S" },
+        { "text": "A weird magical object you have no occasion for, and that's the point", "score": "N" }
+      ]
+    },
+    {
+      "text": "Your favorite kind of style inspiration is...",
+      "options": [
+        { "text": "Real eras and real archives — fashion people actually wore decades ago", "score": "S" },
+        { "text": "Completely invented worlds — fairy tales, fantasy films, imagined futures", "score": "N" },
+        { "text": "Street-style photos of real outfits in real weather", "score": "S" },
+        { "text": "Concept art and mood boards of worlds that don't exist yet", "score": "N" }
+      ]
+    },
+    {
+      "text": "Picture your perfect room. It's full of...",
+      "options": [
+        { "text": "Things with a clear job: good lighting for tasks, real furniture that lasts", "score": "S" },
+        { "text": "Things chosen purely for feeling — a lamp that exists just to glow like a spell", "score": "N" },
+        { "text": "Organized shelves where you could find anything in the dark", "score": "S" },
+        { "text": "Layers of whimsy: fairy lights, trinkets, corners that feel like a story", "score": "N" }
+      ]
+    },
+    {
+      "text": "When you get dressed in the morning, the first thing you consider is...",
+      "options": [
+        { "text": "What your day actually involves — you have to move and not think about it", "score": "T" },
+        { "text": "What mood you woke up in, even if it's the less practical choice", "score": "F" },
+        { "text": "The weather, the walking, the function — comfort by calculation", "score": "T" },
+        { "text": "Which version of yourself you feel like being today", "score": "F" }
+      ]
+    },
+    {
+      "text": "A friend is about to leave in an outfit you genuinely think is a disaster. You...",
+      "options": [
+        { "text": "Tell her honestly now — one awkward minute beats photos she can't untag", "score": "T" },
+        { "text": "Say she looks amazing; she's glowing tonight and that actually matters more", "score": "F" },
+        { "text": "Give her one specific swap, framed as a styling upgrade, not a criticism", "score": "T" },
+        { "text": "Let her have the night — confidence is the best thing she could wear", "score": "F" }
+      ]
+    },
+    {
+      "text": "Time for a wardrobe clear-out. You make decisions based on...",
+      "options": [
+        { "text": "Use: if you haven't worn it in a year, it goes — no negotiation", "score": "T" },
+        { "text": "Memory: you can feel the day tied to that piece and it stays", "score": "F" },
+        { "text": "Cost-per-wear and whether it earns its hanger space", "score": "T" },
+        { "text": "Whether it still makes you feel something when you hold it", "score": "F" }
+      ]
+    },
+    {
+      "text": "Your getting-dressed routine is...",
+      "options": [
+        { "text": "Decided the night before; your closet is a capsule and mornings are calm", "score": "J" },
+        { "text": "Pure improvisation, standing in front of the open closet at the last minute", "score": "P" },
+        { "text": "A rotating schedule — you know Thursday's outfit by Tuesday", "score": "J" },
+        { "text": "Three outfit changes deep and somehow always slightly late", "score": "P" }
+      ]
+    },
+    {
+      "text": "How do you actually feel about aesthetics? You...",
+      "options": [
+        { "text": "Pick one and commit — a whole season in one coherent world", "score": "J" },
+        { "text": "Change with the week — one era Monday, a different one by Friday", "score": "P" },
+        { "text": "Curate every detail to match the point of view you chose", "score": "J" },
+        { "text": "Blend whatever feels right in the moment, rules be damned", "score": "P" }
+      ]
+    },
+    {
+      "text": "When you travel, your trip is...",
+      "options": [
+        { "text": "Mapped: reservations, opening hours, an itinerary you actually follow", "score": "J" },
+        { "text": "A starting point and a backpack — you'll discover the best part unplanned", "score": "P" },
+        { "text": "A spreadsheet your friends now just trust you for", "score": "J" },
+        { "text": "Wandering until something pulls you in, with zero firm bookings", "score": "P" }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Coquette",
+      "mbti": "INFP",
+      "mbtiType": "INFP",
+      "description": "Bows in your hair, lace on your sleeves, and an inner world richer than the entire outside one. You turned softness into a point of view — and the diary entries, love letters and cinematic daydreams? That's the real you nobody gets to read."
+    },
+    {
+      "title": "Clean Girl",
+      "mbti": "ISFJ",
+      "mbtiType": "ISFJ",
+      "description": "Glassy skin, gold hoops, neutral everything, and the quiet warmth of someone who actually remembers everyone's birthday. You make 'put-together' look effortless — while somehow always carrying spare lip balm, a snack and a plan B for the group."
+    },
+    {
+      "title": "Old Money",
+      "mbti": "ISTJ",
+      "mbtiType": "ISTJ",
+      "description": "No logos, heritage fabrics, a trench coat older than half your friends' trends. You don't chase fashion — you invest in what outlives it, which is exactly what makes you read as the most expensive person in any room."
+    },
+    {
+      "title": "Mob Wife",
+      "mbti": "ESTP",
+      "mbtiType": "ESTP",
+      "description": "Big hair, bigger gold, red lip sharp enough to end a conversation. While everyone else was being tasteful and minimal, you walked in loud, unapologetic and having the most fun in the building — nobody tells you what's too much."
+    },
+    {
+      "title": "Dark Academia",
+      "mbti": "INTJ",
+      "mbtiType": "INTJ",
+      "description": "Tweed, candle wax, half-finished essays and the belief that a library in autumn is the highest form of life. You romanticize knowledge so completely that you actually go and get it — the brooding is real, but so is the brain."
+    },
+    {
+      "title": "Cottagecore",
+      "mbti": "ISFP",
+      "mbtiType": "ISFP",
+      "description": "Flour-dusted aprons, foraged flowers, a sourdough starter with a name. You're quietly building the gentle, handmade life the rest of us only save pictures of — and yes, your picnic really does look like that."
+    },
+    {
+      "title": "Y2K",
+      "mbti": "ESFP",
+      "mbtiType": "ESFP",
+      "description": "Low-rise denim, metallic shine, butterfly clips and the energy of someone who came to be seen. You treat life like the early internet promised: shiny, optimistic, and one glittery accessory away from a good time."
+    },
+    {
+      "title": "Balletcore",
+      "mbti": "INFJ",
+      "mbtiType": "INFJ",
+      "description": "Wrap ties, ribbon details, soft pink and a discipline you never announce. There's a quietly intense soul under all that grace — the gentle look is real, but so is the years-long devotion to the thing you love."
+    },
+    {
+      "title": "Goth",
+      "mbti": "INTP",
+      "mbtiType": "INTP",
+      "description": "Black on black on black, a decades-deep subculture and zero interest in explaining it. While trends rise and die around you, you're off reading poetry, arguing philosophy and quietly outliving every single one of them."
+    },
+    {
+      "title": "Baddie",
+      "mbti": "ENTJ",
+      "mbtiType": "ENTJ",
+      "description": "Full glam, sharp contour, sharper ambitions, and the unshakable belief that you're the main event. You don't wait to be picked or noticed — you walk in like the room was already yours, because your plans say it is."
+    },
+    {
+      "title": "Fairycore",
+      "mbti": "ENFP",
+      "mbtiType": "ENFP",
+      "description": "Sheer wings, mushroom motifs, glitter on your cheeks for no occasion. You still believe the woods might be magic if you look soft enough — and your chaotic, sparkling enthusiasm makes everyone around you believe it too."
+    },
+    {
+      "title": "Grunge",
+      "mbti": "ISTP",
+      "mbtiType": "ISTP",
+      "description": "Flannel, combat boots, undone hair and the calm conviction that polish is a scam. You don't perform your feelings or your style — you keep both low-maintenance and honest, and the thrifted leather is non-negotiable."
+    },
+    {
+      "title": "That Girl",
+      "mbti": "ESTJ",
+      "mbtiType": "ESTJ",
+      "description": "5am alarm, iced green juice, the pilates routine and a journal full of goals. You turned self-improvement into an aesthetic and then actually executed it — the matching set is cute, but the to-do list is the real religion."
+    },
+    {
+      "title": "Soft Girl",
+      "mbti": "ESFJ",
+      "mbtiType": "ESFJ",
+      "description": "Blush tones, pastel nails, cute stationery and the instinct to make everyone feel included. You're the friend who brings snacks, remembers the details and makes ordinary days feel deliberately sweet."
+    },
+    {
+      "title": "Indie Sleaze",
+      "mbti": "ENTP",
+      "mbtiType": "ENTP",
+      "description": "Flash photos, smudged eyeliner, last night's outfit and an ironic joke about all of it. You looked at a decade of curated perfection and chose messy, clever and fun — the party's better when you're running the chaos."
+    },
+    {
+      "title": "Barbiecore",
+      "mbti": "ENFJ",
+      "mbtiType": "ENFJ",
+      "description": "Head-to-toe hot pink, maximalist joy and the social energy of someone born at the center of a group photo. You picked one color, turned it all the way up, and somehow make everyone around you feel like the main character too."
+    }
+  ],
+  "emoji": ["🎀", "💅", "✨"],
+  "likes": 0,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Vibe & Aesthetic"
+  },
+  "share_hook": {
+    "text": "I'm {result} — what's your aesthetic?"
+  }
+}
