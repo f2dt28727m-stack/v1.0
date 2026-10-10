@@ -1,6 +1,6 @@
 {
   "quizId": 136,
-  "title": "Which Genshin Impact Character Is Your Perfect Soulmate?",
+  "title": "Which Genshin Impact Character Is Your Soulmate?",
   "category": "which",
   "tags": [
     "Genshin Impact",
@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover which Genshin Impact character is your destined soulmate!",
+  "description": "Answer 12 questions to discover which Genshin Impact character is your soulmate!",
   "questions": [
     {
       "text": "When you stumble upon a hidden forest glen, you immediately...",
@@ -352,7 +352,6 @@
     "✨"
   ],
   "likes": 45307,
-  "tests": 2517098,
   "subject_meta": {
     "is_character_list": true
   },

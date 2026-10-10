@@ -1,8 +1,8 @@
 {
   "quizId": 175,
-  "title": "What Would Your Harry Potter Persona Be?",
+  "title": "What's Your Harry Potter Personality?",
   "category": "whatwould",
-  "description": "Answer 12 questions to discover your Harry Potter persona!",
+  "description": "Answer 12 questions to discover your Harry Potter-inspired personality!",
   "tags": [
     "Harry Potter",
     "Hogwarts",
@@ -352,7 +352,6 @@
     "🦉"
   ],
   "likes": 27359,
-  "tests": 2487221,
   "subject_meta": {
     "is_character_list": true
   },

@@ -4,9 +4,10 @@
       "src": "api/index.py",
       "use": "@vercel/python",
       "config": {
-        "runtime": "python3.9",
+        "runtime": "python3.12",
         "includeFiles": [
           "quizzes/**",
+          "og/**",
           "data/**",
           "config.json"
         ]
@@ -51,6 +52,10 @@
     {
       "src": "og-default.png",
       "use": "@vercel/static"
+    },
+    {
+      "src": "og/",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
@@ -76,6 +81,10 @@
       }
     },
     {
+      "src": "/ads.txt",
+      "dest": "/api/index.py"
+    },
+    {
       "src": "/api/(.*)",
       "dest": "/api/index.py"
     },
@@ -97,6 +106,10 @@
     },
     {
       "src": "/characters/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/privacy|/privacy/|/privacy-policy",
       "dest": "/api/index.py"
     },
     {

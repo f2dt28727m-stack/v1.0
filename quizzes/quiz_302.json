@@ -1,0 +1,360 @@
+{
+  "quizId": 302,
+  "title": "What's Your Halloween Aesthetic?",
+  "category": "aesthetic",
+  "tags": [
+    "Halloween",
+    "Aesthetic",
+    "Personality",
+    "MBTI",
+    "Holiday"
+  ],
+  "description": "Answer 12 questions to discover your Halloween aesthetic — from Victorian mourning and cottagegoth to spooky cute and vampire royalty.",
+  "questions": [
+    {
+      "text": "You're decorating for October. First purchase?",
+      "options": [
+        {
+          "text": "A first-edition gothic novel for the nightstand",
+          "score": "I"
+        },
+        {
+          "text": "A fog machine powerful enough to concern the neighbors",
+          "score": "E"
+        },
+        {
+          "text": "The same heirloom pumpkin ceramic I use every year",
+          "score": "S"
+        },
+        {
+          "text": "A cursed-looking antique mirror nobody can explain",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal Halloween night has a strict… what?",
+      "options": [
+        {
+          "text": "Budget. Beauty doesn't need chaos.",
+          "score": "T"
+        },
+        {
+          "text": "Emotional arc — everyone leaves feeling something",
+          "score": "F"
+        },
+        {
+          "text": "Itinerary. Dinner, haunt, cider, home by 11.",
+          "score": "J"
+        },
+        {
+          "text": "Schedule? My nights are improvisational jazz.",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Pick a color palette for the whole season:",
+      "options": [
+        {
+          "text": "Black, oxblood, and candle wax — alone, ideally",
+          "score": "I"
+        },
+        {
+          "text": "Every color, all at once, preferably glittering",
+          "score": "E"
+        },
+        {
+          "text": "Orange, cream, and harvest gold, like the classics",
+          "score": "S"
+        },
+        {
+          "text": "Iridescent oil-slick colors with no name yet",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Someone calls your decor 'too much'. You respond:",
+      "options": [
+        {
+          "text": "Present a structured three-point counter-argument",
+          "score": "T"
+        },
+        {
+          "text": "Hand them a cupcake and invite them closer",
+          "score": "F"
+        },
+        {
+          "text": "Politely ignore them; tradition speaks for itself",
+          "score": "J"
+        },
+        {
+          "text": "Add twice as much purely out of principle",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your dream October weekend is…",
+      "options": [
+        {
+          "text": "A solo rainy-day film marathon with no messages",
+          "score": "I"
+        },
+        {
+          "text": "A road trip with four friends and a haunted corn maze",
+          "score": "E"
+        },
+        {
+          "text": "Apple picking, baking, the exact same cozy routine",
+          "score": "S"
+        },
+        {
+          "text": "Getting lost in a foggy town with no plan",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Choose your signature spooky accessory:",
+      "options": [
+        {
+          "text": "A silver pocket watch, annoyingly precise",
+          "score": "T"
+        },
+        {
+          "text": "A locket with someone else's photo inside",
+          "score": "F"
+        },
+        {
+          "text": "The heirloom brooch I wear every single October",
+          "score": "J"
+        },
+        {
+          "text": "A ring that glows and I refuse to explain",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At the costume party you're mostly found…",
+      "options": [
+        {
+          "text": "In a corner having one excellent conversation",
+          "score": "I"
+        },
+        {
+          "text": "On the table, somehow, with a chandelier moment",
+          "score": "E"
+        },
+        {
+          "text": "Critiquing the structural integrity of every costume",
+          "score": "T"
+        },
+        {
+          "text": "Helping the host fix the makeup situation",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your social calendar in October looks like:",
+      "options": [
+        {
+          "text": "Curated. Two events. Both chosen very carefully.",
+          "score": "I"
+        },
+        {
+          "text": "Ink black. There is no free weekend and I love it",
+          "score": "E"
+        },
+        {
+          "text": "The annual traditions, same people, same order",
+          "score": "T"
+        },
+        {
+          "text": "Whatever the group needs, I'll be there with cider",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your Halloween music playlist is mostly…",
+      "options": [
+        {
+          "text": "Organ sonatas and film scores, enjoyed through headphones",
+          "score": "I"
+        },
+        {
+          "text": "A Halloween party playlist with a 200-person dance floor",
+          "score": "E"
+        },
+        {
+          "text": "The Monster Mash and other certified classics",
+          "score": "T"
+        },
+        {
+          "text": "Anything that makes my people laugh-sing along",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Pick a setting that feels like home in October:",
+      "options": [
+        {
+          "text": "A used bookstore with a basement and no signage",
+          "score": "S"
+        },
+        {
+          "text": "A rooftop ritual under a full moon",
+          "score": "N"
+        },
+        {
+          "text": "A perfectly run historic house tour",
+          "score": "J"
+        },
+        {
+          "text": "An abandoned fairground at dusk, trespassing-adjacent",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How should a Halloween party actually end?",
+      "options": [
+        {
+          "text": "With the last details cleaned up before midnight",
+          "score": "S"
+        },
+        {
+          "text": "With a séance that may or may not be real",
+          "score": "N"
+        },
+        {
+          "text": "On the scheduled end time, thank you very much",
+          "score": "J"
+        },
+        {
+          "text": "When the sun comes up, nobody remembers how",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your approach to pumpkin carving is…",
+      "options": [
+        {
+          "text": "An architecturally precise design, measured twice",
+          "score": "S"
+        },
+        {
+          "text": "A surreal cosmic pumpkin that judges you gently",
+          "score": "N"
+        },
+        {
+          "text": "Traditional triangle face, executed flawlessly",
+          "score": "J"
+        },
+        {
+          "text": "Freestyle, no stencil, whatever the pumpkin tells me",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Dark Academia Gothic",
+      "description": "Candlelit libraries, velvet blazers, annotated poetry, and a glass of something red. Your Halloween lives in old stone halls where every shadow has a footnote — moody, intellectual, and immaculately curated.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Cabinet of Curiosities",
+      "description": "Taxidermy, brass instruments, labeled jars, and conspiracy boards strung with red thread. Your aesthetic is part museum, part mad laboratory — endlessly analytical and gloriously strange.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Vampire Royalty",
+      "description": "Black silk, gold signet rings, high collars, and old money drama. You don't do Halloween small: you do candlelit ballrooms, string quartets, and the kind of glamour that makes people bow before you speak.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Kitsch Crypt",
+      "description": "Plastic skeletons in sunglasses, hooting animatronic owls, orange string lights, and zero shame. You know 'good taste' is optional and fun is mandatory — your crypt looks like a Halloween store threw a rave.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Moonlit Mystic",
+      "description": "Silver jewelry, fog, tarot spreads at midnight, and curtains that never quite open. You move through October like you share a secret with the moon — serene, intuitive, and faintly magical.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Cottagegoth",
+      "description": "Black roses in chipped teacups, dried herbs, hand-knit shawls, and a cozy kind of melancholy. You prove that mourning attire and fresh-baked bread pair beautifully — soft, romantic, and deeply at home in October.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Coven Matriarch",
+      "description": "Deep jewel tones, ritual candles arranged in perfect circles, and a dining table full of people who call you first. Your aesthetic is power with hospitality — commanding, warm, and slightly witchy in the best way.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Spooky Cute",
+      "description": "Pastel goth, plush bats, pink skulls, and ghosts with bow ties. Why be scary when you can be adorable? You weaponize cuteness, collect themed mugs, and make Halloween feel like a sleepover.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "Victorian Mourning",
+      "description": "Black lace, jet beads, high collars, and etiquette intact. You treat Halloween like a period drama — precise, graceful, and committed to the craftsmanship of a more dramatic century.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Folk Horror Prairie",
+      "description": "Linen dresses, corn dollies, wilted wheat, and the quiet dread of village rituals. Your Halloween feels ancient and sun-bleached — beautiful on the surface, unsettling underneath.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Old Hollywood Horror",
+      "description": "Red lipstick, tailored capes, silver-screen eyeliner, and one perfectly positioned candelabra. You take the goth canon and give it star treatment — commanding, polished, and made for an entrance.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Patchwork Pumpkin",
+      "description": "Gingham, friendly ghosts, painted pumpkins, and a porch that smells like cinnamon. Your Halloween is the whole neighborhood's happy place — nostalgic, generous, and designed for family photos.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "Industrial Nightmare",
+      "description": "Leather, neon, cracked screens, and bass you feel in your ribs. Your Halloween runs on strobe lights and controlled chaos — technical, sharp-edged, and built after dark.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "Ethereal Ghost",
+      "description": "White lace, pale silk, bare feet, and dry ice for everyday ambience. You look like you stepped out of a pre-Raphaelite haunting — delicate, artful, and quietly mesmerizing.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Punk Horror",
+      "description": "Battle jackets, safety pins, fake blood, and slasher-movie patches. Your Halloween has a bassline and an attitude problem — loud, fast, and entirely unafraid of the dark.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "Glitter Ghoul",
+      "description": "Sequined monster masks, platform boots, body glitter, and a fog machine at the club. You believe Halloween is a performance art and the crowd is your cast — glamorous, loud, impossible to miss.",
+      "mbti": "ESFP"
+    }
+  ],
+  "emoji": [
+    "🕷️",
+    "🎃",
+    "🔮"
+  ],
+  "likes": 0,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Halloween Aesthetic"
+  },
+  "share_hook": "There are 16 Halloween aesthetics hiding in October, and most people are dressing like the wrong one. Which one actually matches your soul?"
+}

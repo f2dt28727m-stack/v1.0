@@ -1,6 +1,6 @@
 {
   "quizId": 66,
-  "title": "Which Bluey Character Is Your Perfect Soulmate?",
+  "title": "Which Bluey Character Is Your Soulmate?",
   "category": "which",
   "tags": [
     "Bluey",
@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover which Bluey character is your ideal soulmate!",
+  "description": "Answer 12 questions to discover which Bluey character is your soulmate!",
   "questions": [
     {
       "text": "When you have a free afternoon, you tend to...",
@@ -352,7 +352,6 @@
     "👨‍👩‍👧"
   ],
   "likes": 34059,
-  "tests": 2128746,
   "subject_meta": {
     "is_character_list": true
   },

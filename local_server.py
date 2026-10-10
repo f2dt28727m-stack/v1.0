@@ -25,18 +25,23 @@ class Handler(SimpleHTTPRequestHandler):
         "/quiz/",
         "/sitemap.xml",
         "/robots.txt",
+        "/ads.txt",
         "/llms.txt",
         "/llms-full.txt",
         "/mbti-types",
         "/characters",
+        "/privacy",
     )
     _WSGI_EXACT = ("/llms.txt", "/llms-full.txt", "/mbti-types", "/mbti-types/",
-                   "/characters", "/characters/")
+                   "/characters", "/characters/", "/ads.txt", "/privacy",
+                   "/privacy/", "/privacy-policy",
+                   "/sitemap.xml", "/robots.txt")
 
     def _is_wsgi_path(self):
-        if self.path in self._WSGI_EXACT:
+        path_only = self.path.split("?", 1)[0]
+        if path_only in self._WSGI_EXACT:
             return True
-        return any(self.path.startswith(p) for p in self._WSGI_PREFIXES)
+        return any(path_only.startswith(p) for p in self._WSGI_PREFIXES)
 
     def do_GET(self):
         if self._is_wsgi_path():
@@ -62,7 +67,9 @@ class Handler(SimpleHTTPRequestHandler):
 
         environ = {
             "REQUEST_METHOD": method,
-            "PATH_INFO": self.path,
+            # WSGI PATH_INFO must exclude the query string (Vercel strips it;
+            # self.path includes it), else exact route matches miss.
+            "PATH_INFO": self.path.split("?", 1)[0],
             "QUERY_STRING": self.path.split("?", 1)[1] if "?" in self.path else "",
             "CONTENT_TYPE": self.headers.get("Content-Type", ""),
             "CONTENT_LENGTH": str(length),
@@ -76,6 +83,9 @@ class Handler(SimpleHTTPRequestHandler):
             "SERVER_NAME": "localhost",
             "SERVER_PORT": str(self.server.server_port),
             "HTTP_HOST": self.headers.get("Host", "localhost"),
+            # Passthrough for geo simulation: curl -H 'X-Vercel-IP-Country: DE'
+            "HTTP_X_VERCEL_IP_COUNTRY": self.headers.get("X-Vercel-IP-Country", ""),
+            "HTTP_CF_IPCOUNTRY": self.headers.get("CF-IPCountry", ""),
         }
 
         # Call WSGI app and collect response

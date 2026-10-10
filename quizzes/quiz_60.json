@@ -1,6 +1,6 @@
 {
   "quizId": 60,
-  "title": "Which NewJeans Member Is Your Perfect Soulmate?",
+  "title": "Which NewJeans Member Is Your Soulmate?",
   "category": "which",
   "tags": [
     "NewJeans",
@@ -9,7 +9,7 @@
     "Personality",
     "MBTI"
   ],
-  "description": "Answer 12 questions to discover which NewJeans member is your perfect soulmate!",
+  "description": "Answer 12 questions to discover which NewJeans member is your soulmate!",
   "questions": [
     {
       "text": "When you have a free afternoon with no plans, you most likely...",
@@ -352,7 +352,6 @@
     "✨"
   ],
   "likes": 44087,
-  "tests": 4408740,
   "subject_meta": {
     "pronoun": "they",
     "is_group": true,

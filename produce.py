@@ -30,6 +30,8 @@ Environment (in .env):
 """
 
 import argparse
+import ast
+import csv
 import json
 import os
 import re
@@ -54,6 +56,119 @@ from generate_quiz import (
 )
 
 STAGING_DIR = QUIZZES_DIR / "staging"
+
+
+# ============================================================
+# Demand gate — no real query data, no production (选题铁律, 机器拦截)
+# ============================================================
+# 林知数 owns data/demand_board.csv. One row = one search-intent cluster.
+# produce refuses to run unless every requested category is backed by a
+# distinct target-query row with real, sourced numbers.
+DEMAND_BOARD = DATA_DIR / "demand_board.csv"
+
+# v0 knobs —— 初版阈值，林知数首批真实榜单到位后用数据分布校准；
+# 绝不允许靠"我觉得"逐个选题。
+DEMAND_MIN_TIER1_VOLUME = 500      # Tier-1 月搜量 (global volume × Tier-1 share)
+DEMAND_MAX_3M_DECLINE = -30        # 近 3 个月趋势下限 (%)
+DEMAND_MAX_COMPETITION = 60        # 竞争难度上限 (0-100, 越低越好打)
+DEMAND_FIELDS = ["subject", "target_query", "intent", "global_monthly_volume",
+                 "tier1_share_pct", "trend_3m_pct", "competition",
+                 "source", "updated_at"]
+
+
+def _norm_subject(s):
+    return re.sub(r'[^a-z0-9]+', ' ', (s or '').lower()).strip()
+
+
+def _subject_match(topic, subject):
+    a, b = _norm_subject(topic), _norm_subject(subject)
+    if not a or not b:
+        return False
+    return a == b or a in b or b in a
+
+
+def load_demand_board(path=DEMAND_BOARD):
+    if not path.exists():
+        return None
+    with open(path, newline='', encoding='utf-8') as f:
+        return list(csv.DictReader(f))
+
+
+def demand_gate(topic, categories):
+    """Enforce the data-driven selection rule. Returns a brief or exits.
+    Each requested category needs its own row (distinct target query), which
+    structurally blocks one-subject template spam and keyword cannibalization."""
+    rows = load_demand_board()
+    if rows is None:
+        print(f"ERROR: demand board not found at {DEMAND_BOARD}.\n"
+              f"       林知数 owns it. Required columns: {', '.join(DEMAND_FIELDS)}.\n"
+              f"       No quiz is produced without real query data (选题铁律).")
+        sys.exit(2)
+    matched = [r for r in rows if _subject_match(topic, r.get('subject', ''))]
+    if not matched:
+        print(f"ERROR: no demand rows for '{topic}' on the board. "
+              f"A hunch is not a立项 reason — get a sourced row first.")
+        sys.exit(2)
+
+    def _num(r, k):
+        try:
+            return float((r.get(k) or '').strip())
+        except ValueError:
+            return None
+
+    by_intent = {}
+    for r in matched:
+        intent = (r.get('intent') or '').strip()
+        vol = _num(r, 'global_monthly_volume'); share = _num(r, 'tier1_share_pct')
+        trend = _num(r, 'trend_3m_pct'); comp = _num(r, 'competition')
+        q = (r.get('target_query') or '').strip()
+        errs = []
+        if not intent or intent not in CATEGORIES:
+            errs.append(f"invalid intent {intent!r}")
+        if not q:
+            errs.append("empty target_query")
+        if vol is None or share is None:
+            errs.append("missing volume/share")
+        if trend is None:
+            errs.append("missing trend_3m_pct")
+        if comp is None:
+            errs.append("missing competition")
+        if not (r.get('source') or '').strip():
+            errs.append("missing source")
+        tier1_vol = None
+        if vol is not None and share is not None:
+            tier1_vol = vol * share / 100.0
+            if tier1_vol < DEMAND_MIN_TIER1_VOLUME:
+                errs.append(f"Tier-1 volume {tier1_vol:.0f} < {DEMAND_MIN_TIER1_VOLUME}")
+        if trend is not None and trend < DEMAND_MAX_3M_DECLINE:
+            errs.append(f"3m trend {trend:.0f}% declining faster than {DEMAND_MAX_3M_DECLINE}%")
+        if comp is not None and comp > DEMAND_MAX_COMPETITION:
+            errs.append(f"competition {comp:.0f} > {DEMAND_MAX_COMPETITION}")
+        by_intent.setdefault(intent, []).append((q, tier1_vol, trend, comp, errs))
+
+    problems, brief = [], []
+    for cat in categories:
+        opts = by_intent.get(cat, [])
+        if not opts:
+            problems.append(f"  - {cat}: no row with a distinct target query")
+            continue
+        valid = [o for o in opts if not o[4]]
+        if not valid:
+            for o in opts:
+                problems.append(f"  - {cat} <- {o[0]}: " + "; ".join(o[4]))
+            continue
+        q, tv, tr, cp, _e = sorted(valid, key=lambda o: -(o[1] or 0))[0]
+        brief.append((cat, q, tv, tr, cp))
+    if problems:
+        print("ERROR: demand gate failed:\n" + "\n".join(problems) +
+              f"\nThresholds(v0): Tier-1 vol ≥ {DEMAND_MIN_TIER1_VOLUME}, "
+              f"3m trend ≥ {DEMAND_MAX_3M_DECLINE}%, competition ≤ {DEMAND_MAX_COMPETITION}.")
+        sys.exit(2)
+
+    print("  Demand gate (real data):")
+    for cat, q, tv, tr, cp in brief:
+        print(f"    {cat:9s} -> {q}  | Tier-1 vol {tv:,.0f}/mo | 3m {tr:+.0f}% | diff {cp:.0f}")
+    return brief
 
 # Categories the user typically wants (drop "future" for the standard 7)
 DEFAULT_CATEGORIES = ["match", "which", "type", "how", "hidden",
@@ -495,12 +610,30 @@ def promote(staging_subdir: Path, dry_run: bool = False,
 # ============================================================
 # Rebuild /quizzes.json (static listing used by index.html)
 # ============================================================
+def delisted_ids():
+    """Single source of truth for removed pages: parse QUIZ_REDIRECTS and
+    QUIZ_GONE literals from api/index.py via AST (no module execution, so
+    there is no load-all-quizzes side effect)."""
+    tree = ast.parse((SCRIPT_DIR / "api" / "index.py").read_text(encoding='utf-8'))
+    ids = set()
+    for node in tree.body:
+        if isinstance(node, ast.Assign):
+            for t in node.targets:
+                if isinstance(t, ast.Name) and t.id in ("QUIZ_REDIRECTS", "QUIZ_GONE"):
+                    val = ast.literal_eval(node.value)
+                    ids |= set(val.keys()) if isinstance(val, dict) else set(val)
+    return ids
+
+
 def rebuild_quizzes_json():
-    """Rebuild the static /quizzes.json from all quizzes/quiz_*.json files.
+    """Rebuild the static /quizzes.json from live quiz files only.
     The homepage (index.html) preloads this file directly, so it must be
-    kept in sync whenever quizzes are added/removed/renamed."""
+    kept in sync and must never list 301-merged or 410-removed pages."""
+    removed = delisted_ids()
     out = []
     for f in sorted(QUIZZES_DIR.glob("quiz_*.json")):
+        if f.stem in removed or f.stem == "onequiz":
+            continue
         with open(f) as fp:
             q = json.load(fp)
         out.append({
@@ -574,10 +707,6 @@ def main():
                        dry_run=args.dry_run, only=args.only)
 
     if args.cmd == "produce":
-        if not base_url or not api_key:
-            print("ERROR: LLM_BASE_URL and LLM_API_KEY must be set in env.")
-            return 1
-
         # Pick categories
         if args.only:
             cats = [c.strip() for c in args.only.split(",") if c.strip()]
@@ -588,6 +717,14 @@ def main():
                 print(f"ERROR: unknown category '{c}'. Valid: {CATEGORIES}")
                 return 1
         n = len(cats)
+
+        # Demand gate FIRST: no real query data → nothing happens, regardless
+        # of whether LLM keys are set (选题铁律).
+        demand_gate(args.topic, cats)
+
+        if not base_url or not api_key:
+            print("ERROR: LLM_BASE_URL and LLM_API_KEY must be set in env.")
+            return 1
 
         # Setup
         tag_lib = load_tag_lib(TAGS_PATH)

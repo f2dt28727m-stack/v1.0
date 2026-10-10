@@ -1,6 +1,6 @@
 {
   "quizId": 113,
-  "title": "Which Minecraft Companion Is Your Ideal Soulmate?",
+  "title": "Which Minecraft Companion Is Your Soulmate?",
   "category": "which",
   "tags": [
     "Minecraft",
@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your ideal Minecraft companion match!",
+  "description": "Answer 12 questions to discover your ideal Minecraft companion soulmate!",
   "questions": [
     {
       "text": "When you stumble upon an unexplored cave in Minecraft, you immediately...",
@@ -352,7 +352,6 @@
     "🏠"
   ],
   "likes": 31551,
-  "tests": 2427033,
   "subject_meta": {
     "is_character_list": true
   },

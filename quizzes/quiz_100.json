@@ -1,6 +1,6 @@
 {
   "quizId": 100,
-  "title": "What Taylor Swift-Aligned Reaction Style Matches Your Inner Tendencies?",
+  "title": "Taylor Swift Personality Quiz: What's Your Reaction Style?",
   "category": "whatwould",
   "tags": [
     "Taylor Swift",
@@ -9,7 +9,7 @@
     "What Would You Do",
     "Pop Culture"
   ],
-  "description": "Answer 12 scenario-based questions to discover which Taylor Swift-aligned reaction style matches your inner tendencies and hidden preferences!",
+  "description": "Answer 12 scenario-based questions to discover your Taylor Swift personality and reaction style!",
   "questions": [
     {
       "text": "You stumble upon a surprise fan meet-and-greet while running errands—you would...",
@@ -352,7 +352,6 @@
     "⭐"
   ],
   "likes": 44402,
-  "tests": 2336999,
   "subject_meta": {
     "pronoun": "she",
     "typing_primary": "ENFP",

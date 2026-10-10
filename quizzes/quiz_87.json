@@ -1,6 +1,6 @@
 {
   "quizId": 87,
-  "title": "Which League of Legends Champion Is Your Ideal Soulmate?",
+  "title": "Which League of Legends Champion Is Your Soulmate?",
   "category": "which",
   "tags": [
     "League of Legends",
@@ -10,7 +10,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover which League of Legends champion is your perfect soulmate!",
+  "description": "Answer 12 questions to discover which League of Legends champion is your soulmate!",
   "questions": [
     {
       "text": "After a grueling ranked match ends in defeat, how do you process it?",
@@ -353,7 +353,6 @@
     "💥"
   ],
   "likes": 41017,
-  "tests": 2158809,
   "subject_meta": {
     "is_character_list": true
   },

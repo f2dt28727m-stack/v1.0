@@ -1,6 +1,6 @@
 {
   "quizId": 45,
-  "title": "Which Euphoria Character Is Your Perfect Soulmate?",
+  "title": "Which Euphoria Character Is Your Soulmate?",
   "category": "match",
   "tags": [
     "Euphoria",
@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover which Euphoria character is your perfect soulmate!",
+  "description": "Answer 12 questions to discover which Euphoria character is your soulmate!",
   "questions": [
     {
       "text": "When you’re at a chaotic party, you...",
@@ -352,7 +352,6 @@
     "✨"
   ],
   "likes": 27282,
-  "tests": 2098683,
   "subject_meta": {
     "is_character_list": true
   },

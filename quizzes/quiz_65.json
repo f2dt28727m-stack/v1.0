@@ -1,6 +1,6 @@
 {
   "quizId": 65,
-  "title": "What Will Your NewJeans-Aligned Future Self Be Like?",
+  "title": "What Will Your NewJeans Future Self Be Like?",
   "category": "future",
   "tags": [
     "NewJeans",
@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover what your NewJeans-aligned future self will look like!",
+  "description": "Answer 12 questions to discover what your NewJeans-inspired future self will be like!",
   "questions": [
     {
       "text": "When planning a weekend, you’re most drawn to...",
@@ -352,7 +352,6 @@
     "✨"
   ],
   "likes": 69881,
-  "tests": 4658745,
   "subject_meta": {
     "pronoun": "they",
     "is_group": true,

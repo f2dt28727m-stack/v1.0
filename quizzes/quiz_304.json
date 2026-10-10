@@ -1,0 +1,360 @@
+{
+  "quizId": 304,
+  "title": "Which Halloween Candy Matches Your Personality?",
+  "category": "match",
+  "tags": [
+    "Halloween",
+    "Candy",
+    "Personality",
+    "MBTI",
+    "Holiday"
+  ],
+  "description": "Answer 12 sweet questions to find out which Halloween candy matches your personality — dark chocolate, candy corn, gummy worms, full-size bar and more!",
+  "questions": [
+    {
+      "text": "It's 8 p.m. on Halloween. Your candy situation is…",
+      "options": [
+        {
+          "text": "One premium dark bar, rationed for maximum impact",
+          "score": "I"
+        },
+        {
+          "text": "A chaotic open bowl, everyone grab whatever",
+          "score": "E"
+        },
+        {
+          "text": "Sorted by type in labeled containers, obviously",
+          "score": "S"
+        },
+        {
+          "text": "A mystery bag of candies from three countries",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A kid inspects your bowl with suspicion. You…",
+      "options": [
+        {
+          "text": "Let the data speak — try one yourself first",
+          "score": "T"
+        },
+        {
+          "text": "Give them two and tell them they deserve it",
+          "score": "F"
+        },
+        {
+          "text": "Point out the trusted name-brand options clearly",
+          "score": "J"
+        },
+        {
+          "text": "Challenge them to pick the weirdest one there",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your trick-or-treat strategy is…",
+      "options": [
+        {
+          "text": "Skip the small talk, optimize the route",
+          "score": "I"
+        },
+        {
+          "text": "Compliment every decoration on the block",
+          "score": "E"
+        },
+        {
+          "text": "Hit the same trusted streets every single year",
+          "score": "S"
+        },
+        {
+          "text": "Follow the rumor of a house giving full-size bars",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "The candy bowl has one piece left. You…",
+      "options": [
+        {
+          "text": "Weigh who deserves it by contribution to the night",
+          "score": "T"
+        },
+        {
+          "text": "Give it to the coldest-looking kid, no hesitation",
+          "score": "F"
+        },
+        {
+          "text": "Split it evenly. Fairness is non-negotiable.",
+          "score": "J"
+        },
+        {
+          "text": "Rock-paper-scissors, loser buys hot cocoa",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Pick a Halloween night companion:",
+      "options": [
+        {
+          "text": "A long solo walk with my own stash and headphones",
+          "score": "I"
+        },
+        {
+          "text": "A huge chaotic group in matching costumes",
+          "score": "E"
+        },
+        {
+          "text": "The same crew I've trick-or-treated with for years",
+          "score": "S"
+        },
+        {
+          "text": "Whoever I just met in the graveyard, honestly",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about candy corn?",
+      "options": [
+        {
+          "text": "Empirically overrated. The data is clear.",
+          "score": "T"
+        },
+        {
+          "text": "It's nostalgic joy in kernel form and I'll defend it",
+          "score": "F"
+        },
+        {
+          "text": "It belongs in October's official inventory, yearly",
+          "score": "J"
+        },
+        {
+          "text": "I'd rather eat something that glows",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At the Halloween party snack table, you…",
+      "options": [
+        {
+          "text": "Graze quietly while having one good conversation",
+          "score": "I"
+        },
+        {
+          "text": "Orchestrate a candy-swap marketplace with everyone",
+          "score": "E"
+        },
+        {
+          "text": "Critique the chocolate-to-everything ratio",
+          "score": "T"
+        },
+        {
+          "text": "Make sure the shy guest gets first pick",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal candy wrapper is…",
+      "options": [
+        {
+          "text": "Matte black with no marketing at all",
+          "score": "I"
+        },
+        {
+          "text": "Bright, loud, and fun to wave around",
+          "score": "E"
+        },
+        {
+          "text": "The classic design unchanged since the '80s",
+          "score": "T"
+        },
+        {
+          "text": "Handwritten. With a doodle.",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Someone eats your reserved Halloween candy. You…",
+      "options": [
+        {
+          "text": "Say nothing. Retire to the library. Remember forever.",
+          "score": "I"
+        },
+        {
+          "text": "Laugh, announce the theft theatrically, demand a rematch",
+          "score": "E"
+        },
+        {
+          "text": "Present receipts — I literally labeled and dated it",
+          "score": "T"
+        },
+        {
+          "text": "Forgive them instantly and check they're okay",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite Halloween flavors are…",
+      "options": [
+        {
+          "text": "The traditional ones: caramel, apple, nutmeg",
+          "score": "S"
+        },
+        {
+          "text": "Whatever unholy limited-edition fusion dropped today",
+          "score": "N"
+        },
+        {
+          "text": "A balanced spread with nothing too experimental",
+          "score": "J"
+        },
+        {
+          "text": "Three flavors in one item, consequences be damned",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "The perfect Halloween night ends…",
+      "options": [
+        {
+          "text": "Exactly on schedule, teeth brushed, stash inventoried",
+          "score": "S"
+        },
+        {
+          "text": "With an unplanned adventure at 1 a.m.",
+          "score": "N"
+        },
+        {
+          "text": "When the plan says it ends",
+          "score": "J"
+        },
+        {
+          "text": "When the candy runs out, whenever that is",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "You're picking one candy for a road trip with strangers. You pick…",
+      "options": [
+        {
+          "text": "Mints. Reliable. Quiet. Socially responsible.",
+          "score": "S"
+        },
+        {
+          "text": "A giant lollipop that becomes a conversation piece",
+          "score": "N"
+        },
+        {
+          "text": "The nut bar with the cleanest ingredient list",
+          "score": "J"
+        },
+        {
+          "text": "Sour straws and dare everyone to make the face",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Dark Chocolate Square",
+      "description": "Intense, sophisticated, and not for everyone — and you like it that way. You're the 72% cacao of people: deep, a little mysterious, and appreciated most by people with refined taste. Sweetness is optional.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Fizzy Sour Powder",
+      "description": "You're an acquired, experimental delight — the candy nobody expects and nobody forgets. Curious and a little contrarian, you'd rather be fascinating than universally liked. Your flavor profile comes with its own warning label.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Full-Size Bar",
+      "description": "You show up premium. Generous on your own terms, ambitious, and impossible to overlook, you're the full-size bar in a pillowcase of fun sizes — the household that gives you out wins Halloween outright.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Popping Candy",
+      "description": "Electric, unpredictable, and impossible to eat quietly, you're pure popping candy — you turn ordinary moments into events, spark ten ideas a minute, and leave every room crackling with energy.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "Candy Apple",
+      "description": "Bittersweet, glossy, and layered, you take a second bite to fully understand. There's a sharp, thoughtful core beneath your sweet exterior, and the people who take the time to know you become lifelong fans.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Homemade Cookie",
+      "description": "Soft, rare, and made with actual love, you don't mass-produce yourself. Sincere and imaginative, you're the treat somebody stayed up baking — worth more than a whole bucket of anything wrapped in plastic.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "Caramel Apple Pop",
+      "description": "Warm, sweet, and built for sharing, you're the flavor of being looked after. Social and encouraging, you gather people close, keep spirits high, and make even a cold October night feel like home.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "Gummy Worms",
+      "description": "Playful, wiggly, and delighted by everything, you're here strictly for a good time. You make friends in seconds, turn snack bowls into adventures, and prove that joy doesn't need to make sense.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Peppermint Classic",
+      "description": "Reliable, crisp, and exactly what you promise, you never let anyone down. Traditional with high standards, you're the candy that always stays in stock — because some things are classics for a reason.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "Candy Corn",
+      "description": "Nostalgic, divisive, and completely at peace with it, you're a Halloween tradition. Gentle and loyal, you show up every single October exactly as you are — and the people who love you really, really love you.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "Chocolate Coin",
+      "description": "Solid, valuable, and wrapped in gold, you're the treat that feels like a small business decision. Organized and dependable, you're traded, saved, and respected — the reserve currency of the candy bag.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "Ring Pop",
+      "description": "Social, sparkly, and made to be shown off, you're friendship you can wear. Generous with attention and endlessly enthusiastic, you turn every interaction into a tiny celebration and remember every name in the room.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Jawbreaker",
+      "description": "Hard shell, long game, zero instant gratification. You're quiet, patient, and surprisingly layered — people who rush you get nowhere, but anyone willing to invest hours discovers the sweet center was worth the wait.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Chocolate Rose",
+      "description": "Beautiful, crafted, and almost too pretty to eat, you approach life like an artist. Understated and expressive, you care about how things look and feel — and your elegance makes people save you for last.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "Sour Patch Kid",
+      "description": "First you're chaos, then you're sweet — and everyone's addicted. Bold, fast-talking, and thrill-seeking, you keep people off-balance in the best way, disarming them with charm seconds after the trouble starts.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Fun Dip Party",
+      "description": "Pure sugar, pure joy, dipped straight into the good times. Loud, colorful, and made for groups, you're the energy source of every Halloween party — messy, ecstatic, and absolutely the most fun in the bag.",
+      "mbti": "ESFP"
+    }
+  ],
+  "emoji": [
+    "🍬",
+    "🍭",
+    "🎃"
+  ],
+  "likes": 0,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Halloween Candy"
+  },
+  "share_hook": "Ask six friends this question and you'll get six different candies and six arguments. Which Halloween treat actually matches your personality?"
+}

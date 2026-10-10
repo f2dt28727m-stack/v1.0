@@ -2,7 +2,7 @@
   "quizzes": [
     {
       "quiz_id": "quiz_100",
-      "title": "What Taylor Swift-Aligned Reaction Style Matches Your Inner Tendencies?",
+      "title": "Taylor Swift Personality Quiz: What's Your Reaction Style?",
       "category": "whatwould",
       "tags": [
         "Taylor Swift",
@@ -17,6 +17,113 @@
         "⭐"
       ],
       "likes": 44402
+    },
+    {
+      "quiz_id": "quiz_10000",
+      "title": "Which Chappell Roan soul matches yours?",
+      "category": "match",
+      "tags": [
+        "Music",
+        "Soulmate Match",
+        "Personality",
+        "Fantasy",
+        "Aesthetic Personality"
+      ],
+      "emoji": [
+        "❓",
+        "✨",
+        "🎯"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_10001",
+      "title": "Which Chappell Roan vibe matches your personality?",
+      "category": "which",
+      "tags": [
+        "Chappell Roan",
+        "Music",
+        "Personality",
+        "Aesthetic Personality",
+        "Hidden Trait"
+      ],
+      "emoji": [
+        "❓",
+        "✨",
+        "🎯"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_10002",
+      "title": "What's your Chappell Roan personality type?",
+      "category": "type",
+      "tags": [
+        "Chappell Roan",
+        "Music",
+        "MBTI",
+        "Personality",
+        "Pop"
+      ],
+      "emoji": [
+        "❓",
+        "✨",
+        "🎯"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_10003",
+      "title": "How Chappell Roan Are You?",
+      "category": "how",
+      "tags": [
+        "Music",
+        "Personality",
+        "Chappell Roan",
+        "Pop",
+        "Aesthetic Personality"
+      ],
+      "emoji": [
+        "❓",
+        "✨",
+        "🎯"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_10004",
+      "title": "What's your hidden Chappell Roan trait?",
+      "category": "hidden",
+      "tags": [
+        "Chappell Roan",
+        "Music",
+        "Hidden Trait",
+        "Personality",
+        "Aesthetic Personality"
+      ],
+      "emoji": [
+        "❓",
+        "✨",
+        "🎯"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_10005",
+      "title": "What Would You Do in the Chappell Roan World?",
+      "category": "whatwould",
+      "tags": [
+        "Music",
+        "Personality",
+        "Pop",
+        "Fandom"
+      ],
+      "emoji": [
+        "❓",
+        "✨",
+        "🎯"
+      ],
+      "likes": 0
     },
     {
       "quiz_id": "quiz_101",
@@ -106,24 +213,6 @@
         "🎲"
       ],
       "likes": 4755
-    },
-    {
-      "quiz_id": "quiz_107",
-      "title": "What Roblox Playstyle Type Are You?",
-      "category": "which",
-      "tags": [
-        "Roblox",
-        "Gaming",
-        "Playstyle",
-        "Personality",
-        "MBTI"
-      ],
-      "emoji": [
-        "🎮",
-        "🏗️",
-        "🎲"
-      ],
-      "likes": 40752
     },
     {
       "quiz_id": "quiz_108",
@@ -217,7 +306,7 @@
     },
     {
       "quiz_id": "quiz_113",
-      "title": "Which Minecraft Companion Is Your Ideal Soulmate?",
+      "title": "Which Minecraft Companion Is Your Soulmate?",
       "category": "which",
       "tags": [
         "Minecraft",
@@ -253,7 +342,7 @@
     },
     {
       "quiz_id": "quiz_115",
-      "title": "How Minecraft-Aligned Are You?",
+      "title": "How Minecraft Are You?",
       "category": "how",
       "tags": [
         "Minecraft",
@@ -286,24 +375,6 @@
         "🏠"
       ],
       "likes": 5072
-    },
-    {
-      "quiz_id": "quiz_117",
-      "title": "What Minecraft Playstyle Type Are You?",
-      "category": "whatwould",
-      "tags": [
-        "Minecraft",
-        "Gaming Personality",
-        "Playstyle",
-        "MBTI",
-        "What Would You Do"
-      ],
-      "emoji": [
-        "⛏️",
-        "🧱",
-        "🏠"
-      ],
-      "likes": 43299
     },
     {
       "quiz_id": "quiz_118",
@@ -343,7 +414,7 @@
     },
     {
       "quiz_id": "quiz_120",
-      "title": "Which Fortnite Character Is Your Perfect Soulmate Match?",
+      "title": "Which Fortnite Character Is Your Soulmate?",
       "category": "which",
       "tags": [
         "Fortnite",
@@ -433,7 +504,7 @@
     },
     {
       "quiz_id": "quiz_125",
-      "title": "What Would You Do in Fortnite? Uncover Your Hidden Gaming Personality?",
+      "title": "What Would You Do in a Fortnite Match? Find Your Gaming Personality",
       "category": "whatwould",
       "tags": [
         "Fortnite",
@@ -504,24 +575,6 @@
       "likes": 48964
     },
     {
-      "quiz_id": "quiz_129",
-      "title": "Which Brawl Stars Brawler Matches Your Personality?",
-      "category": "which",
-      "tags": [
-        "Brawl Stars",
-        "Brawler",
-        "Mobile Game",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "🥊",
-        "💥",
-        "🎮"
-      ],
-      "likes": 26070
-    },
-    {
       "quiz_id": "quiz_130",
       "title": "What Brawl Stars Type Are You?",
       "category": "type",
@@ -577,7 +630,7 @@
     },
     {
       "quiz_id": "quiz_133",
-      "title": "What Would You Do in Brawl Stars? Uncover Your Hidden Playstyle",
+      "title": "What Would You Do First in a Brawl Stars Match? Find Your Hidden Playstyle",
       "category": "whatwould",
       "tags": [
         "Brawl Stars",
@@ -613,7 +666,7 @@
     },
     {
       "quiz_id": "quiz_135",
-      "title": "What Brawl Stars Battle Role Will You Dominate in the Future?",
+      "title": "What's Your Brawl Stars Battle Role?",
       "category": "future",
       "tags": [
         "Brawl Stars",
@@ -630,7 +683,7 @@
     },
     {
       "quiz_id": "quiz_136",
-      "title": "Which Genshin Impact Character Is Your Perfect Soulmate?",
+      "title": "Which Genshin Impact Character Is Your Soulmate?",
       "category": "which",
       "tags": [
         "Genshin Impact",
@@ -756,7 +809,7 @@
     },
     {
       "quiz_id": "quiz_143",
-      "title": "Which Honkai: Star Rail Character Is Your Perfect Soulmate?",
+      "title": "Which Honkai: Star Rail Character Is Your Soulmate?",
       "category": "which",
       "tags": [
         "Honkai: Star Rail",
@@ -989,7 +1042,7 @@
     },
     {
       "quiz_id": "quiz_156",
-      "title": "What’s Your Hidden Billie Eilish-Aligned Trait?",
+      "title": "What's Your Hidden Billie Eilish Trait?",
       "category": "hidden",
       "tags": [
         "Billie Eilish",
@@ -1039,24 +1092,6 @@
         "💫"
       ],
       "likes": 30925
-    },
-    {
-      "quiz_id": "quiz_159",
-      "title": "What Wednesday Aesthetic Personality Type Are You?",
-      "category": "type",
-      "tags": [
-        "Wednesday",
-        "Addams Family",
-        "Aesthetic Personality",
-        "MBTI",
-        "Personality Test"
-      ],
-      "emoji": [
-        "🎨",
-        "✨",
-        "💫"
-      ],
-      "likes": 33893
     },
     {
       "quiz_id": "quiz_160",
@@ -1149,24 +1184,6 @@
       "likes": 46686
     },
     {
-      "quiz_id": "quiz_165",
-      "title": "Which BLACKPINK Personality Are You?",
-      "category": "which",
-      "tags": [
-        "BLACKPINK",
-        "K-pop",
-        "Personality",
-        "MBTI",
-        "K-pop Idol"
-      ],
-      "emoji": [
-        "🎤",
-        "💃",
-        "✨"
-      ],
-      "likes": 24871
-    },
-    {
       "quiz_id": "quiz_166",
       "title": "Which BLACKPINK Member's Energy Matches Your Personality?",
       "category": "which",
@@ -1186,24 +1203,6 @@
       "likes": 27689
     },
     {
-      "quiz_id": "quiz_167",
-      "title": "How BLACKPINK Are You? Uncover Your K-pop Star Essence",
-      "category": "how",
-      "tags": [
-        "BLACKPINK",
-        "K-pop",
-        "Personality",
-        "MBTI",
-        "K-pop Idol"
-      ],
-      "emoji": [
-        "🎤",
-        "💃",
-        "✨"
-      ],
-      "likes": 30566
-    },
-    {
       "quiz_id": "quiz_168",
       "title": "What's Your Hidden Trait Inspired by BLACKPINK?",
       "category": "hidden",
@@ -1220,24 +1219,6 @@
         "✨"
       ],
       "likes": 33503
-    },
-    {
-      "quiz_id": "quiz_169",
-      "title": "What Would You Do? Discover Your BLACKPINK Personality",
-      "category": "whatwould",
-      "tags": [
-        "BLACKPINK",
-        "K-pop",
-        "Personality",
-        "MBTI",
-        "K-pop Idol"
-      ],
-      "emoji": [
-        "🎤",
-        "💃",
-        "✨"
-      ],
-      "likes": 36500
     },
     {
       "quiz_id": "quiz_170",
@@ -1331,7 +1312,7 @@
     },
     {
       "quiz_id": "quiz_175",
-      "title": "What Would Your Harry Potter Persona Be?",
+      "title": "What's Your Harry Potter Personality?",
       "category": "whatwould",
       "tags": [
         "Harry Potter",
@@ -1346,24 +1327,6 @@
         "🦉"
       ],
       "likes": 27359
-    },
-    {
-      "quiz_id": "quiz_176",
-      "title": "Which Harry Potter Character Matches Your Personality?",
-      "category": "which",
-      "tags": [
-        "Harry Potter",
-        "Hogwarts",
-        "Wizarding World",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "⚡",
-        "🧙",
-        "🦉"
-      ],
-      "likes": 30206
     },
     {
       "quiz_id": "quiz_177",
@@ -1456,26 +1419,8 @@
       "likes": 42610
     },
     {
-      "quiz_id": "quiz_182",
-      "title": "Which Travel Style Matches Your Personality?",
-      "category": "pick",
-      "tags": [
-        "Travel",
-        "MBTI",
-        "Personality",
-        "Travel Preferences",
-        "Adventure"
-      ],
-      "emoji": [
-        "✈️",
-        "🗺️",
-        "🧭"
-      ],
-      "likes": 45547
-    },
-    {
       "quiz_id": "quiz_183",
-      "title": "Which Disney Character Is Your Perfect Soulmate?",
+      "title": "Which Disney Character Is Your Soulmate?",
       "category": "match",
       "tags": [
         "Disney",
@@ -1564,7 +1509,7 @@
     },
     {
       "quiz_id": "quiz_188",
-      "title": "Which Marvel Character Is Your Perfect Soulmate?",
+      "title": "Which Marvel Character Is Your Soulmate?",
       "category": "match",
       "tags": [
         "Marvel",
@@ -1579,24 +1524,6 @@
         "🛡️"
       ],
       "likes": 38658
-    },
-    {
-      "quiz_id": "quiz_189",
-      "title": "Which Marvel Superhero Matches Your Personality?",
-      "category": "which",
-      "tags": [
-        "Marvel",
-        "Superhero",
-        "MCU",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "🦸",
-        "💥",
-        "🛡️"
-      ],
-      "likes": 41716
     },
     {
       "quiz_id": "quiz_190",
@@ -1905,42 +1832,6 @@
       "likes": 0
     },
     {
-      "quiz_id": "quiz_212",
-      "title": "Which BLACKPINK style would you pick?",
-      "category": "pick",
-      "tags": [
-        "BLACKPINK",
-        "K-pop",
-        "Music",
-        "MBTI",
-        "Aesthetic Personality"
-      ],
-      "emoji": [
-        "❓",
-        "✨",
-        "🎯"
-      ],
-      "likes": 0
-    },
-    {
-      "quiz_id": "quiz_213",
-      "title": "What does your BLACKPINK future hold?",
-      "category": "future",
-      "tags": [
-        "MBTI",
-        "K-pop",
-        "BLACKPINK",
-        "Future Life",
-        "Music"
-      ],
-      "emoji": [
-        "❓",
-        "✨",
-        "🎯"
-      ],
-      "likes": 0
-    },
-    {
       "quiz_id": "quiz_215",
       "title": "Which BLACKPINK soul matches yours?",
       "category": "match",
@@ -1950,24 +1841,6 @@
         "BLACKPINK",
         "Soulmate Match",
         "Music"
-      ],
-      "emoji": [
-        "❓",
-        "✨",
-        "🎯"
-      ],
-      "likes": 0
-    },
-    {
-      "quiz_id": "quiz_216",
-      "title": "Which BLACKPINK vibe matches your personality?",
-      "category": "which",
-      "tags": [
-        "K-pop",
-        "Music",
-        "Personality",
-        "BLACKPINK",
-        "MBTI"
       ],
       "emoji": [
         "❓",
@@ -1995,62 +1868,8 @@
       "likes": 0
     },
     {
-      "quiz_id": "quiz_218",
-      "title": "How BLACKPINK are you, really?",
-      "category": "how",
-      "tags": [
-        "K-pop",
-        "BLACKPINK",
-        "Music",
-        "Personality",
-        "Aesthetic Personality"
-      ],
-      "emoji": [
-        "❓",
-        "✨",
-        "🎯"
-      ],
-      "likes": 0
-    },
-    {
-      "quiz_id": "quiz_219",
-      "title": "What's your hidden BLACKPINK trait?",
-      "category": "hidden",
-      "tags": [
-        "BLACKPINK",
-        "K-pop",
-        "Hidden Trait",
-        "Personality",
-        "Music"
-      ],
-      "emoji": [
-        "❓",
-        "✨",
-        "🎯"
-      ],
-      "likes": 0
-    },
-    {
-      "quiz_id": "quiz_220",
-      "title": "What would you do in the BLACKPINK world?",
-      "category": "whatwould",
-      "tags": [
-        "K-pop",
-        "BLACKPINK",
-        "Personality",
-        "Music",
-        "Aesthetic Personality"
-      ],
-      "emoji": [
-        "❓",
-        "✨",
-        "🎯"
-      ],
-      "likes": 0
-    },
-    {
       "quiz_id": "quiz_221",
-      "title": "Which BLACKPINK member would you pick?",
+      "title": "Which BLACKPINK Member Are You?",
       "category": "pick",
       "tags": [
         "MBTI",
@@ -2201,9 +2020,9 @@
         "Love",
         "Personality",
         "Relationship",
-        "浪漫",
-        "爱情",
-        "情感"
+        "Romance",
+        "Love",
+        "Emotion"
       ],
       "emoji": [
         "❤️",
@@ -2213,22 +2032,76 @@
       "likes": 4460
     },
     {
-      "quiz_id": "quiz_36",
-      "title": "What’s Your Stardew Valley Farmer Type?",
-      "category": "type",
+      "quiz_id": "quiz_301",
+      "title": "Which Classic Halloween Monster Are You?",
+      "category": "which",
       "tags": [
-        "Stardew Valley",
-        "Farmer",
-        "MBTI",
+        "Halloween",
+        "Monster",
         "Personality",
-        "Farming"
+        "MBTI",
+        "Holiday"
       ],
       "emoji": [
-        "🌾",
-        "🚜",
-        "🌻"
+        "🧛",
+        "🎃",
+        "🦇"
       ],
-      "likes": 27672
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_302",
+      "title": "What's Your Halloween Aesthetic?",
+      "category": "aesthetic",
+      "tags": [
+        "Halloween",
+        "Aesthetic",
+        "Personality",
+        "MBTI",
+        "Holiday"
+      ],
+      "emoji": [
+        "🕷️",
+        "🎃",
+        "🔮"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_303",
+      "title": "What Would You Do in a Haunted House? Hidden Fear Personality Quiz",
+      "category": "whatwould",
+      "tags": [
+        "Halloween",
+        "Haunted House",
+        "Personality",
+        "MBTI",
+        "Holiday"
+      ],
+      "emoji": [
+        "👻",
+        "🏚️",
+        "🕯️"
+      ],
+      "likes": 0
+    },
+    {
+      "quiz_id": "quiz_304",
+      "title": "Which Halloween Candy Matches Your Personality?",
+      "category": "match",
+      "tags": [
+        "Halloween",
+        "Candy",
+        "Personality",
+        "MBTI",
+        "Holiday"
+      ],
+      "emoji": [
+        "🍬",
+        "🍭",
+        "🎃"
+      ],
+      "likes": 0
     },
     {
       "quiz_id": "quiz_37",
@@ -2322,7 +2195,7 @@
     },
     {
       "quiz_id": "quiz_42",
-      "title": "What Olivia Rodrigo-Aligned Personality Type Are You?",
+      "title": "What Olivia Rodrigo Personality Type Are You?",
       "category": "which",
       "tags": [
         "Olivia Rodrigo",
@@ -2376,7 +2249,7 @@
     },
     {
       "quiz_id": "quiz_45",
-      "title": "Which Euphoria Character Is Your Perfect Soulmate?",
+      "title": "Which Euphoria Character Is Your Soulmate?",
       "category": "match",
       "tags": [
         "Euphoria",
@@ -2538,7 +2411,7 @@
     },
     {
       "quiz_id": "quiz_54",
-      "title": "What Sabrina Carpenter-Aligned Personality Type Are You?",
+      "title": "What Sabrina Carpenter Personality Type Are You?",
       "category": "which",
       "tags": [
         "Sabrina Carpenter",
@@ -2646,7 +2519,7 @@
     },
     {
       "quiz_id": "quiz_60",
-      "title": "Which NewJeans Member Is Your Perfect Soulmate?",
+      "title": "Which NewJeans Member Is Your Soulmate?",
       "category": "which",
       "tags": [
         "NewJeans",
@@ -2736,7 +2609,7 @@
     },
     {
       "quiz_id": "quiz_65",
-      "title": "What Will Your NewJeans-Aligned Future Self Be Like?",
+      "title": "What Will Your NewJeans Future Self Be Like?",
       "category": "future",
       "tags": [
         "NewJeans",
@@ -2754,7 +2627,7 @@
     },
     {
       "quiz_id": "quiz_66",
-      "title": "Which Bluey Character Is Your Perfect Soulmate?",
+      "title": "Which Bluey Character Is Your Soulmate?",
       "category": "which",
       "tags": [
         "Bluey",
@@ -3041,7 +2914,7 @@
     },
     {
       "quiz_id": "quiz_82",
-      "title": "How Fortnite-Aligned Is Your Personality?",
+      "title": "How Fortnite Are You?",
       "category": "how",
       "tags": [
         "Fortnite",
@@ -3076,42 +2949,6 @@
       "likes": 30582
     },
     {
-      "quiz_id": "quiz_84",
-      "title": "What’s Your Fortnite Playstyle Personality?",
-      "category": "whatwould",
-      "tags": [
-        "Fortnite",
-        "MBTI",
-        "Personality",
-        "Gaming",
-        "Playstyle"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 33100
-    },
-    {
-      "quiz_id": "quiz_85",
-      "title": "What Fortnite Playstyle Personality Are You?",
-      "category": "which",
-      "tags": [
-        "Fortnite",
-        "Gaming Personality",
-        "Playstyle",
-        "MBTI",
-        "Video Games"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 35679
-    },
-    {
       "quiz_id": "quiz_86",
       "title": "What’s Your Future Fortnite Battle Destiny?",
       "category": "future",
@@ -3131,7 +2968,7 @@
     },
     {
       "quiz_id": "quiz_87",
-      "title": "Which League of Legends Champion Is Your Ideal Soulmate?",
+      "title": "Which League of Legends Champion Is Your Soulmate?",
       "category": "which",
       "tags": [
         "League of Legends",
@@ -3275,24 +3112,6 @@
       "likes": 35170
     },
     {
-      "quiz_id": "quiz_95",
-      "title": "Which Taylor Swift-Inspired Soulmate Is Your Perfect Match?",
-      "category": "which",
-      "tags": [
-        "Taylor Swift",
-        "Soulmate",
-        "Personality Match",
-        "MBTI",
-        "Pop Culture"
-      ],
-      "emoji": [
-        "🎤",
-        "💃",
-        "⭐"
-      ],
-      "likes": 37779
-    },
-    {
       "quiz_id": "quiz_96",
       "title": "Which Taylor Swift-Inspired Personality Type Are You?",
       "category": "which",
@@ -3309,24 +3128,6 @@
         "⭐"
       ],
       "likes": 40447
-    },
-    {
-      "quiz_id": "quiz_97",
-      "title": "What Taylor Swift-Inspired Personality Type Are You?",
-      "category": "which",
-      "tags": [
-        "Taylor Swift",
-        "MBTI",
-        "Personality",
-        "Pop Culture",
-        "Music"
-      ],
-      "emoji": [
-        "🎤",
-        "💃",
-        "⭐"
-      ],
-      "likes": 21588
     },
     {
       "quiz_id": "quiz_98",

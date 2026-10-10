@@ -1,0 +1,360 @@
+{
+  "quizId": 301,
+  "title": "Which Classic Halloween Monster Are You?",
+  "category": "which",
+  "tags": [
+    "Halloween",
+    "Monster",
+    "Personality",
+    "MBTI",
+    "Holiday"
+  ],
+  "description": "Answer 12 Halloween questions to discover which classic monster matches your personality — vampire, witch, ghost, werewolf and more!",
+  "questions": [
+    {
+      "text": "It's Halloween night and the porch light's on. What are you doing?",
+      "options": [
+        {
+          "text": "Watching from the window, keeping notes on the neighborhood drama",
+          "score": "I"
+        },
+        {
+          "text": "Hosting the whole block and making sure every kid leaves happy",
+          "score": "E"
+        },
+        {
+          "text": "Sticking to the route I mapped out three weeks ago",
+          "score": "S"
+        },
+        {
+          "text": "Inventing a brand-new Halloween tradition as I go",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A thunderstorm knocks the power out. Your first move?",
+      "options": [
+        {
+          "text": "Calculate the fastest logical way to restore order",
+          "score": "T"
+        },
+        {
+          "text": "Light candles and check that everyone's okay first",
+          "score": "F"
+        },
+        {
+          "text": "Find the emergency kit I keep exactly where it belongs",
+          "score": "J"
+        },
+        {
+          "text": "Honestly? Enjoy the spontaneous adventure",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Pick the Halloween job that fits you best:",
+      "options": [
+        {
+          "text": "Writing the spooky lore and backstory alone",
+          "score": "I"
+        },
+        {
+          "text": "Leading the group costume everyone talks about",
+          "score": "E"
+        },
+        {
+          "text": "Carving pumpkins from a tutorial, step by step",
+          "score": "S"
+        },
+        {
+          "text": "Designing a haunted maze nobody's ever seen before",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your friend swears their attic is haunted. You…",
+      "options": [
+        {
+          "text": "Ask for evidence, timestamps, and floor plans",
+          "score": "T"
+        },
+        {
+          "text": "Believe them — feelings of dread matter even without proof",
+          "score": "F"
+        },
+        {
+          "text": "Add 'investigate attic' to Saturday's structured plan",
+          "score": "J"
+        },
+        {
+          "text": "Head up there right now with zero plan, just vibes",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Choose a classic Halloween treat:",
+      "options": [
+        {
+          "text": "A quiet cup of spiced cider away from the noise",
+          "score": "I"
+        },
+        {
+          "text": "A big bowl to pass around the costume party",
+          "score": "E"
+        },
+        {
+          "text": "A classic caramel apple — Halloween tastes like 1985",
+          "score": "S"
+        },
+        {
+          "text": "Whatever weird new limited-edition candy exists this year",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal costume is…",
+      "options": [
+        {
+          "text": "Sharp, expensive, and at least 30% cape",
+          "score": "T"
+        },
+        {
+          "text": "Something that makes one specific person laugh-cry",
+          "score": "F"
+        },
+        {
+          "text": "The exact same beloved costume concept, refined yearly",
+          "score": "J"
+        },
+        {
+          "text": "Three costumes in one night, decided at the last second",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "At the haunted house, you are the person who…",
+      "options": [
+        {
+          "text": "Hangs back and observes the whole mechanism",
+          "score": "I"
+        },
+        {
+          "text": "Screams with the group and loves every second",
+          "score": "E"
+        },
+        {
+          "text": "Counts the exits and notes structural weaknesses",
+          "score": "T"
+        },
+        {
+          "text": "Holds the scared friend's hand and whispers reassurance",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A black cat crosses your path. You think…",
+      "options": [
+        {
+          "text": "Cute. I'm adopting it.",
+          "score": "I"
+        },
+        {
+          "text": "A new friend! Here, kitty — come meet everyone",
+          "score": "E"
+        },
+        {
+          "text": "Statistically irrelevant. I walk on.",
+          "score": "T"
+        },
+        {
+          "text": "That's a sign from the universe and I'm honored",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "The Halloween party is getting chaotic. You…",
+      "options": [
+        {
+          "text": "Slip out the back for a moonlit walk alone",
+          "score": "I"
+        },
+        {
+          "text": "Get even louder — this is why I came",
+          "score": "E"
+        },
+        {
+          "text": "Quietly optimize the snack table traffic flow",
+          "score": "T"
+        },
+        {
+          "text": "Start checking who needs water and a safe ride home",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your favorite kind of Halloween story is…",
+      "options": [
+        {
+          "text": "A local urban legend I can trace on a real map",
+          "score": "S"
+        },
+        {
+          "text": "A surreal dream-logic tale that lingers for days",
+          "score": "N"
+        },
+        {
+          "text": "A tightly plotted whodunit with a satisfying ending",
+          "score": "J"
+        },
+        {
+          "text": "A wild anthology where anything could happen next",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about Daylight Saving ending and the long dark nights?",
+      "options": [
+        {
+          "text": "Relieved — the dark is peaceful and useful",
+          "score": "S"
+        },
+        {
+          "text": "Inspired — long nights were made for big ideas",
+          "score": "N"
+        },
+        {
+          "text": "Fine; I adjust my schedule and carry on",
+          "score": "J"
+        },
+        {
+          "text": "Thrilled — midnight walks, no itinerary",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Midnight on November 1st. The decorations are…",
+      "options": [
+        {
+          "text": "Already labeled, boxed, and inventoried for next year",
+          "score": "S"
+        },
+        {
+          "text": "Staying up through November — Halloween is a state of mind",
+          "score": "N"
+        },
+        {
+          "text": "Down tonight; the season has a clear ending",
+          "score": "J"
+        },
+        {
+          "text": "Coming down whenever I feel like it, honestly",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Vampire Lord",
+      "description": "You're a nocturnal strategist who plays the long game. Like a vampire lord in a candlelit castle, you stay composed, read people effortlessly, and prefer a few deep conversations over a loud crowd. Centuries of patience sound pretty good to you.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "Mad Scientist",
+      "description": "Your mind never stops tinkering. Like a mad scientist at 3 a.m., you chase 'what if?' questions everyone else abandoned, and your weird experiments occasionally change everything. A little chaos in the lab is just the price of genius.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "Headless Horseman",
+      "description": "When you commit, you ride straight at the target. Commanding, fearless, and impossible to distract, you're the horseman of every haunted legend — decisive, magnetic, and remarkably hard to stop once you've chosen a direction.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "Werewolf",
+      "description": "Clever, restless, and allergic to boredom, you're the werewolf of the friend group: playful most of the time, unstoppable when the moon comes out. You love bending rules to see what happens and somehow make the fallout fun.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Gentle Ghost",
+      "description": "You feel everything that other people walk past. Like a gentle ghost drifting through an old house, you're quietly perceptive, deeply caring, and old-souled. People sense your warmth even when you barely say a word.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "Frankenstein's Creature",
+      "description": "Under the dramatic exterior, you're a sensitive soul who just wants to be understood. Curious, poetic, and far gentler than strangers assume, you remind people that the so-called monsters are often the kindest hearts in the story.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Good Witch",
+      "description": "You're the heart of every coven. Warm, persuasive, and quietly powerful, you bring people together, remember everyone's story, and use your magic — and your schedule — to take care of the people you love.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Black Cat",
+      "description": "Curious, affectionate, and impossible to keep up with, you're the black cat crossing everyone's path for the better. You make friends in every room, follow whatever shines, and somehow always land on your feet.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Mummy",
+      "description": "You respect rituals, history, and the value of doing things properly. Calm and dependable beneath the bandages, you preserve what matters, keep your promises for thousands of years if needed, and never lose your composure.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Gargoyle",
+      "description": "You're the quiet guardian perched above everyone you love. Loyal, patient, and far softer than your stony expression suggests, you watch from the sidelines and step in the moment someone you care about is threatened.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Skeleton Knight",
+      "description": "Disciplined, dutiful, and impressively composed even without skin in the game, you're the sentinel who holds the line. You believe in order, fair rules, and leading the march instead of watching it.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Hearth Witch",
+      "description": "You show love through warm cider, full cauldrons, and an open door. Sociable and generous to a fault, you're the reason everyone ends up in your kitchen on Halloween night — and you wouldn't have it any other way.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Grim Reaper",
+      "description": "Calm under pressure and weirdly good in a crisis, you handle in five minutes what takes everyone else a week. You don't spook easily, you respect efficiency, and you always arrive exactly when you mean to.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Banshee",
+      "description": "You feel beauty and sorrow more deeply than most, and you have a voice people remember. Artistic, intuitive, and emotionally honest, you turn haunting feelings into something strangely beautiful — the goth poet of the monster world.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The Deal-Making Demon",
+      "description": "Bold, charming, and first in line for the haunted house, you're here for the thrill. You love a good bargain, a better story, and pushing your luck just far enough to make the evening legendary.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Jack-o'-Lantern",
+      "description": "You're the glowing center of Halloween — bright, mischievous, and made for a party. Playful and infectiously joyful, you light up every porch you land on and believe spooky season exists mainly so everyone can have fun together.",
+      "mbti": "ESFP"
+    }
+  ],
+  "emoji": [
+    "🧛",
+    "🎃",
+    "🦇"
+  ],
+  "likes": 0,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Halloween Monster"
+  },
+  "share_hook": "Ever wondered which classic Halloween monster matches your soul? Most people guess themselves wrong on the first try — and the reveal always starts an argument worth having."
+}

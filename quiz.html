@@ -1,19 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EQQ75D1GWK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EQQ75D1GWK');
-</script>
+<!-- GA4 and AdSense are loaded by consent.js only after the geo/consent
+     check (Google Consent Mode v2). Child-directed quizzes load neither. -->
+<script>window.__QF_CONF = { page: 'quiz' };</script>
+<script src="/js/consent.js" async></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quiz - QuizFig</title>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9900304220798571" crossorigin="anonymous"></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0f0f0f;color:#fff;min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:20px;overflow-x:hidden}
@@ -288,21 +282,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
      TURNSTILE_SECRET is set in the deployment environment. -->
 <div id="cf-turnstile" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden"></div>
 
-<!-- Static AdSense ad unit - required for Googlebot to detect ads -->
-<div class="ad-container" style="margin: 20px auto; max-width: 600px;">
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-9900304220798571"
-         data-ad-slot="1357924680"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-</div>
-
-<script>
-if (window.adsbygoogle) {
-    (adsbygoogle = window.adsbygoogle || []).push({});
-}
-</script>
+<!-- AdSense Auto ads place all units automatically (the adsbygoogle loader
+     is in <head>). Old manual slot here used a placeholder id and never filled;
+     to restore a fixed mid-quiz unit, create a Display ad unit in AdSense and
+     set ADSENSE_RESULT_SLOT below to its slot id — the result screen then
+     renders and pushes it. -->
 
 <script>
 // Get quiz ID from URL parameter
@@ -317,6 +301,31 @@ function getQuizId() {
 const API_CONFIG = {
     baseUrl: '/api'
 };
+
+// Optional fixed display ad on the result screen (every quiz finisher sees it).
+// Create a "Display ad" unit at adsense.google.com -> Ads -> By ad unit ->
+// Display, then paste its 10-digit slot id below. Empty = Auto ads only.
+const ADSENSE_RESULT_SLOT = '';
+function renderResultAd() {
+    if (!ADSENSE_RESULT_SLOT) return;
+    // Run only after the consent/geo gate; child-directed quizzes never render ads.
+    var render = function () {
+        if (window.QFConsent && window.QFConsent.state && window.QFConsent.state.child) return;
+        const box = document.createElement('div');
+        box.className = 'ad-container';
+        box.style.margin = '20px auto';
+        box.innerHTML = '<ins class="adsbygoogle" style="display:block" ' +
+            'data-ad-client="ca-pub-9900304220798571" data-ad-slot="' +
+            ADSENSE_RESULT_SLOT + '" data-ad-format="auto" data-full-width-responsive="true"></ins>';
+        document.getElementById('app').appendChild(box);
+        try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+    };
+    if (window.QFConsent && window.QFConsent.state && window.QFConsent.state.adsLoaded) {
+        render();
+    } else if (window.QFConsent && window.QFConsent.whenReady) {
+        window.QFConsent.whenReady(render);
+    }
+}
 
 // Cloudflare Turnstile (anti-bot) — site key is PUBLIC, safe to expose.
 // Replace the placeholder with your real site key from
@@ -393,6 +402,7 @@ loadCommonConfig();
 
 // App state
 let quizData = null;
+let lastResult = null;
 let questions = [];
 let currentQ = 0;
 let answers = {};
@@ -510,23 +520,26 @@ async function loadQuizData() {
                      description: data.description || '',
                      category: data.category || 'general',
                      tags: data.tags || [],
+                     emoji: data.emoji || ['✨'],
                      share_hook: data.share_hook || '' };
         
         // Inject SEO/dynamic meta for this quiz
         document.title = data.title + ' | QuizFig';
-        function setMeta(prop, content) {
-            var el = document.querySelector('meta[property="' + prop + '"]');
-            if (!el) { el = document.createElement('meta'); el.setAttribute('property', prop); document.head.appendChild(el); }
+        function setMeta(attr, prop, content) {
+            var el = document.querySelector('meta[' + attr + '="' + prop + '"]');
+            if (!el) { el = document.createElement('meta'); el.setAttribute(attr, prop); document.head.appendChild(el); }
             el.setAttribute('content', content);
         }
         var baseUrl = 'https://quizfig.com/quiz/' + data.quiz_id;
-        setMeta('og:title', data.title + ' | QuizFig');
-        setMeta('og:description', data.description || '');
-        setMeta('og:url', baseUrl);
-        setMeta('og:image', 'https://quizfig.com/og-default.png');
-        setMeta('twitter:title', data.title + ' | QuizFig');
-        setMeta('twitter:description', data.description || '');
-        setMeta('twitter:image', 'https://quizfig.com/og-default.png');
+        var ogImg = 'https://quizfig.com/og/' + data.quiz_id + '.jpg';
+        setMeta('property', 'og:title', data.title + ' | QuizFig');
+        setMeta('property', 'og:description', data.description || '');
+        setMeta('property', 'og:url', baseUrl);
+        setMeta('property', 'og:image', ogImg);
+        setMeta('name', 'twitter:card', 'summary_large_image');
+        setMeta('name', 'twitter:title', data.title + ' | QuizFig');
+        setMeta('name', 'twitter:description', data.description || '');
+        setMeta('name', 'twitter:image', ogImg);
         var link = document.querySelector('link[rel="canonical"]');
         if (!link) { link = document.createElement('link'); link.rel = 'canonical'; document.head.appendChild(link); }
         link.href = baseUrl;
@@ -588,8 +601,7 @@ const p=((currentQ+1)/questions.length)*100;
 const ca=answers[q.id]||'';
 document.getElementById('app').innerHTML=`
 <div class="progress-wrap"><div class="progress-bar"><div class="progress-fill" style="width:${p}%"></div></div><div class="progress-text">${currentQ+1}/${questions.length}</div></div>
-<div class="question-card"><div class="question-number">Question ${currentQ+1}</div><div class="question-text">${q.t}</div><div class="option-list">${q.o.map(o=>`<div class="option ${ca===o.score?'selected':''}" onclick="sel('${o.score}')">${o.text}</div>`).join('')}</div>${currentQ>0?`<div class="back-question" onclick="prev()">← Previous</div>`:''}</div>
-<div class="ad-container"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9900304220798571" data-ad-slot="1357924680" data-ad-format="auto" data-full-width-responsive="true"></ins></div>`;
+<div class="question-card"><div class="question-number">Question ${currentQ+1}</div><div class="question-text">${q.t}</div><div class="option-list">${q.o.map(o=>`<div class="option ${ca===o.score?'selected':''}" onclick="sel('${o.score}')">${o.text}</div>`).join('')}</div>${currentQ>0?`<div class="back-question" onclick="prev()">← Previous</div>`:''}</div>`;
 }
 
 function sel(s){
@@ -603,6 +615,7 @@ async function showR(){
         const resultData = await submitAnswers();
         const result = resultData.result;
         const percentages = resultData.percentages;
+        lastResult = result;
         
         // Extract character name from title (e.g., "The Enthusiastic Idealist (Pocahontas)" -> "Pocahontas (The Enthusiastic Idealist)")
         let characterName = "";
@@ -651,6 +664,7 @@ async function showR(){
         }).join('')}</div>
         <div class="share-btns"><button class="share-btn primary" onclick="shareR()">📤 Share</button><button class="share-btn secondary" onclick="goBack()">🔄 Try Again</button><button class="share-btn secondary" onclick="goRandom()">🎲 Random</button></div>
         </div>`;
+        renderResultAd();
     } catch (error) {
         console.error('Error showing result:', error);
         document.getElementById('app').innerHTML = '<div class="loading">Failed to calculate result. Please try again.</div>';
@@ -671,21 +685,132 @@ try {
     window.location.href = 'index.html';
 }
 }
-function shareR(){
-    // 1) 拿 quiz factory 生成的 share_hook（每个 quiz IP-specific 的钩子句）
-    const hook = (quizData.share_hook || '').trim();
-    // 兜底：老 quiz 没 share_hook 字段时用一个 generic 钩子
-    const finalHook = hook ||
+// ---------- Viral result image (1080x1920, Stories / TikTok / WhatsApp) ----------
+function wrapCanvasLines(ctx, text, maxWidth){
+    const words = (text || '').split(/\s+/);
+    const lines = [];
+    let line = '';
+    for (const w of words){
+        const test = line ? line + ' ' + w : w;
+        if (ctx.measureText(test).width > maxWidth && line){ lines.push(line); line = w; }
+        else line = test;
+    }
+    if (line) lines.push(line);
+    return lines;
+}
+function canvasRoundRect(ctx,x,y,w,h,r){
+    ctx.beginPath();
+    ctx.moveTo(x+r,y);
+    ctx.arcTo(x+w,y,x+w,y+h,r);
+    ctx.arcTo(x+w,y+h,x,y+h,r);
+    ctx.arcTo(x,y+h,x,y,r);
+    ctx.arcTo(x,y,x+w,y,r);
+    ctx.closePath();
+}
+async function buildResultImageFile(){
+    if (!lastResult) return null;
+    const W = 1080, H = 1920;
+    const cv = document.createElement('canvas');
+    cv.width = W; cv.height = H;
+    const ctx = cv.getContext('2d');
+    const FONT = '-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif';
+    ctx.textBaseline = 'alphabetic';
+
+    // Background: vertical base + two brand-color glows
+    const bg = ctx.createLinearGradient(0,0,0,H);
+    bg.addColorStop(0,'#171033'); bg.addColorStop(.55,'#0B0817'); bg.addColorStop(1,'#1A0D2E');
+    ctx.fillStyle = bg; ctx.fillRect(0,0,W,H);
+    let glow = ctx.createRadialGradient(200,260,40,200,260,640);
+    glow.addColorStop(0,'rgba(162,89,255,.42)'); glow.addColorStop(1,'rgba(162,89,255,0)');
+    ctx.fillStyle = glow; ctx.fillRect(0,0,W,H);
+    glow = ctx.createRadialGradient(900,1680,40,900,1680,680);
+    glow.addColorStop(0,'rgba(255,122,182,.38)'); glow.addColorStop(1,'rgba(255,122,182,0)');
+    ctx.fillStyle = glow; ctx.fillRect(0,0,W,H);
+
+    // Brand
+    const brandGrad = ctx.createLinearGradient(72,0,156,0);
+    brandGrad.addColorStop(0,'#A259FF'); brandGrad.addColorStop(1,'#FF7AB6');
+    ctx.fillStyle = brandGrad; canvasRoundRect(ctx,72,82,84,84,22); ctx.fill();
+    ctx.fillStyle = '#fff'; ctx.font = '800 46px ' + FONT; ctx.textAlign = 'center';
+    ctx.fillText('Q',114,143);
+    ctx.textAlign = 'left';
+    ctx.fillStyle = '#fff'; ctx.font = '800 40px ' + FONT;
+    ctx.fillText('QUIZFIG',176,128);
+    ctx.fillStyle = 'rgba(255,255,255,.55)'; ctx.font = '600 24px ' + FONT;
+    ctx.fillText('One More Quiz, Know Yourself Better',176,162);
+
+    // Emoji ring
+    const cy = 486;
+    ctx.beginPath(); ctx.arc(W/2,cy,158,0,Math.PI*2);
+    ctx.fillStyle = 'rgba(255,255,255,.06)'; ctx.fill();
+    ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(255,255,255,.22)'; ctx.stroke();
+    ctx.font = '150px ' + FONT; ctx.textAlign = 'center';
+    ctx.fillText(((quizData.emoji && quizData.emoji[0]) || '✨'), W/2, cy+54);
+
+    // Label
+    ctx.fillStyle = 'rgba(255,255,255,.62)'; ctx.font = '700 30px ' + FONT;
+    ctx.fillText('M Y   R E S U L T', W/2, 742);
+
+    // Result name (gradient, adaptive size, max 3 lines)
+    const name = lastResult.title || '';
+    const nfs = name.length > 34 ? 52 : 68;
+    ctx.font = '800 ' + nfs + 'px ' + FONT;
+    const nlines = wrapCanvasLines(ctx, name, 900).slice(0,3);
+    const nameGrad = ctx.createLinearGradient(140,0,940,0);
+    nameGrad.addColorStop(0,'#CDB0FF'); nameGrad.addColorStop(1,'#FF9EC9');
+    ctx.fillStyle = nameGrad;
+    let y = 842;
+    const nlH = nfs * 1.18;
+    nlines.forEach(l => { ctx.fillText(l, W/2, y); y += nlH; });
+
+    // Description (max width 880, dynamic line cap so it never collides with CTA)
+    let desc = (lastResult.description || '').trim();
+    if (desc.length > 260) desc = desc.slice(0,257) + '…';
+    ctx.font = '500 38px ' + FONT;
+    ctx.fillStyle = 'rgba(255,255,255,.85)';
+    const allD = wrapCanvasLines(ctx, desc, 880);
+    const maxD = Math.max(2, Math.floor((1410 - (y+24)) / 52));
+    const dlines = allD.slice(0, maxD);
+    if (allD.length > maxD && dlines.length)
+        dlines[dlines.length-1] = dlines[dlines.length-1].replace(/\S+\s*$/, '') + '…';
+    y += 30;
+    dlines.forEach(l => { ctx.fillText(l, W/2, y); y += 52; });
+
+    // Quiz title
+    const qt = (quizData.title || '').length > 62 ? quizData.title.slice(0,60) + '…' : (quizData.title || '');
+    ctx.font = 'italic 500 28px ' + FONT; ctx.fillStyle = 'rgba(255,255,255,.5)';
+    ctx.fillText(qt, W/2, 1472);
+
+    // CTA pill
+    ctx.font = '800 40px ' + FONT;
+    const cta = 'Which one will YOU get?';
+    const tw = ctx.measureText(cta).width;
+    const pw = tw + 110, ph = 104, px = (W-pw)/2, py = 1536;
+    const cg = ctx.createLinearGradient(px,0,px+pw,0);
+    cg.addColorStop(0,'#A259FF'); cg.addColorStop(1,'#FF7AB6');
+    ctx.fillStyle = cg; canvasRoundRect(ctx,px,py,pw,ph,ph/2); ctx.fill();
+    ctx.fillStyle = '#15101F';
+    ctx.fillText(cta, W/2, py+ph/2+14);
+
+    // URL
+    ctx.fillStyle = 'rgba(255,255,255,.82)'; ctx.font = '800 36px ' + FONT;
+    ctx.fillText('QUIZFIG.COM', W/2, 1724);
+
+    const blob = await new Promise(res => cv.toBlob(res, 'image/png'));
+    if (!blob) return null;
+    return new File([blob], 'quizfig-result.png', { type: 'image/png' });
+}
+
+async function shareR(){
+    // 1) share_hook（每个 quiz IP-specific 的钩子句），兜底 generic
+    const hook = (quizData.share_hook || '').trim() ||
         "Curious what personality type you'd get? Most people guess wrong on the first try.";
-    const url = window.location.href;
-
-    // 2) 三个模板，按 quizData.category 做简单 hash 选一个固定模板
-    //    (同 quiz 连点不会跳文案；不同 quiz 会用不同模板)
+    // 2) 分享的是带 OG 标签的 SSR 规范页，不是 quiz.html 空白页
+    const shareUrl = location.origin + '/quiz/' + quizData.quizId;
     const tplIdx = simpleHash(quizData.category || 'default') % SHARE_TEMPLATES.length;
-    const text = SHARE_TEMPLATES[tplIdx](finalHook, url);
+    const text = SHARE_TEMPLATES[tplIdx](hook, shareUrl);
 
-    // 3) 埋点：onClick 就打，fire-and-forget，不影响分享流程
-    //    keepalive 确保用户分享后页面关闭也能把数据送出去
+    // 3) 埋点：onClick 就打，fire-and-forget
     if (navigator.sendBeacon) {
         try {
             navigator.sendBeacon('/api/share',
@@ -701,15 +826,35 @@ function shareR(){
         }).catch(() => {});
     }
 
-    // 4) 调分享 API（mobile → Web Share；desktop → clipboard 兜底）
+    // 4) 优先：带结果图的系统分享（IG Stories / TikTok / WhatsApp / Messages）
+    let file = null;
+    try { file = await buildResultImageFile(); } catch (e) { file = null; }
+    if (file && navigator.canShare && navigator.canShare({ files: [file] })) {
+        try {
+            await navigator.share({ files: [file], title: 'My Quiz Result', text: text });
+            return;
+        } catch (e) { if (e && e.name === 'AbortError') return; /* fall through */ }
+    }
+
+    // 5) 无文件分享能力：纯文本 Web Share
     if (navigator.share) {
-        navigator.share({ title: 'My Quiz Result', text: text }).catch(() => {
-            navigator.clipboard.writeText(text);
-            alert('Link copied!');
-        });
-    } else {
-        navigator.clipboard.writeText(text);
-        alert('Link copied!');
+        try { await navigator.share({ title: 'My Quiz Result', text: text }); return; }
+        catch (e) { if (e && e.name === 'AbortError') return; /* fall through */ }
+    }
+
+    // 6) Desktop 兜底：保存结果图 + 复制文案链接
+    if (file) {
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(file);
+        a.download = file.name;
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+    }
+    try {
+        await navigator.clipboard.writeText(text);
+        alert('Result image saved & link copied — post it to your story or group chat!');
+    } catch (e) {
+        window.prompt('Copy your quiz link:', shareUrl);
     }
 }
 
@@ -753,8 +898,9 @@ function closePrivacyModal() { document.getElementById('privacy-modal').style.di
 <footer class="footer">
     <div class="footer-content">
         <div class="footer-links">
-            <span onclick="showAboutModal()">About Us</span>｜<span onclick="showAboutModal()">Contact Us</span>｜<span onclick="showPrivacyModal()">Privacy Policy</span>
+            <span onclick="showAboutModal()">About Us</span>｜<span onclick="showAboutModal()">Contact Us</span>｜<span onclick="showPrivacyModal()">Privacy Summary</span>｜<a href="/privacy" style="color:#888;">Full Privacy Policy</a>
         </div>
+        <div style="max-width:600px;margin:8px auto 0;font-size:10px;color:#666;line-height:1.6;">Unofficial fan-made quizzes for entertainment only &mdash; not affiliated with or endorsed by any named brand, artist, studio, game publisher or rights holder. &ldquo;MBTI&rdquo; is a registered trademark of The Myers &amp; Briggs Foundation.</div>
         © 2026 QuizFig, All Rights Reserved
     </div>
 </footer>
@@ -767,23 +913,21 @@ function closePrivacyModal() { document.getElementById('privacy-modal').style.di
     </div>
 </div>
 
-<!-- Privacy Modal -->
+<!-- Privacy Modal (short summary; full standalone policy at /privacy) -->
 <div class="about-modal" id="privacy-modal" style="display: none;">
     <div class="about-content privacy-content">
         <div class="about-header"><span>Privacy Policy</span><span onclick="closePrivacyModal()" style="cursor:pointer;">✕</span></div>
         <div class="privacy-body">
-            <p style="color:#888;margin-bottom:12px;">Last updated: 2026-02-20</p>
-            <p style="margin-bottom:10px;"><strong>1. Introduction</strong><br>This Privacy Policy explains how QuizFig handles information.</p>
-            <p style="margin-bottom:10px;"><strong>2. Information We Do NOT Collect</strong><br>QuizFig does NOT collect any personal data.</p>
-            <p style="margin-bottom:10px;"><strong>3. How We Use Information</strong><br>Since we collect no personal data, we do not use user data.</p>
-            <p style="margin-bottom:10px;"><strong>4. Third-Party Services</strong><br>All quizzes run locally in your browser.</p>
-            <p style="margin-bottom:10px;"><strong>5. Children's Privacy</strong><br>We do not knowingly collect information from children.</p>
-            <p style="margin-bottom:10px;"><strong>6. Changes to This Policy</strong><br>We may update this policy occasionally.</p>
-            <p><strong>7. Contact</strong><br>Contact us at: bebeju@qq.com</p>
+            <p style="color:#888;margin-bottom:12px;">Last updated: 2026-10-10</p>
+            <p style="margin-bottom:10px;"><strong>1. What we process</strong><br>No account is required and quiz answers are computed in your browser. Our servers handle standard technical data (IP address, page, browser, timestamps) for security, rate limiting and aggregated, de-identified completion counts.</p>
+            <p style="margin-bottom:10px;"><strong>2. Cookies, analytics and ads</strong><br>We use Google Analytics 4 for usage statistics and Google AdSense to show ads. These Google services may use cookies or device identifiers, including for personalized ads. No other advertising network is used.</p>
+            <p style="margin-bottom:10px;"><strong>3. Your choice</strong><br>Visitors in the EEA, UK and Switzerland see an accept/reject choice before non-essential cookies are stored. Rejecting still shows non-personalized ads. Manage personalized ads at <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ads Settings</a>.</p>
+            <p style="margin-bottom:10px;"><strong>4. Children</strong><br>Pages based on child-oriented franchises (e.g. Bluey, Disney, Minecraft, Roblox, Fortnite, My Little Pony) run no ads and no analytics. We do not knowingly collect data from children under 13.</p>
+            <p style="margin-bottom:10px;"><strong>5. Trademarks</strong><br>All quizzes are unofficial fan content and are not affiliated with any named brand, artist, studio or rights holder. "MBTI" is a trademark of The Myers &amp; Briggs Foundation.</p>
+            <p style="margin-bottom:10px;"><a href="/privacy" target="_blank" rel="noopener" style="color:#A259FF;font-weight:600;">Read the full Privacy Policy &rarr;</a></p>
+            <p><strong>Contact:</strong> bebeju@qq.com</p>
         </div>
     </div>
 </div>
-<!-- Footer Ad Script -->
-<script src="https://pl29731037.effectivecpmnetwork.com/e9/6d/d8/e96dd8df6601a8ae07af1bd836296417.js"></script>
 </body>
 </html>

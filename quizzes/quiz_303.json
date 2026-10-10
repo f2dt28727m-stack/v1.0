@@ -1,0 +1,360 @@
+{
+  "quizId": 303,
+  "title": "What Would You Do in a Haunted House? Hidden Fear Personality Quiz",
+  "category": "whatwould",
+  "tags": [
+    "Halloween",
+    "Haunted House",
+    "Personality",
+    "MBTI",
+    "Holiday"
+  ],
+  "description": "Answer 12 spooky scenarios to reveal your hidden fear personality — are you the ghost detective, the screamer, or the first through the door?",
+  "questions": [
+    {
+      "text": "The door of the haunted house creaks open by itself. You…",
+      "options": [
+        {
+          "text": "Pause and study the hinges, airflow, and likely mechanism",
+          "score": "I"
+        },
+        {
+          "text": "Whoop and wave the group in — this is going to be great",
+          "score": "E"
+        },
+        {
+          "text": "Check the floor plan I brought and orient the group",
+          "score": "S"
+        },
+        {
+          "text": "Assume something wants to communicate and feel intrigued",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A chandelier swings for no reason. Your explanation?",
+      "options": [
+        {
+          "text": "A pressure differential. Obviously.",
+          "score": "T"
+        },
+        {
+          "text": "Someone here is trying to tell us something",
+          "score": "F"
+        },
+        {
+          "text": "Old house. Moving on per the schedule.",
+          "score": "J"
+        },
+        {
+          "text": "Okay, that's actually fascinating — let's test it again",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Pick your haunted-house tool:",
+      "options": [
+        {
+          "text": "A notebook to log anomalies in silence",
+          "score": "I"
+        },
+        {
+          "text": "A speaker so I can roast the ghost out loud",
+          "score": "E"
+        },
+        {
+          "text": "The biggest reliable flashlight money can buy",
+          "score": "S"
+        },
+        {
+          "text": "A pendulum. I want to ask it questions",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Someone suggests a midnight séance. You…",
+      "options": [
+        {
+          "text": "Demand controlled conditions and a control group",
+          "score": "T"
+        },
+        {
+          "text": "Make sure everyone actually consents and feels safe first",
+          "score": "F"
+        },
+        {
+          "text": "Agree only if we follow a proper, structured procedure",
+          "score": "J"
+        },
+        {
+          "text": "Start arranging candles before they finish the sentence",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your group is bickering about turning back. You…",
+      "options": [
+        {
+          "text": "Think it through alone and state a calm recommendation",
+          "score": "I"
+        },
+        {
+          "text": "Rally everyone with a speech and lead the way",
+          "score": "E"
+        },
+        {
+          "text": "Stick to the original route — it's the safest path",
+          "score": "S"
+        },
+        {
+          "text": "Propose following the ghost sounds instead of the map",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Choose your haunted-house weakness:",
+      "options": [
+        {
+          "text": "Too much chaotic noise ruins my ability to reason",
+          "score": "T"
+        },
+        {
+          "text": "I feel bad for the ghosts and it ruins the scare",
+          "score": "F"
+        },
+        {
+          "text": "I hate when plans change with no warning",
+          "score": "J"
+        },
+        {
+          "text": "I will absolutely wander off alone, it's a problem",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Inside the house, you'd rather…",
+      "options": [
+        {
+          "text": "Explore the library by myself for an hour",
+          "score": "I"
+        },
+        {
+          "text": "Stick with the loudest, funniest group in the place",
+          "score": "E"
+        },
+        {
+          "text": "Systematically check each room in numbered order",
+          "score": "T"
+        },
+        {
+          "text": "Stay near whoever looks the most scared",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A cold hand touches your shoulder in the dark. You…",
+      "options": [
+        {
+          "text": "Freeze, calculate, then turn slowly with the flashlight",
+          "score": "I"
+        },
+        {
+          "text": "Scream, then laugh, then ask if it wants to hang out",
+          "score": "E"
+        },
+        {
+          "text": "Execute the emergency drill I briefed everyone on",
+          "score": "T"
+        },
+        {
+          "text": "Apologize to whatever it is and ask if it's hurt",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "After the haunt, you're the one who…",
+      "options": [
+        {
+          "text": "Goes home alone and re-reads the history of the house",
+          "score": "I"
+        },
+        {
+          "text": "Keeps the group together for the 2 a.m. diner recap",
+          "score": "E"
+        },
+        {
+          "text": "Writes the incident timeline while it's fresh",
+          "score": "T"
+        },
+        {
+          "text": "Checks in on every friend before bed",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "The scariest part of a haunted house, honestly, is…",
+      "options": [
+        {
+          "text": "The real history that inspired the legend",
+          "score": "S"
+        },
+        {
+          "text": "The feeling that something is watching from the walls",
+          "score": "N"
+        },
+        {
+          "text": "Not knowing where the exits are",
+          "score": "J"
+        },
+        {
+          "text": "How bored the ghosts must be",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "Your ideal haunted house experience is…",
+      "options": [
+        {
+          "text": "A self-guided audio tour with historical sources",
+          "score": "S"
+        },
+        {
+          "text": "An immersive séance night with actors and fog",
+          "score": "N"
+        },
+        {
+          "text": "A timed guided tour with clear rules and route",
+          "score": "J"
+        },
+        {
+          "text": "A 'you have the house till dawn' free-roam situation",
+          "score": "P"
+        }
+      ]
+    },
+    {
+      "text": "A door at the end of the hall says DO NOT ENTER. You…",
+      "options": [
+        {
+          "text": "Document it first, then open it carefully",
+          "score": "S"
+        },
+        {
+          "text": "Open it immediately. Obviously.",
+          "score": "N"
+        },
+        {
+          "text": "Respect the sign — boundaries exist for reasons",
+          "score": "J"
+        },
+        {
+          "text": "Open it, but make a game out of whatever's inside",
+          "score": "P"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Ghost Detective",
+      "description": "Calm, curious, and allergic to superstition, you enter a haunted house like it's a case to solve. While everyone else screams, you're mapping drafts, checking floorboards, and asking the real questions. The ghost had better have its story straight.",
+      "mbti": "INTJ"
+    },
+    {
+      "title": "The Debunker",
+      "description": "You're here for the wires. Analytical and quietly smug, you open every door looking for the speaker system, and you'll absolutely explain the physics of a cold spot at 2 a.m. Your skepticism makes you the bravest person in the room — and the most insufferable.",
+      "mbti": "INTP"
+    },
+    {
+      "title": "The Tactician",
+      "description": "You take command before the first door creaks. Group positions, flashlights distributed, exit routes memorized — you run the haunted house like a campaign. People survive worse nights because you made a plan.",
+      "mbti": "ENTJ"
+    },
+    {
+      "title": "The Provocateur",
+      "description": "You're the one who taunts the ghost. Witty, restless, and incapable of letting a tense moment sit quietly, you provoke the house on purpose — partly for science, mostly because a haunted house is boring if nobody challenges it.",
+      "mbti": "ENTP"
+    },
+    {
+      "title": "The Sensitive",
+      "description": "You walk in and immediately know which room is sad. Deeply intuitive and quietly courageous, you sense shifts the others miss. You don't need doors slamming to believe something is there — you felt it arrive.",
+      "mbti": "INFJ"
+    },
+    {
+      "title": "The Ghost Therapist",
+      "description": "Your first instinct in a haunted house is to wonder if the ghost is okay. Empathetic and imaginative, you talk to the spirits with kindness, apologize to the furniture, and genuinely believe every haunting is a cry for understanding.",
+      "mbti": "INFP"
+    },
+    {
+      "title": "The Steady Leader",
+      "description": "You're the reason nobody actually panics. Warm, decisive, and grounded, you keep your voice low, call the group together, and turn terror into a team activity. Under your watch, even a haunted house feels survivable.",
+      "mbti": "ENFJ"
+    },
+    {
+      "title": "The Thrill Screamer",
+      "description": "You scream at every jump scare — and immediately beg to go again. Enthusiastic, expressive, and powered entirely by adrenaline, you're the haunted house's favorite customer: terrified, delighted, and incapable of shutting up.",
+      "mbti": "ENFP"
+    },
+    {
+      "title": "The Prepared One",
+      "description": "Two working flashlights, spare batteries, a printed floor plan, and a charged phone. You take 'be prepared' as a personality trait, and when the lights go out, the entire group suddenly remembers why they keep you around.",
+      "mbti": "ISTJ"
+    },
+    {
+      "title": "The Hand-Holder",
+      "description": "You're scared — you'll admit it freely — but you'll never let anyone face the dark hallway alone. Gentle, loyal, and braver than you look, you cling to your friends and they cling right back.",
+      "mbti": "ISFJ"
+    },
+    {
+      "title": "The Marshal",
+      "description": "'Stay together. Don't touch anything. Move.' You run the haunted house like a drill sergeant, and it works. Structured, practical, and unimpressed by theatrics, you marshal everyone through by sheer force of competence.",
+      "mbti": "ESTJ"
+    },
+    {
+      "title": "The Keeper of the Group",
+      "description": "You brought snacks, you know everyone's safe word, and you've arranged the post-haunt hot cocoa in advance. Social and caring, you believe the real protection against ghosts is excellent logistics and emotional support.",
+      "mbti": "ESFJ"
+    },
+    {
+      "title": "The Lockpicker",
+      "description": "While the group argues about the cold spot, you've already found the servant's staircase. Calm, handy, and endlessly curious about how things work, you test every door, window, and trapdoor — you'd be a great ghost yourself.",
+      "mbti": "ISTP"
+    },
+    {
+      "title": "The Quiet One",
+      "description": "You barely speak the whole tour — but you see everything. Sensitive and observant, you absorb the atmosphere, notice the portrait that moved, and only say something aloud once you're completely certain. Nobody ignores you twice.",
+      "mbti": "ISFP"
+    },
+    {
+      "title": "The First Through the Door",
+      "description": "No hesitation. Grinning, cocky, and first into every basement, you treat the haunted house like an extreme sport. You thrive on the rush and your courage (or recklessness) sets the pace for everyone behind you.",
+      "mbti": "ESTP"
+    },
+    {
+      "title": "The Comic Relief",
+      "description": "You narrate the entire haunting like a stand-up special. The house groans, you deliver a one-liner; a door slams, you give it a review. Outgoing and quick-witted, you weaponize humor so nobody has time to be truly afraid.",
+      "mbti": "ESFP"
+    }
+  ],
+  "emoji": [
+    "👻",
+    "🏚️",
+    "🕯️"
+  ],
+  "likes": 0,
+  "subject_meta": {
+    "is_generic": true,
+    "topic": "Haunted House"
+  },
+  "share_hook": "Everyone reacts differently when the door creaks shut. Take this before your next haunted house — half the group gets a result they refuse to accept."
+}

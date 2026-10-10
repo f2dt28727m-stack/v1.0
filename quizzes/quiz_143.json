@@ -1,6 +1,6 @@
 {
   "quizId": 143,
-  "title": "Which Honkai: Star Rail Character Is Your Perfect Soulmate?",
+  "title": "Which Honkai: Star Rail Character Is Your Soulmate?",
   "category": "which",
   "tags": [
     "Honkai: Star Rail",
@@ -9,7 +9,7 @@
     "MBTI",
     "Personality"
   ],
-  "description": "Answer 12 questions to discover your perfect soulmate in Honkai: Star Rail!",
+  "description": "Answer 12 questions to discover your soulmate in Honkai: Star Rail!",
   "questions": [
     {
       "text": "When you stumble upon a hidden, unexplored corner in a new planet, you...",
@@ -352,7 +352,6 @@
     "⚔️"
   ],
   "likes": 38834,
-  "tests": 2427126,
   "subject_meta": {
     "is_character_list": true
   },

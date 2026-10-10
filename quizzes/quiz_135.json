@@ -1,6 +1,6 @@
 {
   "quizId": 135,
-  "title": "What Brawl Stars Battle Role Will You Dominate in the Future?",
+  "title": "What's Your Brawl Stars Battle Role?",
   "category": "future",
   "tags": [
     "Brawl Stars",
@@ -8,7 +8,7 @@
     "MBTI",
     "Personality Test"
   ],
-  "description": "Answer 12 questions to discover what Brawl Stars battle role you'll dominate in the future!",
+  "description": "Answer 12 questions to discover which Brawl Stars battle role fits your playstyle!",
   "questions": [
     {
       "text": "When your team is losing a critical Brawl Ball match, you...",
@@ -351,7 +351,6 @@
     "🎮"
   ],
   "likes": 42280,
-  "tests": 2487097,
   "subject_meta": {
     "is_character_list": true
   },

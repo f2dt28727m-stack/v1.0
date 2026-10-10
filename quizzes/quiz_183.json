@@ -1,6 +1,6 @@
 {
   "quizId": 183,
-  "title": "Which Disney Character Is Your Perfect Soulmate?",
+  "title": "Which Disney Character Is Your Soulmate?",
   "category": "match",
   "description": "Answer 12 questions to discover your Disney soulmate!",
   "tags": [
@@ -352,7 +352,6 @@
     "✨"
   ],
   "likes": 24272,
-  "tests": 2427250,
   "subject_meta": {
     "is_character_list": true
   },

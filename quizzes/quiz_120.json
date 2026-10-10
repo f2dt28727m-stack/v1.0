@@ -1,6 +1,6 @@
 {
   "quizId": 120,
-  "title": "Which Fortnite Character Is Your Perfect Soulmate Match?",
+  "title": "Which Fortnite Character Is Your Soulmate?",
   "category": "which",
   "tags": [
     "Fortnite",
@@ -9,7 +9,7 @@
     "Personality",
     "Video Games"
   ],
-  "description": "Answer 12 questions to discover which Fortnite character is your ideal soulmate match, based on your inner traits and instinctual choices!",
+  "description": "Answer 12 questions to discover which Fortnite character is your soulmate, based on your in-game choices!",
   "questions": [
     {
       "text": "When you land on the Fortnite island, your first move is to...",
@@ -352,7 +352,6 @@
     "💥"
   ],
   "likes": 25707,
-  "tests": 2337061,
   "subject_meta": {
     "is_character_list": true
   },
