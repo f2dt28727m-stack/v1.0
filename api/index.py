@@ -1746,17 +1746,14 @@ def build_sitemap_xml():
     for qid in sorted(_quizzes.keys()):
         if not is_live_quiz(qid):
             continue
-        # Use file mtime for accurate lastmod signal
-        fpath = os.path.join(BASE_DIR, 'quizzes', f'{qid}.json')
-        if os.path.exists(fpath):
-            mtime = datetime.fromtimestamp(os.path.getmtime(fpath), tz=timezone.utc)
-            lastmod = mtime.strftime('%Y-%m-%d')
-        else:
-            lastmod = home_lastmod
+        # No trustworthy per-page date source: quiz JSON has no updatedAt
+        # field, and file mtime on the deploy platform reflects the git
+        # import date (untouched pages show 2018, older than the site).
+        # Google treats a WRONG lastmod worse than a missing one, so omit
+        # lastmod rather than emit a fake date (sitemaps.org: it is optional).
         urls.append(
             f"""  <url>
     <loc>{SITE_URL}/quiz/{h(qid)}</loc>
-    <lastmod>{lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>"""
