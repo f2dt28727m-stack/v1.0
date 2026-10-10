@@ -293,9 +293,9 @@ def _upstash_incr(key, window_s):
 
 # ---------- Completion counter (T+1 reporting) ----------
 # 每天一个 hash: complete:YYYY-MM-DD -> { quiz_id: count }
-# 100 天 TTL，hash 内字段在第一次写入后由 HINCRBY 自动维护。
+# 永久保留（不设 TTL）：这是问卷完成数的唯一原始计数，落表归档前不能丢。
+# 体量极小（~200 字段/天 ≈ 每年几 MB），daily.csv 接口可回补任意历史日期。
 # 这是 T+1 自建计数的数据层：写得轻、读得快、零额外依赖。
-COMPLETION_TTL_SECONDS = 86400 * 100  # 100 天
 
 
 def _record_completion(quiz_id):
@@ -307,10 +307,10 @@ def _record_completion(quiz_id):
     try:
         date_key = datetime.now(timezone.utc).strftime('%Y-%m-%d')
         hash_key = f"complete:{date_key}"
-        # HINCRBY field quiz_id 1 + EXPIRE hash_key 100d. Pipeline = 1 round trip.
+        # HINCRBY field quiz_id 1. Permanent key (no EXPIRE) — daily T+1
+        # archival to CSV is the backup; Redis must not age data out first.
         body = json.dumps([
             ["HINCRBY", hash_key, quiz_id, 1],
-            ["EXPIRE", hash_key, COMPLETION_TTL_SECONDS],
         ])
         req = urllib.request.Request(
             UPSTASH_URL.rstrip('/') + '/pipeline',
