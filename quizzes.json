@@ -162,24 +162,6 @@
       "likes": 26367
     },
     {
-      "quiz_id": "quiz_103",
-      "title": "What Fortnite Playstyle Personality Are You?",
-      "category": "which",
-      "tags": [
-        "Fortnite",
-        "Gaming Personality",
-        "Playstyle",
-        "MBTI",
-        "Video Games"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 29124
-    },
-    {
       "quiz_id": "quiz_105",
       "title": "Which Roblox Character Is Your Perfect Match?",
       "category": "which",
@@ -413,24 +395,6 @@
       "likes": 49533
     },
     {
-      "quiz_id": "quiz_120",
-      "title": "Which Fortnite Character Is Your Soulmate?",
-      "category": "which",
-      "tags": [
-        "Fortnite",
-        "Soulmate Match",
-        "MBTI",
-        "Personality",
-        "Video Games"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 25707
-    },
-    {
       "quiz_id": "quiz_121",
       "title": "Which Fortnite Character Matches Your Personality?",
       "category": "which",
@@ -442,119 +406,11 @@
         "Character Quiz"
       ],
       "emoji": [
-        "🏝️",
         "🎮",
-        "💥"
+        "🏆",
+        "🔫"
       ],
-      "likes": 28404
-    },
-    {
-      "quiz_id": "quiz_122",
-      "title": "What Fortnite Type Are You?",
-      "category": "type",
-      "tags": [
-        "Fortnite",
-        "Gaming",
-        "Personality",
-        "MBTI",
-        "Playstyle"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 31161
-    },
-    {
-      "quiz_id": "quiz_123",
-      "title": "How Much Do You Embody Fortnite's Core Vibes?",
-      "category": "how",
-      "tags": [
-        "Fortnite",
-        "Gaming Personality",
-        "Playstyle Strategy",
-        "MBTI",
-        "Virtual World Mindset"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 33978
-    },
-    {
-      "quiz_id": "quiz_124",
-      "title": "What’s your Hidden Fortnite Trait Type?",
-      "category": "hidden",
-      "tags": [
-        "Fortnite",
-        "Hidden Traits",
-        "Gaming Personality",
-        "MBTI",
-        "Gaming Traits"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 36855
-    },
-    {
-      "quiz_id": "quiz_125",
-      "title": "What Would You Do in a Fortnite Match? Find Your Gaming Personality",
-      "category": "whatwould",
-      "tags": [
-        "Fortnite",
-        "Gaming Playstyle",
-        "Personality Test",
-        "MBTI",
-        "What Would You Do"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 39793
-    },
-    {
-      "quiz_id": "quiz_126",
-      "title": "What Fortnite Playstyle Type Are You?",
-      "category": "which",
-      "tags": [
-        "Fortnite",
-        "Gaming",
-        "Playstyle",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 42790
-    },
-    {
-      "quiz_id": "quiz_127",
-      "title": "What’s Your Future Fortnite Battle Role?",
-      "category": "future",
-      "tags": [
-        "Fortnite",
-        "Battle Royale",
-        "Future Role",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 45847
+      "likes": 0
     },
     {
       "quiz_id": "quiz_128",
@@ -1995,7 +1851,7 @@
     },
     {
       "quiz_id": "quiz_27",
-      "title": "Which SZA Song Matches Your Personality?",
+      "title": "SZA MBTI Quiz: Which SZA Song Matches Your Personality?",
       "category": "which_x",
       "tags": [
         "SZA",
@@ -2140,24 +1996,6 @@
       "likes": 32829
     },
     {
-      "quiz_id": "quiz_39",
-      "title": "What’s Your Olivia Rodrigo Core Personality Type?",
-      "category": "type",
-      "tags": [
-        "Olivia Rodrigo",
-        "Personality Test",
-        "MBTI",
-        "Pop Culture",
-        "Music-Inspired"
-      ],
-      "emoji": [
-        "🎸",
-        "💭",
-        "🎤"
-      ],
-      "likes": 35498
-    },
-    {
       "quiz_id": "quiz_40",
       "title": "What’s your hidden Olivia Rodrigo-inspired inner trait?",
       "category": "hidden",
@@ -2195,7 +2033,7 @@
     },
     {
       "quiz_id": "quiz_42",
-      "title": "What Olivia Rodrigo Personality Type Are You?",
+      "title": "What's Your Olivia Rodrigo MBTI Personality Type?",
       "category": "which",
       "tags": [
         "Olivia Rodrigo",
@@ -2267,7 +2105,7 @@
     },
     {
       "quiz_id": "quiz_46",
-      "title": "Which Euphoria Character Are You?",
+      "title": "What Euphoria Character Am I?",
       "category": "which",
       "tags": [
         "Euphoria",
@@ -2893,78 +2731,6 @@
         "🌻"
       ],
       "likes": 23385
-    },
-    {
-      "quiz_id": "quiz_81",
-      "title": "What’s Your Fortnite Playstyle Personality?",
-      "category": "which",
-      "tags": [
-        "Fortnite",
-        "Gaming",
-        "Playstyle",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 25724
-    },
-    {
-      "quiz_id": "quiz_82",
-      "title": "How Fortnite Are You?",
-      "category": "how",
-      "tags": [
-        "Fortnite",
-        "Gaming Personality",
-        "MBTI",
-        "Playstyle Test",
-        "Inner Traits"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 28123
-    },
-    {
-      "quiz_id": "quiz_83",
-      "title": "What’s Your Hidden Fortnite Gaming Trait?",
-      "category": "hidden",
-      "tags": [
-        "Fortnite",
-        "Gaming Personality",
-        "Hidden Trait",
-        "MBTI",
-        "Gaming Strategy"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 30582
-    },
-    {
-      "quiz_id": "quiz_86",
-      "title": "What’s Your Future Fortnite Battle Destiny?",
-      "category": "future",
-      "tags": [
-        "Fortnite",
-        "Battle Royale",
-        "Future Destiny",
-        "MBTI",
-        "Personality"
-      ],
-      "emoji": [
-        "🏝️",
-        "🎮",
-        "💥"
-      ],
-      "likes": 38318
     },
     {
       "quiz_id": "quiz_87",

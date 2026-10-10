@@ -1,10 +1,10 @@
 {
   "quizId": 27,
-  "title": "Which SZA Song Matches Your Personality?",
+  "title": "SZA MBTI Quiz: Which SZA Song Matches Your Personality?",
   "category": "which_x",
   "category_name": "Which X Are You?",
   "language": "English",
-  "description": "Discover which SZA song matches your personality!",
+  "description": "What is SZA's MBTI type, and which SZA song matches yours? Take this 12-question quiz to compare your personality with SZA's fan-typed MBTI.",
   "tags": [
     "SZA",
     "Music",
@@ -14,266 +14,254 @@
   ],
   "questions": [
     {
-      "qId": 1,
-      "text": "Your ideal Friday night is...",
+      "text": "Your friends drag you out when all you wanted was to hide. Once you're there...",
       "options": [
         {
-          "text": "Going to a club or party with friends",
+          "text": "You somehow become the life of the whole function",
           "score": "E"
         },
         {
-          "text": "Cozy night in with a good playlist",
+          "text": "You find one person and vibe quietly in a corner",
           "score": "I"
         },
         {
-          "text": "A romantic dinner date",
-          "score": "F"
+          "text": "You're dancing on the couch by midnight",
+          "score": "E"
         },
         {
-          "text": "Working on your passion project",
+          "text": "You sneak out early for the quiet drive home alone",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "A SZA song comes on at the party. You...",
+      "options": [
+        {
+          "text": "Scream every lyric and pull everyone around you into it",
+          "score": "E"
+        },
+        {
+          "text": "Mumble along in your own little bubble",
+          "score": "I"
+        },
+        {
+          "text": "Turn it into a full group performance",
+          "score": "E"
+        },
+        {
+          "text": "Save it for your headphones later, where it hits right",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When heartbreak hits, how do you actually handle it?",
+      "options": [
+        {
+          "text": "Call every friend and talk in circles until it makes sense",
+          "score": "E"
+        },
+        {
+          "text": "Go silent and disappear into music alone",
+          "score": "I"
+        },
+        {
+          "text": "Go out and flirt with the first person who looks your way",
+          "score": "E"
+        },
+        {
+          "text": "Stay in bed replaying every moment privately",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "Looking back at a relationship, you fixate on...",
+      "options": [
+        {
+          "text": "The actual moments: the texts, the dates, the things they really did",
+          "score": "S"
+        },
+        {
+          "text": "What the whole thing meant about who you are",
+          "score": "N"
+        },
+        {
+          "text": "What actually happened, not what you imagined at 3am",
+          "score": "S"
+        },
+        {
+          "text": "The hidden patterns you can now read into every chapter",
           "score": "N"
         }
       ]
     },
     {
-      "qId": 2,
-      "text": "When you're sad, you...",
+      "text": "Your dream life looks like...",
       "options": [
         {
-          "text": "Put on SZA and cry it out",
-          "score": "F"
+          "text": "Real, concrete things: a home, stability, more good days",
+          "score": "S"
         },
         {
-          "text": "Keep busy to distract yourself",
-          "score": "E"
+          "text": "Reinventing yourself completely, again and again",
+          "score": "N"
         },
         {
-          "text": "Journal and reflect privately",
-          "score": "I"
+          "text": "Small perfect moments you can actually touch",
+          "score": "S"
         },
         {
-          "text": "Analyze why you feel this way",
+          "text": "A version of you nobody has ever met before",
           "score": "N"
         }
       ]
     },
     {
-      "qId": 3,
-      "text": "Your friends come to you for...",
+      "text": "A new SZA track drops. First thing you do is...",
       "options": [
         {
-          "text": "Honest advice, even if it's hard to hear",
+          "text": "Fixate on the beat and replay the one exact line you love",
+          "score": "S"
+        },
+        {
+          "text": "Map the whole song onto your life story",
+          "score": "N"
+        },
+        {
+          "text": "Learn every lyric word for word",
+          "score": "S"
+        },
+        {
+          "text": "Decide it's about one specific chapter of your life",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "An ex texts you at 1am. You...",
+      "options": [
+        {
+          "text": "Calculate the response that costs you the least dignity",
           "score": "T"
         },
         {
-          "text": "A shoulder to cry on and empathy",
+          "text": "Feel it straight in your chest and answer honestly",
           "score": "F"
         },
         {
-          "text": "Fun and good vibes",
-          "score": "E"
+          "text": "Leave it on read — logically, it changes nothing",
+          "score": "T"
         },
         {
-          "text": "Deep philosophical discussions",
-          "score": "N"
+          "text": "Reply anyway, because emotions don't run on logic",
+          "score": "F"
         }
       ]
     },
     {
-      "qId": 4,
-      "text": "In a relationship, you...",
+      "text": "A friend keeps going back to someone who's bad for them. You...",
       "options": [
         {
-          "text": "Give your all but keep some independence",
-          "score": "N"
+          "text": "Lay out the evidence as plainly as you can",
+          "score": "T"
         },
         {
-          "text": "Go all in - full commitment",
+          "text": "Listen and support, knowing feelings aren't a choice",
           "score": "F"
         },
         {
-          "text": "Take it slow and see where it goes",
+          "text": "Tell them straight exactly what you would do",
+          "score": "T"
+        },
+        {
+          "text": "Hold them through every repeat of the cycle",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "You decide whether to forgive someone based on...",
+      "options": [
+        {
+          "text": "Whether the math of that relationship still works",
+          "score": "T"
+        },
+        {
+          "text": "How much love you still genuinely have for them",
+          "score": "F"
+        },
+        {
+          "text": "Their actions and track record, period",
+          "score": "T"
+        },
+        {
+          "text": "Your gut, your heart, and the way they make you feel",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your love life is mostly...",
+      "options": [
+        {
+          "text": "A plan: you know what you want and refuse to settle",
+          "score": "J"
+        },
+        {
+          "text": "A beautiful mess you navigate purely by feeling",
           "score": "P"
         },
         {
-          "text": "Want clear labels and expectations",
+          "text": "Standards and boundaries you defend",
           "score": "J"
+        },
+        {
+          "text": "Situationships that shift with the tide",
+          "score": "P"
         }
       ]
     },
     {
-      "qId": 5,
-      "text": "Your go-to karaoke song is...",
+      "text": "When you're falling for someone, you...",
       "options": [
         {
-          "text": "An emotional ballad",
-          "score": "F"
+          "text": "Decide fast and commit to the feeling",
+          "score": "J"
         },
         {
-          "text": "An upbeat banger to get the crowd hype",
-          "score": "E"
-        },
-        {
-          "text": "Something chill I can sing along to",
-          "score": "I"
-        },
-        {
-          "text": "A rap verse to show off",
-          "score": "E"
-        }
-      ]
-    },
-    {
-      "qId": 6,
-      "text": "When someone ghosts you, you...",
-      "options": [
-        {
-          "text": "Blast 'Kill Bill' and feel empowered",
-          "score": "T"
-        },
-        {
-          "text": "Listen to 'Good Days' and process it",
-          "score": "F"
-        },
-        {
-          "text": "Move on quickly - their loss",
-          "score": "E"
-        },
-        {
-          "text": "Analyze what went wrong",
-          "score": "N"
-        }
-      ]
-    },
-    {
-      "qId": 7,
-      "text": "Your aesthetic is best described as...",
-      "options": [
-        {
-          "text": "Effortlessly cool - denim and sneakers",
-          "score": "S"
-        },
-        {
-          "text": "Moody and mysterious - all black",
-          "score": "N"
-        },
-        {
-          "text": "Vibrant and bold - making statements",
-          "score": "E"
-        },
-        {
-          "text": "Comfortable and cozy - loungewear queen",
-          "score": "I"
-        }
-      ]
-    },
-    {
-      "qId": 8,
-      "text": "You make decisions based on...",
-      "options": [
-        {
-          "text": "How it makes you feel emotionally",
-          "score": "F"
-        },
-        {
-          "text": "What's logically the best choice",
-          "score": "T"
-        },
-        {
-          "text": "What feels right in the moment",
+          "text": "Let it unfold messily, mood by mood",
           "score": "P"
         },
         {
-          "text": "How it aligns with your values",
-          "score": "N"
-        }
-      ]
-    },
-    {
-      "qId": 9,
-      "text": "Your perfect Sunday is...",
-      "options": [
-        {
-          "text": "Self-care day - face mask, journaling, SZA",
-          "score": "I"
-        },
-        {
-          "text": "Brunch with a big group of friends",
-          "score": "E"
-        },
-        {
-          "text": "Working on your side hustle",
+          "text": "Define what it is early so nobody gets played",
           "score": "J"
         },
         {
-          "text": "Exploring a new city or activity",
-          "score": "N"
+          "text": "Keep your options open as long as you possibly can",
+          "score": "P"
         }
       ]
     },
     {
-      "qId": 10,
-      "text": "When someone asks what you're up to, you usually say...",
+      "text": "Your playlist for the week is...",
       "options": [
         {
-          "text": "Just vibing (even if you're overthinking)",
-          "score": "N"
+          "text": "Carefully curated, and you stick to it",
+          "score": "J"
         },
         {
-          "text": "Working on myself",
-          "score": "I"
+          "text": "Total chaos, updated hourly by mood",
+          "score": "P"
         },
         {
-          "text": "Same old, what about you?",
-          "score": "S"
+          "text": "The same songs on repeat until they've done their job",
+          "score": "J"
         },
         {
-          "text": "Something exciting I'm planning!",
-          "score": "E"
-        }
-      ]
-    },
-    {
-      "qId": 11,
-      "text": "Your love language is...",
-      "options": [
-        {
-          "text": "Quality time - being present together",
-          "score": "F"
-        },
-        {
-          "text": "Words of affirmation - telling me how you feel",
-          "score": "F"
-        },
-        {
-          "text": "Physical touch - cuddles and affection",
-          "score": "E"
-        },
-        {
-          "text": "Acts of service - doing things for me",
-          "score": "S"
-        }
-      ]
-    },
-    {
-      "qId": 12,
-      "text": "When you're in your feels, you...",
-      "options": [
-        {
-          "text": "Write something - poem, journal, lyrics",
-          "score": "N"
-        },
-        {
-          "text": "Call your best friend",
-          "score": "E"
-        },
-        {
-          "text": "Listen to music and sit with it",
-          "score": "I"
-        },
-        {
-          "text": "Channel it into productivity",
-          "score": "T"
+          "text": "Twenty genres held together by pure vibes",
+          "score": "P"
         }
       ]
     }

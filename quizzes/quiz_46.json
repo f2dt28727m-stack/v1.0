@@ -1,6 +1,6 @@
 {
   "quizId": 46,
-  "title": "Which Euphoria Character Are You?",
+  "title": "What Euphoria Character Am I?",
   "category": "which",
   "tags": [
     "Euphoria",
@@ -9,257 +9,257 @@
     "MBTI",
     "Character Alignment"
   ],
-  "description": "Answer 12 questions to discover which Euphoria character you align with most based on your core traits and instincts!",
+  "description": "Asking \"what Euphoria character am I?\" Answer 12 questions to find out which Euphoria character — Rue, Jules, Maddy, Cassie and more — matches your personality.",
   "questions": [
     {
-      "text": "When your friend is spiraling after a bad breakup, you first...",
+      "text": "Jules texts you about a last-minute party across town tonight. You...",
       "options": [
         {
-          "text": "Map out a step-by-step plan to help them rebuild their routine",
-          "score": "T"
-        },
-        {
-          "text": "Pull them into a quiet corner and ask them to unpack every feeling they’re having",
-          "score": "F"
-        },
-        {
-          "text": "Bring over their favorite snack and a movie to distract them from the stress",
-          "score": "S"
-        },
-        {
-          "text": "Ask them to talk about the root of their pain and help them reframe their perspective",
-          "score": "N"
-        }
-      ]
-    },
-    {
-      "text": "At a chaotic house party, you find yourself...",
-      "options": [
-        {
-          "text": "Hiding in a quiet bedroom scrolling through your phone, only joining conversations if invited",
-          "score": "I"
-        },
-        {
-          "text": "Moving from group to group, laughing loudly and making new acquaintances",
+          "text": "Say yes instantly and blow up the group chat getting everyone hyped",
           "score": "E"
         },
         {
-          "text": "People-watching and analyzing the dynamics between everyone in the room",
-          "score": "N"
+          "text": "Want to go, but need an hour alone to recharge before facing a house full of people",
+          "score": "I"
         },
         {
-          "text": "Sticking close to your best friend, helping them refill their drink and keeping an eye on their mood",
-          "score": "S"
+          "text": "Spend the whole night bouncing between groups, meeting half the party",
+          "score": "E"
+        },
+        {
+          "text": "Find one person and have one deep conversation in a corner all night",
+          "score": "I"
         }
       ]
     },
     {
-      "text": "When you have a big project due, you approach it by...",
+      "text": "It's the first day back at school after a long, messy summer. You...",
       "options": [
         {
-          "text": "Jumping in and letting ideas flow, adjusting your plan as you go",
-          "score": "P"
+          "text": "Work the hallway hugging everyone and collecting all the gossip",
+          "score": "E"
         },
         {
-          "text": "Creating a detailed timeline with specific deadlines for each task",
+          "text": "Keep your headphones on and slide to class quietly",
+          "score": "I"
+        },
+        {
+          "text": "Organize the group lunch table before the bell even rings",
+          "score": "E"
+        },
+        {
+          "text": "Rehearse small talk in your head, saving energy for close friends",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "After a huge fight with someone you love, you...",
+      "options": [
+        {
+          "text": "Need to talk it out loud immediately, in person if possible",
+          "score": "E"
+        },
+        {
+          "text": "Disappear to process alone before you say anything",
+          "score": "I"
+        },
+        {
+          "text": "Blow up their phone with voice notes until it's settled",
+          "score": "E"
+        },
+        {
+          "text": "Write down everything you feel and only share it when you're ready",
+          "score": "I"
+        }
+      ]
+    },
+    {
+      "text": "When things explode inside your friend group, you...",
+      "options": [
+        {
+          "text": "Deal with exactly what's in front of you, one concrete problem at a time",
+          "score": "S"
+        },
+        {
+          "text": "Look for the deeper pattern underneath all the drama",
+          "score": "N"
+        },
+        {
+          "text": "Trust what people actually do, not what they might secretly mean",
+          "score": "S"
+        },
+        {
+          "text": "Read between every line — sometimes into stories that aren't there",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "Reality gets too heavy and you need an escape. You reach for...",
+      "options": [
+        {
+          "text": "Something real and physical: a late-night drive, a snack run, a familiar place",
+          "score": "S"
+        },
+        {
+          "text": "A whole fantasy world you build in your head about who you could be",
+          "score": "N"
+        },
+        {
+          "text": "Rewatching moments and shows that already feel like home",
+          "score": "S"
+        },
+        {
+          "text": "Dreaming up an entirely new identity for yourself",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "You're recounting last weekend's chaos to someone. You...",
+      "options": [
+        {
+          "text": "Give the exact facts in the order they actually happened",
+          "score": "S"
+        },
+        {
+          "text": "Turn it into a bigger story about what it all meant",
+          "score": "N"
+        },
+        {
+          "text": "Stick to what people really said and did",
+          "score": "S"
+        },
+        {
+          "text": "Connect it to old patterns running through your whole friend group",
+          "score": "N"
+        }
+      ]
+    },
+    {
+      "text": "A friend shows up at your door at 2am after a terrible decision. You...",
+      "options": [
+        {
+          "text": "Tell them plainly what they need to do to fix it",
+          "score": "T"
+        },
+        {
+          "text": "Hold them first — questions can wait",
+          "score": "F"
+        },
+        {
+          "text": "Walk through the consequences step by step so they see a way out",
+          "score": "T"
+        },
+        {
+          "text": "Tell them nothing they do could make you love them less",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Someone betrays you, then comes back with an apology. You decide on...",
+      "options": [
+        {
+          "text": "Whether their actions actually changed — not the words",
+          "score": "T"
+        },
+        {
+          "text": "How genuine the apology feels in your chest",
+          "score": "F"
+        },
+        {
+          "text": "Whether trust can realistically be rebuilt on evidence",
+          "score": "T"
+        },
+        {
+          "text": "How much you still genuinely care about them",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "A fight breaks out in the group chat. You...",
+      "options": [
+        {
+          "text": "State your case with logic and refuse to sugarcoat it",
+          "score": "T"
+        },
+        {
+          "text": "Smooth it over so nobody gets hurt any worse",
+          "score": "F"
+        },
+        {
+          "text": "Point out exactly where people's reasoning doesn't add up",
+          "score": "T"
+        },
+        {
+          "text": "Message whoever seems most hurt and check on them privately",
+          "score": "F"
+        }
+      ]
+    },
+    {
+      "text": "Your life right now is best described as...",
+      "options": [
+        {
+          "text": "Planned: goals, routines, a vision you're executing",
           "score": "J"
         },
         {
-          "text": "Brainstorming all possible angles before choosing the most creative approach",
-          "score": "N"
-        },
-        {
-          "text": "Starting with the most straightforward task to build momentum",
-          "score": "S"
-        }
-      ]
-    },
-    {
-      "text": "If you find out someone lied to you, you react by...",
-      "options": [
-        {
-          "text": "Focusing on why they lied and whether the relationship is still worth saving",
-          "score": "T"
-        },
-        {
-          "text": "Feeling a deep sense of betrayal and needing space to process the hurt",
-          "score": "F"
-        },
-        {
-          "text": "Reflecting alone on how this changes your perception of them",
-          "score": "I"
-        },
-        {
-          "text": "Confronting them immediately to clear the air right away",
-          "score": "E"
-        }
-      ]
-    },
-    {
-      "text": "On a lazy Sunday, you’d most likely spend it...",
-      "options": [
-        {
-          "text": "Reading a book by the window and jotting down thoughts in a journal",
-          "score": "I"
-        },
-        {
-          "text": "Tackling a DIY project around the house to make your space more functional",
-          "score": "S"
-        },
-        {
-          "text": "Hosting a small gathering with friends, cooking and chatting for hours",
-          "score": "E"
-        },
-        {
-          "text": "Daydreaming about future adventures and planning a fictional story in your head",
-          "score": "N"
-        }
-      ]
-    },
-    {
-      "text": "When making a big decision, you rely most on...",
-      "options": [
-        {
-          "text": "Past experiences that show which choice worked best before",
-          "score": "S"
-        },
-        {
-          "text": "Your gut feeling about which choice aligns with your long-term vision",
-          "score": "N"
-        },
-        {
-          "text": "The logical pros and cons of each possible choice",
-          "score": "T"
-        },
-        {
-          "text": "How the decision will make you and the people you care about feel",
-          "score": "F"
-        }
-      ]
-    },
-    {
-      "text": "When you’re stressed, you cope by...",
-      "options": [
-        {
-          "text": "Taking a long walk alone to clear your head without distractions",
-          "score": "I"
-        },
-        {
-          "text": "Calling a friend and venting about everything that’s bothering you",
-          "score": "E"
-        },
-        {
-          "text": "Doing a repetitive task like folding laundry to ground yourself",
-          "score": "S"
-        },
-        {
-          "text": "Drawing or writing to express your feelings in a creative way",
-          "score": "N"
-        }
-      ]
-    },
-    {
-      "text": "If you disagree with a group’s plan, you’ll...",
-      "options": [
-        {
-          "text": "Go along with the plan to keep the group happy, even if you don’t agree",
-          "score": "F"
-        },
-        {
-          "text": "Voice your alternative idea clearly and explain why it might be better",
-          "score": "T"
-        },
-        {
-          "text": "Suggest a flexible middle ground that combines everyone’s ideas",
+          "text": "Open: whatever happens, you'll figure it out as you go",
           "score": "P"
         },
         {
-          "text": "Stick to the original plan since it’s already been decided",
+          "text": "A list of things you're determined to achieve on a timeline",
           "score": "J"
+        },
+        {
+          "text": "A chain of vibes and opportunities you chase as they appear",
+          "score": "P"
         }
       ]
     },
     {
-      "text": "You’re most drawn to people who...",
+      "text": "When your whole world suddenly feels unstable, you...",
       "options": [
         {
-          "text": "Are reliable and show up consistently in small, meaningful ways",
-          "score": "S"
+          "text": "Rebuild a routine fast and control everything you can",
+          "score": "J"
         },
         {
-          "text": "Listen deeply and understand your quiet, unspoken thoughts",
-          "score": "I"
-        },
-        {
-          "text": "Challenge you to think differently and see the world from new perspectives",
-          "score": "N"
-        },
-        {
-          "text": "Can keep up with your fast-paced, energetic conversations and adventures",
-          "score": "E"
-        }
-      ]
-    },
-    {
-      "text": "When learning something new, you prefer to...",
-      "options": [
-        {
-          "text": "Experiment with different methods and learn through trial and error",
-          "score": "N"
-        },
-        {
-          "text": "Follow a step-by-step guide and practice each skill until you master it",
-          "score": "S"
-        },
-        {
-          "text": "Take your time, exploring related topics that spark your curiosity along the way",
+          "text": "Ride the chaos until things start to become clear",
           "score": "P"
         },
         {
-          "text": "Set a strict schedule to ensure you learn it quickly and efficiently",
+          "text": "Make strict rules for yourself and hold to them",
           "score": "J"
+        },
+        {
+          "text": "Keep every option open — being locked down makes it worse",
+          "score": "P"
         }
       ]
     },
     {
-      "text": "If you accidentally hurt someone’s feelings, you...",
+      "text": "By Friday afternoon, your weekend is...",
       "options": [
         {
-          "text": "Explain your reasoning clearly to help them understand your perspective",
-          "score": "T"
+          "text": "Already booked around a solid plan",
+          "score": "J"
         },
         {
-          "text": "Do something kind for them without saying much, letting actions speak louder",
-          "score": "S"
+          "text": "A blank page you'll fill entirely on instinct",
+          "score": "P"
         },
         {
-          "text": "Reflect on why you said what you did and make a note to be more careful next time",
-          "score": "N"
+          "text": "Structured around the people and goals that matter most",
+          "score": "J"
         },
         {
-          "text": "Apologize sincerely and ask how you can make it right for them",
-          "score": "F"
-        }
-      ]
-    },
-    {
-      "text": "Your ideal future involves...",
-      "options": [
-        {
-          "text": "Having a quiet, peaceful life where you can pursue your personal passions",
-          "score": "I"
-        },
-        {
-          "text": "Building a tight-knit community of friends and family around you",
-          "score": "E"
-        },
-        {
-          "text": "Creating something meaningful that leaves a lasting impact on the world",
-          "score": "N"
-        },
-        {
-          "text": "Achieving concrete goals that improve your daily life and the lives of others",
-          "score": "S"
+          "text": "Happening somewhere out there — and you'll find it",
+          "score": "P"
         }
       ]
     }

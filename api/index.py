@@ -99,6 +99,8 @@ QUIZ_REDIRECTS = {
     'quiz_125': 'quiz_121',
     'quiz_126': 'quiz_121',
     'quiz_127': 'quiz_121',
+    # Olivia Rodrigo personality-type cannibalization -> MBTI-aligned page
+    'quiz_39':  'quiz_42',
 }
 
 # Pages permanently removed with NO equivalent destination. Kept as an explicit
